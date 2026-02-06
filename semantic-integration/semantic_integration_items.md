@@ -330,298 +330,298 @@ Full citation: E.D. Hirsch, Jr., et al. The New Dictionary of Cultural Literacy.
   Stem 1: "George Washington" was the first president of the United States.
   Stem 2: The Continental Army served with "George Washington".
   Integration: The first president of the United States served with the Continental Army.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Abraham Lincoln" was the president during the Civil War.
   Stem 2: The Union Army served with "Abraham Lincoln".
   Integration: The president during the Civil War served with the Union Army.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Marie Curie" was a scientist who studied radioactivity.
   Stem 2: The Sorbonne awarded a degree to "Marie Curie".
   Integration: The scientist who studied radioactivity was awarded a degree by the Sorbonne.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Albert Einstein" was a scientist who developed the theory of relativity.
   Stem 2: Princeton University offered a job to "Albert Einstein".
   Integration: The scientist who developed the theory of relativity was offered a job by Princeton University.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
-  Stem 1: "Galileo Galilei" was an astronomer who used a telescope.
-  Stem 2: The Medici family gave support to "Galileo Galilei".
-  Integration: The astronomer who used a telescope was given support by the Medici family.
-  Source section: Background knowledge
+  Stem 1: "Queen Victoria" was a queen of the United Kingdom.
+  Stem 2: Buckingham Palace housed "Queen Victoria".
+  Integration: The queen of the United Kingdom was housed in Buckingham Palace.
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Isaac Newton" was a scientist who wrote about gravity.
   Stem 2: The Royal Society sent a letter to "Isaac Newton".
   Integration: The scientist who wrote about gravity was sent a letter by the Royal Society.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Charles Darwin" was a scientist who wrote about natural selection.
   Stem 2: HMS Beagle sailed with "Charles Darwin".
   Integration: The scientist who wrote about natural selection sailed with HMS Beagle.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Louis Pasteur" was a scientist who studied germs.
   Stem 2: The French Academy gave a prize to "Louis Pasteur".
   Integration: The scientist who studied germs was given a prize by the French Academy.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
-  Stem 1: "Alexander Graham Bell" was the inventor of the telephone.
-  Stem 2: The U.S. Patent Office granted a patent to "Alexander Graham Bell".
-  Integration: The inventor of the telephone was granted a patent by the U.S. Patent Office.
-  Source section: Background knowledge
+  Stem 1: "Benjamin Franklin" was a Founding Father.
+  Stem 2: The Continental Congress worked with "Benjamin Franklin".
+  Integration: The Founding Father worked with the Continental Congress.
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Thomas Edison" was the inventor of the light bulb.
   Stem 2: The U.S. Patent Office granted a patent to "Thomas Edison".
   Integration: The inventor of the light bulb was granted a patent by the U.S. Patent Office.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
-  Stem 1: "Nikola Tesla" was an inventor who worked with electricity.
-  Stem 2: Westinghouse offered a job to "Nikola Tesla".
-  Integration: The inventor who worked with electricity was offered a job by Westinghouse.
-  Source section: Background knowledge
+  Stem 1: "Thomas Jefferson" was the third president of the United States.
+  Stem 2: The Continental Congress worked with "Thomas Jefferson".
+  Integration: The third president of the United States worked with the Continental Congress.
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Henry Ford" was the founder of Ford Motor Company.
   Stem 2: The Model T was built by "Henry Ford".
   Integration: The founder of Ford Motor Company built the Model T.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Amelia Earhart" was a pilot who flew across the Atlantic.
   Stem 2: The Lockheed Electra flew with "Amelia Earhart".
   Integration: The pilot who flew across the Atlantic flew with the Lockheed Electra.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Charles Lindbergh" was a pilot who flew solo across the Atlantic.
   Stem 2: The Spirit of St. Louis flew with "Charles Lindbergh".
   Integration: The pilot who flew solo across the Atlantic flew with the Spirit of St. Louis.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Neil Armstrong" was the first person to walk on the Moon.
   Stem 2: Apollo 11 traveled with "Neil Armstrong".
   Integration: The first person to walk on the Moon traveled with Apollo 11.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
-  Stem 1: "Yuri Gagarin" was the first human in space.
-  Stem 2: Vostok 1 traveled with "Yuri Gagarin".
-  Integration: The first human in space traveled with Vostok 1.
-  Source section: Background knowledge
+  Stem 1: "Joan of Arc" was a hero of France.
+  Stem 2: The French army followed "Joan of Arc".
+  Integration: The hero of France was followed by the French army.
+  Source section: Dictionary entry
 
 - Relationship: People: Object
-  Stem 1: "Sally Ride" was the first American woman in space.
-  Stem 2: STS-7 flew with "Sally Ride".
-  Integration: The first American woman in space flew with STS-7.
-  Source section: Background knowledge
+  Stem 1: "Winston Churchill" was a prime minister of the United Kingdom.
+  Stem 2: The United States worked with "Winston Churchill".
+  Integration: The prime minister of the United Kingdom worked with the United States.
+  Source section: Dictionary entry
 
 - Relationship: People: Object
-  Stem 1: "Sacagawea" was a guide on the Lewis and Clark expedition.
-  Stem 2: Meriwether Lewis traveled with "Sacagawea".
-  Integration: The guide on the Lewis and Clark expedition traveled with Meriwether Lewis.
-  Source section: Background knowledge
+  Stem 1: "Cleopatra" was a queen of Egypt.
+  Stem 2: Julius Caesar met with "Cleopatra".
+  Integration: The queen of Egypt was met with by Julius Caesar.
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Harriet Tubman" was a leader of the Underground Railroad.
   Stem 2: The Union Army worked with "Harriet Tubman".
   Integration: The leader of the Underground Railroad worked with the Union Army.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Rosa Parks" was a civil rights activist who refused to give up her seat.
   Stem 2: The Montgomery Bus Boycott stood with "Rosa Parks".
   Integration: The civil rights activist who refused to give up her seat stood with the Montgomery Bus Boycott.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
-  Stem 1: "Martin Luther King Jr." was a leader of the civil rights movement.
-  Stem 2: The Southern Christian Leadership Conference worked with "Martin Luther King Jr.".
-  Integration: The leader of the civil rights movement worked with the Southern Christian Leadership Conference.
-  Source section: Background knowledge
+  Stem 1: "Nelson Mandela" was the first president of South Africa after apartheid.
+  Stem 2: South Africa elected "Nelson Mandela".
+  Integration: The first president of South Africa after apartheid was elected by South Africa.
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Susan B. Anthony" was a leader of the women's suffrage movement.
   Stem 2: The National Woman Suffrage Association worked with "Susan B. Anthony".
   Integration: The leader of the women's suffrage movement worked with the National Woman Suffrage Association.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "John F. Kennedy" was a U.S. president who supported the Moon mission.
   Stem 2: NASA worked with "John F. Kennedy".
   Integration: The U.S. president who supported the Moon mission worked with NASA.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Franklin D. Roosevelt" was the president who started the New Deal.
   Stem 2: Congress worked with "Franklin D. Roosevelt".
   Integration: The president who started the New Deal worked with Congress.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
-  Stem 1: "Cesar Chavez" was a labor leader who founded the United Farm Workers.
-  Stem 2: The United Farm Workers worked with "Cesar Chavez".
-  Integration: The labor leader who founded the United Farm Workers worked with the United Farm Workers.
-  Source section: Background knowledge
+  Stem 1: "William Shakespeare" was a playwright who wrote Hamlet.
+  Stem 2: The Lord Chamberlain's Men worked with "William Shakespeare".
+  Integration: The playwright who wrote Hamlet worked with the Lord Chamberlain's Men.
+  Source section: Dictionary entry
 
 - Relationship: People: Object
-  Stem 1: "Jackie Robinson" was the first African American in Major League Baseball.
-  Stem 2: The Brooklyn Dodgers signed "Jackie Robinson" to the team.
-  Integration: The first African American in Major League Baseball was signed to the team by the Brooklyn Dodgers.
-  Source section: Background knowledge
+  Stem 1: "Leonardo da Vinci" was a painter of the Mona Lisa.
+  Stem 2: The Duke of Milan hired "Leonardo da Vinci".
+  Integration: The painter of the Mona Lisa was hired by the Duke of Milan.
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Helen Keller" was a writer who was deaf and blind.
   Stem 2: Anne Sullivan worked with "Helen Keller".
   Integration: The writer who was deaf and blind worked with Anne Sullivan.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: People: Object
   Stem 1: "Ludwig van Beethoven" was the composer of Symphony No. 5.
   Stem 2: Symphony No. 5 was written by "Ludwig van Beethoven".
   Integration: The composer of Symphony No. 5 wrote Symphony No. 5.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Statue of Liberty" is a statue in New York Harbor.
   Stem 2: Ellis Island stands by the "Statue of Liberty".
   Integration: The statue in New York Harbor stands by Ellis Island.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
-  Stem 1: "Eiffel Tower" is a tower in Paris.
-  Stem 2: Gustave Eiffel worked on the "Eiffel Tower".
-  Integration: The tower in Paris was worked on by Gustave Eiffel.
-  Source section: Background knowledge
+  Stem 1: "Grand Canyon" is a canyon in Arizona.
+  Stem 2: Colorado River cuts "Grand Canyon".
+  Integration: The canyon in Arizona was cut by the Colorado River.
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Taj Mahal" is a marble tomb in India.
   Stem 2: Shah Jahan worked on the "Taj Mahal".
   Integration: The marble tomb in India was worked on by Shah Jahan.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Great Wall of China" is a long wall in China.
   Stem 2: The Qin Dynasty worked on the "Great Wall of China".
   Integration: The long wall in China was worked on by the Qin Dynasty.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Colosseum" is an arena in Rome.
   Stem 2: Ancient Rome worked on the "Colosseum".
   Integration: The arena in Rome was worked on by Ancient Rome.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Parthenon" is a temple in Athens.
   Stem 2: Pericles worked on the "Parthenon".
   Integration: The temple in Athens was worked on by Pericles.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Big Ben" is a bell in London.
   Stem 2: Westminster Bridge stands by "Big Ben".
   Integration: The bell in London stands by Westminster Bridge.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
-  Stem 1: "Great Sphinx of Giza" is a statue in Egypt.
-  Stem 2: The Pyramids of Giza stand by the "Great Sphinx of Giza".
-  Integration: The statue in Egypt stands by the Pyramids of Giza.
-  Source section: Background knowledge
+  Stem 1: "Washington Monument" is a monument in Washington, D.C.
+  Stem 2: The National Mall stands by the "Washington Monument".
+  Integration: The monument in Washington, D.C. stands by the National Mall.
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Mount Rushmore" is a monument in South Dakota.
   Stem 2: The Black Hills rise by "Mount Rushmore".
   Integration: The monument in South Dakota rises by the Black Hills.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Panama Canal" is a waterway in Panama.
   Stem 2: Gatun Lake lies by the "Panama Canal".
   Integration: The waterway in Panama lies by Gatun Lake.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
-  Stem 1: "Hoover Dam" is a dam on the Colorado River.
-  Stem 2: Lake Mead lies by "Hoover Dam".
-  Integration: The dam on the Colorado River lies by Lake Mead.
-  Source section: Background knowledge
+  Stem 1: "Mount Everest" is the highest mountain on Earth.
+  Stem 2: Nepal borders "Mount Everest".
+  Integration: The highest mountain on Earth is bordered by Nepal.
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Brooklyn Bridge" is a bridge in New York City.
   Stem 2: Manhattan stands by the "Brooklyn Bridge".
   Integration: The bridge in New York City stands by Manhattan.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Golden Gate Bridge" is a bridge in San Francisco.
   Stem 2: San Francisco Bay lies by the "Golden Gate Bridge".
   Integration: The bridge in San Francisco lies by San Francisco Bay.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Hubble Space Telescope" is a telescope in orbit.
   Stem 2: Space Shuttle Atlantis traveled to the "Hubble Space Telescope".
   Integration: The telescope in orbit was traveled to by Space Shuttle Atlantis.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
-  Stem 1: "James Webb Space Telescope" is a telescope in space.
-  Stem 2: Ariane 5 traveled with the "James Webb Space Telescope".
-  Integration: The telescope in space traveled with Ariane 5.
-  Source section: Background knowledge
+  Stem 1: "Suez Canal" is a waterway in Egypt.
+  Stem 2: The Red Sea connects to "Suez Canal".
+  Integration: The waterway in Egypt was connected to the Red Sea.
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
-  Stem 1: "Voyager 1" is a spacecraft launched from Earth.
-  Stem 2: The Deep Space Network sent a signal to "Voyager 1".
-  Integration: The spacecraft launched from Earth was sent a signal by the Deep Space Network.
-  Source section: Background knowledge
+  Stem 1: "Stonehenge" is a stone circle in England.
+  Stem 2: Salisbury Plain surrounds "Stonehenge".
+  Integration: The stone circle in England was surrounded by Salisbury Plain.
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
-  Stem 1: "Apollo 11" was a Moon mission.
-  Stem 2: Saturn V traveled with "Apollo 11".
-  Integration: The Moon mission traveled with Saturn V.
-  Source section: Background knowledge
+  Stem 1: "Mount Fuji" is a mountain in Japan.
+  Stem 2: Tokyo lies near "Mount Fuji".
+  Integration: The mountain in Japan was near Tokyo.
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Titanic" was a ship built in Belfast.
   Stem 2: White Star Line sailed with the "Titanic".
   Integration: The ship built in Belfast sailed with White Star Line.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Mayflower" was a ship that carried Pilgrims.
   Stem 2: The Pilgrims sailed on the "Mayflower".
   Integration: The ship that carried Pilgrims was sailed on by the Pilgrims.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Liberty Bell" is a bell in Philadelphia.
   Stem 2: Independence Hall stands by the "Liberty Bell".
   Integration: The bell in Philadelphia stands by Independence Hall.
-  Source section: Background knowledge
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
-  Stem 1: "Sydney Opera House" is a building in Australia.
-  Stem 2: Sydney Harbor lies by the "Sydney Opera House".
-  Integration: The building in Australia lies by Sydney Harbor.
-  Source section: Background knowledge
+  Stem 1: "Niagara Falls" is a waterfall on the U.S.-Canada border.
+  Stem 2: Ontario borders "Niagara Falls".
+  Integration: The waterfall on the U.S.-Canada border is bordered by Ontario.
+  Source section: Dictionary entry
 
 - Relationship: Object: Place
   Stem 1: "Lincoln Memorial" is a monument in Washington, D.C.
   Stem 2: The National Park Service works on the "Lincoln Memorial".
   Integration: The monument in Washington, D.C. was worked on by the National Park Service.
-  Source section: Background knowledge
+  Source section: Dictionary entry
