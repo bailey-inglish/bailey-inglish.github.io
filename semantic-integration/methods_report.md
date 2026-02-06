@@ -1,5 +1,7 @@
 # Methods Report
 
+[Home](index.md)
+
 ## Overview
 This dataset contains 100 semantic integration items built from open-source textbooks for early elementary readers. Each item includes:
 - Stem 1: a definitional sentence with a quoted target term.

@@ -9,12 +9,10 @@ This site hosts a 100-item semantic integration dataset for a developmental memo
 ## Downloads
 <div class="download-row">
 	<a class="download-button" href="semantic_integration_items.csv" download>Download CSV</a>
-	<a class="download-button" href="semantic_integration_items.md" download>Download Markdown</a>
 </div>
 
-## Files
+## Pages
 - [semantic_integration_items.md](semantic_integration_items.md)
-- [semantic_integration_items.csv](semantic_integration_items.csv)
 - [methods_report.md](methods_report.md)
 
 ## Dataset

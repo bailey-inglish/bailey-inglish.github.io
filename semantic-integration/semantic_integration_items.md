@@ -1,5 +1,7 @@
 # Semantic Integration Items
 
+[Home](index.md)
+
 ## Science Textbook Grade 2
 Subject: Science
 Full citation: Macmillan/McGraw-Hill Education. Science, Grade 2. ISBN 978-0-02-285999-2.
@@ -17,7 +19,7 @@ Full citation: Macmillan/McGraw-Hill Education. Science, Grade 2. ISBN 978-0-02-
   Source section: Chapter 4, Lesson 2 (Finding Clues in Fossils)
 
 - Relationship: People: Object
-  Stem 1: "scientists" are people who study the natural world.
+  Stem 1: "scientists" study the natural world.
   Stem 2: The "scientists" make notes.
   Integration: The scientists who study the natural world write notes.
   Source section: Chapter 4, Lesson 2 (Finding Clues in Fossils)
@@ -129,27 +131,27 @@ Subject: Plant Science
 Full citation: Starfall Education Foundation. Backpack Bear's Plant Book. ISBN 978-1-59577-077-6.
 
 - Relationship: People: Object
-  Stem 1: "children" are young people.
+  Stem 1: "children" are young kids.
   Stem 2: The "children" put the seed in the ground.
-  Integration: Young people plant the seed.
+  Integration: Young kids plant the seed.
   Source section: Seed planting (intro)
 
 - Relationship: People: Object
-  Stem 1: "gardeners" are people who grow plants.
+  Stem 1: "gardeners" grow plants.
   Stem 2: The "gardeners" care for the plant.
   Integration: The gardeners water the plant.
   Source section: Plant growth (intro)
 
 - Relationship: People: Object
-  Stem 1: "farmers" are people who grow plants for food.
+  Stem 1: "farmers" grow plants for food.
   Stem 2: The "farmers" pick the plant.
   Integration: The farmers harvest the plant.
   Source section: Plant growth (intro)
 
 - Relationship: Place: People
-  Stem 1: "garden" is a place where people grow plants.
+  Stem 1: "garden" is a place where gardeners grow plants.
   Stem 2: The gardeners are in the "garden".
-  Integration: The gardeners work in a place where people grow plants.
+  Integration: The gardeners work in a place where gardeners grow plants.
   Source section: Plant growth (intro)
 
 - Relationship: Place: People
@@ -265,21 +267,21 @@ Full citation: Starfall Education Foundation. Backpack Bear's Mammal Book. ISBN 
   Source section: Mammal characteristics (milk)
 
 - Relationship: People: Object
-  Stem 1: "parents" are grown people that babies look like.
+  Stem 1: "parents" are grown-ups that babies look like.
   Stem 2: The "parents" help babies.
-  Integration: The grown people that babies look like care for babies.
+  Integration: The grown-ups that babies look like care for babies.
   Source section: Mammal babies
 
 - Relationship: People: Object
-  Stem 1: "babies" are very young people.
+  Stem 1: "babies" are very young children.
   Stem 2: The "babies" have milk.
-  Integration: The very young people drink milk.
+  Integration: The very young children drink milk.
   Source section: Mammal babies
 
 - Relationship: People: Object
-  Stem 1: "children" are young people.
+  Stem 1: "children" are young kids.
   Stem 2: The "children" touch their backs.
-  Integration: The young people feel their backbones.
+  Integration: The young kids feel their backbones.
   Source section: Animals with backbones
 
 - Relationship: People: Object
@@ -295,15 +297,15 @@ Full citation: Starfall Education Foundation. Backpack Bear's Mammal Book. ISBN 
   Source section: Mammal babies
 
 - Relationship: People: Object
-  Stem 1: "boys" are young male people.
+  Stem 1: "boys" are young males.
   Stem 2: The "boys" have hair.
-  Integration: The young male people grow hair.
+  Integration: The young males grow hair.
   Source section: Mammal characteristics (hair)
 
 - Relationship: People: Object
-  Stem 1: "girls" are young female people.
+  Stem 1: "girls" are young females.
   Stem 2: The "girls" have hair.
-  Integration: The young female people grow hair.
+  Integration: The young females grow hair.
   Source section: Mammal characteristics (hair)
 
 - Relationship: People: Object
@@ -377,49 +379,49 @@ Subject: History/Geography
 Full citation: Susan Wise Bauer. The Story of the World, Volume 3: Early Modern Times. Well-Trained Mind Press, 2019.
 
 - Relationship: People: Object
-  Stem 1: "explorers" are people who travel to new lands.
+  Stem 1: "explorers" travel to new lands.
   Stem 2: The "explorers" use the ship.
   Integration: The explorers steer the ship.
   Source section: Introduction
 
 - Relationship: People: Object
-  Stem 1: "pirates" are people who sail the seas.
+  Stem 1: "pirates" sail the seas.
   Stem 2: The "pirates" use the ship.
   Integration: The pirates sail the ship.
   Source section: Introduction
 
 - Relationship: People: Object
-  Stem 1: "kings" are people who rule a kingdom.
+  Stem 1: "kings" rule a kingdom.
   Stem 2: The "kings" have the crown.
   Integration: The kings wear the crown.
   Source section: Introduction
 
 - Relationship: People: Object
-  Stem 1: "adventurers" are people who sail around the world on ships.
+  Stem 1: "adventurers" sail around the world on ships.
   Stem 2: The "adventurers" travel on the ocean.
   Integration: The adventurers cross the ocean.
   Source section: Introduction
 
 - Relationship: People: Object
-  Stem 1: "geographers" are people who divide water into five oceans.
+  Stem 1: "geographers" divide water into five oceans.
   Stem 2: The "geographers" have a map.
   Integration: The geographers use a map.
   Source section: Introduction
 
 - Relationship: People: Object
-  Stem 1: "sailors" are people who sail the sea.
+  Stem 1: "sailors" sail the sea.
   Stem 2: The "sailors" use the ship.
   Integration: The sailors steer the ship.
   Source section: Introduction
 
 - Relationship: People: Object
-  Stem 1: "travelers" are people who cross oceans to find new lands.
+  Stem 1: "travelers" cross oceans to find new lands.
   Stem 2: The "travelers" travel on the ocean.
   Integration: The travelers cross the ocean.
   Source section: Introduction
 
 - Relationship: People: Object
-  Stem 1: "mapmakers" are people who make maps of the world.
+  Stem 1: "mapmakers" make maps of the world.
   Stem 2: The "mapmakers" make a map.
   Integration: The mapmakers draw a map.
   Source section: Introduction
@@ -501,87 +503,87 @@ Subject: Civics
 Full citation: Core Knowledge Foundation. Living in a Community (Civics Teacher Guide), Grade 1. 2023.
 
 - Relationship: People: Object
-  Stem 1: "citizens" are people who have the right to vote.
+  Stem 1: "citizens" have the right to vote.
   Stem 2: The "citizens" give a vote.
   Integration: The citizens cast a vote.
   Source section: Rules and Laws
 
 - Relationship: People: Object
-  Stem 1: "lawmakers" are people citizens elect.
+  Stem 1: "lawmakers" are leaders citizens elect.
   Stem 2: The "lawmakers" make laws.
   Integration: The lawmakers write laws.
   Source section: Rules and Laws
 
 - Relationship: People: Object
-  Stem 1: "leaders" are people who guide the government.
+  Stem 1: "leaders" guide the government.
   Stem 2: The "leaders" talk about choices.
   Integration: The leaders make decisions.
   Source section: Rules and Laws
 
 - Relationship: People: Object
-  Stem 1: "representatives" are people elected every two years.
-  Stem 2: The "representatives" help people.
-  Integration: The representatives speak for people.
+  Stem 1: "representatives" are leaders elected every two years.
+  Stem 2: The "representatives" help citizens.
+  Integration: The representatives speak for citizens.
   Source section: Rules and Laws
 
 - Relationship: People: Object
-  Stem 1: "senators" are people elected every six years.
+  Stem 1: "senators" are leaders elected every six years.
   Stem 2: The "senators" help in government.
   Integration: The senators work in government.
   Source section: Rules and Laws
 
 - Relationship: People: Object
-  Stem 1: "parents" are people who make home rules.
+  Stem 1: "parents" make home rules.
   Stem 2: The "parents" help children.
   Integration: The parents care for children.
   Source section: Rules and Laws
 
 - Relationship: People: Object
-  Stem 1: "teachers" are people who make classroom rules.
+  Stem 1: "teachers" make classroom rules.
   Stem 2: The "teachers" help students.
   Integration: The teachers teach students.
   Source section: Rules and Laws
 
 - Relationship: People: Object
-  Stem 1: "neighbors" are people who live near each other.
+  Stem 1: "neighbors" live near each other.
   Stem 2: The "neighbors" use a street together.
   Integration: The neighbors share a street.
   Source section: Living in a Community
 
 - Relationship: Place: People
-  Stem 1: "community" is a group of people who share a location.
+  Stem 1: "community" is a group of families who share a location.
   Stem 2: The neighbors are in the "community".
-  Integration: The neighbors belong to a group of people who share a location.
+  Integration: The neighbors belong to a group of families who share a location.
   Source section: Living in a Community
 
 - Relationship: Place: People
-  Stem 1: "neighborhood" is a kind of community people belong to.
+  Stem 1: "neighborhood" is a kind of community where families live.
   Stem 2: The neighbors live in the "neighborhood".
-  Integration: The neighbors settle in a kind of community people belong to.
+  Integration: The neighbors settle in a kind of community where families live.
   Source section: Living in a Community
 
 - Relationship: Place: People
-  Stem 1: "city" is a community people belong to.
+  Stem 1: "city" is a community where families live.
   Stem 2: The families are in the "city".
-  Integration: The families live in a community people belong to.
+  Integration: The families are in a community where families live.
   Source section: Living in a Community
 
 - Relationship: Place: People
-  Stem 1: "state" is a community people belong to.
+  Stem 1: "state" is a community where citizens live.
   Stem 2: The voters vote in the "state".
-  Integration: The voters cast votes in a community people belong to.
+  Integration: The voters cast votes in a community where citizens live.
   Source section: Living in a Community
 
 - Relationship: Place: People
-  Stem 1: "country" is a community people belong to.
+  Stem 1: "country" is a community where citizens live.
   Stem 2: The citizens live in the "country".
-  Integration: The citizens settle in a community people belong to.
+  Integration: The citizens settle in a community where citizens live.
   Source section: Living in a Community
 
 - Relationship: Place: People
-  Stem 1: "school" is a community people belong to.
+  Stem 1: "school" is a community where students learn.
   Stem 2: The students are in the "school".
-  Integration: The students learn in a community people belong to.
+  Integration: The students learn in a community where students learn.
   Source section: Living in a Community
 
 - Relationship: Place: People
@@ -597,21 +599,21 @@ Full citation: Core Knowledge Foundation. Living in a Community (Civics Teacher 
   Source section: Rules and Laws
 
 - Relationship: Place: People
-  Stem 1: "voting district" is a place where people vote.
+  Stem 1: "voting district" is a place where voters vote.
   Stem 2: The voters vote in the "voting district".
-  Integration: The voters cast votes in a place where people vote.
+  Integration: The voters cast votes in a place where voters vote.
   Source section: Living in a Community
 
 - Relationship: Place: People
-  Stem 1: "region" is a larger area where people live.
+  Stem 1: "region" is a larger area where families live.
   Stem 2: The travelers travel across the "region".
-  Integration: The travelers cross a larger area where people live.
+  Integration: The travelers cross a larger area where families live.
   Source section: Living in a Community
 
 - Relationship: Object: Place
-  Stem 1: "rule" is something people follow to keep a community safe.
+  Stem 1: "rule" is something citizens follow to keep a community safe.
   Stem 2: The community has the "rule".
-  Integration: The community follows something people follow to keep it safe.
+  Integration: The community follows something citizens follow to keep a community safe.
   Source section: Rules and Laws
 
 - Relationship: Object: Place
