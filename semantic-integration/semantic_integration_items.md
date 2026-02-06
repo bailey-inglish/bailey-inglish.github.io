@@ -2,622 +2,626 @@
 
 [Home](index.md)
 
-## Science Textbook Grade 2
-Subject: Science
-Full citation: Macmillan/McGraw-Hill Education. Science, Grade 2. ISBN 978-0-02-285999-2.
+## The Astronomy Book: Big Ideas Simply Explained
+Subject: Astronomy
+Full citation: DK. The Astronomy Book: Big Ideas Simply Explained.
 
 - Relationship: People: Object
-  Stem 1: "geologist" is a scientist who studies rocks.
-  Stem 2: The "geologist" holds the rock.
-  Integration: The scientist who studies rocks carries the rock.
-  Source section: Chapter 3, Lesson 1 (Rocks)
-
-- Relationship: People: Object
-  Stem 1: "paleontologist" is a scientist who studies fossils.
-  Stem 2: The "paleontologist" sees the fossil.
-  Integration: The scientist who studies fossils finds the fossil.
-  Source section: Chapter 4, Lesson 2 (Finding Clues in Fossils)
-
-- Relationship: People: Object
-  Stem 1: "scientists" study the natural world.
-  Stem 2: The "scientists" make notes.
-  Integration: The scientists who study the natural world write notes.
-  Source section: Chapter 4, Lesson 2 (Finding Clues in Fossils)
-
-- Relationship: People: Object
-  Stem 1: "geologists" are scientists who look at a rock's color.
-  Stem 2: The "geologists" look at the rock.
-  Integration: The scientists who look at a rock's color compare the rock.
-  Source section: Chapter 3, Lesson 1 (Rocks)
-
-- Relationship: People: Object
-  Stem 1: "people" are living things that need minerals to grow.
-  Stem 2: The "people" use plants for food.
-  Integration: The living things that need minerals to grow eat plants.
-  Source section: Chapter 3, Lesson 3 (Soil)
+  Stem 1: "Sputnik" was the first space satellite.
+  Stem 2: The Soviet Union sent a signal to "Sputnik".
+  Integration: The first space satellite was signaled by the Soviet Union.
+  Source section: Early space flight
 
 - Relationship: Place: People
-  Stem 1: "rain forest" is a place where plants have large leaves.
-  Stem 2: The hikers walk through the "rain forest".
-  Integration: The hikers hike through a place where plants have large leaves.
-  Source section: Chapter 1, Lesson 1 (Plants and Their Parts)
+  Stem 1: "Moon" is Earth's natural satellite.
+  Stem 2: Apollo 11 landed on the "Moon".
+  Integration: Earth's natural satellite was landed on by Apollo 11.
+  Source section: The Moon
 
 - Relationship: Place: People
-  Stem 1: "desert" is a place where plants have few leaves.
-  Stem 2: The travelers travel across the "desert".
-  Integration: The travelers cross a place where plants have few leaves.
-  Source section: Chapter 1, Lesson 1 (Plants and Their Parts)
+  Stem 1: "Mars" is the fourth planet from the Sun.
+  Stem 2: Curiosity rolled on "Mars".
+  Integration: The fourth planet from the Sun was rolled on by Curiosity.
+  Source section: Mars missions
 
 - Relationship: Place: People
-  Stem 1: "dry places" are places where plants may have long roots.
-  Stem 2: The campers stay in the "dry places".
-  Integration: The campers camp in places where plants may have long roots.
-  Source section: Chapter 1, Lesson 1 (Plants and Their Parts)
+  Stem 1: "Jupiter" is the largest planet in the solar system.
+  Stem 2: Juno traveled to "Jupiter".
+  Integration: The largest planet in the solar system was traveled to by Juno.
+  Source section: Jupiter
 
 - Relationship: Place: People
-  Stem 1: "wet places" are places where plants may have roots above the ground.
-  Stem 2: The explorers go through the "wet places".
-  Integration: The explorers explore places where plants may have roots above the ground.
-  Source section: Chapter 1, Lesson 1 (Plants and Their Parts)
+  Stem 1: "Saturn" is the planet with bright rings.
+  Stem 2: Cassini traveled to "Saturn".
+  Integration: The planet with bright rings was traveled to by Cassini.
+  Source section: Saturn
 
 - Relationship: Place: People
-  Stem 1: "ground" is the place where roots hold a plant.
-  Stem 2: The gardeners stand on the "ground".
-  Integration: The gardeners step on the place where roots hold a plant.
-  Source section: Chapter 1, Lesson 1 (Plants and Their Parts)
+  Stem 1: "Venus" is the second planet from the Sun.
+  Stem 2: Magellan traveled to "Venus".
+  Integration: The second planet from the Sun was traveled to by Magellan.
+  Source section: Venus
 
 - Relationship: Place: People
-  Stem 1: "soil" is the place where roots take in water.
-  Stem 2: The gardeners work in the "soil".
-  Integration: The gardeners dig into the place where roots take in water.
-  Source section: Chapter 1, Lesson 1 (Plants and Their Parts)
+  Stem 1: "Mercury" is the planet closest to the Sun.
+  Stem 2: MESSENGER traveled to "Mercury".
+  Integration: The planet closest to the Sun was traveled to by MESSENGER.
+  Source section: Mercury
 
 - Relationship: Place: People
-  Stem 1: "pond" is the place where roots are in the soil at the bottom.
-  Stem 2: The visitors look into the "pond".
-  Integration: The visitors peer into the place where roots are in the soil at the bottom.
-  Source section: Chapter 1, Lesson 4 (Plants and Their Homes)
+  Stem 1: "Neptune" is the farthest planet from the Sun.
+  Stem 2: Voyager 2 passed by "Neptune".
+  Integration: The farthest planet from the Sun was passed by Voyager 2.
+  Source section: Neptune
 
 - Relationship: Place: People
-  Stem 1: "Wyoming" is a dry place where a fish fossil was found.
-  Stem 2: The hikers walk in "Wyoming".
-  Integration: The hikers hike in a dry place where a fish fossil was found.
-  Source section: Chapter 4, Lesson 2 (Finding Clues in Fossils)
+  Stem 1: "Pluto" is a dwarf planet beyond Neptune.
+  Stem 2: New Horizons passed by "Pluto".
+  Integration: The dwarf planet beyond Neptune was passed by New Horizons.
+  Source section: Dwarf planets
 
 - Relationship: Object: Place
-  Stem 1: "root" is a plant part that can be long and thin.
-  Stem 2: The ground covers the "root".
-  Integration: The ground buries a plant part that can be long and thin.
-  Source section: Chapter 1, Lesson 1 (Plants and Their Parts)
+  Stem 1: "Andromeda Galaxy" is a galaxy near the Milky Way.
+  Stem 2: The Hubble Space Telescope pointed to the "Andromeda Galaxy".
+  Integration: The galaxy near the Milky Way was pointed to by the Hubble Space Telescope.
+  Source section: Galaxies
 
 - Relationship: Object: Place
-  Stem 1: "leaf" is a plant part that uses light to make food.
-  Stem 2: The rain forest has the "leaf".
-  Integration: The rain forest grows a plant part that uses light to make food.
-  Source section: Chapter 1, Lesson 1 (Plants and Their Parts)
+  Stem 1: "International Space Station" is a lab in orbit.
+  Stem 2: SpaceX sends supplies to the "International Space Station".
+  Integration: The lab in orbit is supplied by SpaceX.
+  Source section: Space stations
 
 - Relationship: Object: Place
-  Stem 1: "stem" is a plant part that holds up a plant.
-  Stem 2: The desert has the "stem".
-  Integration: The desert supports a plant part that holds up a plant.
-  Source section: Chapter 1, Lesson 1 (Plants and Their Parts)
+  Stem 1: "Sun" is the star at the center of our solar system.
+  Stem 2: The Parker Solar Probe traveled to the "Sun".
+  Integration: The star at the center of our solar system was traveled to by the Parker Solar Probe.
+  Source section: The Sun
 
-- Relationship: Object: Place
-  Stem 1: "seed" is a plant part that can grow into a new plant.
-  Stem 2: The soil holds the "seed".
-  Integration: The soil supports the part of a plant that can grow into a new plant.
-  Source section: Chapter 1, Lesson 1 (Plants and Their Parts)
-
-- Relationship: Object: Place
-  Stem 1: "flower" is the plant part that makes seeds.
-  Stem 2: The garden has the "flower".
-  Integration: The garden grows the plant part that makes seeds.
-  Source section: Chapter 1, Lesson 1 (Plants and Their Parts)
-
-- Relationship: Object: Place
-  Stem 1: "fossil" is what is left of a living thing from the past.
-  Stem 2: The rock contains the "fossil".
-  Integration: The rock preserves what is left of a living thing from the past.
-  Source section: Chapter 4, Lesson 1 (Fossils)
-
-- Relationship: Object: Place
-  Stem 1: "skeleton" is an animal's full set of bones.
-  Stem 2: The ground holds the "skeleton".
-  Integration: The ground hides an animal's full set of bones.
-  Source section: Chapter 4, Lesson 1 (Fossils)
-
-## Backpack Bear's Plant Book
-Subject: Plant Science
-Full citation: Starfall Education Foundation. Backpack Bear's Plant Book. ISBN 978-1-59577-077-6.
-
-- Relationship: People: Object
-  Stem 1: "children" are young kids.
-  Stem 2: The "children" put the seed in the ground.
-  Integration: Young kids plant the seed.
-  Source section: Seed planting (intro)
-
-- Relationship: People: Object
-  Stem 1: "gardeners" grow plants.
-  Stem 2: The "gardeners" care for the plant.
-  Integration: The gardeners water the plant.
-  Source section: Plant growth (intro)
-
-- Relationship: People: Object
-  Stem 1: "farmers" grow plants for food.
-  Stem 2: The "farmers" pick the plant.
-  Integration: The farmers harvest the plant.
-  Source section: Plant growth (intro)
-
-- Relationship: Place: People
-  Stem 1: "garden" is a place where gardeners grow plants.
-  Stem 2: The gardeners are in the "garden".
-  Integration: The gardeners work in a place where gardeners grow plants.
-  Source section: Plant growth (intro)
-
-- Relationship: Place: People
-  Stem 1: "ground" is the place that holds the plant.
-  Stem 2: The children sit on the "ground".
-  Integration: The children kneel on the place that holds the plant.
-  Source section: Plant parts (roots hold the plant in the ground)
-
-- Relationship: Place: People
-  Stem 1: "field" is a place where plants grow.
-  Stem 2: The farmers walk across the "field".
-  Integration: The farmers cross a place where plants grow.
-  Source section: Plant growth (intro)
-
-- Relationship: Object: Place
-  Stem 1: "seed" is the part of a plant that can grow into a new plant.
-  Stem 2: The ground holds the "seed".
-  Integration: The ground supports the part of a plant that can grow into a new plant.
-  Source section: Seeds and seed coats
-
-- Relationship: Object: Place
-  Stem 1: "seed coat" is a cover on a seed.
-  Stem 2: The ground has the "seed coat".
-  Integration: The ground covers a cover on a seed.
-  Source section: Seeds and seed coats
-
-- Relationship: Object: Place
-  Stem 1: "baby plant" is the young plant inside a seed.
-  Stem 2: The soil protects the "baby plant".
-  Integration: The soil shields the young plant inside a seed.
-  Source section: Seeds and seed coats
-
-- Relationship: Object: Place
-  Stem 1: "sprout" is the first new growth from a seed.
-  Stem 2: The soil supports the "sprout".
-  Integration: The soil steadies the first new growth from a seed.
-  Source section: Seed growth steps
-
-- Relationship: Object: Place
-  Stem 1: "flower" is the plant part that makes seeds.
-  Stem 2: The garden has the "flower".
-  Integration: The garden grows the plant part that makes seeds.
-  Source section: Plant parts
-
-- Relationship: Object: Place
-  Stem 1: "leaf" is the plant part that collects sunlight to make food.
-  Stem 2: The garden has the "leaf".
-  Integration: The garden grows the plant part that collects sunlight to make food.
-  Source section: Plant parts
-
-- Relationship: Object: Place
-  Stem 1: "stem" is the plant part that carries water and minerals to the leaves.
-  Stem 2: The garden has the "stem".
-  Integration: The garden grows the plant part that carries water and minerals to the leaves.
-  Source section: Plant parts
-
-- Relationship: Object: Place
-  Stem 1: "root" is the plant part that takes in water and minerals and holds the plant in the ground.
-  Stem 2: The ground holds the "root".
-  Integration: The ground supports the plant part that takes in water and minerals and holds the plant in the ground.
-  Source section: Plant parts
-
-- Relationship: Object: Place
-  Stem 1: "pollen" is a powder inside a flower.
-  Stem 2: The flower has the "pollen".
-  Integration: The flower holds a powder inside a flower.
-  Source section: Flowers and pollen
-
-- Relationship: Object: Place
-  Stem 1: "oxygen" is a gas plants give off.
-  Stem 2: The air has the "oxygen".
-  Integration: The air contains a gas plants give off.
-  Source section: Plants need sunlight and give off oxygen
-
-- Relationship: Object: Place
-  Stem 1: "carbon dioxide" is a gas plants use to make food.
-  Stem 2: The air has the "carbon dioxide".
-  Integration: The air contains a gas plants use to make food.
-  Source section: Plants need sunlight and use carbon dioxide
-
-- Relationship: Object: Place
-  Stem 1: "tree" is a plant with a trunk, branches, leaves, and roots.
-  Stem 2: The forest has the "tree".
-  Integration: The forest grows a plant with a trunk, branches, leaves, and roots.
-  Source section: Trees are plants
-
-- Relationship: Object: Place
-  Stem 1: "trunk" is the stem of a tree.
-  Stem 2: The forest has the "trunk".
-  Integration: The forest contains the stem of a tree.
-  Source section: Trees are plants
-
-- Relationship: Object: Place
-  Stem 1: "evergreen tree" is a tree that keeps its leaves all year.
-  Stem 2: The forest has the "evergreen tree".
-  Integration: The forest grows a tree that keeps its leaves all year.
-  Source section: Evergreen trees
-
-## Backpack Bear's Mammal Book
-Subject: Life Science
-Full citation: Starfall Education Foundation. Backpack Bear's Mammal Book. ISBN 978-1-59577-086-8.
-
-- Relationship: People: Object
-  Stem 1: "humans" are mammals.
-  Stem 2: The "humans" have milk.
-  Integration: The mammals drink milk.
-  Source section: Opening (humans are mammals)
-
-- Relationship: People: Object
-  Stem 1: "mothers" are women who feed babies milk from their bodies.
-  Stem 2: The "mothers" help babies.
-  Integration: The women who feed babies milk from their bodies care for babies.
-  Source section: Mammal characteristics (milk)
-
-- Relationship: People: Object
-  Stem 1: "parents" are grown-ups that babies look like.
-  Stem 2: The "parents" help babies.
-  Integration: The grown-ups that babies look like care for babies.
-  Source section: Mammal babies
-
-- Relationship: People: Object
-  Stem 1: "babies" are very young children.
-  Stem 2: The "babies" have milk.
-  Integration: The very young children drink milk.
-  Source section: Mammal babies
-
-- Relationship: People: Object
-  Stem 1: "children" are young kids.
-  Stem 2: The "children" touch their backs.
-  Integration: The young kids feel their backbones.
-  Source section: Animals with backbones
-
-- Relationship: People: Object
-  Stem 1: "people" are humans.
-  Stem 2: The "people" have hair.
-  Integration: The humans grow hair.
-  Source section: Mammal characteristics (hair)
-
-- Relationship: People: Object
-  Stem 1: "families" are groups of parents and children.
-  Stem 2: The "families" are together.
-  Integration: The groups of parents and children stay together.
-  Source section: Mammal babies
-
-- Relationship: People: Object
-  Stem 1: "boys" are young males.
-  Stem 2: The "boys" have hair.
-  Integration: The young males grow hair.
-  Source section: Mammal characteristics (hair)
-
-- Relationship: People: Object
-  Stem 1: "girls" are young females.
-  Stem 2: The "girls" have hair.
-  Integration: The young females grow hair.
-  Source section: Mammal characteristics (hair)
-
-- Relationship: People: Object
-  Stem 1: "fathers" are male parents.
-  Stem 2: The "fathers" help babies.
-  Integration: The male parents care for babies.
-  Source section: Mammal babies
-
-- Relationship: Place: People
-  Stem 1: "safe places" are places where mammals have their babies.
-  Stem 2: The parents look for the "safe places".
-  Integration: The parents search for places where mammals have their babies.
-  Source section: Mammals look for safe places to have their babies
-
-- Relationship: Place: People
-  Stem 1: "pouch" is a place where a baby kangaroo or koala grows.
-  Stem 2: The children look at the "pouch".
-  Integration: The children see the place where a baby kangaroo or koala grows.
-  Source section: Kangaroo and koala babies
-
-- Relationship: Object: Place
-  Stem 1: "mammal" is a warm-blooded animal with a backbone.
-  Stem 2: The land has the "mammal".
-  Integration: The land supports a warm-blooded animal with a backbone.
-  Source section: What is a mammal?
-
-- Relationship: Object: Place
-  Stem 1: "backbone" is the bony part you can feel on your back.
-  Stem 2: The body has the "backbone".
-  Integration: The body contains the bony part you can feel on your back.
-  Source section: Animals with backbones
-
-- Relationship: Object: Place
-  Stem 1: "milk" is food that comes from a mother's body.
-  Stem 2: The body makes the "milk".
-  Integration: The body produces food that comes from a mother's body.
-  Source section: Mammal characteristics (milk)
-
-- Relationship: Object: Place
-  Stem 1: "hair" is something mammals have to keep their bodies warm.
-  Stem 2: The body has the "hair".
-  Integration: The body grows something mammals have to keep their bodies warm.
-  Source section: Mammal characteristics (hair)
-
-- Relationship: Object: Place
-  Stem 1: "fur" is hair that keeps a body warm.
-  Stem 2: The body has the "fur".
-  Integration: The body carries hair that keeps a body warm.
-  Source section: Mammal characteristics (fur)
-
-- Relationship: Object: Place
-  Stem 1: "limbs" are the four body parts mammals use to walk on land.
-  Stem 2: The body uses the "limbs".
-  Integration: The body moves with the four body parts mammals use to walk on land.
-  Source section: Mammal bodies (limbs)
-
-- Relationship: Object: Place
-  Stem 1: "egg" is something the babies of a platypus and an echidna hatch from.
-  Stem 2: The nest holds the "egg".
-  Integration: The nest protects something the babies of a platypus and an echidna hatch from.
-  Source section: Unusual mammals (platypus and echidna)
-
-- Relationship: Object: Place
-  Stem 1: "pouch" is a soft pocket on a mother.
-  Stem 2: The body has the "pouch".
-  Integration: The body carries a soft pocket on a mother.
-  Source section: Kangaroo and koala babies
-
-## The Story of the World: Volume 3 (Early Modern Times)
+## The Story of the World, Volume 3: Early Modern Times
 Subject: History/Geography
 Full citation: Susan Wise Bauer. The Story of the World, Volume 3: Early Modern Times. Well-Trained Mind Press, 2019.
 
-- Relationship: People: Object
-  Stem 1: "explorers" travel to new lands.
-  Stem 2: The "explorers" use the ship.
-  Integration: The explorers steer the ship.
-  Source section: Introduction
-
-- Relationship: People: Object
-  Stem 1: "pirates" sail the seas.
-  Stem 2: The "pirates" use the ship.
-  Integration: The pirates sail the ship.
-  Source section: Introduction
-
-- Relationship: People: Object
-  Stem 1: "kings" rule a kingdom.
-  Stem 2: The "kings" have the crown.
-  Integration: The kings wear the crown.
-  Source section: Introduction
-
-- Relationship: People: Object
-  Stem 1: "adventurers" sail around the world on ships.
-  Stem 2: The "adventurers" travel on the ocean.
-  Integration: The adventurers cross the ocean.
-  Source section: Introduction
-
-- Relationship: People: Object
-  Stem 1: "geographers" divide water into five oceans.
-  Stem 2: The "geographers" have a map.
-  Integration: The geographers use a map.
-  Source section: Introduction
-
-- Relationship: People: Object
-  Stem 1: "sailors" sail the sea.
-  Stem 2: The "sailors" use the ship.
-  Integration: The sailors steer the ship.
-  Source section: Introduction
-
-- Relationship: People: Object
-  Stem 1: "travelers" cross oceans to find new lands.
-  Stem 2: The "travelers" travel on the ocean.
-  Integration: The travelers cross the ocean.
-  Source section: Introduction
-
-- Relationship: People: Object
-  Stem 1: "mapmakers" make maps of the world.
-  Stem 2: The "mapmakers" make a map.
-  Integration: The mapmakers draw a map.
-  Source section: Introduction
-
 - Relationship: Place: People
   Stem 1: "Pacific Ocean" is the largest ocean.
-  Stem 2: The sailors travel on the "Pacific Ocean".
-  Integration: The sailors sail on the largest ocean.
-  Source section: Introduction (Oceans limerick)
+  Stem 2: Ferdinand Magellan sailed on the "Pacific Ocean".
+  Integration: The largest ocean was crossed by Ferdinand Magellan.
+  Source section: Oceans
 
 - Relationship: Place: People
   Stem 1: "Atlantic Ocean" is the ocean that is always in motion.
-  Stem 2: The sailors travel across the "Atlantic Ocean".
-  Integration: The sailors cross the ocean that is always in motion.
-  Source section: Introduction (Oceans limerick)
+  Stem 2: Christopher Columbus sailed on the "Atlantic Ocean".
+  Integration: The ocean that is always in motion was crossed by Christopher Columbus.
+  Source section: Oceans
 
 - Relationship: Place: People
   Stem 1: "Indian Ocean" is the ocean that starts at Bengal.
-  Stem 2: The sailors travel across the "Indian Ocean".
-  Integration: The sailors sail across the ocean that starts at Bengal.
-  Source section: Introduction (Oceans limerick)
+  Stem 2: Vasco da Gama sailed on the "Indian Ocean".
+  Integration: The ocean that starts at Bengal was crossed by Vasco da Gama.
+  Source section: Oceans
 
 - Relationship: Place: People
   Stem 1: "Southern Ocean" is a small ocean.
-  Stem 2: The sailors go near the "Southern Ocean".
-  Integration: The sailors travel near a small ocean.
-  Source section: Introduction (Oceans limerick)
+  Stem 2: James Cook sailed on the "Southern Ocean".
+  Integration: The small ocean was crossed by James Cook.
+  Source section: Oceans
 
 - Relationship: Place: People
   Stem 1: "Arctic Ocean" is a small ocean.
-  Stem 2: The sailors go near the "Arctic Ocean".
-  Integration: The sailors travel near a small ocean.
-  Source section: Introduction (Oceans limerick)
+  Stem 2: Fridtjof Nansen traveled on the "Arctic Ocean".
+  Integration: The small ocean was crossed by Fridtjof Nansen.
+  Source section: Oceans
 
 - Relationship: Place: People
   Stem 1: "North America" is a continent.
-  Stem 2: The families live in "North America".
-  Integration: The families settle in a continent.
-  Source section: Introduction (Continents poem)
+  Stem 2: The Mayflower sailed to "North America".
+  Integration: The continent was reached by the Mayflower.
+  Source section: Continents
 
 - Relationship: Place: People
   Stem 1: "South America" is a continent.
-  Stem 2: The families live in "South America".
-  Integration: The families settle in a continent.
-  Source section: Introduction (Continents poem)
+  Stem 2: Spain sent ships to "South America".
+  Integration: The continent was reached by Spain.
+  Source section: Continents
 
 - Relationship: Place: People
   Stem 1: "Europe" is a continent.
-  Stem 2: The families live in "Europe".
-  Integration: The families settle in a continent.
-  Source section: Introduction (Continents poem)
+  Stem 2: Asia sent silk to "Europe".
+  Integration: The continent was supplied with silk by Asia.
+  Source section: Continents
+
+## The Story of the World, Volume 1: Ancient Times
+Subject: History/Geography
+Full citation: Susan Wise Bauer. The Story of the World, Volume 1: Ancient Times. Peace Hill Press, 2006.
 
 - Relationship: Place: People
-  Stem 1: "Africa" is a continent.
-  Stem 2: The families live in "Africa".
-  Integration: The families settle in a continent.
-  Source section: Introduction (Continents poem)
+  Stem 1: "Nile River" is a long river in Africa.
+  Stem 2: Egypt grew crops by the "Nile River".
+  Integration: The long river in Africa helped Egypt grow crops.
+  Source section: Ancient Egypt
 
 - Relationship: Place: People
-  Stem 1: "Asia" is a continent.
-  Stem 2: The families live in "Asia".
-  Integration: The families settle in a continent.
-  Source section: Introduction (Continents poem)
+  Stem 1: "Tigris River" is a river in Southwest Asia.
+  Stem 2: Assyria grew by the "Tigris River".
+  Integration: The river in Southwest Asia helped Assyria grow.
+  Source section: Mesopotamia
+
+- Relationship: Place: People
+  Stem 1: "Euphrates River" is a river in Southwest Asia.
+  Stem 2: Babylon grew by the "Euphrates River".
+  Integration: The river in Southwest Asia helped Babylon grow.
+  Source section: Mesopotamia
+
+- Relationship: Place: People
+  Stem 1: "Indus River" is a river in South Asia.
+  Stem 2: Harappa grew by the "Indus River".
+  Integration: The river in South Asia helped Harappa grow.
+  Source section: Indus Valley
+
+- Relationship: Place: People
+  Stem 1: "Ganges River" is a sacred river in India.
+  Stem 2: Varanasi sits on the "Ganges River".
+  Integration: The sacred river in India runs by Varanasi.
+  Source section: Ancient India
 
 - Relationship: Object: Place
-  Stem 1: "ship" is a wooden boat that sails on the sea.
-  Stem 2: The ocean carries the "ship".
-  Integration: The ocean transports a wooden boat that sails on the sea.
-  Source section: Introduction
+  Stem 1: "Great Pyramid of Giza" was a huge stone tomb.
+  Stem 2: Pharaoh Khufu worked on "Great Pyramid of Giza".
+  Integration: The huge stone tomb was built by Pharaoh Khufu.
+  Source section: Ancient Egypt
+
+- Relationship: Place: People
+  Stem 1: "Mesopotamia" was a land between rivers.
+  Stem 2: The Tigris River flowed by "Mesopotamia".
+  Integration: The land between rivers was bordered by the Tigris River.
+  Source section: Mesopotamia
+
+- Relationship: Place: People
+  Stem 1: "Egypt" was an ancient kingdom along the Nile.
+  Stem 2: The Nile River runs by "Egypt".
+  Integration: The ancient kingdom along the Nile was bordered by the Nile River.
+  Source section: Ancient Egypt
+
+- Relationship: Place: People
+  Stem 1: "Greece" is a country in Europe.
+  Stem 2: The Aegean Sea lies by "Greece".
+  Integration: The country in Europe is bordered by the Aegean Sea.
+  Source section: Ancient Greece
+
+- Relationship: Place: People
+  Stem 1: "Rome" was a city in Italy.
+  Stem 2: The Tiber River runs by "Rome".
+  Integration: The city in Italy is bordered by the Tiber River.
+  Source section: Ancient Rome
+
+## The Story of the World, Volume 2: The Middle Ages
+Subject: History/Geography
+Full citation: Susan Wise Bauer. The Story of the World, Volume 2: The Middle Ages. Peace Hill Press, 2007.
 
 - Relationship: Object: Place
-  Stem 1: "boat" is a small ship.
-  Stem 2: The sea carries the "boat".
-  Integration: The sea transports a small ship.
-  Source section: Introduction
-
-## Living in a Community (Civics Teacher Guide)
-Subject: Civics
-Full citation: Core Knowledge Foundation. Living in a Community (Civics Teacher Guide), Grade 1. 2023.
-
-- Relationship: People: Object
-  Stem 1: "citizens" have the right to vote.
-  Stem 2: The "citizens" give a vote.
-  Integration: The citizens cast a vote.
-  Source section: Rules and Laws
-
-- Relationship: People: Object
-  Stem 1: "lawmakers" are leaders citizens elect.
-  Stem 2: The "lawmakers" make laws.
-  Integration: The lawmakers write laws.
-  Source section: Rules and Laws
-
-- Relationship: People: Object
-  Stem 1: "leaders" guide the government.
-  Stem 2: The "leaders" talk about choices.
-  Integration: The leaders make decisions.
-  Source section: Rules and Laws
-
-- Relationship: People: Object
-  Stem 1: "representatives" are leaders elected every two years.
-  Stem 2: The "representatives" help citizens.
-  Integration: The representatives speak for citizens.
-  Source section: Rules and Laws
-
-- Relationship: People: Object
-  Stem 1: "senators" are leaders elected every six years.
-  Stem 2: The "senators" help in government.
-  Integration: The senators work in government.
-  Source section: Rules and Laws
-
-- Relationship: People: Object
-  Stem 1: "parents" make home rules.
-  Stem 2: The "parents" help children.
-  Integration: The parents care for children.
-  Source section: Rules and Laws
-
-- Relationship: People: Object
-  Stem 1: "teachers" make classroom rules.
-  Stem 2: The "teachers" help students.
-  Integration: The teachers teach students.
-  Source section: Rules and Laws
-
-- Relationship: People: Object
-  Stem 1: "neighbors" live near each other.
-  Stem 2: The "neighbors" use a street together.
-  Integration: The neighbors share a street.
-  Source section: Living in a Community
+  Stem 1: "Silk Road" was a trade route across Asia.
+  Stem 2: China sent silk on "Silk Road".
+  Integration: The trade route across Asia carried silk from China.
+  Source section: Trade routes
 
 - Relationship: Place: People
-  Stem 1: "community" is a group of families who share a location.
-  Stem 2: The neighbors are in the "community".
-  Integration: The neighbors belong to a group of families who share a location.
-  Source section: Living in a Community
+  Stem 1: "Venice" is a city built on canals.
+  Stem 2: Marco Polo traveled to "Venice".
+  Integration: The city built on canals was visited by Marco Polo.
+  Source section: Marco Polo
 
 - Relationship: Place: People
-  Stem 1: "neighborhood" is a kind of community where families live.
-  Stem 2: The neighbors live in the "neighborhood".
-  Integration: The neighbors settle in a kind of community where families live.
-  Source section: Living in a Community
+  Stem 1: "Constantinople" was a city on a narrow strait.
+  Stem 2: Venice traded with "Constantinople".
+  Integration: The city on a narrow strait traded with Venice.
+  Source section: Byzantine Empire
 
 - Relationship: Place: People
-  Stem 1: "city" is a community where families live.
-  Stem 2: The families are in the "city".
-  Integration: The families are in a community where families live.
-  Source section: Living in a Community
+  Stem 1: "China" is a country in Asia.
+  Stem 2: Marco Polo traveled to "China".
+  Integration: The country in Asia was visited by Marco Polo.
+  Source section: Marco Polo
 
 - Relationship: Place: People
-  Stem 1: "state" is a community where citizens live.
-  Stem 2: The voters vote in the "state".
-  Integration: The voters cast votes in a community where citizens live.
-  Source section: Living in a Community
+  Stem 1: "England" is a country in Europe.
+  Stem 2: William the Conqueror sailed to "England".
+  Integration: The country in Europe was reached by William the Conqueror.
+  Source section: Normans
 
 - Relationship: Place: People
-  Stem 1: "country" is a community where citizens live.
-  Stem 2: The citizens live in the "country".
-  Integration: The citizens settle in a community where citizens live.
-  Source section: Living in a Community
+  Stem 1: "Iceland" is an island in the North Atlantic.
+  Stem 2: Leif Erikson sailed to "Iceland".
+  Integration: The island in the North Atlantic was reached by Leif Erikson.
+  Source section: Vikings
 
 - Relationship: Place: People
-  Stem 1: "school" is a community where students learn.
-  Stem 2: The students are in the "school".
-  Integration: The students learn in a community where students learn.
-  Source section: Living in a Community
+  Stem 1: "Greenland" is a large island near the Arctic.
+  Stem 2: Erik the Red sailed to "Greenland".
+  Integration: The large island near the Arctic was reached by Erik the Red.
+  Source section: Vikings
 
 - Relationship: Place: People
-  Stem 1: "home" is a place where families live.
-  Stem 2: The families live in the "home".
-  Integration: The families stay in a place where families live.
-  Source section: Living in a Community
+  Stem 1: "Mediterranean Sea" is a sea between Europe and Africa.
+  Stem 2: Italy sits by the "Mediterranean Sea".
+  Integration: The sea between Europe and Africa lies by Italy.
+  Source section: Geography
 
 - Relationship: Place: People
-  Stem 1: "classroom" is a place where students learn.
-  Stem 2: The students are in the "classroom".
-  Integration: The students learn in a place where students learn.
-  Source section: Rules and Laws
+  Stem 1: "Black Sea" is a sea near Europe and Asia.
+  Stem 2: Turkey sits by the "Black Sea".
+  Integration: The sea near Europe and Asia lies by Turkey.
+  Source section: Geography
 
 - Relationship: Place: People
-  Stem 1: "voting district" is a place where voters vote.
-  Stem 2: The voters vote in the "voting district".
-  Integration: The voters cast votes in a place where voters vote.
-  Source section: Living in a Community
+  Stem 1: "Norway" is a country in Northern Europe.
+  Stem 2: Leif Erikson traveled to "Norway".
+  Integration: The country in Northern Europe was visited by Leif Erikson.
+  Source section: Vikings
+
+## Exploring the West (CKHG Grade 1 Unit 9)
+Subject: History/Geography
+Full citation: Core Knowledge Foundation. Exploring the West (CKHG Grade 1 Unit 9 Teacher Guide).
 
 - Relationship: Place: People
-  Stem 1: "region" is a larger area where families live.
-  Stem 2: The travelers travel across the "region".
-  Integration: The travelers cross a larger area where families live.
-  Source section: Living in a Community
+  Stem 1: "Cumberland Gap" is a pass through the Appalachian Mountains.
+  Stem 2: Daniel Boone traveled to "Cumberland Gap".
+  Integration: The pass through the Appalachian Mountains was reached by Daniel Boone.
+  Source section: Exploring the West
+
+- Relationship: Place: People
+  Stem 1: "Mississippi River" is a long river in the United States.
+  Stem 2: St. Louis sits on the "Mississippi River".
+  Integration: The long river in the United States runs by St. Louis.
+  Source section: Rivers
+
+- Relationship: Place: People
+  Stem 1: "Missouri River" is a major river in the United States.
+  Stem 2: Lewis and Clark traveled on the "Missouri River".
+  Integration: The major river in the United States was traveled by Lewis and Clark.
+  Source section: Lewis and Clark
+
+- Relationship: Place: People
+  Stem 1: "Rocky Mountains" are a mountain range in North America.
+  Stem 2: Denver sits by the "Rocky Mountains".
+  Integration: The mountain range in North America rises by Denver.
+  Source section: Mountains
+
+- Relationship: Place: People
+  Stem 1: "Great Plains" are wide grasslands in the United States.
+  Stem 2: Kansas sits on the "Great Plains".
+  Integration: The wide grasslands in the United States stretch by Kansas.
+  Source section: The Plains
+
+- Relationship: Place: People
+  Stem 1: "Oregon Trail" was a route to the Pacific Northwest.
+  Stem 2: The Donner Party traveled on the "Oregon Trail".
+  Integration: The route to the Pacific Northwest was used by the Donner Party.
+  Source section: Trails
+
+- Relationship: Place: People
+  Stem 1: "Santa Fe Trail" was a route to New Mexico.
+  Stem 2: St. Louis merchants traveled on the "Santa Fe Trail".
+  Integration: The route to New Mexico was used by St. Louis merchants.
+  Source section: Trails
+
+- Relationship: Place: People
+  Stem 1: "Pike's Peak" is a mountain in Colorado.
+  Stem 2: Zebulon Pike traveled to "Pike's Peak".
+  Integration: The mountain in Colorado was reached by Zebulon Pike.
+  Source section: Explorers
+
+- Relationship: Place: People
+  Stem 1: "Yellowstone" is a national park in the United States.
+  Stem 2: The Lamar River runs by "Yellowstone".
+  Integration: The national park in the United States is bordered by the Lamar River.
+  Source section: Parks
 
 - Relationship: Object: Place
-  Stem 1: "rule" is something citizens follow to keep a community safe.
-  Stem 2: The community has the "rule".
-  Integration: The community follows something citizens follow to keep a community safe.
-  Source section: Rules and Laws
+  Stem 1: "Louisiana Purchase" was a large land deal in 1803.
+  Stem 2: The United States gained land by the "Louisiana Purchase".
+  Integration: The large land deal in 1803 was made by the United States.
+  Source section: Expansion
+
+## The New Dictionary of Cultural Literacy
+Subject: General Knowledge
+Full citation: E.D. Hirsch, Jr., et al. The New Dictionary of Cultural Literacy.
+
+- Relationship: People: Object
+  Stem 1: "George Washington" was the first president of the United States.
+  Stem 2: The Continental Army served with "George Washington".
+  Integration: The first president of the United States served with the Continental Army.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Abraham Lincoln" was the president during the Civil War.
+  Stem 2: The Union Army served with "Abraham Lincoln".
+  Integration: The president during the Civil War served with the Union Army.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Marie Curie" was a scientist who studied radioactivity.
+  Stem 2: The Sorbonne awarded a degree to "Marie Curie".
+  Integration: The scientist who studied radioactivity was awarded a degree by the Sorbonne.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Albert Einstein" was a scientist who developed the theory of relativity.
+  Stem 2: Princeton University offered a job to "Albert Einstein".
+  Integration: The scientist who developed the theory of relativity was offered a job by Princeton University.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Galileo Galilei" was an astronomer who used a telescope.
+  Stem 2: The Medici family gave support to "Galileo Galilei".
+  Integration: The astronomer who used a telescope was given support by the Medici family.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Isaac Newton" was a scientist who wrote about gravity.
+  Stem 2: The Royal Society sent a letter to "Isaac Newton".
+  Integration: The scientist who wrote about gravity was sent a letter by the Royal Society.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Charles Darwin" was a scientist who wrote about natural selection.
+  Stem 2: HMS Beagle sailed with "Charles Darwin".
+  Integration: The scientist who wrote about natural selection sailed with HMS Beagle.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Louis Pasteur" was a scientist who studied germs.
+  Stem 2: The French Academy gave a prize to "Louis Pasteur".
+  Integration: The scientist who studied germs was given a prize by the French Academy.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Alexander Graham Bell" was the inventor of the telephone.
+  Stem 2: The U.S. Patent Office granted a patent to "Alexander Graham Bell".
+  Integration: The inventor of the telephone was granted a patent by the U.S. Patent Office.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Thomas Edison" was the inventor of the light bulb.
+  Stem 2: The U.S. Patent Office granted a patent to "Thomas Edison".
+  Integration: The inventor of the light bulb was granted a patent by the U.S. Patent Office.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Nikola Tesla" was an inventor who worked with electricity.
+  Stem 2: Westinghouse offered a job to "Nikola Tesla".
+  Integration: The inventor who worked with electricity was offered a job by Westinghouse.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Henry Ford" was the founder of Ford Motor Company.
+  Stem 2: The Model T was built by "Henry Ford".
+  Integration: The founder of Ford Motor Company built the Model T.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Amelia Earhart" was a pilot who flew across the Atlantic.
+  Stem 2: The Lockheed Electra flew with "Amelia Earhart".
+  Integration: The pilot who flew across the Atlantic flew with the Lockheed Electra.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Charles Lindbergh" was a pilot who flew solo across the Atlantic.
+  Stem 2: The Spirit of St. Louis flew with "Charles Lindbergh".
+  Integration: The pilot who flew solo across the Atlantic flew with the Spirit of St. Louis.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Neil Armstrong" was the first person to walk on the Moon.
+  Stem 2: Apollo 11 traveled with "Neil Armstrong".
+  Integration: The first person to walk on the Moon traveled with Apollo 11.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Yuri Gagarin" was the first human in space.
+  Stem 2: Vostok 1 traveled with "Yuri Gagarin".
+  Integration: The first human in space traveled with Vostok 1.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Sally Ride" was the first American woman in space.
+  Stem 2: STS-7 flew with "Sally Ride".
+  Integration: The first American woman in space flew with STS-7.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Sacagawea" was a guide on the Lewis and Clark expedition.
+  Stem 2: Meriwether Lewis traveled with "Sacagawea".
+  Integration: The guide on the Lewis and Clark expedition traveled with Meriwether Lewis.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Harriet Tubman" was a leader of the Underground Railroad.
+  Stem 2: The Union Army worked with "Harriet Tubman".
+  Integration: The leader of the Underground Railroad worked with the Union Army.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Rosa Parks" was a civil rights activist who refused to give up her seat.
+  Stem 2: The Montgomery Bus Boycott stood with "Rosa Parks".
+  Integration: The civil rights activist who refused to give up her seat stood with the Montgomery Bus Boycott.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Martin Luther King Jr." was a leader of the civil rights movement.
+  Stem 2: The Southern Christian Leadership Conference worked with "Martin Luther King Jr.".
+  Integration: The leader of the civil rights movement worked with the Southern Christian Leadership Conference.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Susan B. Anthony" was a leader of the women's suffrage movement.
+  Stem 2: The National Woman Suffrage Association worked with "Susan B. Anthony".
+  Integration: The leader of the women's suffrage movement worked with the National Woman Suffrage Association.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "John F. Kennedy" was a U.S. president who supported the Moon mission.
+  Stem 2: NASA worked with "John F. Kennedy".
+  Integration: The U.S. president who supported the Moon mission worked with NASA.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Franklin D. Roosevelt" was the president who started the New Deal.
+  Stem 2: Congress worked with "Franklin D. Roosevelt".
+  Integration: The president who started the New Deal worked with Congress.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Cesar Chavez" was a labor leader who founded the United Farm Workers.
+  Stem 2: The United Farm Workers worked with "Cesar Chavez".
+  Integration: The labor leader who founded the United Farm Workers worked with the United Farm Workers.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Jackie Robinson" was the first African American in Major League Baseball.
+  Stem 2: The Brooklyn Dodgers signed "Jackie Robinson" to the team.
+  Integration: The first African American in Major League Baseball was signed to the team by the Brooklyn Dodgers.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Helen Keller" was a writer who was deaf and blind.
+  Stem 2: Anne Sullivan worked with "Helen Keller".
+  Integration: The writer who was deaf and blind worked with Anne Sullivan.
+  Source section: Background knowledge
+
+- Relationship: People: Object
+  Stem 1: "Ludwig van Beethoven" was the composer of Symphony No. 5.
+  Stem 2: Symphony No. 5 was written by "Ludwig van Beethoven".
+  Integration: The composer of Symphony No. 5 wrote Symphony No. 5.
+  Source section: Background knowledge
 
 - Relationship: Object: Place
-  Stem 1: "law" is a rule made by a government.
-  Stem 2: The state has the "law".
-  Integration: The state follows a rule made by a government.
-  Source section: Rules and Laws
+  Stem 1: "Statue of Liberty" is a statue in New York Harbor.
+  Stem 2: Ellis Island stands by the "Statue of Liberty".
+  Integration: The statue in New York Harbor stands by Ellis Island.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Eiffel Tower" is a tower in Paris.
+  Stem 2: Gustave Eiffel worked on the "Eiffel Tower".
+  Integration: The tower in Paris was worked on by Gustave Eiffel.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Taj Mahal" is a marble tomb in India.
+  Stem 2: Shah Jahan worked on the "Taj Mahal".
+  Integration: The marble tomb in India was worked on by Shah Jahan.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Great Wall of China" is a long wall in China.
+  Stem 2: The Qin Dynasty worked on the "Great Wall of China".
+  Integration: The long wall in China was worked on by the Qin Dynasty.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Colosseum" is an arena in Rome.
+  Stem 2: Ancient Rome worked on the "Colosseum".
+  Integration: The arena in Rome was worked on by Ancient Rome.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Parthenon" is a temple in Athens.
+  Stem 2: Pericles worked on the "Parthenon".
+  Integration: The temple in Athens was worked on by Pericles.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Big Ben" is a bell in London.
+  Stem 2: Westminster Bridge stands by "Big Ben".
+  Integration: The bell in London stands by Westminster Bridge.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Great Sphinx of Giza" is a statue in Egypt.
+  Stem 2: The Pyramids of Giza stand by the "Great Sphinx of Giza".
+  Integration: The statue in Egypt stands by the Pyramids of Giza.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Mount Rushmore" is a monument in South Dakota.
+  Stem 2: The Black Hills rise by "Mount Rushmore".
+  Integration: The monument in South Dakota rises by the Black Hills.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Panama Canal" is a waterway in Panama.
+  Stem 2: Gatun Lake lies by the "Panama Canal".
+  Integration: The waterway in Panama lies by Gatun Lake.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Hoover Dam" is a dam on the Colorado River.
+  Stem 2: Lake Mead lies by "Hoover Dam".
+  Integration: The dam on the Colorado River lies by Lake Mead.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Brooklyn Bridge" is a bridge in New York City.
+  Stem 2: Manhattan stands by the "Brooklyn Bridge".
+  Integration: The bridge in New York City stands by Manhattan.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Golden Gate Bridge" is a bridge in San Francisco.
+  Stem 2: San Francisco Bay lies by the "Golden Gate Bridge".
+  Integration: The bridge in San Francisco lies by San Francisco Bay.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Hubble Space Telescope" is a telescope in orbit.
+  Stem 2: Space Shuttle Atlantis traveled to the "Hubble Space Telescope".
+  Integration: The telescope in orbit was traveled to by Space Shuttle Atlantis.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "James Webb Space Telescope" is a telescope in space.
+  Stem 2: Ariane 5 traveled with the "James Webb Space Telescope".
+  Integration: The telescope in space traveled with Ariane 5.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Voyager 1" is a spacecraft launched from Earth.
+  Stem 2: The Deep Space Network sent a signal to "Voyager 1".
+  Integration: The spacecraft launched from Earth was sent a signal by the Deep Space Network.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Apollo 11" was a Moon mission.
+  Stem 2: Saturn V traveled with "Apollo 11".
+  Integration: The Moon mission traveled with Saturn V.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Titanic" was a ship built in Belfast.
+  Stem 2: White Star Line sailed with the "Titanic".
+  Integration: The ship built in Belfast sailed with White Star Line.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Mayflower" was a ship that carried Pilgrims.
+  Stem 2: The Pilgrims sailed on the "Mayflower".
+  Integration: The ship that carried Pilgrims was sailed on by the Pilgrims.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Liberty Bell" is a bell in Philadelphia.
+  Stem 2: Independence Hall stands by the "Liberty Bell".
+  Integration: The bell in Philadelphia stands by Independence Hall.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Sydney Opera House" is a building in Australia.
+  Stem 2: Sydney Harbor lies by the "Sydney Opera House".
+  Integration: The building in Australia lies by Sydney Harbor.
+  Source section: Background knowledge
+
+- Relationship: Object: Place
+  Stem 1: "Lincoln Memorial" is a monument in Washington, D.C.
+  Stem 2: The National Park Service works on the "Lincoln Memorial".
+  Integration: The monument in Washington, D.C. was worked on by the National Park Service.
+  Source section: Background knowledge
