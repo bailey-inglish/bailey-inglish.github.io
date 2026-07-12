@@ -1,0 +1,827 @@
+{
+"code": "POR",
+"name": "Portuguese",
+"courses": [
+{
+"id": "POR 601D",
+"subject": "POR",
+"number": "601D",
+"title": "First-Year Portuguese I",
+"hours": 6.0,
+"division": "lower",
+"description": "Development of speaking, listening, reading, and writing skills; building vocabulary, learning basic rules and terminology of grammar; and gaining a better understanding of Portuguese-speaking cultures, with focus on Brazil, in order to communicate in an accurate, effective, and informed manner within a variety of socio-cultural situations. Six lecture hours a week for one semester. Only one of the following may be counted: Portuguese 601D and 610D; 604; 406 and 407; 508; 610S."
+},
+{
+"id": "POR 610D",
+"subject": "POR",
+"number": "610D",
+"title": "First-Year Portuguese II",
+"hours": 6.0,
+"division": "lower",
+"description": "Development of speaking, listening, reading, and writing skills; building vocabulary, learning basic rules and terminology of grammar; and gaining a better understanding of Portuguese-speaking cultures, with focus on Brazil, in order to communicate in an accurate, effective, and informed manner within a variety of socio-cultural situations. Six lecture hours a week for one semester. Only one of the following may be counted: 604, 610D, 610S. Only one of the following may by counted: Portuguese 610D, 612, 312K, 516. Prerequisite: Portuguese 601D or 407 with a grade of at least C.",
+"prereqText": "Portuguese 601D or 407 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 601D"
+},
+{
+"type": "course",
+"id": "POR 407",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 610S",
+"subject": "POR",
+"number": "610S",
+"title": "Portuguese for Spanish Speakers I",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed to provide qualified Spanish-speaking students a rapid introduction to Portuguese language. Development of speaking, listening, reading, and writing skills; building vocabulary, learning basic rules and terminology of grammar; and gaining a better understanding of Portuguese-speaking cultures, with a focus on Brazil, in order to communicate in an accurate, effective, and informed manner within a variety of socio-cultural situations. Six lecture hours a week for one semester. Only one of the following may be counted: Portuguese 601D and 610D; 604; 406 and 407; 508; 610S."
+},
+{
+"id": "POR 311C",
+"subject": "POR",
+"number": "311C",
+"title": "Portuguese Conversation and Culture",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore the development of speaking, listening, reading, and writing skills, and build vocabulary. Review rules and terminology of Portuguese grammar. Examine complex grammar structures and Portuguese speaking cultures, with a focus on Brazil. Three lecture hours per week for one semester. Only one of the following may be counted: Portuguese 311C, 611D, 311J, 611S, 612, 312L, or 516. Prerequisite: Portuguese 610D or 610S (or 312K) with a grade of at least C.",
+"prereqText": "Portuguese 610D or 610S (or 312K) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 610D"
+},
+{
+"type": "course",
+"id": "POR 610S"
+},
+{
+"type": "course",
+"id": "POR 312K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 611D",
+"subject": "POR",
+"number": "611D",
+"title": "Second-Year Portuguese",
+"hours": 6.0,
+"division": "lower",
+"description": "Focuses on the development of speaking, listening, reading, and writing skills while building vocabulary. Reviews rules and terminology of Portuguese grammar. Introduces complex grammar structures and Portuguese speaking cultures, with a focus on Brazil, in order to communicate in an accurate, effective, and informed manner within a variety of socio-cultural situations. Six lecture hours a week for one semester. Only one of the following may be counted: Portuguese 311C, 611D, 311J, 611S, 612, 312L, or 516. Only one of the following may be counted: Portuguese 611D, 611S, 612, 312L, 314C, 314J, or 516. Prerequisite: Portuguese 610D or 610S (or 508 or 312K) with a grade of at least C.",
+"prereqText": "Portuguese 610D or 610S (or 508 or 312K) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 610D"
+},
+{
+"type": "course",
+"id": "POR 610S"
+},
+{
+"type": "course",
+"id": "POR 508"
+},
+{
+"type": "course",
+"id": "POR 312K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 311J",
+"subject": "POR",
+"number": "311J",
+"title": "Portuguese Conversation and Culture for Spanish Speakers",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed for qualified Spanish-speaking students. Explore speaking and listening skills. Build vocabulary. Examine Portuguese-speaking cultures, with a focus on Brazil. Three lecture hours a week for one semester. Only one of the following may be counted: Portuguese 311C, 611D, 311J, 611S, 612, 312L, or 516. Prerequisite: Portuguese 610D or 610S (or 312K) with a grade of at least C.",
+"prereqText": "Portuguese 610D or 610S (or 312K) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 610D"
+},
+{
+"type": "course",
+"id": "POR 610S"
+},
+{
+"type": "course",
+"id": "POR 312K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 611S",
+"subject": "POR",
+"number": "611S",
+"title": "Portuguese for Spanish Speakers II",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation of Portuguese 610S. Six lecture hours a week for one semester. Only one of the following may be counted: Portuguese 311C, 611D, 311J, 611S, 612, 312L, or 516. Only one of the following may be counted: Portuguese 611D, 611S, 612, 312L, 314C, 314J, or 516. Prerequisite: Portuguese 610S (or 604 or 508) with a grade of at least C.",
+"prereqText": "Portuguese 610S (or 604 or 508) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 610S"
+},
+{
+"type": "course",
+"id": "POR 604"
+},
+{
+"type": "course",
+"id": "POR 508",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 612",
+"subject": "POR",
+"number": "612",
+"title": "Accelerated Second-Year Portuguese: Oral Expression, Reading, and Composition",
+"hours": 6.0,
+"division": "lower",
+"description": "Covers the same material as Portuguese 312K and 312L, but in one semester. Six lecture hours a week for one semester. Only one of the following may be counted: Portuguese 610D and 611D; 611S; 612; 312K and 312L; 516. Only one of the following may be counted: Portuguese 311C, 611D, 311J, 611S, 612, 312L, or 516. Only one of the following may be counted: Portuguese 611D, 611S, 612, 312L, 314C, 314J, or 516. Prerequisite: Portuguese 604 or 508 with a grade of at least B, or Portuguese 407 with a grade of A; and consent of the lower-division coordinator for Portuguese.",
+"prereqText": "Portuguese 604 or 508 with a grade of at least B, or Portuguese 407 with a grade of A; and consent of the lower-division coordinator for Portuguese.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 604"
+},
+{
+"type": "course",
+"id": "POR 508",
+"minGrade": "B"
+},
+{
+"type": "course",
+"id": "POR 407"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 314C",
+"subject": "POR",
+"number": "314C",
+"title": "Intermediate Writing and Grammar in Context",
+"hours": 3.0,
+"division": "lower",
+"description": "Review rules and terminology of Portuguese grammar. Explore complex grammar structures in the context of reading and writing. Build vocabulary in the context of Portuguese speaking cultures, with a focus on Brazil. Three lecture hours per week for one semester. Only one of the following may be counted: Portuguese 611D, 611S, 612, 312L, 314C, 314J, or 516. Prerequisite: Portuguese 610D or 610S (or 312K) with a grade of at least C.",
+"prereqText": "Portuguese 610D or 610S (or 312K) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 610D"
+},
+{
+"type": "course",
+"id": "POR 610S"
+},
+{
+"type": "course",
+"id": "POR 312K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 314J",
+"subject": "POR",
+"number": "314J",
+"title": "Intermediate Writing and Grammar for Spanish Speakers",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed for qualified Spanish-speaking students. Review rules and terminology of Portuguese grammar. Explore complex grammar structures in the context of reading and writing. Build vocabulary in the context of Portuguese speaking cultures, with a focus on Brazil. Three lecture hours per week for one semester. Only one of the following may be counted: Portuguese 611D, 611S, 612, 312L, 314C, 314J, or 516. Prerequisite: Portuguese 610D or 610S (or 312K) with a grade of at least C.",
+"prereqText": "Portuguese 610D or 610S (or 312K) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 610D"
+},
+{
+"type": "course",
+"id": "POR 610S"
+},
+{
+"type": "course",
+"id": "POR 312K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 119S",
+"subject": "POR",
+"number": "119S",
+"title": "Topics in Portuguese",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 219S",
+"subject": "POR",
+"number": "219S",
+"title": "Topics in Portuguese",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 319S",
+"subject": "POR",
+"number": "319S",
+"title": "Topics in Portuguese",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 419S",
+"subject": "POR",
+"number": "419S",
+"title": "Topics in Portuguese",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 519S",
+"subject": "POR",
+"number": "519S",
+"title": "Topics in Portuguese",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 619S",
+"subject": "POR",
+"number": "619S",
+"title": "Topics in Portuguese",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 719S",
+"subject": "POR",
+"number": "719S",
+"title": "Topics in Portuguese",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 819S",
+"subject": "POR",
+"number": "819S",
+"title": "Topics in Portuguese",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 919S",
+"subject": "POR",
+"number": "919S",
+"title": "Topics in Portuguese",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 321P",
+"subject": "POR",
+"number": "321P",
+"title": "Portuguese Pronunciation",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore Portuguese pronunciation and the fundamental principles of phonetic analysis. Examine how Portuguese sounds are produced, how they fall into patterns, and how they change in different environments. Three lecture hours a week for one semester. Portuguese 321 and 321P may not both be counted. Prerequisite: Portuguese 311C and 314C, 611D, 311J and 314J, or 611S (or 312L).",
+"prereqText": "Portuguese 311C and 314C, 611D, 311J and 314J, or 611S (or 312L).",
+"prereqConfidence": "low"
+},
+{
+"id": "POR 322C",
+"subject": "POR",
+"number": "322C",
+"title": "Conference Course in Luso-Brazilian Civilization",
+"hours": 3.0,
+"division": "upper",
+"description": "Conference course. Prerequisite: Portuguese 311C and 314C, 611D, 311J and 314J, or 611S (or 312L or 516); and written consent of the department chair.",
+"prereqText": "Portuguese 311C and 314C, 611D, 311J and 314J, or 611S (or 312L or 516); and written consent of the department chair.",
+"prereqConfidence": "low"
+},
+{
+"id": "POR 322L",
+"subject": "POR",
+"number": "322L",
+"title": "Conference Course in Luso-Brazilian Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Conference course. Prerequisite: Portuguese 311C and 314C, 611D, 311J and 314J, 611S, or 612 (or 312L or 516); and written consent of the department chair.",
+"prereqText": "Portuguese 311C and 314C, 611D, 311J and 314J, 611S, or 612 (or 312L or 516); and written consent of the department chair.",
+"prereqConfidence": "low"
+},
+{
+"id": "POR 327C",
+"subject": "POR",
+"number": "327C",
+"title": "Advanced Grammar and Writing in Context",
+"hours": 3.0,
+"division": "upper",
+"description": "Study and practice of Portuguese grammar, including reading exercises and guided composition designed to develop writing skills across styles. Students will be exposed to various topics in Portuguese language, literature, and culture. Three lecture hours a week for one semester. Portuguese 327C and 362 may not both be counted. Prerequisite: Portuguese 311C, 611D, 311J, 611S, 612, 314C, or 314J (or 312L or 516).",
+"prereqText": "Portuguese 311C, 611D, 311J, 611S, 612, 314C, or 314J (or 312L or 516).",
+"prereqConfidence": "low"
+},
+{
+"id": "POR 328C",
+"subject": "POR",
+"number": "328C",
+"title": "Introduction to Literatures and Cultures",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Latin American Studies 370P (Topic 2). Overview of Luso-Brazilian literatures and cultures, including the arts and popular expressions from a multidisciplinary perspective. Among the regions studied are Brazil, Portugal, and related areas in Africa. Three lecture hours a week for one semester. Latin American Studies 370P (Topic 2) and Portuguese 328C may not both be counted. Prerequisite: Portuguese 311C and 314C, 611D, 311J and 314J, or 611S (or 312L or 516).",
+"prereqText": "Portuguese 311C and 314C, 611D, 311J and 314J, or 611S (or 312L or 516).",
+"prereqConfidence": "low",
+"sameAs": "Latin American Studies 370P (Topic 2)"
+},
+{
+"id": "POR 129S",
+"subject": "POR",
+"number": "129S",
+"title": "Topics in Portuguese",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 229S",
+"subject": "POR",
+"number": "229S",
+"title": "Topics in Portuguese",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 329S",
+"subject": "POR",
+"number": "329S",
+"title": "Topics in Portuguese",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 429S",
+"subject": "POR",
+"number": "429S",
+"title": "Topics in Portuguese",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 529S",
+"subject": "POR",
+"number": "529S",
+"title": "Topics in Portuguese",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 629S",
+"subject": "POR",
+"number": "629S",
+"title": "Topics in Portuguese",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 729S",
+"subject": "POR",
+"number": "729S",
+"title": "Topics in Portuguese",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 829S",
+"subject": "POR",
+"number": "829S",
+"title": "Topics in Portuguese",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 929S",
+"subject": "POR",
+"number": "929S",
+"title": "Topics in Portuguese",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "POR 330L",
+"subject": "POR",
+"number": "330L",
+"title": "Introduction to Language and Linguistics in Society",
+"hours": 3.0,
+"division": "upper",
+"description": "Examines the dynamics of language structure and use throughout the Portuguese-speaking world. Covers topics such as sound systems, grammatical structures, historical developments, language learning and loss, dialect differences, and their social significance. Three lecture hours a week for one semester. Prerequisite: Portuguese 311C and 314C, 611D, 311J and 314J, or 611S (or 312L or 516).",
+"prereqText": "Portuguese 311C and 314C, 611D, 311J and 314J, or 611S (or 312L or 516).",
+"prereqConfidence": "low"
+},
+{
+"id": "POR 344C",
+"subject": "POR",
+"number": "344C",
+"title": "Luso-Migrations: Portugal and Brazil",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore post-colonial political and cultural relations between Portugal and Brazil. Examine nineteenth and twentieth century Portuguese travelogues, memoirs, films, and fiction. Three lecture hours per week for one semester. Only one of the following may be counted: Latin American Studies 370P (Topic: Luso-Migrations:Portugal/Braz), Portuguese 344 (Topic: Luso-Migrations:Portugal/Braz) or 344C. Prerequisite: Portuguese 327C (or 362).",
+"prereqText": "Portuguese 327C (or 362).",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 327C"
+},
+{
+"type": "course",
+"id": "POR 362"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 350C",
+"subject": "POR",
+"number": "350C",
+"title": "Brazilian Film and Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore a critical overview of Brazilian cinema, from the silent era to the present day, with an emphasis on the late twentieth and early twenty-first centuries. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370P (Topic 4), Portuguese 350C, 350F (Topic 2), 350K. Prerequisite: Portuguese 327C (or 362).",
+"prereqText": "Portuguese 327C (or 362).",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 327C"
+},
+{
+"type": "course",
+"id": "POR 362"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 352",
+"subject": "POR",
+"number": "352",
+"title": "Brazilian and Spanish American Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore Brazilian and Latin American literature and culture from the twentieth century and later. Examine the literary trends and social roles in the region while comparing and contrasting the culture and history from both Spanish America and Brazil. Three lecture hours a week for one semester. Prerequisite: Portuguese 311C and 314C, 611D, 311J and 314J, or 611S (or 312L or 516).",
+"prereqText": "Portuguese 311C and 314C, 611D, 311J and 314J, or 611S (or 312L or 516).",
+"prereqConfidence": "low"
+},
+{
+"id": "POR 353",
+"subject": "POR",
+"number": "353",
+"title": "Sociolinguistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Latin American Studies 370P (Topic 11). Explores the interrelationship of language and society with reference to the Portuguese-speaking world. Examines how socio-economic , political, and anthropological factors like race, social class, gender, age, and identity influence linguistics forms. Three hours a week for one semester. Latin American Studies 370P (Topic 11) and Portuguese 353 may not both be counted. Prerequisite: Portuguese 327C or 362, and 330L.",
+"prereqText": "Portuguese 327C or 362, and 330L.",
+"prereqConfidence": "low",
+"sameAs": "Latin American Studies 370P (Topic 11)"
+},
+{
+"id": "POR 354",
+"subject": "POR",
+"number": "354",
+"title": "United States Latino Literatures and Cultures in Context",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Latin American Studies 370P (Topic 10). Examines the United States Latino literary and cultural production from a multidisciplinary perspective, through literature, film, music, and performance. Analyzes the literatures and experiences of Brazilian American writers and artists in their historical and cultural specificities. Three lecture hours a week for one semester. Latin American Studies 370P (Topic 10) and Portuguese 354 may not both be counted. Prerequisite: Portuguese 327C (or 362).",
+"prereqText": "Portuguese 327C (or 362).",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 327C"
+},
+{
+"type": "course",
+"id": "POR 362"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Latin American Studies 370P (Topic 10)"
+},
+{
+"id": "POR 364L",
+"subject": "POR",
+"number": "364L",
+"title": "Applied Linguistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the linguistic structure of Portuguese; application of linguistic principles to the teaching of Portuguese. Three lecture hours a week for one semester. Prerequisite: Portuguese 311C and 314C, 611D, 311J and 314J, 611S, or 612 (or 312L or 516).",
+"prereqText": "Portuguese 311C and 314C, 611D, 311J and 314J, 611S, or 612 (or 312L or 516).",
+"prereqConfidence": "low"
+},
+{
+"id": "POR 367C",
+"subject": "POR",
+"number": "367C",
+"title": "Business in Brazilian Life and Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore cultural aspects of business practices in Brazil. Three lecture hours a week for one semester. Only one of the following may be counted: Communication Studies 367 (Topic: Brazilian Life/Cul-BRA), Latin American Studies 322 (Topic 16), Portuguese 367C, Portuguese 367P (Topic 1). Prerequisite: Portuguese 327C or 362.",
+"prereqText": "Portuguese 327C or 362.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 327C"
+},
+{
+"type": "course",
+"id": "POR 362"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 368T",
+"subject": "POR",
+"number": "368T",
+"title": "Topics in Linguistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Portuguese 327C (or 362).",
+"prereqText": "Portuguese 327C (or 362).",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 327C"
+},
+{
+"type": "course",
+"id": "POR 362"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 375D",
+"subject": "POR",
+"number": "375D",
+"title": "Global Brazil",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine twentieth-century literature, films, and other cultural artifacts of the multicultural Brazilian society. Critique the image of Brazil as a unified, harmonious, racially-mixed nation. Explore contemporary textual and visual representations of the Brazilian diaspora in the United States and Europe. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370P (Topic 6), Portuguese 375 (Topic 7), 375D. Prerequisite: Portuguese 327C (or 362).",
+"prereqText": "Portuguese 327C (or 362).",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 327C"
+},
+{
+"type": "course",
+"id": "POR 362"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 375E",
+"subject": "POR",
+"number": "375E",
+"title": "Popular Music in Brazil",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore Brazilian cultural politics through the message and performance of live and recorded song, including samba, bossa nova, protest song, Tropicalist counter-cultural song, Brazilian funk, hip hop, and manguebeat. Three lecture hours per week for one semester. Only one of the following may be counted: Portuguese 375 (Topic: Popular Music in Brazil) or 375E. Prerequisite: Portuguese 327C (or 362).",
+"prereqText": "Portuguese 327C (or 362).",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POR 327C"
+},
+{
+"type": "course",
+"id": "POR 362"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 377C",
+"subject": "POR",
+"number": "377C",
+"title": "Topics in Portuguese",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine important themes in Brazilian society related to cultural production including literature, audiovisual, and media production. Three lecture hours per week for one semester. May be repeated for credit when the topics vary. Prerequisite: Portuguese 327C and 328C.",
+"prereqText": "Portuguese 327C and 328C.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "POR 327C"
+},
+{
+"type": "course",
+"id": "POR 328C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 379C",
+"subject": "POR",
+"number": "379C",
+"title": "Capstone Seminar in Literatures and Cultures",
+"hours": 3.0,
+"division": "upper",
+"description": "Central issues, concepts, and themes that define Luso-Brazilian literatures and cultures. Focus on a specific case study or case studies that result in the production of a research paper on a particular topic of interest. Three semester hours a week for one semester. Prerequisite: Portuguese 327C, 328C, and twelve hours of upper-division coursework in Portuguese.",
+"prereqText": "Portuguese 327C, 328C, and twelve hours of upper-division coursework in Portuguese.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "POR 327C"
+},
+{
+"type": "course",
+"id": "POR 328C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 379H",
+"subject": "POR",
+"number": "379H",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on a literary, linguistic, or cultural problem, culminating in a written thesis. The equivalent of three lecture hours a week for one semester. Prerequisite: Upper-division standing, admission to the Iberian and Latin American Languages and Cultures Honors Program, and consent of the honors advisor.",
+"prereqText": "Upper-division standing, admission to the Iberian and Latin American Languages and Cultures Honors Program, and consent of the honors advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "POR 379L",
+"subject": "POR",
+"number": "379L",
+"title": "Capstone Seminar in Linguistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Central issues, concepts, and themes that define linguistics. Focus on a specific case study or case studies that result in the production of a research paper on a particular topic of interest. Three lecture hours a week for one semester. Prerequisite: Portuguese 327C, 330L, and twelve hours of upper-division coursework in Portuguese.",
+"prereqText": "Portuguese 327C, 330L, and twelve hours of upper-division coursework in Portuguese.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "POR 327C"
+},
+{
+"type": "course",
+"id": "POR 330L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POR 381",
+"subject": "POR",
+"number": "381",
+"title": "Topics in Brazilian Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, six semester hours of upper-division coursework in Portuguese, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, six semester hours of upper-division coursework in Portuguese, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "POR 285L",
+"subject": "POR",
+"number": "285L",
+"title": "Conference Course in Luso-Brazilian Literatures and Linguistics",
+"hours": 2.0,
+"division": "graduate",
+"description": "For students with special interests not met by other courses offered in any one semester. Conference course. May be repeated for credit. Prerequisite: Graduate standing and written consent of the graduate adviser.",
+"prereqText": "Graduate standing and written consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "POR 385L",
+"subject": "POR",
+"number": "385L",
+"title": "Conference Course in Luso-Brazilian Literatures and Linguistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "For students with special interests not met by other courses offered in any one semester. Conference course. May be repeated for credit. Prerequisite: Graduate standing and written consent of the graduate adviser.",
+"prereqText": "Graduate standing and written consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "POR 396K",
+"subject": "POR",
+"number": "396K",
+"title": "Topics in Comparative Romance Linguistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in languages and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing in languages and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "POR 398R",
+"subject": "POR",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in Portuguese and consent of the graduate adviser.",
+"prereqText": "Graduate standing in Portuguese and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

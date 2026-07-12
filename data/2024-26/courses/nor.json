@@ -1,0 +1,246 @@
+{
+"code": "NOR",
+"name": "Norwegian",
+"courses": [
+{
+"id": "NOR 604",
+"subject": "NOR",
+"number": "604",
+"title": "Accelerated First-Year Norwegian",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester, with optional laboratory available."
+},
+{
+"id": "NOR 612",
+"subject": "NOR",
+"number": "612",
+"title": "Accelerated Second-Year Norwegian",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester, with optional laboratory available. Prerequisite: Norwegian 604.",
+"prereqText": "Norwegian 604.",
+"prereq": {
+"type": "course",
+"id": "NOR 604"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NOR 119S",
+"subject": "NOR",
+"number": "119S",
+"title": "Topics in Norwegian",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser for the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 219S",
+"subject": "NOR",
+"number": "219S",
+"title": "Topics in Norwegian",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser for the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 319S",
+"subject": "NOR",
+"number": "319S",
+"title": "Topics in Norwegian",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser for the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 419S",
+"subject": "NOR",
+"number": "419S",
+"title": "Topics in Norwegian",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser for the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 519S",
+"subject": "NOR",
+"number": "519S",
+"title": "Topics in Norwegian",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser for the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 619S",
+"subject": "NOR",
+"number": "619S",
+"title": "Topics in Norwegian",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser for the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 719S",
+"subject": "NOR",
+"number": "719S",
+"title": "Topics in Norwegian",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser for the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 819S",
+"subject": "NOR",
+"number": "819S",
+"title": "Topics in Norwegian",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser for the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 919S",
+"subject": "NOR",
+"number": "919S",
+"title": "Topics in Norwegian",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser for the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 327",
+"subject": "NOR",
+"number": "327",
+"title": "Advanced Norwegian I",
+"hours": 3.0,
+"division": "upper",
+"description": "Norwegian language and culture with a focus on the skills of speaking, comprehension, reading, and writing Norwegian. Three lecture hours a week for one semester. Norwegian 327 and Scandinavian 369 (Topic: Advanced Norwegian Language and Culture I) may not both be counted. Prerequisite: Norwegian 612 with a grade of at least C.",
+"prereqText": "Norwegian 612 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "NOR 612",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NOR 328",
+"subject": "NOR",
+"number": "328",
+"title": "Advanced Norwegian II",
+"hours": 3.0,
+"division": "upper",
+"description": "Continuation of Norwegian 327. Further study of Norwegian reading, writing, speaking, and aural comprehension. Readings include contemporary journalism, fiction, and other texts that promote the understanding of a modern Scandinavian society. Three lecture hours a week for one semester. Norwegian 328 and Scandinavian 369 (Topic: Advanced Norwegian Language and Culture II) may not both be counted. Prerequisite: Norwegian 327 with a grade of at least C.",
+"prereqText": "Norwegian 327 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "NOR 327",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NOR 129S",
+"subject": "NOR",
+"number": "129S",
+"title": "Topics in Norwegian",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 229S",
+"subject": "NOR",
+"number": "229S",
+"title": "Topics in Norwegian",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 329S",
+"subject": "NOR",
+"number": "329S",
+"title": "Topics in Norwegian",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 429S",
+"subject": "NOR",
+"number": "429S",
+"title": "Topics in Norwegian",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 529S",
+"subject": "NOR",
+"number": "529S",
+"title": "Topics in Norwegian",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 629S",
+"subject": "NOR",
+"number": "629S",
+"title": "Topics in Norwegian",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 729S",
+"subject": "NOR",
+"number": "729S",
+"title": "Topics in Norwegian",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 829S",
+"subject": "NOR",
+"number": "829S",
+"title": "Topics in Norwegian",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 929S",
+"subject": "NOR",
+"number": "929S",
+"title": "Topics in Norwegian",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NOR 130D",
+"subject": "NOR",
+"number": "130D",
+"title": "Norwegian across Disciplines",
+"hours": 1.0,
+"division": "upper",
+"description": "Read and discuss Norwegian language materials related to the subject matter of another designated course. One lecture hour per week for one semester. May be repeated for credit. Prerequisite: Three semester hours of upper-division coursework in Norwegian with a grade of at least C.",
+"prereqText": "Three semester hours of upper-division coursework in Norwegian with a grade of at least C.",
+"prereqConfidence": "none"
+},
+{
+"id": "NOR 379",
+"subject": "NOR",
+"number": "379",
+"title": "Conference Course in Norwegian Language or Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in Norwegian language or literature. Conference course. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+}
+]
+}

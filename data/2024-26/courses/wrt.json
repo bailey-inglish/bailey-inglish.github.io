@@ -1,0 +1,105 @@
+{
+"code": "WRT",
+"name": "Writing",
+"courses": [
+{
+"id": "WRT 380",
+"subject": "WRT",
+"number": "380",
+"title": "First-Year Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to first-year candidates for the Master of Fine Arts in Writing. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing in writing.",
+"prereqText": "Graduate standing in writing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to first-year candidates for the Master of Fine Arts in Writing.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "WRT 380S",
+"subject": "WRT",
+"number": "380S",
+"title": "Studies in Creative Writing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Subjects include the study of literature, creative theory, and criticism in the genres of fiction, nonfiction, poetry, playwriting, and screenwriting. Three lecture hours a week for one semester. Prerequisite: Graduate standing in writing, or graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing in writing, or graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "WRT 380W",
+"subject": "WRT",
+"number": "380W",
+"title": "Workshop in Creative Writing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Subjects include writing fiction, writing poetry, playwriting, and screenwriting. Three lecture hours a week for one semester. Prerequisite: Graduate standing in writing, or graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing in writing, or graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "WRT 182",
+"subject": "WRT",
+"number": "182",
+"title": "Independent Projects",
+"hours": 1.0,
+"division": "graduate",
+"description": "Restricted to advanced MFA candidates. Conference work and independent study. May be repeated for credit. Prerequisite: Graduate standing in writing, or graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing in writing, or graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to advanced MFA candidates."
+},
+{
+"id": "WRT 282",
+"subject": "WRT",
+"number": "282",
+"title": "Independent Projects",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to advanced MFA candidates. Conference work and independent study. May be repeated for credit. Prerequisite: Graduate standing in writing, or graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing in writing, or graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to advanced MFA candidates."
+},
+{
+"id": "WRT 382",
+"subject": "WRT",
+"number": "382",
+"title": "Independent Projects",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to advanced MFA candidates. Conference work and independent study. May be repeated for credit. Prerequisite: Graduate standing in writing, or graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing in writing, or graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to advanced MFA candidates."
+},
+{
+"id": "WRT 390",
+"subject": "WRT",
+"number": "390",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "WRT 698",
+"subject": "WRT",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "Individual instruction. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in writing and consent of the graduate adviser; for 698B, Writing 698A.",
+"prereqText": "For 698A, graduate standing in writing and consent of the graduate adviser; for 698B, Writing 698A.",
+"prereq": {
+"type": "course",
+"id": "WRT 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

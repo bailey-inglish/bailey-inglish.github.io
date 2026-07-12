@@ -1,0 +1,216 @@
+{
+"code": "ENM",
+"name": "Engineering Management",
+"courses": [
+{
+"id": "ENM 380E",
+"subject": "ENM",
+"number": "380E",
+"title": "Topics in Management of People, Processes, Projects, and Organizations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the engineering management degree program. Explore engineering management processes and how these processes are used by administrators and managers. The equivalent of three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the engineering management degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 381E",
+"subject": "ENM",
+"number": "381E",
+"title": "Topics in Business Foundations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the engineering management degree program. Survey important topics and foundational ideas in business, as applied within an engineering environment. The equivalent of three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the engineering management degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 382E",
+"subject": "ENM",
+"number": "382E",
+"title": "Topics in Decision Making",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the engineering management degree program. Explore methods to make high-quality decisions in an engineering environment. The equivalent of three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the engineering management degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 385C",
+"subject": "ENM",
+"number": "385C",
+"title": "Projects in Engineering Management I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the engineering management program. First course in a two-semester sequence that concludes with Engineering Management 385D. Independent project carried out under the supervision of an engineering management faculty member. Individual instruction. Engineering Management 385C and 397P may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the engineering management program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 385D",
+"subject": "ENM",
+"number": "385D",
+"title": "Projects in Engineering Management II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the engineering management program. Continuation of Engineering Management 385C or 397P. Independent project carried out under the supervision of an engineering management faculty member. Individual instruction. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Engineering Management 385C or 397P.",
+"prereqText": "Graduate standing and Engineering Management 385C or 397P.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ENM 385C"
+},
+{
+"type": "course",
+"id": "ENM 397P"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the engineering management program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 185K",
+"subject": "ENM",
+"number": "185K",
+"title": "Special Topics in Engineering Management",
+"hours": 1.0,
+"division": "graduate",
+"description": "Explore special topics in engineering management. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 285K",
+"subject": "ENM",
+"number": "285K",
+"title": "Special Topics in Engineering Management",
+"hours": 2.0,
+"division": "graduate",
+"description": "Explore special topics in engineering management. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 385K",
+"subject": "ENM",
+"number": "385K",
+"title": "Special Topics in Engineering Management",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore special topics in engineering management. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 286",
+"subject": "ENM",
+"number": "286",
+"title": "Marketing in an Engineering Environment",
+"hours": 2.0,
+"division": "graduate",
+"description": "Explore major marketing concepts and variables, their interrelationships, and their implications for policy making, problem solving, and strategy formulation. Two lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 187",
+"subject": "ENM",
+"number": "187",
+"title": "Art and Science of Negotiations",
+"hours": 1.0,
+"division": "graduate",
+"description": "Examine the development of sophisticated strategies and tactics to pursue mutually beneficial solutions. One lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 188",
+"subject": "ENM",
+"number": "188",
+"title": "Legal Issues for Engineering Managers",
+"hours": 1.0,
+"division": "graduate",
+"description": "Examine legal considerations in the practice of engineering management. One lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 289",
+"subject": "ENM",
+"number": "289",
+"title": "Management of Technology",
+"hours": 2.0,
+"division": "graduate",
+"description": "Explore management disciplines to create maximum value from technology. Two lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 390",
+"subject": "ENM",
+"number": "390",
+"title": "Systems Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Utilize systems-thinking principles to organize how to design, integrate, and manage complex systems over their life cycles. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 391",
+"subject": "ENM",
+"number": "391",
+"title": "Lean Systems and Processes",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ENM 397K",
+"subject": "ENM",
+"number": "397K",
+"title": "Engineering Management Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Current topics in engineering management. Conference course. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and admission to the engineering management degree program.",
+"prereqText": "Graduate standing and admission to the engineering management degree program.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ENM 397P",
+"subject": "ENM",
+"number": "397P",
+"title": "Projects in Engineering Management",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent project carried out under the supervision of an engineering management faculty member. Conference course. Engineering Management 385C and 397P may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and admission to the engineering management degree program.",
+"prereqText": "Graduate standing and admission to the engineering management degree program.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+}
+]
+}

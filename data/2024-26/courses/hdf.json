@@ -1,0 +1,1013 @@
+{
+"code": "HDF",
+"name": "Human Development and Family Sciences",
+"courses": [
+{
+"id": "HDF 304",
+"subject": "HDF",
+"number": "304",
+"title": "Family Relationships",
+"hours": 3.0,
+"division": "lower",
+"description": "The process of family interaction over the life cycle. Application of research findings to the understanding of relationships. Only one of the following may be counted: Human Development and Family Sciences 304, 304H, Women's and Gender Studies 301 (Topic 4).",
+"tccn": "TECA 1303"
+},
+{
+"id": "HDF 304H",
+"subject": "HDF",
+"number": "304H",
+"title": "Family Relationships: Honors",
+"hours": 3.0,
+"division": "lower",
+"description": "The process of family interaction over the life cycle. Application of research findings to the understanding of relationships. Three lecture hours a week for one semester. Only one of the following may be counted: Human Development and Family Sciences 304, 304H, Women's and Gender Studies 301 (Topic 4). Offered on the letter-grade basis only. Prerequisite: Consent of the department.",
+"prereqText": "Consent of the department.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 305",
+"subject": "HDF",
+"number": "305",
+"title": "Health and Development Across the Lifespan",
+"hours": 3.0,
+"division": "lower",
+"description": "Investigate the experiences of health and well-being across the life span of both individuals and families. Apply research findings to explore how physical and mental health are influenced by societal contexts. Three lecture hours a week for one semester."
+},
+{
+"id": "HDF 306",
+"subject": "HDF",
+"number": "306",
+"title": "Introduction to Gender and Sexuality",
+"hours": 3.0,
+"division": "lower",
+"description": "Same as Women's and Gender Studies 301 (Topic 31). Explore social, emotional, cognitive, and physical aspects of gender and sexuality within the contexts of individual human development, families, and cultures. Three lecture hours a week for one semester.",
+"sameAs": "Women's and Gender Studies 301 (Topic 31)"
+},
+{
+"id": "HDF 312",
+"subject": "HDF",
+"number": "312",
+"title": "Family Resource Management",
+"hours": 3.0,
+"division": "lower",
+"description": "Management concepts and theory in resource allocation used to meet family and life demands. Three lecture hours a week for one semester. Prerequisite: Credit or registration for Human Development and Family Sciences 304.",
+"prereqText": "Credit or registration for Human Development and Family Sciences 304.",
+"prereq": {
+"type": "course",
+"id": "HDF 304"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HDF 313",
+"subject": "HDF",
+"number": "313",
+"title": "Child Development",
+"hours": 3.0,
+"division": "lower",
+"description": "Motor, language, cognitive, social, and emotional development in the family context. Three lecture hours a week for one semester. Only one of the following may be counted: Human Development and Family Sciences 313, 313H, Women's and Gender Studies 313. Prerequisite: Credit or registration for Human Development and Family Sciences 113L.",
+"tccn": "TECA 1354",
+"prereqText": "Credit or registration for Human Development and Family Sciences 113L.",
+"prereq": {
+"type": "course",
+"id": "HDF 113L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HDF 313H",
+"subject": "HDF",
+"number": "313H",
+"title": "Child Development: Honors",
+"hours": 3.0,
+"division": "lower",
+"description": "Motor, language, social, and emotional development of children in the family context, with an emphasis on research findings and evaluations. Three lecture hours a week for one semester. Only one of the following may be counted: Human Development and Family Sciences 313, 313H, Women's and Gender Studies 301 (Topic 5: Child Development). Offered on the letter-grade basis only. Prerequisite: Credit or registration for Human Development and Family Sciences 114H, and consent of the department.",
+"prereqText": "Credit or registration for Human Development and Family Sciences 114H, and consent of the department.",
+"prereq": {
+"type": "course",
+"id": "HDF 114H"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 113L",
+"subject": "HDF",
+"number": "113L",
+"title": "Child Development Laboratory",
+"hours": 1.0,
+"division": "lower",
+"description": "Observe children at the University Child and Family Laboratory and relate observations to the issues discussed in related coursework. One and one-half laboratory hours a week for one semester. Human Development and Family Sciences 113L and 114H may not both be counted. Prerequisite: Credit or registration for Human Development and Family Sciences 313 or 313H, and consent of the department.",
+"prereqText": "Credit or registration for Human Development and Family Sciences 313 or 313H, and consent of the department.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "HDF 313"
+},
+{
+"type": "course",
+"id": "HDF 313H"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HDF 114H",
+"subject": "HDF",
+"number": "114H",
+"title": "Child Development Laboratory: Honors",
+"hours": 1.0,
+"division": "lower",
+"description": "Observe children at the University Child and Family Laboratory and relate observations to the issues discussed in related coursework. One and one-half laboratory hours a week for one semester. Human Development and Family Sciences 113L and 114H may not both be counted. Prerequisite: Credit or registration for Human Development and Family Sciences 313 or 313H, and consent of the department.",
+"prereqText": "Credit or registration for Human Development and Family Sciences 313 or 313H, and consent of the department.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "HDF 313"
+},
+{
+"type": "course",
+"id": "HDF 313H"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HDF 315L",
+"subject": "HDF",
+"number": "315L",
+"title": "Research Methods in Human Development and Family Sciences",
+"hours": 3.0,
+"division": "lower",
+"description": "Survey of research methods, including observational and experimental techniques. Three lecture hours a week for one semester. Prerequisite: Statistics and Data Sciences 302, 302F, or 320E; credit with a grade of at least C- or registration for Human Development and Family Sciences 304 or 304H, 313 or 313H, and 113L or 114H.",
+"prereqText": "Statistics and Data Sciences 302, 302F, or 320E; credit with a grade of at least C- or registration for Human Development and Family Sciences 304 or 304H, 313 or 313H, and 113L or 114H.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 119S",
+"subject": "HDF",
+"number": "119S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 219S",
+"subject": "HDF",
+"number": "219S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 319S",
+"subject": "HDF",
+"number": "319S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 419S",
+"subject": "HDF",
+"number": "419S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 519S",
+"subject": "HDF",
+"number": "519S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 619S",
+"subject": "HDF",
+"number": "619S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 719S",
+"subject": "HDF",
+"number": "719S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 819S",
+"subject": "HDF",
+"number": "819S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 919S",
+"subject": "HDF",
+"number": "919S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 322",
+"subject": "HDF",
+"number": "322",
+"title": "Personal and Family Finance",
+"hours": 3.0,
+"division": "upper",
+"description": "Overview from the individual and family perspectives of financial planning tools, cash management, consumer credit, basic tax preparation, and insurance selection. Includes application of knowledge to hypothetical situations and case studies. Three lecture hours a week for one semester. Human Development and Family Sciences 322 and Finance 322F may not both be counted. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 129S",
+"subject": "HDF",
+"number": "129S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 229S",
+"subject": "HDF",
+"number": "229S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 329S",
+"subject": "HDF",
+"number": "329S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 429S",
+"subject": "HDF",
+"number": "429S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 529S",
+"subject": "HDF",
+"number": "529S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 629S",
+"subject": "HDF",
+"number": "629S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 729S",
+"subject": "HDF",
+"number": "729S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 829S",
+"subject": "HDF",
+"number": "829S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 929S",
+"subject": "HDF",
+"number": "929S",
+"title": "Topics in Human Development and Family Sciences",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HDF 335",
+"subject": "HDF",
+"number": "335",
+"title": "Adult Development",
+"hours": 3.0,
+"division": "upper",
+"description": "Adulthood and the development, changes, and maturation that occurs, including the impact of relationships in adulthood. Three lecture hours a week for one semester. Prerequisite: Upper-division standing and Human Development and Family Sciences 313 or 313H, and 113L with a grade of at least C- in each.",
+"prereqText": "Upper-division standing and Human Development and Family Sciences 313 or 313H, and 113L with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 337",
+"subject": "HDF",
+"number": "337",
+"title": "Personal Relationships",
+"hours": 3.0,
+"division": "upper",
+"description": "Studies intimate relationships, including dating, cohabitation, marriage, and gay and lesbian relationships, as well as situational factors that may influence basic relationship processes. Three lecture hours a week for one semester. Prerequisite: Upper-division standing; Human Development and Family Sciences 304 or 304H, and 315L with a grade of at least C- in each.",
+"prereqText": "Upper-division standing; Human Development and Family Sciences 304 or 304H, and 315L with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 338",
+"subject": "HDF",
+"number": "338",
+"title": "Developmentally Appropriate Practices with Young Children",
+"hours": 3.0,
+"division": "upper",
+"description": "Developmentally appropriate practices, the importance of play, arranging environments, material selection, and a basic understanding about centers and activities for young children. Three lecture hours a week for one semester, with an additional three to six hours of fieldwork sometime during the semester. Prerequisite: Upper-division standing; and a grade of at least C- in one of the following: Human Development and Family Sciences 313 and 113L, 313H and 113L, or Psychology 304.",
+"prereqText": "Upper-division standing; and a grade of at least C- in one of the following: Human Development and Family Sciences 313 and 113L, 313H and 113L, or Psychology 304.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 340",
+"subject": "HDF",
+"number": "340",
+"title": "Ethical, Philosophical, and Professional Development Issues",
+"hours": 3.0,
+"division": "upper",
+"description": "Explores ethical and philosophical issues; personal values and choices; professional development and leadership; and career goals, opportunities, and challenges as they relate to human development and family sciences. Three lecture hours a week for one semester. Human Development and Family Sciences 340 and Human Ecology 101P may not both be counted. Human Development and Family Sciences 340 and Human Ecology 102P may not both be counted. Human Development and Family Sciences 340 and Human Ecology 103P may not both be counted. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 342",
+"subject": "HDF",
+"number": "342",
+"title": "Development of Psychopathology from Infancy through Adolescence",
+"hours": 3.0,
+"division": "upper",
+"description": "A developmental approach to the study of emotional and behavioral disorders from infancy through adolescence, including attachment disorders, autism, attention deficit disorder, conduct disorder, phobias, obsessive-compulsive disorder, depression, eating disorders, and schizophrenia. Also includes contrasting theories of psychopathology, epidemiology and outcomes of childhood disorders, therapeutic approaches and their efficacy, and developmental resilience. Three lecture hours a week for one semester. Human Development and Family Sciences 342 and Psychology 339 may not both be counted. Prerequisite: Upper-division standing; Human Development and Family Sciences 313 or 313H, and 113L with a grade of at least C- in each.",
+"prereqText": "Upper-division standing; Human Development and Family Sciences 313 or 313H, and 113L with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 343",
+"subject": "HDF",
+"number": "343",
+"title": "Human Development in Minority and Immigrant Families",
+"hours": 3.0,
+"division": "upper",
+"description": "Examines the theories of human development and cultural psychology as they apply to the developmental issues of minority and immigrant children and families. Three lecture hours a week for one semester. Human Development and Family Sciences 343 and 378K (Topic: Child Development in Minority and Immigrant Families) may not both be counted. Prerequisite: Upper-division standing and Human Development and Family Sciences 313 or 313H, 113L, and 315L with a grade of at least C- in each.",
+"prereqText": "Upper-division standing and Human Development and Family Sciences 313 or 313H, 113L, and 315L with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 345",
+"subject": "HDF",
+"number": "345",
+"title": "Peer Relationships",
+"hours": 3.0,
+"division": "upper",
+"description": "Children's peer relationships from toddlerhood to adolescence. Three lecture hours a week for one semester. Human Development and Family Sciences 345 and 378K (Topic: Peer Relationships) may not both be counted. Prerequisite: Upper-division standing; Human Development and Family Sciences 313 or 313H, 113L, and 315L with a grade of at least C- in each.",
+"prereqText": "Upper-division standing; Human Development and Family Sciences 313 or 313H, 113L, and 315L with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 347",
+"subject": "HDF",
+"number": "347",
+"title": "Socioeconomic Problems of Families",
+"hours": 3.0,
+"division": "upper",
+"description": "An analysis of how socioeconomic factors, including income, education, employment, and their intersection with race and gender affect child development and family functioning. Three lecture hours a week for one semester. Prerequisite: Upper-division standing, and six semester hours of coursework in anthropology, economics, education, human development and family sciences, psychology, social work, or sociology.",
+"prereqText": "Upper-division standing, and six semester hours of coursework in anthropology, economics, education, human development and family sciences, psychology, social work, or sociology.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 351",
+"subject": "HDF",
+"number": "351",
+"title": "Infant Development and Attachment Relationships",
+"hours": 3.0,
+"division": "upper",
+"description": "The development of emerging social language and cognitive capacities during infancy and toddlerhood and the development and consequences in infant-caregiver attachment security. Three lecture hours a week for one semester. Prerequisite: Upper-division standing; and Human Development and Family Sciences 313 or 313H, 113L, and 315L, with a grade of at least C- in each.",
+"prereqText": "Upper-division standing; and Human Development and Family Sciences 313 or 313H, 113L, and 315L, with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 352",
+"subject": "HDF",
+"number": "352",
+"title": "Field Experience: Community",
+"hours": 3.0,
+"division": "upper",
+"description": "Practicum in applied settings concerning human development and family sciences. One lecture hour and ten to twelve hours of fieldwork a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, 315L, and 340; Statistics and Data Sciences 302; Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 332; and nine additional semester hours of upper-division coursework in human development and family sciences. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester.",
+"prereqText": "Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, 315L, and 340; Statistics and Data Sciences 302; Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 332; and nine additional semester hours of upper-division coursework in human development and family sciences. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 652F",
+"subject": "HDF",
+"number": "652F",
+"title": "Field Practicum: Community",
+"hours": 6.0,
+"division": "upper",
+"description": "Designed for students in their last semester. Practicum in settings concerning human development and family sciences. One lecture hour and at least twenty laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, 315L, and 340; Statistics and Data Sciences 302; Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 332; and nine additional semester hours of upper-division coursework in human development and family sciences. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester.",
+"prereqText": "Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, 315L, and 340; Statistics and Data Sciences 302; Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 332; and nine additional semester hours of upper-division coursework in human development and family sciences. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 352L",
+"subject": "HDF",
+"number": "352L",
+"title": "Field Experience: Early Childhood",
+"hours": 3.0,
+"division": "upper",
+"description": "Study and implementation of skills necessary for planning, guiding, and interacting with young children and their families, and for the management of facilities that provide services for young children. One lecture hour and ten to twelve hours of fieldwork a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, and 315L, Statistics and Data Sciences 302; Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 332; Human Development and Family Sciences 338, 340, and 466; three additional semester hours of upper-division coursework in human development and family sciences; and consent of instructor. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester.",
+"prereqText": "Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, and 315L, Statistics and Data Sciences 302; Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 332; Human Development and Family Sciences 338, 340, and 466; three additional semester hours of upper-division coursework in human development and family sciences; and consent of instructor. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 652P",
+"subject": "HDF",
+"number": "652P",
+"title": "Field Practicum: Early Childhood",
+"hours": 6.0,
+"division": "upper",
+"description": "Designed for students in their last semester. Study and implementation of skills necessary for planning, guiding, and interacting with young children and their families; and for the management of facilities that provide services for young children. One lecture hour and at least twenty laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, and 315L, Statistics and Data Sciences 302; Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 332; Human Development and Family Sciences 338, 340, and 466; three additional semester hours of upper-division coursework in human development and family sciences; and consent of instructor. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester.",
+"prereqText": "Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, and 315L, Statistics and Data Sciences 302; Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 332; Human Development and Family Sciences 338, 340, and 466; three additional semester hours of upper-division coursework in human development and family sciences; and consent of instructor. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 353",
+"subject": "HDF",
+"number": "353",
+"title": "Longevity in the 21st Century",
+"hours": 3.0,
+"division": "upper",
+"description": "Explores questions concerning the rapidly changing world in which people routinely live into old age. Focus on challenges adults face at the individual, familial, and societal level due to a prolonged adulthood. Three lecture hours a week for one semester. Human Development and Family Sciences 353 and 378K (Topic: Longevity in the 21st Century) may not both be counted. Prerequisite: Upper-division standing; and Human Development and Family Sciences 304 or 304H, and 315L with a grade of at least C- in each.",
+"prereqText": "Upper-division standing; and Human Development and Family Sciences 304 or 304H, and 315L with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 155H",
+"subject": "HDF",
+"number": "155H",
+"title": "Problems Course: Honors",
+"hours": 1.0,
+"division": "upper",
+"description": "Intensive study of selected research problems. For each semester hour of credit earned, at least three laboratory hours a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; Human Development and Family Sciences 315L with a grade of at least B-; Mathematics 316, Statistics and Data Sciences 303 (or Statistics and Scientific Computation 303), 304 (or Statistics and Scientific Computation 304), 305 (or Statistics and Scientific Computation 305), or 306 (or Statistics and Scientific Computation 306) with a grade of at least B-; a University grade-point average of at least 3.00; and consent of the department.",
+"prereqText": "Upper-division standing; Human Development and Family Sciences 315L with a grade of at least B-; Mathematics 316, Statistics and Data Sciences 303 (or Statistics and Scientific Computation 303), 304 (or Statistics and Scientific Computation 304), 305 (or Statistics and Scientific Computation 305), or 306 (or Statistics and Scientific Computation 306) with a grade of at least B-; a University grade-point average of at least 3.00; and consent of the department.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 255H",
+"subject": "HDF",
+"number": "255H",
+"title": "Problems Course: Honors",
+"hours": 2.0,
+"division": "upper",
+"description": "Intensive study of selected research problems. For each semester hour of credit earned, at least three laboratory hours a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; Human Development and Family Sciences 315L with a grade of at least B-; Mathematics 316, Statistics and Data Sciences 303 (or Statistics and Scientific Computation 303), 304 (or Statistics and Scientific Computation 304), 305 (or Statistics and Scientific Computation 305), or 306 (or Statistics and Scientific Computation 306) with a grade of at least B-; a University grade-point average of at least 3.00; and consent of the department.",
+"prereqText": "Upper-division standing; Human Development and Family Sciences 315L with a grade of at least B-; Mathematics 316, Statistics and Data Sciences 303 (or Statistics and Scientific Computation 303), 304 (or Statistics and Scientific Computation 304), 305 (or Statistics and Scientific Computation 305), or 306 (or Statistics and Scientific Computation 306) with a grade of at least B-; a University grade-point average of at least 3.00; and consent of the department.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 355H",
+"subject": "HDF",
+"number": "355H",
+"title": "Problems Course: Honors",
+"hours": 3.0,
+"division": "upper",
+"description": "Intensive study of selected research problems. For each semester hour of credit earned, at least three laboratory hours a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; Human Development and Family Sciences 315L with a grade of at least B-; Mathematics 316, Statistics and Data Sciences 303 (or Statistics and Scientific Computation 303), 304 (or Statistics and Scientific Computation 304), 305 (or Statistics and Scientific Computation 305), or 306 (or Statistics and Scientific Computation 306) with a grade of at least B-; a University grade-point average of at least 3.00; and consent of the department.",
+"prereqText": "Upper-division standing; Human Development and Family Sciences 315L with a grade of at least B-; Mathematics 316, Statistics and Data Sciences 303 (or Statistics and Scientific Computation 303), 304 (or Statistics and Scientific Computation 304), 305 (or Statistics and Scientific Computation 305), or 306 (or Statistics and Scientific Computation 306) with a grade of at least B-; a University grade-point average of at least 3.00; and consent of the department.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 655H",
+"subject": "HDF",
+"number": "655H",
+"title": "Problems Course: Honors",
+"hours": 6.0,
+"division": "upper",
+"description": "Intensive study of selected research problems. For each semester hour of credit earned, at least three laboratory hours a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; Human Development and Family Sciences 315L with a grade of at least B-; Mathematics 316, Statistics and Data Sciences 303 (or Statistics and Scientific Computation 303), 304 (or Statistics and Scientific Computation 304), 305 (or Statistics and Scientific Computation 305), or 306 (or Statistics and Scientific Computation 306) with a grade of at least B-; a University grade-point average of at least 3.00; and consent of the department.",
+"prereqText": "Upper-division standing; Human Development and Family Sciences 315L with a grade of at least B-; Mathematics 316, Statistics and Data Sciences 303 (or Statistics and Scientific Computation 303), 304 (or Statistics and Scientific Computation 304), 305 (or Statistics and Scientific Computation 305), or 306 (or Statistics and Scientific Computation 306) with a grade of at least B-; a University grade-point average of at least 3.00; and consent of the department.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 155R",
+"subject": "HDF",
+"number": "155R",
+"title": "Problems Course: Research Practicum",
+"hours": 1.0,
+"division": "upper",
+"description": "Intensive study of selected problems of a transdisciplinary nature. For each semester hour of credit earned, the equivalent of three lecture hours a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, and 315L; Mathematics 408C, 408N, 408R, Statistics and Data Sciences 302, or 332; and consent of instructor. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester; or consent of instructor. For nonmajors, the application process and prerequisites may be waived by consent of instructor.",
+"prereqText": "Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, and 315L; Mathematics 408C, 408N, 408R, Statistics and Data Sciences 302, or 332; and consent of instructor. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester; or consent of instructor. For nonmajors, the application process and prerequisites may be waived by consent of instructor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 255R",
+"subject": "HDF",
+"number": "255R",
+"title": "Problems Course: Research Practicum",
+"hours": 2.0,
+"division": "upper",
+"description": "Intensive study of selected problems of a transdisciplinary nature. For each semester hour of credit earned, the equivalent of three lecture hours a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, and 315L; Mathematics 408C, 408N, 408R, Statistics and Data Sciences 302, or 332; and consent of instructor. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester; or consent of instructor. For nonmajors, the application process and prerequisites may be waived by consent of instructor.",
+"prereqText": "Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, and 315L; Mathematics 408C, 408N, 408R, Statistics and Data Sciences 302, or 332; and consent of instructor. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester; or consent of instructor. For nonmajors, the application process and prerequisites may be waived by consent of instructor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 355R",
+"subject": "HDF",
+"number": "355R",
+"title": "Problems Course: Research Practicum",
+"hours": 3.0,
+"division": "upper",
+"description": "Intensive study of selected problems of a transdisciplinary nature. For each semester hour of credit earned, the equivalent of three lecture hours a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, and 315L; Mathematics 408C, 408N, 408R, Statistics and Data Sciences 302, or 332; and consent of instructor. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester; or consent of instructor. For nonmajors, the application process and prerequisites may be waived by consent of instructor.",
+"prereqText": "Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, and 315L; Mathematics 408C, 408N, 408R, Statistics and Data Sciences 302, or 332; and consent of instructor. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester; or consent of instructor. For nonmajors, the application process and prerequisites may be waived by consent of instructor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 655R",
+"subject": "HDF",
+"number": "655R",
+"title": "Problems Course: Research Practicum",
+"hours": 6.0,
+"division": "upper",
+"description": "Intensive study of selected problems of a transdisciplinary nature. For each semester hour of credit earned, the equivalent of three lecture hours a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, and 315L; Mathematics 408C, 408N, 408R, Statistics and Data Sciences 302, or 332; and consent of instructor. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester; or consent of instructor. For nonmajors, the application process and prerequisites may be waived by consent of instructor.",
+"prereqText": "Upper-division standing; a University grade point average of at least 2.00; the following coursework with a grade of at least C- in each course: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L, and 315L; Mathematics 408C, 408N, 408R, Statistics and Data Sciences 302, or 332; and consent of instructor. Admission by application only, filed with the Department of Human Development and Family Sciences by May 1 for enrollment in the following spring semester, or by December 1 for enrollment in the following fall semester; or consent of instructor. For nonmajors, the application process and prerequisites may be waived by consent of instructor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDF 356",
+"subject": "HDF",
+"number": "356",
+"title": "The Evolution of Relationships",
+"hours": 3.0,
+"division": "upper",
+"description": "Reviews the scientific literature on the evolution and function of adult romantic relationships. Three lecture hours a week for one semester. Prerequisite: Human Development and Family Sciences 304 or 304H.",
+"prereqText": "Human Development and Family Sciences 304 or 304H.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "HDF 304"
+},
+{
+"type": "course",
+"id": "HDF 304H"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HDF 157",
+"subject": "HDF",
+"number": "157",
+"title": "Applied Child Development",
+"hours": 1.0,
+"division": "upper",
+"description": "Apply theoretical concepts in child development through fieldwork with children and families in a laboratory school setting. Observe children and practice professional interactions with children and families. For each semester hour of credit earned, three hours of fieldwork a week. May be taken twice for credit. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: University grade point average of at least 2.00, Human Development and Family Sciences 313 or 313H with a grade of at least C-, and consent of instructor.",
+"prereqText": "University grade point average of at least 2.00, Human Development and Family Sciences 313 or 313H with a grade of at least C-, and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "HDF 313"
+},
+{
+"type": "course",
+"id": "HDF 313H",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "HDF 257",
+"subject": "HDF",
+"number": "257",
+"title": "Applied Child Development",
+"hours": 2.0,
+"division": "upper",
+"description": "Apply theoretical concepts in child development through fieldwork with children and families in a laboratory school setting. Observe children and practice professional interactions with children and families. For each semester hour of credit earned, three hours of fieldwork a week. May be taken twice for credit. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: University grade point average of at least 2.00, Human Development and Family Sciences 313 or 313H with a grade of at least C-, and consent of instructor.",
+"prereqText": "University grade point average of at least 2.00, Human Development and Family Sciences 313 or 313H with a grade of at least C-, and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "HDF 313"
+},
+{
+"type": "course",
+"id": "HDF 313H",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "HDF 357",
+"subject": "HDF",
+"number": "357",
+"title": "Applied Child Development",
+"hours": 3.0,
+"division": "upper",
+"description": "Apply theoretical concepts in child development through fieldwork with children and families in a laboratory school setting. Observe children and practice professional interactions with children and families. For each semester hour of credit earned, three hours of fieldwork a week. May be taken twice for credit. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: University grade point average of at least 2.00, Human Development and Family Sciences 313 or 313H with a grade of at least C-, and consent of instructor.",
+"prereqText": "University grade point average of at least 2.00, Human Development and Family Sciences 313 or 313H with a grade of at least C-, and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "HDF 313"
+},
+{
+"type": "course",
+"id": "HDF 313H",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "HDF 657",
+"subject": "HDF",
+"number": "657",
+"title": "Applied Child Development",
+"hours": 6.0,
+"division": "upper",
+"description": "Apply theoretical concepts in child development through fieldwork with children and families in a laboratory school setting. Observe children and practice professional interactions with children and families. For each semester hour of credit earned, three hours of fieldwork a week. May be taken twice for credit. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: University grade point average of at least 2.00, Human Development and Family Sciences 313 or 313H with a grade of at least C-, and consent of instructor.",
+"prereqText": "University grade point average of at least 2.00, Human Development and Family Sciences 313 or 313H with a grade of at least C-, and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "HDF 313"
+},
+{
+"type": "course",
+"id": "HDF 313H",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "HDF 358",
+"subject": "HDF",
+"number": "358",
+"title": "Parent-Child Relationships",
+"hours": 3.0,
+"division": "upper",
+"description": "The determinants of parenting attitudes and behavior and the effects on children of variations in sensitivity, discipline, and other aspects of parenting. Three lecture hours a week for one semester. Prerequisite: Upper-division standing and Human Development and Family Sciences 313 or 313H, 113L, and 315L with a grade of at least C- in each.",
+"prereqText": "Upper-division standing and Human Development and Family Sciences 313 or 313H, 113L, and 315L with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 159",
+"subject": "HDF",
+"number": "159",
+"title": "Advanced Applied Research Experience",
+"hours": 1.0,
+"division": "upper",
+"description": "Apply research experience in areas of a transdisciplinary nature. For each semester hour of credit earned, the equivalent of three laboratory hours a week for one semester. May be taken twice for credit. May be repeated for credit. Prerequisite: Upper-division standing; a University grade point average of at least 3.00; the following coursework with a grade of at least C: Human Development and Family Sciences 313 or 313H, 304, 305, or 306; consent of instructor and consent of the department.",
+"prereqText": "Upper-division standing; a University grade point average of at least 3.00; the following coursework with a grade of at least C: Human Development and Family Sciences 313 or 313H, 304, 305, or 306; consent of instructor and consent of the department.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 259",
+"subject": "HDF",
+"number": "259",
+"title": "Advanced Applied Research Experience",
+"hours": 2.0,
+"division": "upper",
+"description": "Apply research experience in areas of a transdisciplinary nature. For each semester hour of credit earned, the equivalent of three laboratory hours a week for one semester. May be taken twice for credit. May be repeated for credit. Prerequisite: Upper-division standing; a University grade point average of at least 3.00; the following coursework with a grade of at least C: Human Development and Family Sciences 313 or 313H, 304, 305, or 306; consent of instructor and consent of the department.",
+"prereqText": "Upper-division standing; a University grade point average of at least 3.00; the following coursework with a grade of at least C: Human Development and Family Sciences 313 or 313H, 304, 305, or 306; consent of instructor and consent of the department.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 359",
+"subject": "HDF",
+"number": "359",
+"title": "Advanced Applied Research Experience",
+"hours": 3.0,
+"division": "upper",
+"description": "Apply research experience in areas of a transdisciplinary nature. For each semester hour of credit earned, the equivalent of three laboratory hours a week for one semester. May be taken twice for credit. May be repeated for credit. Prerequisite: Upper-division standing; a University grade point average of at least 3.00; the following coursework with a grade of at least C: Human Development and Family Sciences 313 or 313H, 304, 305, or 306; consent of instructor and consent of the department.",
+"prereqText": "Upper-division standing; a University grade point average of at least 3.00; the following coursework with a grade of at least C: Human Development and Family Sciences 313 or 313H, 304, 305, or 306; consent of instructor and consent of the department.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 659",
+"subject": "HDF",
+"number": "659",
+"title": "Advanced Applied Research Experience",
+"hours": 6.0,
+"division": "upper",
+"description": "Apply research experience in areas of a transdisciplinary nature. For each semester hour of credit earned, the equivalent of three laboratory hours a week for one semester. May be taken twice for credit. May be repeated for credit. Prerequisite: Upper-division standing; a University grade point average of at least 3.00; the following coursework with a grade of at least C: Human Development and Family Sciences 313 or 313H, 304, 305, or 306; consent of instructor and consent of the department.",
+"prereqText": "Upper-division standing; a University grade point average of at least 3.00; the following coursework with a grade of at least C: Human Development and Family Sciences 313 or 313H, 304, 305, or 306; consent of instructor and consent of the department.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 360",
+"subject": "HDF",
+"number": "360",
+"title": "Methods of Family Life Education",
+"hours": 3.0,
+"division": "upper",
+"description": "An examination, integrating theory and applied knowledge, of the best practices for working with families. Three lecture hours a week for one semester. Prerequisite: Upper-division standing and Human Development and Family Sciences 304 or 304H, and 315L with a grade of at least C- in each.",
+"prereqText": "Upper-division standing and Human Development and Family Sciences 304 or 304H, and 315L with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 362",
+"subject": "HDF",
+"number": "362",
+"title": "Children and Public Policy",
+"hours": 3.0,
+"division": "upper",
+"description": "The positive and negative effects of policy on children and the policy landscape in several major domains of child and family life in the United States and in other countries. Three lecture hours a week for one semester. Prerequisite: Six semester hours of upper-division coursework in human development and family sciences, anthropology, education, psychology, sociology, or social work.",
+"prereqText": "Six semester hours of upper-division coursework in human development and family sciences, anthropology, education, psychology, sociology, or social work.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 266C",
+"subject": "HDF",
+"number": "266C",
+"title": "Guidance in Adult-Child Relationships",
+"hours": 2.0,
+"division": "upper",
+"description": "Explore the theory and implementation of positive child and adult interactions, communication, and guidance strategies. Two lecture hours a week for one semester. Only one of the following may be counted: Human Development and Family Sciences 266C, 466, Women's and Gender Studies 345 (Topic 4: Guidance in Adult-Child Relationships), 466. Prerequisite: Credit or registration for Human Development and Family Sciences 266L; Human Development and Family Sciences 313 or 313H, and 113L or 114H and three semester hours of upper-division coursework in human development and family sciences, education, psychology, or sociology with a grade of at least C- in each; consent of instructor and consent of the department.",
+"prereqText": "Credit or registration for Human Development and Family Sciences 266L; Human Development and Family Sciences 313 or 313H, and 113L or 114H and three semester hours of upper-division coursework in human development and family sciences, education, psychology, or sociology with a grade of at least C- in each; consent of instructor and consent of the department.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 266L",
+"subject": "HDF",
+"number": "266L",
+"title": "Guidance in Adult Child Relationships Lab",
+"hours": 2.0,
+"division": "upper",
+"description": "Interact with children and families at the Priscilla Pond Flawn Child and Family Laboratory while under supervision, to explore the development of skills in positive child and adult interactions, communication, guidance strategies, and observational data collection. Four hours of fieldwork a week for one semester. Only one of the following may be counted: Human Development and Family Sciences 266L, 466, Women's and Gender Studies 345 (Topic 4: Guidance in Adult-Child Relationships), 466. Prerequisite: Credit or registration for Human Development and Family Sciences 266C. Human Development and Family Sciences 313 or 313H, and 113L or 114H and three semester hours of upper-division coursework in human development and family sciences, education, psychology, or sociology, with a grade of at least C- in each; consent of instructor and consent of the department.",
+"prereqText": "Credit or registration for Human Development and Family Sciences 266C. Human Development and Family Sciences 313 or 313H, and 113L or 114H and three semester hours of upper-division coursework in human development and family sciences, education, psychology, or sociology, with a grade of at least C- in each; consent of instructor and consent of the department.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 371",
+"subject": "HDF",
+"number": "371",
+"title": "Adolescent Development in Context",
+"hours": 3.0,
+"division": "upper",
+"description": "The biological, cognitive, and social changes that occur during the second decade of life, including the developmental issues faced by adolescents. Three lecture hours a week for one semester. Prerequisite: Upper-division standing; and Human Development and Family Sciences 313 or 313H, 113L, and 315L, with a grade of at least C- in each.",
+"prereqText": "Upper-division standing; and Human Development and Family Sciences 313 or 313H, 113L, and 315L, with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 372K",
+"subject": "HDF",
+"number": "372K",
+"title": "Families in Transition",
+"hours": 3.0,
+"division": "upper",
+"description": "Analysis of interaction, transitions, and crises over the family life span. Three lecture hours a week for one semester. Prerequisite: Upper-division standing and the following courses with a grade of at least C- in each: Human Development and Family Sciences 304 or 304H, and 315L and 337.",
+"prereqText": "Upper-division standing and the following courses with a grade of at least C- in each: Human Development and Family Sciences 304 or 304H, and 315L and 337.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 378K",
+"subject": "HDF",
+"number": "378K",
+"title": "Topics in Advanced Child and Family Development",
+"hours": 3.0,
+"division": "upper",
+"description": "Concepts, theories, and issues in human development and family sciences. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Six semester hours of upper-division coursework in human development and family sciences (or child development), anthropology, education, psychology, sociology, or social work, and consent of instructor.",
+"prereqText": "Six semester hours of upper-division coursework in human development and family sciences (or child development), anthropology, education, psychology, sociology, or social work, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 378L",
+"subject": "HDF",
+"number": "378L",
+"title": "Theories of Child and Family Development",
+"hours": 3.0,
+"division": "upper",
+"description": "Study and analysis of major theories in human and family development. Three lecture hours a week for one semester. Prerequisite: The following with a grade of at least C- in each: Human Development and Family Sciences 313 or 313H, 113L, 315L, and three additional semester hours of upper-division coursework in human development and family sciences.",
+"prereqText": "The following with a grade of at least C- in each: Human Development and Family Sciences 313 or 313H, 113L, 315L, and three additional semester hours of upper-division coursework in human development and family sciences.",
+"prereqConfidence": "low"
+},
+{
+"id": "HDF 379H",
+"subject": "HDF",
+"number": "379H",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on a special topic in human development and family sciences; oral presentation and preparation of a scholarly paper covering the research. May be based on laboratory, library, or field research. Conference course. May be repeated once for credit. Prerequisite: Upper-division standing, a University grade point average of at least 3.00, admission to the human development and family sciences honors program, and consent of the honors adviser. Name of honors adviser and application procedure are available in the division office.",
+"prereqText": "Upper-division standing, a University grade point average of at least 3.00, admission to the human development and family sciences honors program, and consent of the honors adviser. Name of honors adviser and application procedure are available in the division office.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 380K",
+"subject": "HDF",
+"number": "380K",
+"title": "Topics in Research Methods",
+"hours": 3.0,
+"division": "graduate",
+"description": "Two lecture hours and one and one-half laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 192",
+"subject": "HDF",
+"number": "192",
+"title": "Topics in Research Problems",
+"hours": 1.0,
+"division": "graduate",
+"description": "Directed research in various topics in the area of human development and family sciences. One, two, three, or six lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 292",
+"subject": "HDF",
+"number": "292",
+"title": "Topics in Research Problems",
+"hours": 2.0,
+"division": "graduate",
+"description": "Directed research in various topics in the area of human development and family sciences. One, two, three, or six lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 392",
+"subject": "HDF",
+"number": "392",
+"title": "Topics in Research Problems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Directed research in various topics in the area of human development and family sciences. One, two, three, or six lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 692",
+"subject": "HDF",
+"number": "692",
+"title": "Topics in Research Problems",
+"hours": 6.0,
+"division": "graduate",
+"description": "Directed research in various topics in the area of human development and family sciences. One, two, three, or six lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 394",
+"subject": "HDF",
+"number": "394",
+"title": "Topics in Graduate Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Seminars in various topics in the area of human development and family sciences. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 395",
+"subject": "HDF",
+"number": "395",
+"title": "Topics in Recent Advances in Human Development and Family Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "Research and theory focused on the interplay between individual development, family relationships, and institutions and relationships outside the family. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in human development and family sciences, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 397P",
+"subject": "HDF",
+"number": "397P",
+"title": "Practicum in Human Development and Family Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "Practicum hours to be arranged. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 698",
+"subject": "HDF",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in human development and family sciences and consent of the graduate adviser; for 698B, Human Development and Family Sciences 698A.",
+"prereqText": "For 698A, graduate standing in human development and family sciences and consent of the graduate adviser; for 698B, Human Development and Family Sciences 698A.",
+"prereq": {
+"type": "course",
+"id": "HDF 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "HDF 398T",
+"subject": "HDF",
+"number": "398T",
+"title": "Supervised Teaching in Human Development and Family Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "Teaching under close supervision, group meetings, individual conferences, and reports. Conference course. Prerequisite: Graduate standing and appointment as a teaching assistant.",
+"prereqText": "Graduate standing and appointment as a teaching assistant.",
+"prereqConfidence": "none"
+},
+{
+"id": "HDF 399W",
+"subject": "HDF",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "HDF 699W",
+"subject": "HDF",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "HDF 999W",
+"subject": "HDF",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

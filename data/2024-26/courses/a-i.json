@@ -1,0 +1,142 @@
+{
+"code": "A I",
+"name": "Artificial Intelligence",
+"courses": [
+{
+"id": "A I 380E",
+"subject": "A I",
+"number": "380E",
+"title": "Ethics in Artificial Intelligence",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine important responsibilities and ethical challenges faced by an AI professional. Identify design decisions with ethical implications and consider the perspectives of users and other stakeholders when making ethically significant design decisions. Three lecture hours a week for one semester. Artificial Intelligence 395T (Topic: Ethics in AI) and Artificial Intelligence 380E may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "A I 380H",
+"subject": "A I",
+"number": "380H",
+"title": "Artificial Intelligence in Healthcare",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore health IT systems, ranging from data semantics, data interoperability, diagnosis code, to workflow in clinical decision support systems. Discuss how AI innovations are transforming healthcare systems by focusing on AI in drug discovery, AI in medical image diagnosis, explainable AI for health risk prediction, and ethics of AI in healthcare. Three lecture hours a week for one semester. Artificial Intelligence 395T (Topic: AI in Healthcare) and 380H may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "A I 388",
+"subject": "A I",
+"number": "388",
+"title": "Natural Language Processing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore computational methods for syntactic and semantic analysis of structures representing meanings of natural language; study of current natural language processing systems; methods for computing outlines and discourse structures of descriptive text. Three lecture hours a week for one semester. Only one of the following may be counted: Artificial Intelligence 388, Computer Science 388, Data Science 388, 395T (Topic: Natural Language Processing) Prerequisite: Graduate standing, and a course in artificial intelligence or consent of instructor.",
+"prereqText": "Graduate standing, and a course in artificial intelligence or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "A I 388J",
+"subject": "A I",
+"number": "388J",
+"title": "Optimization",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore the background on convex sets and functions, linear programming, convex programming, and iterative first-order and second-order methods. Three lecture hours a week for one semester. Only one of the following may be counted: Artificial Intelligence 388J, Computer Science 388J, 395T (Topic: Optimization). Prerequisite: Graduate standing",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "A I 388K",
+"subject": "A I",
+"number": "388K",
+"title": "Online Learning and Optimization",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore algorithms for convex optimization and algorithms for online learning. Focus on algorithms for large scale convex optimization. Discuss problems in machine learning. Apply these ideas to online learning. Three lecture hours a week for one semester. Only one of the following may be counted: Artificial Intelligence 388K, Computer Science 388K, 395T (Topic: Online Lrng/Optimization). Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "A I 388U",
+"subject": "A I",
+"number": "388U",
+"title": "Planning, Search, and Reasoning Under Uncertainty",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to three key foundational problems in AI: planning, search, and reasoning under uncertainty. Investigate how to define planning domains, including representations for world states and actions, covering both symbolic and path planning. Study algorithms to efficiently find valid plans with or without optimality, and partially ordered, or fully specified solutions. Three lecture hours a week for one semester Only one of the following may be counted: Artificial Intelligence 388U, Computer Science 388U, 395T (Topic: Planning Search and Reasoning). Prerequisite: Graduate standing; and knowledge of undergraduate data structures, algorithms, and complexity; and prior knowledge in probability theory or statistics.",
+"prereqText": "Graduate standing; and knowledge of undergraduate data structures, algorithms, and complexity; and prior knowledge in probability theory or statistics.",
+"prereqConfidence": "none"
+},
+{
+"id": "A I 389L",
+"subject": "A I",
+"number": "389L",
+"title": "Automated Logical Reasoning",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore automated reasoning techniques for propositional logic, first-order logic, linear arithmetic over reals and integers, theory of uninterpreted functions, and combinations of these theories. Examine automated logical reasoning both from a theoretical and practical perspective, including building useful tools, such as SAT and SMT solvers. Three lecture hours a week for one semester. Only one of the following may be counted: Computer Science 389L, 395T (Topic: Automated Logical Reasoning), Artificial Intelligence 389L. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "A I 391L",
+"subject": "A I",
+"number": "391L",
+"title": "Machine Learning",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore computing systems that automatically improve their performance with experience, including various approaches to inductive classification such as version space, decision tree, rule-based, neural network, Bayesian, and instance-based methods; as well as computational learning theory, explanation-based learning, and knowledge refinement. Three lecture hours a week for one semester. Only one of the following may be counted: Artificial Intelligence 391L, Computer Science 391L, Data Science 391L. Prerequisite: Graduate standing, and Computer Science 381K or equivalent knowledge of artificial intelligence and LISP.",
+"prereqText": "Graduate standing, and Computer Science 381K or equivalent knowledge of artificial intelligence and LISP.",
+"prereq": {
+"type": "course",
+"id": "C S 381K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "A I 391M",
+"subject": "A I",
+"number": "391M",
+"title": "Case Studies in Machine Learning",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore major concepts, techniques, algorithms, and applications in machine learning. Evaluate machine learning methods and discuss practical case studies to produce solutions for real-world data analysis problems. Three lecture hours a week for one semester. Only one of the following may be counted: Artificial Intelligence 395T (Topic: Case Studies/Machine Learn), 391M, Computer Science 395T (Topic: Case Studies/Machine Learn), 391M. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "A I 394D",
+"subject": "A I",
+"number": "394D",
+"title": "Deep Learning",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore the basic building blocks and intuitions behind designing, training, tuning, and monitoring of deep networks. Examine both the theory of deep learning, as well as hands-on implementation sessions in pytorch. Explore a series of application areas of deep networks in: computer vision, sequence modeling in natural language processing, deep reinforcement learning, generative modeling, and adversarial learning. Three lecture hours a week for one semester. Only one of the following may be counted: Artificial Intelligence 394D, Computer Science 394D, Data Science 394D, 395T (Topic: Deep Learning). Prerequisite: Graduate standing, and experience in artificial intelligence and machine learning.",
+"prereqText": "Graduate standing, and experience in artificial intelligence and machine learning.",
+"prereqConfidence": "none"
+},
+{
+"id": "A I 394R",
+"subject": "A I",
+"number": "394R",
+"title": "Reinforcement Learning: Theory and Practice",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to the theory and practice of modern reinforcement learning, with emphasis on temporal difference learning algorithms. Three lecture hours a week for one semester. Only one of the following may be counted: Artificial Intelligence 394R, Computer Science 394R, Data Science 394R, 395T (Topic: Reinforcement Learning) Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "A I 395T",
+"subject": "A I",
+"number": "395T",
+"title": "Topics in Artificial Intelligence",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+}
+]
+}

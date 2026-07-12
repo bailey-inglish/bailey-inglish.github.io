@@ -1,0 +1,2653 @@
+{
+"code": "DES",
+"name": "Design",
+"courses": [
+{
+"id": "DES 301",
+"subject": "DES",
+"number": "301",
+"title": "Introduction to Design Thinking",
+"hours": 3.0,
+"division": "lower",
+"description": "Same as Integrated Design 301D. Introduces design thinking and design methods, with a focus on design process. Three lecture hours a week for one semester. Design 301 and Integrated Design 301D may not both be counted. Offered on the letter-grade basis only.",
+"sameAs": "Integrated Design 301D",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 102",
+"subject": "DES",
+"number": "102",
+"title": "Topics in Technologies in Design Practice",
+"hours": 1.0,
+"division": "lower",
+"description": "Introduces a variety of technology and software used by design professionals. The equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 102C",
+"subject": "DES",
+"number": "102C",
+"title": "Introduction to 2D Design",
+"hours": 1.0,
+"division": "lower",
+"description": "Explore the fundamental principles and methods of 2D design making, including an introduction to software. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 102D",
+"subject": "DES",
+"number": "102D",
+"title": "Introduction to 3D Design",
+"hours": 1.0,
+"division": "lower",
+"description": "Introduction to theories, principles, methods, techniques, tools, and software for 3D design. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 102E",
+"subject": "DES",
+"number": "102E",
+"title": "Introduction to Interaction Design",
+"hours": 1.0,
+"division": "lower",
+"description": "Introduction to theories, methods, and techniques for designing time-based and interactive experiences, including video, motion graphics, and web and mobile applications. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 303",
+"subject": "DES",
+"number": "303",
+"title": "Introduction to Graphic Design",
+"hours": 3.0,
+"division": "lower",
+"description": "Lecture/seminar/studio course. Introduces the fundamental principles, conventions,and techniques of graphic design. Three lecture hours a week for one semester. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 304",
+"subject": "DES",
+"number": "304",
+"title": "Design Studio I",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to design majors. Explore the vocabulary, principles and techniques of design across disciplines through project work in a studio setting. Six lecture hours a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only.",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 305",
+"subject": "DES",
+"number": "305",
+"title": "Design Studio II",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to design majors. Build upon vocabulary, principles and techniques of design across disciplines through project work in a studio setting. Six lecture hours a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Design 304.",
+"prereqText": "Design 304.",
+"prereq": {
+"type": "course",
+"id": "DES 304"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 306",
+"subject": "DES",
+"number": "306",
+"title": "Design Studio III",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to design majors. Refine and apply vocabulary, principles and techniques of design across disciplines through project work in a studio setting. Six lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Design 304 and 305.",
+"prereqText": "Design 304 and 305.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "DES 304"
+},
+{
+"type": "course",
+"id": "DES 305"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 307",
+"subject": "DES",
+"number": "307",
+"title": "Design and Culture",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore the broad social, economic, technological, and political forces that shape design, and how design influences the human experience in today's world. Examine the critical discourse surrounding the creation, production, consumption, and interpretation of design. Three lecture hours and one laboratory hour a week for one semester. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 308",
+"subject": "DES",
+"number": "308",
+"title": "Introduction to Design Theory and Criticism",
+"hours": 3.0,
+"division": "lower",
+"description": "Lecture/seminar course. Introduces design theory and criticism, examining how people's beliefs and values inform the way they make, understand, and evaluate works of design. The equivalent of three lecture hours a week for one semester. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 309",
+"subject": "DES",
+"number": "309",
+"title": "Introduction to Design",
+"hours": 3.0,
+"division": "lower",
+"description": "Studio course. Introduction to the design process, including research, ideation, prototyping, critique, and iteration. Projects also introduce the vocabulary, principles, strategies, techniques, and conventions of drawing and rendering used by design professionals. Six studio hours a week for one semester. Design 309 and 310 may not both be counted. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 110C",
+"subject": "DES",
+"number": "110C",
+"title": "Introduction to Design Research",
+"hours": 1.0,
+"division": "lower",
+"description": "Examine the role of research in the design process, and explore a variety of research methods. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 110T",
+"subject": "DES",
+"number": "110T",
+"title": "Topics in Innovative Design",
+"hours": 1.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 310T",
+"subject": "DES",
+"number": "310T",
+"title": "Topics in Innovative Design",
+"hours": 3.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 111C",
+"subject": "DES",
+"number": "111C",
+"title": "Portfolio Critique",
+"hours": 1.0,
+"division": "lower",
+"description": "Develop a portfolio of work to present for feedback. The equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 311J",
+"subject": "DES",
+"number": "311J",
+"title": "Design Technologies I",
+"hours": 3.0,
+"division": "lower",
+"description": "Studio course. Projects introduce the vocabulary, principles, strategies, techniques, and conventions of color, composition, rendering, photography, and typography used by design professionals. Six laboratory hours a week for one semester. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 311K",
+"subject": "DES",
+"number": "311K",
+"title": "Design Technologies II",
+"hours": 3.0,
+"division": "lower",
+"description": "Studio course. Projects introduce techniques and theories for designing time-based and interactive experiences, including video, motion graphics, and web/mobile applications. Six laboratory hours a week for one semester. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 312",
+"subject": "DES",
+"number": "312",
+"title": "Visual Syntax in Communication",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to fundamental typographic elements: visual composition and form-making, sequence and narrative, and contrast and hierarchy. Final project is a portfolio to be submitted for sophomore performance review. Six laboratory hours a week for one semester. Only one of the following may be counted: Design 312, 312G, 325. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 312G",
+"subject": "DES",
+"number": "312G",
+"title": "Typography in Communication",
+"hours": 3.0,
+"division": "lower",
+"description": "Studio course. Introduction to fundamental typographic elements: visual composition and form-making; sequence and narrative; and contrast and hierarchy. Six laboratory hours a week for one semester. Only one of the following may be counted: Design 312, 312G, 325. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 113",
+"subject": "DES",
+"number": "113",
+"title": "Introduction to Design History",
+"hours": 1.0,
+"division": "lower",
+"description": "Introduction to the history of design, with a focus on key themes and ideas. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 313",
+"subject": "DES",
+"number": "313",
+"title": "Introduction to Design History",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to the history of design, with a focus on key themes and ideas. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 314",
+"subject": "DES",
+"number": "314",
+"title": "Introduction to Industrial Design",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to theories, principles, methods, and techniques for industrial design in a studio format. Six studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Design 304 or 309.",
+"prereqText": "Design 304 or 309.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 304"
+},
+{
+"type": "course",
+"id": "DES 309"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 115C",
+"subject": "DES",
+"number": "115C",
+"title": "Sketching",
+"hours": 1.0,
+"division": "lower",
+"description": "Introduction to elements, techniques, processes, and tools for sketching in design practice. Explore sketching as a way to convey ideas. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 119S",
+"subject": "DES",
+"number": "119S",
+"title": "Topics in Design",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 219S",
+"subject": "DES",
+"number": "219S",
+"title": "Topics in Design",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 319S",
+"subject": "DES",
+"number": "319S",
+"title": "Topics in Design",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 419S",
+"subject": "DES",
+"number": "419S",
+"title": "Topics in Design",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 519S",
+"subject": "DES",
+"number": "519S",
+"title": "Topics in Design",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 619S",
+"subject": "DES",
+"number": "619S",
+"title": "Topics in Design",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 719S",
+"subject": "DES",
+"number": "719S",
+"title": "Topics in Design",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 819S",
+"subject": "DES",
+"number": "819S",
+"title": "Topics in Design",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 919S",
+"subject": "DES",
+"number": "919S",
+"title": "Topics in Design",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 320",
+"subject": "DES",
+"number": "320",
+"title": "Design Theories and Methods",
+"hours": 3.0,
+"division": "upper",
+"description": "Lecture/seminar/studio course. Introduces cultural and aesthetic theories pertinent to design, as well as research methods for generating and prototyping ideas. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Design 304 and 305; or Design 309.",
+"prereqText": "Design 304 and 305; or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 321",
+"subject": "DES",
+"number": "321",
+"title": "Images in Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Explores the selection and creation of images appropriate to specific communication goals and contexts, such as promotional images, infographics, logos, instructions, and/or narratives. Six laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: The following with a grade of at least C: Design 304 and 305, or Design 309.",
+"prereqText": "The following with a grade of at least C: Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 121C",
+"subject": "DES",
+"number": "121C",
+"title": "Portfolio Critique",
+"hours": 1.0,
+"division": "upper",
+"description": "Develop a portfolio of work to present for feedback. The equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 322",
+"subject": "DES",
+"number": "322",
+"title": "Design and the Social Environment",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Involves researching a contemporary social issue; define an area of opportunity; and design graphics, objects, services, and/or systems that respond ethically to the issue. Six laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Design 321, 325, and 326 are recommended.",
+"prereqText": "Design 321, 325, and 326 are recommended.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "DES 321"
+},
+{
+"type": "course",
+"id": "DES 325"
+},
+{
+"type": "course",
+"id": "DES 326"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 323",
+"subject": "DES",
+"number": "323",
+"title": "Color in Theory and Practice",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore contemporary color notation systems and color management techniques. Survey economic, health and safety, environmental, cultural, legal, political, and other ethical considerations pertinent to using color. Three lecture hours a week for one semester. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 324",
+"subject": "DES",
+"number": "324",
+"title": "Design Research and Methods",
+"hours": 3.0,
+"division": "upper",
+"description": "Lecture/studio course. Lectures and projects introduce problem-framing and problem-solving techniques and a variety of design research, ideation, prototyping, and iterative methods. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: One of the following: Design 301, 304, 305, 309, or Integrated Design 301D.",
+"prereqText": "One of the following: Design 301, 304, 305, 309, or Integrated Design 301D.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 325",
+"subject": "DES",
+"number": "325",
+"title": "Typography I",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Projects introduce the fundamental principles, conventions, and techniques of typography. Six laboratory hours a week for one semester. Only one of the following may be counted: Design 312, 312G, 325. Offered on the letter-grade basis only. Prerequisite: The following with a grade of at least C: Design 304 and 305, or Design 309.",
+"prereqText": "The following with a grade of at least C: Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 326",
+"subject": "DES",
+"number": "326",
+"title": "Objects and Spaces",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Projects introduce rendering and prototyping techniques used for solving problems in three-dimensional media such as product design, packaging design, environmental graphics, and/or architectural/landscape design. Six laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: The following with a grade of at least C: Design 304 and 305, or Design 309.",
+"prereqText": "The following with a grade of at least C: Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 327",
+"subject": "DES",
+"number": "327",
+"title": "Prototyping Physical Space",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio-based exploration of the iterative development of low-resolution immersive environments. Six studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: The following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqText": "The following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 328",
+"subject": "DES",
+"number": "328",
+"title": "Print and Packaging",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio-based exploration of the print environment, and build technical skills and process management skills. Six studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: The following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqText": "The following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 129S",
+"subject": "DES",
+"number": "129S",
+"title": "Topics in Design",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 229S",
+"subject": "DES",
+"number": "229S",
+"title": "Topics in Design",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 329S",
+"subject": "DES",
+"number": "329S",
+"title": "Topics in Design",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 429S",
+"subject": "DES",
+"number": "429S",
+"title": "Topics in Design",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 529S",
+"subject": "DES",
+"number": "529S",
+"title": "Topics in Design",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 629S",
+"subject": "DES",
+"number": "629S",
+"title": "Topics in Design",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 729S",
+"subject": "DES",
+"number": "729S",
+"title": "Topics in Design",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 829S",
+"subject": "DES",
+"number": "829S",
+"title": "Topics in Design",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 929S",
+"subject": "DES",
+"number": "929S",
+"title": "Topics in Design",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the Design Assistant Chair of the Department of Art and Art History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DES 130T",
+"subject": "DES",
+"number": "130T",
+"title": "Topics in Innovative Design",
+"hours": 1.0,
+"division": "upper",
+"description": "Exploration of innovative topics in design. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Credit with a grade of at least C for Design 131, 321, 325, 326, and 334C; credit with a grade of at least C for Design 304 and 305, or Design 309; credit with a grade of at least C for Design 336, 337 (Topic 1), or 337C.",
+"prereqText": "Credit with a grade of at least C for Design 131, 321, 325, 326, and 334C; credit with a grade of at least C for Design 304 and 305, or Design 309; credit with a grade of at least C for Design 336, 337 (Topic 1), or 337C.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 330T",
+"subject": "DES",
+"number": "330T",
+"title": "Topics in Innovative Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Exploration of innovative topics in design. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Credit with a grade of at least C for Design 131, 321, 325, 326, and 334C; credit with a grade of at least C for Design 304 and 305, or Design 309; credit with a grade of at least C for Design 336, 337 (Topic 1), or 337C.",
+"prereqText": "Credit with a grade of at least C for Design 131, 321, 325, 326, and 334C; credit with a grade of at least C for Design 304 and 305, or Design 309; credit with a grade of at least C for Design 336, 337 (Topic 1), or 337C.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 131",
+"subject": "DES",
+"number": "131",
+"title": "Portfolio and Performance Review",
+"hours": 1.0,
+"division": "upper",
+"description": "Develop and review a portfolio of work, guided by feedback from the instructor, group critiques, and reviews with visiting critics. The equivalent of one lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Design 304 and 305.",
+"prereqText": "Design 304 and 305.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "DES 304"
+},
+{
+"type": "course",
+"id": "DES 305"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 334",
+"subject": "DES",
+"number": "334",
+"title": "Introduction to Interaction Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Projects introduce theories, methods, and techniques for designing time-based and interactive experiences, including video, motion graphics, and web/mobile applications. Six laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: The following with a grade of at least C: Design 304 and 305, or Design 309.",
+"prereqText": "The following with a grade of at least C: Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 334C",
+"subject": "DES",
+"number": "334C",
+"title": "Interaction Design I",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore theories, methods, and techniques for designing time-based and interactive experiences, including video, motion graphics, and web and mobile applications. Six laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: The following with a grade of at least C: Design 304 and 305, or Design 309.",
+"prereqText": "The following with a grade of at least C: Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 335",
+"subject": "DES",
+"number": "335",
+"title": "Typography II",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Students use typographic principles to design complex print and on-screen publications. Six studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: The following with a grade of at least C: Design 321 and 325; and Design 304 and 305, or Design 309.",
+"prereqText": "The following with a grade of at least C: Design 321 and 325; and Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 336",
+"subject": "DES",
+"number": "336",
+"title": "History of Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Lecture/seminar course. Surveys the history of graphic and/or industrial design from c.1450 to the present, with an emphasis on the last 150 years. Three lecture hours a week for one semester. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 337",
+"subject": "DES",
+"number": "337",
+"title": "Topics in Design History",
+"hours": 3.0,
+"division": "upper",
+"description": "Lectures and discussions focusing on specialized or advanced topics in the history of design. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 138",
+"subject": "DES",
+"number": "138",
+"title": "Topics in Design",
+"hours": 1.0,
+"division": "upper",
+"description": "Examine specialized or advanced topics in design. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 338",
+"subject": "DES",
+"number": "338",
+"title": "Topics in Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine specialized or advanced topics in design. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 339T",
+"subject": "DES",
+"number": "339T",
+"title": "Topics In Design Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine advanced topics in the study of cultural, aesthetic, and practice-based theories pertinent to design. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; Design 304 and 305, or Design 309; and Design 308",
+"prereqText": "Upper-division standing; Design 304 and 305, or Design 309; and Design 308.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 340",
+"subject": "DES",
+"number": "340",
+"title": "Design Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Development of flexible, integrated design systems such as identities, wayfinding, and service design. Six laboratory hours a week for one semester. Design 340 and 340G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Credit with a grade of at least C in Design 131.",
+"prereqText": "Credit with a grade of at least C in Design 131.",
+"prereq": {
+"type": "course",
+"id": "DES 131"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 340C",
+"subject": "DES",
+"number": "340C",
+"title": "Identity Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the relationship between business and graphic design to simplify, unify, and amplify a brand's identity in a studio format. Six studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqText": "Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 340D",
+"subject": "DES",
+"number": "340D",
+"title": "Brand Storytelling",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the relationships between research, strategy, identity, human-centered design, and storytelling to articulate and communicate a brand's purpose in a studio format. Six studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqText": "Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 340G",
+"subject": "DES",
+"number": "340G",
+"title": "Branding and Visual Identity Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Explores the purposes and constraints of branding and visual identity design, and creative systems that can be applied consistently across media and materials. Six laboratory hours a week for one semester. Design 340 and 340G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqText": "Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 341",
+"subject": "DES",
+"number": "341",
+"title": "Advanced Issues in Visual Syntax",
+"hours": 3.0,
+"division": "upper",
+"description": "Exploration of advanced issues in typography. Six laboratory hours a week for one semester. Design 341 and 341G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Credit with a grade of at least C in Design 131.",
+"prereqText": "Credit with a grade of at least C in Design 131.",
+"prereq": {
+"type": "course",
+"id": "DES 131"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 341G",
+"subject": "DES",
+"number": "341G",
+"title": "Typography III",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Advanced projects in typography; introduction to type design, material explorations, environmental type design, and expressive distortion Six laboratory hours a week for one semester. Design 341 and 341G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Design 335 with a grade of at least C.",
+"prereqText": "Design 335 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DES 335",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 342",
+"subject": "DES",
+"number": "342",
+"title": "Design and Persuasion",
+"hours": 3.0,
+"division": "upper",
+"description": "Development and presentation of coherent informational and persuasive visual statements. Six laboratory hours a week for one semester. Design 342 and 342G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Design 131 with a grade of at least C.",
+"prereqText": "Design 131 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DES 131",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 342G",
+"subject": "DES",
+"number": "342G",
+"title": "Information and Persuasion",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Explores ways to communicate information accurately, clearly, and persuasively through informational graphics and data visualization. Six laboratory hours a week for one semester Design 342 and 342G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqText": "Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 343",
+"subject": "DES",
+"number": "343",
+"title": "Design Research and Methods II",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Students use insights gleaned from comparison research, user testing, and/or product reviews to refine existing prototypes or products. Six laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Design 110C or 324.",
+"prereqText": "Design 110C or 324.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 110C"
+},
+{
+"type": "course",
+"id": "DES 324"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 344",
+"subject": "DES",
+"number": "344",
+"title": "Objects and Spaces II",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Advanced practice in problem-solving, rendering, and prototyping in three-dimensional media, such as product design, packaging design, environmental graphics, and architectural/landscape design. Six laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqText": "Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 345",
+"subject": "DES",
+"number": "345",
+"title": "Design Writing",
+"hours": 3.0,
+"division": "upper",
+"description": "Lecture/seminar course. Students propose and carry out original research and writing projects with the aim of submitting their writing for publication. Three lecture hours a week for one semester. May be taken twice for credit. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqText": "Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 346",
+"subject": "DES",
+"number": "346",
+"title": "Project Studio",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Professional experience solving real-world problems, including commissioned projects, student-initiated projects, and/or pro bono projects. Six laboratory hours a week for one semester. May be taken three times for credit. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 347",
+"subject": "DES",
+"number": "347",
+"title": "Publication Studio",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Studio Art 324C. Studio course. Advanced publishing projects in print and/or digital media. Six laboratory hours a week for one semester. Only one of the following may be counted: Design 347, Studio Art 324C, 350M (Topic: Publication Studio). May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: For design majors, Design 304 and 305; for others, consent of instructor or Studio Art 311C, 312C, 313C, and 314C.",
+"prereqText": "For design majors, Design 304 and 305; for others, consent of instructor or Studio Art 311C, 312C, 313C, and 314C.",
+"prereqConfidence": "low",
+"sameAs": "Studio Art 324C",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 348",
+"subject": "DES",
+"number": "348",
+"title": "Information Visualization",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Students devise ways to communicate information accurately, clearly, and memorably. Six laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqText": "Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 349",
+"subject": "DES",
+"number": "349",
+"title": "Interaction Design II",
+"hours": 3.0,
+"division": "upper",
+"description": "Lecture/studio course. Students design visually pleasing, responsive, user-centered web and mobile interfaces. One lecture and three studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Design 334 or 334C with a grade of at least C.",
+"prereqText": "Design 334 or 334C with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 334"
+},
+{
+"type": "course",
+"id": "DES 334C",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 350",
+"subject": "DES",
+"number": "350",
+"title": "Special Topics in Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Projects focusing on contemporary design practice, featuring approaches and subfields not represented elsewhere in the curriculum. Six laboratory hours a week for one semester. May be repeated twice for credit, but not with the same instructor in the same semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 351",
+"subject": "DES",
+"number": "351",
+"title": "Design Perspectives",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Workshops and projects led by industry professionals, visiting lecturers, and/or University faculty and graduate students, featuring design approaches, subfields, practices, and media. Two lecture and two laboratory hours a week for one semester. May be taken twice for credit. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Design 131 with a grade of at least C.",
+"prereqText": "Design 131 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DES 131",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 352",
+"subject": "DES",
+"number": "352",
+"title": "Service and Systems Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Students design effective user-centered systems and services. One lecture and three studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Design 131 with a grade of at least C.",
+"prereqText": "Design 131 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DES 131",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 353",
+"subject": "DES",
+"number": "353",
+"title": "Advanced Topics in Interaction Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio Course. Students undertake advanced projects in interaction design. Topics may include user research, user interface design, service design, usability, and accessibility. The equivalent of three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Design 334, 334C, or 349 with a grade of at least C.",
+"prereqText": "Design 334, 334C, or 349 with a grade of at least C.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 354",
+"subject": "DES",
+"number": "354",
+"title": "Design Issues",
+"hours": 3.0,
+"division": "upper",
+"description": "Lecture/seminar course. Students engage with contemporary issues in design through reading, discussion, and writing. Three lecture hours a week for one semester. May be taken twice for credit. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Design 131 with a grade of at least C.",
+"prereqText": "Design 131 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DES 131",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 355",
+"subject": "DES",
+"number": "355",
+"title": "Interaction Design III",
+"hours": 3.0,
+"division": "upper",
+"description": "Studio course. Advanced projects in visually pleasing, responsive, user-centered web and mobile interfaces. Six studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Design 334; or 334C and 349 with a grade of at least C in each.",
+"prereqText": "Design 334; or 334C and 349 with a grade of at least C in each.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 356",
+"subject": "DES",
+"number": "356",
+"title": "Topics in Graphic Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to design majors. Topics in graphic design. Six studio hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqText": "Upper-division standing and the following with a grade of at least C: Design 321, 325, and 326; and Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 357C",
+"subject": "DES",
+"number": "357C",
+"title": "Interaction Design III: Experiential and Spaces",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to design majors. Examine communication through physical material and space. Explore topics such as experiential design, branded environments, and exhibition design in a studio format. Six studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; and Design 334, or 334C and 349.",
+"prereqText": "Upper-division standing; and Design 334, or 334C and 349.",
+"prereqConfidence": "low",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 357D",
+"subject": "DES",
+"number": "357D",
+"title": "Interaction Design IV: Objects and Media",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to design majors. Studio-based exploration of the practical, theoretical, and speculative ability for products, objects, digital space, and media to communicate in context of the Internet of Things. Six studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; and Design 334, or 334C and 349.",
+"prereqText": "Upper-division standing; and Design 334, or 334C and 349.",
+"prereqConfidence": "low",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 358C",
+"subject": "DES",
+"number": "358C",
+"title": "Industrial Design I",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Engineering Studies 358C. Restricted to design majors. Explore methods and techniques for industrial design. Six studio hours a week for one semester. Design 358C and Engineering Studies 358C may not both be counted. Offered on the letter-grade basis only. Prerequisite: Design 314 or Engineering Studies 319.",
+"prereqText": "Design 314 or Engineering Studies 319.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 314"
+},
+{
+"type": "course",
+"id": "E S 319"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Engineering Studies 358C",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 358D",
+"subject": "DES",
+"number": "358D",
+"title": "Industrial Design II",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to design majors. Build upon methods and techniques for industrial design. Six studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Design 314 or Engineering Studies 319; or consent of the instructor.",
+"prereqText": "Design 314 or Engineering Studies 319; or consent of the instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 314"
+},
+{
+"type": "course",
+"id": "E S 319"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 358E",
+"subject": "DES",
+"number": "358E",
+"title": "Industrial Design III",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to design majors. Refine and apply methods and techniques for industrial design. Six studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Design 314 or Engineering Studies 319; or consent of the instructor.",
+"prereqText": "Design 314 or Engineering Studies 319; or consent of the instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 314"
+},
+{
+"type": "course",
+"id": "E S 319"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 358G",
+"subject": "DES",
+"number": "358G",
+"title": "Advanced Topics in Industrial Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine advanced theories, principles, methods, and techniques for industrial design in a studio format. Six studio hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; Design 314 or Engineering Studies 319; or consent of the instructor.",
+"prereqText": "Upper-division standing; Design 314 or Engineering Studies 319; or consent of the instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 314"
+},
+{
+"type": "course",
+"id": "E S 319"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 359",
+"subject": "DES",
+"number": "359",
+"title": "Professional Practices in Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Lecture/studio course. Lectures introduce professional practices in design, intellectual property issues, contracts, pricing, accounting, tax preparation, business plans, promotion, etc. One lecture and three studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Credit with a grade of at least C in each or registration for Design 326 and 334, and credit or registration for Design 336 or 337 (Topic 1).",
+"prereqText": "Credit with a grade of at least C in each or registration for Design 326 and 334, and credit or registration for Design 336 or 337 (Topic 1).",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 260",
+"subject": "DES",
+"number": "260",
+"title": "Design Internship",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to design majors. Introduces students to ethical standards and professional practices in design; allows completion of an approved professional internship. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with internship hours to be arranged. Design 360 and 371 may not both be counted. Offered on the letter-grade basis only. Prerequisite: Design 304 and 305, or Design 309.",
+"prereqText": "Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 360",
+"subject": "DES",
+"number": "360",
+"title": "Design Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to design majors. Introduces students to ethical standards and professional practices in design; allows completion of an approved professional internship. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with internship hours to be arranged. Design 360 and 371 may not both be counted. Offered on the letter-grade basis only. Prerequisite: Design 304 and 305, or Design 309.",
+"prereqText": "Design 304 and 305, or Design 309.",
+"prereqConfidence": "low",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 160I",
+"subject": "DES",
+"number": "160I",
+"title": "Internship in Design",
+"hours": 1.0,
+"division": "upper",
+"description": "Participate in a professional design internship in a field of interest. One lecture hour a week for one semester and, for each semester hour of credit earned, a minimum of 100 internship hours for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Design 131 with a grade of at least C.",
+"prereqText": "Design 131 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DES 131",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 260I",
+"subject": "DES",
+"number": "260I",
+"title": "Internship in Design",
+"hours": 2.0,
+"division": "upper",
+"description": "Participate in a professional design internship in a field of interest. One lecture hour a week for one semester and, for each semester hour of credit earned, a minimum of 100 internship hours for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Design 131 with a grade of at least C.",
+"prereqText": "Design 131 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DES 131",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 360I",
+"subject": "DES",
+"number": "360I",
+"title": "Internship in Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Participate in a professional design internship in a field of interest. One lecture hour a week for one semester and, for each semester hour of credit earned, a minimum of 100 internship hours for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Design 131 with a grade of at least C.",
+"prereqText": "Design 131 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DES 131",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 370",
+"subject": "DES",
+"number": "370",
+"title": "Senior Project in Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to design majors. Studio course. Students define their own research problem and propose appropriate design solutions, guided by feedback from desk critiques with the instructor, group critiques, and reviews with a visiting critic. Six laboratory hours a week for one semester. Design 370 and 374 may not both be counted. Offered on the letter-grade basis only. Prerequisite: Design 131 with a grade of at least C.",
+"prereqText": "Design 131 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DES 131",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 370C",
+"subject": "DES",
+"number": "370C",
+"title": "Individual Projects in Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Define research problem and propose appropriate design solutions, guided by feedback from desk critiques with the instructor, group critiques, and reviews with a visiting critic. Three lecture hours a week for one semester, with additional studio hours to be arranged. May be taken twice for credit. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Design 131 with a grade of at least C.",
+"prereqText": "Design 131 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DES 131",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 371",
+"subject": "DES",
+"number": "371",
+"title": "Design Practicum Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to design majors. Lecture/internship course. Resume and portfolio preparation; discussion of professional ethics and responsibilities; professional internship. For each semester hour or credit earned, the equivalent of one lecture hour a week for one semester. Design 360 and 371 may not both be counted. Offered on the letter-grade basis only. Prerequisite: Design 131 with a grade of at least C.",
+"prereqText": "Design 131 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DES 131",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 374",
+"subject": "DES",
+"number": "374",
+"title": "Capstone Design Project",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to design majors. Studio course. Students define their own research problem and propose appropriate design solutions, guided by feedback from desk critiques with the instructor, group critiques, and reviews with a visiting critic. Six laboratory hours a week for one semester. Design 370 and 374 may not both be counted. Offered on the letter-grade basis only. Prerequisite: Credit with a grade of at least C for Design 131, 321, 325, 326, and 334C; credit with a grade of at least C for Design 304 and 305, or Design 309; credit with a grade of at least C for Design 336, 337 (Topic 1), or 337C.",
+"prereqText": "Credit with a grade of at least C for Design 131, 321, 325, 326, and 334C; credit with a grade of at least C for Design 304 and 305, or Design 309; credit with a grade of at least C for Design 336, 337 (Topic 1), or 337C.",
+"prereqConfidence": "low",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 374P",
+"subject": "DES",
+"number": "374P",
+"title": "Senior Portfolio",
+"hours": 3.0,
+"division": "upper",
+"description": "Develop, curate, review, and present a portfolio of original design work. Six studio hours a week for one semester. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 375",
+"subject": "DES",
+"number": "375",
+"title": "Capstone Design Exhibition",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to design majors. Studio course. Students collaboratively curate, design, and install a senior BFA exhibition, and publish collateral materials that publicly showcase their capstone projects. Six laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Design 370 or 374 with a grade of at least C.",
+"prereqText": "Design 370 or 374 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 370"
+},
+{
+"type": "course",
+"id": "DES 374",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to design majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 375S",
+"subject": "DES",
+"number": "375S",
+"title": "Senior Showcase",
+"hours": 3.0,
+"division": "upper",
+"description": "Curate, design, and install a showcase of design projects. Six studio hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Design 131 with a grade of at least C.",
+"prereqText": "Design 131 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DES 131",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 376",
+"subject": "DES",
+"number": "376",
+"title": "Independent Study: Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Student-defined projects completed under faculty supervision. The equivalent of six laboratory hours a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Consent of instructor and consent of head of undergraduate programs.",
+"prereqText": "Consent of instructor and consent of head of undergraduate programs.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 380",
+"subject": "DES",
+"number": "380",
+"title": "Topics in Core Course in Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to design process, research, and methodologies. Three lecture hours a week for one semester, with additional laboratory hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 381",
+"subject": "DES",
+"number": "381",
+"title": "Core Laboratory 1",
+"hours": 3.0,
+"division": "graduate",
+"description": "Practice laboratory for a variety of design methodologies. Three lecture hours a week for one semester, with additional laboratory hours to be arranged. Prerequisite: Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 182",
+"subject": "DES",
+"number": "182",
+"title": "Critique Studio",
+"hours": 1.0,
+"division": "graduate",
+"description": "Context and structured dialogue regarding areas of, and the student's own direction in, graduate research. For each semester hour of credit earned, the equivalent of one lecture hour a week, with additional studio hours to be arranged. May be repeated for credit. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 382",
+"subject": "DES",
+"number": "382",
+"title": "Critique Studio",
+"hours": 3.0,
+"division": "graduate",
+"description": "Context and structured dialogue regarding areas of, and the student's own direction in, graduate research. For each semester hour of credit earned, the equivalent of one lecture hour a week, with additional studio hours to be arranged. May be repeated for credit. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 482",
+"subject": "DES",
+"number": "482",
+"title": "Critique Studio",
+"hours": 4.0,
+"division": "graduate",
+"description": "Context and structured dialogue regarding areas of, and the student's own direction in, graduate research. For each semester hour of credit earned, the equivalent of one lecture hour a week, with additional studio hours to be arranged. May be repeated for credit. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 582",
+"subject": "DES",
+"number": "582",
+"title": "Critique Studio",
+"hours": 5.0,
+"division": "graduate",
+"description": "Context and structured dialogue regarding areas of, and the student's own direction in, graduate research. For each semester hour of credit earned, the equivalent of one lecture hour a week, with additional studio hours to be arranged. May be repeated for credit. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 682",
+"subject": "DES",
+"number": "682",
+"title": "Critique Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Context and structured dialogue regarding areas of, and the student's own direction in, graduate research. For each semester hour of credit earned, the equivalent of one lecture hour a week, with additional studio hours to be arranged. May be repeated for credit. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 383",
+"subject": "DES",
+"number": "383",
+"title": "Graduate Projects",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Prerequisite: Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 184",
+"subject": "DES",
+"number": "184",
+"title": "Design Documentation and Storytelling",
+"hours": 1.0,
+"division": "graduate",
+"description": "Covers portfolio creation and other tools related to documenting and communicating design work. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 384",
+"subject": "DES",
+"number": "384",
+"title": "Design Documentation and Storytelling",
+"hours": 3.0,
+"division": "graduate",
+"description": "Covers portfolio creation and other tools related to documenting and communicating design work. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 684",
+"subject": "DES",
+"number": "684",
+"title": "Design Documentation and Storytelling",
+"hours": 6.0,
+"division": "graduate",
+"description": "Covers portfolio creation and other tools related to documenting and communicating design work. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 384C",
+"subject": "DES",
+"number": "384C",
+"title": "Design Criticism",
+"hours": 3.0,
+"division": "graduate",
+"description": "Thinking, writing and talking about design. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; consent of the graduate adviser; consent of instructor.",
+"prereqText": "Graduate standing; consent of the graduate adviser; consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 184D",
+"subject": "DES",
+"number": "184D",
+"title": "Design Perspectives",
+"hours": 1.0,
+"division": "graduate",
+"description": "Explore design approaches, subfields, practices, and media through workshops, projects or lectures led by industry professionals, visiting instructors, and/or University faculty and graduate students. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 284D",
+"subject": "DES",
+"number": "284D",
+"title": "Design Perspectives",
+"hours": 2.0,
+"division": "graduate",
+"description": "Explore design approaches, subfields, practices, and media through workshops, projects or lectures led by industry professionals, visiting instructors, and/or University faculty and graduate students. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 384D",
+"subject": "DES",
+"number": "384D",
+"title": "Design Perspectives",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore design approaches, subfields, practices, and media through workshops, projects or lectures led by industry professionals, visiting instructors, and/or University faculty and graduate students. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 184E",
+"subject": "DES",
+"number": "184E",
+"title": "The Art of Critique",
+"hours": 1.0,
+"division": "graduate",
+"description": "Explore methods, frameworks, and practice in giving and receiving feedback in a design studio setting. For each semester hour of credit earned, one lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 384E",
+"subject": "DES",
+"number": "384E",
+"title": "The Art of Critique",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore methods, frameworks, and practice in giving and receiving feedback in a design studio setting. For each semester hour of credit earned, one lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 184F",
+"subject": "DES",
+"number": "184F",
+"title": "Materials Exploration",
+"hours": 1.0,
+"division": "graduate",
+"description": "Consider materials in design applications. For each semester hour of credit earned, one lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 384F",
+"subject": "DES",
+"number": "384F",
+"title": "Materials Exploration",
+"hours": 3.0,
+"division": "graduate",
+"description": "Consider materials in design applications. For each semester hour of credit earned, one lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 184G",
+"subject": "DES",
+"number": "184G",
+"title": "User Research",
+"hours": 1.0,
+"division": "graduate",
+"description": "Explore generative and evaluative methods for design research, research synthesis techniques, and the design of research field studies for design applications. For each semester hour of credit earned, one lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 384G",
+"subject": "DES",
+"number": "384G",
+"title": "User Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore generative and evaluative methods for design research, research synthesis techniques, and the design of research field studies for design applications. For each semester hour of credit earned, one lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 384H",
+"subject": "DES",
+"number": "384H",
+"title": "Design Theory and Method",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine theory and methods in design. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; consent of the graduate adviser; consent of instructor.",
+"prereqText": "Graduate standing; consent of the graduate adviser; consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 384J",
+"subject": "DES",
+"number": "384J",
+"title": "Design in Context",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore the social, political, historical, legal and economic contexts of design. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; consent of the graduate adviser; consent of instructor.",
+"prereqText": "Graduate standing; consent of the graduate adviser; consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 184K",
+"subject": "DES",
+"number": "184K",
+"title": "Introduction to Campus Resources for Designers",
+"hours": 1.0,
+"division": "graduate",
+"description": "Introduction to design-related resources on campus including the Library, materials lab, fabrication lab, and publication studio. One lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 385C",
+"subject": "DES",
+"number": "385C",
+"title": "Studio I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore principles and techniques of design across disciplines through project work in a studio setting. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 685C",
+"subject": "DES",
+"number": "685C",
+"title": "Studio I",
+"hours": 6.0,
+"division": "graduate",
+"description": "Explore principles and techniques of design across disciplines through project work in a studio setting. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 385D",
+"subject": "DES",
+"number": "385D",
+"title": "Studio II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Build upon principles and techniques of design across disciplines through project work in a studio setting. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385C or 685C.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385C or 685C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 385C"
+},
+{
+"type": "course",
+"id": "DES 685C"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 685D",
+"subject": "DES",
+"number": "685D",
+"title": "Studio II",
+"hours": 6.0,
+"division": "graduate",
+"description": "Build upon principles and techniques of design across disciplines through project work in a studio setting. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385C or 685C.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385C or 685C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 385C"
+},
+{
+"type": "course",
+"id": "DES 685C"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 385E",
+"subject": "DES",
+"number": "385E",
+"title": "Studio III",
+"hours": 3.0,
+"division": "graduate",
+"description": "Refine and apply advanced principles and techniques of design across disciplines through project work in a studio setting. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385D or 685D.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385D or 685D.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 385D"
+},
+{
+"type": "course",
+"id": "DES 685D"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 685E",
+"subject": "DES",
+"number": "685E",
+"title": "Studio III",
+"hours": 6.0,
+"division": "graduate",
+"description": "Refine and apply advanced principles and techniques of design across disciplines through project work in a studio setting. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385D or 685D.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385D or 685D.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 385D"
+},
+{
+"type": "course",
+"id": "DES 685D"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 385F",
+"subject": "DES",
+"number": "385F",
+"title": "Studio IV",
+"hours": 3.0,
+"division": "graduate",
+"description": "Culminate previous knowledge of principles and techniques of design across disciplines through project work in a studio setting. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385E or 685E.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385E or 685E.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 385E"
+},
+{
+"type": "course",
+"id": "DES 685E"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 685F",
+"subject": "DES",
+"number": "685F",
+"title": "Studio IV",
+"hours": 6.0,
+"division": "graduate",
+"description": "Culminate previous knowledge of principles and techniques of design across disciplines through project work in a studio setting. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385E or 685E.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385E or 685E.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 385E"
+},
+{
+"type": "course",
+"id": "DES 685E"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 385G",
+"subject": "DES",
+"number": "385G",
+"title": "Foundation Studio I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to vocabulary, principles, strategies, techniques and conventions foundational to design in a studio format. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 685G",
+"subject": "DES",
+"number": "685G",
+"title": "Foundation Studio I",
+"hours": 6.0,
+"division": "graduate",
+"description": "Introduction to vocabulary, principles, strategies, techniques and conventions foundational to design in a studio format. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 385H",
+"subject": "DES",
+"number": "385H",
+"title": "Foundation Studio II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Build upon vocabulary, principles, strategies, techniques and conventions foundational to design in a studio format. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385G or Design 685G.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385G or Design 685G.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 385G"
+},
+{
+"type": "course",
+"id": "DES 685G"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 685H",
+"subject": "DES",
+"number": "685H",
+"title": "Foundation Studio II",
+"hours": 6.0,
+"division": "graduate",
+"description": "Build upon vocabulary, principles, strategies, techniques and conventions foundational to design in a studio format. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385G or Design 685G.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385G or Design 685G.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 385G"
+},
+{
+"type": "course",
+"id": "DES 685G"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 385J",
+"subject": "DES",
+"number": "385J",
+"title": "Foundation Studio III",
+"hours": 3.0,
+"division": "graduate",
+"description": "Refine vocabulary, principles, strategies, techniques and conventions foundational to design in a studio format. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385H or Design 685H.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385H or Design 685H.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 385H"
+},
+{
+"type": "course",
+"id": "DES 685H"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 685J",
+"subject": "DES",
+"number": "685J",
+"title": "Foundation Studio III",
+"hours": 6.0,
+"division": "graduate",
+"description": "Refine vocabulary, principles, strategies, techniques and conventions foundational to design in a studio format. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385H or Design 685H.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser; Design 385H or Design 685H.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "DES 385H"
+},
+{
+"type": "course",
+"id": "DES 685H"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 385K",
+"subject": "DES",
+"number": "385K",
+"title": "Topics in Visual Design Studio",
+"hours": 3.0,
+"division": "graduate",
+"description": "Studio-based exploration of techniques and concepts specific to visual design. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 685K",
+"subject": "DES",
+"number": "685K",
+"title": "Topics in Visual Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Studio-based exploration of techniques and concepts specific to visual design. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 185L",
+"subject": "DES",
+"number": "185L",
+"title": "Topics in Interaction Design Studio",
+"hours": 1.0,
+"division": "graduate",
+"description": "Studio-based exploration of techniques and concepts specific to interaction design. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 385L",
+"subject": "DES",
+"number": "385L",
+"title": "Topics in Interaction Design Studio",
+"hours": 3.0,
+"division": "graduate",
+"description": "Studio-based exploration of techniques and concepts specific to interaction design. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 685L",
+"subject": "DES",
+"number": "685L",
+"title": "Topics in Interaction Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Studio-based exploration of techniques and concepts specific to interaction design. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 185M",
+"subject": "DES",
+"number": "185M",
+"title": "Topics in Industrial Design Studio",
+"hours": 1.0,
+"division": "graduate",
+"description": "Studio-based examination of techniques and concepts specific to industrial design. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 385M",
+"subject": "DES",
+"number": "385M",
+"title": "Topics in Industrial Design Studio",
+"hours": 3.0,
+"division": "graduate",
+"description": "Studio-based examination of techniques and concepts specific to industrial design. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 685M",
+"subject": "DES",
+"number": "685M",
+"title": "Topics in Industrial Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Studio-based examination of techniques and concepts specific to industrial design. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 385N",
+"subject": "DES",
+"number": "385N",
+"title": "Topics in Service Design Studio",
+"hours": 3.0,
+"division": "graduate",
+"description": "Studio-based exploration of techniques and concepts specific to service design. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 685N",
+"subject": "DES",
+"number": "685N",
+"title": "Topics in Service Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Studio-based exploration of techniques and concepts specific to service design. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 385T",
+"subject": "DES",
+"number": "385T",
+"title": "Topics in Design Studio",
+"hours": 3.0,
+"division": "graduate",
+"description": "Develop studio projects focusing on specialized or advanced topics or methods. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 685T",
+"subject": "DES",
+"number": "685T",
+"title": "Topics in Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Develop studio projects focusing on specialized or advanced topics or methods. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 385V",
+"subject": "DES",
+"number": "385V",
+"title": "Topics in Visiting Designer Studio",
+"hours": 3.0,
+"division": "graduate",
+"description": "Projects developed by visiting designer on technique and concepts related to their practice in a studio format. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 685V",
+"subject": "DES",
+"number": "685V",
+"title": "Topics in Visiting Designer Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Projects developed by visiting designer on technique and concepts related to their practice in a studio format. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 386",
+"subject": "DES",
+"number": "386",
+"title": "Design History",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 387",
+"subject": "DES",
+"number": "387",
+"title": "Graduate Internship in Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Professional design internship in a field of the student's interest. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Hours to be arranged with supervisor. May be repeated for credit. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of the instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of the instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 487",
+"subject": "DES",
+"number": "487",
+"title": "Graduate Internship in Design",
+"hours": 4.0,
+"division": "graduate",
+"description": "Professional design internship in a field of the student's interest. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Hours to be arranged with supervisor. May be repeated for credit. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of the instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of the instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 587",
+"subject": "DES",
+"number": "587",
+"title": "Graduate Internship in Design",
+"hours": 5.0,
+"division": "graduate",
+"description": "Professional design internship in a field of the student's interest. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Hours to be arranged with supervisor. May be repeated for credit. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of the instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of the instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 687",
+"subject": "DES",
+"number": "687",
+"title": "Graduate Internship in Design",
+"hours": 6.0,
+"division": "graduate",
+"description": "Professional design internship in a field of the student's interest. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Hours to be arranged with supervisor. May be repeated for credit. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of the instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of the instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 387H",
+"subject": "DES",
+"number": "387H",
+"title": "Internship in Healthcare Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 487H",
+"subject": "DES",
+"number": "487H",
+"title": "Internship in Healthcare Design",
+"hours": 4.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 587H",
+"subject": "DES",
+"number": "587H",
+"title": "Internship in Healthcare Design",
+"hours": 5.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 687H",
+"subject": "DES",
+"number": "687H",
+"title": "Internship in Healthcare Design",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 388",
+"subject": "DES",
+"number": "388",
+"title": "Introduction to Design Thinking",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to graduate students in design. A preliminary foundation in the emerging practice of human-centered design, the methodology driving design thinking as a way of achieving innovation across sectors. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to graduate students in design.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 388C",
+"subject": "DES",
+"number": "388C",
+"title": "Topics in Design Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine specialized or advanced topics in design. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 388D",
+"subject": "DES",
+"number": "388D",
+"title": "Topics in Service Design Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine specialized or advanced topics in service design. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 388E",
+"subject": "DES",
+"number": "388E",
+"title": "Topics in Industrial Design Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine specialized or advanced topics in industrial design. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 388F",
+"subject": "DES",
+"number": "388F",
+"title": "Topics in Interaction Design Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine specialized or advanced topics in interaction design. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 388G",
+"subject": "DES",
+"number": "388G",
+"title": "Topics in Visual Design Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine specialized or advanced topics in visual design. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 190",
+"subject": "DES",
+"number": "190",
+"title": "Topics in Advanced Design Skills",
+"hours": 1.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 290",
+"subject": "DES",
+"number": "290",
+"title": "Topics in Advanced Design Skills",
+"hours": 2.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 390",
+"subject": "DES",
+"number": "390",
+"title": "Topics in Advanced Design Skills",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 490",
+"subject": "DES",
+"number": "490",
+"title": "Topics in Advanced Design Skills",
+"hours": 4.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 590",
+"subject": "DES",
+"number": "590",
+"title": "Topics in Advanced Design Skills",
+"hours": 5.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 690",
+"subject": "DES",
+"number": "690",
+"title": "Topics in Advanced Design Skills",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 391",
+"subject": "DES",
+"number": "391",
+"title": "Core Laboratory 2",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed to provide students with the opportunity to test and expand their design research through writing and various methods of dissemination. Three lecture hours a week for one semester, with additional laboratory hours to be arranged. Prerequisite: Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 392",
+"subject": "DES",
+"number": "392",
+"title": "Professional Communication of Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Seminar addressing strategies for communicating design research processes and results to a variety of audiences through vehicles such as exhibitions, scholarly reports, and video recordings. Three lecture hours a week for one semester, with additional laboratory hours to be arranged. May be repeated for credit. Prerequisite: Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 393",
+"subject": "DES",
+"number": "393",
+"title": "Topics in Design Theory and Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Investigates current discourse within design studies. Three lecture hours a week for one semester, with additional laboratory hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 194",
+"subject": "DES",
+"number": "194",
+"title": "Topics in Advanced Design",
+"hours": 1.0,
+"division": "graduate",
+"description": "Examine design practices in all areas, and their relationship to research. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 294",
+"subject": "DES",
+"number": "294",
+"title": "Topics in Advanced Design",
+"hours": 2.0,
+"division": "graduate",
+"description": "Examine design practices in all areas, and their relationship to research. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 394",
+"subject": "DES",
+"number": "394",
+"title": "Topics in Advanced Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine design practices in all areas, and their relationship to research. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 494",
+"subject": "DES",
+"number": "494",
+"title": "Topics in Advanced Design",
+"hours": 4.0,
+"division": "graduate",
+"description": "Examine design practices in all areas, and their relationship to research. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 594",
+"subject": "DES",
+"number": "594",
+"title": "Topics in Advanced Design",
+"hours": 5.0,
+"division": "graduate",
+"description": "Examine design practices in all areas, and their relationship to research. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 694",
+"subject": "DES",
+"number": "694",
+"title": "Topics in Advanced Design",
+"hours": 6.0,
+"division": "graduate",
+"description": "Examine design practices in all areas, and their relationship to research. For each semester hour of credit earned, one lecture hour a week for one semester, with additional studio hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 395",
+"subject": "DES",
+"number": "395",
+"title": "Topics in Fieldwork in Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Students conduct fieldwork as part of a collaborative research team and/or under the direction of a project supervisor. Three lecture hours a week for one semester, with additional laboratory hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 396",
+"subject": "DES",
+"number": "396",
+"title": "Business of Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore the integration of design into business and business into design. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 397",
+"subject": "DES",
+"number": "397",
+"title": "Service Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Apply design thinking to service-based sectors such as hospitality, healthcare, food service and others. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 397C",
+"subject": "DES",
+"number": "397C",
+"title": "Design Pedagogy and Instruction",
+"hours": 3.0,
+"division": "graduate",
+"description": "Covers theory and research related to the pedagogy of design. Explores creation of design learning experiences. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 197P",
+"subject": "DES",
+"number": "197P",
+"title": "Teaching Practicum",
+"hours": 1.0,
+"division": "graduate",
+"description": "Applied teaching in design subjects. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 297P",
+"subject": "DES",
+"number": "297P",
+"title": "Teaching Practicum",
+"hours": 2.0,
+"division": "graduate",
+"description": "Applied teaching in design subjects. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 397P",
+"subject": "DES",
+"number": "397P",
+"title": "Teaching Practicum",
+"hours": 3.0,
+"division": "graduate",
+"description": "Applied teaching in design subjects. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 497P",
+"subject": "DES",
+"number": "497P",
+"title": "Teaching Practicum",
+"hours": 4.0,
+"division": "graduate",
+"description": "Applied teaching in design subjects. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 597P",
+"subject": "DES",
+"number": "597P",
+"title": "Teaching Practicum",
+"hours": 5.0,
+"division": "graduate",
+"description": "Applied teaching in design subjects. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 697P",
+"subject": "DES",
+"number": "697P",
+"title": "Teaching Practicum",
+"hours": 6.0,
+"division": "graduate",
+"description": "Applied teaching in design subjects. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "DES 398P",
+"subject": "DES",
+"number": "398P",
+"title": "Capstone Project",
+"hours": 3.0,
+"division": "graduate",
+"description": "Utilize design methodologies and techniques on an applied project. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "DES 398R",
+"subject": "DES",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in design and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing in design and consent of instructor or the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "DES 698R",
+"subject": "DES",
+"number": "698R",
+"title": "Master's Report",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in design and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing in design and consent of instructor or the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "DES 398S",
+"subject": "DES",
+"number": "398S",
+"title": "Master's Exhibition",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in design and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing in design and consent of instructor or the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "DES 398T",
+"subject": "DES",
+"number": "398T",
+"title": "Supervised Teaching in Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Training and teaching under the close supervision of the course instructor for one semester; group meetings with the instructor, individual consultations, and reports throughout the teaching period. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Prerequisite: Graduate standing in design and graduate standing and appointment as a teaching assistant.",
+"prereqText": "Graduate standing in design and graduate standing and appointment as a teaching assistant.",
+"prereqConfidence": "none"
+}
+]
+}

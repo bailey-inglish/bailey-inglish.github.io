@@ -1,0 +1,1278 @@
+{
+"code": "FR",
+"name": "French",
+"courses": [
+{
+"id": "FR 301",
+"subject": "FR",
+"number": "301",
+"title": "French for Graduate Students in Other Departments",
+"hours": 3.0,
+"division": "lower",
+"description": "No auditors permitted. Intensive reading course for graduate students, emphasizing basic grammar and vocabulary with translation practice. Three lecture hours a week for one semester. The symbol CR fulfills the foreign language requirement for the Doctor of Philosophy degree in some departments. May not be used to fulfill the foreign language requirement for any bachelor's degree. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FR 601C",
+"subject": "FR",
+"number": "601C",
+"title": "Beginning French",
+"hours": 6.0,
+"division": "lower",
+"description": "An intensive beginning course with an emphasis on basic skills: listening, speaking, reading, and writing. Six lecture hours a week for one semester. Only one of the following may be counted: French 601C, 604, 406, 506. Only one of the following may be counted: French 601C, 604, 407, 507, 508K."
+},
+{
+"id": "FR 604",
+"subject": "FR",
+"number": "604",
+"title": "Accelerated First-Year French",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed for students of high motivation. A six-hour course comparable to French 506 and 507. Six lecture hours a week for one semester. Only one of the following may be counted: French 601C, 604, 406, 506. Only one of the following may be counted: French 601C, 604, 407, 507, 508K."
+},
+{
+"id": "FR 406",
+"subject": "FR",
+"number": "406",
+"title": "Introductory French I",
+"hours": 4.0,
+"division": "lower",
+"description": "Emphasis on basic skills: listening, speaking, reading, and writing at the novice level of proficiency. Designed for students with no prior coursework in French. For each semester hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: French 601C, 604, 406, 506.",
+"tccn": "FREN 1411"
+},
+{
+"id": "FR 506",
+"subject": "FR",
+"number": "506",
+"title": "Introductory French I",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on basic skills: listening, speaking, reading, and writing at the novice level of proficiency. Designed for students with no prior coursework in French. For each semester hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: French 601C, 604, 406, 506.",
+"tccn": "FREN 1411"
+},
+{
+"id": "FR 407",
+"subject": "FR",
+"number": "407",
+"title": "Introductory French II",
+"hours": 4.0,
+"division": "lower",
+"description": "Emphasis on basic skills: listening, speaking, reading, and writing at the novice to intermediate levels of proficiency. Designed novice level proficiency and prior French coursework. For each semester hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: French 601C, 604, 407, 507, 508K. Prerequisite: French 406 with a grade of at least C.",
+"tccn": "FREN 1412",
+"prereqText": "French 406 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "FR 406",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 507",
+"subject": "FR",
+"number": "507",
+"title": "Introductory French II",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on basic skills: listening, speaking, reading, and writing at the novice to intermediate levels of proficiency. Designed novice level proficiency and prior French coursework. For each semester hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: French 601C, 604, 407, 507, 508K. Prerequisite: French 406 with a grade of at least C.",
+"tccn": "FREN 1412",
+"prereqText": "French 406 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "FR 406",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 508K",
+"subject": "FR",
+"number": "508K",
+"title": "Alternate First-Year French II",
+"hours": 5.0,
+"division": "lower",
+"description": "An accelerated review of material covered in French 506, followed by study of new material covered in French 507. Five lecture hours a week for one semester. Only one of the following may be counted: French 601C, 604, 407, 507, 508K. Prerequisite: Transfer credit or credit by examination for French 506; or credit for French 506 earned at the University more than one calendar year prior to registering, with a grade of at least C.",
+"prereqText": "Transfer credit or credit by examination for French 506; or credit for French 506 earned at the University more than one calendar year prior to registering, with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "FR 506"
+},
+{
+"type": "course",
+"id": "FR 506",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 611C",
+"subject": "FR",
+"number": "611C",
+"title": "Intermediate French",
+"hours": 6.0,
+"division": "lower",
+"description": "An intensive intermediate course with emphasis on basic skills: listening, speaking, reading, and writing. Does not meet the prerequisite requirements for French 320E or 324L. Six lecture hours a week for one semester. Only one of the following may be counted: French 611C, 612, 312K, 412K. Prerequisite: French 601C, 604, 507, or 508K with a grade of at least C.",
+"prereqText": "requirements for French 320E or 324L. Six lecture hours a week for one semester. Only one of the following may be counted: French 611C, 612, 312K, 412K. Prerequisite: French 601C, 604, 507, or 508K with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "FR 612",
+"subject": "FR",
+"number": "612",
+"title": "Accelerated Second-Year French: Four Skills",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed for students of high motivation. A six-hour course comparable to French 312K and 312L combined. Six lecture hours a week for one semester. Only one of the following may be counted: French 611C, 612, 312K, 412K. Prerequisite: French 604, 507, or 508K with a grade of at least C.",
+"prereqText": "French 604, 507, or 508K with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "FR 312K",
+"subject": "FR",
+"number": "312K",
+"title": "Intermediate French I",
+"hours": 3.0,
+"division": "lower",
+"description": "Emphasis on basic skills: listening, speaking, reading, and writing at the Intermediate level of proficiency. Designed for students with Novice level proficiency and a prior beginning French course. For each semester hour of credit earned, one lecture hour a week. Only one of the following may be counted: French 611C, 612, 312K, 412K. Prerequisite: French 407 or 507 with a grade of at least C.",
+"tccn": "FREN 2311",
+"prereqText": "French 407 or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "FR 407"
+},
+{
+"type": "course",
+"id": "FR 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 412K",
+"subject": "FR",
+"number": "412K",
+"title": "Intermediate French I",
+"hours": 4.0,
+"division": "lower",
+"description": "Emphasis on basic skills: listening, speaking, reading, and writing at the Intermediate level of proficiency. Designed for students with Novice level proficiency and a prior beginning French course. For each semester hour of credit earned, one lecture hour a week. Only one of the following may be counted: French 611C, 612, 312K, 412K. Prerequisite: French 407 or 507 with a grade of at least C.",
+"tccn": "FREN 2311",
+"prereqText": "French 407 or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "FR 407"
+},
+{
+"type": "course",
+"id": "FR 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 312L",
+"subject": "FR",
+"number": "312L",
+"title": "Second-Year French II: Four Skills",
+"hours": 3.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the advanced, second-year level. Three lecture hours a week for one semester. French 312L and 317C may not both be counted. Prerequisite: French 312K with a grade of at least C.",
+"tccn": "FREN 2312",
+"prereqText": "French 312K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "FR 312K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 317C",
+"subject": "FR",
+"number": "317C",
+"title": "Enhancing French Skills",
+"hours": 3.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing course designed to provide additional preparation for upper-division French courses. Three lecture hours a week for one semester. French 312L and 317C may not both be counted. Prerequisite: French 312K or 412K or 611C with a grade of at least C.",
+"prereqText": "French 312K or 412K or 611C with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "FR 312K"
+},
+{
+"type": "course",
+"id": "FR 412K"
+},
+{
+"type": "course",
+"id": "FR 611C",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 118L",
+"subject": "FR",
+"number": "118L",
+"title": "Practice in Spoken French",
+"hours": 1.0,
+"division": "lower",
+"description": "Designed to be taken concurrently with French 317C. Two lecture hours a week for one semester. May not be counted toward fulfillment of the foreign language requirement for any bachelor's degree. Prerequisite: French 611C or 312K with a grade of at least C.",
+"prereqText": "French 611C or 312K with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "FR 611C"
+},
+{
+"type": "course",
+"id": "FR 312K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high",
+"excluded": "fulfillment of the foreign language requirement for any bachelor's degree"
+},
+{
+"id": "FR 119S",
+"subject": "FR",
+"number": "119S",
+"title": "Topics in French",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 219S",
+"subject": "FR",
+"number": "219S",
+"title": "Topics in French",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 319S",
+"subject": "FR",
+"number": "319S",
+"title": "Topics in French",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 419S",
+"subject": "FR",
+"number": "419S",
+"title": "Topics in French",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 519S",
+"subject": "FR",
+"number": "519S",
+"title": "Topics in French",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 619S",
+"subject": "FR",
+"number": "619S",
+"title": "Topics in French",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 719S",
+"subject": "FR",
+"number": "719S",
+"title": "Topics in French",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 819S",
+"subject": "FR",
+"number": "819S",
+"title": "Topics in French",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 919S",
+"subject": "FR",
+"number": "919S",
+"title": "Topics in French",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 320E",
+"subject": "FR",
+"number": "320E",
+"title": "Advanced French I",
+"hours": 3.0,
+"division": "upper",
+"description": "Designed to develop the listening, speaking, reading, and writing skills needed for the analysis of literary and cultural readings in the French-speaking world. Three lecture hours a week for one semester. Prerequisite: French 312L or 317C with a grade of at least C.",
+"prereqText": "French 312L or 317C with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "FR 312L"
+},
+{
+"type": "course",
+"id": "FR 317C",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 120M",
+"subject": "FR",
+"number": "120M",
+"title": "Advanced Practice in Spoken French I",
+"hours": 1.0,
+"division": "upper",
+"description": "One lecture hour a week for one semester. May not be counted toward fulfillment of the foreign language requirement for any bachelor's degree. Offered on the pass/fail basis only. Prerequisite: French 312L or 317C with a grade of at least C.",
+"prereqText": "French 312L or 317C with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "FR 312L"
+},
+{
+"type": "course",
+"id": "FR 317C",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high",
+"excluded": "fulfillment of the foreign language requirement for any bachelor's degree",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "FR 120N",
+"subject": "FR",
+"number": "120N",
+"title": "Advanced Practice in Spoken French II",
+"hours": 1.0,
+"division": "upper",
+"description": "One lecture hour a week for one semester. May not be counted toward fulfillment of the foreign language requirement for any bachelor's degree. Offered on the pass/fail basis only. Prerequisite: Three semester hours of upper-division coursework in French.",
+"prereqText": "Three semester hours of upper-division coursework in French.",
+"prereqConfidence": "none",
+"excluded": "fulfillment of the foreign language requirement for any bachelor's degree",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "FR 322E",
+"subject": "FR",
+"number": "322E",
+"title": "Advanced French II",
+"hours": 3.0,
+"division": "upper",
+"description": "Continuation of French 320E. Designed to develop the listening, speaking, reading, and writing skills needed to analyze literary and cultural readings in the French-speaking world. Three lecture hours a week for one semester. Prerequisite: French 320E with a grade of at least C.",
+"prereqText": "French 320E with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "FR 320E",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 324L",
+"subject": "FR",
+"number": "324L",
+"title": "Practical Phonetics",
+"hours": 3.0,
+"division": "upper",
+"description": "A thorough review of French phonetics, with emphasis on improving production and understanding of spoken French. Three lecture hours a week for one semester. Prerequisite: French 320E with a grade of at least C.",
+"prereqText": "French 320E with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "FR 320E",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 325C",
+"subject": "FR",
+"number": "325C",
+"title": "Crisis and Conflict",
+"hours": 3.0,
+"division": "upper",
+"description": "Focus on reading and interpreting texts dealing with historical and social conflicts as manifested in moments of crisis in French or francophone history. Three lecture hours a week for one semester. Prerequisite: French 320E with a grade of at least C.",
+"prereqText": "French 320E with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "FR 320E",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 325D",
+"subject": "FR",
+"number": "325D",
+"title": "Self and Society",
+"hours": 3.0,
+"division": "upper",
+"description": "Focus on reading and interpreting texts involving confrontations between the narrative \"I\" and representations of various social groups. Three lecture hours a week for one semester. Prerequisite: French 320E with a grade of at least C.",
+"prereqText": "French 320E with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "FR 320E",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 325E",
+"subject": "FR",
+"number": "325E",
+"title": "Representing Difference",
+"hours": 3.0,
+"division": "upper",
+"description": "Focus on reading and interpreting texts involving representation of difference (gender, religious, cultural, political, economic, social). Three lecture hours a week for one semester. Prerequisite: French 320E with a grade of at least C.",
+"prereqText": "French 320E with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "FR 320E",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 327C",
+"subject": "FR",
+"number": "327C",
+"title": "French through Cuisine",
+"hours": 3.0,
+"division": "upper",
+"description": "A refinement of reading, writing, speaking, and listening skills in French through the context of gastronomy. Three lecture hours a week for one semester. Prerequisite: French 320E with a grade of at least C.",
+"prereqText": "French 320E with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "FR 320E",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 328C",
+"subject": "FR",
+"number": "328C",
+"title": "French through Film",
+"hours": 3.0,
+"division": "upper",
+"description": "A refinement of reading, writing, speaking, and listening skills in French through the context of French and francophone cinema. Three lecture hours a week for one semester. Prerequisite: French 320E with a grade of at least C.",
+"prereqText": "French 320E with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "FR 320E",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 329C",
+"subject": "FR",
+"number": "329C",
+"title": "French through Music",
+"hours": 3.0,
+"division": "upper",
+"description": "A refinement of reading, writing, speaking, and listening skills in French through the context of French and francophone music. Three lecture hours a week for one semester. Prerequisite: French 320E with a grade of at least C.",
+"prereqText": "French 320E with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "FR 320E",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 129S",
+"subject": "FR",
+"number": "129S",
+"title": "Topics in French",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 229S",
+"subject": "FR",
+"number": "229S",
+"title": "Topics in French",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 329S",
+"subject": "FR",
+"number": "329S",
+"title": "Topics in French",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 429S",
+"subject": "FR",
+"number": "429S",
+"title": "Topics in French",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 529S",
+"subject": "FR",
+"number": "529S",
+"title": "Topics in French",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 629S",
+"subject": "FR",
+"number": "629S",
+"title": "Topics in French",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 729S",
+"subject": "FR",
+"number": "729S",
+"title": "Topics in French",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 829S",
+"subject": "FR",
+"number": "829S",
+"title": "Topics in French",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 929S",
+"subject": "FR",
+"number": "929S",
+"title": "Topics in French",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "FR 130D",
+"subject": "FR",
+"number": "130D",
+"title": "French across Disciplines",
+"hours": 1.0,
+"division": "upper",
+"description": "Students read and discuss French language materials related to the subject matter of another designated course. One lecture hour a week for one semester. Prerequisite: Upper-division standing and three semester hours of upper-division coursework in French.",
+"prereqText": "Upper-division standing and three semester hours of upper-division coursework in French.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 330J",
+"subject": "FR",
+"number": "330J",
+"title": "The Joy of French",
+"hours": 3.0,
+"division": "upper",
+"description": "Engage with special features of the French language that make it fascinating and fun. Build upon this foundation of enjoyment to enhance French speaking, reading, writing, and cultural proficiencies, and utilize new techniques for analyzing French in film, music, and literary texts. Three lecture hours a week for one semester. French 330J and 330K (Topic: The Joy of French) may not both be counted. Prerequisite: French 320E.",
+"prereqText": "French 320E.",
+"prereq": {
+"type": "course",
+"id": "FR 320E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 330K",
+"subject": "FR",
+"number": "330K",
+"title": "Topics in French Language and Cultures",
+"hours": 3.0,
+"division": "upper",
+"description": "Topics with a focus on language or culture. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: French 320E.",
+"prereqText": "French 320E.",
+"prereq": {
+"type": "course",
+"id": "FR 320E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 340C",
+"subject": "FR",
+"number": "340C",
+"title": "The Arts in France",
+"hours": 3.0,
+"division": "upper",
+"description": "A survey of the major artistic styles, modes, and currents in painting, architecture, sculpture, the decorative arts, and costume, from the medieval through the contemporary periods. Three lecture hours a week for one semester. Prerequisite: French 322E.",
+"prereqText": "French 322E.",
+"prereq": {
+"type": "course",
+"id": "FR 322E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 340P",
+"subject": "FR",
+"number": "340P",
+"title": "The Making and Identity of France",
+"hours": 3.0,
+"division": "upper",
+"description": "The general political history of France, from the nation's inception to its current existence as part of the European Community. Three lecture hours a week for one semester. Prerequisite: French 322E.",
+"prereqText": "French 322E.",
+"prereq": {
+"type": "course",
+"id": "FR 322E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 340T",
+"subject": "FR",
+"number": "340T",
+"title": "France and the Francophone World Today",
+"hours": 3.0,
+"division": "upper",
+"description": "An introduction to life in France and francophone regions through the study of contemporary society and culture. Three lecture hours a week for one semester. Prerequisite: French 322E.",
+"prereqText": "French 322E.",
+"prereq": {
+"type": "course",
+"id": "FR 322E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 342C",
+"subject": "FR",
+"number": "342C",
+"title": "French for Business",
+"hours": 3.0,
+"division": "upper",
+"description": "Development of the ability to function in French in business-related situations, both orally and in writing. Three lecture hours a week for one semester. Prerequisite: French 320E.",
+"prereqText": "French 320E.",
+"prereq": {
+"type": "course",
+"id": "FR 320E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 348",
+"subject": "FR",
+"number": "348",
+"title": "French Drama Workshop",
+"hours": 3.0,
+"division": "upper",
+"description": "Intensive analysis of one or several plays or short literary texts, with emphasis on diction, delivery of lines, acting and staging; public performance of one play. Three lecture hours a week for one semester. Prerequisite: French 320E with a grade of at least C.",
+"prereqText": "French 320E with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "FR 320E",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 349P",
+"subject": "FR",
+"number": "349P",
+"title": "French Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Provides the opportunity to apply language skills by using French in a professional setting such as a business or agency. Three lecture hours a week for one semester. Prerequisite: French 320E and consent of the department.",
+"prereqText": "French 320E and consent of the department.",
+"prereq": {
+"type": "course",
+"id": "FR 320E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 350F",
+"subject": "FR",
+"number": "350F",
+"title": "Francophone Literature and Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the francophone world through novels, poetry, theater, and film. Three lecture hours a week for one semester. Prerequisite: Upper-division standing and one of the following with a grade of at least C: French 325C, 325D, or 325E.",
+"prereqText": "Upper-division standing and one of the following with a grade of at least C: French 325C, 325D, or 325E.",
+"prereqConfidence": "low"
+},
+{
+"id": "FR 351C",
+"subject": "FR",
+"number": "351C",
+"title": "Topics in French Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: French 322E.",
+"prereqText": "French 322E.",
+"prereq": {
+"type": "course",
+"id": "FR 322E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 351N",
+"subject": "FR",
+"number": "351N",
+"title": "Narrating the Multilingual Self",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the stories of multilingual francophones, including those of language learners, through mediums such as language memoir excerpts, poems, songs, interviews, podcasts, and films that narrate the experiences of multilinguals from many different French-speaking regions (e.g. Europe, North America, Africa, and Asia). Three lecture hours a week for one semester. French 351C (Topic: Narrating Multilingual Self) and 351N may not both be counted. Prerequisite: French 322E.",
+"prereqText": "French 322E.",
+"prereq": {
+"type": "course",
+"id": "FR 322E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 357C",
+"subject": "FR",
+"number": "357C",
+"title": "French New Wave in Context",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. French 357 (Topic: French New Wave in Context) and 357C may not both be counted. Prerequisite: Six semester hours of upper-division coursework in French with a grade of at least C.",
+"prereqText": "Six semester hours of upper-division coursework in French with a grade of at least C.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 358C",
+"subject": "FR",
+"number": "358C",
+"title": "French Cinema and Memory",
+"hours": 3.0,
+"division": "upper",
+"description": "Analyze French films through the lens of memory. Examine themes including the relationship between the cinematic medium and memory, the portrayals of personal memory versus historical memory, and the influence of film on our conception of memory. Three lecture hours a week for one semester. French 358 (Topic: French Cinema and Memory) and 358C may not both be counted. Prerequisite: Six semester hours of upper-division coursework in French with a grade of at least C.",
+"prereqText": "Six semester hours of upper-division coursework in French with a grade of at least C.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 358Q",
+"subject": "FR",
+"number": "358Q",
+"title": "Supervised Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Individual instruction. May be repeated for credit. Prerequisite: French 325C, or 325D, or 325E, or 326K, or 326L.",
+"prereqText": "French 325C, or 325D, or 325E, or 326K, or 326L.",
+"prereqConfidence": "low"
+},
+{
+"id": "FR 363L",
+"subject": "FR",
+"number": "363L",
+"title": "French Through the Media",
+"hours": 3.0,
+"division": "upper",
+"description": "Focus on how the French language is used today to discuss current and cultural topics in the French media. Three lecture hours a week for one semester. French 359 (Topic: French Through the Media) and 363L may not both be counted. Prerequisite: At least six semester hours of upper-division coursework in French.",
+"prereqText": "At least six semester hours of upper-division coursework in French.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 364L",
+"subject": "FR",
+"number": "364L",
+"title": "Introduction to French Linguistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the syntactic, phonological, morphological, lexical, historical, and applied aspects of French linguistics. Three lecture hours a week for one semester. Prerequisite: At least six semester hours of upper-division coursework in French.",
+"prereqText": "At least six semester hours of upper-division coursework in French.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 165K",
+"subject": "FR",
+"number": "165K",
+"title": "Conference Course",
+"hours": 1.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in French language and literature. Prerequisite: French 325C, or 325D, or 325E, or 326K, or 326L.",
+"prereqText": "French 325C, or 325D, or 325E, or 326K, or 326L.",
+"prereqConfidence": "low"
+},
+{
+"id": "FR 265K",
+"subject": "FR",
+"number": "265K",
+"title": "Conference Course",
+"hours": 2.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in French language and literature. Prerequisite: French 325C, or 325D, or 325E, or 326K, or 326L.",
+"prereqText": "French 325C, or 325D, or 325E, or 326K, or 326L.",
+"prereqConfidence": "low"
+},
+{
+"id": "FR 365K",
+"subject": "FR",
+"number": "365K",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in French language and literature. Prerequisite: French 325C, or 325D, or 325E, or 326K, or 326L.",
+"prereqText": "French 325C, or 325D, or 325E, or 326K, or 326L.",
+"prereqConfidence": "low"
+},
+{
+"id": "FR 371L",
+"subject": "FR",
+"number": "371L",
+"title": "Advanced Written and Oral Composition",
+"hours": 3.0,
+"division": "upper",
+"description": "Designed to guide students toward smooth and effective written and oral expression; weekly compositions on assigned subjects; periodic oral presentations. Three lecture hours a week for one semester. Prerequisite: French 322E.",
+"prereqText": "French 322E.",
+"prereq": {
+"type": "course",
+"id": "FR 322E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 372",
+"subject": "FR",
+"number": "372",
+"title": "Comparative Stylistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Comparison of contemporary French and English syntax and style; study and practice in the technical difficulties of English-to-French and French-to-English translation. Three lecture hours a week for one semester. Prerequisite: French 322E.",
+"prereqText": "French 322E.",
+"prereq": {
+"type": "course",
+"id": "FR 322E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "FR 379H",
+"subject": "FR",
+"number": "379H",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on a literary, linguistic, or cultural topic, and writing and defense of a thesis under the direction of a committee of two faculty members. Conference course. Prerequisite: Admission to the French Honors Program.",
+"prereqText": "Admission to the French Honors Program.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 380C",
+"subject": "FR",
+"number": "380C",
+"title": "French for Graduate Students in Other Departments",
+"hours": 3.0,
+"division": "graduate",
+"description": "No auditors permitted. Intensive reading course, emphasizing basic grammar and vocabulary with translation practice. Three lecture hours a week for one semester. The symbol CR fulfills the foreign language requirement for the Doctor of Philosophy degree in some departments. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FR 380L",
+"subject": "FR",
+"number": "380L",
+"title": "History of the French Language",
+"hours": 3.0,
+"division": "graduate",
+"description": "An analysis of the evolution of the French language since its origin. Three lecture hours a week for one semester. Prerequisite: Graduate standing in French, or graduate standing and six semester hours of upper-division coursework in French.",
+"prereqText": "Graduate standing in French, or graduate standing and six semester hours of upper-division coursework in French.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 180P",
+"subject": "FR",
+"number": "180P",
+"title": "Introduction to Studies in Literature and Culture",
+"hours": 1.0,
+"division": "graduate",
+"description": "Proseminar in methods of study and research in French studies. One lecture hour a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FR 380R",
+"subject": "FR",
+"number": "380R",
+"title": "Reference Works and Research Methodologies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FR 380W",
+"subject": "FR",
+"number": "380W",
+"title": "Doctoral Writing Workshop",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the French and Italian Doctor of Philosophy program. Acquire the crucial skills for writing a cogent prospectus, dissertation, or article, and complete the prospectus, dissertation chapter, or article. Three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the French and Italian Doctor of Philosophy program.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FR 381",
+"subject": "FR",
+"number": "381",
+"title": "Old French Language",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Prerequisite: Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqText": "Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 381J",
+"subject": "FR",
+"number": "381J",
+"title": "Topics in French Studies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed for students in other departments; taught in English with optional reading in French. Three lecture hours a week for one semester. Graduate students in French may count only one topic toward the degree. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 381M",
+"subject": "FR",
+"number": "381M",
+"title": "Critical Approaches to Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to various modern approaches to literary criticism, stressing both theory and practical application. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 381N",
+"subject": "FR",
+"number": "381N",
+"title": "Topics in Language and Style",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 381P",
+"subject": "FR",
+"number": "381P",
+"title": "Old Provencal",
+"hours": 3.0,
+"division": "graduate",
+"description": "An introduction to Old Provencal through analysis of literary texts. Three lecture hours a week for one semester. Prerequisite: Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqText": "Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 382L",
+"subject": "FR",
+"number": "382L",
+"title": "Topics in the Civilization of the French Speaking World",
+"hours": 3.0,
+"division": "graduate",
+"description": "Studies in various aspects of the cultures of France, Quebec, Francophone Africa, the French Caribbean, and other areas. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 383K",
+"subject": "FR",
+"number": "383K",
+"title": "Structure of French: Phonology and Morphology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Prerequisite: Graduate standing in French, or graduate standing in linguistics and six semester hours of upper-division coursework in French.",
+"prereqText": "Graduate standing in French, or graduate standing in linguistics and six semester hours of upper-division coursework in French.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 383M",
+"subject": "FR",
+"number": "383M",
+"title": "Structure of French: Syntax and Semantics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Prerequisite: Graduate standing in French, or graduate standing in linguistics and six semester hours of upper-division coursework in French.",
+"prereqText": "Graduate standing in French, or graduate standing in linguistics and six semester hours of upper-division coursework in French.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 383N",
+"subject": "FR",
+"number": "383N",
+"title": "Introduction to French Linguistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "An introductory survey of the main fields of French linguistics: phonology, syntax, sociolinguistics, historical linguistics, and applied linguistics. Three lecture hours a week for one semester. Fulfills linguistics requirement for doctoral candidates in French literature. May not be counted toward a graduate degree in French linguistics or Romance linguistics. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"excluded": "a graduate degree in French linguistics or Romance linguistics"
+},
+{
+"id": "FR 385L",
+"subject": "FR",
+"number": "385L",
+"title": "Conference Course in French Language and Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "For students needing specialized courses not normally or not often included in the regular course offerings. Three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and written consent of the graduate adviser.",
+"prereqText": "Graduate standing and written consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 385T",
+"subject": "FR",
+"number": "385T",
+"title": "Graduate Teaching Practicum",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the French and Italian Doctor of Philosophy program. Engage in mentorship and pedagogical training by working one-on-one with a faculty member to develop and design an undergraduate, upper-division level course in an area of specialization. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and French or Italian Assistant Instructor experience.",
+"prereqText": "Graduate standing and French or Italian Assistant Instructor experience.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the French and Italian Doctor of Philosophy program.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FR 390K",
+"subject": "FR",
+"number": "390K",
+"title": "Topics in French Literature Through the Renaissance",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive study of particular writers or literary movements. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqText": "Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 390L",
+"subject": "FR",
+"number": "390L",
+"title": "Topics in French Literature of the Seventeenth and Eighteenth Centuries",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive study of particular writers or literary movements. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqText": "Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 390M",
+"subject": "FR",
+"number": "390M",
+"title": "Topics in French Literature from the Nineteenth Century to the Present",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive study of particular writers or literary movements. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqText": "Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 390N",
+"subject": "FR",
+"number": "390N",
+"title": "Topics in Francophone Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Studies in the literatures of Quebec, Francophone Africa, the French Caribbean, and other areas. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 391K",
+"subject": "FR",
+"number": "391K",
+"title": "Topics in Criticism and Literary Genres",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive study of critical theory or of the evolution of a genre. Topics: Le Voyage: themes, genres, structure; French short fiction since 1650; the theatre of the absurd; and others. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqText": "Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 392K",
+"subject": "FR",
+"number": "392K",
+"title": "Topics in French Linguistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examination of specific issues in theoretical, applied, descriptive, or historical linguistics. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqText": "Graduate standing and twelve semester hours of upper-division coursework in French.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 395L",
+"subject": "FR",
+"number": "395L",
+"title": "Comprehensive Examination Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to doctoral students in the Department of French and Italian. Supervised preparation for the comprehensive examination for the doctoral degree. The equivalent of three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate Standing, consent of the graduate adviser, and satisfactory completion of all course requirements for the doctoral degree.",
+"prereqText": "Graduate Standing, consent of the graduate adviser, and satisfactory completion of all course requirements for the doctoral degree.",
+"prereqConfidence": "none",
+"restricted": "Restricted to doctoral students in the Department of French and Italian.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FR 396K",
+"subject": "FR",
+"number": "396K",
+"title": "Topics in Comparative Romance Linguistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "General survey of the development of spoken Latin in Italy, Spain, Portugal, and France; main traits of phonology, morphology, and syntax in each modern derivative language. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in languages and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing in languages and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 197T",
+"subject": "FR",
+"number": "197T",
+"title": "Practicum in Teaching College French",
+"hours": 1.0,
+"division": "graduate",
+"description": "Designed to train first-year teaching assistants to observe, describe, and evaluate foreign language instruction and testing. Practical aspects of teaching to be studied include organization of class time; treatment of vocabulary and grammar; speaking and pronunciation; listening and reading comprehension; evaluating and creating tests; testing language content and language skills. One lecture hour a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 698",
+"subject": "FR",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in French and consent of the graduate adviser; for 698B, French 698A.",
+"prereqText": "For 698A, graduate standing in French and consent of the graduate adviser; for 698B, French 698A.",
+"prereq": {
+"type": "course",
+"id": "FR 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FR 398R",
+"subject": "FR",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in French and consent of the graduate adviser.",
+"prereqText": "Graduate standing in French and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FR 398T",
+"subject": "FR",
+"number": "398T",
+"title": "Supervised Teaching in French",
+"hours": 3.0,
+"division": "graduate",
+"description": "Teaching under the close supervision of the course instructor for two semesters; weekly group meetings with the instructor, individual consultations, and reports throughout the teaching period. Three lecture hours a week for one semester. Prerequisite: Graduate standing and appointment as a teaching assistant.",
+"prereqText": "Graduate standing and appointment as a teaching assistant.",
+"prereqConfidence": "none"
+},
+{
+"id": "FR 399W",
+"subject": "FR",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FR 699W",
+"subject": "FR",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FR 999W",
+"subject": "FR",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

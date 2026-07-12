@@ -1,0 +1,444 @@
+{
+"code": "COE",
+"name": "Computational Engineering",
+"courses": [
+{
+"id": "COE 301",
+"subject": "COE",
+"number": "301",
+"title": "Introduction to Computer Programming",
+"hours": 3.0,
+"division": "lower",
+"description": "Basic computer programming concepts applied to engineering computations. Development of structured solutions to engineering and mathematical problems and an understanding of coding practices. Programming in MATLAB and C++. Three lecture hours a week for one semester. Aerospace Engineering 301 and Computational Engineering 301 may not both be counted."
+},
+{
+"id": "COE 311K",
+"subject": "COE",
+"number": "311K",
+"title": "Engineering Computation",
+"hours": 3.0,
+"division": "lower",
+"description": "Fundamental numerical methods and software tools used in engineering computation. Subjects include linear systems of equations, matrix computations, nonlinear equations, least squares approximations, interpolation, numerical integration and numerical solution of differential equations. Three lecture hours a week for one semester. Only one of the following may be counted: Aerospace Engineering 211K, 311, Biomedical Engineering 313L, Computational Engineering 211K, 311K. Prerequisite: Aerospace Engineering 301 (or 201) or Computational Engineering 301 with a grade of at least C-; and credit with a grade of at least C- or registration for Mathematics 427J or 427K.",
+"prereqText": "Aerospace Engineering 301 (or 201) or Computational Engineering 301 with a grade of at least C-; and credit with a grade of at least C- or registration for Mathematics 427J or 427K.",
+"prereqConfidence": "low"
+},
+{
+"id": "COE 119S",
+"subject": "COE",
+"number": "119S",
+"title": "Topics in Computational Engineering",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 219S",
+"subject": "COE",
+"number": "219S",
+"title": "Topics in Computational Engineering",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 319S",
+"subject": "COE",
+"number": "319S",
+"title": "Topics in Computational Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 419S",
+"subject": "COE",
+"number": "419S",
+"title": "Topics in Computational Engineering",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 519S",
+"subject": "COE",
+"number": "519S",
+"title": "Topics in Computational Engineering",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 619S",
+"subject": "COE",
+"number": "619S",
+"title": "Topics in Computational Engineering",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 719S",
+"subject": "COE",
+"number": "719S",
+"title": "Topics in Computational Engineering",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 819S",
+"subject": "COE",
+"number": "819S",
+"title": "Topics in Computational Engineering",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 919S",
+"subject": "COE",
+"number": "919S",
+"title": "Topics in Computational Engineering",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 321K",
+"subject": "COE",
+"number": "321K",
+"title": "Computational Methods for Structural Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Matrix structural analysis of systems that can be idealized as being comprised of axial bar elements, beam elements, and frame elements. Notion of element-by-element assembly of the governing system of algebraic equations. A systematic introduction to (and use of) the fundamental idea of a weak statement of a boundary value problem, particularly as concerns the numerical treatment/approximation of such problems. Interpretation of the weak-statement in terms of the principle of virtual work. Galerkin's method as applied to structural analysis. An introduction to the classical Galerkin finite element method with application to structures and plane elasticity. Energy principles and their utility in solving problems in solid mechanics, as well as their connection to the finite element method. Three lecture hours a week for one semester, with discussion hours to be arranged. Aerospace Engineering 321K and Computational Engineering 321K may not both be counted. Prerequisite: Computational Engineering 311K (or Aerospace Engineering 211K or Computational Engineering 211K); and Engineering Mechanics 319 with a grade of at least C- in each.",
+"prereqText": "Computational Engineering 311K (or Aerospace Engineering 211K or Computational Engineering 211K); and Engineering Mechanics 319 with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "COE 322",
+"subject": "COE",
+"number": "322",
+"title": "Scientific Computation",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Computational Engineering majors. Explores the basic tools needed for developing scientific computing software. These include advanced programming languages (e.g. C, C++, python), object oriented programming and data structures. Subjects may include abstract data types; creation, initialization, and destruction of objects; class hierarchies; polymorphism, inheritance and dynamic binding; generic programming using templates, linked lists, queues, stacks, trees and algorithms such as searching, sorting, and hashing. Three lecture hours a week for one semester. Computational Engineering 322 and Statistics and Data Sciences 322 may not both be counted. Prerequisite: Aerospace Engineering 301 (or 201) or Computational Engineering 301 with a grade of at least C-.",
+"prereqText": "Aerospace Engineering 301 (or 201) or Computational Engineering 301 with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ASE 301"
+},
+{
+"type": "course",
+"id": "ASE 201"
+},
+{
+"type": "course",
+"id": "COE 301",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Computational Engineering majors."
+},
+{
+"id": "COE 129S",
+"subject": "COE",
+"number": "129S",
+"title": "Topics in Computational Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 229S",
+"subject": "COE",
+"number": "229S",
+"title": "Topics in Computational Engineering",
+"hours": 2.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 329S",
+"subject": "COE",
+"number": "329S",
+"title": "Topics in Computational Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 429S",
+"subject": "COE",
+"number": "429S",
+"title": "Topics in Computational Engineering",
+"hours": 4.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 529S",
+"subject": "COE",
+"number": "529S",
+"title": "Topics in Computational Engineering",
+"hours": 5.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 629S",
+"subject": "COE",
+"number": "629S",
+"title": "Topics in Computational Engineering",
+"hours": 6.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 729S",
+"subject": "COE",
+"number": "729S",
+"title": "Topics in Computational Engineering",
+"hours": 7.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 829S",
+"subject": "COE",
+"number": "829S",
+"title": "Topics in Computational Engineering",
+"hours": 8.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 929S",
+"subject": "COE",
+"number": "929S",
+"title": "Topics in Computational Engineering",
+"hours": 9.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 332",
+"subject": "COE",
+"number": "332",
+"title": "Software Engineering and Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to computational engineering majors. Covers methods and tools for planning, designing, implementing, validating and maintaining large software systems. May include project work to build a software system as a team, using appropriate software engineering tools and techniques. Three lecture hours a week for one semester. Prerequisite: Computational Engineering 322 with a grade of at least C-.",
+"prereqText": "Computational Engineering 322 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "COE 322",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to computational engineering majors."
+},
+{
+"id": "COE 347",
+"subject": "COE",
+"number": "347",
+"title": "Introduction to Computational Fluid Dynamics",
+"hours": 3.0,
+"division": "upper",
+"description": "Development and implementation of finite-difference schemes for numerical solution of subsonic, transonic, and supersonic flows. Emphasis on convection and diffusion equations of fluid dynamics. Evaluation of accuracy, stability, and efficiency. Three lecture hours a week for one semester. Only one of the following may be counted: Aerospace Engineering 347, Computational Engineering 347, Mechanical Engineering 369L. Prerequisite: Computational Engineering 311K (or Aerospace Engineering 211K or Computational Engineering 211K), and Aerospace Engineering 320 with a grade of at least C- in each.",
+"prereqText": "Computational Engineering 311K (or Aerospace Engineering 211K or Computational Engineering 211K), and Aerospace Engineering 320 with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "COE 352",
+"subject": "COE",
+"number": "352",
+"title": "Topics in Advanced Scientific Computation",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to computational engineering majors. Topics in advanced numerical methods and scientific computation. Subject matter may vary. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Mathematics 427J or 427K, and Computational Engineering 322 (or Statistics and Data Sciences 322) with a grade of at least C- in each; and Computational Engineering 311K (or Computational Engineering 211K) with a grade of at least C-.",
+"prereqText": "Mathematics 427J or 427K, and Computational Engineering 322 (or Statistics and Data Sciences 322) with a grade of at least C- in each; and Computational Engineering 311K (or Computational Engineering 211K) with a grade of at least C-.",
+"prereqConfidence": "low",
+"restricted": "Restricted to computational engineering majors."
+},
+{
+"id": "COE 362",
+"subject": "COE",
+"number": "362",
+"title": "Engineering Probability and Statistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to mathematical representations and computations to qualitatively and quantitatively describe data, compare data, ascribe distributions to apparent patterns and structure in data via inference methods. Describe and model discrete and continuous random variables. Three lecture hours a week for one semester. Aerospace Engineering 379L (Topic: Engr Probability and Stats) and Computational Engineering 362 may not both be counted. Prerequisite: Mathematics 408D, 408L, or 408M and Computational Engineering 311K with a grade of at least C- in each.",
+"prereqText": "Mathematics 408D, 408L, or 408M and Computational Engineering 311K with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "COE 371",
+"subject": "COE",
+"number": "371",
+"title": "Applied Mathematics I",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to computational engineering majors. Subjects include real analysis of functions of one variable, linear operator theory, and ordinary differential equations. Three lecture hours a week for one semester. Prerequisite: Upper-division standing; Mathematics 427J, 427L, and either Mathematics 362K or Computational Engineering 362 with a grade of at least C- in each.",
+"prereqText": "Upper-division standing; Mathematics 427J, 427L, and either Mathematics 362K or Computational Engineering 362 with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to computational engineering majors."
+},
+{
+"id": "COE 372",
+"subject": "COE",
+"number": "372",
+"title": "Applied Mathematics II",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to computational engineering majors. Subjects include elements of complex analysis, Fourier and Laplace transforms, partial differential equations, perturbation methods, analysis of functions of several variables. Three lecture hours per week for one semester. Prerequisite: Upper-division standing and Computational Engineering 371 with a grade of at least C-.",
+"prereqText": "Upper-division standing and Computational Engineering 371 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "COE 371",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to computational engineering majors."
+},
+{
+"id": "COE 374",
+"subject": "COE",
+"number": "374",
+"title": "Senior Design Project",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to computational engineering majors. Design projects from multiple engineering disciplines done with teams of students, using computational methods for analysis and experimental data for validation; ethics of design for safety and reliability; emphasis on written and oral reporting of engineering projects. Three lecture hours a week for one semester. Computational Engineering 374 and 374E may not both be counted. Prerequisite: Computational Engineering 352 with a grade of at least C-; Computational Engineering 321K or Computational Engineering 347 with a grade of at least C-; and upper-division standing.",
+"prereqText": "Computational Engineering 352 with a grade of at least C-; Computational Engineering 321K or Computational Engineering 347 with a grade of at least C-; and upper-division standing.",
+"prereqConfidence": "low",
+"restricted": "Restricted to computational engineering majors."
+},
+{
+"id": "COE 374D",
+"subject": "COE",
+"number": "374D",
+"title": "Computational Systems Senior Design I",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to computational systems engineering: the systems engineering process, requirements, design fundamentals, trade studies, cost and risk analyses, integration, technical reviews, case studies, and ethics. Produce written reports and oral presentations. Three lecture hours and four laboratory hours a week for one semester. Computational Engineering 374D and 379L (Topic: Senior Design I) may not both be counted Prerequisite: Computational Engineering 352 with a grade of at least C-; and Computational Engineering 321K or 347 with a grade of at least C-.",
+"prereqText": "Computational Engineering 352 with a grade of at least C-; and Computational Engineering 321K or 347 with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "COE 374E",
+"subject": "COE",
+"number": "374E",
+"title": "Computational Systems Senior Design II",
+"hours": 3.0,
+"division": "upper",
+"description": "Produce design projects from multiple engineering disciplines done in teams, using computational methods for analysis and experimental data for validation; ethics of design for safety and reliability; and with emphasis on written and oral reporting of engineering projects. Three lecture and four laboratory hours a week for one semester. Computational Engineering 374 and 374E may not both be counted. Prerequisite: Computational Engineering 374D with a grade of at least C-.",
+"prereqText": "Computational Engineering 374D with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "COE 374D",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "COE 679H",
+"subject": "COE",
+"number": "679H",
+"title": "Undergraduate Honors Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to computational engineering majors. Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. Entails an oral presentation and a written thesis. Individual instruction for two semesters. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Computational Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Computational Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "COE 679HA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to computational engineering majors."
+},
+{
+"id": "COE 179K",
+"subject": "COE",
+"number": "179K",
+"title": "Research in Computational Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to computational engineering majors. Directed study or research in a selected area of computational engineering. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing, a University grade point average of at least 3.00, selection of project, and consent of the faculty member directing project and the undergraduate adviser.",
+"prereqText": "Upper-division standing, a University grade point average of at least 3.00, selection of project, and consent of the faculty member directing project and the undergraduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to computational engineering majors."
+},
+{
+"id": "COE 279K",
+"subject": "COE",
+"number": "279K",
+"title": "Research in Computational Engineering",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to computational engineering majors. Directed study or research in a selected area of computational engineering. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing, a University grade point average of at least 3.00, selection of project, and consent of the faculty member directing project and the undergraduate adviser.",
+"prereqText": "Upper-division standing, a University grade point average of at least 3.00, selection of project, and consent of the faculty member directing project and the undergraduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to computational engineering majors."
+},
+{
+"id": "COE 379K",
+"subject": "COE",
+"number": "379K",
+"title": "Research in Computational Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to computational engineering majors. Directed study or research in a selected area of computational engineering. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing, a University grade point average of at least 3.00, selection of project, and consent of the faculty member directing project and the undergraduate adviser.",
+"prereqText": "Upper-division standing, a University grade point average of at least 3.00, selection of project, and consent of the faculty member directing project and the undergraduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to computational engineering majors."
+},
+{
+"id": "COE 179L",
+"subject": "COE",
+"number": "179L",
+"title": "Topics in Computational Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "Current topics in computational engineering. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "COE 279L",
+"subject": "COE",
+"number": "279L",
+"title": "Topics in Computational Engineering",
+"hours": 2.0,
+"division": "upper",
+"description": "Current topics in computational engineering. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "COE 379L",
+"subject": "COE",
+"number": "379L",
+"title": "Topics in Computational Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Current topics in computational engineering. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "COE 479L",
+"subject": "COE",
+"number": "479L",
+"title": "Topics in Computational Engineering",
+"hours": 4.0,
+"division": "upper",
+"description": "Current topics in computational engineering. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+}
+]
+}

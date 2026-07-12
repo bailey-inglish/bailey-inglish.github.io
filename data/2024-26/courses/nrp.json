@@ -1,0 +1,579 @@
+{
+"code": "NRP",
+"name": "Nurse Professional",
+"courses": [
+{
+"id": "NRP 195",
+"subject": "NRP",
+"number": "195",
+"title": "Topics in Nursing",
+"hours": 1.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 295",
+"subject": "NRP",
+"number": "295",
+"title": "Topics in Nursing",
+"hours": 2.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395",
+"subject": "NRP",
+"number": "395",
+"title": "Topics in Nursing",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 495",
+"subject": "NRP",
+"number": "495",
+"title": "Topics in Nursing",
+"hours": 4.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 595",
+"subject": "NRP",
+"number": "595",
+"title": "Topics in Nursing",
+"hours": 5.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 695",
+"subject": "NRP",
+"number": "695",
+"title": "Topics in Nursing",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395D",
+"subject": "NRP",
+"number": "395D",
+"title": "A Systems Approach to Health Promotion Across Diverse Populations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analyze the impact of social, cultural, and ecological factors on health decision-making, healthcare delivery, and health promotion behaviors among diverse populations and settings through application of theory, ethical principles, and health promotion methodologies. Three lecture hours a week for one semester. Only one of the following may be counted: Nursing 395H, 395 (Topic 7), Nurse Professional 395D. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395G, 395O, and 395Q.",
+"prereqText": "Graduate standing and Nurse Professional 395G, 395O, and 395Q.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NRP 395G"
+},
+{
+"type": "course",
+"id": "NRP 395O"
+},
+{
+"type": "course",
+"id": "NRP 395Q"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395E",
+"subject": "NRP",
+"number": "395E",
+"title": "Health Policy for Diverse Systems and Populations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Discuss the expanded role of clinical leaders in health policy advocacy at the organizational, community, state, national, and international level through examination of socio-political and economic contexts of health, advocacy, policy development, analysis, implementation, and evaluation. Three lecture hours a week for one semester. Only one of the following may be counted: Nursing 395J, 395 (Topic 8), Nurse Professional 395E. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Nurse Professional 395G, 395O and 395Q or consent of instructor.",
+"prereqText": "Graduate standing; Nurse Professional 395G, 395O and 395Q or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NRP 395G"
+},
+{
+"type": "course",
+"id": "NRP 395O"
+},
+{
+"type": "course",
+"id": "NRP 395Q"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395F",
+"subject": "NRP",
+"number": "395F",
+"title": "Health Care Economics and Finance",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore basic economic theory, market drivers and restraints, health care budgets, financial management and reimbursement in systems, cost/benefit analysis of programs or initiatives, and health care, entrepreneurism through theory, application, and clinical leadership principles. Three lecture hours a week for one semester. Only one of the following may be counted: Nursing 395P, 395 (Topic 9), Nurse Professional 395F. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395G, 395O and 395Q.",
+"prereqText": "Graduate standing and Nurse Professional 395G, 395O and 395Q.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NRP 395G"
+},
+{
+"type": "course",
+"id": "NRP 395O"
+},
+{
+"type": "course",
+"id": "NRP 395Q"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395G",
+"subject": "NRP",
+"number": "395G",
+"title": "Translating Evidence into Nursing Practice",
+"hours": 3.0,
+"division": "graduate",
+"description": "Appraise literature critically and make recommendations for evidence-based practice changes, innovations, or guidelines to improve health care outcomes. Three lecture hours a week for one semester. Nursing 395G and Nurse Professional 395G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395K",
+"subject": "NRP",
+"number": "395K",
+"title": "Leadership in Organizations and Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore leadership and systems theories, including philosophies, cultures, structures, processes, information management, interprofessional communication, and other areas relevant to healthcare organizations. Examine the role of the Doctor of Nursing Practice nurse within the larger context of the health care system. Three lecture hours a week for one semester. Nursing 395K and Nurse Professional 395K may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Nurse Professional 395G, 395O and 395Q or consent of instructor.",
+"prereqText": "Graduate standing; Nurse Professional 395G, 395O and 395Q or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NRP 395G"
+},
+{
+"type": "course",
+"id": "NRP 395O"
+},
+{
+"type": "course",
+"id": "NRP 395Q"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395L",
+"subject": "NRP",
+"number": "395L",
+"title": "Quality Improvement and Safety Principles and Methods",
+"hours": 3.0,
+"division": "graduate",
+"description": "Apply the science of quality improvement and implementation to improve organizational effectiveness and health outcomes. Discuss strategies to enhance complex system thinking, process analysis, and measuring and monitoring quality and safety indicators. Explore developing and evaluating cost-effective improvement initiatives and implementation of evidence-based practices. Three lecture hours a week for one semester. Nursing 395L and Nurse Professional 395L may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Nurse Professional 395G, 395O and 395Q or consent of instructor.",
+"prereqText": "Graduate standing; Nurse Professional 395G, 395O and 395Q or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NRP 395G"
+},
+{
+"type": "course",
+"id": "NRP 395O"
+},
+{
+"type": "course",
+"id": "NRP 395Q"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395M",
+"subject": "NRP",
+"number": "395M",
+"title": "Epidemiology and Population Health",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore the activities of international, national, state, and local entities in relation to population health, health disparities, and the needs of priority populations. Discuss basic epidemiological principles, disaster and emergency prevention and response, and inter-professional collaboration to identify, analyze, and evaluate key population health issues. Three lecture hours a week for one semester. Nursing 395M and Nurse Professional 395M may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395G, 395O and 395Q.",
+"prereqText": "Graduate standing and Nurse Professional 395G, 395O and 395Q.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NRP 395G"
+},
+{
+"type": "course",
+"id": "NRP 395O"
+},
+{
+"type": "course",
+"id": "NRP 395Q"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395O",
+"subject": "NRP",
+"number": "395O",
+"title": "Roles and Theory Foundations of the Nursing Practice Leadership Role",
+"hours": 3.0,
+"division": "graduate",
+"description": "Engage in both practicum experiences and self-directed scholarship to explore the development of the Doctor of Nursing Practice role and its unique contributions of clinical leadership within an interdisciplinary and dynamic healthcare environment. Refine and state the tenets of their personalized conceptual or theoretical framework derived from nursing theories and related sciences with the goal of improving healthcare practice outcomes and disseminating findings as a DNP clinical leader. Identify a clinical area of interest and begin to demonstrate standards of DNP practice, to improve healthcare outcomes for diverse populations. Two lecture hours and four laboratory hours a week for a semester. Only one of the following may be counted: Nursing 395E, 395O, Nurse Professional 395O. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395Q",
+"subject": "NRP",
+"number": "395Q",
+"title": "Research and Evaluation Methods I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine basic concepts in research and evaluation methods including quantitative and qualitative designs, descriptive and inferential statistics, reliability and validity, and data collection and extraction strategies that DNPs use to evaluate evidence-based literature. Three lecture hours a week for one semester. Nursing 395 (Topic 5) and Nurse Professional 395Q may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395R",
+"subject": "NRP",
+"number": "395R",
+"title": "Research and Evaluation Methods II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Apply research design, statistical and qualitative techniques, and data collection/extraction methods to the Doctor of Nursing Practice (DNP) Scholarly Project and other research, quality assurance, and program evaluation activities. Three lecture hours a week for one semester. Nursing 395 (Topic 6) and Nurse Professional 395R may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395Q.",
+"prereqText": "Graduate standing and Nurse Professional 395Q.",
+"prereq": {
+"type": "course",
+"id": "NRP 395Q"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395S",
+"subject": "NRP",
+"number": "395S",
+"title": "Healthcare Information Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Discuss interprofessional approaches to informatics by incorporating health specific disciplines (such as nursing and pharmacy), computer science, and information science. Examine resources and methods required to apply informatics and technology to implement clinical guidelines, support communication systems, and enhance safe health care delivery. Explore opportunities to analyze information requirements, design system alternatives, and consider the management of resources. Three lecture hours a week for one semester. Nursing 395S and Nurse Professional 395S may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Nurse Professional 395G, 395O and 395Q or consent of instructor.",
+"prereqText": "Graduate standing; Nurse Professional 395G, 395O and 395Q or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NRP 395G"
+},
+{
+"type": "course",
+"id": "NRP 395O"
+},
+{
+"type": "course",
+"id": "NRP 395Q"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395T",
+"subject": "NRP",
+"number": "395T",
+"title": "Clinical Leadership Specialization Seminar and Practicum I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Utilize practicum experiences and self-directed scholarship to conceptualize the area of clinical specialization and the Doctor of Nursing Practice (DNP) scholarly project. Propose evidence-based strategies for implementing and achieving health care outcomes, such as a pilot study, program evaluation, quality improvement, policy analysis, or practice-change initiative. For 395T, one lecture and eight laboratory hours a week for one semester; for 495T, one lecture and twelve laboratory hours a week for one semester; for 595T, one lecture and sixteen laboratory hours a week for one semester. Nursing 395T and Nurse Professional 395T may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395G, 395O and 395Q.",
+"prereqText": "Graduate standing and Nurse Professional 395G, 395O and 395Q.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NRP 395G"
+},
+{
+"type": "course",
+"id": "NRP 395O"
+},
+{
+"type": "course",
+"id": "NRP 395Q"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 495T",
+"subject": "NRP",
+"number": "495T",
+"title": "Clinical Leadership Specialization Seminar and Practicum I",
+"hours": 4.0,
+"division": "graduate",
+"description": "Utilize practicum experiences and self-directed scholarship to conceptualize the area of clinical specialization and the Doctor of Nursing Practice (DNP) scholarly project. Propose evidence-based strategies for implementing and achieving health care outcomes, such as a pilot study, program evaluation, quality improvement, policy analysis, or practice-change initiative. For 395T, one lecture and eight laboratory hours a week for one semester; for 495T, one lecture and twelve laboratory hours a week for one semester; for 595T, one lecture and sixteen laboratory hours a week for one semester. Nursing 395T and Nurse Professional 395T may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395G, 395O and 395Q.",
+"prereqText": "Graduate standing and Nurse Professional 395G, 395O and 395Q.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NRP 395G"
+},
+{
+"type": "course",
+"id": "NRP 395O"
+},
+{
+"type": "course",
+"id": "NRP 395Q"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 595T",
+"subject": "NRP",
+"number": "595T",
+"title": "Clinical Leadership Specialization Seminar and Practicum I",
+"hours": 5.0,
+"division": "graduate",
+"description": "Utilize practicum experiences and self-directed scholarship to conceptualize the area of clinical specialization and the Doctor of Nursing Practice (DNP) scholarly project. Propose evidence-based strategies for implementing and achieving health care outcomes, such as a pilot study, program evaluation, quality improvement, policy analysis, or practice-change initiative. For 395T, one lecture and eight laboratory hours a week for one semester; for 495T, one lecture and twelve laboratory hours a week for one semester; for 595T, one lecture and sixteen laboratory hours a week for one semester. Nursing 395T and Nurse Professional 395T may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395G, 395O and 395Q.",
+"prereqText": "Graduate standing and Nurse Professional 395G, 395O and 395Q.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NRP 395G"
+},
+{
+"type": "course",
+"id": "NRP 395O"
+},
+{
+"type": "course",
+"id": "NRP 395Q"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395U",
+"subject": "NRP",
+"number": "395U",
+"title": "Clinical Leadership Specialization Seminar and Practicum II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Utilize practicum experiences and self-directed scholarship to assess the feasibility of conducting scholarly projects, which may consist of implementation of a significant pilot study, a program evaluation project, a quality improvement project, a policy analysis, or a practice change. For 395U, one lecture and eight laboratory hours a week for one semester; for 495U, one lecture and twelve laboratory hours a week for one semester; for 595U, one lecture and sixteen laboratory hours a week for one semester. Nursing 395U and Nurse Professional 395U may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395T or 495T or 595T.",
+"prereqText": "Graduate standing and Nurse Professional 395T or 495T or 595T.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "NRP 395T"
+},
+{
+"type": "course",
+"id": "NRP 495T"
+},
+{
+"type": "course",
+"id": "NRP 595T"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 495U",
+"subject": "NRP",
+"number": "495U",
+"title": "Clinical Leadership Specialization Seminar and Practicum II",
+"hours": 4.0,
+"division": "graduate",
+"description": "Utilize practicum experiences and self-directed scholarship to assess the feasibility of conducting scholarly projects, which may consist of implementation of a significant pilot study, a program evaluation project, a quality improvement project, a policy analysis, or a practice change. For 395U, one lecture and eight laboratory hours a week for one semester; for 495U, one lecture and twelve laboratory hours a week for one semester; for 595U, one lecture and sixteen laboratory hours a week for one semester. Nursing 395U and Nurse Professional 395U may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395T or 495T or 595T.",
+"prereqText": "Graduate standing and Nurse Professional 395T or 495T or 595T.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "NRP 395T"
+},
+{
+"type": "course",
+"id": "NRP 495T"
+},
+{
+"type": "course",
+"id": "NRP 595T"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 595U",
+"subject": "NRP",
+"number": "595U",
+"title": "Clinical Leadership Specialization Seminar and Practicum II",
+"hours": 5.0,
+"division": "graduate",
+"description": "Utilize practicum experiences and self-directed scholarship to assess the feasibility of conducting scholarly projects, which may consist of implementation of a significant pilot study, a program evaluation project, a quality improvement project, a policy analysis, or a practice change. For 395U, one lecture and eight laboratory hours a week for one semester; for 495U, one lecture and twelve laboratory hours a week for one semester; for 595U, one lecture and sixteen laboratory hours a week for one semester. Nursing 395U and Nurse Professional 395U may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395T or 495T or 595T.",
+"prereqText": "Graduate standing and Nurse Professional 395T or 495T or 595T.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "NRP 395T"
+},
+{
+"type": "course",
+"id": "NRP 495T"
+},
+{
+"type": "course",
+"id": "NRP 595T"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395V",
+"subject": "NRP",
+"number": "395V",
+"title": "Clinical Leadership Specialization Seminar and Practicum III",
+"hours": 3.0,
+"division": "graduate",
+"description": "Utilize practicum experiences and self-directed scholarship to implement a significant pilot study, a program evaluation project, a quality improvement project, a policy analysis, or a practice-change initiative in an identified area of clinical leadership specialization. Discuss implementation strategies, including incorporation of the most recent evidence-based practice in the management of patient care within an interdisciplinary practice model and utilization of evidence-based research in the clinical management of individuals, families, and communities. Explore leadership and systems analysis in complex organizations, managing interdisciplinary teams, improving educational systems, and developing and implementing quality improvement projects and evidence-based management systems to improve patient, population, and health systems outcomes. For 395V, one lecture hour and eight laboratory hours a week for one semester; for 495V, one lecture hour and twelve laboratory hours a week for one semester; for 595V, one lecture hour and sixteen laboratory hours a week for one semester. Nursing 395V and Nurse Professional 395V may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395U, 495U, or 595U.",
+"prereqText": "Graduate standing and Nurse Professional 395U, 495U, or 595U.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 495V",
+"subject": "NRP",
+"number": "495V",
+"title": "Clinical Leadership Specialization Seminar and Practicum III",
+"hours": 4.0,
+"division": "graduate",
+"description": "Utilize practicum experiences and self-directed scholarship to implement a significant pilot study, a program evaluation project, a quality improvement project, a policy analysis, or a practice-change initiative in an identified area of clinical leadership specialization. Discuss implementation strategies, including incorporation of the most recent evidence-based practice in the management of patient care within an interdisciplinary practice model and utilization of evidence-based research in the clinical management of individuals, families, and communities. Explore leadership and systems analysis in complex organizations, managing interdisciplinary teams, improving educational systems, and developing and implementing quality improvement projects and evidence-based management systems to improve patient, population, and health systems outcomes. For 395V, one lecture hour and eight laboratory hours a week for one semester; for 495V, one lecture hour and twelve laboratory hours a week for one semester; for 595V, one lecture hour and sixteen laboratory hours a week for one semester. Nursing 395V and Nurse Professional 395V may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395U, 495U, or 595U.",
+"prereqText": "Graduate standing and Nurse Professional 395U, 495U, or 595U.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 595V",
+"subject": "NRP",
+"number": "595V",
+"title": "Clinical Leadership Specialization Seminar and Practicum III",
+"hours": 5.0,
+"division": "graduate",
+"description": "Utilize practicum experiences and self-directed scholarship to implement a significant pilot study, a program evaluation project, a quality improvement project, a policy analysis, or a practice-change initiative in an identified area of clinical leadership specialization. Discuss implementation strategies, including incorporation of the most recent evidence-based practice in the management of patient care within an interdisciplinary practice model and utilization of evidence-based research in the clinical management of individuals, families, and communities. Explore leadership and systems analysis in complex organizations, managing interdisciplinary teams, improving educational systems, and developing and implementing quality improvement projects and evidence-based management systems to improve patient, population, and health systems outcomes. For 395V, one lecture hour and eight laboratory hours a week for one semester; for 495V, one lecture hour and twelve laboratory hours a week for one semester; for 595V, one lecture hour and sixteen laboratory hours a week for one semester. Nursing 395V and Nurse Professional 395V may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395U, 495U, or 595U.",
+"prereqText": "Graduate standing and Nurse Professional 395U, 495U, or 595U.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 395W",
+"subject": "NRP",
+"number": "395W",
+"title": "Clinical Leadership Specialization Seminar and Practicum IV",
+"hours": 3.0,
+"division": "graduate",
+"description": "Engage in both practicum experiences and self-directed scholarship to analyze, evaluate, and disseminate findings of the scholarly project (pilot study, a program evaluation project, a quality improvement project, a policy analysis, or a practice-change initiative) in an identified area of clinical leadership specialization. For 395W, one lecture hour and eight laboratory hours a week for one semester; for 495W, one lecture hour and twelve laboratory hours a week for one semester; for 595W, one lecture hour and sixteen laboratory hours a week for one semester. Nursing 395W and Nurse Professional 395W may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395V, 495V, or 595V.",
+"prereqText": "Graduate standing and Nurse Professional 395V, 495V, or 595V.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 495W",
+"subject": "NRP",
+"number": "495W",
+"title": "Clinical Leadership Specialization Seminar and Practicum IV",
+"hours": 4.0,
+"division": "graduate",
+"description": "Engage in both practicum experiences and self-directed scholarship to analyze, evaluate, and disseminate findings of the scholarly project (pilot study, a program evaluation project, a quality improvement project, a policy analysis, or a practice-change initiative) in an identified area of clinical leadership specialization. For 395W, one lecture hour and eight laboratory hours a week for one semester; for 495W, one lecture hour and twelve laboratory hours a week for one semester; for 595W, one lecture hour and sixteen laboratory hours a week for one semester. Nursing 395W and Nurse Professional 395W may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395V, 495V, or 595V.",
+"prereqText": "Graduate standing and Nurse Professional 395V, 495V, or 595V.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NRP 595W",
+"subject": "NRP",
+"number": "595W",
+"title": "Clinical Leadership Specialization Seminar and Practicum IV",
+"hours": 5.0,
+"division": "graduate",
+"description": "Engage in both practicum experiences and self-directed scholarship to analyze, evaluate, and disseminate findings of the scholarly project (pilot study, a program evaluation project, a quality improvement project, a policy analysis, or a practice-change initiative) in an identified area of clinical leadership specialization. For 395W, one lecture hour and eight laboratory hours a week for one semester; for 495W, one lecture hour and twelve laboratory hours a week for one semester; for 595W, one lecture hour and sixteen laboratory hours a week for one semester. Nursing 395W and Nurse Professional 395W may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and Nurse Professional 395V, 495V, or 595V.",
+"prereqText": "Graduate standing and Nurse Professional 395V, 495V, or 595V.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+}
+]
+}

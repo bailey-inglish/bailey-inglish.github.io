@@ -1,0 +1,2442 @@
+{
+"code": "M",
+"name": "Mathematics",
+"courses": [
+{
+"id": "M 301",
+"subject": "M",
+"number": "301",
+"title": "College Algebra",
+"hours": 3.0,
+"division": "lower",
+"description": "Subjects include a brief review of elementary algebra; linear, quadratic, exponential, and logarithmic functions; polynomials; systems of linear equations; applications. Three lecture hours a week for one semester. May not be counted toward a degree in mathematics. Credit for Mathematics 301 may not be earned after a student has received credit for any calculus course with a grade of C- or better. Prerequisite: A passing score on the mathematics section of the Texas Higher Education Assessment (THEA) test (or an appropriate assessment test).",
+"tccn": "MATH 1314",
+"prereqText": "A passing score on the mathematics section of the Texas Higher Education Assessment (THEA) test (or an appropriate assessment test).",
+"prereqConfidence": "none",
+"excluded": "a degree in mathematics"
+},
+{
+"id": "M 302",
+"subject": "M",
+"number": "302",
+"title": "Introduction to Mathematics",
+"hours": 3.0,
+"division": "lower",
+"description": "Intended primarily for general liberal arts students seeking knowledge of the nature of mathematics as well as training in mathematical thinking and problem solving. Topics include number theory and probability; additional topics are chosen by the instructor. Three lecture hours a week for one semester. Mathematics 302 and 303F may not both be counted. A student may not earn credit for Mathematics 302 after having received credit for any calculus course. May not be counted toward a degree in the College of Natural Sciences. Prerequisite: Texas Success Initiative (TSI) exemption or a TSI Mathematics Assessment score of 350 or higher.",
+"tccn": "MATH 1332",
+"prereqText": "Texas Success Initiative (TSI) exemption or a TSI Mathematics Assessment score of 350 or higher.",
+"prereqConfidence": "none",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "M 303D",
+"subject": "M",
+"number": "303D",
+"title": "Applicable Mathematics",
+"hours": 3.0,
+"division": "lower",
+"description": "An entry-level course for the nontechnical student, dealing with some of the techniques that allow mathematics to be applied to a variety of problems. Topics include linear and quadratic equations, systems of linear equations, matrices, probability, statistics, exponential and logarithmic functions, and mathematics of finance. Three lecture hours a week for one semester. Mathematics 303D and 303F may not both be counted. A student may not earn credit for Mathematics 303D after having received credit for Mathematics 305G or any calculus course. May not be counted toward a degree in the College of Natural Sciences. Prerequisite: An appropriate score on the mathematics placement exam.",
+"tccn": "MATH 1324",
+"prereqText": "An appropriate score on the mathematics placement exam.",
+"prereqConfidence": "none",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "M 303F",
+"subject": "M",
+"number": "303F",
+"title": "Mathematics of Investment",
+"hours": 3.0,
+"division": "lower",
+"description": "Simple and compound interest, equivalent rates, equivalent values, annuities, amortization, sinking funds, bonds, depreciation. Three lecture hours a week for one semester. Mathematics 302 and 303F may not both be counted; Mathematics 303D and 303F may not both be counted. May not be counted toward the major requirement for the Bachelor of Arts, Plan I, degree with a major in mathematics or toward the Bachelor of Science in Mathematics degree. Prerequisite: Three units of high school mathematics at the level of Algebra I or higher.",
+"prereqText": "Three units of high school mathematics at the level of Algebra I or higher.",
+"prereqConfidence": "none",
+"excluded": "the major requirement for the Bachelor of Arts, Plan I, degree with a major in mathematics or toward the Bachelor of Science in Mathematics degree"
+},
+{
+"id": "M 403K",
+"subject": "M",
+"number": "403K",
+"title": "Calculus I for Business and Economics",
+"hours": 4.0,
+"division": "lower",
+"description": "Differential and integral calculus of algebraic, logarithmic, and exponential functions with applications. Three lecture hours and two discussion sessions a week for one semester. Only one of the following may be counted: Mathematics 403K, 408C, 408K, 408N, 408Q, 408R. May not be counted toward a degree in the College of Natural Sciences. Prerequisite: An appropriate score on the mathematics placement exam.",
+"prereqText": "An appropriate score on the mathematics placement exam.",
+"prereqConfidence": "none",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "M 403L",
+"subject": "M",
+"number": "403L",
+"title": "Calculus II for Business and Economics",
+"hours": 4.0,
+"division": "lower",
+"description": "Differential and integral calculus of functions of several variables with applications, infinite series, improper integrals; introductions to probability, differential equations, matrices, systems of linear equations, and linear programming. Three lecture hours and two discussion sessions a week for one semester. Mathematics 403L and 408L (or 308L) may not both be counted. May not be counted toward the major requirement for the Bachelor of Arts, Plan I, degree with a major in mathematics or toward the Bachelor of Science in Mathematics degree. Prerequisite: Mathematics 403K, 408C, 308L, or 408N with a grade of at least C-.",
+"prereqText": "Mathematics 403K, 408C, 308L, or 408N with a grade of at least C-.",
+"prereqConfidence": "low",
+"excluded": "the major requirement for the Bachelor of Arts, Plan I, degree with a major in mathematics or toward the Bachelor of Science in Mathematics degree"
+},
+{
+"id": "M 305E",
+"subject": "M",
+"number": "305E",
+"title": "Analytic Geometry",
+"hours": 3.0,
+"division": "lower",
+"description": "Combines development of methods (including adequate treatment of theory) and acquisition of skills with applications. Three lecture hours a week for one semester. Mathematics 305E and 305K may not both be counted. Mathematics 305E and 305G may not both be counted toward the major requirement for the Bachelor of Arts, Plan I, degree with a major in Mathematics or towards the Bachelor of Science in Mathematics degree. Prerequisite: Mathematics 301.",
+"prereqText": "Mathematics 301.",
+"prereq": {
+"type": "course",
+"id": "M 301"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 305G",
+"subject": "M",
+"number": "305G",
+"title": "Preparation for Calculus",
+"hours": 3.0,
+"division": "lower",
+"description": "Study of advanced functions and their graphs and applications, including exponential, logarithmic, and trigonometric functions. Introduction to rates, slopes, and derivatives. Three lecture hours a week for one semester. Mathematics 305G and any college-level trigonometry course may not both be counted. A student may not earn credit for Mathematics 305G after having received credit for any calculus course with a grade of at least C-. Mathematics 301, 305G, and equivalent courses may not be counted toward a degree in mathematics. Prerequisite: An appropriate score on the mathematics placement exam.",
+"tccn": "MATH 2312",
+"prereqText": "An appropriate score on the mathematics placement exam.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 408C",
+"subject": "M",
+"number": "408C",
+"title": "Differential and Integral Calculus",
+"hours": 4.0,
+"division": "lower",
+"description": "Introduction to the theory and applications of differential and integral calculus of functions of one variable; topics include limits, continuity, differentiation, the mean value theorem and its applications, integration, the fundamental theorem of calculus, and transcendental functions. Three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403K, 408C, 408K, 408N, 408Q, 408R. Prerequisite: An appropriate score on the mathematics placement exam or Mathematics 305G with a grade of at least B-.",
+"prereqText": "An appropriate score on the mathematics placement exam or Mathematics 305G with a grade of at least B-.",
+"prereq": {
+"type": "course",
+"id": "M 305G",
+"minGrade": "B-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 408D",
+"subject": "M",
+"number": "408D",
+"title": "Sequences, Series, and Multivariable Calculus",
+"hours": 4.0,
+"division": "lower",
+"description": "Certain sections of this course are designated as advanced placement or honors sections; they are restricted to students who have scored well on the Advanced Placement Calculus BC exam or have the consent of the mathematics adviser. This is the second semester of the accelerated calculus sequence. The theory and applications of sequences and infinite series, including those involving functions of one variable, and an introduction to the theory and applications of differential and integral calculus of functions of several variables; subjects include methods of integration, parametric equations, sequences, infinite series, power series, functions of several variables, partial derivatives, and multiple integrals. Three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403L, 408D, 408M (or 308M). Prerequisite: Mathematics 408C, 408L, or 408S with a grade of at least C-.",
+"prereqText": "Mathematics 408C, 408L, or 408S with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 408K",
+"subject": "M",
+"number": "408K",
+"title": "Differential Calculus",
+"hours": 4.0,
+"division": "lower",
+"description": "Introduction to the theory and applications of differential calculus of functions of one variable; topics include limits, continuity, differentiation, and the mean value theorem and its applications. Three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403K, 408C, 408K, 408N, 408Q, 408R. Prerequisite: An appropriate score on the mathematics placement exam or Mathematics 305G with a grade of at least B-.",
+"tccn": "MATH 2413",
+"prereqText": "An appropriate score on the mathematics placement exam or Mathematics 305G with a grade of at least B-.",
+"prereq": {
+"type": "course",
+"id": "M 305G",
+"minGrade": "B-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 308L",
+"subject": "M",
+"number": "308L",
+"title": "Integral Calculus",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to the theory and applications of integral calculus of functions of one variable; topics include integration, the fundamental theorem of calculus, transcendental functions, sequences, and infinite series. For Mathematics 308L, three lecture hours a week for one semester; for 408L, three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403L, 408L (or 308L), 408S. Prerequisite: Mathematics 408C, 408K, or 408N with a grade of at least C-, or Mathematics 408R or 408Q with a grade of at least B.",
+"tccn": "MATH 2414",
+"prereqText": "Mathematics 408C, 408K, or 408N with a grade of at least C-, or Mathematics 408R or 408Q with a grade of at least B.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 408L",
+"subject": "M",
+"number": "408L",
+"title": "Integral Calculus",
+"hours": 4.0,
+"division": "lower",
+"description": "Introduction to the theory and applications of integral calculus of functions of one variable; topics include integration, the fundamental theorem of calculus, transcendental functions, sequences, and infinite series. For Mathematics 308L, three lecture hours a week for one semester; for 408L, three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403L, 408L (or 308L), 408S. Prerequisite: Mathematics 408C, 408K, or 408N with a grade of at least C-, or Mathematics 408R or 408Q with a grade of at least B.",
+"tccn": "MATH 2414",
+"prereqText": "Mathematics 408C, 408K, or 408N with a grade of at least C-, or Mathematics 408R or 408Q with a grade of at least B.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 308M",
+"subject": "M",
+"number": "308M",
+"title": "Multivariable Calculus",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to the theory and applications of differential and integral calculus of functions of several variables. Includes parametric equations, polar coordinates, vectors, vector calculus, functions of several variables, partial derivatives, gradients, and multiple integrals. For Mathematics 308M, three lecture hours a week for one semester; for 408M, three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403L, 408D, 408M (or 308M). Prerequisite: Mathematics 408L or 408S with a grade of at least C-.",
+"tccn": "MATH 2315, MATH 2415",
+"prereqText": "Mathematics 408L or 408S with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 408L"
+},
+{
+"type": "course",
+"id": "M 408S",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 408M",
+"subject": "M",
+"number": "408M",
+"title": "Multivariable Calculus",
+"hours": 4.0,
+"division": "lower",
+"description": "Introduction to the theory and applications of differential and integral calculus of functions of several variables. Includes parametric equations, polar coordinates, vectors, vector calculus, functions of several variables, partial derivatives, gradients, and multiple integrals. For Mathematics 308M, three lecture hours a week for one semester; for 408M, three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403L, 408D, 408M (or 308M). Prerequisite: Mathematics 408L or 408S with a grade of at least C-.",
+"tccn": "MATH 2315, MATH 2415",
+"prereqText": "Mathematics 408L or 408S with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 408L"
+},
+{
+"type": "course",
+"id": "M 408S",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 408N",
+"subject": "M",
+"number": "408N",
+"title": "Differential Calculus for Science",
+"hours": 4.0,
+"division": "lower",
+"description": "Restricted to students in the College of Natural Sciences. Introduction to the theory of differential calculus of functions of one variable, and its application to the natural sciences. Subjects may include limits and differentiation, with applications to rates of change, extremes, graphing, and exponential growth and decay. Three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403K, 408C, 408K, 408N, 408Q, 408R. Prerequisite: An appropriate score on the mathematics placement exam or Mathematics 305G with a grade of at least B-.",
+"tccn": "MATH 2413",
+"prereqText": "An appropriate score on the mathematics placement exam or Mathematics 305G with a grade of at least B-.",
+"prereq": {
+"type": "course",
+"id": "M 305G",
+"minGrade": "B-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the College of Natural Sciences."
+},
+{
+"id": "M 408Q",
+"subject": "M",
+"number": "408Q",
+"title": "Differential and Integral Calculus for Business",
+"hours": 4.0,
+"division": "lower",
+"description": "Focus on the key concepts of calculus. These include: using successive approximations to solve problems that cannot be solved directly (Euler's Method), tracking the rate at which quantities are changing (derivatives) using rates of change to find optimal solutions to real-world problems (max/min), computing bulk quantities by adding up the pieces (integration), and understanding functions of several variables by studying one variable at a time. Designed for business students. Three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403K, 408C, 408K, 408N, 408Q, 408R. Prerequisite: An appropriate score on the mathematics placement exam or Mathematics 305G with a grade of at least B-.",
+"prereqText": "An appropriate score on the mathematics placement exam or Mathematics 305G with a grade of at least B-.",
+"prereq": {
+"type": "course",
+"id": "M 305G",
+"minGrade": "B-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 408R",
+"subject": "M",
+"number": "408R",
+"title": "Differential and Integral Calculus for the Sciences",
+"hours": 4.0,
+"division": "lower",
+"description": "A calculus course for students in the life sciences. Emphasizes representations and analysis of data. Subjects include functions, rates, and derivatives and their applications to problems in biology; differential equations; Riemann integrals; the Euler method; and fundamental theorems of calculus. Three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403K, 408C, 408K, 408N, 408Q, 408R. Prerequisite: An appropriate score on the mathematics placement exam or Mathematics 305G with a grade of at least B-.",
+"prereqText": "An appropriate score on the mathematics placement exam or Mathematics 305G with a grade of at least B-.",
+"prereq": {
+"type": "course",
+"id": "M 305G",
+"minGrade": "B-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 408S",
+"subject": "M",
+"number": "408S",
+"title": "Integral Calculus for Science",
+"hours": 4.0,
+"division": "lower",
+"description": "Restricted to students in the College of Natural Sciences. Introduction to the theory of integral calculus of functions of one variable, and its applications to the natural sciences. Subjects may include integration and its application to area and volume, and transcendental functions, sequences, and series and their application to numerical methods. Three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403L, 408L (or 308L), 408S. Prerequisite: Mathematics 408C, 408K, or 408N with a grade of at least C-, or Mathematics 408R or 408Q with a grade of at least B.",
+"tccn": "MATH 2414",
+"prereqText": "Mathematics 408C, 408K, or 408N with a grade of at least C-, or Mathematics 408R or 408Q with a grade of at least B.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in the College of Natural Sciences."
+},
+{
+"id": "M 110C",
+"subject": "M",
+"number": "110C",
+"title": "Conference Course",
+"hours": 1.0,
+"division": "lower",
+"description": "Supervised study in mathematics, with hours to be arranged. May be repeated for credit. Prerequisite: Written consent of instructor; forms are available in the department office or in the Mathematics, Physics, and Astronomy Advising Center.",
+"prereqText": "Written consent of instructor; forms are available in the department office or in the Mathematics, Physics, and Astronomy Advising Center.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 210C",
+"subject": "M",
+"number": "210C",
+"title": "Conference Course",
+"hours": 2.0,
+"division": "lower",
+"description": "Supervised study in mathematics, with hours to be arranged. May be repeated for credit. Prerequisite: Written consent of instructor; forms are available in the department office or in the Mathematics, Physics, and Astronomy Advising Center.",
+"prereqText": "Written consent of instructor; forms are available in the department office or in the Mathematics, Physics, and Astronomy Advising Center.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 310C",
+"subject": "M",
+"number": "310C",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "lower",
+"description": "Supervised study in mathematics, with hours to be arranged. May be repeated for credit. Prerequisite: Written consent of instructor; forms are available in the department office or in the Mathematics, Physics, and Astronomy Advising Center.",
+"prereqText": "Written consent of instructor; forms are available in the department office or in the Mathematics, Physics, and Astronomy Advising Center.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 410C",
+"subject": "M",
+"number": "410C",
+"title": "Conference Course",
+"hours": 4.0,
+"division": "lower",
+"description": "Supervised study in mathematics, with hours to be arranged. May be repeated for credit. Prerequisite: Written consent of instructor; forms are available in the department office or in the Mathematics, Physics, and Astronomy Advising Center.",
+"prereqText": "Written consent of instructor; forms are available in the department office or in the Mathematics, Physics, and Astronomy Advising Center.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 210E",
+"subject": "M",
+"number": "210E",
+"title": "Emerging Scholars Seminar",
+"hours": 2.0,
+"division": "lower",
+"description": "Restricted to students in the Emerging Scholars Program. Supplemental problem-solving laboratory for precalculus, calculus, or advanced calculus courses for students in the Emerging Scholars Program. Three or four laboratory hours a week for one semester. May be repeated for credit. Offered on the pass/fail basis only.",
+"restricted": "Restricted to students in the Emerging Scholars Program.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "M 310P",
+"subject": "M",
+"number": "310P",
+"title": "Modern Mathematics: Plan II",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to Plan II students. Significant developments in modern mathematics. Topics may include fractals, the fourth dimension, statistics and society, and techniques for thinking about quantitative problems. Three lecture hours a week for one semester. May not be counted toward a degree in mathematics.",
+"restricted": "Restricted to Plan II students.",
+"excluded": "a degree in mathematics"
+},
+{
+"id": "M 110T",
+"subject": "M",
+"number": "110T",
+"title": "Topics in Mathematics",
+"hours": 1.0,
+"division": "lower",
+"description": "One, two, three, or four lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 210T",
+"subject": "M",
+"number": "210T",
+"title": "Topics in Mathematics",
+"hours": 2.0,
+"division": "lower",
+"description": "One, two, three, or four lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 310T",
+"subject": "M",
+"number": "310T",
+"title": "Topics in Mathematics",
+"hours": 3.0,
+"division": "lower",
+"description": "One, two, three, or four lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 410T",
+"subject": "M",
+"number": "410T",
+"title": "Topics in Mathematics",
+"hours": 4.0,
+"division": "lower",
+"description": "One, two, three, or four lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 315C",
+"subject": "M",
+"number": "315C",
+"title": "Foundations, Functions, and Regression Models",
+"hours": 3.0,
+"division": "lower",
+"description": "In-depth study of topics from secondary school mathematics. Emphasizes the development of the concept of function, exploring function patterns in data sets, and the connections between the main topics of mathematics associated with a secondary school curriculum. Use of appropriate technology is explored. Three lecture hours a week for one semester. Prerequisite: Credit or registration for Mathematics 408C and enrollment in a teaching preparation program, or consent of instructor.",
+"prereqText": "Credit or registration for Mathematics 408C and enrollment in a teaching preparation program, or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "M 408C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 316K",
+"subject": "M",
+"number": "316K",
+"title": "Foundations of Arithmetic",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in a teacher preparation program. An analysis, from an advanced perspective, of the concepts and algorithms of arithmetic, including sets; numbers; numeration systems; definitions, properties, and algorithms of arithmetic operations; and percents, ratios, and proportions. Problem solving is stressed. Three lecture hours a week for one semester. May not be counted toward the major requirement for the Bachelor of Arts, Plan I, degree with a major in mathematics or toward the Bachelor of Science in Mathematics degree. Credit for Mathematics 316K may not be earned after the student has received credit for any calculus course with a grade of C- or better, unless the student is registered in the College of Education. Prerequisite: One of the following with a grade of at least C-: Mathematics 301, 302, 303D, 305G, 316, Educational Psychology 371, Statistics and Data Sciences 302, 304, or 306.",
+"tccn": "MATH 1350",
+"prereqText": "One of the following with a grade of at least C-: Mathematics 301, 302, 303D, 305G, 316, Educational Psychology 371, Statistics and Data Sciences 302, 304, or 306.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in a teacher preparation program.",
+"excluded": "the major requirement for the Bachelor of Arts, Plan I, degree with a major in mathematics or toward the Bachelor of Science in Mathematics degree"
+},
+{
+"id": "M 316L",
+"subject": "M",
+"number": "316L",
+"title": "Foundations of Geometry, Statistics, and Probability",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in a teacher preparation program. An analysis, from an advanced perspective, of the basic concepts and methods of geometry, statistics, and probability, including representation and analysis of data; discrete probability, random events, and conditional probability; measurement; and geometry as approached through similarity and congruence, through coordinates, and through transformations. Problem solving is stressed. Three lecture hours a week for one semester. May not be counted toward the major requirement for the Bachelor of Arts, Plan I, degree with a major in mathematics or toward the Bachelor of Science in Mathematics degree. Credit for Mathematics 316L may not be earned after the student has received credit for any calculus course with a grade of C- or better, unless the student is registered in the College of Education. Prerequisite: Mathematics 316K with a grade of at least C.",
+"tccn": "MATH 1351",
+"prereqText": "Mathematics 316K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "M 316K",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in a teacher preparation program.",
+"excluded": "the major requirement for the Bachelor of Arts, Plan I, degree with a major in mathematics or toward the Bachelor of Science in Mathematics degree"
+},
+{
+"id": "M 119S",
+"subject": "M",
+"number": "119S",
+"title": "Topics in Mathematics",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 219S",
+"subject": "M",
+"number": "219S",
+"title": "Topics in Mathematics",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 319S",
+"subject": "M",
+"number": "319S",
+"title": "Topics in Mathematics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 419S",
+"subject": "M",
+"number": "419S",
+"title": "Topics in Mathematics",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 519S",
+"subject": "M",
+"number": "519S",
+"title": "Topics in Mathematics",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 619S",
+"subject": "M",
+"number": "619S",
+"title": "Topics in Mathematics",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 719S",
+"subject": "M",
+"number": "719S",
+"title": "Topics in Mathematics",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 819S",
+"subject": "M",
+"number": "819S",
+"title": "Topics in Mathematics",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 919S",
+"subject": "M",
+"number": "919S",
+"title": "Topics in Mathematics",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 325K",
+"subject": "M",
+"number": "325K",
+"title": "Discrete Mathematics",
+"hours": 3.0,
+"division": "upper",
+"description": "Provides a transition from the problem-solving approach of Mathematics 408C and 408D to the rigorous approach of advanced courses. Subjects include logic, set theory, relations and functions, combinatorics, and graph theory and graph algorithms. Three lecture hours a week for one semester.",
+"tccn": "MATH 2305"
+},
+{
+"id": "M 326K",
+"subject": "M",
+"number": "326K",
+"title": "Foundations of Number Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a teacher preparation program or who have consent of instructor. Study of number-related topics in middle-grade and secondary school mathematics. Topics include place value; meanings of arithmetic operations; analysis of computation methods; historical development of number concepts and notation; and rational, irrational, algebraic, transcendental, and complex numbers. Emphasis is on communicating mathematics, developing pedagogical understanding of concepts and notation, and using both informal reasoning and proof. Three lecture hours a week for one semester. Prerequisite: Mathematics 408D, 408L, or 408S with a grade of at least C-.",
+"prereqText": "Mathematics 408D, 408L, or 408S with a grade of at least C-.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in a teacher preparation program or who have consent of instructor."
+},
+{
+"id": "M 427J",
+"subject": "M",
+"number": "427J",
+"title": "Differential Equations with Linear Algebra",
+"hours": 4.0,
+"division": "upper",
+"description": "Ordinary differential equations, introduction to vector spaces, linear operators and eigenvalues, systems of linear differential equations, introduction to partial differential equations and Fourier series. Five lecture hours a week for one semester. Mathematics 427J and 427K may not both be counted. Prerequisite: Mathematics 408D, 408L, or 408S with a grade of at least C-.",
+"prereqText": "Mathematics 408D, 408L, or 408S with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 427K",
+"subject": "M",
+"number": "427K",
+"title": "Advanced Calculus for Applications I",
+"hours": 4.0,
+"division": "upper",
+"description": "Ordinary and partial differential equations and Fourier series. Five lecture hours a week for one semester. Mathematics 427J and 427K may not both be counted. Prerequisite: Mathematics 408D, 408L, or 408S with a grade of at least C-.",
+"tccn": "MATH 2420",
+"prereqText": "Mathematics 408D, 408L, or 408S with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 427L",
+"subject": "M",
+"number": "427L",
+"title": "Advanced Calculus for Applications II",
+"hours": 4.0,
+"division": "upper",
+"description": "Matrices, elements of vector analysis and calculus of functions of several variables, including gradient, divergence, and curl of a vector field, multiple integrals and chain rules, length and area, line and surface integrals, Green's theorems in the plane and space, and, if time permits, complex analysis. Five class hours a week for one semester. Prerequisite: Mathematics 408D, 408L, or 408S with a grade of at least C-.",
+"prereqText": "Mathematics 408D, 408L, or 408S with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 328K",
+"subject": "M",
+"number": "328K",
+"title": "Introduction to Number Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "Provides a transition from the problem-solving approach of Mathematics 408C and 408D to the rigorous approach of advanced courses. Properties of the integers, divisibility, linear and quadratic forms, prime numbers, congruences and residues, quadratic reciprocity, number theoretic functions. Three lecture hours a week for one semester. Prerequisite: Mathematics 325K, 333L, or 341 with a grade of at least C-.",
+"prereqText": "Mathematics 325K, 333L, or 341 with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 329F",
+"subject": "M",
+"number": "329F",
+"title": "Theory of Interest",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Actuarial Foundations 329. Measurement of interest, present and accumulated value, amortization, sinking funds, bonds, duration, and immunization. Covers the interest-theory portion of an exam of the Society of Actuaries and the Casualty Actuarial Society. Three lecture hours a week for one semester. Only one of the following may be counted: Actuarial Foundations 329, Mathematics 329F, 389F. Prerequisite: Mathematics 408D, 308L, 408L, 408M, or 408S with a grade of at least C-.",
+"prereqText": "Mathematics 408D, 308L, 408L, 408M, or 408S with a grade of at least C-.",
+"prereqConfidence": "low",
+"sameAs": "Actuarial Foundations 329"
+},
+{
+"id": "M 129S",
+"subject": "M",
+"number": "129S",
+"title": "Topics in Mathematics",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 229S",
+"subject": "M",
+"number": "229S",
+"title": "Topics in Mathematics",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 329S",
+"subject": "M",
+"number": "329S",
+"title": "Topics in Mathematics",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 429S",
+"subject": "M",
+"number": "429S",
+"title": "Topics in Mathematics",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 529S",
+"subject": "M",
+"number": "529S",
+"title": "Topics in Mathematics",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 629S",
+"subject": "M",
+"number": "629S",
+"title": "Topics in Mathematics",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 729S",
+"subject": "M",
+"number": "729S",
+"title": "Topics in Mathematics",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 829S",
+"subject": "M",
+"number": "829S",
+"title": "Topics in Mathematics",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 929S",
+"subject": "M",
+"number": "929S",
+"title": "Topics in Mathematics",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mathematics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M 329W",
+"subject": "M",
+"number": "329W",
+"title": "Cooperative Mathematics",
+"hours": 3.0,
+"division": "upper",
+"description": "This course covers the work period of mathematics students in the Cooperative Education program, which provides supervised work experience by arrangement with the employer and the supervising instructor. Forty laboratory hours a week for one semester. The student must repeat the course each work period and must take it twice to receive credit toward the degree; at least one of these registrations must be during a fall or spring semester. No more than three semester hours may be counted toward the major requirement; no more than six semester hours may be counted toward the degree. The student's first registration must be on the pass/fail basis. Prerequisite: Application through the College of Natural Sciences Career Design Center; Mathematics 408D, 408L, or 408S with a grade of at least C-; a grade of at least C- in two of the following courses: Mathematics 325K, 427J or 427K, 341, 362K, or 378K; and consent of the undergraduate adviser.",
+"prereqText": "Application through the College of Natural Sciences Career Design Center; Mathematics 408D, 408L, or 408S with a grade of at least C-; a grade of at least C- in two of the following courses: Mathematics 325K, 427J or 427K, 341, 362K, or 378K; and consent of the undergraduate adviser.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 333L",
+"subject": "M",
+"number": "333L",
+"title": "Structure of Modern Geometry",
+"hours": 3.0,
+"division": "upper",
+"description": "Axiom systems, transformational geometry, introduction to non-Euclidean geometries, and other topics in geometry; use of these ideas in teaching geometry. Three lecture hours a week for one semester."
+},
+{
+"id": "M 339C",
+"subject": "M",
+"number": "339C",
+"title": "Actuarial Case Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduces aspects of basic ratemaking, reserving, catastrophe modeling, and rate classification in a property & casualty actuarial context. Explores loss & premium trending, loss triangles, loss development, loss ratios, on-level premium, and accident year vs. calendar year vs. policy year data. Three lecture hours a week for one semester. Prerequisite: Actuarial Foundations 329 or Mathematics 329F with a grade of at least C-; and M339J or M339U with a grade of at least C-.",
+"prereqText": "Actuarial Foundations 329 or Mathematics 329F with a grade of at least C-; and M339J or M339U with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ACF 329"
+},
+{
+"type": "course",
+"id": "M 329F",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 339D",
+"subject": "M",
+"number": "339D",
+"title": "Introduction to Financial Mathematics for Actuaries",
+"hours": 3.0,
+"division": "upper",
+"description": "Covers the financial derivative subjects on the Society of Actuary FM/2 exam: general derivatives, options, hedging, investment strategies, forwards, futures, and swaps. Covers option pricing techniques in the MFE/3F exam: binomial option pricing, Monte Carlo Valuation using risk neutral probabilities, and Black-Scholes. Three lecture hours a week for one semester. Prerequisite: Actuarial Foundations 329 or Mathematics 329F; and Mathematics 362K with a grade of at least C-.",
+"prereqText": "Actuarial Foundations 329 or Mathematics 329F; and Mathematics 362K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 339G",
+"subject": "M",
+"number": "339G",
+"title": "Predictive Analytics",
+"hours": 3.0,
+"division": "upper",
+"description": "Designed for students in mathematics and actuarial science. Explore an introduction to predictive modeling that starts with least squares as a foundation and takes a modern approach applicable to classification and prediction in the presence of large datasets. Three lecture hours a week for one semester. Mathematics 339G and 375T (Topic: Predictive Analytics) may not both be counted. Prerequisite: The following with a grade of at least C-: Mathematics 341 or 340L; and Mathematics 358K or 378K.",
+"prereqText": "The following with a grade of at least C-: Mathematics 341 or 340L; and Mathematics 358K or 378K.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 339J",
+"subject": "M",
+"number": "339J",
+"title": "Probability Models with Actuarial Applications",
+"hours": 3.0,
+"division": "upper",
+"description": "Introductory actuarial models for life insurance, property insurance, and annuities. With Mathematics 349P, covers the syllabus for the professional actuarial exam on model construction. Three lecture hours a week for one semester. Prerequisite: Mathematics 358K or 378K with a grade of at least C-.",
+"prereqText": "Mathematics 358K or 378K with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 358K"
+},
+{
+"type": "course",
+"id": "M 378K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 139S",
+"subject": "M",
+"number": "139S",
+"title": "Seminar on Actuarial Practice",
+"hours": 1.0,
+"division": "upper",
+"description": "Presentations by working actuaries on current issues in actuarial practice. One lecture hour a week for one semester. Offered on the pass/fail basis only. Prerequisite: Actuarial Foundations 329 or Mathematics 329F; Mathematics 339J or 339U with a grade of at least C-; and credit with a grade of at least C- or registration for one of the following: Mathematics 339J, 339U, 339V, 349P.",
+"prereqText": "Actuarial Foundations 329 or Mathematics 329F; Mathematics 339J or 339U with a grade of at least C-; and credit with a grade of at least C- or registration for one of the following: Mathematics 339J, 339U, 339V, 349P.",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "M 339U",
+"subject": "M",
+"number": "339U",
+"title": "Actuarial Contingent Payments I",
+"hours": 3.0,
+"division": "upper",
+"description": "Intermediate actuarial models for life insurance, property insurance, and annuities. Three lecture hours a week for one semester. Prerequisite: Mathematics 362K with a grade of at least C-; credit with a grade of at least C- or registration for Actuarial Foundations 329 or Mathematics 329F; and credit with a grade of at least C- or registration for Mathematics 340L or 341.",
+"prereqText": "Mathematics 362K with a grade of at least C-; credit with a grade of at least C- or registration for Actuarial Foundations 329 or Mathematics 329F; and credit with a grade of at least C- or registration for Mathematics 340L or 341.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 339V",
+"subject": "M",
+"number": "339V",
+"title": "Actuarial Contingent Payments II",
+"hours": 3.0,
+"division": "upper",
+"description": "Advanced actuarial models for life insurance, property insurance, and annuities. Three lecture hours a week for one semester. Prerequisite: Actuarial Foundations 329 or Mathematics 329F, and Mathematics 339U with a grade of at least C- in each.",
+"prereqText": "Actuarial Foundations 329 or Mathematics 329F, and Mathematics 339U with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 340L",
+"subject": "M",
+"number": "340L",
+"title": "Matrices and Matrix Calculations",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to non-mathematics majors. Techniques of matrix calculations and applications of linear algebra. Three lecture hours a week for one semester. Only one of the following may count: Mathematics 340L, 341, Statistics and Data Sciences 329C. Prerequisite: Mathematics 408C, 408K, or 408N with a grade of at least C-.",
+"prereqText": "Mathematics 408C, 408K, or 408N with a grade of at least C-.",
+"prereqConfidence": "low",
+"restricted": "Restricted to non-mathematics majors."
+},
+{
+"id": "M 341",
+"subject": "M",
+"number": "341",
+"title": "Linear Algebra and Matrix Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to mathematics majors. Vector spaces, linear transformations, matrices, linear equations, determinants. Some emphasis on rigor and proofs. Three lecture hours a week for one semester. Only one of the following may count: Mathematics 340L, 341, Statistics and Data Sciences 329C. Prerequisite: Mathematics 408D, 408L, or 408S with a grade of at least C-.",
+"prereqText": "Mathematics 408D, 408L, or 408S with a grade of at least C-.",
+"prereqConfidence": "low",
+"restricted": "Restricted to mathematics majors."
+},
+{
+"id": "M 343K",
+"subject": "M",
+"number": "343K",
+"title": "Introduction to Algebraic Structures",
+"hours": 3.0,
+"division": "upper",
+"description": "Elementary properties of groups and rings, including symmetric groups, properties of the integers, polynomial rings, elementary field theory. Three lecture hours a week for one semester. Students who have received a grade of C- or better in Mathematics 373K may not take Mathematics 343K. Prerequisite: Mathematics 325K, 333L, or Philosophy 313K, and Mathematics 328K or 341 with a grade of at least C- in each; or consent of the undergraduate advisor.",
+"prereqText": "Mathematics 325K, 333L, or Philosophy 313K, and Mathematics 328K or 341 with a grade of at least C- in each; or consent of the undergraduate advisor.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 343L",
+"subject": "M",
+"number": "343L",
+"title": "Applied Number Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "Basic properties of integers, including properties of prime numbers, congruences, and primitive roots. Introduction to finite fields and their vector spaces with applications to encryption systems and coding theory. Three lecture hours a week for one semester. Prerequisite: Mathematics 328K or 343K with a grade of at least C-.",
+"prereqText": "Mathematics 328K or 343K with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 328K"
+},
+{
+"type": "course",
+"id": "M 343K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 343M",
+"subject": "M",
+"number": "343M",
+"title": "Error-Correcting Codes",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to applications of algebra and number theory to error-correcting codes, including finite fields, error-correcting codes, vector spaces over finite fields, Hamming norm, coding, and decoding. Three lecture hours a week for one semester. Prerequisite: Mathematics 328K or 341 with a grade of at least C-.",
+"prereqText": "Mathematics 328K or 341 with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 328K"
+},
+{
+"type": "course",
+"id": "M 341",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 344K",
+"subject": "M",
+"number": "344K",
+"title": "Intermediate Symbolic Logic",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Philosophy 344K. A second-semester course in symbolic logic: formal syntax and semantics, basic metatheory (soundness, completeness, compactness, and Loewenheim-Skolem theorems), and further topics in logic. Three lecture hours a week for one semester. Prerequisite: Philosophy 313, 313K, or 313Q.",
+"prereqText": "Philosophy 313, 313K, or 313Q.",
+"prereqConfidence": "low",
+"sameAs": "Philosophy 344K"
+},
+{
+"id": "M 346",
+"subject": "M",
+"number": "346",
+"title": "Applied Linear Algebra",
+"hours": 3.0,
+"division": "upper",
+"description": "Emphasis on diagonalization of linear operators and applications to dynamical systems and ordinary differential equations. Other subjects include inner products and orthogonality, normal mode expansions, vibrating strings and the wave equation, and Fourier series. Three lecture hours a week for one semester. Prerequisite: Mathematics 341 or 340L with a grade of at least C-.",
+"prereqText": "Mathematics 341 or 340L with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 341"
+},
+{
+"type": "course",
+"id": "M 340L",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 348",
+"subject": "M",
+"number": "348",
+"title": "Scientific Computation in Numerical Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to mathematical properties of numerical methods and their applications in computational science and engineering. Introduction to object-oriented programming in an advanced language. Study and use of numerical methods for solutions of linear systems of equations; nonlinear least-squares data fitting; numerical integration; and solutions of multidimensional nonlinear equations and systems of initial value ordinary differential equations. Three lecture hours a week for one semester. Prerequisite: Computer Science 303E and Mathematics 341 or 340L with a grade of at least C-.",
+"prereqText": "Computer Science 303E and Mathematics 341 or 340L with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 349P",
+"subject": "M",
+"number": "349P",
+"title": "Actuarial Statistical Estimates",
+"hours": 3.0,
+"division": "upper",
+"description": "Statistical estimation procedures for random variables and related quantities in actuarial models. With Mathematics 339J, covers the syllabus for the professional actuarial exam on model construction. Three lecture hours a week for one semester. Prerequisite: Mathematics 339J, and 341 or 340L, with a grade of at least C- in each.",
+"prereqText": "Mathematics 339J, and 341 or 340L, with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 349R",
+"subject": "M",
+"number": "349R",
+"title": "Applied Regression and Time Series",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to simple and multiple linear regression and to elementary time-series models, including auto-regressive and moving-average models. Emphasizes fitting models to data, evaluating models, and interpreting results. Three lecture hours a week for one semester. Prerequisite: Mathematics 358K or 378K with a grade of at least C-.",
+"prereqText": "Mathematics 358K or 378K with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 358K"
+},
+{
+"type": "course",
+"id": "M 378K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 349T",
+"subject": "M",
+"number": "349T",
+"title": "Time Series and Survival-Model Estimation",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the probabilistic and statistical properties of time series; parameter estimation and hypothesis testing for survival models. Covers 30 percent of the syllabus for exam #4 of the Society of Actuaries and the Casualty Actuarial Society. Three lecture hours a week for one semester. Prerequisite: Mathematics 339U, 341 or 340L, and 358K or 378K.",
+"prereqText": "Mathematics 339U, 341 or 340L, and 358K or 378K.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 358K",
+"subject": "M",
+"number": "358K",
+"title": "Applied Statistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Exploratory data analysis, correlation and regression, data collection, sampling distributions, confidence intervals, and hypothesis testing. Three lecture hours a week for one semester. Prerequisite: Mathematics 362K with a grade of at least C-.",
+"prereqText": "Mathematics 362K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "M 362K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 360M",
+"subject": "M",
+"number": "360M",
+"title": "Mathematics as Problem Solving",
+"hours": 3.0,
+"division": "upper",
+"description": "Discussion of heuristics, strategies, and methods of evaluating problem solving, and extensive practice in both group and individual problem solving. Communicating mathematics, reasoning, and connections among topics in mathematics are emphasized. Three lecture hours a week for one semester. Prerequisite: Mathematics 408D, 408L, or 408S with a grade of at least C-; and written consent of instructor.",
+"prereqText": "Mathematics 408D, 408L, or 408S with a grade of at least C-; and written consent of instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 361",
+"subject": "M",
+"number": "361",
+"title": "Theory of Functions of a Complex Variable",
+"hours": 3.0,
+"division": "upper",
+"description": "Elementary theory and applications of analytic functions, series, contour integration, and conformal mappings. Three lecture hours a week for one semester. Prerequisite: Mathematics 427J, 427K, or 427L with a grade of at least C-.",
+"prereqText": "Mathematics 427J, 427K, or 427L with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 361K",
+"subject": "M",
+"number": "361K",
+"title": "Introduction to Real Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "A rigorous treatment of the real number system, of real sequences, and of limits, continuity, derivatives, and integrals of real-valued functions of one real variable. Three lecture hours a week for one semester. Students who have received a grade of C- or better in Mathematics 365C may not take Mathematics 361K. Prerequisite: Mathematics 325K, 333L, or Philosophy 313K, and Mathematics 328K or 341 with a grade of at least C- in each; or consent of the undergraduate advisor.",
+"prereqText": "Mathematics 325K, 333L, or Philosophy 313K, and Mathematics 328K or 341 with a grade of at least C- in each; or consent of the undergraduate advisor.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 362K",
+"subject": "M",
+"number": "362K",
+"title": "Probability I",
+"hours": 3.0,
+"division": "upper",
+"description": "An introduction to the mathematical theory of probability, fundamental to further work in probability and statistics, includes basic probability properties, conditional probability and independence, various discrete and continuous random variables, expectation and variance, central limit theorem, and joint probability distributions. Three lecture hours a week for one semester. Prerequisite: Mathematics 408D, 408L, or 408S with a grade of at least C-.",
+"prereqText": "Mathematics 408D, 408L, or 408S with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 362M",
+"subject": "M",
+"number": "362M",
+"title": "Introduction to Stochastic Processes",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to Markov chains, birth and death processes, and other topics. Three lecture hours a week for one semester. Prerequisite: Mathematics 362K with a grade of at least B and Mathematics 340L or 341 with a grade of at least C-.",
+"prereqText": "Mathematics 362K with a grade of at least B and Mathematics 340L or 341 with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 364K",
+"subject": "M",
+"number": "364K",
+"title": "Vector and Tensor Analysis I",
+"hours": 3.0,
+"division": "upper",
+"description": "Invariance, vector algebra and calculus, integral theorems, general coordinates, introductory differential geometry and tensor analysis, applications. Three lecture hours a week for one semester. Prerequisite: Mathematics 427J, 427K, or 427L with a grade of at least C-.",
+"prereqText": "Mathematics 427J, 427K, or 427L with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 364L",
+"subject": "M",
+"number": "364L",
+"title": "Vector and Tensor Analysis II",
+"hours": 3.0,
+"division": "upper",
+"description": "Continuation of Mathematics 364K, with emphasis on tensor and extensor analysis. Riemannian geometry and invariance. Three lecture hours a week for one semester. Prerequisite: Mathematics 364K with a grade of at least C-.",
+"prereqText": "Mathematics 364K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "M 364K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 365C",
+"subject": "M",
+"number": "365C",
+"title": "Real Analysis I",
+"hours": 3.0,
+"division": "upper",
+"description": "A rigorous treatment of the real number system, Euclidean spaces, metric spaces, continuity of functions in metric spaces, differentiation and Riemann integration of real-valued functions of one real variable, and uniform convergence of sequences and series of functions. Three lecture hours a week for one semester. Students who have received a grade of C- or better in Mathematics 365C may not take Mathematics 361K. Mathematics 325K, 333L, or Philosophy 313K, and Mathematics 328K or 341 with a grade of at least C- in each; or consent of the undergraduate advisor. Students who receive a grade of C- in one of the prerequisite courses are advised to take Mathematics 361K before attempting 365C. Students planning to take Mathematics 365C and 373K concurrently should consult a mathematics advisor.",
+"prereqText": "courses are advised to take Mathematics 361K before attempting 365C. Students planning to take Mathematics 365C and 373K concurrently should consult a mathematics advisor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M 361K"
+},
+{
+"type": "course",
+"id": "M 365C"
+},
+{
+"type": "course",
+"id": "M 365C"
+},
+{
+"type": "course",
+"id": "M 373K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 365D",
+"subject": "M",
+"number": "365D",
+"title": "Real Analysis II",
+"hours": 3.0,
+"division": "upper",
+"description": "Recommended for students planning to undertake graduate work in mathematics. A rigorous treatment of selected topics in real analysis, such as Lebesgue integration, or multivariate integration and differential forms. Three lecture hours a week for one semester. Prerequisite: Mathematics 365C with a grade of at least C-.",
+"prereqText": "Mathematics 365C with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "M 365C",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 365G",
+"subject": "M",
+"number": "365G",
+"title": "Curves and Surfaces",
+"hours": 3.0,
+"division": "upper",
+"description": "Calculus applied to curves and surfaces in three dimensions: curvature and torsion of space curves, Gauss map and curvature of surfaces, Gauss theorem, geodesics, and the Gauss-Bonnet theorem. Three lecture hours a week for one semester. Prerequisite: Credit with a grade of at least C- or registration for Mathematics 365C.",
+"prereqText": "Credit with a grade of at least C- or registration for Mathematics 365C.",
+"prereq": {
+"type": "course",
+"id": "M 365C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 367K",
+"subject": "M",
+"number": "367K",
+"title": "Topology I",
+"hours": 3.0,
+"division": "upper",
+"description": "An introduction to topology, including sets, functions, cardinal numbers, and the topology of metric spaces. Three lecture hours a week for one semester. Prerequisite: Mathematics 361K or 365C or consent of instructor.",
+"prereqText": "Mathematics 361K or 365C or consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 361K"
+},
+{
+"type": "course",
+"id": "M 365C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 367L",
+"subject": "M",
+"number": "367L",
+"title": "Topology II",
+"hours": 3.0,
+"division": "upper",
+"description": "Various topics in topology, primarily of a geometric nature. Three lecture hours a week for one semester. Prerequisite: Mathematics 367K with a grade of at least C- or consent of instructor.",
+"prereqText": "Mathematics 367K with a grade of at least C- or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "M 367K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 368K",
+"subject": "M",
+"number": "368K",
+"title": "Numerical Methods for Applications",
+"hours": 3.0,
+"division": "upper",
+"description": "Continuation of Mathematics 348. Topics include splines, orthogonal polynomials and smoothing of data, iterative solution of systems of linear equations, approximation of eigenvalues, two-point-boundary value problems, numerical approximation of partial differential equations, signal processing, optimization, and Monte Carlo methods. Three lecture hours a week for one semester. Only one of the following may be counted: Computer Science 367, Mathematics 368K, Physics 329. Prerequisite: Mathematics 348 with a grade of at least C-.",
+"prereqText": "Mathematics 348 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "M 348",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 371E",
+"subject": "M",
+"number": "371E",
+"title": "Learning Assistant Experience in Mathematics",
+"hours": 3.0,
+"division": "upper",
+"description": "Students assist instructors and TAs in mathematics courses. This is a hands-on experience in what it is like to teach and support students in the learning of mathematics in undergraduate courses. Students must attend classroom training and discussions and work in Calculus discussion sections or undergraduate classrooms where mathematics is being taught. One class hour and three hours of fieldwork in an undergraduate mathematics course a week for one semester. Prerequisite: Mathematics 408C, 408K, 408N, 408R, or equivalent, and consent of instructor.",
+"prereqText": "Mathematics 408C, 408K, 408N, 408R, or equivalent, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M 408C"
+},
+{
+"type": "course",
+"id": "M 408K"
+},
+{
+"type": "course",
+"id": "M 408N"
+},
+{
+"type": "course",
+"id": "M 408R"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 372",
+"subject": "M",
+"number": "372",
+"title": "Fourier Series and Boundary Value Problems",
+"hours": 3.0,
+"division": "upper",
+"description": "Discussion of differential equations of mathematical physics and representation of solutions by Green's functions and eigenfunction expansions. Three lecture hours a week for one semester. Prerequisite: Mathematics 427J or 427K with a grade of at least C-.",
+"prereqText": "Mathematics 427J or 427K with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 427J"
+},
+{
+"type": "course",
+"id": "M 427K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 372K",
+"subject": "M",
+"number": "372K",
+"title": "Partial Differential Equations and Applications",
+"hours": 3.0,
+"division": "upper",
+"description": "Partial differential equations as basic models of flows, diffusion, dispersion, and vibrations. Topics include first- and second-order partial differential equations and classification (particularly the wave, diffusion, and potential equations), and their origins in applications and properties of solutions. Includes the study of characteristics, maximum principles, Green's functions, eigenvalue problems, and Fourier expansion methods. Three lecture hours a week for one semester. Prerequisite: Mathematics 427J or 427K with a grade of at least C-.",
+"prereqText": "Mathematics 427J or 427K with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 427J"
+},
+{
+"type": "course",
+"id": "M 427K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 373K",
+"subject": "M",
+"number": "373K",
+"title": "Algebraic Structures I",
+"hours": 3.0,
+"division": "upper",
+"description": "A study of groups, rings, and fields, including structure theory of finite groups, isomorphism theorems, polynomial rings, and principal ideal domains. Three lecture hours a week for one semester. Students who have received a grade of C- or better in Mathematics 373K may not take Mathematics 343K. Mathematics 325K, 333L, or Philosophy 313K, and Mathematics 328K or 341 with a grade of at least C- in each; or consent of the undergraduate advisor. Students who receive a grade of C- in one of the prerequisite courses are advised to take Mathematics 343K before attempting 373K. Students planning to take Mathematics 365C and 373K concurrently should consult a mathematics advisor.",
+"prereqText": "courses are advised to take Mathematics 343K before attempting 373K. Students planning to take Mathematics 365C and 373K concurrently should consult a mathematics advisor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M 343K"
+},
+{
+"type": "course",
+"id": "M 373K"
+},
+{
+"type": "course",
+"id": "M 365C"
+},
+{
+"type": "course",
+"id": "M 373K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 373L",
+"subject": "M",
+"number": "373L",
+"title": "Algebraic Structures II",
+"hours": 3.0,
+"division": "upper",
+"description": "Recommended for students planning to undertake graduate work in mathematics. Topics from vector spaces and modules, including direct sum decompositions, dual spaces, canonical forms, and multilinear algebra. Three lecture hours a week for one semester. Prerequisite: Mathematics 373K with a grade of at least C-.",
+"prereqText": "Mathematics 373K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "M 373K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 374",
+"subject": "M",
+"number": "374",
+"title": "Fourier and Laplace Transforms",
+"hours": 3.0,
+"division": "upper",
+"description": "Operational properties and application of Laplace transforms; some properties of Fourier transforms. Three lecture hours a week for one semester. Prerequisite: Mathematics 427J or 427K with a grade of at least C-.",
+"prereqText": "Mathematics 427J or 427K with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 427J"
+},
+{
+"type": "course",
+"id": "M 427K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 374G",
+"subject": "M",
+"number": "374G",
+"title": "Linear Regression Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Fitting of linear models to data by the method of least squares, choosing best subsets of predictors, and related materials. Three lecture hours a week for one semester. Prerequisite: Mathematics 358K or 378K with grade of at least C-, Mathematics 341 or 340L, and consent of instructor.",
+"prereqText": "Mathematics 358K or 378K with grade of at least C-, Mathematics 341 or 340L, and consent of instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 374K",
+"subject": "M",
+"number": "374K",
+"title": "Fourier and Laplace Transforms",
+"hours": 3.0,
+"division": "upper",
+"description": "Continuation of Mathematics 374. Introduction to other integral transforms, such as Hankel, Laguerre, Mellin, Z. Three lecture hours a week for one semester. Prerequisite: Mathematics 374 with a grade of at least C-.",
+"prereqText": "Mathematics 374 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "M 374",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 374M",
+"subject": "M",
+"number": "374M",
+"title": "Mathematical Modeling in Science and Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Tools for studying differential equations and optimization problems that arise in the engineering and physical sciences. Includes dimensional analysis and scaling, regular and singular perturbation methods, optimization and calculus of variations, and stability. Three lecture hours a week for one semester. Prerequisite: Mathematics 427J or 427K, and Mathematics 340L, 341, or 311 with a grade of at least C- in each.",
+"prereqText": "Mathematics 427J or 427K, and Mathematics 340L, 341, or 311 with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 175",
+"subject": "M",
+"number": "175",
+"title": "Conference Course",
+"hours": 1.0,
+"division": "upper",
+"description": "Supervised study in mathematics, with hours to be arranged. May be repeated for credit. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 275",
+"subject": "M",
+"number": "275",
+"title": "Conference Course",
+"hours": 2.0,
+"division": "upper",
+"description": "Supervised study in mathematics, with hours to be arranged. May be repeated for credit. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 375",
+"subject": "M",
+"number": "375",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised study in mathematics, with hours to be arranged. May be repeated for credit. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 475",
+"subject": "M",
+"number": "475",
+"title": "Conference Course",
+"hours": 4.0,
+"division": "upper",
+"description": "Supervised study in mathematics, with hours to be arranged. May be repeated for credit. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 375C",
+"subject": "M",
+"number": "375C",
+"title": "Topics in Conference Course: Computer-Assisted",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised study in mathematics on material requiring use of computing resources, with hours to be arranged. Conference course. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 375D",
+"subject": "M",
+"number": "375D",
+"title": "Discovery: An Introduction to Advanced Study in Mathematics",
+"hours": 3.0,
+"division": "upper",
+"description": "Capstone course designed primarily for UTeach pre-service mathematics majors considering discovery teaching methodology and/or graduate work in mathematics or mathematics education. Ties together foundational topics in the primary strands of mathematics present in a typical graduate mathematics program; included are selected topics from analysis, algebra, number theory, and topology. Three lecture hours a week for one semester. Mathematics 375D and 375T (Topic: Discovery: An Introduction to Advanced Study in Mathematics) may not both be counted. Prerequisite: Two proof-based mathematics courses with a grade of at least C-, or consent of instructor.",
+"prereqText": "Two proof-based mathematics courses with a grade of at least C-, or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 175S",
+"subject": "M",
+"number": "175S",
+"title": "Seminar in Instruction of Mathematics",
+"hours": 1.0,
+"division": "upper",
+"description": "An exploration of subjects in mathematics instruction as taught at the secondary educational level. Practice learning and teaching through use of proofs, explorations, and connections. Subjects include foundational mathematics concepts, numbers, constructibility, and development of key mathematics topics. One lecture hour a week for one semester. Mathematics 175S and 175T may not both be counted. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "M 175T",
+"subject": "M",
+"number": "175T",
+"title": "Topics in Mathematics",
+"hours": 1.0,
+"division": "upper",
+"description": "One, two, three, or four lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing; additional prerequisites vary with the topic.",
+"prereqText": "Upper-division standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 275T",
+"subject": "M",
+"number": "275T",
+"title": "Topics in Mathematics",
+"hours": 2.0,
+"division": "upper",
+"description": "One, two, three, or four lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing; additional prerequisites vary with the topic.",
+"prereqText": "Upper-division standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 375T",
+"subject": "M",
+"number": "375T",
+"title": "Topics in Mathematics",
+"hours": 3.0,
+"division": "upper",
+"description": "One, two, three, or four lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing; additional prerequisites vary with the topic.",
+"prereqText": "Upper-division standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 475T",
+"subject": "M",
+"number": "475T",
+"title": "Topics in Mathematics",
+"hours": 4.0,
+"division": "upper",
+"description": "One, two, three, or four lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing; additional prerequisites vary with the topic.",
+"prereqText": "Upper-division standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 376C",
+"subject": "M",
+"number": "376C",
+"title": "Topics in Methods of Applied Mathematics",
+"hours": 3.0,
+"division": "upper",
+"description": "Variational methods and related concepts from classical and modern applied mathematics. Models of conduction and vibration that lead to systems of linear equations and ordinary differential equations, eigenvalue problems, initial and boundary value problems for partial differential equations. Topics may include a selection from diagonalization of matrices, eigenfunctions and minimization, asymptotics of eigenvalues, separation of variables, generalized solutions, and approximation methods. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Mathematics 427J or 427K, and 340L or 341, with a grade of at least C- in each.",
+"prereqText": "Mathematics 427J or 427K, and 340L or 341, with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 378K",
+"subject": "M",
+"number": "378K",
+"title": "Introduction to Mathematical Statistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Statistics and Data Sciences 378. Sampling distributions of statistics, estimation of parameters (confidence intervals, method of moments, maximum likelihood, comparison of estimators using mean square error and efficiency, sufficient statistics), hypothesis tests (p-values, power, likelihood ratio tests), and other topics. Three lecture hours a week for one semester. Mathematics 378K and Statistics and Data Sciences 378 may not both be counted. Prerequisite: Mathematics 362K with a grade of at least C-.",
+"prereqText": "Mathematics 362K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "M 362K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"sameAs": "Statistics and Data Sciences 378"
+},
+{
+"id": "M 378N",
+"subject": "M",
+"number": "378N",
+"title": "Generalized Linear Models",
+"hours": 3.0,
+"division": "upper",
+"description": "Extensions to ordinary least-squares regression, including Poisson regression, the lasso, mixed models, and ridge regression. Three lecture hours a week for one semester. Mathematics 375T (Topic: Generalized Linear Models) and 378N may not both be counted. Prerequisite: Mathematics 378K with a grade of at least C- or consent of instructor.",
+"prereqText": "Mathematics 378K with a grade of at least C- or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "M 378K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 378P",
+"subject": "M",
+"number": "378P",
+"title": "Decision Analytics",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine decision theory with utility functions, including the use of probability, optimization, constrained optimization, and linear algebra. Three lecture hours a week for one semester. Only one of the following may be counted: Mathematics 375T (Topic: Decision Analytics), 378P, Statistics and Data Sciences 378P. Prerequisite: Mathematics 362K and Mathematics 378K with a grade of at least C-, or consent of the instructor.",
+"prereqText": "Mathematics 362K and Mathematics 378K with a grade of at least C-, or consent of the instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M 362K"
+},
+{
+"type": "course",
+"id": "M 378K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 379H",
+"subject": "M",
+"number": "379H",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Directed reading, research, and/or projects, under the supervision of a faculty member, leading to an honors thesis. Conference course. Prerequisite: Admission to the Mathematics Honors Program; Mathematics 365C, 367K, 373K, or 374G with a grade of at least A-, and another of these courses with a grade of at least B-; and consent of the honors adviser.",
+"prereqText": "Admission to the Mathematics Honors Program; Mathematics 365C, 367K, 373K, or 374G with a grade of at least A-, and another of these courses with a grade of at least B-; and consent of the honors adviser.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 380C",
+"subject": "M",
+"number": "380C",
+"title": "Algebra",
+"hours": 3.0,
+"division": "graduate",
+"description": "A survey of algebraic structures, including groups, fields, rings, and modules. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor or the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 380D",
+"subject": "M",
+"number": "380D",
+"title": "Algebra",
+"hours": 3.0,
+"division": "graduate",
+"description": "Continuation of Mathematics 380C. Three lecture hours a week for one semester. Prerequisite: Graduate standing, consent of instructor or the graduate adviser, and Mathematics 380C.",
+"prereqText": "Graduate standing, consent of instructor or the graduate adviser, and Mathematics 380C.",
+"prereq": {
+"type": "course",
+"id": "M 380C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 381C",
+"subject": "M",
+"number": "381C",
+"title": "Real Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 385R. Measure and integration over abstract spaces; Lebesgue's theory of integration and differentiation on the real line. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 385R and Mathematics 381C may not both be counted. Prerequisite: Graduate standing and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor or the graduate adviser.",
+"prereqConfidence": "none",
+"sameAs": "Computational Science, Engineering, and Mathematics 385R"
+},
+{
+"id": "M 381D",
+"subject": "M",
+"number": "381D",
+"title": "Complex Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 385S. Introduction to complex analysis. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 385S and Mathematics 381D may not both be counted. Prerequisite: Graduate standing and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor or the graduate adviser.",
+"prereqConfidence": "none",
+"sameAs": "Computational Science, Engineering, and Mathematics 385S"
+},
+{
+"id": "M 381E",
+"subject": "M",
+"number": "381E",
+"title": "Functional Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to functional analysis. Three lecture hours a week for one semester. Prerequisite: Graduate standing; Computational Science, Engineering, and Mathematics 385R or Mathematics 381C; and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing; Computational Science, Engineering, and Mathematics 385R or Mathematics 381C; and consent of instructor or the graduate adviser.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CSE 385R"
+},
+{
+"type": "course",
+"id": "M 381C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 382C",
+"subject": "M",
+"number": "382C",
+"title": "Algebraic Topology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Surfaces, covering spaces, fundamental group, and homology. Three lecture hours a week for one semester. Prerequisite: Graduate standing, an undergraduate course in topology, and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing, an undergraduate course in topology, and consent of instructor or the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 382D",
+"subject": "M",
+"number": "382D",
+"title": "Differential Topology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Continuation of Mathematics 382C. Manifolds and maps, differential forms, transversality, and intersection theory. Three lecture hours a week for one semester. Prerequisite: Graduate standing, consent of instructor or the graduate adviser, and Mathematics 382C.",
+"prereqText": "Graduate standing, consent of instructor or the graduate adviser, and Mathematics 382C.",
+"prereq": {
+"type": "course",
+"id": "M 382C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 382E",
+"subject": "M",
+"number": "382E",
+"title": "Advanced Algebraic Topology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Continuation of Mathematics 382C. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor or the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 382F",
+"subject": "M",
+"number": "382F",
+"title": "Algebraic Topology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Continuation of Mathematics 382E. Three lecture hours a week for one semester. Prerequisite: Graduate standing, consent of instructor or the graduate adviser, and Mathematics 382E.",
+"prereqText": "Graduate standing, consent of instructor or the graduate adviser, and Mathematics 382E.",
+"prereq": {
+"type": "course",
+"id": "M 382E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 382G",
+"subject": "M",
+"number": "382G",
+"title": "Differential Geometry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Continuation of Mathematics 382D. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor or the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 383C",
+"subject": "M",
+"number": "383C",
+"title": "Methods of Applied Mathematics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 386C. Topics include basic normed linear space theory; fixed-point theorems and applications to differential and integral equations; Hilbert spaces and the spectral theorem; applications to Sturm-Liouville problems; approximation and computational methods such as the Galerkin, Rayleigh-Ritz, and Newton procedures. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 386C and Mathematics 383C may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"sameAs": "Computational Science, Engineering, and Mathematics 386C"
+},
+{
+"id": "M 383D",
+"subject": "M",
+"number": "383D",
+"title": "Methods of Applied Mathematics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 386D. Topics include distributions, fundamental solutions of partial differential equations, the Schwartz space and tempered distributions, Fourier transform, Plancherel theorem, Green's functions, Sobolev spaces, weak solutions, differential calculus in normed spaces, implicit function theorems, applications to nonlinear equations, smooth variational problems, applications to classical mechanics, constrained variational problems. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 386D and Mathematics 383D may not both be counted. Prerequisite: Graduate standing; and Computational Science, Engineering, and Mathematics 386C or Mathematics 383C.",
+"prereqText": "Graduate standing; and Computational Science, Engineering, and Mathematics 386C or Mathematics 383C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CSE 386C"
+},
+{
+"type": "course",
+"id": "M 383C"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Computational Science, Engineering, and Mathematics 386D"
+},
+{
+"id": "M 383E",
+"subject": "M",
+"number": "383E",
+"title": "Numerical Analysis: Linear Algebra",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 383C, Computer Science 383C, and Statistics and Data Sciences 393C. Survey of numerical methods in linear algebra: floating-point computation, solution of linear equations, least squares problems, algebraic eigenvalue problems. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 383C, Computer Science 383C, Mathematics 383E, Statistics and Data Sciences 393C. Prerequisite: Graduate standing; Computer Science 367 or Mathematics 368K; and Mathematics 340L, 341, or consent of instructor.",
+"prereqText": "Graduate standing; Computer Science 367 or Mathematics 368K; and Mathematics 340L, 341, or consent of instructor.",
+"prereqConfidence": "low",
+"sameAs": "Computational Science, Engineering, and Mathematics 383C, Computer Science 383C, and Statistics and Data Sciences 393C"
+},
+{
+"id": "M 383F",
+"subject": "M",
+"number": "383F",
+"title": "Numerical Analysis: Interpolation, Approximation, Quadrature, and Differential Equations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 383D, Computer Science 383D, and Statistics and Data Sciences 393D. Survey of numerical methods for interpolation, functional approximation, integration, and solution of differential equations. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 383D, Computer Science 383D, Mathematics 383F, Statistics and Data Sciences 393D. Prerequisite: Graduate standing; Computational Science, Engineering, and Mathematics 383C, Computer Science 383C, Mathematics 383E, or Statistics and Data Sciences 393C; and Mathematics 427K and 365C, or consent of instructor.",
+"prereqText": "Graduate standing; Computational Science, Engineering, and Mathematics 383C, Computer Science 383C, Mathematics 383E, or Statistics and Data Sciences 393C; and Mathematics 427K and 365C, or consent of instructor.",
+"prereqConfidence": "low",
+"sameAs": "Computational Science, Engineering, and Mathematics 383D, Computer Science 383D, and Statistics and Data Sciences 393D"
+},
+{
+"id": "M 384C",
+"subject": "M",
+"number": "384C",
+"title": "Mathematical Statistics I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 384R and Statistics and Data Sciences 384 (Topic 2). The general theory of mathematical statistics. Includes distributions of functions of random variables, properties of a random sample, principles of data reduction, an overview of hierarchical models, decision theory, Bayesian statistics, and theoretical results relevant to point estimation, interval estimation, and hypothesis testing. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 384R, Mathematics 384C, Statistics and Data Sciences 384 (Topic 2). Prerequisite: Graduate standing; and Mathematics 362K and 378K, or consent of instructor.",
+"prereqText": "Graduate standing; and Mathematics 362K and 378K, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M 362K"
+},
+{
+"type": "course",
+"id": "M 378K"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Computational Science, Engineering, and Mathematics 384R and Statistics and Data Sciences 384 (Topic 2)"
+},
+{
+"id": "M 384D",
+"subject": "M",
+"number": "384D",
+"title": "Mathematical Statistics II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 384S and Statistics and Data Sciences 384 (Topic 3). Continuation of Computational Science, Engineering, and Mathematics 384R and Mathematics 384C. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 384S, Mathematics 384D, Statistics and Data Sciences 384 (Topic 3). Prerequisite: Graduate standing; Computational Science, Engineering, and Mathematics 384R, or Mathematics 384C; and Mathematics 362K and 378K, Statistics and Data Sciences 382, or consent of instructor.",
+"prereqText": "Graduate standing; Computational Science, Engineering, and Mathematics 384R, or Mathematics 384C; and Mathematics 362K and 378K, Statistics and Data Sciences 382, or consent of instructor.",
+"prereqConfidence": "low",
+"sameAs": "Computational Science, Engineering, and Mathematics 384S and Statistics and Data Sciences 384 (Topic 3)"
+},
+{
+"id": "M 384E",
+"subject": "M",
+"number": "384E",
+"title": "Design and Analysis of Experiments",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 384U and Statistics and Data Sciences 384 (Topic 6). Design and analysis of experiments, including one-way and two-way layouts; components of variance; factorial experiments; balanced incomplete block designs; crossed and nested classifications; fixed, random, and mixed models; and split plot designs. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 384U, Mathematics 384E, Statistics and Data Sciences 384 (Topic 6). Prerequisite: Graduate standing; and Mathematics 362K and 378K, Statistics and Data Sciences 382, or consent of instructor.",
+"prereqText": "Graduate standing; and Mathematics 362K and 378K, Statistics and Data Sciences 382, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M 362K"
+},
+{
+"type": "course",
+"id": "M 378K"
+},
+{
+"type": "course",
+"id": "SDS 382"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Computational Science, Engineering, and Mathematics 384U and Statistics and Data Sciences 384 (Topic 6)"
+},
+{
+"id": "M 384F",
+"subject": "M",
+"number": "384F",
+"title": "Design of Experiments",
+"hours": 3.0,
+"division": "graduate",
+"description": "Design of experiments, including 2n and 3n factorial experiments, confounding, fractional factorials, sequential experimentation, orthogonal arrays, D-optimal experiments, and response surface methodology. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Mathematics 378K or the equivalent or consent of instructor.",
+"prereqText": "Graduate standing, and Mathematics 378K or the equivalent or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "M 378K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 384G",
+"subject": "M",
+"number": "384G",
+"title": "Regression Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 384T and Statistics and Data Sciences 384 (Topic 4). Simple and multiple linear regression, inference in regression, prediction of new observations, diagnosis and remedial measures, transformations, and model building. Emphasis on both understanding the theory and applying theory to analyze data. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 384T, Mathematics 384G, Statistics and Data Sciences 384 (Topic 4). Prerequisite: Graduate standing; and Mathematics 362K and 378K, Statistics and Data Sciences 382, or consent of instructor.",
+"prereqText": "Graduate standing; and Mathematics 362K and 378K, Statistics and Data Sciences 382, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M 362K"
+},
+{
+"type": "course",
+"id": "M 378K"
+},
+{
+"type": "course",
+"id": "SDS 382"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Computational Science, Engineering, and Mathematics 384T and Statistics and Data Sciences 384 (Topic 4)"
+},
+{
+"id": "M 384H",
+"subject": "M",
+"number": "384H",
+"title": "Multivariate Statistical Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to the general multivariate linear model; a selection of techniques, such as principle component, factor, and discriminant analysis. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 385C",
+"subject": "M",
+"number": "385C",
+"title": "Theory of Probability",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 384K. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 384K and Mathematics 385C may not both be counted. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"sameAs": "Computational Science, Engineering, and Mathematics 384K"
+},
+{
+"id": "M 385D",
+"subject": "M",
+"number": "385D",
+"title": "Theory of Probability",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 384L. Continuation of Computational Science, Engineering, and Mathematics 384K and Mathematics 385C. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 384L, Mathematics 384L, 385D. Prerequisite: Graduate standing; Computational Science, Engineering, and Mathematics 384K or Mathematics 385C; and consent of instructor.",
+"prereqText": "Graduate standing; Computational Science, Engineering, and Mathematics 384K or Mathematics 385C; and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CSE 384K"
+},
+{
+"type": "course",
+"id": "M 385C"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Computational Science, Engineering, and Mathematics 384L"
+},
+{
+"id": "M 387C",
+"subject": "M",
+"number": "387C",
+"title": "Numerical Analysis: Algebra and Approximation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 383K. Advanced introduction to scientific computing, theory and application of numerical linear algebra, solution of nonlinear equations, and numerical approximation of functions. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 383K and Mathematics 387C may not both be counted. Prerequisite: Graduate standing, and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing, and consent of instructor or the graduate adviser.",
+"prereqConfidence": "none",
+"sameAs": "Computational Science, Engineering, and Mathematics 383K"
+},
+{
+"id": "M 387D",
+"subject": "M",
+"number": "387D",
+"title": "Numerical Analysis: Differential Equations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 383L. Advanced introduction to the theory and practice of commonly used numerical algorithms for the solution of ordinary differential equations, and elliptic, parabolic, and hyperbolic partial differential equations. Three lecture hours a week for one semester. Prerequisite: Graduate standing; and Computer Science 383C, Mathematics 387C, or consent of instructor.",
+"prereqText": "Graduate standing; and Computer Science 383C, Mathematics 387C, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "C S 383C"
+},
+{
+"type": "course",
+"id": "M 387C"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Computational Science, Engineering, and Mathematics 383L"
+},
+{
+"id": "M 389C",
+"subject": "M",
+"number": "389C",
+"title": "Actuarial Case Studies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explores aspects of basic ratemaking, reserving, catastrophe modeling, and rate classification in a property & casualty actuarial context. Covers loss & premium trending, loss triangles, loss development, loss ratios, on-level premium, accident year vs. calendar year vs. policy year data. Three lecture hours a week for one semester. Prerequisite: Graduate standing and either 389J or 389U with a grade of at least C.",
+"prereqText": "Graduate standing and either 389J or 389U with a grade of at least C.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 389D",
+"subject": "M",
+"number": "389D",
+"title": "Introduction to Financial Mathematics for Actuaries",
+"hours": 3.0,
+"division": "graduate",
+"description": "Covers the financial derivative topics on the Society of Actuary FM/2 exam: general derivatives, options, hedging, investment strategies, forwards, futures, and swaps. Covers option pricing techniques in the MFE/3F exam: binomial option pricing, Monte Carlo Valuation using risk neutral probabilities, and Black-Scholes. Three lecture hours a week for one semester. Prerequisite: Mathematics 389F.",
+"prereqText": "Mathematics 389F.",
+"prereq": {
+"type": "course",
+"id": "M 389F"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 389F",
+"subject": "M",
+"number": "389F",
+"title": "Theory of Interest",
+"hours": 3.0,
+"division": "graduate",
+"description": "Measurement of interest, present and accumulated value, amortization, sinking funds, bonds, duration, and immunization. Covers the interest theory portion of an exam of the Society of Actuaries and the Casualty Actuarial Society. Three lecture hours a week for one semester. Only one of the following may be counted: Actuarial Foundations 329, Mathematics 329F, 389F. Prerequisite: Graduate standing and Mathematics 408D or 408L.",
+"prereqText": "Graduate standing and Mathematics 408D or 408L.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 408D"
+},
+{
+"type": "course",
+"id": "M 408L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 389G",
+"subject": "M",
+"number": "389G",
+"title": "Predictive Analytics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed for students in mathematics and actuarial science. Explore an introduction to predictive modeling that starts with least squares as a foundation and takes a modern approach applicable to classification and prediction in the presence of large datasets. Three lecture hours a week for one semester. Prerequisite: Graduate standing; an understanding of linear algebra and mathematical statistics.",
+"prereqText": "Graduate standing; an understanding of linear algebra and mathematical statistics.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 389J",
+"subject": "M",
+"number": "389J",
+"title": "Probability Models with Actuarial Applications",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introductory actuarial models for life insurance, property insurance, and annuities. With Mathematics 389P, covers the syllabus for the professional actuarial exam on model construction. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Mathematics 358K or 378K with a grade of at least C.",
+"prereqText": "Graduate standing, and Mathematics 358K or 378K with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 358K"
+},
+{
+"type": "course",
+"id": "M 378K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 389P",
+"subject": "M",
+"number": "389P",
+"title": "Actuarial Statistical Estimates",
+"hours": 3.0,
+"division": "graduate",
+"description": "Statistical estimation procedures for random variables and related quantities in actuarial models. With Mathematics 389J, covers the syllabus for the professional actuarial exam on model construction. Three lecture hours a week for one semester. Prerequisite: Graduate standing; and Mathematics 341 or 340L, and 389J with a grade of at least C in each.",
+"prereqText": "Graduate standing; and Mathematics 341 or 340L, and 389J with a grade of at least C in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 189S",
+"subject": "M",
+"number": "189S",
+"title": "Seminar on Actuarial Practice",
+"hours": 1.0,
+"division": "graduate",
+"description": "Presentations by working actuaries on current issues in actuarial practice. One lecture hour a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing; and Actuarial Foundations 329 or Mathematics 329F or Mathematics 389F, and M389J or 389U with a grade of at least C in each.",
+"prereqText": "Graduate standing; and Actuarial Foundations 329 or Mathematics 329F or Mathematics 389F, and M389J or 389U with a grade of at least C in each.",
+"prereqConfidence": "low",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M 389T",
+"subject": "M",
+"number": "389T",
+"title": "Time Series and Survival-Model Estimation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to the probabilistic and statistical properties of time series; parameter estimation and hypothesis testing for survival models. Covers 30 percent of the syllabus for exam #4 of the Society of Actuaries and the Casualty Actuarial Society. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Mathematics 341 or 340L, 358K or 378K, and 389U.",
+"prereqText": "Graduate standing, Mathematics 341 or 340L, 358K or 378K, and 389U.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 389U",
+"subject": "M",
+"number": "389U",
+"title": "Actuarial Contingent Payments I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intermediate actuarial models for life insurance, property insurance, and annuities. Three lecture hours a week for one semester. Prerequisite: Graduate standing; Mathematics 362K with a grade of at least C; credit with a grade of at least C or registration for Mathematics 340L (or 341); and credit with a grade of at least C or registration for Actuarial Foundations 329 or Mathematics 329F or 389F.",
+"prereqText": "Graduate standing; Mathematics 362K with a grade of at least C; credit with a grade of at least C or registration for Mathematics 340L (or 341); and credit with a grade of at least C or registration for Actuarial Foundations 329 or Mathematics 329F or 389F.",
+"prereqConfidence": "low"
+},
+{
+"id": "M 389V",
+"subject": "M",
+"number": "389V",
+"title": "Actuarial Contingent Payments II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced actuarial models for life insurance, property insurance, and annuities. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Mathematics 389F and 389U with a grade of at least C in each.",
+"prereqText": "Graduate standing, and Mathematics 389F and 389U with a grade of at least C in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M 389F",
+"minGrade": "C"
+},
+{
+"type": "course",
+"id": "M 389U",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 389W",
+"subject": "M",
+"number": "389W",
+"title": "Financial Mathematics for Actuarial Applications",
+"hours": 3.0,
+"division": "graduate",
+"description": "Subjects include pricing, stock price, and interest rate models for actuarial applications. Tools include lognormal distribution, Brownian motion, Black-Scholes, and delta hedging. Three lecture hours a week for one semester. Prerequisite: Mathematics 389D with a grade of at least C-.",
+"prereqText": "Mathematics 389D with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "M 389D",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M 390C",
+"subject": "M",
+"number": "390C",
+"title": "Topics in Algebra",
+"hours": 3.0,
+"division": "graduate",
+"description": "Recent topics have included algebraic geometry, number theory, algebraic curves, algebraic number theory, algebraic functions, rational curves on varieties, homological algebra. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 391C",
+"subject": "M",
+"number": "391C",
+"title": "Topics in Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Recent topics have included measure and integration, real variables, complex analysis, functional analysis, ordinary differential equations, partial differential equations, integral transforms, operator theory, approximation theory, abstract harmonic analysis. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 392C",
+"subject": "M",
+"number": "392C",
+"title": "Topics in Topology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Recent topics have included algebraic topology, differential topology, geometric topology, Lie groups. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 393C",
+"subject": "M",
+"number": "393C",
+"title": "Topics in Applied Mathematics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Recent topics have included quantum mechanics, statistical physics, ergodic theory, group representations, statistical mechanics, quantum field theory, introductory partial differential equations, monotone operators and partial differential equations, Hilbert space methods for partial differential equations, Hamiltonian dynamics, nonlinear functional analysis, Euler and Navier-Stokes equations, microlocal calculus and spectral asymptotics, calculus of variations. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 393N",
+"subject": "M",
+"number": "393N",
+"title": "Numerical Solution of Elliptic Partial Differential Equations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computer Science 393N. The numerical solution of large systems of linear algebraic equations arising in the solution of elliptic partial differential equations by discretization methods. Three lecture hours a week for one semester. Computational Science, Engineering and Mathematics 393N and Mathematics 393N may not both be counted. Prerequisite: Graduate standing; and Computational Science, Engineering, and Mathematics 383K , Computer Science 386K, Mathematics 387C, or consent of instructor.",
+"prereqText": "Graduate standing; and Computational Science, Engineering, and Mathematics 383K , Computer Science 386K, Mathematics 387C, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CSE 383K"
+},
+{
+"type": "course",
+"id": "C S 386K"
+},
+{
+"type": "course",
+"id": "M 387C"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Computer Science 393N"
+},
+{
+"id": "M 394C",
+"subject": "M",
+"number": "394C",
+"title": "Topics in Probability and Statistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational and Applied Mathematics 394C. Recent topics have included nonparametric statistics, advanced probability. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"sameAs": "Computational and Applied Mathematics 394C"
+},
+{
+"id": "M 395C",
+"subject": "M",
+"number": "395C",
+"title": "Topics in Logic and Foundations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Recent topics have included set theory, model theory, proof theory, axiomatic theorem proving, automatic theorem proving, foundations of mathematics, recursion theory. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 396C",
+"subject": "M",
+"number": "396C",
+"title": "Topics in Mathematics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Recent topics have included set theory, history of mathematics. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 696C",
+"subject": "M",
+"number": "696C",
+"title": "Topics in Mathematics",
+"hours": 6.0,
+"division": "graduate",
+"description": "Recent topics have included set theory, history of mathematics. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 996C",
+"subject": "M",
+"number": "996C",
+"title": "Topics in Mathematics",
+"hours": 9.0,
+"division": "graduate",
+"description": "Recent topics have included set theory, history of mathematics. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 396D",
+"subject": "M",
+"number": "396D",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised study in mathematics. Conference course. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M 696D",
+"subject": "M",
+"number": "696D",
+"title": "Conference Course",
+"hours": 6.0,
+"division": "graduate",
+"description": "Supervised study in mathematics. Conference course. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M 996D",
+"subject": "M",
+"number": "996D",
+"title": "Conference Course",
+"hours": 9.0,
+"division": "graduate",
+"description": "Supervised study in mathematics. Conference course. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M 397C",
+"subject": "M",
+"number": "397C",
+"title": "Topics in Numerical Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Recent developments and advanced topics in the field of numerical analysis. Three lecture hours a week for one semester. Mathematics 393D and 397C may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "M 197S",
+"subject": "M",
+"number": "197S",
+"title": "Topics in Mathematics: Seminar",
+"hours": 1.0,
+"division": "graduate",
+"description": "One or three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M 397S",
+"subject": "M",
+"number": "397S",
+"title": "Topics in Mathematics: Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "One or three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M 698",
+"subject": "M",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in mathematics and consent of the graduate adviser; for 698B, Mathematics 698A.",
+"prereqText": "For 698A, graduate standing in mathematics and consent of the graduate adviser; for 698B, Mathematics 698A.",
+"prereq": {
+"type": "course",
+"id": "M 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M 398R",
+"subject": "M",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in mathematics and consent of the supervising professor and the graduate adviser.",
+"prereqText": "Graduate standing in mathematics and consent of the supervising professor and the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M 398T",
+"subject": "M",
+"number": "398T",
+"title": "Supervised Teaching in Mathematics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and appointment as a teaching assistant.",
+"prereqText": "Graduate standing and appointment as a teaching assistant.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "M 399W",
+"subject": "M",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M 699W",
+"subject": "M",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M 999W",
+"subject": "M",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

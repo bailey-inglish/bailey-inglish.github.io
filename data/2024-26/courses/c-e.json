@@ -1,0 +1,2554 @@
+{
+"code": "C E",
+"name": "Civil Engineering",
+"courses": [
+{
+"id": "C E 301",
+"subject": "C E",
+"number": "301",
+"title": "Civil Engineering Systems",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to civil engineering as a career; engineering problem solving; use of computers for text, graphics, and data analysis; introduction to civil engineering measurements; breadth of disciplines within civil engineering; engineering ethics, sustainability. Two lecture hours and three laboratory hours a week for one semester."
+},
+{
+"id": "C E 311K",
+"subject": "C E",
+"number": "311K",
+"title": "Introduction to Computer Methods",
+"hours": 3.0,
+"division": "lower",
+"description": "Organization and programming of civil engineering problems for computer solutions. Five hours a week for one semester, including lecture and laboratory. Prerequisite: Mathematics 408D or 408M.",
+"prereqText": "Mathematics 408D or 408M.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 408D"
+},
+{
+"type": "course",
+"id": "M 408M"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 311S",
+"subject": "C E",
+"number": "311S",
+"title": "Probability and Statistics for Civil Engineers",
+"hours": 3.0,
+"division": "lower",
+"description": "Basic theory of probability and statistics with practical applications to civil engineering problems, including statistical inference and sampling. Additional subjects may include reliability and risk analyses, estimation and regression analyses, and experimental design. Three lecture hours and one laboratory hour a week for one semester. Prerequisite: Mathematics 408D or 408M.",
+"prereqText": "Mathematics 408D or 408M.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 408D"
+},
+{
+"type": "course",
+"id": "M 408M"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 319F",
+"subject": "C E",
+"number": "319F",
+"title": "Elementary Mechanics of Fluids",
+"hours": 3.0,
+"division": "lower",
+"description": "Fluid properties, hydrostatics, elements of fluid dynamics, energy and momentum, boundary layers, similitude, pipe flow, metering instruments, drag forces. Three lecture hours and two laboratory hours a week for one semester. Civil Engineering 319F and Mechanical Engineering 330 may not both be counted. Prerequisite: Engineering Mechanics 306.",
+"prereqText": "Engineering Mechanics 306.",
+"prereq": {
+"type": "course",
+"id": "E M 306"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 119S",
+"subject": "C E",
+"number": "119S",
+"title": "Topics in Civil Engineering",
+"hours": 1.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 219S",
+"subject": "C E",
+"number": "219S",
+"title": "Topics in Civil Engineering",
+"hours": 2.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 319S",
+"subject": "C E",
+"number": "319S",
+"title": "Topics in Civil Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 419S",
+"subject": "C E",
+"number": "419S",
+"title": "Topics in Civil Engineering",
+"hours": 4.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 519S",
+"subject": "C E",
+"number": "519S",
+"title": "Topics in Civil Engineering",
+"hours": 5.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 619S",
+"subject": "C E",
+"number": "619S",
+"title": "Topics in Civil Engineering",
+"hours": 6.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 719S",
+"subject": "C E",
+"number": "719S",
+"title": "Topics in Civil Engineering",
+"hours": 7.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 819S",
+"subject": "C E",
+"number": "819S",
+"title": "Topics in Civil Engineering",
+"hours": 8.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 919S",
+"subject": "C E",
+"number": "919S",
+"title": "Topics in Civil Engineering",
+"hours": 9.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 321",
+"subject": "C E",
+"number": "321",
+"title": "Transportation Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Planning, economics, location, construction, operation, maintenance, and design of transportation systems; concepts of various modes of transportation. Three lecture hours a week for one semester. Prerequisite: Civil Engineering 311S.",
+"prereqText": "Civil Engineering 311S.",
+"prereq": {
+"type": "course",
+"id": "C E 311S"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 324P",
+"subject": "C E",
+"number": "324P",
+"title": "Properties and Behavior of Engineering Materials",
+"hours": 3.0,
+"division": "upper",
+"description": "Structure, properties, and behavior of engineering materials, including concrete and metals. Laboratory exercises illustrate mechanical behavior of typical materials and demonstrate selected principles of mechanics. Three hours of lecture, and three hours of laboratory and supervised work a week for one semester. Prerequisite: Chemistry 301, Civil Engineering 333T or Engineering Studies 333T, and Engineering Mechanics 319.",
+"prereqText": "Chemistry 301, Civil Engineering 333T or Engineering Studies 333T, and Engineering Mechanics 319.",
+"prereqConfidence": "low"
+},
+{
+"id": "C E 329",
+"subject": "C E",
+"number": "329",
+"title": "Structural Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Classical methods of analysis for determinate and indeterminate structures under stationary and moving loads. Three or four hours of lecture and supervised work a week for one semester. Prerequisite: Engineering Mechanics 319 and Civil Engineering 311K.",
+"prereqText": "Engineering Mechanics 319 and Civil Engineering 311K.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "E M 319"
+},
+{
+"type": "course",
+"id": "C E 311K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 129S",
+"subject": "C E",
+"number": "129S",
+"title": "Topics in Civil Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 229S",
+"subject": "C E",
+"number": "229S",
+"title": "Topics in Civil Engineering",
+"hours": 2.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 329S",
+"subject": "C E",
+"number": "329S",
+"title": "Topics in Civil Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 429S",
+"subject": "C E",
+"number": "429S",
+"title": "Topics in Civil Engineering",
+"hours": 4.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 529S",
+"subject": "C E",
+"number": "529S",
+"title": "Topics in Civil Engineering",
+"hours": 5.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 629S",
+"subject": "C E",
+"number": "629S",
+"title": "Topics in Civil Engineering",
+"hours": 6.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 729S",
+"subject": "C E",
+"number": "729S",
+"title": "Topics in Civil Engineering",
+"hours": 7.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 829S",
+"subject": "C E",
+"number": "829S",
+"title": "Topics in Civil Engineering",
+"hours": 8.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 929S",
+"subject": "C E",
+"number": "929S",
+"title": "Topics in Civil Engineering",
+"hours": 9.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 331",
+"subject": "C E",
+"number": "331",
+"title": "Reinforced Concrete Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Design of reinforced concrete beams and columns. Five hours of lecture and supervised work a week for one semester. Prerequisite: Civil Engineering 324P and 329.",
+"prereqText": "Civil Engineering 324P and 329.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "C E 324P"
+},
+{
+"type": "course",
+"id": "C E 329"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 333T",
+"subject": "C E",
+"number": "333T",
+"title": "Engineering Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Technical communication skills for engineers, especially researching and writing technical documents for many kinds of readers, managing and documenting sources of information, using and explaining graphics, delivering oral presentations, working collaboratively, and eliciting information from experts and stakeholders. Two lecture hours and one and one half laboratory hours a week for one semester. Only one of the following may be counted: Aerospace Engineering 333T, Biomedical Engineering 333T, Communication 333T, Civil Engineering 333T, Chemical Engineering 333T, Electrical and Computer Engineering 333T, Electrical Engineering 333T, Mechanical Engineering 333T, Petroleum and Geosystems Engineering 333T. Prerequisite: Rhetoric and Writing 306.",
+"prereqText": "Rhetoric and Writing 306.",
+"prereq": {
+"type": "course",
+"id": "RHE 306"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 335",
+"subject": "C E",
+"number": "335",
+"title": "Elements of Steel Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Analysis and design of tension members, beams, columns, and bolted and welded connections. Five hours of lecture and supervised work a week for one semester. Prerequisite: Civil Engineering 324P and 329.",
+"prereqText": "Civil Engineering 324P and 329.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "C E 324P"
+},
+{
+"type": "course",
+"id": "C E 329"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 341",
+"subject": "C E",
+"number": "341",
+"title": "Introduction to Environmental Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Quantitative evaluation of the environmental, economic, and technical problems involved in control of pollutants of the air, water, and land. Three lecture hours a week for one semester. Prerequisite: Chemistry 302 and Civil Engineering 319F.",
+"prereqText": "Chemistry 302 and Civil Engineering 319F.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CH 302"
+},
+{
+"type": "course",
+"id": "C E 319F"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 342",
+"subject": "C E",
+"number": "342",
+"title": "Water and Wastewater Treatment Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Application of chemical, biological, and physical principles to the analysis and design of treatment processes for drinking water, industrial process water, municipal wastewater, and water reuse applications. Three lecture hours a week for one semester. Prerequisite: Civil Engineering 341 or Environmental Engineering 312.",
+"prereqText": "Civil Engineering 341 or Environmental Engineering 312.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "C E 341"
+},
+{
+"type": "course",
+"id": "EVE 312"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 346",
+"subject": "C E",
+"number": "346",
+"title": "Solid Waste Engineering and Management",
+"hours": 3.0,
+"division": "upper",
+"description": "Characteristics of municipal and industrial solid wastes, generation rates, collection systems, recycling, processing, and disposal. Three lecture hours a week for one semester, with occasional field trips. Prerequisite: Civil Engineering 341 or Environmental Engineering 312.",
+"prereqText": "Civil Engineering 341 or Environmental Engineering 312.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "C E 341"
+},
+{
+"type": "course",
+"id": "EVE 312"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 351",
+"subject": "C E",
+"number": "351",
+"title": "Concrete Materials",
+"hours": 3.0,
+"division": "upper",
+"description": "Portland cement, aggregates, supplementary cementing materials, properties of fresh and hardened concrete, concrete durability, mixture proportioning, concrete construction, and special concretes. Three lecture hours and three laboratory hours a week for one semester. Prerequisite: Civil Engineering 324P.",
+"prereqText": "Civil Engineering 324P.",
+"prereq": {
+"type": "course",
+"id": "C E 324P"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 356",
+"subject": "C E",
+"number": "356",
+"title": "Elements of Hydraulic Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Flow in closed conduits, hydraulic machinery; open-channel flow; flow measurement; design of storm sewers. Five hours a week for one semester, including lecture and laboratory. Prerequisite: Civil Engineering 319F.",
+"prereqText": "Civil Engineering 319F.",
+"prereq": {
+"type": "course",
+"id": "C E 319F"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 357",
+"subject": "C E",
+"number": "357",
+"title": "Geotechnical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Engineering properties of soils; hydraulic conductivity and shear strength of soils; soil compaction and consolidation; stresses with the soil mass; settlement of foundations of structures; laboratory measurements. Six hours a week for one semester, including lecture and laboratory. Prerequisite: Civil Engineering 319F.",
+"prereqText": "Civil Engineering 319F.",
+"prereq": {
+"type": "course",
+"id": "C E 319F"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 358",
+"subject": "C E",
+"number": "358",
+"title": "Introductory Ocean Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Wave theory and its applications to coastal engineering, wave energy conversion, and offshore structure technology. Includes fundamentals of inviscid and viscous flow of incompressible fluids, and applications of computational fluid dynamics (CFD) in design. Three lecture hours a week for one semester. Prerequisite: Civil Engineering 319F.",
+"prereqText": "Civil Engineering 319F.",
+"prereq": {
+"type": "course",
+"id": "C E 319F"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 360K",
+"subject": "C E",
+"number": "360K",
+"title": "Foundation Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Effect of geotechnical conditions on the behavior, proportioning, and choice of foundation type; design of shallow and deep foundations; study of foundation case histories. Five hours a week for one semester, including lecture and discussion. Offered in the fall semester only. Prerequisite: Civil Engineering 357.",
+"prereqText": "Civil Engineering 357.",
+"prereq": {
+"type": "course",
+"id": "C E 357"
+},
+"prereqConfidence": "high",
+"offering": "Offered in the fall semester only."
+},
+{
+"id": "C E 362M",
+"subject": "C E",
+"number": "362M",
+"title": "Advanced Reinforced Concrete Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Design of reinforced concrete buildings, including floor systems and structural walls. Three lecture hours a week for one semester. Prerequisite: Civil Engineering 331.",
+"prereqText": "Civil Engineering 331.",
+"prereq": {
+"type": "course",
+"id": "C E 331"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 362N",
+"subject": "C E",
+"number": "362N",
+"title": "Advanced Steel Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Design of steel buildings, beam columns, composite beams, plate girders, and connections. Three lecture hours a week for one semester. Prerequisite: Civil Engineering 335.",
+"prereqText": "Civil Engineering 335.",
+"prereq": {
+"type": "course",
+"id": "C E 335"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 363",
+"subject": "C E",
+"number": "363",
+"title": "Advanced Structural Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Structural analysis for forces and deflections using stiffness and flexibility approaches; application of energy methods in structural analysis; stiffness methods for computer-based structural analysis. Three lecture hours a week for one semester. Prerequisite: Civil Engineering 329, and Mathematics 427J.",
+"prereqText": "Civil Engineering 329, and Mathematics 427J.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "C E 329"
+},
+{
+"type": "course",
+"id": "M 427J"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 364",
+"subject": "C E",
+"number": "364",
+"title": "Design of Wastewater and Water Treatment Facilities",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore analysis, synthesis, and integrated design of municipal water and wastewater treatment plants. Three lecture hours a week for one semester; additional hours to be arranged for design laboratory and field trips. Prerequisite: Credit or registration for Civil Engineering 342 and credit for Civil Engineering 356.",
+"prereqText": "Credit or registration for Civil Engineering 342 and credit for Civil Engineering 356.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "C E 342"
+},
+{
+"type": "course",
+"id": "C E 356"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 366K",
+"subject": "C E",
+"number": "366K",
+"title": "Design of Bituminous Mixtures",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students admitted to major sequence in civil engineering. Fundamental properties of asphalt and aggregates, design and construction of asphalt mixtures, special mixtures, and superpave design method. Three lecture hours a week for one semester. Prerequisite: Civil Engineering 321.",
+"prereqText": "Civil Engineering 321.",
+"prereq": {
+"type": "course",
+"id": "C E 321"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students admitted to major sequence in civil engineering."
+},
+{
+"id": "C E 367G",
+"subject": "C E",
+"number": "367G",
+"title": "Design and Evaluation of Ground-Based Transportation Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Methods for design and evaluation of transportation systems, emphasizing roadway and non-motorized travel, in light of traveler safety, system operations, construction and maintenance costs, environmental impacts, and other considerations. Three lecture hours and two laboratory hours a week for one semester. Civil Engineering 367G and 377K (Topic: Design of Ground-Based Transportation) may not both be counted. Prerequisite: Civil Engineering 321 and Architectural Engineering 323K.",
+"prereqText": "Civil Engineering 321 and Architectural Engineering 323K.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "C E 321"
+},
+{
+"type": "course",
+"id": "ARE 323K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 367P",
+"subject": "C E",
+"number": "367P",
+"title": "Pavement Design and Performance",
+"hours": 3.0,
+"division": "upper",
+"description": "Basic principles of design of pavements for highways, airfields, and railroads; pavement construction, maintenance, and rehabilitation. Three lecture hours a week for one semester. Prerequisite: Civil Engineering 324P.",
+"prereqText": "Civil Engineering 324P.",
+"prereq": {
+"type": "course",
+"id": "C E 324P"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 367R",
+"subject": "C E",
+"number": "367R",
+"title": "Optimization Techniques for Transportation Engineers",
+"hours": 3.0,
+"division": "upper",
+"description": "Overview of optimization techniques, including linear programming, nonlinear optimization, and network flow algorithms including shortest path, maximum flow, and minimum spanning tree. Examples and applications primarily drawn from transportation engineering, with connections to other areas. Three lecture hours a week for one semester. Civil Engineering 367R and 377K (Topic: Optimization Techniques for Transportation Engineers) may not both be counted. Prerequisite: Civil Engineering 311K.",
+"prereqText": "Civil Engineering 311K.",
+"prereq": {
+"type": "course",
+"id": "C E 311K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 367T",
+"subject": "C E",
+"number": "367T",
+"title": "Traffic Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Driver and vehicle characteristics, traffic studies, traffic laws and ordinances, intersection capacity, signs, markings, signals, bus transit, parking, design of street systems, and operational controls. Three lecture hours a week for one semester. Prerequisite: Civil Engineering 321.",
+"prereqText": "Civil Engineering 321.",
+"prereq": {
+"type": "course",
+"id": "C E 321"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 369L",
+"subject": "C E",
+"number": "369L",
+"title": "Air Pollution Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Characterization of sources, emissions, transport, transformation, effects, and control of outdoor and indoor air pollutants. Applications of chemistry, thermodynamics, and fluid mechanics in the selection and design of air pollution control equipment. Three lecture hours a week for one semester. Prerequisite: Civil Engineering 341 or Environmental Engineering 312.",
+"prereqText": "Civil Engineering 341 or Environmental Engineering 312.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "C E 341"
+},
+{
+"type": "course",
+"id": "EVE 312"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 369R",
+"subject": "C E",
+"number": "369R",
+"title": "Indoor Air Quality",
+"hours": 3.0,
+"division": "upper",
+"description": "Sources, properties, transport and fate, human exposure, and adverse responses to indoor air pollutants. Control strategies and engineered technologies to mitigate impacts of gaseous and particle phase air pollutants in indoor environments. Three lecture hours a week for one semester. Civil Engineering 369R and 377K (Topic: Indoor Air Quality) may not both be counted. Prerequisite: Civil Engineering 311K and 319F; and Architectural Engineering 346N or Civil Engineering 341 or Environmental Engineering 312.",
+"prereqText": "Civil Engineering 311K and 319F; and Architectural Engineering 346N or Civil Engineering 341 or Environmental Engineering 312.",
+"prereqConfidence": "low"
+},
+{
+"id": "C E 370K",
+"subject": "C E",
+"number": "370K",
+"title": "Environmental Sampling and Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Principles of environmental chemistry; measurement of contaminants in air, water, and land environments; applications to municipal, industrial, and ambient samples. Six hours a week for one semester, including lecture and laboratory. Prerequisite: Civil Engineering 341.",
+"prereqText": "Civil Engineering 341.",
+"prereq": {
+"type": "course",
+"id": "C E 341"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 370L",
+"subject": "C E",
+"number": "370L",
+"title": "Climate Change Mitigation",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the large-scale solutions to climate change systematically. Examine the fundamentals of climate science, mitigation of climate change through transformation of energy supply and end-use, geoengineering, and industrial carbon management. Discuss the social and economic context for engineered solutions. Three lecture hours a week for one semester. Civil Engineering 370L and 377K (Topic: Climate Change Mitigation) may not both be counted. Prerequisite: Civil Engineering 341 or Environmental Engineering 312 or Architectural Engineering 346N.",
+"prereqText": "Civil Engineering 341 or Environmental Engineering 312 or Architectural Engineering 346N.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "C E 341"
+},
+{
+"type": "course",
+"id": "EVE 312"
+},
+{
+"type": "course",
+"id": "ARE 346N"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 370P",
+"subject": "C E",
+"number": "370P",
+"title": "Engineering Professionalism",
+"hours": 3.0,
+"division": "upper",
+"description": "Examines professional engineering licensure, ethics, leadership, public service, and public policy, with an emphasis on multidisciplinary perspectives, legal and business considerations, and the importance of lifelong learning. Includes participation in a culminating major design project in public service, reflecting knowledge from technical electives and base level coursework. Three lecture hours a week for one semester. Only one of the following may be counted: Civil Engineering 177K (Topic: Engineering Professionalism), 370P and 171P. Prerequisite: Credit for any three of the following courses: Architectural Engineering 335, 345K, 358, 362L, or 366; Civil Engineering 331, 335, 351, 342, 346, 358, 360K, 362M, 362N, 363, 364, 365K, 366K, 367G, 367P, 367T, 367R, 369L, 369R, 370K, 374L, 374K or 375. Credit for Architectural Engineering 323K, Civil Engineering 321, 324P, 329, 341, 356, and 357.",
+"prereqText": "Credit for any three of the following courses: Architectural Engineering 335, 345K, 358, 362L, or 366; Civil Engineering 331, 335, 351, 342, 346, 358, 360K, 362M, 362N, 363, 364, 365K, 366K, 367G, 367P, 367T, 367R, 369L, 369R, 370K, 374L, 374K or 375. Credit for Architectural Engineering 323K, Civil Engineering 321, 324P, 329, 341, 356, and 357.",
+"prereqConfidence": "low"
+},
+{
+"id": "C E 171P",
+"subject": "C E",
+"number": "171P",
+"title": "Engineering Professionalism",
+"hours": 1.0,
+"division": "upper",
+"description": "Examines professional engineering licensure, ethics, leadership, public service, and public policy, with an emphasis on multidisciplinary perspectives, legal and business considerations, and the importance of lifelong learning. Includes participation in a culminating major design project in public service, reflecting knowledge from technical electives and base level coursework. Two lecture hours a week for one semester, with additional fieldwork hours to be arranged. Only one of the following may be counted: Civil Engineering 177K (Topic: Engineering Professionalism), 370P and 171P. Prerequisite: Credit or registration for one of the following: Civil Engineering 360K, 362M, 362N, 364, 365K, or 367G.",
+"prereqText": "Credit or registration for one of the following: Civil Engineering 360K, 362M, 362N, 364, 365K, or 367G.",
+"prereqConfidence": "low"
+},
+{
+"id": "C E 374K",
+"subject": "C E",
+"number": "374K",
+"title": "Hydrology",
+"hours": 3.0,
+"division": "upper",
+"description": "Phases of the hydrologic cycle and associated transport processes; land surface-atmosphere interaction; soil infiltration; rainfall runoff; unit hydrograph; flow routing; hydrologic statistics; and extreme events, including design storms and flows. Three lecture hours a week for one semester. Prerequisite: Civil Engineering 311S and 356.",
+"prereqText": "Civil Engineering 311S and 356.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "C E 311S"
+},
+{
+"type": "course",
+"id": "C E 356"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 374N",
+"subject": "C E",
+"number": "374N",
+"title": "Topics in Natural Water Systems Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Civil Engineering 356.",
+"prereqText": "Civil Engineering 356.",
+"prereq": {
+"type": "course",
+"id": "C E 356"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 374U",
+"subject": "C E",
+"number": "374U",
+"title": "Topics in Urban Water Systems Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Civil Engineering 356.",
+"prereqText": "Civil Engineering 356.",
+"prereq": {
+"type": "course",
+"id": "C E 356"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 375",
+"subject": "C E",
+"number": "375",
+"title": "Earth Slopes and Retaining Structures",
+"hours": 3.0,
+"division": "upper",
+"description": "Earth fills, excavations, and dams; soil compaction and ground improvement, seepage and dewatering; stability of natural slopes and embankments; earth-pressure theories; design of earth retaining structures. Three lecture hours a week for one semester. Offered in the spring semester only. Prerequisite: Civil Engineering 357.",
+"prereqText": "Civil Engineering 357.",
+"prereq": {
+"type": "course",
+"id": "C E 357"
+},
+"prereqConfidence": "high",
+"offering": "Offered in the spring semester only."
+},
+{
+"id": "C E 177K",
+"subject": "C E",
+"number": "177K",
+"title": "Topics in Civil Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "Various specified topics or conference course. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Additional hours may be required for some topics. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 277K",
+"subject": "C E",
+"number": "277K",
+"title": "Topics in Civil Engineering",
+"hours": 2.0,
+"division": "upper",
+"description": "Various specified topics or conference course. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Additional hours may be required for some topics. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 377K",
+"subject": "C E",
+"number": "377K",
+"title": "Topics in Civil Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Various specified topics or conference course. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Additional hours may be required for some topics. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 177R",
+"subject": "C E",
+"number": "177R",
+"title": "Internship",
+"hours": 1.0,
+"division": "upper",
+"description": "The equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the pass/fail basis only.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "C E 679H",
+"subject": "C E",
+"number": "679H",
+"title": "Undergraduate Honors Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Civil Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Civil Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "C E 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 380D",
+"subject": "C E",
+"number": "380D",
+"title": "Experimental Methods in Fluid Dynamics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore experimental techniques and instrumentation for studying common turbulent flows. Examine fundamentals of signal processing, data pre- and post-processing techniques for optical and acoustic instrumentation, turbulent flow analysis, and experimental design. Utilize particle image velocimetry, laser induced fluorescence, and acoustic Doppler velocimetry. Three lecture hours and one laboratory hour a week for one semester. Civil Engineering 380D and 397 (Topic: Exper Mthds in Fluid Mech) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 380P",
+"subject": "C E",
+"number": "380P",
+"title": "Topics in Ocean Engineering Principles: Theory and Applications",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; and a course in differential equations and a course in fluid mechanics, or consent of instructor.",
+"prereqText": "Graduate standing; and a course in differential equations and a course in fluid mechanics, or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 380S",
+"subject": "C E",
+"number": "380S",
+"title": "Environmental Fluid Mechanics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Fundamentals of fluid mechanics applied in natural systems; analysis of energy; momentum, diffusion, turbulence, and stratification in lakes, rivers, and estuaries. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Civil Engineering 319F or consent of instructor.",
+"prereqText": "Graduate standing, and Civil Engineering 319F or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 319F"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 380T",
+"subject": "C E",
+"number": "380T",
+"title": "Computational Environmental Fluid Mechanics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Basics of numerical methods as applied to the solution of the steady and unsteady fluid flow equations, such as the Euler and the Navier-Stokes equations and the advection-diffusion equation. Emphasis on finite volume methods as applied to fluid mechanics problems in civil and environmental engineering. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Civil Engineering 380S or an equivalent graduate course in fluid mechanics, and knowledge of a programming language.",
+"prereqText": "Graduate standing, Civil Engineering 380S or an equivalent graduate course in fluid mechanics, and knowledge of a programming language.",
+"prereq": {
+"type": "course",
+"id": "C E 380S"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 380W",
+"subject": "C E",
+"number": "380W",
+"title": "Water Resources Engineering Research Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Presentations and discussions on various topics in water resources engineering. Three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 381D",
+"subject": "C E",
+"number": "381D",
+"title": "Linear Regression and Discrete Choice Methods",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine econometric model estimation methods and use of behavioral models in service design, marketing, and prediction. Discuss practical problems in the context of transportation planning to gain familiarity with models used and experience in data handling and estimation. Three lecture hours a week for one semester. Civil Engineering 381D and 397 (Topic: Linear Regrssn/Discrete Mthds) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 381E",
+"subject": "C E",
+"number": "381E",
+"title": "Design of Energy Efficient and Healthy Buildings",
+"hours": 3.0,
+"division": "graduate",
+"description": "Design of buildings for low energy use and optimal indoor air quality. Includes ventilation, energy efficiency, moisture problems, and prevention by design. Three lecture hours a week for one semester. Prerequisite: Graduate standing in engineering or consent of instructor.",
+"prereqText": "Graduate standing in engineering or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 381P",
+"subject": "C E",
+"number": "381P",
+"title": "Computer Methods in Structural Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Linear and nonlinear analysis of trusses and frames; introduction to structural stability; and computational aspects of linear and nonlinear structural analysis. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 381R",
+"subject": "C E",
+"number": "381R",
+"title": "The Finite Element Method",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introductory concepts; weighted residual methods; strong and weak forms; boundary conditions; global v. local basis functions; error estimates; smooth and nonsmooth problems; one-dimensional second- and fourth-order problems; two-dimensional potential and plate problems; two-dimensional and three-dimensional elasticity; dynamic and eigenvalue problems; numerical, computational, and meshing issues; applications using commercial software. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Civil Engineering 381P or consent of instructor.",
+"prereqText": "Graduate standing, and Civil Engineering 381P or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 381P"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 381T",
+"subject": "C E",
+"number": "381T",
+"title": "Numerical Modeling of Physical Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Survey of numerical methods; weighted residuals, finite differences, finite elements, boundary elements; applications to equilibrium, eigenvalue, and propagation problems. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 381W",
+"subject": "C E",
+"number": "381W",
+"title": "Introduction to Wave Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "An introductory course in the theory and modeling of propagating waves. Subjects may include scalar waves in 1-D and 2-D, traveling and standing waves, flexural waves in beams, dispersion, phase and group velocity, vector waves in 2-D and 3-D, waves in infinite media and semi-infinite media, P waves, SH waves, SV waves, Rayleigh and Love surface waves, Stoneley waves, reflection and transmission at interfaces, numerical modeling, radiation conditions, scattering and radiation from obstacles, and fluid-solid interaction. Three lecture hours a week for one semester. Civil Engineering 381W and 397 (Topic: Wave Propagation Analysis) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 382H",
+"subject": "C E",
+"number": "382H",
+"title": "Structural Health Monitoring and Nondestructive Evaluation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore the principal methods used for non-destructive evaluation (NDE) and structural health monitoring (SHM) of structural components. Examine relevant physical principles of continuum mechanics, electrical engineering, acoustics, and elastic wave propagation underlying the experimental methods. Examine sensor data acquisition and interrogation and ultrasonic digital signal processing. Utilize laboratory demonstrations on selected subjects. Three lecture hours a week for one semester. Civil Engineering 382H and 397 (Topic: Str Hlth Monitor/Nondstrc Eval) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 382L",
+"subject": "C E",
+"number": "382L",
+"title": "Plastic Design in Metals",
+"hours": 3.0,
+"division": "graduate",
+"description": "Principles and methods of plastic analyses and design, and their applications to continuous beams, frames, plates, connections, and multistory buildings. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Civil Engineering 335, and consent of instructor.",
+"prereqText": "Graduate standing, Civil Engineering 335, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 335"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 382N",
+"subject": "C E",
+"number": "382N",
+"title": "Structural Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Application of systems engineering principles to planning, design, and construction of building and bridge structures with emphasis on performance requirements and economic factors. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 383C",
+"subject": "C E",
+"number": "383C",
+"title": "Experimental Methods in Structural Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Survey of experimental methods used in structural engineering, including loading and measurement techniques and systems used in structural research. Two lecture hours and three laboratory hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 383D",
+"subject": "C E",
+"number": "383D",
+"title": "Steel Bridge Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Design of steel highway bridges, including the analysis and design of composite girder, box girder, and cable-stayed bridges. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Civil Engineering 362N or the equivalent.",
+"prereqText": "Graduate standing, and Civil Engineering 362N or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "C E 362N"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 383F",
+"subject": "C E",
+"number": "383F",
+"title": "Structural Fire Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Behavior and design of structures subjected to fire; heat transfer fundamentals and modeling of fires; material properties at elevated temperature; structural fire resistance and protection; calculating structure-fire response. Three lecture hours a week for one semester. Civil Engineering 383F and 397 (Topic: Structural Fire Engineering) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 383L",
+"subject": "C E",
+"number": "383L",
+"title": "Advanced Reinforced Concrete Members",
+"hours": 3.0,
+"division": "graduate",
+"description": "Behavior of reinforced concrete members; critical review of specifications; limit states; anchorage and development of reinforcement; shear; torsion. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Civil Engineering 331, and consent of instructor.",
+"prereqText": "Graduate standing, Civil Engineering 331, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 331"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 383N",
+"subject": "C E",
+"number": "383N",
+"title": "Advanced Reinforced Concrete Structures",
+"hours": 3.0,
+"division": "graduate",
+"description": "Behavior of reinforced concrete structures, with emphasis on ductility and detailing of frames, slabs, and braced (shearwall) structures. Detailing for seismic loads. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Civil Engineering 383L, and consent of instructor.",
+"prereqText": "Graduate standing, Civil Engineering 383L, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 383L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 383P",
+"subject": "C E",
+"number": "383P",
+"title": "Prestressed Concrete",
+"hours": 3.0,
+"division": "graduate",
+"description": "Theory, advantages, and limitations; various systems of prestressing; composite construction; continuous span theory. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Civil Engineering 331, and consent of instructor.",
+"prereqText": "Graduate standing, Civil Engineering 331, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 331"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 383R",
+"subject": "C E",
+"number": "383R",
+"title": "Repair and Strengthening of Reinforced Concrete Structures",
+"hours": 3.0,
+"division": "graduate",
+"description": "Evaluation of condition, strength, serviceability, and ductility of existing structures; criteria for rehabilitation; retrofit techniques for change in function, loading, and seismic forces. Three lecture hours a week for one semester. Civil Engineering 383R and 397 (Topic: Repair and Strengthening of Reinforced Concrete Structures) may not both be counted. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 383S",
+"subject": "C E",
+"number": "383S",
+"title": "Structural Concrete Bridges",
+"hours": 3.0,
+"division": "graduate",
+"description": "Planning, design, and construction of reinforced concrete and prestressed concrete bridges, including arch, frame, girder, and cable stay systems; aesthetics, economy, and durability. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and credit or registration for Civil Engineering 383P.",
+"prereqText": "Graduate standing, and credit or registration for Civil Engineering 383P.",
+"prereq": {
+"type": "course",
+"id": "C E 383P"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 383T",
+"subject": "C E",
+"number": "383T",
+"title": "Plasticity in Structural Concrete",
+"hours": 3.0,
+"division": "graduate",
+"description": "Application of plasticity theory to structural concrete columns, girders, frames, and joints. Development and application of transparent detailing methods such as truss models, strut-and-tie models, and both strip and yield line methods for slabs. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Civil Engineering 383L, and consent of instructor.",
+"prereqText": "Graduate standing, Civil Engineering 383L, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 383L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 384P",
+"subject": "C E",
+"number": "384P",
+"title": "Dynamic Response of Structures",
+"hours": 3.0,
+"division": "graduate",
+"description": "Single and multidegree-of-freedom systems; dynamic load factors, response to harmonic excitation; damping; modal analysis; direct integration of equations of motion; analysis in time and frequency domains; application to earthquake, wind, wave, and traffic loadings. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Civil Engineering 381P or consent of instructor.",
+"prereqText": "Graduate standing, and Civil Engineering 381P or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 381P"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 384R",
+"subject": "C E",
+"number": "384R",
+"title": "Earthquake Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Earthquake characteristics; seismic loads; elastic and inelastic response; analysis and design of buildings for earthquakes. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Civil Engineering 384P or consent of instructor.",
+"prereqText": "Graduate standing, and Civil Engineering 384P or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 384P"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 384S",
+"subject": "C E",
+"number": "384S",
+"title": "Structural Reliability",
+"hours": 3.0,
+"division": "graduate",
+"description": "Load and resistance factors in reliability-based design; first- and second-order reliability methods; Monte Carlo simulation techniques with variance reduction and importance sampling refinements; reliability of systems; fault-tree and event-tree models; inverse reliability procedures; and random fields and stochastic finite element analysis for reliability analysis. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 384T",
+"subject": "C E",
+"number": "384T",
+"title": "Blast-Resistant Structural Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Physics of explosions and basic blast phenomenology; structural loading due to blast effects; nonlinear dynamic response of blast-loaded structures; protective design; progressive collapse. Three lecture hours a week for one semester. Civil Engineering 384T and 397 (Topic: Blast-Resistant Structural Design) may not both be counted. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 385D",
+"subject": "C E",
+"number": "385D",
+"title": "Water Resources Planning and Management",
+"hours": 3.0,
+"division": "graduate",
+"description": "Application of engineering economics and operations research to the planning and management of water systems. Major subjects include water supply, water resources management, multi-objective planning, and optimization techniques. Focus on programming skills and implementation of the models using a programming language. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 385G",
+"subject": "C E",
+"number": "385G",
+"title": "Transboundary Water Resources",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to planning, policy, and development of water resources in the international setting, with emphasis on transboundary situations. Basic concepts of water rights and international law pertaining to transboundary water use and protection; economic analysis and applications to transboundary water resources problems; international development goals and how these relate to water supply and use. Three lecture hours a week for one semester. Civil Engineering 385G and 397 (Topic: Transboundary Water Resources) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 385J",
+"subject": "C E",
+"number": "385J",
+"title": "Hazardous Waste Management",
+"hours": 3.0,
+"division": "graduate",
+"description": "Legal and technological approaches to effective and sustainable control of hazardous wastes and contaminated sites, studied through problem evaluation and solution. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Civil Engineering 342 or consent of instructor.",
+"prereqText": "Graduate standing, and Civil Engineering 342 or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 342"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 385K",
+"subject": "C E",
+"number": "385K",
+"title": "Topics in Water Quality",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of water quality in natural systems and of effects of wastewater discharges. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 385L",
+"subject": "C E",
+"number": "385L",
+"title": "Topics in Water and Wastewater Treatment",
+"hours": 3.0,
+"division": "graduate",
+"description": "Principles of sustainable treatment of domestic and industrial water, wastewater, and sludges. Three lecture hours or two and one-half lecture hours and one laboratory hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 385M",
+"subject": "C E",
+"number": "385M",
+"title": "Unit Operations in Water and Wastewater Treatment",
+"hours": 3.0,
+"division": "graduate",
+"description": "Physical, chemical, and biological unit operations for sustainable water and wastewater treatment. One lecture hour and six laboratory hours a week for one semester. Prerequisite: Graduate standing, and Civil Engineering 385L (Topic 1: Physical and Chemical Treatment or Topic 2: Biological Wastewater Treatment and Sludge Processing) or consent of instructor.",
+"prereqText": "Graduate standing, and Civil Engineering 385L (Topic 1: Physical and Chemical Treatment or Topic 2: Biological Wastewater Treatment and Sludge Processing) or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 385L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 385N",
+"subject": "C E",
+"number": "385N",
+"title": "Industrial Wastewater Treatment",
+"hours": 3.0,
+"division": "graduate",
+"description": "Industrial wastewater characteristics; methods of in-plant control; application of various biological, chemical, and physical processes in practical water pollution control systems. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and credit or registration for Civil Engineering 385L or consent of instructor.",
+"prereqText": "Graduate standing, and credit or registration for Civil Engineering 385L or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 385L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 385R",
+"subject": "C E",
+"number": "385R",
+"title": "Land Treatment of Wastes",
+"hours": 3.0,
+"division": "graduate",
+"description": "Principles of the use of land in management of municipal and industrial wastewaters, sludges, and solids; includes problem evaluations. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Civil Engineering 342 or consent of instructor.",
+"prereqText": "Graduate standing, and Civil Engineering 342 or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 342"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 385S",
+"subject": "C E",
+"number": "385S",
+"title": "Stochastic Hydrology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Probability and statistics applied to the solution of hydrological problems; extreme event frequency analysis, time series analysis of hydrologic data, autocorrelation and spectral analysis, theory of regionalized variables and applications. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Civil Engineering 311S or an equivalent course in statistical methods.",
+"prereqText": "Graduate standing, and Civil Engineering 311S or an equivalent course in statistical methods.",
+"prereq": {
+"type": "course",
+"id": "C E 311S"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 385W",
+"subject": "C E",
+"number": "385W",
+"title": "Drinking Water: Treatment and Public Health Issues",
+"hours": 3.0,
+"division": "graduate",
+"description": "Fundamentals and applications of drinking water treatment processes, interactions among treatment processes, source water quality, and public health issues. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Civil Engineering 385L (Topic 1: Physical and Chemical Treatment), and consent of instructor.",
+"prereqText": "Graduate standing, Civil Engineering 385L (Topic 1: Physical and Chemical Treatment), and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 385L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 386M",
+"subject": "C E",
+"number": "386M",
+"title": "Water Treatment and Wastewater Treatment Plant Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Design of water and wastewater treatment facilities; pumps and hydraulic considerations; design of wastewater collection systems; design of systems for handling and disposal of residuals. Specific facilities may be selected to meet individual interests. Six hours of lecture and design laboratory a week for one semester, with appropriate field trips to operating facilities. Prerequisite: Graduate standing, and credit or registration for Civil Engineering 385L or consent of instructor.",
+"prereqText": "Graduate standing, and credit or registration for Civil Engineering 385L or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 385L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 386P",
+"subject": "C E",
+"number": "386P",
+"title": "Engineering Fracture Mechanics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Application of fracture mechanics to fracture-safe design of metal structures; material behavior and analysis of components containing cracks. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 386R",
+"subject": "C E",
+"number": "386R",
+"title": "Inelastic Behavior of Materials",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to theories of inelastic behavior; theory of plasticity; applications to materials such as steel, concrete, and soils; implementation of constitutive equations in structural analysis. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 387C",
+"subject": "C E",
+"number": "387C",
+"title": "Geoenvironmental Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Hydraulic conductivity of soils; clay behavior; compacted clay barriers; unsaturated soil behavior and barriers; geosynthetics and geosynthetic barriers; contaminants and solid waste; liquid drainage layers; stability of landfills; contaminant transport through barriers. Three lecture hours and three laboratory hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 387G",
+"subject": "C E",
+"number": "387G",
+"title": "Engineering Geology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Fundamental concepts of geology, including geologic time and plate tectonics. Interactions among earth materials, landforms, and geologic processes across a range of spatial and temporal scales. Emphasizes common interests shared by engineers and geologists, as well as gaps between the disciplines, such as those posed by the geologic vocabulary. Three lecture hours and three hours of laboratory or fieldwork a week for one semester. Prerequisite: Graduate standing in civil engineering.",
+"prereqText": "Graduate standing in civil engineering.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 387L",
+"subject": "C E",
+"number": "387L",
+"title": "Topics in Soil Mechanics I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester; some topics require additional hours. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 387M",
+"subject": "C E",
+"number": "387M",
+"title": "Topics in Soil Mechanics II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 387R",
+"subject": "C E",
+"number": "387R",
+"title": "Topics in Soil Mechanics III",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three hours a week for one semester; some topics may require additional hours. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 387T",
+"subject": "C E",
+"number": "387T",
+"title": "Decision, Risk, and Reliability",
+"hours": 3.0,
+"division": "graduate",
+"description": "Principles and theory for modeling uncertainty in civil engineering, analyzing how uncertainties affect performance, and developing rational bases for design and decision making under uncertain conditions. Three lecture hours a week for one semester. Prerequisite: Graduate standing and an introductory course in probability and statistics.",
+"prereqText": "Graduate standing and an introductory course in probability and statistics.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 388H",
+"subject": "C E",
+"number": "388H",
+"title": "Climate Change Mitigation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore the large-scale solutions to climate change systematically. Examine the fundamentals of climate science, mitigation of climate change through transformation of energy supply and end-use, geoengineering, and industrial carbon management. Discuss the social and economic context for engineered solutions. Three lecture hours a week for one semester. Civil Engineering 388H and 397 (Topic: Climate Change Mitigation) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 388N",
+"subject": "C E",
+"number": "388N",
+"title": "Engineering and Management of Municipal and Industrial Residuals",
+"hours": 3.0,
+"division": "graduate",
+"description": "Characterization and collection of solid wastes; biological, chemical, and physical principles and integrated systems applicable to the treatment and disposal of municipal and industrial residuals. Two lecture hours and three discussion hours a week for one semester, with occasional field trips. Prerequisite: Graduate standing in civil or environmental engineering, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in civil or environmental engineering, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 388R",
+"subject": "C E",
+"number": "388R",
+"title": "Novel Air Quality Measurement Techniques",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore technological advancements in measurements of indoor and outdoor air quality. Discuss operation principles of novel real-time trace-gas sensors and mass spectrometers. Examine air quality measurements at different spatiotemporal scales, utilizing analytical instrumentation, data acquisition, and data processing. Explore research questions in air quality through hands-on laboratory and field measurements. Three lecture hours a week for one semester. Civil Engineering 388R and 397 (Topic: Novel Air Qual Meas Technqs) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 389C",
+"subject": "C E",
+"number": "389C",
+"title": "Advanced Technical Communication for Engineers",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced work in theory and practice of communicating research and design results to a variety of audiences, in print, orally, and through multimedia. Students use their own work and writing projects as the material to communicate. Three hours a week for one semester, including lecture and laboratory. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 389D",
+"subject": "C E",
+"number": "389D",
+"title": "Sustainable Building Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore the physical basics of sustainable building design for reducing energy demand and providing on-site renewable energy. Three lecture hours a week for one semester. Civil Engineering 389D and 397 (Topic: Sustainable Building Design) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 389H",
+"subject": "C E",
+"number": "389H",
+"title": "HVAC Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Design of heating, ventilation, and air-conditioning systems. Three lecture hours a week for one semester. Prerequisite: Graduate standing and three of the following courses: Architectural Engineering 346N, Civil Engineering 319F, Mechanical Engineering 320, 326, 330, 339.",
+"prereqText": "Graduate standing and three of the following courses: Architectural Engineering 346N, Civil Engineering 319F, Mechanical Engineering 320, 326, 330, 339.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ARE 346N"
+},
+{
+"type": "course",
+"id": "C E 319F"
+},
+{
+"type": "course",
+"id": "M E 320"
+},
+{
+"type": "course",
+"id": "M E 326"
+},
+{
+"type": "course",
+"id": "M E 330"
+},
+{
+"type": "course",
+"id": "M E 339"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 389S",
+"subject": "C E",
+"number": "389S",
+"title": "Smart Buildings and Cities",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore applied machine learning for analyzing data in the domain of buildings (nexus of cities, water and energy). Three lecture hours a week for one semester. Civil Engineering 389S and 397 (Topic: Smart Buildings and Cities) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 389T",
+"subject": "C E",
+"number": "389T",
+"title": "Indoor Air Quality: Transport and Control",
+"hours": 3.0,
+"division": "graduate",
+"description": "Transport and control of indoor pollutants. Includes particulate removal and pollutant transport into and within indoor environments. Three lecture hours a week for one semester. Prerequisite: Graduate standing in architectural or civil engineering.",
+"prereqText": "Graduate standing in architectural or civil engineering.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 389V",
+"subject": "C E",
+"number": "389V",
+"title": "Modeling of Air and Pollutant Flows in Buildings",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Architectural Engineering 389V. Restricted to architectural engineering or civil engineering graduate students. Fundamentals of indoor airflow modeling, use of computational fluid dynamics (CFD) for air quality and thermal comfort analyses, application of CFD for analysis of air velocity, temperature, humidity, and contaminant distributions with different ventilation systems. Three lecture hours a week for one semester. Only one of the following may be counted: Architectural Engineering 383 (Topic: Modeling of Air and Pollutant Flows in Buildings), 389V, Civil Engineering 389V, 397 (Topic: Modeling of Air and Pollutant Flows in Buildings). Prerequisite: Graduate standing; for architectural engineering and civil engineering majors, three semester hours of coursework in fluid dynamics; for others, consent of instructor.",
+"prereqText": "Graduate standing; for architectural engineering and civil engineering majors, three semester hours of coursework in fluid dynamics; for others, consent of instructor.",
+"prereqConfidence": "none",
+"sameAs": "Architectural Engineering 389V",
+"restricted": "Restricted to architectural engineering or civil engineering graduate students."
+},
+{
+"id": "C E 390J",
+"subject": "C E",
+"number": "390J",
+"title": "Engineering Microbiology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Fundamentals of microbiology and biochemistry as applied to environmental pollution and sustainable treatment processes, energetics and kinetics of microbial growth, and biological fate of pollutants; introduction to laboratory techniques. Three hours a week for one semester, including lecture and laboratory. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 390L",
+"subject": "C E",
+"number": "390L",
+"title": "Environmental Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced analytical procedures for the sampling, monitoring, and analyses of air, liquid, and other wastes. Six hours of lecture and laboratory a week for one semester. Prerequisite: Graduate standing, one year of chemistry, and consent of instructor.",
+"prereqText": "Graduate standing, one year of chemistry, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 390N",
+"subject": "C E",
+"number": "390N",
+"title": "Water Pollution Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced topics in the application of engineering solutions to chemical problems in freshwater and marine environments. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 390P",
+"subject": "C E",
+"number": "390P",
+"title": "Environmental Organic Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced subjects in the environmental chemistry of organic contaminants in groundwater, soil, and air systems; includes sustainable chemistry. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 390Q",
+"subject": "C E",
+"number": "390Q",
+"title": "Chemical Dynamics in the Environment",
+"hours": 3.0,
+"division": "graduate",
+"description": "Environmental chemodynamics: interphase equilibrium, reactions, transport processes, and related models for anthropogenic substances across natural interfaces (air-water-sediment-soil) and associated boundary regions. Three lecture hours a week for one semester. Civil Engineering 390Q and 397 (Topic: Chemodynamics) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 390R",
+"subject": "C E",
+"number": "390R",
+"title": "Engineering Microbiology Applications",
+"hours": 3.0,
+"division": "graduate",
+"description": "Application of microbiology and molecular biology tools for monitoring environmental systems and biological treatment processes. Six hours of lecture and laboratory a week for one semester. Civil Engineering 390R and 397 (Topic: Engineering Microbiology Applications) may not both be counted. Prerequisite: Graduate standing and Civil Engineering 390J.",
+"prereqText": "Graduate standing and Civil Engineering 390J.",
+"prereq": {
+"type": "course",
+"id": "C E 390J"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 391C",
+"subject": "C E",
+"number": "391C",
+"title": "Analysis and Design of Transportation Systems I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to conceptual, methodological, and mathematical foundations of analysis and design of transportation services; review of probabilistic modeling; application of discrete choice models to demand analysis. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 391D",
+"subject": "C E",
+"number": "391D",
+"title": "Analysis and Design of Transportation Systems II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Operations research techniques for modeling system performance and design of transportation services; routing and scheduling problems, network equilibration, and spatially distributed queueing systems. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 391E",
+"subject": "C E",
+"number": "391E",
+"title": "Advances in Transportation Demand Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Developments in the econometric and behavioral aspects of demand analysis and forecasting; supply-demand integration; dynamic models. Applications to passenger and freight transportation and other infrastructure services. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 391F",
+"subject": "C E",
+"number": "391F",
+"title": "Advanced Theory of Traffic Flow",
+"hours": 3.0,
+"division": "graduate",
+"description": "Relations among traffic variables; distribution functions; single lane and multilane traffic flow; characterization of traffic in cities; kinematic waves; yellow signal dilemma; merging; fuel consumption; emissions; and special topics. Emphasis on the interplay among theory, experimentation, and observation. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 391J",
+"subject": "C E",
+"number": "391J",
+"title": "Transportation Planning: Methodology and Techniques",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of a wide range of planning studies to establish the logic and foundation for the transportation planning process. Emphasis on techniques of estimation and forecasting population, economic activity, land use, and mobility patterns; determination of goals and objectives; decision making; economic analysis; and alternative evaluation. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 391L",
+"subject": "C E",
+"number": "391L",
+"title": "Advanced Traffic Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Characterization and analysis of arterial street and freeway traffic operations using theoretical and experimental techniques, especially computer simulation. Introduction to the most current analysis and optimization tools for control device design and implementation. Three lecture hours and three hours of supervised work a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 391M",
+"subject": "C E",
+"number": "391M",
+"title": "Advanced Geometric Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Geometric design of highways and guideways, including topics on levels of service, alignment, vehicle operations, intersection and interchange design, roadside design, lighting, and economics. Three lecture hours and one hour of supervised laboratory work a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 391N",
+"subject": "C E",
+"number": "391N",
+"title": "Engineering System Evaluation and Decision Making",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced methods for selection of transportation and other infrastructure systems in the presence of multiple criteria, multiple decision makers, and uncertainty. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 391P",
+"subject": "C E",
+"number": "391P",
+"title": "Topics in Highway and Airport Pavement Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 391Q",
+"subject": "C E",
+"number": "391Q",
+"title": "Bituminous Materials",
+"hours": 3.0,
+"division": "graduate",
+"description": "Design and use of asphalt mixtures; chemical, physical, and rheological properties of asphalt; and practical applications in highways, airports, and other construction. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 391R",
+"subject": "C E",
+"number": "391R",
+"title": "Airport Design and Operation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Aircraft characteristics, site selection, airport configuration, capacity, terminal design, traffic control, and interfacing with other transportation modes. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 391T",
+"subject": "C E",
+"number": "391T",
+"title": "Topics in Contemporary Transportation Issues",
+"hours": 3.0,
+"division": "graduate",
+"description": "Consideration, analysis, and evaluation of recent transportation-related innovations and developments. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 391W",
+"subject": "C E",
+"number": "391W",
+"title": "Transportation Systems Operations and Control",
+"hours": 3.0,
+"division": "graduate",
+"description": "Concepts and advanced methods for the design of control strategies for transportation systems operations, including highway traffic systems (signalized street networks and freeways), transit systems, and private carrier operations, including airlines. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 392C",
+"subject": "C E",
+"number": "392C",
+"title": "Transportation Network Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Transportation network analysis focusing on planning and optimization using static traffic assignment models. Subjects include deterministic and stochastic equilibrium, traditional and modern solution methods, shortest path algorithms, combined models, and basic nonlinear programming skills. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 392D",
+"subject": "C E",
+"number": "392D",
+"title": "Dynamic Traffic Assignment",
+"hours": 3.0,
+"division": "graduate",
+"description": "Theory and practice of dynamic traffic assignment as an evolving field. Subjects include basic flow models (point queues, cell transmission model, and link transmission model), time-dependent shortest path algorithms, equilibrium algorithms (convex combinations, simplicial decomposition, and gradient methods), and case studies from practice. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 392E",
+"subject": "C E",
+"number": "392E",
+"title": "Acquisition and Analysis of Transportation Data",
+"hours": 3.0,
+"division": "graduate",
+"description": "Methods and technologies for the acquisition and analysis of data on various aspects of transportation systems, including properties of different data sources and types; stated versus revealed preferences; traffic sensing; survey design; sampling strategies; probabilistic methods of data analysis; overview of statistical methods and various regression models, including random-utility, ordered-choice, simultaneous-equations, time-series, and spatial econometric models. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 392F",
+"subject": "C E",
+"number": "392F",
+"title": "Sensors and Signal Interpretation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore the physics concepts related with sensors, basic circuits, and wireless communications. Examine properties and specifications of sensors, and their importance in practical use cases. Discuss sensor noise properties and explore the use of signal processing in time and frequency domains to reduce noise. Explore data and model fusion using classical estimation methods (linear observers and Kalman filters). Three lecture hours a week for one semester. Civil Engineering 392F and 397 (Topic: Sensors/Signal Interpretation) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 392H",
+"subject": "C E",
+"number": "392H",
+"title": "Regional Transportation Planning: Applications and Tools",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore various aspects of regional transportation system performance forecasting, including methods for anticipating Americans' evolving travel choices. Examine key data sources and model specifications for planning activities; forecasting and validation of predictions, for personal vs. commercial travel; and system-wide applications for traffic and travel pattern forecasts. Three lecture hours a week for one semester. Civil Engineering 391H and 392H may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 392L",
+"subject": "C E",
+"number": "392L",
+"title": "Experimental Measurements of Soil Properties",
+"hours": 3.0,
+"division": "graduate",
+"description": "Theoretical and practical knowledge of transducers, sensors, and data acquisition systems for soil and general laboratory testing. Experimental techniques used to characterize properties of geomaterials. Two lecture hours and three laboratory hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 392M",
+"subject": "C E",
+"number": "392M",
+"title": "Public Transportation Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to public transportation systems, including demand forecasting, operations, and design. Includes statistical methods, driver and vehicle scheduling, algorithms, and survey sampling techniques. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 392N",
+"subject": "C E",
+"number": "392N",
+"title": "Topics in Infrastructure Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Management principles, modeling techniques, computer applications, and emerging technologies for the analysis, engineering, and management of infrastructure systems. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 392P",
+"subject": "C E",
+"number": "392P",
+"title": "Sustainable Pavement Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Pavement design; back calculation; use of locally available materials for pavement construction; recycled asphalt pavements and shingles; warm mix and cold mix asphalt; industrial by-products and waste incorporated in pavement materials; emerging technologies for sustainable pavement design and pavement management. Three lecture hours a week for one semester. Civil Engineering 392P and 397 (Topic: Sustainable Pavement Engineering) may not both be counted. Prerequisite: Graduate standing, and Civil Engineering 366K, 367P, 391P (Topic 2: Design and Performance of Pavements), 391Q, or consent of instructor.",
+"prereqText": "Graduate standing, and Civil Engineering 366K, 367P, 391P (Topic 2: Design and Performance of Pavements), 391Q, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "C E 366K"
+},
+{
+"type": "course",
+"id": "C E 367P"
+},
+{
+"type": "course",
+"id": "C E 391P"
+},
+{
+"type": "course",
+"id": "C E 391Q"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 392R",
+"subject": "C E",
+"number": "392R",
+"title": "Discrete Choice Theory and Modeling",
+"hours": 3.0,
+"division": "graduate",
+"description": "Methods and statistics of model estimation, with emphasis on maximum-likelihood; individual choice theory; binary choice models; unordered multinomial and multidimensional choice models; sampling theory and sample design; ordered models and aggregate prediction with choice models; introduction to advanced concepts, such as unobserved population heterogeneity, joint slated preference and revealed preference modeling, and longitudinal choice analysis. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, and Civil Engineering 391J or consent of instructor.",
+"prereqText": "Graduate standing, and Civil Engineering 391J or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 391J"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "C E 392S",
+"subject": "C E",
+"number": "392S",
+"title": "Intermodal Transportation Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Strategic planning of intermodal freight transportation systems (infrastructure and rolling stock). Freight logistics, intermodal technology, and intermodal terminal operations. Intermodal freight transportation policy, planning, and operational systems and programs. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 392T",
+"subject": "C E",
+"number": "392T",
+"title": "Transport Economics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Application of economic theory and principles to transportation systems analysis and evaluation. Subjects include individual demand decisions, optimal private and public transport supply (including pricing strategies and input demands), market imperfections and externalities, and welfare-based transport policy. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 392U",
+"subject": "C E",
+"number": "392U",
+"title": "Transportation Systems Management",
+"hours": 3.0,
+"division": "graduate",
+"description": "Evolving concepts of transportation agency organization, management, and delivery of transportation programs, products, and services. Separation versus integration of transport policymaking and service delivery functions; emerging models for delivering programs and services, such as outsourcing, privatization, and state-owned enterprises; review of national and international experiences with innovative approaches and the benefits and costs associated with change. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 392V",
+"subject": "C E",
+"number": "392V",
+"title": "Methods to Characterize Bituminous Materials",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to the design and performance prediction of asphalt mixtures. Experimental and computational methods used to characterize the chemical and mechanical properties and performance of bituminous materials at several different length scales. Includes computational models. Three lecture hours a week for one semester. Civil Engineering 392V and 397 (Topic: Characterization of Bituminous Materials) may not both be counted. Prerequisite: Graduate standing, and Civil Engineering 366K, 391Q, or consent of instructor.",
+"prereqText": "Graduate standing, and Civil Engineering 366K, 391Q, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "C E 366K"
+},
+{
+"type": "course",
+"id": "C E 391Q"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 392W",
+"subject": "C E",
+"number": "392W",
+"title": "Characterization of Viscoelastic Materials",
+"hours": 3.0,
+"division": "graduate",
+"description": "Test methods and physical models used to characterize the mechanical response of linear and nonlinear viscoelastic materials. Use of correspondence principles to solve simple boundary value problems for linear viscoelastic materials. Introductory topics on modeling damage and nonlinear response of viscoelastic materials. Three lecture hours a week for one semester. Civil Engineering 392W and 397 (Topic: Characterization of Viscoelastic Materials) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 393",
+"subject": "C E",
+"number": "393",
+"title": "Advanced Concrete Materials",
+"hours": 3.0,
+"division": "graduate",
+"description": "Comprehensive coverage of Portland cement concrete materials. Topics include cement and aggregate properties, chemical and mineral admixtures, concrete microstructure and the effects of chemical and mechanical properties, durability issues, concrete construction, and special concretes. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, and a materials course.",
+"prereqText": "Graduate standing, and a materials course.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "C E 393C",
+"subject": "C E",
+"number": "393C",
+"title": "Experimental Methods in Cement Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Cement chemistry, hydration, and microstructural formation; analytical techniques used in the investigation of cement and concrete. Three lecture hours and one-and-one-half laboratory hours a week for one semester. Civil Engineering 393C and 397 (Topic: Experimental Methods in Cement Chemistry) may not both be counted. Prerequisite: Graduate standing, Civil Engineering 351, 393, or the equivalent, and consent of instructor.",
+"prereqText": "Graduate standing, Civil Engineering 351, 393, or the equivalent, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "C E 351"
+},
+{
+"type": "course",
+"id": "C E 393"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 393D",
+"subject": "C E",
+"number": "393D",
+"title": "Concrete Durability",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine comprehensive coverage of durability issues affecting portland cement concrete. Includes transport properties (e.g., diffusion, osmosis, sorption, etc.), alkali-silica reaction, external sulfate attack, delayed ettringite formation, corrosion of reinforcing steel, freezing and thawing, and salt scaling. Explore, for each durability issue, the underlying mechanism are presented, along with methods for preventing such distress in new concrete construction. Three lecture hours a week for one semester. Civil Engineering 393D and 397 (Topic: Concrete Durability) may not both be counted. Prerequisite: Civil Engineering 393 or equivalent full-semester course in concrete materials, and consent of instructor.",
+"prereqText": "Civil Engineering 393 or equivalent full-semester course in concrete materials, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 393"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 393M",
+"subject": "C E",
+"number": "393M",
+"title": "Topics in Environmental Engineering Research Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Presentation and discussion of environmental topics in surface water, groundwater, air resources, and land resources. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 393N",
+"subject": "C E",
+"number": "393N",
+"title": "Novel Structural Materials",
+"hours": 3.0,
+"division": "graduate",
+"description": "Material selection criteria, including mechanical and environmental factors; selected case studies of emerging materials, including derivation of properties and potential applications. Three lecture hours a week for one semester. Civil Engineering 393N and 397 (Topic: Novel Structural Materials) may not both be counted. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 393S",
+"subject": "C E",
+"number": "393S",
+"title": "Structural Engineering Research Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 394",
+"subject": "C E",
+"number": "394",
+"title": "Topics in Interaction of Soils and Structures",
+"hours": 3.0,
+"division": "graduate",
+"description": "Beams on foundation, laterally loaded piles, applications of the finite-element method, beam-columns with nonlinear soil support, and behavior of pile groups. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and a course in soil mechanics or consent of instructor.",
+"prereqText": "Graduate standing, and a course in soil mechanics or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 394K",
+"subject": "C E",
+"number": "394K",
+"title": "Topics in Engineering Hydrology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. With consent of instructor, any topic may be repeated for credit. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; and a basic course in hydrology and in differential equations, or consent of instructor.",
+"prereqText": "Graduate standing; and a basic course in hydrology and in differential equations, or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 394M",
+"subject": "C E",
+"number": "394M",
+"title": "Advanced Analyses in Geotechnical Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Development and application of linear and nonlinear finite element procedures for solution of geotechnical engineering problems related to embankments, excavations, static soil-structure interaction, and seepage. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 395P",
+"subject": "C E",
+"number": "395P",
+"title": "Topics in Project Automation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Some topics may require additional hours; these are identified in the Course Schedule. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 395Q",
+"subject": "C E",
+"number": "395Q",
+"title": "Topics in Project Controls",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Some topics require two lecture hours and three laboratory hours a week; these are identified in the Course Schedule. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 395R",
+"subject": "C E",
+"number": "395R",
+"title": "Topics in Project Information Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester; some topics require additional hours. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 395S",
+"subject": "C E",
+"number": "395S",
+"title": "Topics in Project Organization",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 395T",
+"subject": "C E",
+"number": "395T",
+"title": "Topics in Project Technology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 395U",
+"subject": "C E",
+"number": "395U",
+"title": "General Topics in Construction Engineering and Project Management",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 395V",
+"subject": "C E",
+"number": "395V",
+"title": "Topics in Construction Engineering and Projects: Seminar/Conference",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 396L",
+"subject": "C E",
+"number": "396L",
+"title": "Topics in Air Resources Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Sources, transport, fate, impacts, characteristics, and control of air contaminants; source control and prevention; urban air quality; occupational and residential indoor air quality. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 396M",
+"subject": "C E",
+"number": "396M",
+"title": "Advanced Topics in Atmospheric Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in a natural science or engineering.",
+"prereqText": "Graduate standing in a natural science or engineering.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 197",
+"subject": "C E",
+"number": "197",
+"title": "Special Topics in Civil Engineering",
+"hours": 1.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; some topics require additional hours. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; consent of instructor; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; consent of instructor; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 297",
+"subject": "C E",
+"number": "297",
+"title": "Special Topics in Civil Engineering",
+"hours": 2.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; some topics require additional hours. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; consent of instructor; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; consent of instructor; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 397",
+"subject": "C E",
+"number": "397",
+"title": "Special Topics in Civil Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; some topics require additional hours. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; consent of instructor; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; consent of instructor; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 197C",
+"subject": "C E",
+"number": "197C",
+"title": "Master's Research",
+"hours": 1.0,
+"division": "graduate",
+"description": "Independent research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 297C",
+"subject": "C E",
+"number": "297C",
+"title": "Master's Research",
+"hours": 2.0,
+"division": "graduate",
+"description": "Independent research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 397C",
+"subject": "C E",
+"number": "397C",
+"title": "Master's Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 697C",
+"subject": "C E",
+"number": "697C",
+"title": "Master's Research",
+"hours": 6.0,
+"division": "graduate",
+"description": "Independent research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 197D",
+"subject": "C E",
+"number": "197D",
+"title": "Dissertation Research",
+"hours": 1.0,
+"division": "graduate",
+"description": "Independent research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 297D",
+"subject": "C E",
+"number": "297D",
+"title": "Dissertation Research",
+"hours": 2.0,
+"division": "graduate",
+"description": "Independent research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 397D",
+"subject": "C E",
+"number": "397D",
+"title": "Dissertation Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 697D",
+"subject": "C E",
+"number": "697D",
+"title": "Dissertation Research",
+"hours": 6.0,
+"division": "graduate",
+"description": "Independent research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 397F",
+"subject": "C E",
+"number": "397F",
+"title": "Forensic Engineering: Materials and Structures",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Architectural Engineering 383 (Topic 4: Forensic Engineering: Materials and Structures). Methods of forensic analysis; role of the expert witness; methods of dispute resolution; case studies; term project. Two lecture hours a week for one semester, with three laboratory hours a week for presentation of case studies. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"sameAs": "Architectural Engineering 383 (Topic 4: Forensic Engineering: Materials and Structures)"
+},
+{
+"id": "C E 397K",
+"subject": "C E",
+"number": "397K",
+"title": "Stability of Structures",
+"hours": 3.0,
+"division": "graduate",
+"description": "Stability as it relates to actual behavior and design; elastic and inelastic theories; evaluation of specifications; columns, beams, and frames. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 397L",
+"subject": "C E",
+"number": "397L",
+"title": "Advanced Structural Metals",
+"hours": 3.0,
+"division": "graduate",
+"description": "Elastic and inelastic design methods for steel members, connections, and structures; torsion of open and closed sections, welding, plate buckling, and column stability; bracing design. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Civil Engineering 335, and consent of instructor.",
+"prereqText": "Graduate standing, Civil Engineering 335, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C E 335"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 397N",
+"subject": "C E",
+"number": "397N",
+"title": "Nondestructive Testing Techniques",
+"hours": 3.0,
+"division": "graduate",
+"description": "Basic signal processing knowledge; introduction to wave propagation theory; nondestructive testing (NDT) principles and applications to steel structures; evaluation of concrete structures and foundations; NDT methods selection; emerging technologies. Three lecture hours a week for one semester. Civil Engineering 397N and 397 (Topic: Nondestructive Testing Techniques in Civil Engineering) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 197Q",
+"subject": "C E",
+"number": "197Q",
+"title": "Special Independent Studies in Civil Engineering",
+"hours": 1.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 297Q",
+"subject": "C E",
+"number": "297Q",
+"title": "Special Independent Studies in Civil Engineering",
+"hours": 2.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 397Q",
+"subject": "C E",
+"number": "397Q",
+"title": "Special Independent Studies in Civil Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 697Q",
+"subject": "C E",
+"number": "697Q",
+"title": "Special Independent Studies in Civil Engineering",
+"hours": 6.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 698",
+"subject": "C E",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in civil engineering and consent of the graduate adviser; for 698B, Civil Engineering 698A.",
+"prereqText": "For 698A, graduate standing in civil engineering and consent of the graduate adviser; for 698B, Civil Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "C E 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 398D",
+"subject": "C E",
+"number": "398D",
+"title": "Departmental Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the departmental report option. Individual instruction. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in civil engineering and consent of the supervising professor and the graduate adviser.",
+"prereqText": "Graduate standing in civil engineering and consent of the supervising professor and the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 398R",
+"subject": "C E",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the Master of Science in Engineering degree under the Graduate School report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in civil engineering and consent of the supervising professor and the graduate adviser.",
+"prereqText": "Graduate standing in civil engineering and consent of the supervising professor and the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 398T",
+"subject": "C E",
+"number": "398T",
+"title": "Supervised Teaching in Civil Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Special training in teaching methods and procedures for civil engineering courses, including laboratory courses; the development of new material and methods to update present courses. Three lecture hours a week for one semester. Prerequisite: Graduate standing in civil engineering and appointment as a teaching assistant.",
+"prereqText": "Graduate standing in civil engineering and appointment as a teaching assistant.",
+"prereqConfidence": "none"
+},
+{
+"id": "C E 399W",
+"subject": "C E",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 699W",
+"subject": "C E",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 999W",
+"subject": "C E",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

@@ -1,0 +1,354 @@
+{
+"code": "T C",
+"name": "Tutorial Course",
+"courses": [
+{
+"id": "T C 302",
+"subject": "T C",
+"number": "302",
+"title": "First-Year Signature Course: Plan II",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to first-year Plan II students. Small-group seminar involving reading, discussion, writing, and oral reporting around a central interdisciplinary topic. Designed to introduce undergraduates to scholarly analysis from an interdisciplinary perspective. Includes an introduction to University resources, such as research facilities, museums, and attendance at University lectures or performances as assigned. Multiple sections may be offered in the fall and spring with various topics and instructors. Three lecture hours a week for one semester. Some sections may require additional meeting times. Only one of the following may be counted: Tutorial Course 302, Undergraduate Studies 302, or 303.",
+"restricted": "Restricted to first-year Plan II students."
+},
+{
+"id": "T C 303C",
+"subject": "T C",
+"number": "303C",
+"title": "Plan II World Literature Part I",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the Plan II Honors Program. Reading of masterpieces of world literature and intensive training in writing and in critical analysis of literature. Three lecture hours a week for one semester. Only one of the following may be counted: Tutorial Course 303C, 603A; English 303C, 603A; Rhetoric and Writing 306, 306Q.",
+"restricted": "Restricted to students in the Plan II Honors Program."
+},
+{
+"id": "T C 303D",
+"subject": "T C",
+"number": "303D",
+"title": "Plan II World Literature Part II",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the Plan II Honors Program. Reading of masterpieces of world literature and intensive training in writing and in critical analysis of literature. Three lecture hours a week for one semester. Only one of the following may be counted: Comparative Literature 315, English 303D, 316N, Tutorial Course 303D. Prerequisite: Tutorial Course 303C or English 303C.",
+"prereqText": "Tutorial Course 303C or English 303C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "T C 303C"
+},
+{
+"type": "course",
+"id": "E 303C"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Plan II Honors Program."
+},
+{
+"id": "T C 310",
+"subject": "T C",
+"number": "310",
+"title": "Modes of Reasoning",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to forms of quantitative reasoning: computer science, game theory, operations research, or statistics and probability. Three lecture hours a week for one semester. Philosophy 313Q and Tutorial Course 310 may not both be counted. Prerequisite: Admission to the Plan II Honors Program.",
+"prereqText": "Admission to the Plan II Honors Program.",
+"prereqConfidence": "none"
+},
+{
+"id": "T C 119S",
+"subject": "T C",
+"number": "119S",
+"title": "Topics in Tutorial Course",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 219S",
+"subject": "T C",
+"number": "219S",
+"title": "Topics in Tutorial Course",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 319S",
+"subject": "T C",
+"number": "319S",
+"title": "Topics in Tutorial Course",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 419S",
+"subject": "T C",
+"number": "419S",
+"title": "Topics in Tutorial Course",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 519S",
+"subject": "T C",
+"number": "519S",
+"title": "Topics in Tutorial Course",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 619S",
+"subject": "T C",
+"number": "619S",
+"title": "Topics in Tutorial Course",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 719S",
+"subject": "T C",
+"number": "719S",
+"title": "Topics in Tutorial Course",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 819S",
+"subject": "T C",
+"number": "819S",
+"title": "Topics in Tutorial Course",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 919S",
+"subject": "T C",
+"number": "919S",
+"title": "Topics in Tutorial Course",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 325",
+"subject": "T C",
+"number": "325",
+"title": "Topics in the Arts and Sciences",
+"hours": 3.0,
+"division": "upper",
+"description": "Analysis of various topics within the arts and sciences through reading, research, written reports, and discussion. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing in the Plan II Honors Program or consent of instructor; additional prerequisites vary with the topic.",
+"prereqText": "Upper-division standing in the Plan II Honors Program or consent of instructor; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "T C 125K",
+"subject": "T C",
+"number": "125K",
+"title": "Subjects in the Arts and Sciences",
+"hours": 1.0,
+"division": "upper",
+"description": "Analysis of subjects in the arts, sciences, and social sciences through reading, discussion, and lectures. The equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Upper-division standing in the Plan II Honors Program or consent of instructor.",
+"prereqText": "Upper-division standing in the Plan II Honors Program or consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "T C 126",
+"subject": "T C",
+"number": "126",
+"title": "Plan II/Knowledge Is Power Program Charter Schools Partnership",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in the Plan II Honors Program. Mentorship of younger students attending an Austin-area Knowledge Is Power Program (KIPP) school. Through mentoring and class meetings, students will be deeply immersed in issues related to education reform, (in)equality of educational opportunity, and in promising strategies, such as those used by KIPP, for addressing such issues. The equivalent of one lecture hour and two hours of service a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Plan II Honors Program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "T C 127",
+"subject": "T C",
+"number": "127",
+"title": "Civic Viewpoints",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in the Plan II Honors Program. Explores civic engagement and innovative solutions for societal justice. The equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the pass/fail basis only.",
+"restricted": "Restricted to students in the Plan II Honors Program.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "T C 128K",
+"subject": "T C",
+"number": "128K",
+"title": "Volunteer Service Orientation",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to Plan II Majors in the College of Liberal Arts. Designed for those who want to mentor or tutor a student at a school that serves first generation college-going students. Receive training to volunteer at one of the KIPP (Knowledge is Power Program) Texas-Austin schools, within one of the existing Plan II/KIPP Partnership service programs, KAL Mentoring or Plan Tutoring. The equivalent of one lecture hour and two hours of service a week for one semester. Offered on the pass/fail basis only. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan II Majors in the College of Liberal Arts.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "T C 129S",
+"subject": "T C",
+"number": "129S",
+"title": "Topics in Tutorial Course",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 229S",
+"subject": "T C",
+"number": "229S",
+"title": "Topics in Tutorial Course",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 329S",
+"subject": "T C",
+"number": "329S",
+"title": "Topics in Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 429S",
+"subject": "T C",
+"number": "429S",
+"title": "Topics in Tutorial Course",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 529S",
+"subject": "T C",
+"number": "529S",
+"title": "Topics in Tutorial Course",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 629S",
+"subject": "T C",
+"number": "629S",
+"title": "Topics in Tutorial Course",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 729S",
+"subject": "T C",
+"number": "729S",
+"title": "Topics in Tutorial Course",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 829S",
+"subject": "T C",
+"number": "829S",
+"title": "Topics in Tutorial Course",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 929S",
+"subject": "T C",
+"number": "929S",
+"title": "Topics in Tutorial Course",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "T C 330",
+"subject": "T C",
+"number": "330",
+"title": "Special Topics in Plan II",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan II majors. Three lecture hours a week for one semester, with additional hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan II majors."
+},
+{
+"id": "T C 130K",
+"subject": "T C",
+"number": "130K",
+"title": "College to Career Connections",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to Plan II honors majors. Connect with resources and create a plan to achieve academic and career goals. The equivalent of one lecture hour a week for one semester. Offered on the pass/fail basis only.",
+"restricted": "Restricted to Plan II honors majors.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "T C 358",
+"subject": "T C",
+"number": "358",
+"title": "Topics in Plan II Junior Seminar",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Plan II Honors Program. Seminar sections of about fifteen students. The subjects vary, but in each the attempt is made through careful reading, discussion, and written work to analyze and compare varied approaches to topics of lasting importance. Three lecture hours a week for one semester. Students must take this course twice with different topics to fulfill degree requirements. May be repeated for credit when topics vary. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Plan II Honors Program."
+},
+{
+"id": "T C 359T",
+"subject": "T C",
+"number": "359T",
+"title": "Essay Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Directed reading followed by the writing of an essay. Conference course, with additional hours to be arranged. Prerequisite: Two semesters of Tutorial Course 358 (or 357) and consent of the director.",
+"prereqText": "Two semesters of Tutorial Course 358 (or 357) and consent of the director.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "T C 358"
+},
+{
+"type": "course",
+"id": "T C 357"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "T C 660H",
+"subject": "T C",
+"number": "660H",
+"title": "Thesis Course: Honors",
+"hours": 6.0,
+"division": "upper",
+"description": "Directed reading followed by the writing of a substantial essay. Conference course for two semesters, with additional hours to be arranged. Prerequisite: For 660HA, Tutorial Course 358 (or 357); for 660HB, Tutorial Course 660HA.",
+"prereqText": "For 660HA, Tutorial Course 358 (or 357); for 660HB, Tutorial Course 660HA.",
+"prereqConfidence": "low"
+}
+]
+}

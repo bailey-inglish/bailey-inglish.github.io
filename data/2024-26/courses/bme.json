@@ -1,0 +1,1801 @@
+{
+"code": "BME",
+"name": "Biomedical Engineering",
+"courses": [
+{
+"id": "BME 303",
+"subject": "BME",
+"number": "303",
+"title": "Introduction to Computing",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to biomedical engineering majors. Introduction to computing and programming, focusing on high-level programming languages. Emphasis on programming skills using C++ and Python as well as data acquisition using open-source computer hardware. Emphasis is on biomedical engineering applications for computing. Three lecture hours and two recitation hours a week for one semester. Offered on the letter-grade basis only.",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 303L",
+"subject": "BME",
+"number": "303L",
+"title": "Introduction to Biomedical Engineering Design",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to biomedical engineering majors. Biomedical engineering design concepts with hands-on learning applications. Three lecture hours and three laboratory hours a week for one semester. Biomedical Engineering 102L and 203L, 303L may not both be counted. Offered on the letter-grade basis only.",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 306",
+"subject": "BME",
+"number": "306",
+"title": "Fundamentals of Computing",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to biomedical engineering majors. Introduction to computing including bits and operations on bits, number formats, arithmetic and logic operations, digital logic. Explore the Von Neumann model of processing including memory, arithmetic logic unit, registers, and instruction decoding and execution. Examine structured programming and debugging, machine and assembly language programming, the structure of an assembler, physical input/output through device registers, subroutine call/return; trap instruction, stacks and applications of stacks. Three lecture hours a week for one semester. Additional lab hours to be arranged. Only one of the following may be counted: Biomedical Engineering 306, Electrical and Computer Engineering 306, 306H, Electrical Engineering 306, 306H. Offered on the letter-grade basis only. Prerequisite: Credit with a grade of at least C- or registration for Mathematics 408C or 408K.",
+"prereqText": "Credit with a grade of at least C- or registration for Mathematics 408C or 408K.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 408C"
+},
+{
+"type": "course",
+"id": "M 408K"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 311",
+"subject": "BME",
+"number": "311",
+"title": "Network Analysis in Biomedical Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to biomedical engineering majors. Basic concepts in circuit analysis and design of systems for biomedical engineering; Ohm's law, Kirchhoff's laws, and nodal and loop analysis; Theyenin's and Norton's theorem; operational amplifiers; high-order circuit and basic AC circuit analysis using Fourier and Laplace transforms. Three lecture hours a week for one semester. Only one of the following may be counted: Biomedical Engineering 311, Electrical and Computer Engineering 411, 411H, Electrical Engineering 411. Offered on the letter-grade basis only. Prerequisite: Physics 303K with a grade of at least C-; and credit with a grade of at least C- or registration for: Mathematics 427J and Physics 303L.",
+"prereqText": "Physics 303K with a grade of at least C-; and credit with a grade of at least C- or registration for: Mathematics 427J and Physics 303L.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 313L",
+"subject": "BME",
+"number": "313L",
+"title": "Introduction to Numerical Methods in Biomedical Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to biomedical engineering majors. Introduces principles and techniques of numerical analysis of biomedical engineering problems. Examines numerical methods of integration, differentiation, interpolation, curve fitting, data analysis, sampling and estimation, error analysis, analysis of ordinary differential equations, numerical modeling of biomedical engineering systems, symbolic computation, and scientific visualization. Three lecture hours and three laboratory hours a week for one semester. Only one of the following may be counted: Aerospace Engineering 211K, 311, Biomedical Engineering 313L, Computational Engineering 211K, 311K. Offered on the letter-grade basis only. Prerequisite: The following coursework with a grade of at least C-: Biomedical Engineering 303 or Computational Engineering 301, Biomedical Engineering 303L, and Mathematics 427J.",
+"prereqText": "The following coursework with a grade of at least C-: Biomedical Engineering 303 or Computational Engineering 301, Biomedical Engineering 303L, and Mathematics 427J.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 214L",
+"subject": "BME",
+"number": "214L",
+"title": "Computational Fundamentals of Biomedical Engineering Design",
+"hours": 2.0,
+"division": "lower",
+"description": "Restricted to biomedical engineering majors. Overview of computational methods used to model biomedical systems, analyze data, and assist in the engineering design process. Subjects and hands-on learning applications include 3D modeling tools and computer aided manufacturing, flow simulation, instrumentation, biomedical imaging modalities, and biomedical informatics. Two lecture hours and three laboratory hours a week for one semester. Biomedical Engineering 314 and 214L may not both be counted. Offered on the letter-grade basis only. Prerequisite: The following coursework with a grade of at least C-: Biomedical Engineering 303 or Computational Engineering 301, Biomedical Engineering 303L, Physics 303K, and Physics 103M or 105M; and credit with a grade of at least C- or registration for: Biomedical Engineering 311 or Electrical and Computer Engineering 411 (or Electrical Engineering 411), Mathematics 427J, Physics 303L, and Physics 103N or 105N.",
+"prereqText": "The following coursework with a grade of at least C-: Biomedical Engineering 303 or Computational Engineering 301, Biomedical Engineering 303L, Physics 303K, and Physics 103M or 105M; and credit with a grade of at least C- or registration for: Biomedical Engineering 311 or Electrical and Computer Engineering 411 (or Electrical Engineering 411), Mathematics 427J, Physics 303L, and Physics 103N or 105N.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 320",
+"subject": "BME",
+"number": "320",
+"title": "International Perspectives on Biomedical Engineering Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Activities to consider sociotechnical factors in designing clinically translatable solutions with a focus on international perspectives. Three lecture hours a week for one semester. Biomedical Engineering 320 and 377T (Topic: International Perspectives on Biomedical Engineering Design) may not both be counted."
+},
+{
+"id": "BME 322",
+"subject": "BME",
+"number": "322",
+"title": "Health Equity in Engineering Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Discuss healthcare disparities and causal mechanisms that lead to differential patient outcomes of medical devices and therapeutics. Assess how engineers can improve the design process of healthcare technologies to remove bias and improve equity. Explore current research in the field from health disparity specialists. Three lecture hours a week for one semester. Biomedical Engineering 322 and 377T (Topic: Health Equity in Engr Design) may not both be counted.",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 129S",
+"subject": "BME",
+"number": "129S",
+"title": "Topics in Biomedical Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Biomedical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 229S",
+"subject": "BME",
+"number": "229S",
+"title": "Topics in Biomedical Engineering",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Biomedical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 329S",
+"subject": "BME",
+"number": "329S",
+"title": "Topics in Biomedical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Biomedical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 429S",
+"subject": "BME",
+"number": "429S",
+"title": "Topics in Biomedical Engineering",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Biomedical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 529S",
+"subject": "BME",
+"number": "529S",
+"title": "Topics in Biomedical Engineering",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Biomedical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 629S",
+"subject": "BME",
+"number": "629S",
+"title": "Topics in Biomedical Engineering",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Biomedical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 729S",
+"subject": "BME",
+"number": "729S",
+"title": "Topics in Biomedical Engineering",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Biomedical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 829S",
+"subject": "BME",
+"number": "829S",
+"title": "Topics in Biomedical Engineering",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Biomedical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 929S",
+"subject": "BME",
+"number": "929S",
+"title": "Topics in Biomedical Engineering",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Biomedical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 333T",
+"subject": "BME",
+"number": "333T",
+"title": "Engineering Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Advanced communication skills for engineers, with emphasis on biomedical engineering topics. Strategies for written, visual, and interpersonal communication, and for oral presentation. Introduction to library research and to ethical decision making in biomedical engineering. Three lecture hours and one recitation hour a week for one semester. Only one of the following may be counted: Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Communication 333T, Electrical and Computer Engineering 333T, Electrical Engineering 333T, Engineering Studies 333T, Mechanical Engineering 333T, Petroleum and Geosystems Engineering 333T. Offered on the letter-grade basis only. Prerequisite: English 303C (or 603A) or Rhetoric and Writing 306 with a grade of at least C-.",
+"prereqText": "English 303C (or 603A) or Rhetoric and Writing 306 with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "E 303C"
+},
+{
+"type": "course",
+"id": "E 603A"
+},
+{
+"type": "course",
+"id": "RHE 306",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 335",
+"subject": "BME",
+"number": "335",
+"title": "Engineering Probability and Statistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Fundamentals of probability, random processes, and statistics with emphasis on biomedical engineering applications. Includes hypothesis testing, regression, and sample size calculations. The equivalent of four lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Biomedical Engineering 303 or Computational Engineering 301, and Mathematics 408D or 408M with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 303 or Computational Engineering 301, and Mathematics 408D or 408M with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 336",
+"subject": "BME",
+"number": "336",
+"title": "Cancer Bioengineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Comprehensive overview of the biology and pathology of cancer. Emphasis on the fundamental nature of cancer, the roles of genetics and the environment, and the contributions of heterotypic tissues in the tumor microenvironment. Exploration of current challenges in the field and ways that various engineering tools are transforming the future of cancer research. Three lecture hours a week for one semester. Biomedical Engineering 336 and 377T (Topic: Cancer Bioengineering) may not both be counted. Prerequisite: Upper-division standing, Biochemistry 369 and Biology 311C or 315H with a grade of at least C- in each.",
+"prereqText": "Upper-division standing, Biochemistry 369 and Biology 311C or 315H with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 337",
+"subject": "BME",
+"number": "337",
+"title": "Nanomedicine",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Explore the fundamental properties, synthesis, and characterization of nanomaterials, including their applications in nanomedicine. Discuss micro- and nano-particles for drug delivery and imaging, microfluidics for in vitro diagnostics and biological systems modeling, and nanomaterials and platforms for biological applications. Examine biomedical applications such as cancer, cardiovascular disease, and infectious diseases. Three lecture hours a week for one semester. Biomedical Engineering 337 and 377T (Topic: Nanomedicine) may not both be counted. Prerequisite: Biomedical Engineering 349 and 352 with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 349 and 352 with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 349",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "BME 352",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 338",
+"subject": "BME",
+"number": "338",
+"title": "Thin Film Mechanics",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Examine mechanical testing, design, and failure analysis of thin film structures and devices, with an emphasis on mechanics-related subjects including stress, fracture, delamination, and instability. Explore important technological applications of film materials, including integrated circuits, micro- and nano-electromechanical systems, flexible and stretchable electronics, bioelectronics, and surface coatings. Three lecture hours a week for one semester. Prerequisite: Biomedical Engineering 349 and 352 with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 349 and 352 with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 349",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "BME 352",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 339",
+"subject": "BME",
+"number": "339",
+"title": "Biochemical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Principles of fermentation and cell culture technologies; introduction to recombinant DNA technology and protein expression; the development of therapeutics, vaccines, and diagnostics using genetic engineering. The equivalent of four lecture hours a week for one semester. Only one of the following may be counted: Biology 335, Biomedical Engineering 339, 344C, 377T (Topic: Introduction to Therapeutics), Chemical Engineering 339, 344, 379 (Topic: Introduction to Therapeutics), Molecular Biosciences 337 (Topic: Introduction to Therapeutics). Prerequisite: Upper-division standing, Biochemistry 369 and Biology 311C or 315H with a grade of at least C- in each.",
+"prereqText": "Upper-division standing, Biochemistry 369 and Biology 311C or 315H with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 340",
+"subject": "BME",
+"number": "340",
+"title": "Soft Tissue Biomechanics",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Explore soft tissues and soft tissue mechanics. Examine fundamentals of continuum mechanics (kinematics, stress, balance of linear momentum, hyperelasticity), experimental and nonlinear finite element analysis of soft tissue mechanics, and relevant imaging modalities and facilities available on campus. Three lecture hours a week for one semester. Biomedical Engineering 340 and 377T (Topic: Soft Tissue Biomechanics) may not both be counted. Prerequisite: Biomedical Engineering 352 and 353 with a grade of at least C- in each; and consent of instructor.",
+"prereqText": "Biomedical Engineering 352 and 353 with a grade of at least C- in each; and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 352",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "BME 353",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 342",
+"subject": "BME",
+"number": "342",
+"title": "Biomechanics of Human Movement",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Modeling and simulation of human movement; neuromuscular control; computer applications; introduction to experimental techniques. Three lecture hours a week for one semester. Biomedical Engineering 342 and Mechanical Engineering 354M may not both be counted. Prerequisite: Biomedical Engineering 344 or Engineering Mechanics 319 with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 344 or Engineering Mechanics 319 with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "BME 344"
+},
+{
+"type": "course",
+"id": "E M 319",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 343",
+"subject": "BME",
+"number": "343",
+"title": "Biomedical Engineering Signal and Systems Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Signals and systems representation; sampling and quantization; time and frequency domains; Laplace and z-transforms, transfer functions, and frequency response; two-port networks; Bode plots; convolution; stability; Fourier series; Fourier transform; AM/FM modulation; filter design; and applications in biomedical engineering. Three lecture hours a week for one semester. Only one of the following may be counted: Biomedical Engineering 343, Electrical and Computer Engineering 313, 313H, Electrical Engineering 313. Offered on the letter-grade basis only. Prerequisite: The following coursework with a grade of at least C-: Biomedical Engineering 311 or Electrical and Computer Engineering 411 (or Electrical Engineering 411), Biomedical Engineering 313L or Computational Engineering 311K, and Mathematics 427J.",
+"prereqText": "The following coursework with a grade of at least C-: Biomedical Engineering 311 or Electrical and Computer Engineering 411 (or Electrical Engineering 411), Biomedical Engineering 313L or Computational Engineering 311K, and Mathematics 427J.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 344",
+"subject": "BME",
+"number": "344",
+"title": "Biomechanics",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Examine the principles of engineering mechanics and their applications to basic problems in biomechanics and biomedical engineering. Explore internal forces and deformations in solids, including stress, strain, tension, compression, torsion, bending, internal pressure, and failure analysis under combined mechanical loading. Three lecture hours a week for one semester. Biomedical Engineering 344 and 377T (Topic: Biomechanics) may not both be counted. Offered on the letter-grade basis only. Prerequisite: The following coursework with a grade of at least C-: Biomedical Engineering 303L, Mathematics 427J, and Physics 303K.",
+"prereqText": "The following coursework with a grade of at least C-: Biomedical Engineering 303L, Mathematics 427J, and Physics 303K.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 303L"
+},
+{
+"type": "course",
+"id": "M 427J"
+},
+{
+"type": "course",
+"id": "PHY 303K"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 344C",
+"subject": "BME",
+"number": "344C",
+"title": "Introduction to Therapeutics",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to the biological and engineering underpinnings of therapeutics discovery, development and manufacturing. Focus on the quantitative and engineering principles relevant to growing cells and producing molecules for commercial purposes, including basic growth kinetics and stoichiometry, simple bioreactor design and oxygen transfer. Three lecture hours a week for one semester. Only one of the following may be counted: Biology 335, Biomedical Engineering 339, 344C, 377T (Topic: Introduction to Therapeutics), Chemical Engineering 339, 344, 379 (Topic: Introduction to Therapeutics), Molecular Biosciences 337 (Topic: Introduction to Therapeutics). Prerequisite: Upper-division standing, Biochemistry 369, and Biology 311C or 315H with a grade of at least C- in each.",
+"prereqText": "Upper-division standing, Biochemistry 369, and Biology 311C or 315H with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 345",
+"subject": "BME",
+"number": "345",
+"title": "Graphics and Visualization Laboratory",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to techniques for graphical display of biological data. Subjects include transformations, geometric modeling, and two- and three-dimensional display algorithms. Includes computational projects with biomedical applications. Three lecture hours a week for one semester. Prerequisite: Electrical and Computer Engineering 422C (or Electrical Engineering 422C) and Mathematics 340L or 341 with a grade of at least C- in each.",
+"prereqText": "Electrical and Computer Engineering 422C (or Electrical Engineering 422C) and Mathematics 340L or 341 with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 245L",
+"subject": "BME",
+"number": "245L",
+"title": "Experimental Principles of Biomedical Engineering Design",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Exploration of biomedical engineering design principles through open-ended, hands-on research applications involving mechanical testing, cell culture, and biomaterials. Analysis and interpretation of experimental data, including written reporting of outcomes in scientific journal format. Two lecture hours and two laboratory hours a week for one semester. Biomedical Engineering 221 and 245L may not both be counted. Offered on the letter-grade basis only. Prerequisite: The following coursework with a grade of at least C-: Biology 206L, Biomedical Engineering 214L, Biomedical Engineering 335 or Mechanical Engineering 335, Biomedical Engineering 344 or Engineering Mechanics 319, and one of the following: Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Communication 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqText": "The following coursework with a grade of at least C-: Biology 206L, Biomedical Engineering 214L, Biomedical Engineering 335 or Mechanical Engineering 335, Biomedical Engineering 344 or Engineering Mechanics 319, and one of the following: Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Communication 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 346",
+"subject": "BME",
+"number": "346",
+"title": "Computational Biomolecular Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to computational structural biology and molecular modeling, including the fundamentals of biomolecular structure and molecular thermodynamics. The principles and applications of biomolecular modeling used to explore the critical relationship between structure, function, and thermodynamic driving forces in molecular biology. Three lecture hours a week for one semester. Prerequisite: The following coursework with a grade of at least C-: Biochemistry 369, Biology 311C or 315H, Biomedical Engineering 313L or Computational Engineering 311K, and one of the following: Biomedical Engineering 355, Chemistry 353 or 353M.",
+"prereqText": "The following coursework with a grade of at least C-: Biochemistry 369, Biology 311C or 315H, Biomedical Engineering 313L or Computational Engineering 311K, and one of the following: Biomedical Engineering 355, Chemistry 353 or 353M.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 347",
+"subject": "BME",
+"number": "347",
+"title": "Fundamentals of Biomedical Optics",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to the field of biophotonics. Subjects include light scattering theory, tissue optical properties, analytical and numerical techniques for determining light propagation in tissue, light-tissue interactions, and bioheat transfer including solution methods. Three lecture hours a week for one semester. Biomedical Engineering 347 and 377T (Topic: Fundamentals of Biomedical Engineering Optical Imaging) may not both be counted. Prerequisite: Biomedical Engineering 353 with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 353 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "BME 353",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 348",
+"subject": "BME",
+"number": "348",
+"title": "Modeling of Biomedical Engineering Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Lumped and distributed models of physiological system function from molecular through organismal levels. Linear system steady-state and transient behaviors. Interactions among multiple energy domains, including electrical, chemical, diffusional, mechanical, fluid, and thermal. Introduction to feedback control. Three lecture hours and two laboratory hours a week for one semester. Prerequisite: Biomedical Engineering 214L, and Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313) with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 214L, and Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313) with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 348P",
+"subject": "BME",
+"number": "348P",
+"title": "Introduction to Computational and Systems Biology",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to big data technology platforms, data science analytical algorithms and artificial intelligence in computational biology and medicine and network science. Examine DNA sequence alignment and search, high-throughput big data platforms and analysis, network science, multi-omics profiling, statistics, motif finding, molecular structure prediction, genome-wide association studies, artificial intelligence, and personalized precision medicine. Explore computational algorithms including hidden Markov model, clustering, classification methods, and others. Three lecture hours a week for one semester. Only one of the following may be counted: Biomedical Engineering 348P, 377T (Topic: Intro to Comp/Systems Bio), Chemistry 368 (Topic: Intro to Comp/Systems Bio), Computer Science 378 (Topic: Intro to Comp/Systems Bio). Prerequisite: The following coursework with a grade of at least C- in each: Biochemistry 369, Biology 311C or 315H, Biomedical Engineering 335 or Mechanical Engineering 335, and Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313).",
+"prereqText": "The following coursework with a grade of at least C- in each: Biochemistry 369, Biology 311C or 315H, Biomedical Engineering 335 or Mechanical Engineering 335, and Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313).",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 349",
+"subject": "BME",
+"number": "349",
+"title": "Biomedical Instrumentation",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to biomedical instrumentation, design, and applications. Emphasis on the complete instrumentation development cycle, design for bio-compatibility, safety and efficacy, and design considerations specific to various medical specialties. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313) with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "BME 343"
+},
+{
+"type": "course",
+"id": "ECE 313"
+},
+{
+"type": "course",
+"id": "ECE 313",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 350",
+"subject": "BME",
+"number": "350",
+"title": "Computational Methods for Biomedical Engineers",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Study of and hands-on experiences with computational methods commonly employed in biomedical engineering research. Three lecture hours a week for one semester. Biomedical Engineering 350 and 377T (Topic: Computational Methods for Biomedical Engineers) may not both be counted. Prerequisite: The following coursework with a grade of at least C-: Biomedical Engineering 313L or Computational Engineering 311K, Biomedical Engineering 214L, and Biomedical Engineering 335 or Mechanical Engineering 335.",
+"prereqText": "The following coursework with a grade of at least C-: Biomedical Engineering 313L or Computational Engineering 311K, Biomedical Engineering 214L, and Biomedical Engineering 335 or Mechanical Engineering 335.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 352",
+"subject": "BME",
+"number": "352",
+"title": "Engineering Biomaterials",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Overview of properties of metallic, ceramic, polymeric, and composite biomaterials used in biomedical applications. Material synthesis and processing. Analysis of mechanical and chemical properties, including stress-strain. Material interactions with the body and blood. Soft and hard biomaterials applications. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: The following coursework with a grade of at least C-: Biochemistry 369, and Biomedical Engineering 344 or Engineering Mechanics 319.",
+"prereqText": "The following coursework with a grade of at least C-: Biochemistry 369, and Biomedical Engineering 344 or Engineering Mechanics 319.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 353",
+"subject": "BME",
+"number": "353",
+"title": "Transport Phenomena in Living Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to the principles of heat, mass and momentum transfer and their application to solve problems in living systems. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: The following coursework with a grade of at least C-: Biomedical Engineering 311 or Electrical and Computer Engineering 411 (or Electrical Engineering 411); Biomedical Engineering 214L; Mathematics 427J; Physics 303L; and Physics 103N or 105N.",
+"prereqText": "The following coursework with a grade of at least C-: Biomedical Engineering 311 or Electrical and Computer Engineering 411 (or Electrical Engineering 411); Biomedical Engineering 214L; Mathematics 427J; Physics 303L; and Physics 103N or 105N.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 354",
+"subject": "BME",
+"number": "354",
+"title": "Molecular Sensors and Nanodevices for Biomedical Engineering Applications",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to major types of molecular sensor systems, device miniaturization, and detection mechanisms, including molecular capture mechanisms; electrical, optical, and mechanical transducers; micro-array analysis of biomolecules; semiconductor and metal nanosensors; microfluidic systems; and microelectromechanical systems (MEMS, BioMEMS) fabrication and applications for biomedical engineering. Three lecture hours a week for one semester. Prerequisite: The following coursework with a grade of at least C-: Biomedical Engineering 313L or Computational Engineering 311K, Biomedical Engineering 335 or Mechanical Engineering 335, and Biomedical Engineering 344 or Engineering Mechanics 319.",
+"prereqText": "The following coursework with a grade of at least C-: Biomedical Engineering 313L or Computational Engineering 311K, Biomedical Engineering 335 or Mechanical Engineering 335, and Biomedical Engineering 344 or Engineering Mechanics 319.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 355",
+"subject": "BME",
+"number": "355",
+"title": "Molecular Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Working principles of biomolecules such as proteins and nucleic acids. Physical and chemical basis for biomolecular structure, energetics, and function. Three hours of lecture a week for one semester. Offered on the letter-grade basis only. Prerequisite: The following coursework with a grade of at least C-: Biochemistry 369; Biology 311C or 315H; Mathematics 427J; Physics 303L; and Physics 103N or 105N.",
+"prereqText": "The following coursework with a grade of at least C-: Biochemistry 369; Biology 311C or 315H; Mathematics 427J; Physics 303L; and Physics 103N or 105N.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 356",
+"subject": "BME",
+"number": "356",
+"title": "Polymer and Bioconjugate Chemistry",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to synthetic principles of polymeric biomaterials and bioconjugate chemistry with an emphasis on synthetic strategies to achieve specific properties. Explores characterization methods of polymers and bioconjugates as a function of chemical composition, as well as tissue engineering and drug delivery applications as case studies of the biomaterial design process. Three lecture hours a week for one semester. Biomedical Engineering 356 and 377T (Topic: Polymer/Bioconjugate Chem) may not both be counted. Prerequisite: Biomedical Engineering 352 or Chemical Engineering 350 with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 352 or Chemical Engineering 350 with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "BME 352"
+},
+{
+"type": "course",
+"id": "CHE 350",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 357",
+"subject": "BME",
+"number": "357",
+"title": "Biomedical Imaging Modalities",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to major biomedical imaging modalities, including X-ray radiography, computed tomography (CT), nuclear medicine (SPECT and PET), magnetic resonance imaging (MRI), and ultrasound. Emphasis on principles, approaches, and applications of each imaging modality. Basic physics and imaging equations of the imaging system; hardware and software; sources of noise and primary artifacts; safety and patient risk. Three lecture hours and two laboratory hours a week for one semester. Prerequisite: Biomedical Engineering 349 and 261L with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 349 and 261L with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 349",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "BME 261L",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 358",
+"subject": "BME",
+"number": "358",
+"title": "Medical Decision Making",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Understanding of the nature of expertise and related subjects of cognitive psychology and human-made interaction to be able to design more effective systems for supporting medical decision making. Three lecture hours a week for one semester. Biomedical Engineering 358 and 377T (Topic: Medical Decision Making) may not both be counted. Prerequisite: The following coursework with a grade of at least C-: Biomedical Engineering 313L or Computational Engineering 311K, Biomedical Engineering 214L, and Biomedical Engineering 335 or Mechanical Engineering 335.",
+"prereqText": "The following coursework with a grade of at least C-: Biomedical Engineering 313L or Computational Engineering 311K, Biomedical Engineering 214L, and Biomedical Engineering 335 or Mechanical Engineering 335.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 358M",
+"subject": "BME",
+"number": "358M",
+"title": "Imaging Clinical Immersion",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Identify current unmet clinical needs via close interaction with healthcare professionals and patients. Explore biomedical imaging across the healthcare enterprise. Three lecture hours a week for one semester. Biomedical Engineering 358M and 377T (Topic: Imaging Clinical Immersion) may not both be counted. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 359",
+"subject": "BME",
+"number": "359",
+"title": "Cellular and Molecular Biomechanics",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to the concepts needed to understand and work in the emerging field of cellular and molecular biomechanics. Examination of dynamic interplay between chemical, thermal, and physical forces in determining the mechanics of cells/tissues and their molecular components. Three lecture hours a week for one semester. Prerequisite: Biomedical Engineering 344 or Engineering Mechanics 319, and Biomedical Engineering 353 with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 344 or Engineering Mechanics 319, and Biomedical Engineering 353 with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 261L",
+"subject": "BME",
+"number": "261L",
+"title": "Development and Analysis in Biomedical Engineering Design",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. The design and development of a working biomedical engineering device prototype. Focus on the full engineering design process, including reviews and documentation, and general project management strategies. Also considers the impact of markets, budgets, and the FDA on device requirements and design. Two lecture hours and three laboratory hours a week for one semester. Biomedical Engineering 251 and 261L may not both be counted. Offered on the letter-grade basis only. Prerequisite: The following coursework with a grade of at least C-: Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313), and Biomedical Engineering 245L.",
+"prereqText": "The following coursework with a grade of at least C-: Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313), and Biomedical Engineering 245L.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 362",
+"subject": "BME",
+"number": "362",
+"title": "Introduction to Nonlinear Dynamics in Biological Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to various concepts from nonlinear mathematics and their application to biological systems, ranging from sub-cellular to whole ecosystems levels of investigation. Three lecture hours a week for one semester. Biomedical Engineering 362 and 377T (Topic: Introduction to Nonlinear Dynamics in Biological Systems) may not both be counted. Prerequisite: Biomedical Engineering 313L or Computational Engineering 311K, and Biomedical Engineering 344 or Engineering Mechanics 319 with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 313L or Computational Engineering 311K, and Biomedical Engineering 344 or Engineering Mechanics 319 with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 362C",
+"subject": "BME",
+"number": "362C",
+"title": "Advanced Engineering Biomaterials",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Analyze biomaterials as components of biomedical implants and delivery vehicles. Discuss basic principles of biocompatibility and implant performance as well as material selection and structure-function relationships. Three lecture hours a week for one semester. Biomedical Engineering 362C and 377T (Topic: Advanced Engr Biomaterials) may not both be counted. Prerequisite: Biomedical Engineering 352 or Chemical Engineering 350 with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 352 or Chemical Engineering 350 with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "BME 352"
+},
+{
+"type": "course",
+"id": "CHE 350",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 362E",
+"subject": "BME",
+"number": "362E",
+"title": "Medical Device Innovation",
+"hours": 3.0,
+"division": "upper",
+"description": "Money, markets, and entrepreneurship with particular focus on medical and health markets. Two lecture hours a week for one semester. Additional hours to be arranged. Biomedical Engineering 362E and 277T (Topic: Medical Device Innovation: From Lab to Marketplace) may not both be counted."
+},
+{
+"id": "BME 363",
+"subject": "BME",
+"number": "363",
+"title": "Bioelectronics and Biointerfaces",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Examine critical concepts and strategies in materials development, electronics fabrication and genetic innovations that interface with biological systems. Explore neural interfacing technology, flexible electronics, wearable technology, bio-nanotechnology, and genetic engineering. Focus on the recently developed technology for recording and manipulating neural systems. Three lecture hours a week for one semester. Biomedical Engineering 363 and 377T (Topic: Bioelectronics/Biointerfaces) may not both be counted. Prerequisite: Biomedical Engineering 349 and 352 with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 349 and 352 with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 349",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "BME 352",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 363E",
+"subject": "BME",
+"number": "363E",
+"title": "Medical Device Design and Manufacturing",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Application of engineering principles in the conception, design and prototyping of medical devices. Development of team projects with emphasis on clinical and market needs analysis, creative and useful concept generation, engineering requirements and specifications, and written and oral reporting of intermediate and final prototype outcomes. Three lecture hours a week for one semester. Only one of the following may be counted: Biomedical Engineering 363E, 377T (Topic: Medical Device Design and Manufacturing), Mechanical Engineering 371D, 379M (Topic: Medical Device Design and Manu). Prerequisite: The following coursework with a grade of at least C-: Biomedical Engineering 349, 353, and 261L.",
+"prereqText": "The following coursework with a grade of at least C-: Biomedical Engineering 349, 353, and 261L.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 349"
+},
+{
+"type": "course",
+"id": "BME 353"
+},
+{
+"type": "course",
+"id": "BME 261L"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 364",
+"subject": "BME",
+"number": "364",
+"title": "Biological Responses to Medical Devices",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Explore common biological responses elicited by biomaterials and the impact of these responses on material performance. Emphasis on key challenges in the development and assessment of biomaterials used in medical devices. Includes material surface properties, modification, and characterization; protein/cell interactions with materials; biocompatibility, inflammation and wound healing, cell-mediated biodegradation of materials; thrombosis, infection and calcification of medical devices. Three lecture hours a week for one semester. Biomedical Engineering 364 and 377T (Topic: Biol Responses to Medical Dev) may not both be counted. Prerequisite: Biomedical Engineering 352 with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 352 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "BME 352",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 365",
+"subject": "BME",
+"number": "365",
+"title": "Tissue Microenvironments",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to, and hands-on applications for, fabrication/bioprinting of tissues on a chip and characterization of mechanical, thermal, transport, and cellular/tissue responses to varying properties of associated microenvironments. Three lecture hours a week for one semester. Biomedical Engineering 365 and 377T (Topic: Tiss Microenv Fab/Tran/Mech) may not both be counted. Prerequisite: Biomedical Engineering 352 and 353 with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 352 and 353 with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 352",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "BME 353",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 365R",
+"subject": "BME",
+"number": "365R",
+"title": "Quantitative Engineering Physiology I",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. A quantitative, model-oriented approach to human physiology, including basic cellular physiology, electrophysiology of nerve and muscle, the motor system, the central nervous system, and the cardiovascular system. The equivalent of four lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: The following coursework with a grade of at least C-: Biology 311C or 315H, Biomedical Engineering 214L, Physics 303L, and Physics 103N or 105N; and credit with a grade of at least C- or registration for: Biochemistry 369 and Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313).",
+"prereqText": "The following coursework with a grade of at least C-: Biology 311C or 315H, Biomedical Engineering 214L, Physics 303L, and Physics 103N or 105N; and credit with a grade of at least C- or registration for: Biochemistry 369 and Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313).",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 365S",
+"subject": "BME",
+"number": "365S",
+"title": "Quantitative Engineering Physiology II",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Biological control systems: sensory, renal, respiratory, and immune systems. Focuses on a quantitative, model-oriented approach to physiological systems. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Biomedical Engineering 365R with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 365R with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "BME 365R",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 366",
+"subject": "BME",
+"number": "366",
+"title": "Immune Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to various aspects and applications of immune engineering. Subjects include vaccine design, cancer immunotherapy, genomics, infection, auto-immune diseases and emerging tools and methodologies. Three lecture hours a week for one semester. Biomedical Engineering 366 and 377T (Topic: Immune Engineering) may not both be counted. Prerequisite: Biomedical Engineering 365R and 365S with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 365R and 365S with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 365R",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "BME 365S",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 367",
+"subject": "BME",
+"number": "367",
+"title": "Design of Artificial Organs",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Analysis of the design process for blood-contacting medical devices with an emphasis on ventricular assist devices. Application of computational fluid dynamics and blood rheology to computer-aided design and testing of devices using specific software programs and 3D printing of functioning prototypes. Three lecture hours a week for one semester. Biomedical Engineering 367 and 377T (Topic: Design of Artificial Organs) may not both be counted. Prerequisite: Credit with a grade of at least C- or registration for Biomedical Engineering 353 and 365R.",
+"prereqText": "Credit with a grade of at least C- or registration for Biomedical Engineering 353 and 365R.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 353"
+},
+{
+"type": "course",
+"id": "BME 365R"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 368",
+"subject": "BME",
+"number": "368",
+"title": "Introduction to Mathematical and Physical Biology",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to common mathematical and physical techniques used in modeling various aspects of biology at multiple spatial and temporal scales. Analyze critical techniques with words and pictures, and then equations including the computational implementation and simulation of those equations. Three lecture hours a week for one semester. Biomedical Engineering 368 and 377T (Topic: Intro Mathematical & Phys Bio) may not both be counted. Prerequisite: Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313) with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "BME 343"
+},
+{
+"type": "course",
+"id": "ECE 313"
+},
+{
+"type": "course",
+"id": "ECE 313",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 369",
+"subject": "BME",
+"number": "369",
+"title": "Biomimetic Design and Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Overview of the core concepts of biomimetic microengineering with particular focus on engineered microphysiological models of human organs, tissues and disease pathophysiology. Three lecture hours a week for one semester. Biomedical Engineering 369 and 377T (Topic: Biomimetic Dsgn/Engineering) may not both be counted. Prerequisite: Upper-division standing, Biochemistry 369 and Biology 311C or 315H with a grade of at least C- in each.",
+"prereqText": "Upper-division standing, Biochemistry 369 and Biology 311C or 315H with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 369C",
+"subject": "BME",
+"number": "369C",
+"title": "Matrices, Organoids, and Microphysiological Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Explore current technologies and scientific literature seeking to construct human-relevant, in vitro systems representing tissues, organs, and disease physiologies as platforms for development of new therapies. Focus on how concepts in biomaterials, stem cell biology, microfluidics, additive manufacturing, and biosensing are integrated to create such platforms. Three lecture hours a week for one semester. Biomedical Engineering 369C and 377T (Topic: Matrices/Organs/Microphys Sys) may not both be counted. Prerequisite: Biomedical Engineering 352 and 365S with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 352 and 365S with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 352",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "BME 365S",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 370",
+"subject": "BME",
+"number": "370",
+"title": "Biomedical Engineering Capstone Design I",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Structured methodologies for designing systems or to interface with living systems. Creative design, analysis, selection, development, and fabrication of biomedical components and systems. Two lecture hours and three laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: The following coursework with a grade of at least C-: Biomedical Engineering 349, 352, 353, 261L, and 365S.",
+"prereqText": "The following coursework with a grade of at least C-: Biomedical Engineering 349, 352, 353, 261L, and 365S.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 349"
+},
+{
+"type": "course",
+"id": "BME 352"
+},
+{
+"type": "course",
+"id": "BME 353"
+},
+{
+"type": "course",
+"id": "BME 261L"
+},
+{
+"type": "course",
+"id": "BME 365S"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 371",
+"subject": "BME",
+"number": "371",
+"title": "Biomedical Engineering Capstone Design II",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Development of team projects in biomedical engineering with emphasis on prototype development and quantitative analysis, and written and oral reporting of the outcome. Two lecture hours and four laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Biomedical Engineering 370 with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 370 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "BME 370",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 372",
+"subject": "BME",
+"number": "372",
+"title": "Computational Modeling of the Cardiovascular System",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Analyze mathematical models and simulations of the cardiovascular system. Examine biomechanical simulations including the biomechanical function of the heart, heart valves, and the vasculature. Three lecture hours a week for one semester. Biomedical Engineering 372 and 377T (Topic: Comput Modlg: Cardiovasc Sys) may not both be counted. Prerequisite: Biomedical Engineering 349 and 365R with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 349 and 365R with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 349",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "BME 365R",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 372P",
+"subject": "BME",
+"number": "372P",
+"title": "Mathematical Physiology",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Explore mathematical modeling in human physiology. Focus on how physiological problems can be formulated and modeled, and how such models give rise to interesting and challenging functional features. Examine several exemplar physiological systems and discuss the mathematical aspects of growth and remodeling in living systems, an area unique to living systems. Three lecture hours a week for one semester. Biomedical Engineering 372P and 377T (Topic: Mathematical Physiology) may not both be counted. Prerequisite: Biomedical Engineering 349 and 365S with a grade of at least C- in each and consent of instructor.",
+"prereqText": "Biomedical Engineering 349 and 365S with a grade of at least C- in each and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 349",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "BME 365S",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 373",
+"subject": "BME",
+"number": "373",
+"title": "Tissue, Scaffold, and Cell Biomechanics Applications",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Fundamentals of biosolid mechanics via the mechanical behavior of scaffolds and living tissues and cells. Emphasis on biomechanical applications to contemporary problems in biomedical research and medical devices. Three hours of lecture a week for one semester. Biomedical Engineering 373 and 377T (Topic: Cell, Tissue and Scaffold Biomechanics for Contemporary Biomedical Engineering Applications) may not both be counted. Prerequisite: The following coursework with a grade of at least C-: Biomedical Engineering 313L or Computational Engineering 311K, Biomedical Engineering 335 or Mechanical Engineering 335, Biomedical Engineering 344 or Engineering Mechanics 319, Biomedical Engineering 353, 365R, and 365S.",
+"prereqText": "The following coursework with a grade of at least C-: Biomedical Engineering 313L or Computational Engineering 311K, Biomedical Engineering 335 or Mechanical Engineering 335, Biomedical Engineering 344 or Engineering Mechanics 319, Biomedical Engineering 353, 365R, and 365S.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 374",
+"subject": "BME",
+"number": "374",
+"title": "Optical Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Explore the principles of optical design for imaging and laser delivery systems. Examine the development and testing of designs using optical design software. Three lecture hours a week for one semester. Biomedical Engineering 374 and 377T (Topic: Optical Design) may not both be counted. Prerequisite: Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313) with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "BME 343"
+},
+{
+"type": "course",
+"id": "ECE 313"
+},
+{
+"type": "course",
+"id": "ECE 313",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 374D",
+"subject": "BME",
+"number": "374D",
+"title": "Biomedical Engineering Microscopy Foundations Laboratory",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Explore finite and infinite imagery; conjugate planes, back focal plan manipulation, Abbe theory image formation, point spread functions, camera principles, fluorescence, and advanced fluorescence techniques, and build an optical microscope. One and a half lecture hours and three laboratory hours a week for one semester. Only one of the following may be counted: Biomedical Engineering 374D, 377T (Topic: Biomd Eng Mcrscpy Fndtn Lab), 377T (Microscopy Fundamentals). Prerequisite: Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313) with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "BME 343"
+},
+{
+"type": "course",
+"id": "ECE 313"
+},
+{
+"type": "course",
+"id": "ECE 313",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 374K",
+"subject": "BME",
+"number": "374K",
+"title": "Biomedical Instrument Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering and mechanical engineering majors. Application of electrical engineering principles in the design of electronic instrumentation at the circuit-board level for the measurement of pressure, temperature, flow, and impedance. Also includes the study of light intensity, bioelectric potentials, and stimulation devices such as pacemakers and defibrillators. Focus on design considerations specific to electro-medical environments, safety and efficacy, and public policy issues. Three lecture hours a week for one semester. Prerequisite: Electrical and Computer Engineering 438 (or Electrical Engineering 438) with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 438 (or Electrical Engineering 438) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 438"
+},
+{
+"type": "course",
+"id": "ECE 438",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering and mechanical engineering majors."
+},
+{
+"id": "BME 374L",
+"subject": "BME",
+"number": "374L",
+"title": "Applications of Biomedical Instrumentation Lab",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering and mechanical engineering majors. An in-depth examination of selected subjects in biomedical engineering, including optical and thermal properties of laser interaction with tissue; measurement of perfusion in the microvascular system; diagnostic imaging; interaction of living systems with electromagnetic fields; robotic surgical tools; ophthalmic instrumentation; and noninvasive cardiovascular measurements. Students have the opportunity to design analog and digital measurements and acquire and process meaningful biomedical signals. Three lecture hours and six laboratory hours a week for one semester. Prerequisite: One of the following with a grade of at least C-: Biomedical Engineering 349, 374K, Electrical and Computer Engineering 438 (or Electrical Engineering 438), or Electrical and Computer Engineering 374K (or Electrical Engineering 374K).",
+"prereqText": "One of the following with a grade of at least C-: Biomedical Engineering 349, 374K, Electrical and Computer Engineering 438 (or Electrical Engineering 438), or Electrical and Computer Engineering 374K (or Electrical Engineering 374K).",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering and mechanical engineering majors."
+},
+{
+"id": "BME 375",
+"subject": "BME",
+"number": "375",
+"title": "Stem Cells in Cell and Tissue Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Analysis of recent cell and tissue engineering applications of human embryonic stem cells (hESC) and induced pluripotent stem cells (iPSC). Focus on case studies of each organ in the human body and how it can be engineered using stem cells. Three lecture hours a week for one semester. Biomedical Engineering 375 and 377T (Topic: Stem Cells in Cell and Tissue Engineering) may not both be counted. Prerequisite: Biomedical Engineering 352 and 365S with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 352 and 365S with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 352",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "BME 365S",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 376",
+"subject": "BME",
+"number": "376",
+"title": "Cell Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to principles that govern the structure, organization, and processes at cellular and subcellular levels. Special focus on engineering and quantitative aspects of cellular machinery. Employs engineering approaches to study receptors, macromolecular complexes, and cellular signaling; clinical and pharmaceutical approaches to perturb cellular structure and function for disease prevention and drug design. State-of-the-art experimental and computational techniques to study cellular engineering. Three lecture hours a week for one semester. Prerequisite: Upper-division standing, Biochemistry 369 and Biology 311C or 315H with a grade of at least C- in each.",
+"prereqText": "Upper-division standing, Biochemistry 369 and Biology 311C or 315H with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 177",
+"subject": "BME",
+"number": "177",
+"title": "Undergraduate Research Project",
+"hours": 1.0,
+"division": "upper",
+"description": "Initiate opportunity individually and select project in conjunction with a faculty member on the Department of Biomedical Engineering's Graduate Studies Committee (GSC) or in another approved University department. A final written report or the equivalent is required. Recommended for students considering graduate study or medical school. Three, six, or nine laboratory hours a week for one semester."
+},
+{
+"id": "BME 277",
+"subject": "BME",
+"number": "277",
+"title": "Undergraduate Research Project",
+"hours": 2.0,
+"division": "upper",
+"description": "Initiate opportunity individually and select project in conjunction with a faculty member on the Department of Biomedical Engineering's Graduate Studies Committee (GSC) or in another approved University department. A final written report or the equivalent is required. Recommended for students considering graduate study or medical school. Three, six, or nine laboratory hours a week for one semester."
+},
+{
+"id": "BME 377",
+"subject": "BME",
+"number": "377",
+"title": "Undergraduate Research Project",
+"hours": 3.0,
+"division": "upper",
+"description": "Initiate opportunity individually and select project in conjunction with a faculty member on the Department of Biomedical Engineering's Graduate Studies Committee (GSC) or in another approved University department. A final written report or the equivalent is required. Recommended for students considering graduate study or medical school. Three, six, or nine laboratory hours a week for one semester."
+},
+{
+"id": "BME 377M",
+"subject": "BME",
+"number": "377M",
+"title": "Medical Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Initiate opportunity individually, which may include participation in a variety of medical and clinical activities which apply engineering principles to solve problems in healthcare. A substantial final report or the equivalent is required. Designed for students considering medical school. The equivalent of three lecture hours a week for one semester.",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 377R",
+"subject": "BME",
+"number": "377R",
+"title": "Off-Campus Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Initiate opportunity individually and select project in conjunction with a faculty member at an approved institution. A final written report or the equivalent is required. The equivalent of three lecture hours a week for one semester.",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 377S",
+"subject": "BME",
+"number": "377S",
+"title": "Industrial Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Practical work experience in industry or a government agency under the supervision of an engineer, scientist or business professional. A substantial final report or the equivalent is required. The equivalent of three lecture hours a week for one semester.",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 177T",
+"subject": "BME",
+"number": "177T",
+"title": "Topics in Biomedical Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Prerequisites vary with the topic.",
+"prereqText": "Prerequisites vary with the topic.",
+"prereqConfidence": "none",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 277T",
+"subject": "BME",
+"number": "277T",
+"title": "Topics in Biomedical Engineering",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Prerequisites vary with the topic.",
+"prereqText": "Prerequisites vary with the topic.",
+"prereqConfidence": "none",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 377T",
+"subject": "BME",
+"number": "377T",
+"title": "Topics in Biomedical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Prerequisites vary with the topic.",
+"prereqText": "Prerequisites vary with the topic.",
+"prereqConfidence": "none",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 678",
+"subject": "BME",
+"number": "678",
+"title": "Undergraduate Thesis in Biomedical Engineering",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Research performed during two consecutive semesters under the supervision of a biomedical engineering faculty member or other approved faculty member; topics are selected jointly by the student and faculty member. The student provides a progress report at the end of the first semester and writes a thesis and gives an oral presentation at the end of the second semester. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a Bachelor of Science in Biomedical Engineering may use this course to fulfill the thesis requirements for the Bachelor of Arts, Plan II. Prerequisite: For 678A, admission to the major sequence in biomedical engineering and a University grade point average of at least 3.50; for 678B, a University grade point average of at least 3.50 and Biomedical Engineering 678A.",
+"prereqText": "For 678A, admission to the major sequence in biomedical engineering and a University grade point average of at least 3.50; for 678B, a University grade point average of at least 3.50 and Biomedical Engineering 678A.",
+"prereq": {
+"type": "course",
+"id": "BME 678A"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 379",
+"subject": "BME",
+"number": "379",
+"title": "Tissue Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Introduction to biomedical research in tissue engineering. Includes case studies of tissues and organs of the body, physiology and biology of tissue, pathologies of tissue, current clinical treatments, the role of engineers in development of new technologies to diagnose and treat pathologies, quantitative cellular and molecular techniques, and applications of synthetic and natural biomaterials. Three lecture hours a week for one semester. Only one of the following may be counted: Biomedical Engineering 379, Chemical Engineering 339T, 379 (Topic: Cell and Tissue Engineering). Prerequisite: Biomedical Engineering 352 and 365S with a grade of at least C- in each.",
+"prereqText": "Biomedical Engineering 352 and 365S with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BME 352",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "BME 365S",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 679H",
+"subject": "BME",
+"number": "679H",
+"title": "Undergraduate Honors Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Biomedical Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Biomedical Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "BME 679HA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 180J",
+"subject": "BME",
+"number": "180J",
+"title": "Topics in the Fundamentals of Biomedical Engineering",
+"hours": 1.0,
+"division": "graduate",
+"description": "One or three lecture hours a week for one semester, or as required by the topic. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "BME 380J",
+"subject": "BME",
+"number": "380J",
+"title": "Topics in the Fundamentals of Biomedical Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "One or three lecture hours a week for one semester, or as required by the topic. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "BME 080M",
+"subject": "BME",
+"number": "080M",
+"title": "Dual MD/PhD Program with UT Medical Branch",
+"hours": 0.0,
+"division": "graduate",
+"description": "Preclinical medical study at the University of Texas Medical Branch at Galveston. May not be taken concurrently with another course at the University of Texas at Austin. Prerequisite: Graduate standing and admission to the MD/PhD dual degree program in biomedical engineering.",
+"prereqText": "Graduate standing and admission to the MD/PhD dual degree program in biomedical engineering.",
+"prereqConfidence": "none"
+},
+{
+"id": "BME 381J",
+"subject": "BME",
+"number": "381J",
+"title": "Topics in Cell and Molecular Imaging",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester, or as required by the topic. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in engineering and consent of instructor; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing in engineering and consent of instructor; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "BME 681M",
+"subject": "BME",
+"number": "681M",
+"title": "Normal Body Structure and Function",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program. Exploration of the structure and function of the human body at all levels of organization, from molecular and cellular to the integrated function of multiple organ systems attempting to maintain homeostasis. Emphasis on wellness and normal structure/function, in addition to the mechanistic disruptions that cause illness as well as the scientific rationale for methods to diagnose and treat selected diseases. Six lecture hours a week for one semester.",
+"restricted": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program."
+},
+{
+"id": "BME 382J",
+"subject": "BME",
+"number": "382J",
+"title": "Topics in Cellular and Biomolecular Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester, or as required by the topic. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in engineering and consent of instructor.",
+"prereqText": "Graduate standing in engineering and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "BME 682M",
+"subject": "BME",
+"number": "682M",
+"title": "Biodesign: Needs Identification",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the Clinical Innovation and Design Program. Identify concrete clinical needs via clinical immersion experience with healthcare professionals and patients. Apply engineering design methodologies to identify clinical needs based upon the most meaningful problems observed. Three lecture hours and three laboratory hours a week for one semester. Biomedical Engineering 682M and 385J (Topic: Biodsgn: Needs Identification) may not both be counted. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Clinical Innovation and Design Program."
+},
+{
+"id": "BME 383J",
+"subject": "BME",
+"number": "383J",
+"title": "Topics in Computational Biomedical Engineering and Bioinformatics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester, or as required by the topic. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in engineering and consent of instructor; additional prerequisites may vary with the topic.",
+"prereqText": "Graduate standing in engineering and consent of instructor; additional prerequisites may vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "BME 683M",
+"subject": "BME",
+"number": "683M",
+"title": "Biodesign: Entrepreneurship",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the Clinical Innovation and Design Program. Develop a team project in biomedical engineering with emphasis on detailed design and prototyping. Prepare a business plan designed to bring product to market or use in clinical practice. Three lecture hours and three laboratory hours a week for one semester. Biomedical Engineering 683M and 385J (Topic: Biodesign: Entrepreneurship) may not both be counted. Prerequisite: Consent of instructor and Biomedical Engineering 682M with a grade of at least C-.",
+"prereqText": "Consent of instructor and Biomedical Engineering 682M with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "BME 682M",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Clinical Innovation and Design Program."
+},
+{
+"id": "BME 384J",
+"subject": "BME",
+"number": "384J",
+"title": "Topics in Instrumentation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester, or as required by the topic. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in engineering and consent of instructor; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing in engineering and consent of instructor; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "BME 384T",
+"subject": "BME",
+"number": "384T",
+"title": "Topics in Biomechanics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Cockrell School of Engineering. Three lecture hours a week for one semester, or as required by the topic. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing and consent of instructor; additional prerequisites vary with the topic.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Cockrell School of Engineering."
+},
+{
+"id": "BME 385J",
+"subject": "BME",
+"number": "385J",
+"title": "Topics in Biomedical Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester, or as required by the topic. Biomedical Engineering 385J and 387J may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in engineering and consent of instructor.",
+"prereqText": "Graduate standing in engineering and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "BME 685M",
+"subject": "BME",
+"number": "685M",
+"title": "Mechanisms of Disease",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program. Overview of the disease-specific concepts required to participate in patient care by integrating clinical medicine, microbiology, pathology, and pharmacology into organ system modules, and the pathophysiology of diseases, the differential diagnosis of cardinal symptoms, and treatment modalities. Includes other concepts such as radiology and diagnostics. Six lecture hours a week for one semester.",
+"restricted": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program."
+},
+{
+"id": "BME 386J",
+"subject": "BME",
+"number": "386J",
+"title": "Biomedical Engineering Microscopy Foundations Laboratory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore finite and infinite imagery; conjugate planes, back focal plan manipulation, Abbe theory image formation, point spread functions, camera principles, fluorescence, and advanced fluorescence techniques. Build an optical microscope. One-and-one-half lecture hours and three laboratory hours a week for one semester. Only one of the following may be counted: Biomedical Engineering 381J (Topic: Biomd Eng Mcrscpy Fndtn Lab), 381J (Topic: Microscopy Fundamentals), 386J. Prerequisite: Graduate standing in engineering and consent of instructor; prior course in linear systems and signals.",
+"prereqText": "Graduate standing in engineering and consent of instructor; prior course in linear systems and signals.",
+"prereqConfidence": "none"
+},
+{
+"id": "BME 396",
+"subject": "BME",
+"number": "396",
+"title": "Research Internship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Students participate in research in an industry, clinic, or academic laboratory setting selected with the approval of the faculty adviser. At least twenty hours of fieldwork a week for one semester. May be counted only once toward either the master's or the doctoral degree. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 197",
+"subject": "BME",
+"number": "197",
+"title": "Research Problems",
+"hours": 1.0,
+"division": "graduate",
+"description": "Problems selected by the student with approval of the faculty adviser. For each semester hour of credit earned, three laboratory hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in biomedical engineering.",
+"prereqText": "Graduate standing in biomedical engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 297",
+"subject": "BME",
+"number": "297",
+"title": "Research Problems",
+"hours": 2.0,
+"division": "graduate",
+"description": "Problems selected by the student with approval of the faculty adviser. For each semester hour of credit earned, three laboratory hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in biomedical engineering.",
+"prereqText": "Graduate standing in biomedical engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 397",
+"subject": "BME",
+"number": "397",
+"title": "Research Problems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Problems selected by the student with approval of the faculty adviser. For each semester hour of credit earned, three laboratory hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in biomedical engineering.",
+"prereqText": "Graduate standing in biomedical engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 597",
+"subject": "BME",
+"number": "597",
+"title": "Research Problems",
+"hours": 5.0,
+"division": "graduate",
+"description": "Problems selected by the student with approval of the faculty adviser. For each semester hour of credit earned, three laboratory hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in biomedical engineering.",
+"prereqText": "Graduate standing in biomedical engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 697",
+"subject": "BME",
+"number": "697",
+"title": "Research Problems",
+"hours": 6.0,
+"division": "graduate",
+"description": "Problems selected by the student with approval of the faculty adviser. For each semester hour of credit earned, three laboratory hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in biomedical engineering.",
+"prereqText": "Graduate standing in biomedical engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 197D",
+"subject": "BME",
+"number": "197D",
+"title": "Deep Reading in Science and Engineering",
+"hours": 1.0,
+"division": "graduate",
+"description": "Analyze primary research articles with the goal of improving understanding of experimental design/methods, writing scientific articles and critiquing current research. The equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 197E",
+"subject": "BME",
+"number": "197E",
+"title": "Professional Responsibilities in Imaging",
+"hours": 1.0,
+"division": "graduate",
+"description": "One lecture hour a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 197M",
+"subject": "BME",
+"number": "197M",
+"title": "Mentoring Undergraduates in Research",
+"hours": 1.0,
+"division": "graduate",
+"description": "Designed to support and develop students' skills in mentoring undergraduates engaged in science, technology, engineering and mathematics (STEM) research. The equivalent of one lecture hour a week for one semester. Biomedical Engineering 180J (Topic: Research Mentoring) and 197M may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 197N",
+"subject": "BME",
+"number": "197N",
+"title": "Integrated Biomedical Engineering Seminar",
+"hours": 1.0,
+"division": "graduate",
+"description": "Designed to support students' professional development as well as their broad understanding of the biomedical engineering research enterprise. One lecture hour a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "BME 197P",
+"subject": "BME",
+"number": "197P",
+"title": "Graduate Professional Development Seminar",
+"hours": 1.0,
+"division": "graduate",
+"description": "Explores professional development goals of biomedical engineers. Subjects include an individual development plan, careers in academia, entrepreneurship, careers in industry, and more. For each semester hour of credit earned, one lecture hour a week for one semester. Offered on the credit/no credit basis only.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 297P",
+"subject": "BME",
+"number": "297P",
+"title": "Graduate Professional Development Seminar",
+"hours": 2.0,
+"division": "graduate",
+"description": "Explores professional development goals of biomedical engineers. Subjects include an individual development plan, careers in academia, entrepreneurship, careers in industry, and more. For each semester hour of credit earned, one lecture hour a week for one semester. Offered on the credit/no credit basis only.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 397P",
+"subject": "BME",
+"number": "397P",
+"title": "Graduate Professional Development Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explores professional development goals of biomedical engineers. Subjects include an individual development plan, careers in academia, entrepreneurship, careers in industry, and more. For each semester hour of credit earned, one lecture hour a week for one semester. Offered on the credit/no credit basis only.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 197S",
+"subject": "BME",
+"number": "197S",
+"title": "Graduate Seminar in Biomedical Engineering",
+"hours": 1.0,
+"division": "graduate",
+"description": "The equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 698",
+"subject": "BME",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in biomedical engineering and consent of the graduate adviser; for 698B, Biomedical Engineering 698A.",
+"prereqText": "For 698A, graduate standing in biomedical engineering and consent of the graduate adviser; for 698B, Biomedical Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "BME 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 398R",
+"subject": "BME",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in biomedical engineering and consent of the graduate adviser.",
+"prereqText": "Graduate standing in biomedical engineering and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 399W",
+"subject": "BME",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 699W",
+"subject": "BME",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 999W",
+"subject": "BME",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

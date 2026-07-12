@@ -1,0 +1,780 @@
+{
+"code": "GER",
+"name": "German",
+"courses": [
+{
+"id": "GER 604",
+"subject": "GER",
+"number": "604",
+"title": "Accelerated First-Year German",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester, with optional laboratory available. Only one of the following may be counted: German 601C, 604, 506. Only one of the following may be counted: German 601C, 604, 507, 507R, 508K."
+},
+{
+"id": "GER 506",
+"subject": "GER",
+"number": "506",
+"title": "First-Year German I",
+"hours": 5.0,
+"division": "lower",
+"description": "Basic training in grammatical patterns and usage of modern German. Five lecture hours a week for one semester. Only one of the following may be counted: German 601C, 604, 506."
+},
+{
+"id": "GER 507",
+"subject": "GER",
+"number": "507",
+"title": "First-Year German II",
+"hours": 5.0,
+"division": "lower",
+"description": "Advanced training in grammatical patterns and usage of modern German. Five lecture hours a week for one semester. Only one of the following may be counted: German 601C, 604, 507, 507R, 508K. Prerequisite: German 506 with a grade of at least C.",
+"prereqText": "German 506 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "GER 506",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GER 612",
+"subject": "GER",
+"number": "612",
+"title": "Accelerated Second-Year German: Readings in Modern German",
+"hours": 6.0,
+"division": "lower",
+"description": "Grammar review, composition, readings and recitation, discussion of literary works, and German culture. Six lecture hours a week for one semester. Only one of the following may be counted: German 611C, 612, 312K, 312R, 312V. Only one of the following may be counted: German 611C, 612, 312L, 312S, 312W. Prerequisite: German 604, 507, or 508K with a grade of at least C.",
+"prereqText": "German 604, 507, or 508K with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "GER 312K",
+"subject": "GER",
+"number": "312K",
+"title": "Second-Year German I: Readings in Humanities and Social Sciences",
+"hours": 3.0,
+"division": "lower",
+"description": "Three lecture hours a week for one semester. Only one of the following may be counted: German 611C, 612, 312K, 312R, 312V. Prerequisite: German 604, 507, or 508K with a grade of at least C.",
+"tccn": "GERM 2311",
+"prereqText": "German 604, 507, or 508K with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "GER 312L",
+"subject": "GER",
+"number": "312L",
+"title": "Second-Year German II: Readings in Humanities and Social Sciences",
+"hours": 3.0,
+"division": "lower",
+"description": "Three lecture hours a week for one semester. Only one of the following may be counted: German 611C, 612, 312L, 312S, 312W. Prerequisite: German 312K or 312V with a grade of at least C.",
+"tccn": "GERM 2312",
+"prereqText": "German 312K or 312V with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "GER 312K"
+},
+{
+"type": "course",
+"id": "GER 312V",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GER 312V",
+"subject": "GER",
+"number": "312V",
+"title": "Second-Year German I: Business German",
+"hours": 3.0,
+"division": "lower",
+"description": "German 312V covers the same material as 312K, but with readings, discussions, and exercises that focus on the business world. Emphasis on practical, career-oriented competence. Three lecture hours a week for one semester. Only one of the following may be counted: German 611C, 612, 312K, 312R, 312V. Prerequisite: German 604, 507, or 508K with a grade of at least C.",
+"prereqText": "German 604, 507, or 508K with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "GER 312W",
+"subject": "GER",
+"number": "312W",
+"title": "Second-Year German II: Business German",
+"hours": 3.0,
+"division": "lower",
+"description": "German 312W covers the same material as 312L, but with readings, discussions, and exercises that focus on the business world. Emphasis on practical, career-oriented competence. Three lecture hours a week for one semester. Only one of the following may be counted: German 611C, 612, 312L, 312S, 312W. Prerequisite: German 312K or 312V with a grade of at least C.",
+"prereqText": "German 312K or 312V with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "GER 312K"
+},
+{
+"type": "course",
+"id": "GER 312V",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GER 119S",
+"subject": "GER",
+"number": "119S",
+"title": "Topics in German",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 219S",
+"subject": "GER",
+"number": "219S",
+"title": "Topics in German",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 319S",
+"subject": "GER",
+"number": "319S",
+"title": "Topics in German",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 419S",
+"subject": "GER",
+"number": "419S",
+"title": "Topics in German",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 519S",
+"subject": "GER",
+"number": "519S",
+"title": "Topics in German",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 619S",
+"subject": "GER",
+"number": "619S",
+"title": "Topics in German",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 719S",
+"subject": "GER",
+"number": "719S",
+"title": "Topics in German",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 819S",
+"subject": "GER",
+"number": "819S",
+"title": "Topics in German",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 919S",
+"subject": "GER",
+"number": "919S",
+"title": "Topics in German",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 322D",
+"subject": "GER",
+"number": "322D",
+"title": "Conversation and Composition: Individuals and Society",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore everyday lives and language use in German-speaking societies through readings and media texts discussing popular culture, university life, and work. Focus on developing practical German skills: comprehension (reading and listening), speaking (conversations and informational presentations), and writing. Three lecture hours a week for one semester. German 322D and 328 may not both be counted. Prerequisite: German 612, 312L, or 312W.",
+"prereqText": "German 612, 312L, or 312W.",
+"prereqConfidence": "low"
+},
+{
+"id": "GER 322E",
+"subject": "GER",
+"number": "322E",
+"title": "Conversation and Composition: Contemporary Controversies",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore contemporary and often controversial issues confronting German-speaking populations (such as migration) through readings and diverse media texts. Produce oral and written work for specific audiences and purposes (recommendations, comparisons, evaluations), with a review of advanced grammar resources. Three lecture hours a week for one semester. Only one of the following may be counted: German 322E, 330C, 331L. Prerequisite: German 612, 312L, or 312W with a grade of at least C.",
+"prereqText": "German 612, 312L, or 312W with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "GER 328",
+"subject": "GER",
+"number": "328",
+"title": "Advanced German Grammar",
+"hours": 3.0,
+"division": "upper",
+"description": "Description of German sounds, grammatical structures, pronunciation, word formation. Three lecture hours a week for one semester. German 322D and 328 may not both be counted. Prerequisite: German 310, 612, 312L, 312S, 312W, or 317C with a grade of at least C.",
+"prereqText": "German 310, 612, 312L, 312S, 312W, or 317C with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "GER 129S",
+"subject": "GER",
+"number": "129S",
+"title": "Topics in German",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded to work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 229S",
+"subject": "GER",
+"number": "229S",
+"title": "Topics in German",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded to work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 329S",
+"subject": "GER",
+"number": "329S",
+"title": "Topics in German",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded to work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 429S",
+"subject": "GER",
+"number": "429S",
+"title": "Topics in German",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded to work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 529S",
+"subject": "GER",
+"number": "529S",
+"title": "Topics in German",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded to work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 629S",
+"subject": "GER",
+"number": "629S",
+"title": "Topics in German",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded to work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 729S",
+"subject": "GER",
+"number": "729S",
+"title": "Topics in German",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded to work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 829S",
+"subject": "GER",
+"number": "829S",
+"title": "Topics in German",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded to work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 929S",
+"subject": "GER",
+"number": "929S",
+"title": "Topics in German",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded to work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GER 330C",
+"subject": "GER",
+"number": "330C",
+"title": "Advanced Conversation and Composition: Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "German cultural material from print and visual media provides the basis for advanced conversation and composition, with considerable practice in the writing of short essays in German. Three lecture hours a week for one semester. Only one of the following may be counted: German 322E, 330C, 331L. Prerequisite: German 310, 612, 312L, 312S, 312W, or 317C with a grade of at least C.",
+"prereqText": "German 310, 612, 312L, 312S, 312W, or 317C with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "GER 130D",
+"subject": "GER",
+"number": "130D",
+"title": "German across Disciplines",
+"hours": 1.0,
+"division": "upper",
+"description": "Students read and discuss German language materials related to the subject matter of another designated course. One lecture hour a week for one semester. May be repeated for credit. Prerequisite: Three semester hours of upper-division coursework in German with a grade of at least C.",
+"prereqText": "Three semester hours of upper-division coursework in German with a grade of at least C.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 331L",
+"subject": "GER",
+"number": "331L",
+"title": "Advanced Conversation and Composition: Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "German literary material from print and visual media provides the basis for advanced conversation and composition, with considerable practice in the writing of short essays in German. Three lecture hours a week for one semester. Only one of the following may be counted: German 322E, 330C, 331L. Prerequisite: German 310, 612, 312L, 312S, 312W, or 317C with a grade of at least C.",
+"prereqText": "German 310, 612, 312L, 312S, 312W, or 317C with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "GER 342K",
+"subject": "GER",
+"number": "342K",
+"title": "Middle Ages-Early Modern Era Cultural History",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore German-language cultures between the Middle Ages and Early Modern Europe (ca. 1200 to 1750), from medieval kings through religious reforms, globalizing wars, and the rising middle class. Examine how texts reflect changing social, political, and religious values, tying stories and essays to important moments in emerging German-language cultures. Three lecture hours a week for one semester. German 340C and 342K may not both be counted. Prerequisite: Three semester hours of upper-division coursework in German with a grade of at least C.",
+"prereqText": "Three semester hours of upper-division coursework in German with a grade of at least C.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 343C",
+"subject": "GER",
+"number": "343C",
+"title": "Contemporary German Civilization",
+"hours": 3.0,
+"division": "upper",
+"description": "Cultural, social, and literary history of Germany between 1900 and reunification. Taught in German. Three lecture hours a week for one semester. German 343C and 344K may not both be counted. Prerequisite: Three semester hours of upper-division coursework in German with a grade of at least C.",
+"prereqText": "Three semester hours of upper-division coursework in German with a grade of at least C.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 343K",
+"subject": "GER",
+"number": "343K",
+"title": "Enlightenment to 1900 Cultural History",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore cultural movements through literature, essays, and philosophy from German-speaking Europe between absolutism and its imperial eras (circa 1750-1900). Focus on how texts reflect common themes and concerns of the emerging nation-states. Three lecture hours a week for one semester. German 343K and 346L may not both be counted. Prerequisite: Three semester hours of upper-division coursework in German with a grade of at least C.",
+"prereqText": "Three semester hours of upper-division coursework in German with a grade of at least C.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 344K",
+"subject": "GER",
+"number": "344K",
+"title": "Twentieth Century Cultural History",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore German-speaking Europe's century of global wars, modernization, and political transformations from World War I through World War II and the resonances of the Cold War. Focus on how cultural movements and landmark texts in literature, visual arts, film, and digital media reflect transformations in cultural history and social values. Three lecture hours a week for one semester. German 343C and 344K may not both be counted. Prerequisite: Three semester hours of upper-division coursework in German with a grade of at least C.",
+"prereqText": "Three semester hours of upper-division coursework in German with a grade of at least C.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 347L",
+"subject": "GER",
+"number": "347L",
+"title": "Language and Society in the German-speaking Countries",
+"hours": 3.0,
+"division": "upper",
+"description": "Uses language and linguistics to study the culture and society of the German-speaking countries. Taught in German. Three lecture hours a week for one semester. Prerequisite: Three semester hours of upper-division coursework in German with a grade of at least C.",
+"prereqText": "Three semester hours of upper-division coursework in German with a grade of at least C.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 348D",
+"subject": "GER",
+"number": "348D",
+"title": "German Play: Student Production",
+"hours": 3.0,
+"division": "upper",
+"description": "Discussion, staging, and production of a German play. Three hours of lecture or laboratory a week for one semester. Prerequisite: One of the following with a grade of at least C: German 612 or 312L.",
+"prereqText": "One of the following with a grade of at least C: German 612 or 312L.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "GER 612"
+},
+{
+"type": "course",
+"id": "GER 312L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GER 149T",
+"subject": "GER",
+"number": "149T",
+"title": "Introduction to Teaching German",
+"hours": 1.0,
+"division": "upper",
+"description": "Supervised individual instruction designed to offer students an introduction to principles of foreign language education and the opportunity to teach German in local elementary schools. Weekly class meetings for four weeks, followed by one, two, or three student teaching hours a week for eight weeks. Additional class meetings may also be required. May be repeated for credit, but no more than three semester hours may be counted toward a degree in the College of Liberal Arts. May not be counted toward a major in German. Prerequisite: Credit or registration for German 312L or the equivalent.",
+"prereqText": "Credit or registration for German 312L or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "GER 312L"
+},
+"prereqConfidence": "high",
+"excluded": "a major in German"
+},
+{
+"id": "GER 249T",
+"subject": "GER",
+"number": "249T",
+"title": "Introduction to Teaching German",
+"hours": 2.0,
+"division": "upper",
+"description": "Supervised individual instruction designed to offer students an introduction to principles of foreign language education and the opportunity to teach German in local elementary schools. Weekly class meetings for four weeks, followed by one, two, or three student teaching hours a week for eight weeks. Additional class meetings may also be required. May be repeated for credit, but no more than three semester hours may be counted toward a degree in the College of Liberal Arts. May not be counted toward a major in German. Prerequisite: Credit or registration for German 312L or the equivalent.",
+"prereqText": "Credit or registration for German 312L or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "GER 312L"
+},
+"prereqConfidence": "high",
+"excluded": "a major in German"
+},
+{
+"id": "GER 349T",
+"subject": "GER",
+"number": "349T",
+"title": "Introduction to Teaching German",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual instruction designed to offer students an introduction to principles of foreign language education and the opportunity to teach German in local elementary schools. Weekly class meetings for four weeks, followed by one, two, or three student teaching hours a week for eight weeks. Additional class meetings may also be required. May be repeated for credit, but no more than three semester hours may be counted toward a degree in the College of Liberal Arts. May not be counted toward a major in German. Prerequisite: Credit or registration for German 312L or the equivalent.",
+"prereqText": "Credit or registration for German 312L or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "GER 312L"
+},
+"prereqConfidence": "high",
+"excluded": "a major in German"
+},
+{
+"id": "GER 363K",
+"subject": "GER",
+"number": "363K",
+"title": "Topics in German Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of selected aspects of Germanic civilization, such as science and philosophy, fine arts, film, history, social institutions. Conducted in German. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Six semester hours of upper-division coursework in German.",
+"prereqText": "Six semester hours of upper-division coursework in German.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 369",
+"subject": "GER",
+"number": "369",
+"title": "Topics in Germanic Languages",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the phonology, morphology, syntax, dialectology, or lexicography of individual Germanic languages. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 373",
+"subject": "GER",
+"number": "373",
+"title": "Topics in Germanic Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Six semester hours of upper-division coursework in German.",
+"prereqText": "Six semester hours of upper-division coursework in German.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 179",
+"subject": "GER",
+"number": "179",
+"title": "Conference Course in Germanic Language or Literature",
+"hours": 1.0,
+"division": "upper",
+"description": "Supervised individual instruction course in which students engage in special studies necessary to expand their acquaintance with any subject in Germanic languages or literature. Conference course. May be repeated for credit. Prerequisite: Six semester hours of upper-division coursework in German.",
+"prereqText": "Six semester hours of upper-division coursework in German.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 279",
+"subject": "GER",
+"number": "279",
+"title": "Conference Course in Germanic Language or Literature",
+"hours": 2.0,
+"division": "upper",
+"description": "Supervised individual instruction course in which students engage in special studies necessary to expand their acquaintance with any subject in Germanic languages or literature. Conference course. May be repeated for credit. Prerequisite: Six semester hours of upper-division coursework in German.",
+"prereqText": "Six semester hours of upper-division coursework in German.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 379",
+"subject": "GER",
+"number": "379",
+"title": "Conference Course in Germanic Language or Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual instruction course in which students engage in special studies necessary to expand their acquaintance with any subject in Germanic languages or literature. Conference course. May be repeated for credit. Prerequisite: Six semester hours of upper-division coursework in German.",
+"prereqText": "Six semester hours of upper-division coursework in German.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 679H",
+"subject": "GER",
+"number": "679H",
+"title": "Honors Tutorial Course",
+"hours": 6.0,
+"division": "upper",
+"description": "Supervised individual research on a literary or linguistic problem, culminating in an honors paper of some length. Conference course for two semesters. Prerequisite: For 679HA, upper-division standing, six semester hours of upper-division German, a University grade point average of at least 3.00, a grade point average in German of at least 3.50, and admission to the Germanic Studies Honors Program; for 679HB, German 679HA.",
+"prereqText": "For 679HA, upper-division standing, six semester hours of upper-division German, a University grade point average of at least 3.00, a grade point average in German of at least 3.50, and admission to the Germanic Studies Honors Program; for 679HB, German 679HA.",
+"prereq": {
+"type": "course",
+"id": "GER 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GER 380C",
+"subject": "GER",
+"number": "380C",
+"title": "German for Graduate Students in Other Departments",
+"hours": 3.0,
+"division": "graduate",
+"description": "No auditors permitted. Intensive reading course, emphasizing basic grammar and vocabulary with translation practice. Three lecture hours a week for one semester. German 301 and 380C may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GER 381",
+"subject": "GER",
+"number": "381",
+"title": "Topics in Germanic Linguistics and Philology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing or consent of instructor.",
+"prereqText": "Graduate standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 382M",
+"subject": "GER",
+"number": "382M",
+"title": "Topics in Cultural History",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of various political, intellectual, artistic, and social movements in the cultures of Germanic countries. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing or consent of instructor.",
+"prereqText": "Graduate standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 382N",
+"subject": "GER",
+"number": "382N",
+"title": "Topics in Intellectual History",
+"hours": 3.0,
+"division": "graduate",
+"description": "An interdisciplinary investigation of the significance of ideological structures of thought in historical contexts. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing or consent of instructor.",
+"prereqText": "Graduate standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 185",
+"subject": "GER",
+"number": "185",
+"title": "Conference Course in Germanic Languages or Literature",
+"hours": 1.0,
+"division": "graduate",
+"description": "Conference course. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 285",
+"subject": "GER",
+"number": "285",
+"title": "Conference Course in Germanic Languages or Literature",
+"hours": 2.0,
+"division": "graduate",
+"description": "Conference course. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 385",
+"subject": "GER",
+"number": "385",
+"title": "Conference Course in Germanic Languages or Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Conference course. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 386",
+"subject": "GER",
+"number": "386",
+"title": "Topics in Periods in Germanic Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Thorough survey of the principal periods of Germanic literature. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing or consent of instructor.",
+"prereqText": "Graduate standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 389K",
+"subject": "GER",
+"number": "389K",
+"title": "Topics in Methods in the Study of Literature and Linguistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "An introduction to the critical and technical procedures used in Germanic studies, especially bibliographical aids. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing or consent of instructor.",
+"prereqText": "Graduate standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 392",
+"subject": "GER",
+"number": "392",
+"title": "Topics in Seminar in Germanic Literature and Culture",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of problems, topics, writers, genres, and movements in Germanic literature and culture. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing or consent of instructor.",
+"prereqText": "Graduate standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 393K",
+"subject": "GER",
+"number": "393K",
+"title": "Topics in Seminar in Germanic Linguistics and Philology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of linguistic topics in Germanic languages, such as grammar, morphology, phonology, dialectology, syntax, lexicology, sociolinguistics. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing or consent of instructor.",
+"prereqText": "Graduate standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 394C",
+"subject": "GER",
+"number": "394C",
+"title": "Topics in Comparative, Cultural, or Theoretical Studies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics with a substantial Germanic component or application that fall outside of national-language literary and linguistic studies. May include comparative national approaches to genre, culture, or society; interdisciplinary studies; and surveys or focused studies on approaches to theory or methodology that apply to Germanic studies. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing or consent of instructor.",
+"prereqText": "Graduate standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 397P",
+"subject": "GER",
+"number": "397P",
+"title": "Topics in Applied Linguistics and Pedagogy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing or consent of instructor.",
+"prereqText": "Graduate standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 698",
+"subject": "GER",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Germanic studies and consent of the graduate adviser; for 698B, German 698A.",
+"prereqText": "For 698A, graduate standing in Germanic studies and consent of the graduate adviser; for 698B, German 698A.",
+"prereq": {
+"type": "course",
+"id": "GER 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GER 398R",
+"subject": "GER",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in Germanic studies and consent of the graduate adviser.",
+"prereqText": "Graduate standing in Germanic studies and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GER 398T",
+"subject": "GER",
+"number": "398T",
+"title": "Supervised Teaching in German",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of the major foreign language teaching methodologies; curriculum and curricular materials development. Three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "GER 399W",
+"subject": "GER",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GER 699W",
+"subject": "GER",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GER 999W",
+"subject": "GER",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

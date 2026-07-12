@@ -1,0 +1,181 @@
+{
+"code": "MSE",
+"name": "Materials Science and Engineering",
+"courses": [
+{
+"id": "MSE 360M",
+"subject": "MSE",
+"number": "360M",
+"title": "Experiments in Materials Science and Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Engineering Studies 360M. Hands-on lab-based course designed to teach practical techniques in the synthesis and characterization of materials and their properties, and to use experiments to explore fundamental and potentially abstract materials concepts. Four-and-one-half laboratory hours a week for one semester. Only one of the following may be counted: Engineering Studies 360M, 377 (Topic: Experiments in Materials Science and Engineering), Materials Science and Engineering 360M. Prerequisite: Chemistry 301, Math 408C, 408D and 427J, and Physics 303K and 303L. For students in majors that offer an introductory materials science and engineering course, it is advised to take it prior to taking this course.",
+"prereqText": "Chemistry 301, Math 408C, 408D and 427J, and Physics 303K and 303L. For students in majors that offer an introductory materials science and engineering course, it is advised to take it prior to taking this course.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CH 301"
+},
+{
+"type": "course",
+"id": "M 408C"
+},
+{
+"type": "course",
+"id": "M 408D"
+},
+{
+"type": "course",
+"id": "M 427J"
+},
+{
+"type": "course",
+"id": "PHY 303K"
+},
+{
+"type": "course",
+"id": "PHY 303L"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Engineering Studies 360M"
+},
+{
+"id": "MSE 386P",
+"subject": "MSE",
+"number": "386P",
+"title": "Topics in Materials Science: Fundamentals",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor; additional prerequisites may vary with the topic.",
+"prereqText": "Graduate standing and consent of instructor; additional prerequisites may vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "MSE 389",
+"subject": "MSE",
+"number": "389",
+"title": "Topics in Materials Science and Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor; additional prerequisites may vary with the topic.",
+"prereqText": "Graduate standing and consent of instructor; additional prerequisites may vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "MSE 397",
+"subject": "MSE",
+"number": "397",
+"title": "Graduate Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Presentation of research topics by invited speakers, faculty, and students. Three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MSE 197R",
+"subject": "MSE",
+"number": "197R",
+"title": "Research",
+"hours": 1.0,
+"division": "graduate",
+"description": "Individual research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MSE 297R",
+"subject": "MSE",
+"number": "297R",
+"title": "Research",
+"hours": 2.0,
+"division": "graduate",
+"description": "Individual research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MSE 397R",
+"subject": "MSE",
+"number": "397R",
+"title": "Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Individual research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MSE 698",
+"subject": "MSE",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in materials science and engineering and consent of the graduate adviser; for 698B, Materials Science and Engineering 698A.",
+"prereqText": "For 698A, graduate standing in materials science and engineering and consent of the graduate adviser; for 698B, Materials Science and Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "MSE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MSE 398R",
+"subject": "MSE",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in materials science and engineering and consent of the graduate adviser.",
+"prereqText": "Graduate standing in materials science and engineering and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MSE 399W",
+"subject": "MSE",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Research leading to the Doctor of Philosophy in materials science and engineering. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MSE 699W",
+"subject": "MSE",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "Research leading to the Doctor of Philosophy in materials science and engineering. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MSE 999W",
+"subject": "MSE",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "Research leading to the Doctor of Philosophy in materials science and engineering. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

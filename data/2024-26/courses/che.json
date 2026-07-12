@@ -1,0 +1,1492 @@
+{
+"code": "CHE",
+"name": "Chemical Engineering",
+"courses": [
+{
+"id": "CHE 102",
+"subject": "CHE",
+"number": "102",
+"title": "Introduction to Chemical Engineering",
+"hours": 1.0,
+"division": "lower",
+"description": "Restricted to freshmen. Introduction to chemical engineering, including problem solving and study skills. Opportunities and responsibilities of a career in chemical engineering. One lecture hour and one recitation hour a week for one semester. May not be counted toward any engineering degree. Offered on the pass/fail basis only.",
+"restricted": "Restricted to freshmen.",
+"excluded": "any engineering degree",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CHE 103",
+"subject": "CHE",
+"number": "103",
+"title": "Introduction to Undergraduate Research",
+"hours": 1.0,
+"division": "lower",
+"description": "Restricted to freshmen. Introduction to undergraduate research including the structure of academic research, how to access research resources on campus, and foundational skills to succeed in a research environment One lecture hour and one recitation hour a week for one semester. Offered on the pass/fail basis only.",
+"restricted": "Restricted to freshmen.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CHE 210",
+"subject": "CHE",
+"number": "210",
+"title": "Introduction to Computing",
+"hours": 2.0,
+"division": "lower",
+"description": "Restricted to chemical engineering majors. Computer programming focusing on basics of computing, high-level programming environments, and spreadsheets, with application to chemical engineering. Two lecture hours and one laboratory hour a week for one semester. Chemical engineering majors must make a grade of at least C- in this course.",
+"restricted": "Restricted to chemical engineering majors."
+},
+{
+"id": "CHE 311",
+"subject": "CHE",
+"number": "311",
+"title": "Engineering Sustainable Technologies",
+"hours": 3.0,
+"division": "lower",
+"description": "Flows of materials and energy in engineering environments at local, regional, and global scales, and the interaction of those anthropogenic flows with natural cycles of materials and energy. Discusses biogeochemical flows (grand cycles) and anthropogenic material flows at the national level, in industrial sectors, and for consumer products. Three lecture hours a week for one semester. Prerequisite: A high school course in chemistry and experience with Internet searches.",
+"prereqText": "A high school course in chemistry and experience with Internet searches.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 317",
+"subject": "CHE",
+"number": "317",
+"title": "Introduction to Chemical Engineering Analysis",
+"hours": 3.0,
+"division": "lower",
+"description": "Principles and applications of material and energy balances in process analysis. Three lecture hours and one to two recitation hours a week for one semester. Chemical engineering majors must make a grade of at least C- in this course in order to take upper-division courses in chemical engineering. Prerequisite: Chemical Engineering 210, Chemistry 302, and Mathematics 408D or 408M with a grade of at least C- in each.",
+"prereqText": "Chemical Engineering 210, Chemistry 302, and Mathematics 408D or 408M with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "CHE 018C",
+"subject": "CHE",
+"number": "018C",
+"title": "Peer Mentorship",
+"hours": 0.0,
+"division": "lower",
+"description": "Restricted enrollment; contact the department for permission to take this course. Best practices for delivery of tutoring and/or grading for undergraduate chemical engineering majors. May be repeated for credit. Offered on the pass/fail basis only.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CHE 319",
+"subject": "CHE",
+"number": "319",
+"title": "Transport Phenomena",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to chemical engineering majors. Basic study of momentum, energy, and mass transport. Includes viscous and turbulent flow, heat transfer, and mass diffusion. Three lecture hours and one to two recitation hours a week for one semester. Chemical Engineering 319 and Chemical Engineering 353 may not both be counted. Prerequisite: Chemical Engineering 317 and Mathematics 427J with a grade of at least C- in each.",
+"prereqText": "Chemical Engineering 317 and Mathematics 427J with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHE 317",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "M 427J",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to chemical engineering majors."
+},
+{
+"id": "CHE 119S",
+"subject": "CHE",
+"number": "119S",
+"title": "Topics in Chemical Engineering",
+"hours": 1.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 219S",
+"subject": "CHE",
+"number": "219S",
+"title": "Topics in Chemical Engineering",
+"hours": 2.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 319S",
+"subject": "CHE",
+"number": "319S",
+"title": "Topics in Chemical Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 419S",
+"subject": "CHE",
+"number": "419S",
+"title": "Topics in Chemical Engineering",
+"hours": 4.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 519S",
+"subject": "CHE",
+"number": "519S",
+"title": "Topics in Chemical Engineering",
+"hours": 5.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 619S",
+"subject": "CHE",
+"number": "619S",
+"title": "Topics in Chemical Engineering",
+"hours": 6.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 719S",
+"subject": "CHE",
+"number": "719S",
+"title": "Topics in Chemical Engineering",
+"hours": 7.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 819S",
+"subject": "CHE",
+"number": "819S",
+"title": "Topics in Chemical Engineering",
+"hours": 8.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 919S",
+"subject": "CHE",
+"number": "919S",
+"title": "Topics in Chemical Engineering",
+"hours": 9.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 322",
+"subject": "CHE",
+"number": "322",
+"title": "Thermodynamics",
+"hours": 3.0,
+"division": "upper",
+"description": "Introductory course in thermodynamics with special reference to chemical process applications: basic laws, thermodynamic properties of single component systems, expansion and compression of fluids, heat engines, multicomponent systems, physical equilibrium, chemical equilibrium. Three lecture hours and two recitation hour a week for one semester. Chemical engineering majors must make a grade of at least C- in this course. Prerequisite: Chemical Engineering 210, 317, Chemistry 353, and Mathematics 427J with a grade of at least C- in each.",
+"prereqText": "Chemical Engineering 210, 317, Chemistry 353, and Mathematics 427J with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHE 210",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "CHE 317",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "CH 353",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "M 427J",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 322M",
+"subject": "CHE",
+"number": "322M",
+"title": "Molecular Thermodynamics",
+"hours": 3.0,
+"division": "upper",
+"description": "Statistical and molecular concepts, especially the role of the microscopic chemical potential. Three lecture hours a week for one semester. Chemical Engineering 322M and 379 (Topic: Molecular Thermodynamics) may not both be counted. Prerequisite: Chemical Engineering 322.",
+"prereqText": "Chemical Engineering 322.",
+"prereq": {
+"type": "course",
+"id": "CHE 322"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 323",
+"subject": "CHE",
+"number": "323",
+"title": "Chemical Engineering for Micro- and Nanofabrication",
+"hours": 3.0,
+"division": "upper",
+"description": "Definition and description of the terminology and processes of microelectronics, including semiconductor facilities and chemical processes for integrated circuit manufacture, with an emphasis on unit processes; the major unit process, including thin-film metals and dielectrics deposition and etching, silicon oxidation and etching, ion implantation, diffusion, lithography, planarization, and process control; and an overview of promising nanopatterning and nanofabrication techniques, such as particle-beam imaging, nanoimprint, and near-field probe imaging, implantation, diffusion, lithography, planarization, and process control. Three lecture hours a week for one semester. Prerequisite: Chemistry 328M and 328N.",
+"prereqText": "Chemistry 328M and 328N.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CH 328M"
+},
+{
+"type": "course",
+"id": "CH 328N"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 129S",
+"subject": "CHE",
+"number": "129S",
+"title": "Topics in Chemical Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 229S",
+"subject": "CHE",
+"number": "229S",
+"title": "Topics in Chemical Engineering",
+"hours": 2.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 329S",
+"subject": "CHE",
+"number": "329S",
+"title": "Topics in Chemical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 429S",
+"subject": "CHE",
+"number": "429S",
+"title": "Topics in Chemical Engineering",
+"hours": 4.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 529S",
+"subject": "CHE",
+"number": "529S",
+"title": "Topics in Chemical Engineering",
+"hours": 5.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 629S",
+"subject": "CHE",
+"number": "629S",
+"title": "Topics in Chemical Engineering",
+"hours": 6.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 729S",
+"subject": "CHE",
+"number": "729S",
+"title": "Topics in Chemical Engineering",
+"hours": 7.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 829S",
+"subject": "CHE",
+"number": "829S",
+"title": "Topics in Chemical Engineering",
+"hours": 8.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 929S",
+"subject": "CHE",
+"number": "929S",
+"title": "Topics in Chemical Engineering",
+"hours": 9.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 333T",
+"subject": "CHE",
+"number": "333T",
+"title": "Engineering Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Advanced technical communication skills, with emphasis on writing strategies for technical documents, oral presentations, and visual aids. Three lecture hours a week for one semester. Only one of the following may be counted: Aerospace Engineering 333T, Biomedical Engineering 333T, Communication 333T, Civil Engineering 333T, Chemical Engineering 333T, Electrical and Computer Engineering 333T, Electrical Engineering 333T, Engineering Studies 333T, Mechanical Engineering 333T, Petroleum and Geosystems Engineering 333T. Prerequisite: Rhetoric and Writing 306 with a grade of at least C-.",
+"prereqText": "Rhetoric and Writing 306 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "RHE 306",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 337",
+"subject": "CHE",
+"number": "337",
+"title": "Quantitative Analysis of Cellular and Molecular Biology",
+"hours": 3.0,
+"division": "upper",
+"description": "Analyzes biological systems from stoichiometric, thermodynamic, and kinetic perspectives. Case studies will illustrate how these principles are used to understand disease, control cellular behavior, and design protein-based therapeutics. Three lecture hours a week for one semester. Only one of the following may be counted: Biochemistry 350, Chemical Engineering 337, 379 (Topic: Quantitative Analysis of Cellular and Molecular Biology). Offered on the letter-grade basis only. Prerequisite: Biology 311D and Chemical Engineering 317.",
+"prereqText": "Biology 311D and Chemical Engineering 317.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BIO 311D"
+},
+{
+"type": "course",
+"id": "CHE 317"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 338",
+"subject": "CHE",
+"number": "338",
+"title": "Biochemical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to chemical engineering majors. Introduction to basic biological processes including transcription, translation, protein/enzyme function, cellular energetics, protein secretion and modifications. Application of quantitative engineering principles to the analysis of biological processes, including thermodynamics, kinetics and stoichiometry. Three lecture hours a week for one semester. Chemical Engineering 338 and 379 (Topic: Biochemical Engineering) may not both be counted. Offered on the letter-grade basis only. Prerequisite: Chemical Engineering 317 with a grade of at least C-.",
+"prereqText": "Chemical Engineering 317 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "CHE 317",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to chemical engineering majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 339",
+"subject": "CHE",
+"number": "339",
+"title": "Introduction to Biochemical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Microorganisms in chemical and biochemical syntheses; genetic manipulation of cells by classical and recombinant DNA techniques. Enzyme technology; design of bioreactors and microbial fermentations; separations of biological products. Three lecture hours a week for one semester. Only one of the following may be counted: Biology 335, Biomedical Engineering 339, 344C, 377T (Topic: Introduction to Therapeutics), Chemical Engineering 339, 344, 379 (Topic: Introduction to Therapeutics), Molecular Biosciences 337 (Topic: Introduction to Therapeutics). Prerequisite: Biology 311C or Chemical Engineering 338 and Chemistry 353.",
+"prereqText": "Biology 311C or Chemical Engineering 338 and Chemistry 353.",
+"prereqConfidence": "low"
+},
+{
+"id": "CHE 339P",
+"subject": "CHE",
+"number": "339P",
+"title": "Introduction to Biological Physics",
+"hours": 3.0,
+"division": "upper",
+"description": "Diffusion, dissipation, and driving forces in cellular processes. Locomotion of bacteria, basic modeling of biomolecular folding and binding events, osmotic flows, and self-assembly in cells. Three lecture hours a week for one semester. Chemical Engineering 339P and 379 (Topic: Molecular Driving Force in Biology) may not both be counted. Prerequisite: Chemical Engineering 319 (or 353), 322, and 253K with a grade of at least C- in each, or consent of the department.",
+"prereqText": "Chemical Engineering 319 (or 353), 322, and 253K with a grade of at least C- in each, or consent of the department.",
+"prereqConfidence": "low"
+},
+{
+"id": "CHE 339T",
+"subject": "CHE",
+"number": "339T",
+"title": "Cell and Tissue Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to biomedical research in tissue engineering. Includes case studies of tissues and organs of the body, physiology and biology of tissue, pathologies of tissue, current clinical treatments, the role of engineers in development of new technologies to diagnose and treat pathologies, quantitative cellular and molecular techniques, and applications of synthetic and natural biomaterials. Three lecture hours a week for one semester. Only one of the following may be counted: Biomedical Engineering 379, Chemical Engineering 339T, 379 (Topic: Cell and Tissue Engineering). Prerequisite: Biology 311C and Chemical Engineering 350.",
+"prereqText": "Biology 311C and Chemical Engineering 350.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BIO 311C"
+},
+{
+"type": "course",
+"id": "CHE 350"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 341",
+"subject": "CHE",
+"number": "341",
+"title": "Design for Environment",
+"hours": 3.0,
+"division": "upper",
+"description": "Overview of environmental assessment tools for chemical processes and products, including life cycle and risk assessments. Overview of design tools for improving environmental performance of chemical processes, including unit operations and flowsheet analysis methods. Three lecture hours a week for one semester."
+},
+{
+"id": "CHE 342",
+"subject": "CHE",
+"number": "342",
+"title": "Chemical Engineering Economics and Business Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of the economic decisions faced by chemical engineers. Discounted cash flow techniques. Personal finance, managerial economics, and other special topics. Three lecture hours a week for one semester. Only one of the following may be counted: Chemical Engineering 342, 384 (Topic: Chemical Engineering Economics and Business Analysis), 395G."
+},
+{
+"id": "CHE 343",
+"subject": "CHE",
+"number": "343",
+"title": "Molecular Simulation of Materials",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to basic molecular simulation techniques including molecular mechanics, molecular dynamics, and Monte Carlo method. Understanding of principles underlying these techniques, and how these techniques can be used to study the physical and chemical properties and behavior of materials at the molecular level. More advanced topics include molecular simulations in various ensembles (NVE, NVT, NPT, grand canonical), free energy computations, controlling dynamics, and association-bias Monte Carlo method. Elementary knowledge of physical chemistry, classical mechanics, and statistical thermodynamics is assumed. Three lecture hours a week for one semester. Chemical Engineering 343 and 379 (Topic: Simulation of Materials) may not both be counted. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 344",
+"subject": "CHE",
+"number": "344",
+"title": "Introduction to Therapeutics",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to chemical engineering majors. Three lecture hours a week for one semester. Only one of the following may be counted: Biology 335, Biomedical Engineering 339, 344C, 377T (Topic: Introduction to Therapeutics), Chemical Engineering 339, 344, 379 (Topic: Introduction to Therapeutics), Molecular Biosciences 337 (Topic: Introduction to Therapeutics). Prerequisite: Biology 311C or Chemical Engineering 338; and Biochemistry 369, 339F, or Chemistry 353.",
+"prereqText": "Biology 311C or Chemical Engineering 338; and Biochemistry 369, 339F, or Chemistry 353.",
+"prereqConfidence": "low",
+"restricted": "Restricted to chemical engineering majors."
+},
+{
+"id": "CHE 346F",
+"subject": "CHE",
+"number": "346F",
+"title": "Atmospheric Chemistry and Physics",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the sources of air pollutants and the chemical reactions and physical processes that affect them. Explore tropospheric chemistry and the microphysics, chemistry, and thermodynamics of atmospheric nanoparticles. Discuss aerosol transmission of viruses and mitigation of that transmission, as well as recent advances in understanding air pollution and its health effects. Three lecture hours a week for one semester. Chemical Engineering 346F and 379 (Topic: Atmospheric and Chem/Physics) may not both be counted Offered on the letter-grade basis only. Prerequisite: Upper-division standing and consent of the instructor.",
+"prereqText": "Upper-division standing and consent of the instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 348",
+"subject": "CHE",
+"number": "348",
+"title": "Numerical Methods in Chemical Engineering and Problem Solving",
+"hours": 3.0,
+"division": "upper",
+"description": "Numerical solutions to algebraic and differential equations; numerical methods to integration, interpolation, and regression analysis, with application to chemical engineering. Three lecture hours and one recitation hour a week for one semester. Chemical engineering majors must make a grade of at least C- in this course. Prerequisite: Chemical Engineering 210, 317, and Mathematics 427J with a grade of at least C- in each.",
+"prereqText": "Chemical Engineering 210, 317, and Mathematics 427J with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHE 210",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "CHE 317",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "M 427J",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 349D",
+"subject": "CHE",
+"number": "349D",
+"title": "Dynamics in Ecology and the Environment",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the Earth's natural processes, populations, and systems. Explore the Earth's dynamic systems and how they change with time in response to a variety of disturbances. Use mathematical models to aid in understanding these dynamic systems and to estimate the impact of manmade disturbances. Discuss current environmental and ecological problems. Three lecture hours a week for one semester. Chemical Engineering 349D and 379 (Topic: Dynamics in Eco and Env) may not both be counted. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 350",
+"subject": "CHE",
+"number": "350",
+"title": "Chemical Engineering Materials",
+"hours": 3.0,
+"division": "upper",
+"description": "Metallic, ceramic, polymeric, and composite materials. Crystal structures, phase diagrams, diffusion, and mechanical properties. Emphasis on structure-property-processing relationships. Three lecture hours a week for one semester. Prerequisite: Chemistry 353 with a grade of at least C-.",
+"prereqText": "Chemistry 353 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "CH 353",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 253K",
+"subject": "CHE",
+"number": "253K",
+"title": "Applied Statistics",
+"hours": 2.0,
+"division": "upper",
+"description": "Statistical methods such as data exploration and summary, least-squares fitting, probability and probability distributions, statistical inference and hypothesis testing, analysis of variance, design of experiments, statistical quality control, and use of professional statistical software. Two lecture hours a week and one recitation hour a week for one semester. Chemical engineering majors must make a grade of at least C- in this course. Prerequisite: Credit with a grade of at least a C- or registration for Chemical Engineering 317; and the following coursework with a grade of at least a C- in each Chemical Engineering 210 and Mathematics 427J.",
+"prereqText": "Credit with a grade of at least a C- or registration for Chemical Engineering 317; and the following coursework with a grade of at least a C- in each Chemical Engineering 210 and Mathematics 427J.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHE 317",
+"minGrade": "A"
+},
+{
+"type": "course",
+"id": "CHE 210"
+},
+{
+"type": "course",
+"id": "M 427J"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 253M",
+"subject": "CHE",
+"number": "253M",
+"title": "Measurement, Control, and Data Analysis Laboratory",
+"hours": 2.0,
+"division": "upper",
+"description": "Laboratory safety; measurement and statistical analysis of transport process variables like temperature, pressure, and flow rate; computer data acquisition; feedback control; statistical process control and design of experiments; and production of professional-level lab reports. Five laboratory hours a week for one semester. Prerequisite: Chemical Engineering 319, 253K, and Engineering Studies 333T with a grade of at least C- in each.",
+"prereqText": "Chemical Engineering 319, 253K, and Engineering Studies 333T with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHE 319",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "CHE 253K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "E S 333T",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 354",
+"subject": "CHE",
+"number": "354",
+"title": "Transport Processes",
+"hours": 3.0,
+"division": "upper",
+"description": "Design and analysis of heat exchangers, fluid-flow systems and equipment, and interphase-contact devices. Three lecture hours and one recitation hour a week for one semester. Chemical engineering majors must make a grade of at least C- in this course. Prerequisite: Chemical Engineering 319 (or 353) with a grade of at least C-.",
+"prereqText": "Chemical Engineering 319 (or 353) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CHE 319"
+},
+{
+"type": "course",
+"id": "CHE 353",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 355",
+"subject": "CHE",
+"number": "355",
+"title": "Introduction to Polymers",
+"hours": 3.0,
+"division": "upper",
+"description": "Synthesis, structural characterization, physical properties, and applications of polymers. Three lecture hours a week for one semester. Only one of the following may be counted: Chemical Engineering 355, Chemistry 367L, 367P. Prerequisite: Chemistry 320N, 328N, or 329C with a grade of at least C-.",
+"prereqText": "Chemistry 320N, 328N, or 329C with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "CHE 356",
+"subject": "CHE",
+"number": "356",
+"title": "Optimization: Theory and Practice",
+"hours": 3.0,
+"division": "upper",
+"description": "Techniques of optimization, including formulation of optimization problems, one-dimensional search techniques, analytical methods, and n-dimensional search techniques; application of methods to process-industry problems. Three lecture hours a week for one semester. Prerequisite: Chemical Engineering 319 (or 353) and 348.",
+"prereqText": "Chemical Engineering 319 (or 353) and 348.",
+"prereqConfidence": "low"
+},
+{
+"id": "CHE 357",
+"subject": "CHE",
+"number": "357",
+"title": "Technology and Its Impact on the Environment",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of sources and fates of environmental pollutants; environmental quality standards--their measurement and regulation; and pollution control design procedures. Three lecture hours a week for one semester. Prerequisite: Upper-division standing within the major or consent of department.",
+"prereqText": "Upper-division standing within the major or consent of department.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 359",
+"subject": "CHE",
+"number": "359",
+"title": "Energy Technology and Policy",
+"hours": 3.0,
+"division": "upper",
+"description": "Technology and policy related to energy supply and demand, oil and gas production, coal utilization, hydrogen production, fuel cells, transportation, nuclear power, solar and wind energy, biomass utilization, energy conservation, and climate change. Three lecture hours a week for one semester. Only one of the following may be counted: Chemical Engineering 359, 379 (Topic: Energy Technology and Policy), 384 (Topic: Energy Technology and Policy)."
+},
+{
+"id": "CHE 360",
+"subject": "CHE",
+"number": "360",
+"title": "Process Control",
+"hours": 3.0,
+"division": "upper",
+"description": "Analysis of process dynamics and methods for the design of automatic control systems for chemical process plants. Three lecture hours and one to two recitation hours a week for one semester. Prerequisite: Chemical Engineering 322, 253M, and 354 with a grade of at least C- in each.",
+"prereqText": "Chemical Engineering 322, 253M, and 354 with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHE 322",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "CHE 253M",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "CHE 354",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 363",
+"subject": "CHE",
+"number": "363",
+"title": "Separation Processes and Mass Transfer",
+"hours": 3.0,
+"division": "upper",
+"description": "Design and analysis of equilibrium and mass transfer based on separations such as absorption, chromatography, crystallization, distillation, extraction, and membrane-based processes. Three lecture hours and one to two recitation hours a week for one semester. Chemical engineering majors must make a grade of at least C- in this course. Prerequisite: Chemical Engineering 319 (or 353) and 322 with a grade of at least C- in each.",
+"prereqText": "Chemical Engineering 319 (or 353) and 322 with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "CHE 264",
+"subject": "CHE",
+"number": "264",
+"title": "Chemical Engineering Process and Projects Laboratory",
+"hours": 2.0,
+"division": "upper",
+"description": "Experimental studies of unit operations. Laboratory safety. Statistical data analysis. Written and oral reports. Six laboratory hours a week for one semester. Prerequisite: Chemical Engineering 253M and 363 with a grade in each of at least C-.",
+"prereqText": "Chemical Engineering 253M and 363 with a grade in each of at least C-.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHE 253M"
+},
+{
+"type": "course",
+"id": "CHE 363"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 364S",
+"subject": "CHE",
+"number": "364S",
+"title": "Chemical Process Safety",
+"hours": 3.0,
+"division": "upper",
+"description": "Emphasizes quantitative engineering analysis based on the application of mass and energy balances, fluid mechanics of incompressible, compressible and two-phase fluids, heat transfer and conservation of energy, diffusion and dispersion under highly variable conditions, reaction kinetics, and process control. Subjects include various probabilistic and statistical methods to characterize accident and loss performance, techniques for process hazard analysis, risk assessment, and accident investigations. Three lecture hours a week for one semester. Chemical Engineering 364S and 379 (Topic: Chemical Process Safety) may not both be counted. Offered on the letter-grade basis only. Prerequisite: Chemical Engineering 319 (or 353), 253K, and 354.",
+"prereqText": "Chemical Engineering 319 (or 353), 253K, and 354.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 372",
+"subject": "CHE",
+"number": "372",
+"title": "Chemical Reactor Analysis and Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Planning and design of commercial chemical and biochemical reaction systems for producing fuels, polymers, specialty and consumer products, pharmaceuticals, solid-state devices, and other products. Three lecture hours and one recitation hour a week for one semester. Chemical engineering majors must make a grade of at least C- in this course. Prerequisite: Chemical Engineering 322, 348, and 354 with a grade of at least C- in each.",
+"prereqText": "Chemical Engineering 322, 348, and 354 with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHE 322",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "CHE 348",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "CHE 354",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 473K",
+"subject": "CHE",
+"number": "473K",
+"title": "Process Design and Operations",
+"hours": 4.0,
+"division": "upper",
+"description": "Process design, economics, and safety; design projects representing a variety of industries and products. Three lecture hours and two recitation hours a week for one semester. Prerequisite: Chemical Engineering 354, 363, and 372 with a grade of at least C- in each.",
+"prereqText": "Chemical Engineering 354, 363, and 372 with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHE 354",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "CHE 363",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "CHE 372",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 376K",
+"subject": "CHE",
+"number": "376K",
+"title": "Process Evaluation and Quality Control",
+"hours": 3.0,
+"division": "upper",
+"description": "Use of statistical techniques to evaluate, compare, and optimize processes. Design of experiments for improved product quality control. Three lecture hours a week for one semester. Prerequisite: Upper-division standing, and admission to an appropriate major sequence in engineering or consent of the department.",
+"prereqText": "Upper-division standing, and admission to an appropriate major sequence in engineering or consent of the department.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 077C",
+"subject": "CHE",
+"number": "077C",
+"title": "Undergraduate Research Practicum",
+"hours": 0.0,
+"division": "upper",
+"description": "Discuss best practices for participation in research for undergraduate chemical engineering majors. One laboratory hour a week for one semester May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Consent of the department.",
+"prereqText": "Consent of the department.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CHE 077D",
+"subject": "CHE",
+"number": "077D",
+"title": "Undergraduate Research Practicum",
+"hours": 0.0,
+"division": "upper",
+"description": "Discuss best practices for participation in research for undergraduate chemical engineering majors. One laboratory hour a week for one semester. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Consent of the department.",
+"prereqText": "Consent of the department.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CHE 177K",
+"subject": "CHE",
+"number": "177K",
+"title": "Undergraduate Research Project",
+"hours": 1.0,
+"division": "upper",
+"description": "Recommended for students considering graduate study. Topic to be selected in conjunction with individual chemical engineering faculty member, with approval by the department chair. A final written report is required. Three, six, or nine laboratory hours a week for one semester. Prerequisite: A grade point average of at least 3.00 in chemical engineering courses; students must submit an application to the undergraduate advising office.",
+"prereqText": "A grade point average of at least 3.00 in chemical engineering courses; students must submit an application to the undergraduate advising office.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 277K",
+"subject": "CHE",
+"number": "277K",
+"title": "Undergraduate Research Project",
+"hours": 2.0,
+"division": "upper",
+"description": "Recommended for students considering graduate study. Topic to be selected in conjunction with individual chemical engineering faculty member, with approval by the department chair. A final written report is required. Three, six, or nine laboratory hours a week for one semester. Prerequisite: A grade point average of at least 3.00 in chemical engineering courses; students must submit an application to the undergraduate advising office.",
+"prereqText": "A grade point average of at least 3.00 in chemical engineering courses; students must submit an application to the undergraduate advising office.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 377K",
+"subject": "CHE",
+"number": "377K",
+"title": "Undergraduate Research Project",
+"hours": 3.0,
+"division": "upper",
+"description": "Recommended for students considering graduate study. Topic to be selected in conjunction with individual chemical engineering faculty member, with approval by the department chair. A final written report is required. Three, six, or nine laboratory hours a week for one semester. Prerequisite: A grade point average of at least 3.00 in chemical engineering courses; students must submit an application to the undergraduate advising office.",
+"prereqText": "A grade point average of at least 3.00 in chemical engineering courses; students must submit an application to the undergraduate advising office.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 177L",
+"subject": "CHE",
+"number": "177L",
+"title": "Undergraduate Research Project",
+"hours": 1.0,
+"division": "upper",
+"description": "Subject matter to be selected in conjunction with individual chemical engineering faculty member, with approval by the department chair. A final written report is required. For every credit hour earned, three laboratory hours a week for one semester. Prerequisite: Chemical Engineering 177K, 277K, or 377K and a grade point average of at least 3.00 in chemical engineering coursework; students must submit application to the undergraduate advising office.",
+"prereqText": "Chemical Engineering 177K, 277K, or 377K and a grade point average of at least 3.00 in chemical engineering coursework; students must submit application to the undergraduate advising office.",
+"prereqConfidence": "low"
+},
+{
+"id": "CHE 277L",
+"subject": "CHE",
+"number": "277L",
+"title": "Undergraduate Research Project",
+"hours": 2.0,
+"division": "upper",
+"description": "Subject matter to be selected in conjunction with individual chemical engineering faculty member, with approval by the department chair. A final written report is required. For every credit hour earned, three laboratory hours a week for one semester. Prerequisite: Chemical Engineering 177K, 277K, or 377K and a grade point average of at least 3.00 in chemical engineering coursework; students must submit application to the undergraduate advising office.",
+"prereqText": "Chemical Engineering 177K, 277K, or 377K and a grade point average of at least 3.00 in chemical engineering coursework; students must submit application to the undergraduate advising office.",
+"prereqConfidence": "low"
+},
+{
+"id": "CHE 377L",
+"subject": "CHE",
+"number": "377L",
+"title": "Undergraduate Research Project",
+"hours": 3.0,
+"division": "upper",
+"description": "Subject matter to be selected in conjunction with individual chemical engineering faculty member, with approval by the department chair. A final written report is required. For every credit hour earned, three laboratory hours a week for one semester. Prerequisite: Chemical Engineering 177K, 277K, or 377K and a grade point average of at least 3.00 in chemical engineering coursework; students must submit application to the undergraduate advising office.",
+"prereqText": "Chemical Engineering 177K, 277K, or 377K and a grade point average of at least 3.00 in chemical engineering coursework; students must submit application to the undergraduate advising office.",
+"prereqConfidence": "low"
+},
+{
+"id": "CHE 179",
+"subject": "CHE",
+"number": "179",
+"title": "Topics in Chemical Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "Special topics of current interest. The equivalent of one, two, three, or four lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Prerequisites vary with the topic.",
+"prereqText": "Prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 279",
+"subject": "CHE",
+"number": "279",
+"title": "Topics in Chemical Engineering",
+"hours": 2.0,
+"division": "upper",
+"description": "Special topics of current interest. The equivalent of one, two, three, or four lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Prerequisites vary with the topic.",
+"prereqText": "Prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 379",
+"subject": "CHE",
+"number": "379",
+"title": "Topics in Chemical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Special topics of current interest. The equivalent of one, two, three, or four lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Prerequisites vary with the topic.",
+"prereqText": "Prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 479",
+"subject": "CHE",
+"number": "479",
+"title": "Topics in Chemical Engineering",
+"hours": 4.0,
+"division": "upper",
+"description": "Special topics of current interest. The equivalent of one, two, three, or four lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Prerequisites vary with the topic.",
+"prereqText": "Prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 679H",
+"subject": "CHE",
+"number": "679H",
+"title": "Undergraduate Honors Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of a chemical engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the department chair. The student makes two oral presentations and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and the Bachelor of Science in Chemical Engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Chemical Engineering Honors Program; for 679HB, enrollment in the Chemical Engineering Honors Program and credit for Chemical Engineering 679HA.",
+"prereqText": "For 679HA, enrollment in the Chemical Engineering Honors Program; for 679HB, enrollment in the Chemical Engineering Honors Program and credit for Chemical Engineering 679HA.",
+"prereq": {
+"type": "course",
+"id": "CHE 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 079I",
+"subject": "CHE",
+"number": "079I",
+"title": "Undergraduate Research Internship",
+"hours": 0.0,
+"division": "upper",
+"description": "Participate in an internship or career experience program. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Consent of the department.",
+"prereqText": "Consent of the department.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CHE 180C",
+"subject": "CHE",
+"number": "180C",
+"title": "Laboratory Safety",
+"hours": 1.0,
+"division": "graduate",
+"description": "Safe laboratory practice. Training in use of fire extinguishers and first aid. Case studies of laboratory accidents. One lecture hour a week for one semester. Prerequisite: Graduate standing in chemical engineering.",
+"prereqText": "Graduate standing in chemical engineering.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 080D",
+"subject": "CHE",
+"number": "080D",
+"title": "Research and Achievements Seminar",
+"hours": 0.0,
+"division": "graduate",
+"description": "Restricted to chemical engineering majors. Seminar series covering recent research and technical achievements in Chemical Engineering. One lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate Standing",
+"prereqText": "Graduate Standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to chemical engineering majors.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CHE 381N",
+"subject": "CHE",
+"number": "381N",
+"title": "Fluid Flow and Heat Transfer",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced treatment of fluid flow and heat transfer problems in chemical engineering. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 381P",
+"subject": "CHE",
+"number": "381P",
+"title": "Advanced Analysis for Chemical Engineers",
+"hours": 3.0,
+"division": "graduate",
+"description": "Applications of mathematical methods to chemical engineering problems, with emphasis on differential equations, linear analysis and matrices, and real analysis and complex variables. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 381Q",
+"subject": "CHE",
+"number": "381Q",
+"title": "Quantitative Analysis of Cellular and Molecular Biology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analyzes biological systems from stoichiometric, thermodynamic, and kinetic perspectives. Case studies illustrate how these principles are used to understand disease, control cellular behavior, and design protein-based therapeutics. Three lecture hours a week for one semester. Chemical Engineering 381Q and 384 (Topic: Quantitative Analysis of Cellular and Molecular Biology) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 384E",
+"subject": "CHE",
+"number": "384E",
+"title": "Electrochemistry and Electrochemical Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Fundamental principles of electrochemistry combined with mass transfer including applications in analytical chemistry as well as industrial electrochemistry. Three lecture hours a week for one semester. Chemical Engineering 384T (Topic: Electrochemistry/Chemical Engineering) and 384E may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 384K",
+"subject": "CHE",
+"number": "384K",
+"title": "Chemical Kinetics and Surface Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Application of chemical reaction kinetics to the prediction and determination of reaction rates and reaction selectivity. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Chemical Engineering 387K or consent of instructor.",
+"prereqText": "Graduate standing, and Chemical Engineering 387K or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "CHE 387K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 384S",
+"subject": "CHE",
+"number": "384S",
+"title": "Current and Emerging Trends in Chemical Engineering Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Overview of current and emerging trends in chemical engineering research with frequent guest presentations by leading scholarly and industrial researchers in the discipline. Three lecture hours a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 384T",
+"subject": "CHE",
+"number": "384T",
+"title": "Topics in Chemical Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Chemical Engineering 384 and 384T may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 185",
+"subject": "CHE",
+"number": "185",
+"title": "Research",
+"hours": 1.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 285",
+"subject": "CHE",
+"number": "285",
+"title": "Research",
+"hours": 2.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 385",
+"subject": "CHE",
+"number": "385",
+"title": "Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 685",
+"subject": "CHE",
+"number": "685",
+"title": "Research",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 985",
+"subject": "CHE",
+"number": "985",
+"title": "Research",
+"hours": 9.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 085C",
+"subject": "CHE",
+"number": "085C",
+"title": "Research",
+"hours": 0.0,
+"division": "graduate",
+"description": "Restricted to chemical engineering majors. One lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to chemical engineering majors."
+},
+{
+"id": "CHE 385M",
+"subject": "CHE",
+"number": "385M",
+"title": "Surface Phenomena",
+"hours": 3.0,
+"division": "graduate",
+"description": "Liquid/fluid interfaces including equilibrium and nonequilibrium phenomena. Topics covered include capillarity, thermodynamics, surface rheology, and streaming potentials. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 385P",
+"subject": "CHE",
+"number": "385P",
+"title": "Optimization: Theory and Practice",
+"hours": 3.0,
+"division": "graduate",
+"description": "Techniques of optimization, including formulation of optimization problems, one-dimensional search techniques, analytical methods, and n-dimensional search techniques; application of methods to process-industry problems. Three lecture hours a week for one semester. Chemical Engineering 384 (Topic: Optimization: Theory and Practice) and 385P may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 386K",
+"subject": "CHE",
+"number": "386K",
+"title": "Theory of X-Ray Diffraction",
+"hours": 3.0,
+"division": "graduate",
+"description": "Application of basic diffraction theory to polycrystalline and single crystal materials. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 386L",
+"subject": "CHE",
+"number": "386L",
+"title": "Laboratory Experiments in X-Ray Diffraction",
+"hours": 3.0,
+"division": "graduate",
+"description": "Application of X-ray diffraction techniques to the examination of polycrystalline and single crystal materials. Two or three lecture hours and three or four laboratory hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 387K",
+"subject": "CHE",
+"number": "387K",
+"title": "Advanced Thermodynamics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Applications of thermodynamics to chemical engineering processes. Three lecture hours a week for one semester. Prerequisite: Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 387M",
+"subject": "CHE",
+"number": "387M",
+"title": "Mass Transfer",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced treatment of diffusional mass transfer operations in chemical engineering. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 388K",
+"subject": "CHE",
+"number": "388K",
+"title": "Separations Processes",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced treatment of modern chemical engineering separations processes. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 391",
+"subject": "CHE",
+"number": "391",
+"title": "Elements of Modern Control Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to fundamentals of dynamic optimization and system theory; applications to engineering processes. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 391J",
+"subject": "CHE",
+"number": "391J",
+"title": "Reaction Kinetics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Chemical Engineering 384T (Topic: Reaction Kinetics) and 391J may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 391M",
+"subject": "CHE",
+"number": "391M",
+"title": "Mathematical Modeling of Engineered Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to fundamentals of dynamic system modeling and associated numerical solution methods with applications to engineering systems. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 391S",
+"subject": "CHE",
+"number": "391S",
+"title": "Molecular Simulation of Materials",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to basic molecular simulation techniques including molecular mechanics, molecular dynamics, and Monte Carlo method. Understanding of principles underlying these techniques, and how these techniques can be used to study the physical and chemical properties and behavior of materials at the molecular level. More advanced subjects include molecular simulations in various ensembles (NVE, NVT, NPT, grand canonical), free energy computations, controlling dynamics, and association-bias Monte Carlo method. Elementary knowledge of physical chemistry, classical mechanics, and statistical thermodynamics is assumed. Three lecture hours a week for one semester. Chemical Engineering 384 (Topic: Simulation of Materials) and 391S may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 392",
+"subject": "CHE",
+"number": "392",
+"title": "Polymer Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "Details of polymerization mechanisms; structure-property relationships, fundamentals of processing, and characterization of high polymers. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 392P",
+"subject": "CHE",
+"number": "392P",
+"title": "Introduction to Polymer Materials Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "Synthesis, structural characterization, physical properties, and applications of polymers. Three lecture hours a week for one semester. Chemical Engineering 384 (Topic: Introduction to Polymer Material Science) and 392P may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 395C",
+"subject": "CHE",
+"number": "395C",
+"title": "Chemical Processes for Microelectronics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to the chemical processes and the manufacturing operations used in microelectronics device fabrication. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 395E",
+"subject": "CHE",
+"number": "395E",
+"title": "Polymer Science and Engineering Laboratory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Training in the preparation and instrumental characterization of polymers, blends, and compounds. Twelve laboratory hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 395G",
+"subject": "CHE",
+"number": "395G",
+"title": "Chemical Engineering Economics and Business Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of the economic decisions faced by chemical engineers. Discounted cash flow techniques. Personal finance, managerial economics, and other special topics. Three lecture hours a week for one semester. Only one of the following may be counted: Chemical Engineering 342, 379 (Topic: Chemical Engineering Economics and Business Analysis), 395G. Prerequisite: Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 395J",
+"subject": "CHE",
+"number": "395J",
+"title": "Product and Process Development",
+"hours": 3.0,
+"division": "graduate",
+"description": "Product and process innovation in the process industries; screening criteria; needs-requirements research; evaluation. Three lecture hours a week for one semester. Chemical Engineering 379 (Topic: Product and Process Development) and 395J may not both be counted. Prerequisite: Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 395K",
+"subject": "CHE",
+"number": "395K",
+"title": "Design for Environment",
+"hours": 3.0,
+"division": "graduate",
+"description": "Overview of environmental assessment tools for chemical processes and products, including life cycle and risk assessments. Overview of design tools for improving environmental performance of chemical processes, including unit operations and flow sheet analysis methods. Three lecture hours a week for one semester. Chemical Engineering 384 (Topic 19: Design for Environment) and 395K may not both be counted. Prerequisite: Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 397M",
+"subject": "CHE",
+"number": "397M",
+"title": "Graduate Research Internship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Research associated with enrollment in the Graduate Research Internship Program (GRIP). The equivalent of three lecture hours a week for one semester. Prerequisite: Graduate standing in chemical engineering and consent of instructor and the dean of the Cockrell School of Engineering.",
+"prereqText": "Graduate standing in chemical engineering and consent of instructor and the dean of the Cockrell School of Engineering.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 698",
+"subject": "CHE",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in chemical engineering and consent of the graduate adviser; for 698B, Chemical Engineering 698A.",
+"prereqText": "For 698A, graduate standing in chemical engineering and consent of the graduate adviser; for 698B, Chemical Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "CHE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CHE 398R",
+"subject": "CHE",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in chemical engineering and consent of the graduate adviser.",
+"prereqText": "Graduate standing in chemical engineering and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CHE 398T",
+"subject": "CHE",
+"number": "398T",
+"title": "Supervised Teaching in Chemical Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Teaching under the close supervision of the instructor for one to four semesters; weekly group meetings; individual consultation; reports. Three lecture hours a week for one semester. Prerequisite: Graduate standing and appointment as a teaching assistant.",
+"prereqText": "Graduate standing and appointment as a teaching assistant.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 399W",
+"subject": "CHE",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CHE 499W",
+"subject": "CHE",
+"number": "499W",
+"title": "Dissertation",
+"hours": 4.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CHE 599W",
+"subject": "CHE",
+"number": "599W",
+"title": "Dissertation",
+"hours": 5.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CHE 699W",
+"subject": "CHE",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CHE 999W",
+"subject": "CHE",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

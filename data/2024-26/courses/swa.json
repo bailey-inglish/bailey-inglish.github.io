@@ -1,0 +1,266 @@
+{
+"code": "SWA",
+"name": "Swahili",
+"courses": [
+{
+"id": "SWA 601C",
+"subject": "SWA",
+"number": "601C",
+"title": "Intensive Swahili I",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester. Swahili 601C and 506 may not both be counted. Swahili 601C and 507 may not both be counted."
+},
+{
+"id": "SWA 506",
+"subject": "SWA",
+"number": "506",
+"title": "First-Year Swahili I",
+"hours": 5.0,
+"division": "lower",
+"description": "Five lecture hours a week for one semester. Swahili 601C and 506 may not both be counted."
+},
+{
+"id": "SWA 507",
+"subject": "SWA",
+"number": "507",
+"title": "First-Year Swahili II",
+"hours": 5.0,
+"division": "lower",
+"description": "Five lecture hours a week for one semester. Swahili 601C and 507 may not both be counted. Prerequisite: Swahili 506.",
+"prereqText": "Swahili 506.",
+"prereq": {
+"type": "course",
+"id": "SWA 506"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SWA 611C",
+"subject": "SWA",
+"number": "611C",
+"title": "Intensive Swahili II",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester. Swahili 611C and 312K may not both be counted. Swahili 611C and 312L may not both be counted. Prerequisite: Swahili 601C.",
+"prereqText": "Swahili 601C.",
+"prereq": {
+"type": "course",
+"id": "SWA 601C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SWA 612",
+"subject": "SWA",
+"number": "612",
+"title": "Accelerated Second-Year Swahili",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native speakers of Swahili. Eight lecture hours a week for one semester."
+},
+{
+"id": "SWA 312K",
+"subject": "SWA",
+"number": "312K",
+"title": "Second-Year Swahili I",
+"hours": 3.0,
+"division": "lower",
+"description": "Three lecture hours a week for one semester. Swahili 611C and 312K may not both be counted. Prerequisite: Swahili 507.",
+"prereqText": "Swahili 507.",
+"prereq": {
+"type": "course",
+"id": "SWA 507"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SWA 312L",
+"subject": "SWA",
+"number": "312L",
+"title": "Second-Year Swahili II",
+"hours": 3.0,
+"division": "lower",
+"description": "Three lecture hours a week for one semester. Swahili 611C and 312L may not both be counted. Prerequisite: Swahili 312K.",
+"prereqText": "Swahili 312K.",
+"prereq": {
+"type": "course",
+"id": "SWA 312K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SWA 119S",
+"subject": "SWA",
+"number": "119S",
+"title": "Topics in Swahili",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 219S",
+"subject": "SWA",
+"number": "219S",
+"title": "Topics in Swahili",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 319S",
+"subject": "SWA",
+"number": "319S",
+"title": "Topics in Swahili",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 419S",
+"subject": "SWA",
+"number": "419S",
+"title": "Topics in Swahili",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 519S",
+"subject": "SWA",
+"number": "519S",
+"title": "Topics in Swahili",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 619S",
+"subject": "SWA",
+"number": "619S",
+"title": "Topics in Swahili",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 719S",
+"subject": "SWA",
+"number": "719S",
+"title": "Topics in Swahili",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 819S",
+"subject": "SWA",
+"number": "819S",
+"title": "Topics in Swahili",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 919S",
+"subject": "SWA",
+"number": "919S",
+"title": "Topics in Swahili",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 129S",
+"subject": "SWA",
+"number": "129S",
+"title": "Topics in Swahili",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 229S",
+"subject": "SWA",
+"number": "229S",
+"title": "Topics in Swahili",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 329S",
+"subject": "SWA",
+"number": "329S",
+"title": "Topics in Swahili",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 429S",
+"subject": "SWA",
+"number": "429S",
+"title": "Topics in Swahili",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 529S",
+"subject": "SWA",
+"number": "529S",
+"title": "Topics in Swahili",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 629S",
+"subject": "SWA",
+"number": "629S",
+"title": "Topics in Swahili",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 729S",
+"subject": "SWA",
+"number": "729S",
+"title": "Topics in Swahili",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 829S",
+"subject": "SWA",
+"number": "829S",
+"title": "Topics in Swahili",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 929S",
+"subject": "SWA",
+"number": "929S",
+"title": "Topics in Swahili",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWA 360",
+"subject": "SWA",
+"number": "360",
+"title": "Conference Course in Swahili Language and Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in Swahili language or literature. Conference course. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+}
+]
+}

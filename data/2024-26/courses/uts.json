@@ -1,0 +1,367 @@
+{
+"code": "UTS",
+"name": "UTeach-Natural Sciences",
+"courses": [
+{
+"id": "UTS 101",
+"subject": "UTS",
+"number": "101",
+"title": "Secondary Teacher Education Preparation: Step 1",
+"hours": 1.0,
+"division": "lower",
+"description": "Introduction to mathematics, computer science, and science teaching as a career. Discussions include standards-based lesson design and various teaching and behavior management strategies. Fieldwork consists of five visits to a local elementary school, including planning and teaching three inquiry-based lessons to students in grades three to six. One and one-half class hours a week for one semester; at least ten hours of fieldwork a semester are also required. Chemistry 107 (Topic: STEP1-UTeach) and UTeach-Natural Sciences 101 may not both be counted."
+},
+{
+"id": "UTS 306J",
+"subject": "UTS",
+"number": "306J",
+"title": "Hands-On Science I",
+"hours": 3.0,
+"division": "lower",
+"description": "The first of an integrated sequence of laboratory-based courses. Subjects include energy and motion, electrical circuits, atomic theory, waves, and sound. Two lecture hours and three laboratory hours a week for one semester. Only one of the following may count: UTeach-Natural Sciences 306J and Natural Sciences 306J."
+},
+{
+"id": "UTS 306K",
+"subject": "UTS",
+"number": "306K",
+"title": "Hands-On Science II",
+"hours": 3.0,
+"division": "lower",
+"description": "The second of an integrated sequence of laboratory-based courses. Subjects include physical and chemical properties of matter, Earth's building blocks, plate tectonics, landforms, and weathering. Two lecture hours and three laboratory hours a week for one semester. Only one of the following may count: UTeach-Natural Sciences 306K, Natural Sciences 306K. Prerequisite: UTeach-Natural Sciences 306J (Natural Sciences 306J) with a grade of at least C-.",
+"prereqText": "UTeach-Natural Sciences 306J (Natural Sciences 306J) with a grade of at least C-.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "UTS 306J"
+},
+{
+"type": "course",
+"id": "NSC 306J",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "UTS 306L",
+"subject": "UTS",
+"number": "306L",
+"title": "Hands-On Science III",
+"hours": 3.0,
+"division": "lower",
+"description": "The third of an integrated sequence of laboratory-based courses. Subjects include properties of life, compartments of living organisms, inheritance, adaptations, variations, and disease. Two lecture hours and three laboratory hours a week for one semester. Only one of the following may be counted: UTeach-Natural Sciences 306L, Natural Sciences 306L. Prerequisite: UTeach-Natural Sciences 306J and 306K (Natural Sciences 306J and 306K) with a grade of at least C- in each.",
+"prereqText": "UTeach-Natural Sciences 306J and 306K (Natural Sciences 306J and 306K) with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "UTS 306J",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "UTS 306K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NSC 306J",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NSC 306K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "UTS 306M",
+"subject": "UTS",
+"number": "306M",
+"title": "Hands-On Science IV",
+"hours": 3.0,
+"division": "lower",
+"description": "The fourth of an integrated sequence of laboratory-based courses. Subjects include astronomy and the earth's climate. Two lecture hours and three laboratory hours a week for one semester. Only one of the following may be counted: UTeach-Natural Sciences 306M, Natural Sciences 306M. Prerequisite: UTeach-Natural Sciences 306J and 306K (Natural Sciences 306J and 306K) with a grade of at least C- in each.",
+"prereqText": "UTeach-Natural Sciences 306J and 306K (Natural Sciences 306J and 306K) with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "UTS 306J",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "UTS 306K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NSC 306J",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NSC 306K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "UTS 110",
+"subject": "UTS",
+"number": "110",
+"title": "Secondary Teacher Education Preparation: STEP 2",
+"hours": 1.0,
+"division": "lower",
+"description": "Topics may include routes to teacher certification in mathematics, computer science, and science teaching; various teaching methods that are designed to meet instructional goals; and learner outcomes. Students develop and teach three inquiry-based lessons in their field in a middle school, and participate in peer coaching. One and one-half class hours a week for one semester; at least twenty hours of fieldwork a semester are also required. Biology 101C (Topic: STEP 2) and UTeach-Natural Sciences 110 may not both be counted. Prerequisite: UTeach-Natural Sciences 101 with a grade of at least C-, and a University grade point average of at least 2.20.",
+"prereqText": "UTeach-Natural Sciences 101 with a grade of at least C-, and a University grade point average of at least 2.20.",
+"prereq": {
+"type": "course",
+"id": "UTS 101",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "UTS 211",
+"subject": "UTS",
+"number": "211",
+"title": "Secondary Teacher Education Prep: Advanced Steps",
+"hours": 2.0,
+"division": "lower",
+"description": "Restricted to UTeach Natural Sciences students. Accelerated introduction to mathematics, computer science, and science teaching as a career. Discuss standards-based lesson design and various teaching and behavior management strategies. Plan and teach inquiry-based lessons to students in grades three to eight while visiting local elementary and middle schools. Three lecture hours a week for one semester. Prerequisite: Upper-division standing and approval of the UTeach Natural Sciences Adviser.",
+"prereqText": "Upper-division standing and approval of the UTeach Natural Sciences Adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to UTeach Natural Sciences students."
+},
+{
+"id": "UTS 118",
+"subject": "UTS",
+"number": "118",
+"title": "Introduction to Making: STEM, Design, and The Arts",
+"hours": 1.0,
+"division": "lower",
+"description": "Introduction to the philosophical and historical origins of making and maker-centered education. Use a variety of tools to bring unique creations to life. One-and-one-half laboratory hours a week for one semester."
+},
+{
+"id": "UTS 220",
+"subject": "UTS",
+"number": "220",
+"title": "Pedagogy for Inquiry-Based, Hands-on-Science Instruction",
+"hours": 2.0,
+"division": "upper",
+"description": "Integrate educational theory, pedagogy, and practice. Explore a wide body of science education literature, pedagogy application, and social and ethical issues. Two lecture hours a week for one semester. Prerequisite: UTeach-Natural Sciences 306J with a grade of at least B- and consent of instructor.",
+"prereqText": "UTeach-Natural Sciences 306J with a grade of at least B- and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "UTS 306J",
+"minGrade": "B-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "UTS 120F",
+"subject": "UTS",
+"number": "120F",
+"title": "Topics in Teaching Math and Science",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to UTeach Teacher Certification Candidates. One lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the pass/fail basis only. Prerequisite: Consent of the academic advisor or instructor.",
+"prereqText": "Consent of the academic advisor or instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to UTeach Teacher Certification Candidates.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "UTS 350",
+"subject": "UTS",
+"number": "350",
+"title": "Knowing and Learning in Math and Science",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Curriculum and Instruction 365C. Restricted to students in the UTeach-Natural Sciences program. Psychological foundations of learning; problem solving in mathematics and science education utilizing technology; principles of expertise and novice understanding of subject matter; implications of high-stakes testing; and foundations of formative and summative assessment. Three lecture hours a week for one semester; additional hours may be required. Curriculum and Instruction 365C and UTeach-Natural Sciences 350 may not both be counted. Prerequisite: Credit with a grade of at least C- or registration for UTeach-Natural Sciences 101.",
+"prereqText": "Credit with a grade of at least C- or registration for UTeach-Natural Sciences 101.",
+"prereq": {
+"type": "course",
+"id": "UTS 101"
+},
+"prereqConfidence": "high",
+"sameAs": "Curriculum and Instruction 365C",
+"restricted": "Restricted to students in the UTeach-Natural Sciences program."
+},
+{
+"id": "UTS 355",
+"subject": "UTS",
+"number": "355",
+"title": "Classroom Interactions",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Curriculum and Instruction 365D. Restricted to students in the UTeach-Natural Sciences program. Principles of delivering effective instruction in various formats (lecture, lab activity, collaborative settings); examination of gender, class, race, and culture in mathematics and science education; overview of policy related to mathematics and science education. Three lecture hours a week for one semester; additional hours may be required. Curriculum and Instruction 365D and UTeach-Natural Sciences 355 may not both be counted. Prerequisite: The following courses with a grade of at least C-: Curriculum and Instruction 365C or UTeach-Natural Sciences 350, and UTeach-Natural Sciences 110; and a University grade point average of at least 2.50.",
+"prereqText": "The following courses with a grade of at least C-: Curriculum and Instruction 365C or UTeach-Natural Sciences 350, and UTeach-Natural Sciences 110; and a University grade point average of at least 2.50.",
+"prereqConfidence": "low",
+"sameAs": "Curriculum and Instruction 365D",
+"restricted": "Restricted to students in the UTeach-Natural Sciences program."
+},
+{
+"id": "UTS 360",
+"subject": "UTS",
+"number": "360",
+"title": "Project-Based Instruction",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Curriculum and Instruction 365E. Restricted to students in the UTeach-Natural Sciences program. Foundations of project-based, case-based, and problem-based learning environments; principles of project-based curriculum development in mathematics and science education; classroom management and organization of project-based learning classrooms. Three lecture hours a week for one semester with additional fieldwork hours to be arranged. Curriculum and Instruction 365E and UTeach-Natural Sciences 360 may not both be counted. Prerequisite: Curriculum and Instruction 365D or UTeach-Natural Sciences 355 with a grade of at least C-, and a University grade point average of at least 2.50.",
+"prereqText": "Curriculum and Instruction 365D or UTeach-Natural Sciences 355 with a grade of at least C-, and a University grade point average of at least 2.50.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "EDC 365D"
+},
+{
+"type": "course",
+"id": "UTS 355",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Curriculum and Instruction 365E",
+"restricted": "Restricted to students in the UTeach-Natural Sciences program."
+},
+{
+"id": "UTS 170",
+"subject": "UTS",
+"number": "170",
+"title": "Student Teaching Seminar",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in the UTeach-Natural Sciences program who have earned a passing score on the preliminary portfolio. Discussions include student teaching experiences, contemporary critical issues in education, and preparation for the state certification exam. One lecture hour a week for one semester. Chemistry 107 (Topic: Special Topics Seminar) and UTeach-Natural Sciences 170 may not both be counted. Prerequisite: Credit or registration for Curriculum and Instruction 651S, and a University grade point average of at least 2.50.",
+"prereqText": "Credit or registration for Curriculum and Instruction 651S, and a University grade point average of at least 2.50.",
+"prereq": {
+"type": "course",
+"id": "EDC 651S"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the UTeach-Natural Sciences program who have earned a passing score on the preliminary portfolio."
+},
+{
+"id": "UTS 171",
+"subject": "UTS",
+"number": "171",
+"title": "UTeach Induction Support",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in the UTeach-Natural Sciences program. Engage in individualized, job-embedded activities to support student learning and analyze the impact of their work. The equivalent of one lecture hour a week for one semester. Prerequisite: UTeach-Natural Sciences 170 with a grade of at least C- and Curriculum and Instruction 651S.",
+"prereqText": "UTeach-Natural Sciences 170 with a grade of at least C- and Curriculum and Instruction 651S.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "UTS 170",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "EDC 651S"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the UTeach-Natural Sciences program."
+},
+{
+"id": "UTS 675",
+"subject": "UTS",
+"number": "675",
+"title": "Student Teaching for Secondary and Middle Grades",
+"hours": 6.0,
+"division": "upper",
+"description": "Closely supervised field coursework in a cooperating school. Experience includes carrying out the duties of a secondary or middle grades teacher. Twenty hours of fieldwork a week for one semester. Offered on the pass/fail basis only. Prerequisite: A University grade point average of at least 2.50, approval of the preliminary portfolio by the College of Natural Sciences UTeach Program, consent of the UTeach adviser in the College of Natural Sciences, and concurrent enrollment in UTeach-Natural Sciences 170.",
+"prereqText": "A University grade point average of at least 2.50, approval of the preliminary portfolio by the College of Natural Sciences UTeach Program, consent of the UTeach adviser in the College of Natural Sciences, and concurrent enrollment in UTeach-Natural Sciences 170.",
+"prereq": {
+"type": "course",
+"id": "UTS 170"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "UTS 175C",
+"subject": "UTS",
+"number": "175C",
+"title": "Computer Science Pathways",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in the UTeach-Natural Sciences program. Prepare for the subjects of computer science certification exams that are not covered by other computer science courses. Review existing high school computer science curriculum. Create or find a computational thinking exercise in order to lead the class through the activity. One lecture hour a week for one semester.",
+"restricted": "Restricted to students in the UTeach-Natural Sciences program."
+},
+{
+"id": "UTS 180",
+"subject": "UTS",
+"number": "180",
+"title": "Topics in Teaching Math and Science",
+"hours": 1.0,
+"division": "graduate",
+"description": "In-depth investigation of topics in math or science as related to teaching at a secondary level. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser or the department chair.",
+"prereqText": "Graduate standing and consent of the graduate adviser or the department chair.",
+"prereqConfidence": "none"
+},
+{
+"id": "UTS 280",
+"subject": "UTS",
+"number": "280",
+"title": "Topics in Teaching Math and Science",
+"hours": 2.0,
+"division": "graduate",
+"description": "In-depth investigation of topics in math or science as related to teaching at a secondary level. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser or the department chair.",
+"prereqText": "Graduate standing and consent of the graduate adviser or the department chair.",
+"prereqConfidence": "none"
+},
+{
+"id": "UTS 380",
+"subject": "UTS",
+"number": "380",
+"title": "Topics in Teaching Math and Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "In-depth investigation of topics in math or science as related to teaching at a secondary level. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser or the department chair.",
+"prereqText": "Graduate standing and consent of the graduate adviser or the department chair.",
+"prereqConfidence": "none"
+},
+{
+"id": "UTS 680",
+"subject": "UTS",
+"number": "680",
+"title": "Topics in Teaching Math and Science",
+"hours": 6.0,
+"division": "graduate",
+"description": "In-depth investigation of topics in math or science as related to teaching at a secondary level. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser or the department chair.",
+"prereqText": "Graduate standing and consent of the graduate adviser or the department chair.",
+"prereqConfidence": "none"
+},
+{
+"id": "UTS 980",
+"subject": "UTS",
+"number": "980",
+"title": "Topics in Teaching Math and Science",
+"hours": 9.0,
+"division": "graduate",
+"description": "In-depth investigation of topics in math or science as related to teaching at a secondary level. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser or the department chair.",
+"prereqText": "Graduate standing and consent of the graduate adviser or the department chair.",
+"prereqConfidence": "none"
+}
+]
+}

@@ -1,0 +1,261 @@
+{
+"code": "DCH",
+"name": "Dutch",
+"courses": [
+{
+"id": "DCH 604",
+"subject": "DCH",
+"number": "604",
+"title": "Accelerated First-Year Dutch",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester, with optional laboratory available."
+},
+{
+"id": "DCH 612",
+"subject": "DCH",
+"number": "612",
+"title": "Accelerated Second-Year Dutch",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester, with optional laboratory available. Prerequisite: Dutch 604.",
+"prereqText": "Dutch 604.",
+"prereq": {
+"type": "course",
+"id": "DCH 604"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "DCH 119S",
+"subject": "DCH",
+"number": "119S",
+"title": "Topics in Dutch",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 219S",
+"subject": "DCH",
+"number": "219S",
+"title": "Topics in Dutch",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 319S",
+"subject": "DCH",
+"number": "319S",
+"title": "Topics in Dutch",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 419S",
+"subject": "DCH",
+"number": "419S",
+"title": "Topics in Dutch",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 519S",
+"subject": "DCH",
+"number": "519S",
+"title": "Topics in Dutch",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 619S",
+"subject": "DCH",
+"number": "619S",
+"title": "Topics in Dutch",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 719S",
+"subject": "DCH",
+"number": "719S",
+"title": "Topics in Dutch",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 819S",
+"subject": "DCH",
+"number": "819S",
+"title": "Topics in Dutch",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 919S",
+"subject": "DCH",
+"number": "919S",
+"title": "Topics in Dutch",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 327",
+"subject": "DCH",
+"number": "327",
+"title": "Advanced Dutch I",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Prerequisite: Dutch 612 with a grade of at least C.",
+"prereqText": "Dutch 612 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DCH 612",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "DCH 328",
+"subject": "DCH",
+"number": "328",
+"title": "Advanced Dutch II",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Prerequisite: Dutch 327 with a grade of at least C.",
+"prereqText": "Dutch 327 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "DCH 327",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "DCH 129S",
+"subject": "DCH",
+"number": "129S",
+"title": "Topics in Dutch",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 229S",
+"subject": "DCH",
+"number": "229S",
+"title": "Topics in Dutch",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 329S",
+"subject": "DCH",
+"number": "329S",
+"title": "Topics in Dutch",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 429S",
+"subject": "DCH",
+"number": "429S",
+"title": "Topics in Dutch",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 529S",
+"subject": "DCH",
+"number": "529S",
+"title": "Topics in Dutch",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 629S",
+"subject": "DCH",
+"number": "629S",
+"title": "Topics in Dutch",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 729S",
+"subject": "DCH",
+"number": "729S",
+"title": "Topics in Dutch",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 829S",
+"subject": "DCH",
+"number": "829S",
+"title": "Topics in Dutch",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 929S",
+"subject": "DCH",
+"number": "929S",
+"title": "Topics in Dutch",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "DCH 130D",
+"subject": "DCH",
+"number": "130D",
+"title": "Dutch across Disciplines",
+"hours": 1.0,
+"division": "upper",
+"description": "Read and discuss Dutch language materials related to the subject matter of another designated course. One lecture hour per week for one semester. May be repeated for credit. Prerequisite: Three semester hours of upper-division coursework in Dutch with a grade of at least C.",
+"prereqText": "Three semester hours of upper-division coursework in Dutch with a grade of at least C.",
+"prereqConfidence": "none"
+},
+{
+"id": "DCH 375",
+"subject": "DCH",
+"number": "375",
+"title": "Studies in Dutch Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Selected topics in Dutch and Flemish literature. Conducted in Dutch. Three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Dutch 612 or the equivalent, and consent of instructor.",
+"prereqText": "Dutch 612 or the equivalent, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "DCH 612"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "DCH 379",
+"subject": "DCH",
+"number": "379",
+"title": "Conference Course in Dutch Language or Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in Dutch language or literature. Conference course. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+}
+]
+}
