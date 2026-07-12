@@ -1,0 +1,1839 @@
+{
+"code": "CH",
+"name": "Chemistry",
+"courses": [
+{
+"id": "CH 301",
+"subject": "CH",
+"number": "301",
+"title": "Principles of Chemistry I",
+"hours": 3.0,
+"division": "lower",
+"description": "Three lecture hours a week for one semester; some sections may also require one enrichment/discussion hour a week. Only one of the following may be counted: Chemistry 301, 301C, 301H, 301N, 304K. Prerequisite: An appropriate score on the Department of Chemistry placement examination.",
+"tccn": "CHEM 1309, CHEM 1311",
+"prereqText": "An appropriate score on the Department of Chemistry placement examination.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 301C",
+"subject": "CH",
+"number": "301C",
+"title": "Foundations of Chemistry I",
+"hours": 3.0,
+"division": "lower",
+"description": "An introduction to chemistry for chemistry majors. Includes gases, atomic theory, bonding, and thermodynamics. For 301C, three lecture hours a week for one semester; for 401C three lecture and three laboratory hours a week for one semester. Only one of the following may be counted: Chemistry 301, 301C, 301H, 301N, 304K."
+},
+{
+"id": "CH 401C",
+"subject": "CH",
+"number": "401C",
+"title": "Foundations of Chemistry I",
+"hours": 4.0,
+"division": "lower",
+"description": "An introduction to chemistry for chemistry majors. Includes gases, atomic theory, bonding, and thermodynamics. For 301C, three lecture hours a week for one semester; for 401C three lecture and three laboratory hours a week for one semester. Only one of the following may be counted: Chemistry 301, 301C, 301H, 301N, 304K."
+},
+{
+"id": "CH 301N",
+"subject": "CH",
+"number": "301N",
+"title": "Chemistry in Our World I",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed for non-science and Textiles and Apparel majors. Examine the nature of matter, energy, chemical reactions, and chemical thermodynamics. Discuss how these fundamentals of chemistry relate to real-world applications. Not intended as preparation for Chemistry 301. Three lecture hours a week for one semester. Only one of the following may be counted: Chemistry 301, 301C, 301H, 301N, 304K."
+},
+{
+"id": "CH 302",
+"subject": "CH",
+"number": "302",
+"title": "Principles of Chemistry II",
+"hours": 3.0,
+"division": "lower",
+"description": "Development and application of concepts, theories, and laws underlying chemistry. Three lecture hours a week for one semester. Some sections also require one enrichment/discussion hour a week. Only one of the following may be counted: Chemistry 302, 302C, 302H, 302N, 305. Prerequisite: Chemistry 301 or 301H with a grade of at least C-.",
+"tccn": "CHEM 1312",
+"prereqText": "Chemistry 301 or 301H with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CH 301"
+},
+{
+"type": "course",
+"id": "CH 301H",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 302C",
+"subject": "CH",
+"number": "302C",
+"title": "Foundations of Chemistry II",
+"hours": 3.0,
+"division": "lower",
+"description": "An introduction to chemistry for chemistry majors. Includes equilibria, kinetics, nuclear chemistry, inorganic chemistry, and electrochemistry. For 301C, three lecture hours a week for one semester; for 401C three lecture hours and three laboratory hours a week for one semester. Only one of the following may be counted: Chemistry 302, 302C, 302H, 302N, 305. Prerequisite: Chemistry 301C with a grade of C- or higher.",
+"prereqText": "Chemistry 301C with a grade of C- or higher.",
+"prereq": {
+"type": "course",
+"id": "CH 301C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 402C",
+"subject": "CH",
+"number": "402C",
+"title": "Foundations of Chemistry II",
+"hours": 4.0,
+"division": "lower",
+"description": "An introduction to chemistry for chemistry majors. Includes equilibria, kinetics, nuclear chemistry, inorganic chemistry, and electrochemistry. For 301C, three lecture hours a week for one semester; for 401C three lecture hours and three laboratory hours a week for one semester. Only one of the following may be counted: Chemistry 302, 302C, 302H, 302N, 305. Prerequisite: Chemistry 301C with a grade of C- or higher.",
+"prereqText": "Chemistry 301C with a grade of C- or higher.",
+"prereq": {
+"type": "course",
+"id": "CH 301C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 302N",
+"subject": "CH",
+"number": "302N",
+"title": "Chemistry in Our World II",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed for non-science and Textiles and Apparel majors. Survey organic chemistry including the nature of chemical bonding, molecular structure, nomenclature, and reaction types. Examine polymers and nutrition. Discuss how these fundamentals of chemistry relate to real-world applications. Three lecture hours a week for one semester. Only one of the following may be counted: Chemistry 302, 302C, 302H, 302N, or 305."
+},
+{
+"id": "CH 303",
+"subject": "CH",
+"number": "303",
+"title": "Mathematical Introduction to Theories of Matter",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to the quantum theoretic description of atoms, molecules, solids, nuclei, elementary particles, and cosmology. Matrix mechanics and group theory. Three lecture hours a week for one semester. Chemistry 303 may be used instead of either Chemistry 302 or Chemistry 301 and 302 in fulfilling the prerequisites of other chemistry courses, except by students seeking the Bachelor of Science in Chemistry degree. Chemistry 303 may be counted in addition to Chemistry 301 and 302. Not recommended by the Health Professions Office for Medical College Admission Test preparation.",
+"prereqText": "of other chemistry courses, except by students seeking the Bachelor of Science in Chemistry degree. Chemistry 303 may be counted in addition to Chemistry 301 and 302. Not recommended by the Health Professions Office for Medical College Admission Test preparation.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CH 303"
+},
+{
+"type": "course",
+"id": "CH 301"
+},
+{
+"type": "course",
+"id": "CH 302"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 204",
+"subject": "CH",
+"number": "204",
+"title": "Introduction to Chemical Practice",
+"hours": 2.0,
+"division": "lower",
+"description": "Introduction to the techniques of modern experimental chemistry. Designed to provide basic laboratory and analytical skills. May include organic, analytical, and physical chemistry, as well as materials science. Four laboratory hours and one hour of discussion a week for one semester. Some sections may also require one hour of computer laboratory a week. Only one of the following may be counted: Chemistry 204, 317, or 104M and 104N. Prerequisite: Credit with a grade of at least C- or registration for Chemistry 302 or 302C.",
+"prereqText": "Credit with a grade of at least C- or registration for Chemistry 302 or 302C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CH 302"
+},
+{
+"type": "course",
+"id": "CH 302C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 104M",
+"subject": "CH",
+"number": "104M",
+"title": "Introduction to Chemical Practice I",
+"hours": 1.0,
+"division": "lower",
+"description": "Introduction to the techniques of modern experimental chemistry. Designed to provide basic laboratory and analytical skills. May include organic, analytical, and physical chemistry, as well as materials science. One lecture hour and three laboratory hours a week for one semester. Only one of the following may be counted: Chemistry 204, 317, or 104M and 104N. Prerequisite: Credit with a grade of at least C- or registration for Chemistry 301, 301C, or 301H.",
+"tccn": "CHEM 1109, CHEM 1111",
+"prereqText": "Credit with a grade of at least C- or registration for Chemistry 301, 301C, or 301H.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 104N",
+"subject": "CH",
+"number": "104N",
+"title": "Introduction to Chemical Practice II",
+"hours": 1.0,
+"division": "lower",
+"description": "Introduction to the techniques of modern experimental chemistry. Designed to provide basic laboratory and analytical skills. May include organic, analytical, and physical chemistry, as well as materials science. One lecture hour and three laboratory hours a week for one semester. Only one of the following may be counted: Chemistry 204, 317, or 104M and 104N. Prerequisite: Credit with a grade of at least a C- or registration for Chemistry 302, 302C, or 302H; and credit with a grade of at least C- in the following coursework: Chemistry 104M, and Chemistry 301, 301C, or 301H.",
+"tccn": "CHEM 1112",
+"prereqText": "Credit with a grade of at least a C- or registration for Chemistry 302, 302C, or 302H; and credit with a grade of at least C- in the following coursework: Chemistry 104M, and Chemistry 301, 301C, or 301H.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 206K",
+"subject": "CH",
+"number": "206K",
+"title": "Undergraduate Research",
+"hours": 2.0,
+"division": "lower",
+"description": "Introduction to research practices; supervised individual undergraduate research in chemistry. Six to ten laboratory hours a week for one semester. May be repeated for credit, but no more than four semester hours may be counted toward a degree in chemistry. Hours beyond four must be taken on the pass/fail basis. May be repeated for credit. Prerequisite: Consent of the undergraduate adviser in chemistry.",
+"prereqText": "Consent of the undergraduate adviser in chemistry.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 107",
+"subject": "CH",
+"number": "107",
+"title": "Conference Course",
+"hours": 1.0,
+"division": "lower",
+"description": "Supervised study in chemistry. One discussion hour a week for one semester, with additional hours to be arranged. May not be counted toward a major or minor in chemistry. May be repeated for credit when the topics vary. Offered on the pass/fail basis only.",
+"excluded": "a major or minor in chemistry",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CH 207",
+"subject": "CH",
+"number": "207",
+"title": "Conference Course",
+"hours": 2.0,
+"division": "lower",
+"description": "Supervised study in chemistry. One discussion hour a week for one semester, with additional hours to be arranged. May not be counted toward a major or minor in chemistry. May be repeated for credit when the topics vary. Offered on the pass/fail basis only.",
+"excluded": "a major or minor in chemistry",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CH 207K",
+"subject": "CH",
+"number": "207K",
+"title": "Introduction to Science Outreach in Elementary Schools",
+"hours": 2.0,
+"division": "lower",
+"description": "Developing and presenting level-appropriate science laboratories to students in local elementary schools. A hands-on, discovery learning approach to science is emphasized. The equivalent of five lecture hours a week for one semester, with field hours to be arranged. May be counted as an elective only."
+},
+{
+"id": "CH 207L",
+"subject": "CH",
+"number": "207L",
+"title": "Peer Teaching",
+"hours": 2.0,
+"division": "lower",
+"description": "Students act as peer teaching assistants in other University chemistry courses, mainly large general chemistry lecture sections. Two hours of lecture and training a week for one semester, and two to three hours a week leading student group discussions. May not be counted toward any degree in chemistry. Prerequisite: Chemistry 301 and consent of the coordinator of the Peer Teaching Assistant Program.",
+"prereqText": "Chemistry 301 and consent of the coordinator of the Peer Teaching Assistant Program.",
+"prereq": {
+"type": "course",
+"id": "CH 301"
+},
+"prereqConfidence": "high",
+"excluded": "any degree in chemistry"
+},
+{
+"id": "CH 108",
+"subject": "CH",
+"number": "108",
+"title": "Topics in Chemistry",
+"hours": 1.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester; some topics may require additional discussion hours. May not be counted toward a major or minor in chemistry. May be repeated for credit when the topics vary. Offered on the pass/fail basis only.",
+"excluded": "a major or minor in chemistry",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CH 208",
+"subject": "CH",
+"number": "208",
+"title": "Topics in Chemistry",
+"hours": 2.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester; some topics may require additional discussion hours. May not be counted toward a major or minor in chemistry. May be repeated for credit when the topics vary. Offered on the pass/fail basis only.",
+"excluded": "a major or minor in chemistry",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CH 308",
+"subject": "CH",
+"number": "308",
+"title": "Topics in Chemistry",
+"hours": 3.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester; some topics may require additional discussion hours. May not be counted toward a major or minor in chemistry. May be repeated for credit when the topics vary. Offered on the pass/fail basis only.",
+"excluded": "a major or minor in chemistry",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CH 408",
+"subject": "CH",
+"number": "408",
+"title": "Topics in Chemistry",
+"hours": 4.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester; some topics may require additional discussion hours. May not be counted toward a major or minor in chemistry. May be repeated for credit when the topics vary. Offered on the pass/fail basis only.",
+"excluded": "a major or minor in chemistry",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CH 110K",
+"subject": "CH",
+"number": "110K",
+"title": "Organic Chemistry Laboratory",
+"hours": 1.0,
+"division": "lower",
+"description": "Primarily for premedical, predental, life sciences, and pharmacy majors. One lecture hour and three laboratory hours a week for one semester. Prerequisite: Credit with a grade of at least C- in the following coursework: Chemistry 302, 302C, or 302H, 204, 317, or 104M and 104N; and credit or registration for one of the following: Chemistry 320M or 328M.",
+"tccn": "CHEM 2123",
+"prereqText": "Credit with a grade of at least C- in the following coursework: Chemistry 302, 302C, or 302H, 204, 317, or 104M and 104N; and credit or registration for one of the following: Chemistry 320M or 328M.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 110L",
+"subject": "CH",
+"number": "110L",
+"title": "Organic Chemistry Laboratory",
+"hours": 1.0,
+"division": "lower",
+"description": "Primarily for premedical, predental, life sciences, and pharmacy majors. One lecture hour and three laboratory hours a week for one semester. Prerequisite: Chemistry 110K.",
+"tccn": "CHEM 2125",
+"prereqText": "Chemistry 110K.",
+"prereq": {
+"type": "course",
+"id": "CH 110K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 317",
+"subject": "CH",
+"number": "317",
+"title": "Descriptive Inorganic Chemistry",
+"hours": 3.0,
+"division": "lower",
+"description": "Synthesis and properties of inorganic, bioinorganic, and organometallic compounds. One lecture hour and six laboratory hours a week for one semester. Only one of the following may be counted: Chemistry 204, 317, or 104M and 104N. Prerequisite: Credit with a grade of at least C- or registration for Chemistry 302, 302C, 402C, or 302H.",
+"prereqText": "Credit with a grade of at least C- or registration for Chemistry 302, 302C, 402C, or 302H.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 119C",
+"subject": "CH",
+"number": "119C",
+"title": "Professional Development for Chemists",
+"hours": 1.0,
+"division": "lower",
+"description": "Restricted to chemistry majors. Explore professional development in chemistry, excellence in research, scientific communication, ethics, and career planning. One lecture hour a week for one semester. Offered on the pass/fail basis only.",
+"restricted": "Restricted to chemistry majors.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CH 119S",
+"subject": "CH",
+"number": "119S",
+"title": "Topics in Chemistry",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 219S",
+"subject": "CH",
+"number": "219S",
+"title": "Topics in Chemistry",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 319S",
+"subject": "CH",
+"number": "319S",
+"title": "Topics in Chemistry",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 419S",
+"subject": "CH",
+"number": "419S",
+"title": "Topics in Chemistry",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 519S",
+"subject": "CH",
+"number": "519S",
+"title": "Topics in Chemistry",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 619S",
+"subject": "CH",
+"number": "619S",
+"title": "Topics in Chemistry",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 719S",
+"subject": "CH",
+"number": "719S",
+"title": "Topics in Chemistry",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 819S",
+"subject": "CH",
+"number": "819S",
+"title": "Topics in Chemistry",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 919S",
+"subject": "CH",
+"number": "919S",
+"title": "Topics in Chemistry",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 220C",
+"subject": "CH",
+"number": "220C",
+"title": "Organic Chemistry Laboratory",
+"hours": 2.0,
+"division": "upper",
+"description": "One lecture hour and five laboratory hours a week for one semester. Only one of the following may be counted: Chemistry 110L, 220C, 128L. Prerequisite: Credit with a grade of at least C- or registration for Chemistry 320N; and the following coursework with a grade of at least C- in each: Chemistry 204, 317, or 104M and 104N; and 320M or 328M.",
+"prereqText": "Credit with a grade of at least C- or registration for Chemistry 320N; and the following coursework with a grade of at least C- in each: Chemistry 204, 317, or 104M and 104N; and 320M or 328M.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 320M",
+"subject": "CH",
+"number": "320M",
+"title": "Organic Chemistry I",
+"hours": 3.0,
+"division": "upper",
+"description": "Primarily for premedical, predental, life sciences, and pharmacy majors. Development of organic chemical structure, nomenclature, and reactivity. Three lecture hours a week for one semester. Only one of the following may be counted: Chemistry 320M, 328C, 328M. Prerequisite: Chemistry 302, 302C, 402C, or 302H with a grade of at least C-.",
+"prereqText": "Chemistry 302, 302C, 402C, or 302H with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 320N",
+"subject": "CH",
+"number": "320N",
+"title": "Organic Chemistry II",
+"hours": 3.0,
+"division": "upper",
+"description": "Primarily for premedical, predental, life sciences, and pharmacy majors. The development of organic chemical functional group reactivity, reaction mechanics, with analogous aqueous transformations in biochemical settings. Three lecture hours a week for one semester. Only one of the following may be counted: Chemistry 320N, 328N, 329C. Prerequisite: The following coursework with a grade of at least C-: Chemistry 320M, or 328M.",
+"prereqText": "The following coursework with a grade of at least C-: Chemistry 320M, or 328M.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 328C",
+"subject": "CH",
+"number": "328C",
+"title": "Structure and Reactivity of Organic Molecules I",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the development of organic chemical structure, nomenclature, and reactivity. Three lecture hours a week for one semester. Only one of the following may be counted: Chemistry 320M, 328C, 328M. Prerequisite: One of the following with a grade of at least C-: Chemistry 302, 302C, 402C, or 302H.",
+"prereqText": "One of the following with a grade of at least C-: Chemistry 302, 302C, 402C, or 302H.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 128K",
+"subject": "CH",
+"number": "128K",
+"title": "Organic Chemistry Laboratory",
+"hours": 1.0,
+"division": "upper",
+"description": "One lecture hour and three laboratory hours a week for one semester. May not be counted by students with credit for Chemistry 220C. Chemistry 110K and 128K may not both be counted. Prerequisite: Credit with a grade of at least C- or registration for Chemistry 328M or Chemistry 328C.",
+"prereqText": "Credit with a grade of at least C- or registration for Chemistry 328M or Chemistry 328C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CH 328M"
+},
+{
+"type": "course",
+"id": "CH 328C"
+}
+]
+},
+"prereqConfidence": "high",
+"excluded": "Chemistry 220C"
+},
+{
+"id": "CH 128L",
+"subject": "CH",
+"number": "128L",
+"title": "Organic Chemistry Laboratory",
+"hours": 1.0,
+"division": "upper",
+"description": "One lecture hour and three laboratory hours a week for one semester. May not be counted by students with credit for Chemistry 210C or 220C. Only one of the following may be counted: Chemistry 110L, 118L, 128L. Prerequisite: Credit or registration for Chemistry 318N, or 328N, or Chemistry 329C; and the following coursework with a grade of at least C- in each: Chemistry 118K or 128K; and Chemistry 318M, 328M, or 328C.",
+"prereqText": "Credit or registration for Chemistry 318N, or 328N, or Chemistry 329C; and the following coursework with a grade of at least C- in each: Chemistry 118K or 128K; and Chemistry 318M, 328M, or 328C.",
+"prereqConfidence": "low",
+"excluded": "Chemistry 210C or 220C"
+},
+{
+"id": "CH 328M",
+"subject": "CH",
+"number": "328M",
+"title": "Organic Chemistry I",
+"hours": 3.0,
+"division": "upper",
+"description": "Primarily for chemistry and chemical engineering majors. The development of organic chemical structure, nomenclature, and reactivity. Three lecture hours a week for one semester. Only one of the following may be counted: Chemistry 320M, 328C, 328M. Prerequisite: Chemistry 302, 302C, 402C, or 302H with a grade of at least C-.",
+"prereqText": "Chemistry 302, 302C, 402C, or 302H with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 328N",
+"subject": "CH",
+"number": "328N",
+"title": "Organic Chemistry II",
+"hours": 3.0,
+"division": "upper",
+"description": "Primarily for chemistry and chemical engineering majors. The development of organic chemical reactivity, with an emphasis on synthesis and polymers. Three lecture hours a week for one semester. Only one of the following may be counted: Chemistry 320N, 328N, 329C. Prerequisite: The following coursework with a grade of at least C- in each: Chemistry 328M and 128K.",
+"prereqText": "The following coursework with a grade of at least C- in each: Chemistry 328M and 128K.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CH 328M"
+},
+{
+"type": "course",
+"id": "CH 128K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 329C",
+"subject": "CH",
+"number": "329C",
+"title": "Structure and Reactivity of Organic Molecules II",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the development of organic chemical reactivity, with an emphasis on synthesis and polymers. Three lecture hours a week for one semester. Only one of the following may be counted: Chemistry 320N, 328N, 329C. Prerequisite: Chemistry 328C with a grade of at least C-.",
+"prereqText": "Chemistry 328C with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "CH 328C",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 129S",
+"subject": "CH",
+"number": "129S",
+"title": "Topics in Chemistry",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 229S",
+"subject": "CH",
+"number": "229S",
+"title": "Topics in Chemistry",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 329S",
+"subject": "CH",
+"number": "329S",
+"title": "Topics in Chemistry",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 429S",
+"subject": "CH",
+"number": "429S",
+"title": "Topics in Chemistry",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 529S",
+"subject": "CH",
+"number": "529S",
+"title": "Topics in Chemistry",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 629S",
+"subject": "CH",
+"number": "629S",
+"title": "Topics in Chemistry",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 729S",
+"subject": "CH",
+"number": "729S",
+"title": "Topics in Chemistry",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 829S",
+"subject": "CH",
+"number": "829S",
+"title": "Topics in Chemistry",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 929S",
+"subject": "CH",
+"number": "929S",
+"title": "Topics in Chemistry",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Chemistry. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 329W",
+"subject": "CH",
+"number": "329W",
+"title": "Cooperative Chemistry/Biochemistry",
+"hours": 3.0,
+"division": "upper",
+"description": "This course covers the work period of chemistry and biochemistry students in the Cooperative Education program, which provides supervised work experience by arrangement with the employer and the supervising instructor. Forty laboratory hours a week for one semester. The student must repeat the course each work period and must take it twice to receive credit toward the degree; at least one of these registrations must be during a long-session semester. No more than three semester hours may be counted toward the major requirement; no more than six semester hours may be counted toward the degree. The student's first registration must be on the pass/fail basis. Prerequisite: Application to become a member of the Cooperative Chemistry/Biochemistry Program, and consent of the Department of Chemistry and Biochemistry undergraduate adviser.",
+"prereqText": "Application to become a member of the Cooperative Chemistry/Biochemistry Program, and consent of the Department of Chemistry and Biochemistry undergraduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 431",
+"subject": "CH",
+"number": "431",
+"title": "Inorganic Chemistry",
+"hours": 4.0,
+"division": "upper",
+"description": "Survey of the chemistry of the elements, incorporating both descriptive and theoretical aspects. Open-ended experiments designed to illustrate a variety of synthetic techniques. Three lecture hours and three laboratory hours a week for one semester. Prerequisite: The following coursework with a grade of at least C- in each: Chemistry 302, 302C, 402C or 302H; Chemistry 204, 317, or 104M and 104N; and Chemistry 320M, 328M or 328C.",
+"prereqText": "The following coursework with a grade of at least C- in each: Chemistry 302, 302C, 402C or 302H; Chemistry 204, 317, or 104M and 104N; and Chemistry 320M, 328M or 328C.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 341",
+"subject": "CH",
+"number": "341",
+"title": "Special Topics in Laboratory Chemistry",
+"hours": 3.0,
+"division": "upper",
+"description": "Examples of topics are physical measurements techniques; electronics for scientists; advanced synthetic chemistry (organic or inorganic); separation techniques. One lecture hour and six laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Eight semester hours of coursework in organic chemistry and consent of the undergraduate adviser.",
+"prereqText": "Eight semester hours of coursework in organic chemistry and consent of the undergraduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 644",
+"subject": "CH",
+"number": "644",
+"title": "Chemical Education: Secondary School",
+"hours": 6.0,
+"division": "upper",
+"description": "Issues and techniques in secondary school teaching of chemical sciences. Three lecture hours a week for two semesters. For students seeking the Bachelor of Science in Chemistry: Teaching Option degree. May not be counted toward any other degree in chemistry or biochemistry. Prerequisite: For 644A, eight semester hours of coursework in organic chemistry and credit or registration for Chemistry 144K; for 644B, Chemistry 644A, 144K, and credit or registration for Chemistry 144L.",
+"prereqText": "For 644A, eight semester hours of coursework in organic chemistry and credit or registration for Chemistry 144K; for 644B, Chemistry 644A, 144K, and credit or registration for Chemistry 144L.",
+"prereqConfidence": "low",
+"excluded": "any other degree in chemistry or biochemistry"
+},
+{
+"id": "CH 144K",
+"subject": "CH",
+"number": "144K",
+"title": "Chemical Education Laboratory I",
+"hours": 1.0,
+"division": "upper",
+"description": "Development of classroom demonstrations, laboratory experiments, and teaching aids for secondary school teaching of the chemical sciences. Two laboratory hours a week for one semester. For students seeking the Bachelor of Science in Chemistry: Teaching Option degree. May not be counted toward any other degree in chemistry. Prerequisite: Credit or registration for Chemistry 644A.",
+"prereqText": "Credit or registration for Chemistry 644A.",
+"prereq": {
+"type": "course",
+"id": "CH 644A"
+},
+"prereqConfidence": "high",
+"excluded": "any other degree in chemistry"
+},
+{
+"id": "CH 144L",
+"subject": "CH",
+"number": "144L",
+"title": "Chemical Education Laboratory II",
+"hours": 1.0,
+"division": "upper",
+"description": "Development of classroom demonstrations, laboratory experiments, and teaching aids for secondary school teaching of the chemical sciences. Two laboratory hours a week for one semester. For students seeking the Bachelor of Science in Chemistry: Teaching Option degree. May not be counted toward any other degree in chemistry. Prerequisite: Credit or registration for Chemistry 644B.",
+"prereqText": "Credit or registration for Chemistry 644B.",
+"prereq": {
+"type": "course",
+"id": "CH 644B"
+},
+"prereqConfidence": "high",
+"excluded": "any other degree in chemistry"
+},
+{
+"id": "CH 352D",
+"subject": "CH",
+"number": "352D",
+"title": "Chemical Data Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "An introduction to the analysis and interpretation of data gathered from chemical instrumentation. Three lecture hours a week for one semester. Prerequisite: Mathematics 408D or 408M. Credit with a grade of at least C- in Physics 316 and 116L, or Physics 303L and 103N.",
+"prereqText": "Mathematics 408D or 408M. Credit with a grade of at least C- in Physics 316 and 116L, or Physics 303L and 103N.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 353",
+"subject": "CH",
+"number": "353",
+"title": "Physical Chemistry I",
+"hours": 3.0,
+"division": "upper",
+"description": "For chemistry and chemical engineering majors. Equations of state, laws of thermodynamics, ideal and nonideal solutions, phase equilibria, thermodynamics of chemical reactions. Three lecture hours a week for one semester. Chemistry 353 and 353M may not both be counted. Prerequisite: Mathematics 408C and 408D, or two of the following: Mathematics 408K, 408L, 408M, 408N, 408S; Chemistry 302, 302C, 402C or 302H with a grade of at least C-; and Physics 316 and 116L, 303L and 103N or 105N, or 317L and 117N or 105N.",
+"prereqText": "Mathematics 408C and 408D, or two of the following: Mathematics 408K, 408L, 408M, 408N, 408S; Chemistry 302, 302C, 402C or 302H with a grade of at least C-; and Physics 316 and 116L, 303L and 103N or 105N, or 317L and 117N or 105N.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 153K",
+"subject": "CH",
+"number": "153K",
+"title": "Physical Chemistry Laboratory",
+"hours": 1.0,
+"division": "upper",
+"description": "Three laboratory hours a week for one semester. Prerequisite: Chemistry 353 or 353M with a grade of at least C-.",
+"prereqText": "Chemistry 353 or 353M with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CH 353"
+},
+{
+"type": "course",
+"id": "CH 353M",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 353M",
+"subject": "CH",
+"number": "353M",
+"title": "Physical Chemistry I for Life Sciences",
+"hours": 3.0,
+"division": "upper",
+"description": "For biochemistry and biology majors. Thermochemistry and kinetics of reactions in cells, enzyme catalysis, electrical and transport properties of membranes. Three lecture hours a week for one semester. Chemistry 353 and 353M may not both be counted. Prerequisite: Chemistry 302, 302C, 402C or 302H with a grade of at least C-; credit with a grade of at least C- in one of the following: Mathematics 408C, 408K, 408N or 408R; Physics 316 and 116L, 303L and 103N or 105N, or 317L and 117N or 105N.",
+"prereqText": "Chemistry 302, 302C, 402C or 302H with a grade of at least C-; credit with a grade of at least C- in one of the following: Mathematics 408C, 408K, 408N or 408R; Physics 316 and 116L, 303L and 103N or 105N, or 317L and 117N or 105N.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 354",
+"subject": "CH",
+"number": "354",
+"title": "Quantum Chemistry and Spectroscopy",
+"hours": 3.0,
+"division": "upper",
+"description": "Fundamental principles of quantum mechanics, exactly soluble model problems, electronic structure of atoms and molecules, spectroscopy. Three lecture hours a week for one semester. Prerequisite: Chemistry 353 or 353M with a grade of at least C-.",
+"prereqText": "Chemistry 353 or 353M with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CH 353"
+},
+{
+"type": "course",
+"id": "CH 353M",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 354C",
+"subject": "CH",
+"number": "354C",
+"title": "Statistical Mechanics",
+"hours": 3.0,
+"division": "upper",
+"description": "An introduction to statistical mechanics. Three lecture hours a week for one semester. Chemistry 354C and 354L may not both be counted. Prerequisite: Chemistry 354 with a grade of at least C-.",
+"prereqText": "Chemistry 354 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "CH 354",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 154K",
+"subject": "CH",
+"number": "154K",
+"title": "Physical Chemistry Laboratory",
+"hours": 1.0,
+"division": "upper",
+"description": "Three laboratory hours a week for one semester. Prerequisite: Chemistry 153K, and 353 or 353M with a grade of at least C-; and credit or registration for Chemistry 354 or 354L.",
+"prereqText": "Chemistry 153K, and 353 or 353M with a grade of at least C-; and credit or registration for Chemistry 354 or 354L.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 354L",
+"subject": "CH",
+"number": "354L",
+"title": "Physical Chemistry II",
+"hours": 3.0,
+"division": "upper",
+"description": "Molecular energy levels, statistical thermodynamics (macroscopic thermodynamic functions from molecular input), and physical and chemical kinetics, with emphasis on the molecular viewpoint. Three lecture hours a week for one semester. Chemistry 354C and 354L may not both be counted. Prerequisite: Chemistry 354 with a grade of at least C-.",
+"prereqText": "Chemistry 354 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "CH 354",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 354M",
+"subject": "CH",
+"number": "354M",
+"title": "Introduction to Computational Methods in Chemistry",
+"hours": 3.0,
+"division": "upper",
+"description": "Construction and implementation of numerical algorithms for solving differential equations which are common in chemistry. Subjects include chemical reaction rates, quantum mechanics, molecular dynamics, normal modes of vibration, and Monte Carlo methods. Three lecture hours a week for one semester. Only one of the following may be counted: Chemistry 354M, 368 (Topic: Applied Math and Computation in Chemistry), 368 (Topic: Computational Chemistry), 368 (Topic: Intro to Computational Methods in Chemistry). Prerequisite: The following coursework with a grade of at least C- in each: Chemistry 302, 302C, or 302H, and Chemistry 353 or 353M.",
+"prereqText": "The following coursework with a grade of at least C- in each: Chemistry 302, 302C, or 302H, and Chemistry 353 or 353M.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 354S",
+"subject": "CH",
+"number": "354S",
+"title": "Elements of Spectroscopy",
+"hours": 3.0,
+"division": "upper",
+"description": "Primarily for chemistry and biochemistry majors. Fundamentals of spectroscopy, with knowledge of elementary quantum mechanics. Separation of electronic, vibrational, rotational and spin quantum states; interaction of radiation and matter; theory and application of different types of spectroscopy including photoelectron, electronic absorption and emission, vibrational (infrared and Raman), rotational and magnetic resonance. Three lecture hours a week for one semester. Prerequisite: The following coursework with a grade of at least C- in each: Chemistry 353 or 353M, and 354 or 354L.",
+"prereqText": "The following coursework with a grade of at least C- in each: Chemistry 353 or 353M, and 354 or 354L.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 455",
+"subject": "CH",
+"number": "455",
+"title": "Fundamentals of Analytical Chemistry",
+"hours": 4.0,
+"division": "upper",
+"description": "For biochemistry, engineering, and clinical laboratory science majors. Chemical and instrumental methods in analytical chemistry. Three lecture hours and three laboratory hours a week for one semester. Chemistry 455 and 456 may not both be counted. Prerequisite: The following coursework with a grade of at least C- in each: Chemistry 302, 302C, 402C, or 302H; and Chemistry 204, 317, or 104M and 104N.",
+"prereqText": "The following coursework with a grade of at least C- in each: Chemistry 302, 302C, 402C, or 302H; and Chemistry 204, 317, or 104M and 104N.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 456",
+"subject": "CH",
+"number": "456",
+"title": "Analytical Chemistry",
+"hours": 4.0,
+"division": "upper",
+"description": "For chemistry majors. Three lecture hours and three laboratory hours a week for one semester. Chemistry 455 and 456 may not both be counted. Prerequisite: The following coursework with a grade of at least C- in each: Chemistry 302, 302C, 402C, or 302H; and Chemistry 204, 317, or 104M and 104N.",
+"prereqText": "The following coursework with a grade of at least C- in each: Chemistry 302, 302C, 402C, or 302H; and Chemistry 204, 317, or 104M and 104N.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 366C",
+"subject": "CH",
+"number": "366C",
+"title": "Advanced Inorganic Chemistry: Organometallics & Catalysis",
+"hours": 3.0,
+"division": "upper",
+"description": "An in-depth and mostly chronological study of the evolution of organometallic and inorganic coordination chemistry, and its continued critical importance in a range of industrial processes. Covers a range of topical catalytic processes, paying particular attention to how chemical bonding and kinetics can be exploited to affect the relative rates of reaction. Three lecture hours a week for one semester. Chemistry 366C and 368 (Topic: Advanced Inorganic Chemistry: Organometallic Chemistry and Catalysis) may not both be counted. Prerequisite: Credit with a grade of at least C- in Chemistry 431.",
+"prereqText": "Credit with a grade of at least C- in Chemistry 431.",
+"prereq": {
+"type": "course",
+"id": "CH 431"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 366D",
+"subject": "CH",
+"number": "366D",
+"title": "Bio-inorganic Chemistry and Spectroscopy",
+"hours": 3.0,
+"division": "upper",
+"description": "Covers the roles of transition metals in biology, mostly with respect to protein structure, function, and catalysis. Also covers methods of spectroscopy that are used to probe the geometrical and electronic structure of metal ions in proteins. Exposure to modern areas of study in bio-inorganic chemistry. Explores the principles of transition metal chemistry in the context of biological systems. Three lecture hours a week for one semester Chemistry 366D and 368 (Topic: Bio-inorganic Chemistry) may not both be counted. Prerequisite: Chemistry 431 with a grade of at least C-.",
+"prereqText": "Chemistry 431 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "CH 431",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 366E",
+"subject": "CH",
+"number": "366E",
+"title": "Chemistry of the s-, p-, d-, and f-Block Elements",
+"hours": 3.0,
+"division": "upper",
+"description": "Focuses on the electronic structure of molecules and complexes, and how such information can predict important properties such as chemical reactivity, spectroscopy, and magnetism. Intended for upper-division chemistry majors with a basic understanding of concepts in inorganic chemistry. Three lecture hours a week for one semester. Chemistry 366E and 368 (Topic: Inorganic Reactions and Structures) may not both be counted. Prerequisite: Credit with a grade of at least C- for Chemistry 431.",
+"prereqText": "Credit with a grade of at least C- for Chemistry 431.",
+"prereq": {
+"type": "course",
+"id": "CH 431"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 367C",
+"subject": "CH",
+"number": "367C",
+"title": "Materials Chemistry",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to chemistry majors. Introduction to structural and physical properties of materials and synthetic strategies for making new materials in the nanoscale and mesoscale regimes, in addition to covering instrumental methods used to probe materials properties. Some aspects of applications (semiconductor devices, solar and fuel cells, smart and responsive materials) will be covered to illustrate the kinds of material properties that need to be considered in designing novel materials of specific function. Three lecture hours a week for one semester. Prerequisite: Chemistry 431 with a grade of at least C-.",
+"prereqText": "Chemistry 431 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "CH 431",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to chemistry majors."
+},
+{
+"id": "CH 367L",
+"subject": "CH",
+"number": "367L",
+"title": "Macromolecular Chemistry",
+"hours": 3.0,
+"division": "upper",
+"description": "Designed for chemistry and chemical engineering students. Occurrence, preparation, structure, and properties of macromolecular substances. Three lecture hours a week for one semester. Only one of the following may be counted: Chemical Engineering 355, Chemistry 367L, 367P. Prerequisite: Credit with a grade of at least C- in the following coursework: Chemistry 320M and 320N, or 328M and 328N; Chemistry 220C, or 128K and 128L; and Chemistry 353 or 353M.",
+"prereqText": "Credit with a grade of at least C- in the following coursework: Chemistry 320M and 320N, or 328M and 328N; Chemistry 220C, or 128K and 128L; and Chemistry 353 or 353M.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 367P",
+"subject": "CH",
+"number": "367P",
+"title": "Introduction to Polymer Science",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore an overview of macromolecular soft materials including the fundamentals of polymer chemistry, physics, and engineering. Three lecture hours a week for one semester. Only one of the following may be counted: Chemical Engineering 355, Chemistry 367L, 367P. Prerequisite: Chemistry 320N, 328N, or 329C with a grade of at least C-.",
+"prereqText": "Chemistry 320N, 328N, or 329C with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 368",
+"subject": "CH",
+"number": "368",
+"title": "Advanced Topics in Chemistry",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: The following coursework with a grade of least C- in each: Chemistry 320M and 320N, or Chemistry 328M and 328N, or Chemistry 328C and 329C.",
+"prereqText": "The following coursework with a grade of least C- in each: Chemistry 320M and 320N, or Chemistry 328M and 328N, or Chemistry 328C and 329C.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 368L",
+"subject": "CH",
+"number": "368L",
+"title": "Peer Teaching",
+"hours": 3.0,
+"division": "upper",
+"description": "Equivalent of three lecture hours a week for one semester. Chemistry 368 (Topic: Peer Teaching) and 368L may not both be counted."
+},
+{
+"id": "CH 168Q",
+"subject": "CH",
+"number": "168Q",
+"title": "Advanced Topics in Chemistry",
+"hours": 1.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 268Q",
+"subject": "CH",
+"number": "268Q",
+"title": "Advanced Topics in Chemistry",
+"hours": 2.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 368Q",
+"subject": "CH",
+"number": "368Q",
+"title": "Advanced Topics in Chemistry",
+"hours": 3.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 468Q",
+"subject": "CH",
+"number": "468Q",
+"title": "Advanced Topics in Chemistry",
+"hours": 4.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 568Q",
+"subject": "CH",
+"number": "568Q",
+"title": "Advanced Topics in Chemistry",
+"hours": 5.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 668Q",
+"subject": "CH",
+"number": "668Q",
+"title": "Advanced Topics in Chemistry",
+"hours": 6.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 768Q",
+"subject": "CH",
+"number": "768Q",
+"title": "Advanced Topics in Chemistry",
+"hours": 7.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 868Q",
+"subject": "CH",
+"number": "868Q",
+"title": "Advanced Topics in Chemistry",
+"hours": 8.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 968Q",
+"subject": "CH",
+"number": "968Q",
+"title": "Advanced Topics in Chemistry",
+"hours": 9.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CH 369K",
+"subject": "CH",
+"number": "369K",
+"title": "Techniques of Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Advanced laboratory practice and introduction to research. One lecture hour and six laboratory hours a week for one semester. May be taken for a letter grade no more than twice. No more than six semester hours may be counted toward a degree in chemistry or biochemistry. May be repeated for credit. Prerequisite: Eight semester hours of coursework in organic chemistry; and six semester hours of upper-division chemistry courses approved by the undergraduate adviser's office, or consent of the undergraduate adviser in chemistry.",
+"prereqText": "Eight semester hours of coursework in organic chemistry; and six semester hours of upper-division chemistry courses approved by the undergraduate adviser's office, or consent of the undergraduate adviser in chemistry.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 371K",
+"subject": "CH",
+"number": "371K",
+"title": "Science Outreach in Elementary Schools",
+"hours": 3.0,
+"division": "upper",
+"description": "Students develop and present level-appropriate science laboratories to students in local elementary schools. Students also plan and create the infrastructure needed to administer the science program in concert with the science curriculum at a specific elementary school. A hands-on, discovery learning approach to science is emphasized. One class hour and six hours of fieldwork a week for one semester. May be taken for a letter grade no more than twice. No more than six semester hours may be counted toward a degree in chemistry. May be repeated for credit. Prerequisite: Upper-division standing and at least 30 hours in residence.",
+"prereqText": "Upper-division standing and at least 30 hours in residence.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 372C",
+"subject": "CH",
+"number": "372C",
+"title": "Chemistry Peer Mentors in Research and Teaching",
+"hours": 3.0,
+"division": "upper",
+"description": "Students work as peer mentors and assistants in the teaching of chemistry, with emphasis on developing instructional materials and laboratories that teach fundamental chemistry with real world data. Students mentor students for at least six hours a week in addition to other weekly meetings. Hours to be arranged. May be taken for a letter grade no more than twice. No more than six semester hours may be counted toward a degree in chemistry. Biology 372C and Chemistry 372C may not both be counted. May be repeated for credit. Prerequisite: Chemistry 301, 301C, or 301H, and 302, 302C, or 302H with a grade of at least B in each; and consent of the undergraduate adviser.",
+"prereqText": "Chemistry 301, 301C, or 301H, and 302, 302C, or 302H with a grade of at least B in each; and consent of the undergraduate adviser.",
+"prereqConfidence": "low"
+},
+{
+"id": "CH 372S",
+"subject": "CH",
+"number": "372S",
+"title": "Study and Research Abroad: Austin International Framework",
+"hours": 3.0,
+"division": "upper",
+"description": "Designed specifically for students participating in the AIF program. Facilitates student-led mini-seminars and video conference call discussions. Explores student research and wider learning and cultural experiences in Austin and abroad. Three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Enrollment in the Austin International Framework (AIF) program and consent of the instructor.",
+"prereqText": "Enrollment in the Austin International Framework (AIF) program and consent of the instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 375K",
+"subject": "CH",
+"number": "375K",
+"title": "Individual Study in Chemistry",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised reading or individual tutorial sessions on advanced topics in chemistry. Three or four class hours a week for one semester. No more than six semester hours may be counted toward a degree in chemistry. May be repeated for credit. Prerequisite: Eight semester hours of coursework in organic chemistry, Chemistry 353, and consent of the undergraduate adviser.",
+"prereqText": "Eight semester hours of coursework in organic chemistry, Chemistry 353, and consent of the undergraduate adviser.",
+"prereq": {
+"type": "course",
+"id": "CH 353"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 475K",
+"subject": "CH",
+"number": "475K",
+"title": "Individual Study in Chemistry",
+"hours": 4.0,
+"division": "upper",
+"description": "Supervised reading or individual tutorial sessions on advanced topics in chemistry. Three or four class hours a week for one semester. No more than six semester hours may be counted toward a degree in chemistry. May be repeated for credit. Prerequisite: Eight semester hours of coursework in organic chemistry, Chemistry 353, and consent of the undergraduate adviser.",
+"prereqText": "Eight semester hours of coursework in organic chemistry, Chemistry 353, and consent of the undergraduate adviser.",
+"prereq": {
+"type": "course",
+"id": "CH 353"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 375P",
+"subject": "CH",
+"number": "375P",
+"title": "Advanced Topics in Polymer Science",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Chemistry 367P with a grade of at least C-.",
+"prereqText": "Chemistry 367P with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "CH 367P",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 376K",
+"subject": "CH",
+"number": "376K",
+"title": "Advanced Analytical Chemistry",
+"hours": 3.0,
+"division": "upper",
+"description": "Two lecture hours and three laboratory hours a week for one semester. Prerequisite: Chemistry 353 and 456 with a grade of at least C- in each.",
+"prereqText": "Chemistry 353 and 456 with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CH 353",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "CH 456",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 378L",
+"subject": "CH",
+"number": "378L",
+"title": "Capstone Research and Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Develop a capstone project with a faculty adviser, with a focus on advanced laboratory techniques and experimental design. One lecture hour and six laboratory hours a week for one semester. Prerequisite: Upper-division standing, completion of at least ninety semester hours of coursework, and consent of the undergraduate adviser.",
+"prereqText": "Upper-division standing, completion of at least ninety semester hours of coursework, and consent of the undergraduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 379H",
+"subject": "CH",
+"number": "379H",
+"title": "Chemistry Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Laboratory research project in a specific field of chemistry under the supervision of one or more faculty members. Conference course. May be taken twice for credit. Must be taken in addition to the required hours for the Bachelor of Science in Chemistry degree. Students must enter no later than the first semester of the year of graduation. May be repeated for credit. Prerequisite: Consent of the student's research supervisor and the departmental honors adviser.",
+"prereqText": "Consent of the student's research supervisor and the departmental honors adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 380L",
+"subject": "CH",
+"number": "380L",
+"title": "Inorganic Reactions and Structures",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 380M",
+"subject": "CH",
+"number": "380M",
+"title": "Advanced Study in Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "For nonchemistry majors. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, a bachelor's degree with a major in science or mathematics, and consent of the graduate adviser in chemistry.",
+"prereqText": "Graduate standing, a bachelor's degree with a major in science or mathematics, and consent of the graduate adviser in chemistry.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 380N",
+"subject": "CH",
+"number": "380N",
+"title": "Advanced Inorganic Chemistry: Spectroscopy and Structure",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced inorganic chemistry, with emphasis on structure, spectroscopy, and ligand field theory. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 080R",
+"subject": "CH",
+"number": "080R",
+"title": "Dual MD/PhD Program with UT Medical Branch",
+"hours": 0.0,
+"division": "graduate",
+"description": "Preclinical medical study at the University of Texas Medical Branch at Galveston. May not be taken concurrently with another course at the University of Texas at Austin. Prerequisite: Graduate standing and admission to the MD/PhD dual degree program in chemistry.",
+"prereqText": "Graduate standing and admission to the MD/PhD dual degree program in chemistry.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 380T",
+"subject": "CH",
+"number": "380T",
+"title": "Current Concepts in Chemistry and Biochemistry: UTeach",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed for beginning graduate students seeking a review of modern chemical concepts. Three lecture hours a week for one semester. May be repeated for credit with consent of instructor. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 381M",
+"subject": "CH",
+"number": "381M",
+"title": "Advanced Analytical Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Theory and application of special methods and recent advances. Three lecture hours a week for one semester. Prerequisite: Graduate standing in chemistry and consent of instructor.",
+"prereqText": "Graduate standing in chemistry and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 382J",
+"subject": "CH",
+"number": "382J",
+"title": "Survey of Physical Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Surface chemistry and catalysis, transport properties, macromolecules, electrochemistry and electrolyte solutions, molecular thermodynamics, solution kinetics, and photochemistry. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 382K",
+"subject": "CH",
+"number": "382K",
+"title": "Advanced Physical Chemistry: Introduction to Quantum Mechanics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Chemistry 354 or the equivalent.",
+"prereqText": "Graduate standing, and Chemistry 354 or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "CH 354"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 382L",
+"subject": "CH",
+"number": "382L",
+"title": "Advanced Physical Chemistry: Statistical Mechanics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 382M",
+"subject": "CH",
+"number": "382M",
+"title": "Advanced Physical Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Quantum chemistry. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Chemistry 354, 382K, or consent of instructor.",
+"prereqText": "Graduate standing, and Chemistry 354, 382K, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CH 354"
+},
+{
+"type": "course",
+"id": "CH 382K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 182T",
+"subject": "CH",
+"number": "182T",
+"title": "Advanced Study and Research: UTeach",
+"hours": 1.0,
+"division": "graduate",
+"description": "Designed for beginning graduate students seeking review of modern chemical concepts. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 282T",
+"subject": "CH",
+"number": "282T",
+"title": "Advanced Study and Research: UTeach",
+"hours": 2.0,
+"division": "graduate",
+"description": "Designed for beginning graduate students seeking review of modern chemical concepts. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 382T",
+"subject": "CH",
+"number": "382T",
+"title": "Advanced Study and Research: UTeach",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed for beginning graduate students seeking review of modern chemical concepts. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 682T",
+"subject": "CH",
+"number": "682T",
+"title": "Advanced Study and Research: UTeach",
+"hours": 6.0,
+"division": "graduate",
+"description": "Designed for beginning graduate students seeking review of modern chemical concepts. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 386J",
+"subject": "CH",
+"number": "386J",
+"title": "Advanced Organic Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced organic chemistry, with emphasis on theory and reaction mechanisms. Three lecture hours a week for one semester. Prerequisite: Graduate standing, six semester hours of coursework in organic chemistry, and six semester hours of coursework in physical chemistry.",
+"prereqText": "Graduate standing, six semester hours of coursework in organic chemistry, and six semester hours of coursework in physical chemistry.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 386K",
+"subject": "CH",
+"number": "386K",
+"title": "Advanced Organic Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced organic chemistry, with emphasis on synthetic methods. Three lecture hours a week for one semester. Prerequisite: Graduate standing, six semester hours of coursework in organic chemistry, and six semester hours of coursework in physical chemistry.",
+"prereqText": "Graduate standing, six semester hours of coursework in organic chemistry, and six semester hours of coursework in physical chemistry.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 387K",
+"subject": "CH",
+"number": "387K",
+"title": "Biochemical Techniques",
+"hours": 3.0,
+"division": "graduate",
+"description": "Discussion of procedures and equipment used in modern biochemical investigation, with laboratory work to provide experience in techniques of general importance. Two lecture hours and seven laboratory hours a week for one semester. Prerequisite: Graduate standing, six semester hours of undergraduate coursework in biochemistry, and consent of instructor.",
+"prereqText": "Graduate standing, six semester hours of undergraduate coursework in biochemistry, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 190",
+"subject": "CH",
+"number": "190",
+"title": "Seminar in Chemistry",
+"hours": 1.0,
+"division": "graduate",
+"description": "The equivalent of one class hour a week for one semester. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in chemistry.",
+"prereqText": "Graduate standing in chemistry.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 390K",
+"subject": "CH",
+"number": "390K",
+"title": "Advanced Topics in Inorganic Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics include magnetic resonance; organometallic, main-group, and transition metal chemistry; nonaqueous solvents; high-temperature superconductors; new developments in synthetic chemistry; and aspects of inorganic chemistry relevant to material science. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in chemistry, Chemistry 380L, and consent of instructor.",
+"prereqText": "Graduate standing in chemistry, Chemistry 380L, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "CH 380L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 390L",
+"subject": "CH",
+"number": "390L",
+"title": "Advanced Topics in Analytical Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics include electrochemistry, electronics, mathematical methods, mass spectrometry, and optical methods. For most topics, three lecture hours a week for one semester; for topics on electronics and optical methods, two lecture hours and three laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 391",
+"subject": "CH",
+"number": "391",
+"title": "Advanced Topics in Organic Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics include organic photochemistry; molecular orbital theory; free radical chemistry; organometallic compounds; nuclear magnetic resonance and mass spectrometry; organic synthesis. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 391P",
+"subject": "CH",
+"number": "391P",
+"title": "Introduction to Polymer Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore an overview of macromolecular soft materials including the fundamentals of polymer chemistry, physics, and engineering. Three lecture hours a week for one semester. Chemistry 391P and 392N may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 392H",
+"subject": "CH",
+"number": "392H",
+"title": "Biomolecular Structure by Nuclear Magnetic Resonance Spectroscopy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Theory and application of modern nuclear magnetic resonance spectroscopy methods. Emphasis on applications to biological macromolecules, including protein and nucleic acid structure determination. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 392J",
+"subject": "CH",
+"number": "392J",
+"title": "Molecular Biology of the Yeast Saccharomyces",
+"hours": 3.0,
+"division": "graduate",
+"description": "The use of yeast as a tool for the study of important areas of eukaryotic biology; the use of classical and molecular genetic techniques in the study of gene expression, DNA replication and repair, development and growth control, protein targeting, and metabolism. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Chemistry 329D or the equivalent or consent of instructor.",
+"prereqText": "Graduate standing, and Chemistry 329D or the equivalent or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "CH 329D"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 392N",
+"subject": "CH",
+"number": "392N",
+"title": "Physical Chemistry of Macromolecular Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Theory of macromolecular solutions and methods for characterization of macromolecular systems. Three lecture hours a week for one semester. Chemistry 391P and 392N may not both be counted. Prerequisite: Graduate standing, and undergraduate coursework in physical chemistry or consent of instructor.",
+"prereqText": "Graduate standing, and undergraduate coursework in physical chemistry or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 392T",
+"subject": "CH",
+"number": "392T",
+"title": "Biotransformations of Drugs and Other Nonnutritive Compounds",
+"hours": 3.0,
+"division": "graduate",
+"description": "Absorption and metabolism of naturally occurring and synthetic nonnutritive compounds. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and consent of instructor.",
+"prereqText": "Graduate standing, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 392U",
+"subject": "CH",
+"number": "392U",
+"title": "Comparative Biochemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Comparative aspects of protein structure, metabolism, respiration, and cellular regulation. Three lecture hours a week for one semester. Prerequisite: Graduate standing; and consent of instructor.",
+"prereqText": "Graduate standing; and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 192W",
+"subject": "CH",
+"number": "192W",
+"title": "Analytical Student Seminar",
+"hours": 1.0,
+"division": "graduate",
+"description": "Student seminar presentations covering current research topics. Two lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 393L",
+"subject": "CH",
+"number": "393L",
+"title": "Advanced Topics in Physical Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in chemistry and consent of instructor.",
+"prereqText": "Graduate standing in chemistry and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CH 393P",
+"subject": "CH",
+"number": "393P",
+"title": "Advanced Topics in Polymer Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and Chemistry 391P with a grade of at least C-.",
+"prereqText": "Graduate standing and Chemistry 391P with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "CH 391P",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CH 395F",
+"subject": "CH",
+"number": "395F",
+"title": "Genetics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Biology 395F and Molecular Biology 395F. Basic principles of Mendelian and molecular genetics, and an exploration of the genetic toolbox using examples of analytic methods and modern genetic manipulations. Focus on the genetic analysis of model organisms. Use of genetic tools in dissecting complex biological pathways, developmental processes, and regulatory systems. Three lecture hours a week for one semester. Prerequisite: Graduate standing. An introductory course in genetics, such as Biology 325, is strongly recommended.",
+"prereqText": "Graduate standing. An introductory course in genetics, such as Biology 325, is strongly recommended.",
+"prereq": {
+"type": "course",
+"id": "BIO 325"
+},
+"prereqConfidence": "high",
+"sameAs": "Biology 395F and Molecular Biology 395F"
+},
+{
+"id": "CH 395H",
+"subject": "CH",
+"number": "395H",
+"title": "Cell Biology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Biology 395H and Molecular Biology 395H. Detailed consideration of mechanisms of growth control, cell cycle regulation, mitosis, cell signaling, protein targeting, and the integration of these processes. Three lecture hours a week for one semester. Prerequisite: Graduate standing; and consent of instructor or Biology 395F and 395G, Chemistry 395F, Molecular Biology 395F and 395G.",
+"prereqText": "Graduate standing; and consent of instructor or Biology 395F and 395G, Chemistry 395F, Molecular Biology 395F and 395G.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BIO 395F"
+},
+{
+"type": "course",
+"id": "BIO 395G"
+},
+{
+"type": "course",
+"id": "CH 395F"
+},
+{
+"type": "course",
+"id": "MOL 395F"
+},
+{
+"type": "course",
+"id": "MOL 395G"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Biology 395H and Molecular Biology 395H"
+},
+{
+"id": "CH 395K",
+"subject": "CH",
+"number": "395K",
+"title": "Advanced Individual Study in Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised reading or individual tutorial sessions on advanced topics in chemistry. For each semester hour of credit earned, one class hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing in chemistry and consent of the graduate adviser.",
+"prereqText": "Graduate standing in chemistry and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CH 695K",
+"subject": "CH",
+"number": "695K",
+"title": "Advanced Individual Study in Chemistry",
+"hours": 6.0,
+"division": "graduate",
+"description": "Supervised reading or individual tutorial sessions on advanced topics in chemistry. For each semester hour of credit earned, one class hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing in chemistry and consent of the graduate adviser.",
+"prereqText": "Graduate standing in chemistry and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CH 197C",
+"subject": "CH",
+"number": "197C",
+"title": "Problems in Chemistry",
+"hours": 1.0,
+"division": "graduate",
+"description": "Conference course with laboratory work. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in chemistry and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing in chemistry and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 297C",
+"subject": "CH",
+"number": "297C",
+"title": "Problems in Chemistry",
+"hours": 2.0,
+"division": "graduate",
+"description": "Conference course with laboratory work. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in chemistry and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing in chemistry and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 397C",
+"subject": "CH",
+"number": "397C",
+"title": "Problems in Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Conference course with laboratory work. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in chemistry and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing in chemistry and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 597C",
+"subject": "CH",
+"number": "597C",
+"title": "Problems in Chemistry",
+"hours": 5.0,
+"division": "graduate",
+"description": "Conference course with laboratory work. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in chemistry and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing in chemistry and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 697C",
+"subject": "CH",
+"number": "697C",
+"title": "Problems in Chemistry",
+"hours": 6.0,
+"division": "graduate",
+"description": "Conference course with laboratory work. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in chemistry and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing in chemistry and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 197P",
+"subject": "CH",
+"number": "197P",
+"title": "Problems in Chemistry",
+"hours": 1.0,
+"division": "graduate",
+"description": "Conference course with laboratory. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in chemistry and consent of instructor.",
+"prereqText": "Graduate standing in chemistry and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 297P",
+"subject": "CH",
+"number": "297P",
+"title": "Problems in Chemistry",
+"hours": 2.0,
+"division": "graduate",
+"description": "Conference course with laboratory. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in chemistry and consent of instructor.",
+"prereqText": "Graduate standing in chemistry and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 397P",
+"subject": "CH",
+"number": "397P",
+"title": "Problems in Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Conference course with laboratory. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in chemistry and consent of instructor.",
+"prereqText": "Graduate standing in chemistry and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 597P",
+"subject": "CH",
+"number": "597P",
+"title": "Problems in Chemistry",
+"hours": 5.0,
+"division": "graduate",
+"description": "Conference course with laboratory. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in chemistry and consent of instructor.",
+"prereqText": "Graduate standing in chemistry and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 697P",
+"subject": "CH",
+"number": "697P",
+"title": "Problems in Chemistry",
+"hours": 6.0,
+"division": "graduate",
+"description": "Conference course with laboratory. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in chemistry and consent of instructor.",
+"prereqText": "Graduate standing in chemistry and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 397S",
+"subject": "CH",
+"number": "397S",
+"title": "Advanced Topics in Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 698",
+"subject": "CH",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in chemistry and consent of the graduate adviser; for 698B, Chemistry 698A.",
+"prereqText": "For 698A, graduate standing in chemistry and consent of the graduate adviser; for 698B, Chemistry 698A.",
+"prereq": {
+"type": "course",
+"id": "CH 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 398T",
+"subject": "CH",
+"number": "398T",
+"title": "Professional Development for Graduate Students in Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to graduate students in chemistry. Provides professional development skills to graduate students in chemistry. Subjects include excellence in teaching, scientific communication, grantsmanship, ethics, and career planning. Three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to graduate students in chemistry.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 399W",
+"subject": "CH",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 699W",
+"subject": "CH",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CH 999W",
+"subject": "CH",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

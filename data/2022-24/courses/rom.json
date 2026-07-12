@@ -1,0 +1,298 @@
+{
+"code": "ROM",
+"name": "Romanian",
+"courses": [
+{
+"id": "ROM 301",
+"subject": "ROM",
+"number": "301",
+"title": "Topics in Romanian",
+"hours": 3.0,
+"division": "lower",
+"description": "May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 406",
+"subject": "ROM",
+"number": "406",
+"title": "First-Year Romanian I",
+"hours": 4.0,
+"division": "lower",
+"description": "Four lecture hours a week for one semester."
+},
+{
+"id": "ROM 407",
+"subject": "ROM",
+"number": "407",
+"title": "First-Year Romanian II",
+"hours": 4.0,
+"division": "lower",
+"description": "Four lecture hours a week for one semester. Prerequisite: Romanian 406.",
+"prereqText": "Romanian 406.",
+"prereq": {
+"type": "course",
+"id": "ROM 406"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ROM 312K",
+"subject": "ROM",
+"number": "312K",
+"title": "Second-Year Romanian I",
+"hours": 3.0,
+"division": "lower",
+"description": "Three lecture hours a week for one semester. Prerequisite: Romanian 407.",
+"prereqText": "Romanian 407.",
+"prereq": {
+"type": "course",
+"id": "ROM 407"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ROM 312L",
+"subject": "ROM",
+"number": "312L",
+"title": "Second-Year Romanian II",
+"hours": 3.0,
+"division": "lower",
+"description": "Three lecture hours a week for one semester. Prerequisite: Romanian 312K.",
+"prereqText": "Romanian 312K.",
+"prereq": {
+"type": "course",
+"id": "ROM 312K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ROM 119S",
+"subject": "ROM",
+"number": "119S",
+"title": "Topics in Romanian",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 219S",
+"subject": "ROM",
+"number": "219S",
+"title": "Topics in Romanian",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 319S",
+"subject": "ROM",
+"number": "319S",
+"title": "Topics in Romanian",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 419S",
+"subject": "ROM",
+"number": "419S",
+"title": "Topics in Romanian",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 519S",
+"subject": "ROM",
+"number": "519S",
+"title": "Topics in Romanian",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 619S",
+"subject": "ROM",
+"number": "619S",
+"title": "Topics in Romanian",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 719S",
+"subject": "ROM",
+"number": "719S",
+"title": "Topics in Romanian",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 819S",
+"subject": "ROM",
+"number": "819S",
+"title": "Topics in Romanian",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 919S",
+"subject": "ROM",
+"number": "919S",
+"title": "Topics in Romanian",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 325",
+"subject": "ROM",
+"number": "325",
+"title": "Third-Year Romanian I",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Prerequisite: Romanian 312L.",
+"prereqText": "Romanian 312L.",
+"prereq": {
+"type": "course",
+"id": "ROM 312L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ROM 326",
+"subject": "ROM",
+"number": "326",
+"title": "Third-Year Romanian II",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Prerequisite: Romanian 325.",
+"prereqText": "Romanian 325.",
+"prereq": {
+"type": "course",
+"id": "ROM 325"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ROM 328",
+"subject": "ROM",
+"number": "328",
+"title": "Topics in Advanced Romanian",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Romanian 326.",
+"prereqText": "Romanian 326.",
+"prereq": {
+"type": "course",
+"id": "ROM 326"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ROM 129S",
+"subject": "ROM",
+"number": "129S",
+"title": "Topics in Romanian",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 229S",
+"subject": "ROM",
+"number": "229S",
+"title": "Topics in Romanian",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 329S",
+"subject": "ROM",
+"number": "329S",
+"title": "Topics in Romanian",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 429S",
+"subject": "ROM",
+"number": "429S",
+"title": "Topics in Romanian",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 529S",
+"subject": "ROM",
+"number": "529S",
+"title": "Topics in Romanian",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 629S",
+"subject": "ROM",
+"number": "629S",
+"title": "Topics in Romanian",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 729S",
+"subject": "ROM",
+"number": "729S",
+"title": "Topics in Romanian",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 829S",
+"subject": "ROM",
+"number": "829S",
+"title": "Topics in Romanian",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 929S",
+"subject": "ROM",
+"number": "929S",
+"title": "Topics in Romanian",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ROM 380",
+"subject": "ROM",
+"number": "380",
+"title": "Topics in Advanced Romanian",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ROM 395",
+"subject": "ROM",
+"number": "395",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of individual projects in Romanian language, literature, or culture. The equivalent of three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Consent of the graduate adviser.",
+"prereqText": "Consent of the graduate adviser.",
+"prereqConfidence": "none"
+}
+]
+}

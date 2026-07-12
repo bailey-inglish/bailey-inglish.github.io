@@ -1,0 +1,1012 @@
+{
+"code": "SPN",
+"name": "Spanish",
+"courses": [
+{
+"id": "SPN 301",
+"subject": "SPN",
+"number": "301",
+"title": "Spanish for Graduate Students in Other Departments",
+"hours": 3.0,
+"division": "lower",
+"description": "For graduate students in other departments seeking to fulfill degree language requirements. No auditors. Purpose: To introduce fundamentals of grammar and lexicon to enable students to read texts in their areas of specialization. Primary aim: To allow students to acquire reading proficiency. Also presents audio-aural aspect. Three lecture hours a week for one semester. May not be used to fulfill the undergraduate foreign language requirement. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "SPN 601D",
+"subject": "SPN",
+"number": "601D",
+"title": "First-Year Spanish I",
+"hours": 6.0,
+"division": "lower",
+"description": "Explore the development of speaking, listening, reading, and writing skills; build vocabulary, review basic rules and terminology of grammar; and examine Spanish-speaking cultures. Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 601D, 604, 506. Only one of the following may be counted: Spanish 601D, 604, 507, 508K."
+},
+{
+"id": "SPN 604",
+"subject": "SPN",
+"number": "604",
+"title": "Accelerated Introductory Spanish for Heritage Learners",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed primarily for students who have a cultural and linguistic connection to Spanish (i.e. native and near-native speakers, Spanish as home language). Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 601D, 604, 506. Only one of the following may be counted: Spanish 601D, 604, 507, 508K. Only one of the following may be counted: Spanish 604, 610D, 312K."
+},
+{
+"id": "SPN 610D",
+"subject": "SPN",
+"number": "610D",
+"title": "First-Year Spanish II",
+"hours": 6.0,
+"division": "lower",
+"description": "Continue to explore the development of speaking, listening, reading, and writing skills; build vocabulary, review basic rules and terminology of grammar; and examine Spanish-speaking cultures. Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 604, 610D, 312K. Prerequisite: Spanish 601D (or 507 or 508K) with a grade of at least C.",
+"prereqText": "Spanish 601D (or 507 or 508K) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "SPN 601D"
+},
+{
+"type": "course",
+"id": "SPN 507"
+},
+{
+"type": "course",
+"id": "SPN 508K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SPN 311",
+"subject": "SPN",
+"number": "311",
+"title": "Intermediate Spanish",
+"hours": 3.0,
+"division": "lower",
+"description": "Focus on the development of speaking, listening, reading, and writing skills while building vocabulary. Review rules and terminology of Spanish grammar. Examine complex grammar structures and Spanish-speaking cultures. Three lecture hours a week for one semester. Only one of the following may be counted: Spanish 311, 611D, 311J, 612, or 312L. Prerequisite: Spanish 604 or 610D (or 312K) with a grade of at least C.",
+"prereqText": "Spanish 604 or 610D (or 312K) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "SPN 604"
+},
+{
+"type": "course",
+"id": "SPN 610D"
+},
+{
+"type": "course",
+"id": "SPN 312K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SPN 611D",
+"subject": "SPN",
+"number": "611D",
+"title": "Second-Year Spanish",
+"hours": 6.0,
+"division": "lower",
+"description": "Focus on the development of multilingual literacy through the analysis and use of Spanish to achieve linguistic competence (aspect, mood, compound tenses, passive voice), communication and interactional competence (pragmatics, cultural perspectives), and metalinguistic competence (critical analysis of oral and written texts, dialectal differences). Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 311, 611D, 311J, 612, or 312L. Only one of the following may be counted: Spanish 611D, 612, 314, 314J, or 318. Prerequisite: Spanish 604, 610D or 312K with a grade of at least C.",
+"prereqText": "Spanish 604, 610D or 312K with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 311J",
+"subject": "SPN",
+"number": "311J",
+"title": "Intermediate Spanish for Heritage Learners",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed primarily for students who have a cultural and linguistic connection to Spanish (i.e. native and near-native speakers, Spanish as home language). Three lecture hours a week for one semester. Only one of the following may be counted: Spanish 311, 611D, 311J, 612, or 312L. Prerequisite: Spanish 604 or 610D (or 312K) with a grade of at least C.",
+"prereqText": "Spanish 604 or 610D (or 312K) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "SPN 604"
+},
+{
+"type": "course",
+"id": "SPN 610D"
+},
+{
+"type": "course",
+"id": "SPN 312K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SPN 314",
+"subject": "SPN",
+"number": "314",
+"title": "Spanish Conversation and Culture",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore the development of oral skills and speaking strategies in different discourse genres including informal, formal, academic, and travel. Three lecture hours a week for one semester. Only one of the following may be counted: Spanish 611D, 612, 314, 314J, or 318. Prerequisite: Spanish 604, 610D or 312K with a grade of at least C.",
+"prereqText": "Spanish 604, 610D or 312K with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 314J",
+"subject": "SPN",
+"number": "314J",
+"title": "Writing and Culture in Context for Heritage Learners",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed for students with a cultural and linguistic connection to Spanish (i.e. native and near-native speakers, Spanish as a home language). Examine Hispanic cultures and sociopolitical experiences and explore communicative abilities through a variety of interactive, student-centered activities. Three lecture hours a week for one semester. Only one of the following may be counted: Spanish 611D, 612, 314, 314J, or 318. Prerequisite: Spanish 604 or 610D with a grade of at least C.",
+"prereqText": "Spanish 604 or 610D with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "SPN 604"
+},
+{
+"type": "course",
+"id": "SPN 610D",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SPN 119S",
+"subject": "SPN",
+"number": "119S",
+"title": "Topics in Spanish",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 219S",
+"subject": "SPN",
+"number": "219S",
+"title": "Topics in Spanish",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 319S",
+"subject": "SPN",
+"number": "319S",
+"title": "Topics in Spanish",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 419S",
+"subject": "SPN",
+"number": "419S",
+"title": "Topics in Spanish",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 519S",
+"subject": "SPN",
+"number": "519S",
+"title": "Topics in Spanish",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 619S",
+"subject": "SPN",
+"number": "619S",
+"title": "Topics in Spanish",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 719S",
+"subject": "SPN",
+"number": "719S",
+"title": "Topics in Spanish",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 819S",
+"subject": "SPN",
+"number": "819S",
+"title": "Topics in Spanish",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 919S",
+"subject": "SPN",
+"number": "919S",
+"title": "Topics in Spanish",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 327C",
+"subject": "SPN",
+"number": "327C",
+"title": "Advanced Grammar and Writing in Context",
+"hours": 3.0,
+"division": "upper",
+"description": "Study and practice of Spanish grammar that includes reading exercises and guided composition designed to develop writing skills across styles. Students will be exposed to various topics in Spanish language, literature, and culture. Three lecture hours a week for one semester. Spanish 327C and 327N may not both be counted. Prerequisite: Spanish 311 and 314, 611D, or 311J and 314J (or 612 or 312L).",
+"prereqText": "Spanish 311 and 314, 611D, or 311J and 314J (or 612 or 312L).",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 327N",
+"subject": "SPN",
+"number": "327N",
+"title": "Academic Writing for Heritage Speakers",
+"hours": 3.0,
+"division": "upper",
+"description": "Designed specifically for heritage speakers of Spanish and includes a wide range of cultural readings and writing tasks. Aims to strengthen the clarity and organization of writing, promote critical thinking, and master grammar points of particular concern to heritage speakers. Three lecture hours a week for one semester. Spanish 327C and 327N may not both be counted. Prerequisite: Spanish 311 and 314, 611D, or 311J and 314J (or 612 or 312L).",
+"prereqText": "Spanish 311 and 314, 611D, or 311J and 314J (or 612 or 312L).",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 327V",
+"subject": "SPN",
+"number": "327V",
+"title": "Advanced Writing and Service Learning",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the ethical perspectives on issues in education, immigration, and community service. Three lecture hours a week for one semester. Spanish 327V and 327W may not both be counted. Prerequisite: Spanish 311 and 314, 611D, or 311J and 314J (or 612 or 312L).",
+"prereqText": "Spanish 311 and 314, 611D, or 311J and 314J (or 612 or 312L).",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 328",
+"subject": "SPN",
+"number": "328",
+"title": "Spanish Civilization",
+"hours": 3.0,
+"division": "upper",
+"description": "A survey of the social, political, and cultural history of Spain. Three lecture hours and one discussion hour a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic 27), Spanish 328, 328C. Prerequisite: Spanish 311 and 314, 611D, or 311J and 314J (or 612 or 312L).",
+"prereqText": "Spanish 311 and 314, 611D, or 311J and 314J (or 612 or 312L).",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 328C",
+"subject": "SPN",
+"number": "328C",
+"title": "Introduction to Literatures and Cultures",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Latin American Studies 370S (Topic 27). Overview of Iberian and/or Latin American literatures and cultures, including the arts and popular expressions, from a multidisciplinary perspective. Among the regions studied are Spain; North, Central, and South America; the Caribbean; and related areas in Africa. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic 27), Spanish 328, 328C. Only one of the following may be counted: Latin American Studies 370S (Topic 3), 370S (Topic 27), Spanish 322K, 328C. Prerequisite: Spanish 311 and 314, 611D, or 311J and 314J (or 612 or 312L).",
+"prereqText": "Spanish 311 and 314, 611D, or 311J and 314J (or 612 or 312L).",
+"prereqConfidence": "low",
+"sameAs": "Latin American Studies 370S (Topic 27)"
+},
+{
+"id": "SPN 129S",
+"subject": "SPN",
+"number": "129S",
+"title": "Topics in Spanish",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 229S",
+"subject": "SPN",
+"number": "229S",
+"title": "Topics in Spanish",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 329S",
+"subject": "SPN",
+"number": "329S",
+"title": "Topics in Spanish",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 429S",
+"subject": "SPN",
+"number": "429S",
+"title": "Topics in Spanish",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 529S",
+"subject": "SPN",
+"number": "529S",
+"title": "Topics in Spanish",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 629S",
+"subject": "SPN",
+"number": "629S",
+"title": "Topics in Spanish",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 729S",
+"subject": "SPN",
+"number": "729S",
+"title": "Topics in Spanish",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 829S",
+"subject": "SPN",
+"number": "829S",
+"title": "Topics in Spanish",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 929S",
+"subject": "SPN",
+"number": "929S",
+"title": "Topics in Spanish",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 130D",
+"subject": "SPN",
+"number": "130D",
+"title": "Spanish across Disciplines",
+"hours": 1.0,
+"division": "upper",
+"description": "Students read and discuss Spanish language materials related to the subject matter of another designated course. One lecture hour a week for one semester. May not be counted toward fulfillment of the foreign language requirement for any bachelor's degree. Prerequisite: One upper-division Spanish course or consent of instructor.",
+"prereqText": "One upper-division Spanish course or consent of instructor.",
+"prereqConfidence": "none",
+"excluded": "fulfillment of the foreign language requirement for any bachelor's degree"
+},
+{
+"id": "SPN 330L",
+"subject": "SPN",
+"number": "330L",
+"title": "Introduction to Language and Linguistics in Society",
+"hours": 3.0,
+"division": "upper",
+"description": "Examines the dynamics of language structure and use throughout the Spanish-speaking world, and covers topics such as sound systems, grammatical structures, historical developments, language learning and loss, and dialect differences and their social significance. Three lecture hours a week for one semester. Spanish 330L and 345L may not both be counted. Prerequisite: Spanish 311 and 314, 611D, or 311J and 314J (or 612 or 312L).",
+"prereqText": "Spanish 311 and 314, 611D, or 311J and 314J (or 612 or 312L).",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 346C",
+"subject": "SPN",
+"number": "346C",
+"title": "Spanish Pronunciation",
+"hours": 3.0,
+"division": "upper",
+"description": "Review Spanish pronunciation. Examine the fundamental principles of phonetic analysis in order to show how Spanish sounds are produced, how they fall into patterns, and how they change in different environments. Three lecture hours a week for one semester. Spanish 346 and 346C may not both be counted. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 348V",
+"subject": "SPN",
+"number": "348V",
+"title": "Research through Community Engagement",
+"hours": 3.0,
+"division": "upper",
+"description": "Reflect on issues of education, community, and the process of learning utilizing a mixture of volunteer and research work. Three lecture hours a week for one semester. Only one of the following may be counted: Spanish 348D, 348V, 377C (Topic: Rsrch Community Engagement). Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 350C",
+"subject": "SPN",
+"number": "350C",
+"title": "Gender Issues in Contemporary Latin American Cinema",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Latin American Studies 370S (Topic 24) and Women's and Gender Studies 335 (Topic 6). Studies Latin American cinema as a device of gender system formation and reinforcement, and as criticism of patriarchal hegemony; discusses questions related to sexuality depicted in Latin American films. Subjects covered include: maternity, prostitution, machismo, children's sexuality, homosexuality, heterosexuality, and gender violence in films from the 1930s to present. Conducted in Spanish. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic 24), Spanish 350C, 350K (Topic 1), Women's and Gender Studies 335 (Topic 6). Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low",
+"sameAs": "Latin American Studies 370S (Topic 24) and Women's and Gender Studies 335 (Topic 6)"
+},
+{
+"id": "SPN 350D",
+"subject": "SPN",
+"number": "350D",
+"title": "Latin American Film and Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Latin American Studies 370S (Topic 46). Review Latin American cinema from the silent era to present, with an emphasis on the last forty years. Discuss the development of the film industry (particularly in Argentina and Mexico in the 1930s and 1940s), the \"New Wave\" of Latin American cinema in the 1960s, and contemporary trends. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic 25), 370S (Topic 46), Spanish 350D, 350K (Topic 3). Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low",
+"sameAs": "Latin American Studies 370S (Topic 46)"
+},
+{
+"id": "SPN 350E",
+"subject": "SPN",
+"number": "350E",
+"title": "Mediascapes: Literature and Media in the Caribbean",
+"hours": 3.0,
+"division": "upper",
+"description": "Analyze the relationship between literature and media technologies in contemporary Caribbean cultures. Examine the notion and uses of Caribbean mediascapes. Discuss the uses of media technologies derived from film, television, the internet and YouTube, and the ways they are used and read in the Spanish Caribbean. Three lecture hours a week for one semester. Only one of the following may be counted: African and African Diaspora Studies 345Q, 370 (Topic: Lit and Media in Caribbean), Latin American Studies 328 (Topic 5), 370S (Topic 28), Spanish 350E, Spanish 350K (Topic 5), Spanish Civilization 320C (Topic 2). Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 350F",
+"subject": "SPN",
+"number": "350F",
+"title": "Latin Noir: Film and Crime in Latin America",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the contributions of Latin America to film noir, in the context of criminality and urbanization in contemporary society. Three lecture hours a week for one semester. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 350G",
+"subject": "SPN",
+"number": "350G",
+"title": "Cuban Revolution",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore diverse accounts and interpretations of the Cuban Revolution in fictional and documentary film and narrative produced in the island and abroad by pro-and counter-revolutionary, island and diaspora, Cuban and non-Cuban, local and international directors and writers. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic: Cuban Revolution), Spanish 350G, 350K (Topic: Cuban Revolution). Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 351",
+"subject": "SPN",
+"number": "351",
+"title": "Don Quijote and the Early Modern World",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of Cervantes's Don Quijote in depth in the original Spanish. Examines the author's views on artistic freedom, as well as his manipulation of literary genres and conventions, with his questions regarding the dominant political, religious, and literary discourses of early modern Spain. Three lecture hours a week for one semester. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 352C",
+"subject": "SPN",
+"number": "352C",
+"title": "Contemporary Caribbean Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore themes and major authors from the Spanish Caribbean, since 1980 to contemporary United States Caribbean authors (Cuba, Puerto Rico, Dominican Republic). Discuss themes such as national identities, history, intersectionality of race, gender and sexuality, exile and displacement, urban and city enclaves, and the richness and complexity of Caribbean cultures in the United States. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic 44), Spanish 352 (Topic 4), 352C. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 353",
+"subject": "SPN",
+"number": "353",
+"title": "Sociolinguistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Explores the interrelationship of language and society, with reference to the Spanish-speaking world. Studies how socioeconomic, political, and anthropological factors like race, social class, gender, age, and identity influence linguistics forms. Three lecture hours a week for one semester. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 355C",
+"subject": "SPN",
+"number": "355C",
+"title": "Fantastic Fiction from Latin America",
+"hours": 3.0,
+"division": "upper",
+"description": "Analyze short stories by Latin American writers that in some way represent an alternative to realism. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic 30), Spanish 355 (Topic 1), 355C. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 355D",
+"subject": "SPN",
+"number": "355D",
+"title": "Jewish Voices from Latin America",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Jewish Studies 363E and Latin American Studies 370S (Topic 32). Overview of popular Jewish writers from Brazil and Spanish America, with special emphasis on those who portray in their work the situation of the Jewish communities of their respective cities and countries. Conducted in Spanish. Three lecture hours a week for one semester. Only one of the following may be counted: Jewish Studies 363 (Topic 15), 363E, Latin American Studies 328 (Topic 4), 370S (Topic 32), Spanish 355 (Topic 3), 355D, Spanish Civilization 320C (Topic 1). Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low",
+"sameAs": "Jewish Studies 363E and Latin American Studies 370S (Topic 32)"
+},
+{
+"id": "SPN 355E",
+"subject": "SPN",
+"number": "355E",
+"title": "Revolutionary Imagination in Latin American Cultures",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore literary expressions in Latin America that reflect a dissident or transgressive imaginary published during the revolutionary period (1960-1990). Examine how different socio-historical experiences require new narrative forms, and innovative ways of exploring and codifying collective community identities. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic 34), Spanish 355 (Topic 5), 355E. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 355F",
+"subject": "SPN",
+"number": "355F",
+"title": "Violence in Contemporary Mexican Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Latin American Studies 370S (Topic 23) and Women's and Gender Studies 340 (Topic 20). Studies the representation of violence in contemporary literary and cultural production in Mexico in order to understand social, political, and cultural implications of current violence there. Taught in Spanish. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic 23), Spanish 355 (Topic 6), Spanish 355F, and Women's and Gender Studies 340 (Topic 20). Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low",
+"sameAs": "Latin American Studies 370S (Topic 23) and Women's and Gender Studies 340 (Topic 20)"
+},
+{
+"id": "SPN 355G",
+"subject": "SPN",
+"number": "355G",
+"title": "Memory and Writing in Caribbean Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine literary works from the greater Caribbean basin (with a focus on Cuba and Puerto Rico) in which the act of remembering is emphatically dramatized and described. Three lecture hours per week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic 37), Spanish 355 (Topic 8), 355G. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 355J",
+"subject": "SPN",
+"number": "355J",
+"title": "Cultures in Contact in Colonial Spanish America",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore how Indigenous and European cultures represent their often-unequal encounters in colonial Spanish America. Analyze alphabetic and visual texts to examine the complex issues of mapping and representations of self and others; intercultural interpretations and exchanges; rituals and performances of domination, subordination, and negotiation; and the construction of social identities in an evolving geographic and cultural space. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic: Cult Contact Colonial Spn Amer), Spanish 355 (Topic: Cult Contact Colonial Spn Amer), 355J. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 355K",
+"subject": "SPN",
+"number": "355K",
+"title": "Body Politics in Latin American Poetry",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore poetic discourse as it relates the experience of the body to social, political and cultural contexts. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic: Body Politics Lat Am Poetry), Spanish 355 (Topic: Body Politics Lat Am Poetry), 355K. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 355L",
+"subject": "SPN",
+"number": "355L",
+"title": "From El Che to Evita",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore approaches and views from disciplines such as literature, music, film, history, and politics, and fields such as cultural studies, media studies, performance, gender and queer politics, critical race theory, and indigenous studies. Analyze different technologies of representation, from writing and visual materials to voices and sounds. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic: From El Che to Evita), Spanish 355 (Topic: From El Che to Evita), 355L. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 355M",
+"subject": "SPN",
+"number": "355M",
+"title": "Garcia Marquez",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the literary movement of magical realism from the 1940s through the 1960s when \"Cien anos de soledad\" by Garcia Marquez became a seemingly overnight sensation, through later writers such as Isabel Allende and Laura Esquivel. Explore the development of this Spanish American tradition. Three lecture hours a week for one semester. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 355N",
+"subject": "SPN",
+"number": "355N",
+"title": "Hip Hop Culture in Latin America",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the development of the culture of hip hop in Latin America. Utilize a variety of materials including rap lyrics, graffiti, urban muralism, break dance, sound design, and entrepreneurship to discuss media and migratory factors of hip hop expansion in the region; the notions of youth culture conveyed by these expressions; aesthetic debates around hip hop; the public intervention of hip hop groups and their political influence. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic: Hip Hop Culture in Lat Amer), Spanish 355 (Topic: Hip Hop Culture in Lat Amer), 355N. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 355Q",
+"subject": "SPN",
+"number": "355Q",
+"title": "Gender and Modernity in Mexican Literature and Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the representation of body in Mexico in the period comprehended between Porfirio Diaz's regime and the post-revolutionary era (1880s to 1930s). Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic: Gender/Mod in Mex Lit and Cul), Spanish 355 (Topic: Gender/Mod in Mex Lit and Cul), 355Q. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 355R",
+"subject": "SPN",
+"number": "355R",
+"title": "East, West, and New World Encounters",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine works mostly in the Latin American and Hispanic literary tradition in which images or themes related to the East (Asia, Eastern Africa, the Middle East) are developed. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic 36), Spanish 355 (Topic 7), 355R. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 356C",
+"subject": "SPN",
+"number": "356C",
+"title": "Indigenous Voices in Latin American Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine how indigenous intellectuals and writers have creatively established their own voices in writing and other modern and contemporary media in Latin America over time. Discuss works by Guaman Poma, Tito Cusi Yupanqui, Nezahualcoyotl, Jose Maria Arguedas, Rigoberta Menchu, Pascual Cona, as well as contemporary Nahuatl, Mayan, Quechua, and Mapuche poetry and narrative, films and samples of radio programs. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic 17), Spanish 350 (Topic 4), 356 (Topic 1), 356C. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 356D",
+"subject": "SPN",
+"number": "356D",
+"title": "Indigenous Resurgence",
+"hours": 3.0,
+"division": "upper",
+"description": "Analyze and discuss the ways in which re-telling, documentation and invocation of the past shapes different forms of self-representation by indigenous authors as a response to colonialism in late twentieth and early twenty-first century Latin American societies. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic: Indigenous Resurgence), Spanish 356 (Topic: Indigenous Resurgence), 356D. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 357D",
+"subject": "SPN",
+"number": "357D",
+"title": "Cultures in Contact in Medieval Spain",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore works of literature that reflect the three cultures which coexisted for almost eight centuries in medieval Spain: the Islamic, the Jewish, and the Christian. Three lecture hours a week for one semester. Only one of the following may be counted: Spanish 350 (Topic 8), 357 (Topic 2), 357D. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 357E",
+"subject": "SPN",
+"number": "357E",
+"title": "Spanish Translation and the Social Sciences",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the development of translation and interpretation skills, in speaking, reading, and writing, in the disciplines of the social sciences. Three lecture hours a week for one semester. Spanish 357 (Topic: Span Translation/Social Sci) and 357E may not both be counted. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 357F",
+"subject": "SPN",
+"number": "357F",
+"title": "Writing the Other in Spain and Latin American Texts",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the subjective encounter with \"the other\" as expressed in literary and cultural texts of early modern Spain and Latin American texts directed toward or received by a transatlantic audience during the Colonial period. Three lecture hours a week for one semester. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 357G",
+"subject": "SPN",
+"number": "357G",
+"title": "Spain on the Red Carpet",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the intersections of cinema, celebrity glamour, and global politics by focusing on the case study of Spain and the projection of its film industry abroad. Three lecture hours a week for one semester. Spanish 350K (Topic: Spain on the Red Carpet) and 357G may not both be counted. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 358C",
+"subject": "SPN",
+"number": "358C",
+"title": "Brevity in Spanish-Language Literature and Film",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Latin American Studies 370S (Topic 45). Explore the work of Spanish and Spanish American filmmakers, prose writers, and poets who have accepted the challenge of expressing themselves in a brief span of time. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic: Short Films/Stories/Poems), 370S (Topic 45), Spanish 355 (Topic: Short Films/Stories/Poems), 358C, 377C (Topic: Short Films/Stories/Poems). Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low",
+"sameAs": "Latin American Studies 370S (Topic 45)"
+},
+{
+"id": "SPN 358D",
+"subject": "SPN",
+"number": "358D",
+"title": "Spanish Creative Writing Fiction",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the creative process in different genres to improve creative writing skills. Three lecture hours a week for one semester. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 358E",
+"subject": "SPN",
+"number": "358E",
+"title": "Spanish Creative Writing Nonfiction",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the methods for writing about issues studied as non-fiction works. Three lecture hours a week for one semester. Spanish 358E and 377C (Topic: Creative Nonfiction Writing) may not both be counted. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 359",
+"subject": "SPN",
+"number": "359",
+"title": "United States Latino Literatures and Cultures in Context",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Latin American Studies 370S (Topic 43). Examines the United States Latino literary and cultural production from multidisciplinary perspectives, such as literature, film, music, and performance. Analysis of the literatures and experiences of United States Latino writers and artists in their historical and cultural specificities. Three lecture hours a week for one semester. Latin American Studies 370S (Topic 43) and Spanish 359 may not both be counted. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low",
+"sameAs": "Latin American Studies 370S (Topic 43)"
+},
+{
+"id": "SPN 364L",
+"subject": "SPN",
+"number": "364L",
+"title": "Linguistics and the Spanish Learner",
+"hours": 3.0,
+"division": "upper",
+"description": "Focuses on instructed and naturalistic second language (L2) development among adults. Subjects include: L2 acquisition theories, Spanish learners' difficulties, learners' and teachers' beliefs about L2, learners' motivations and needs, and heritage language learners. Three lecture hours a week for one semester. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 365G",
+"subject": "SPN",
+"number": "365G",
+"title": "Conference Course in Hispanic Linguistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Conference course. Prerequisite: Upper-division standing and written consent of the department chair.",
+"prereqText": "Upper-division standing and written consent of the department chair.",
+"prereqConfidence": "none"
+},
+{
+"id": "SPN 365L",
+"subject": "SPN",
+"number": "365L",
+"title": "Conference Course in Hispanic Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Conference course. Prerequisite: Upper-division standing and written consent of the department chair.",
+"prereqText": "Upper-division standing and written consent of the department chair.",
+"prereqConfidence": "none"
+},
+{
+"id": "SPN 367C",
+"subject": "SPN",
+"number": "367C",
+"title": "Spanish for Health Care Professions",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore both spoken and written language in health care situations. Focus on complex grammatical concepts and cultural issues that affect professional activities in Spanish-speaking communities. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 322 (Topic 17), Spanish 367C, 367K (Topic 7), 367P (Topic 1). Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 367D",
+"subject": "SPN",
+"number": "367D",
+"title": "Business in Hispanic Life and Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore business Spanish. Practice verbal communication in the context of meetings, exchanges, video conferences, presentations, and professional discussion, in Spanish and in areas related to finance, marketing, accounting, operations. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 322 (Topic 18), 370S (Topic 19), Spanish 350 (Topic 10), 367D, 367P (Topic 2). Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 367T",
+"subject": "SPN",
+"number": "367T",
+"title": "Advanced Oral and Written Expression for Teachers",
+"hours": 3.0,
+"division": "upper",
+"description": "Designed to help teacher candidates prepare to pass the state oral and written proficiency exams at the advanced level to obtain certification. Focus on oral proficiency for various genres of speaking with an emphasis on writing and reading of different genres. Three lecture hours a week for one semester. Prerequisite: Spanish 327C (or 327G), 327N, 327W, 328C, or 330L.",
+"prereqText": "Spanish 327C (or 327G), 327N, 327W, 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 368D",
+"subject": "SPN",
+"number": "368D",
+"title": "Contact Spanish in the United States",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the linguistic situation of persons of Spanish language heritage in the United States. Focus on the social and cultural factors that are implicated in their language behaviors. Three lecture hours a week for one semester. Spanish 368C (Topic: Contact Spanish in the U.S.) and 368D may not both be counted. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 368E",
+"subject": "SPN",
+"number": "368E",
+"title": "Bilingualism",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine bilingualism in the Spanish-speaking world from the perspective of individuals in societies. Three lecture hours a week for one semester. Spanish 368C (Topic: Bilingualism) and 368E may not both be counted. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 368F",
+"subject": "SPN",
+"number": "368F",
+"title": "Spanish in Mental Health Contexts",
+"hours": 3.0,
+"division": "upper",
+"description": "Develop the Spanish language skills needed to perform multiple interventions in the mental health field when providing care to Hispanic/Latino limited English proficiency patients. Three lecture hours a week for one semester. Spanish 368F and 377C (Topic: Spn in Mental Health Contexts) may not both be counted. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 369C",
+"subject": "SPN",
+"number": "369C",
+"title": "African Diasporas",
+"hours": 3.0,
+"division": "upper",
+"description": "Analyze the sociocultural contexts of the African diaspora in the Americas with particular focus on the Caribbean and Brazil. Explore the contributions of the African diasporic populations and the stylistic strategies through which they constructed their social, political, and cultural agency. Three lecture hours a week for one semester. Only one of the following may be counted: Latin American Studies 370S (Topic 42), Spanish 358 (Topic 1), 369C. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 377C",
+"subject": "SPN",
+"number": "377C",
+"title": "Topics in Spanish",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W), 328C, or 330L.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 377H",
+"subject": "SPN",
+"number": "377H",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on a literary, linguistic, or cultural problem, culminating in a written thesis. The equivalent of three lecture hours a week for one semester. Prerequisite: Upper-division standing, admission to the Honors Program, and consent of the Honors advisor.",
+"prereqText": "Upper-division standing, admission to the Honors Program, and consent of the Honors advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "SPN 379C",
+"subject": "SPN",
+"number": "379C",
+"title": "Capstone Seminar in Literatures and Cultures",
+"hours": 3.0,
+"division": "upper",
+"description": "Brings together central issues, concepts, and themes that define Iberian or Latin American literatures and cultures, while focusing on a specific case-study or case-studies. Three lecture hours a week for one semester. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W); and 328C; and twelve hours of upper-division coursework in Spanish.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W); and 328C; and twelve hours of upper-division coursework in Spanish.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 679H",
+"subject": "SPN",
+"number": "679H",
+"title": "Honors Tutorial Course",
+"hours": 6.0,
+"division": "upper",
+"description": "Supervised individual research on a literary, linguistic, or cultural problem, culminating in a written thesis of fifty to eighty typewritten pages. Conference course for two semesters. Prerequisite: For 679HA, upper-division standing, admission to the Spanish Honors Program, and consent of the honors adviser; for 679HB, Spanish 679HA.",
+"prereqText": "For 679HA, upper-division standing, admission to the Spanish Honors Program, and consent of the honors adviser; for 679HB, Spanish 679HA.",
+"prereq": {
+"type": "course",
+"id": "SPN 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SPN 379L",
+"subject": "SPN",
+"number": "379L",
+"title": "Capstone Seminar in Linguistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Brings together central issues, concepts, and themes that define linguistics, while focusing on a specific case-study or case-studies, that allow for the necessary depth and rigor to produce a research paper on a particular topic of interest. Three lecture hours a week for one semester. Prerequisite: One of the following: Spanish 327C, 327N, 327V (or 327W); and 328C; and twelve hours of upper-division coursework in Spanish.",
+"prereqText": "One of the following: Spanish 327C, 327N, 327V (or 327W); and 328C; and twelve hours of upper-division coursework in Spanish.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 380K",
+"subject": "SPN",
+"number": "380K",
+"title": "Studies in Spanish American Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics include Modernismo; the short story; contemporary trends of the Spanish American novel; the literary prose of Sarmiento; gaucho literature; Ruben Dario; contemporary Argentine fiction. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, twelve semester hours of upper-division coursework in Spanish, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, twelve semester hours of upper-division coursework in Spanish, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "SPN 285L",
+"subject": "SPN",
+"number": "285L",
+"title": "Conference Course in Hispanic Literatures and Linguistics",
+"hours": 2.0,
+"division": "graduate",
+"description": "For students needing specialized courses not normally or not often included in the regular course offerings. Conference course. May be repeated for credit. Prerequisite: Graduate standing and written consent of the graduate adviser.",
+"prereqText": "Graduate standing and written consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "SPN 385L",
+"subject": "SPN",
+"number": "385L",
+"title": "Conference Course in Hispanic Literatures and Linguistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "For students needing specialized courses not normally or not often included in the regular course offerings. Conference course. May be repeated for credit. Prerequisite: Graduate standing and written consent of the graduate adviser.",
+"prereqText": "Graduate standing and written consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "SPN 396K",
+"subject": "SPN",
+"number": "396K",
+"title": "Comparative Romance Linguistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "General survey of the development of spoken Latin in Italy, Spain, Portugal, and France; main traits of phonology, morphology, and syntax of each modern derivative language. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in languages and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing in languages and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "SPN 398R",
+"subject": "SPN",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in Spanish and consent of the graduate adviser.",
+"prereqText": "Graduate standing in Spanish and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

@@ -1,0 +1,850 @@
+{
+"code": "ARI",
+"name": "Architectural Interior Design",
+"courses": [
+{
+"id": "ARI 310K",
+"subject": "ARI",
+"number": "310K",
+"title": "Design I",
+"hours": 3.0,
+"division": "lower",
+"description": "Same as Architecture 310K. Restricted to students in the School of Architecture. An introduction to the forms and methods of design for architects and interior designers, with an emphasis on inhabitation including body, light, and movement. Taught in a studio format by faculty members under the direction of a faculty coordinator. Three lecture hours and six laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Registration for Architectural Interior Design 311K or Architecture 311K.",
+"prereqText": "Registration for Architectural Interior Design 311K or Architecture 311K.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ARI 311K"
+},
+{
+"type": "course",
+"id": "ARC 311K"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Architecture 310K",
+"restricted": "Restricted to students in the School of Architecture.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ARI 310L",
+"subject": "ARI",
+"number": "310L",
+"title": "Design II",
+"hours": 3.0,
+"division": "lower",
+"description": "Same as Architecture 310L. Restricted to students in the School of Architecture. An introduction to the forms and methods of design for architects and interior designers, with an emphasis on environment, including color, material, and texture. Taught in a studio format by faculty members under the direction of a faculty coordinator. Three lecture hours and six laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Architecture 310K and 311K or Architectural Interior Design 310K and 311K with a grade of at least C in each, and registration for Architecture 311L or Architectural Interior Design 311L.",
+"prereqText": "Architecture 310K and 311K or Architectural Interior Design 310K and 311K with a grade of at least C in each, and registration for Architecture 311L or Architectural Interior Design 311L.",
+"prereqConfidence": "low",
+"sameAs": "Architecture 310L",
+"restricted": "Restricted to students in the School of Architecture.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ARI 311K",
+"subject": "ARI",
+"number": "311K",
+"title": "Visual Communication I",
+"hours": 3.0,
+"division": "lower",
+"description": "Same as Architecture 311K. Restricted to students in the School of Architecture. Study and application of drawing and other communication skills for designers, including formal and spatial studies, life drawing, and perspective. Three lecture hours and three laboratory hours a week for one semester. Prerequisite: Registration for Architectural Interior Design 310K or Architecture 310K.",
+"prereqText": "Registration for Architectural Interior Design 310K or Architecture 310K.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ARI 310K"
+},
+{
+"type": "course",
+"id": "ARC 310K"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Architecture 311K",
+"restricted": "Restricted to students in the School of Architecture."
+},
+{
+"id": "ARI 311L",
+"subject": "ARI",
+"number": "311L",
+"title": "Visual Communication II",
+"hours": 3.0,
+"division": "lower",
+"description": "Same as Architecture 311L. Restricted to students in the School of Architecture. Study and application of drawing and other communication skills for designers, including color, light and shadow, and projections. Employs manual and digital techniques. Three lecture hours and three laboratory hours a week for one semester. Prerequisite: Architecture 310K and 311K or Architectural Interior Design 310K and 311K with a grade of at least C in each, and registration for Architecture 310L or Architectural Interior Design 310L.",
+"prereqText": "Architecture 310K and 311K or Architectural Interior Design 310K and 311K with a grade of at least C in each, and registration for Architecture 310L or Architectural Interior Design 310L.",
+"prereqConfidence": "low",
+"sameAs": "Architecture 311L",
+"restricted": "Restricted to students in the School of Architecture."
+},
+{
+"id": "ARI 318K",
+"subject": "ARI",
+"number": "318K",
+"title": "Interiors and Society",
+"hours": 3.0,
+"division": "lower",
+"description": "Concepts, principles, and elements of interior design, presented in artistic, philosophical, and professional contexts. Includes a basic historical overview of the development of interior design. Three lecture hours a week for one semester. Prerequisite: For students in the School of Architecture, none; for others, consent of instructor.",
+"prereqText": "For students in the School of Architecture, none; for others, consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 318M",
+"subject": "ARI",
+"number": "318M",
+"title": "Interior Design History",
+"hours": 3.0,
+"division": "lower",
+"description": "Survey of interior design from antiquity through the eighteenth century, including theoretical, social, technical, and environmental forces. Three lecture hours a week for one semester. Prerequisite: Architectural Interior Design 318K with a grade of at least C.",
+"prereqText": "Architectural Interior Design 318K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARI 318K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARI 320K",
+"subject": "ARI",
+"number": "320K",
+"title": "Design III--Interiors",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the School of Architecture. Focus on the physical and psychological needs of the inhabitants of interior space, with an emphasis on conceptual process and diagrammatic techniques. Projects deal with real building situations and introduce implications of fenestration, structure, and materials. Nine hours of lecture and studio a week for one semester. Prerequisite: The following coursework with a grade of at least C in each: Architectural Interior Design 310L and 311L, or Architecture 310L and 311L; and registration for Architectural Interior Design 221K or Architecture 221K.",
+"prereqText": "The following coursework with a grade of at least C in each: Architectural Interior Design 310L and 311L, or Architecture 310L and 311L; and registration for Architectural Interior Design 221K or Architecture 221K.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in the School of Architecture."
+},
+{
+"id": "ARI 520L",
+"subject": "ARI",
+"number": "520L",
+"title": "Design IV--Interiors",
+"hours": 5.0,
+"division": "upper",
+"description": "Restricted to students in the School of Architecture. Explores linkages between multiple interior spaces and the study of spatial thresholds. Investigates individual spaces in relation to the body and the surrounding environment, utilizing a clearly defined program. Fifteen hours of lecture and studio a week for one semester. Prerequisite: Architectural Interior Design 320K, Architecture 415K, and Architectural Interior Design 221K or Architecture 221K, with a grade of at least C in each.",
+"prereqText": "Architectural Interior Design 320K, Architecture 415K, and Architectural Interior Design 221K or Architecture 221K, with a grade of at least C in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in the School of Architecture."
+},
+{
+"id": "ARI 221K",
+"subject": "ARI",
+"number": "221K",
+"title": "Visual Communication III",
+"hours": 2.0,
+"division": "upper",
+"description": "Same as Architecture 221K. Restricted to students in the School of Architecture. Introduction to digital modeling as well as principles of digital fabrication. Includes various modes of output such as drawings, renderings, and physical models. Three lecture hours and three laboratory hours a week for one semester. Prerequisite: The following coursework with a grade of at least C in each: Architectural Interior Design 310L and 311L, or Architecture 310L and 311L; and registration for Architectural Interior Design 320K or Architecture 320D (or 320K).",
+"prereqText": "The following coursework with a grade of at least C in each: Architectural Interior Design 310L and 311L, or Architecture 310L and 311L; and registration for Architectural Interior Design 320K or Architecture 320D (or 320K).",
+"prereqConfidence": "low",
+"sameAs": "Architecture 221K",
+"restricted": "Restricted to students in the School of Architecture."
+},
+{
+"id": "ARI 324K",
+"subject": "ARI",
+"number": "324K",
+"title": "Environmental Controls I",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Architecture 334K. Restricted to students in the School of Architecture. A survey of acoustics, color, light, illumination, and electrical and information systems in architectural interiors. Includes techniques of documentation. Three lecture hours and three laboratory hours a week for one semester. Architectural Interior Design 324K and Architecture 334K may not both be counted. Prerequisite: Architectural Interior Design 520L or Architecture 521E (or 520E) or 521G (or 520G) with a grade of at least C.",
+"prereqText": "Architectural Interior Design 520L or Architecture 521E (or 520E) or 521G (or 520G) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ARI 520L"
+},
+{
+"type": "course",
+"id": "ARC 521E"
+},
+{
+"type": "course",
+"id": "ARC 520E"
+},
+{
+"type": "course",
+"id": "ARC 521G"
+},
+{
+"type": "course",
+"id": "ARC 520G",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Architecture 334K",
+"restricted": "Restricted to students in the School of Architecture."
+},
+{
+"id": "ARI 327P",
+"subject": "ARI",
+"number": "327P",
+"title": "Productions",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Architecture 327P. Designed to explore the relationships between the generation of form, space, experience, and atmosphere in the spatial practices of interior design, architecture, and art. Three lecture hours a week for one semester. Only one of the following may be counted: Architecture 327P, 350R (Topic: Productions), Architectural Interior Design 327P. Prerequisite: For students in the School of Architecture, upper-division standing; for others, upper-division standing and consent of instructor.",
+"prereqText": "For students in the School of Architecture, upper-division standing; for others, upper-division standing and consent of instructor.",
+"prereqConfidence": "none",
+"sameAs": "Architecture 327P"
+},
+{
+"id": "ARI 328P",
+"subject": "ARI",
+"number": "328P",
+"title": "Prototype",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Architecture 328P. Focus on digital fabrication as a link between architecture and product design. The equivalent of three lecture hours a week for one semester. Only one of the following may be counted: Architecture 328P, 351R (Topic: Prototype), Architectural Interior Design 328P. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and Architecture 520L with a grade of at least C, or consent of instructor.",
+"prereqText": "Upper-division standing and Architecture 520L with a grade of at least C, or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "ARC 520L",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"sameAs": "Architecture 328P",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ARI 130",
+"subject": "ARI",
+"number": "130",
+"title": "Interior Design Internship",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in the School of Architecture. Practical application of design procedures in a professional design office. At least 250 hours of work in one semester. Prerequisite: Architectural Interior Design 530T.",
+"prereqText": "Architectural Interior Design 530T.",
+"prereq": {
+"type": "course",
+"id": "ARI 530T"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the School of Architecture."
+},
+{
+"id": "ARI 530K",
+"subject": "ARI",
+"number": "530K",
+"title": "Design V--Interiors",
+"hours": 5.0,
+"division": "upper",
+"description": "Restricted to students in the School of Architecture. Examination of the elements of interior space and scale, including specific human factors. Particular emphasis on the design, documentation, production, and placement of objects in interiors. Fifteen hours of lecture and studio a week for one semester. Prerequisite: Architectural Interior Design 520L and 434K with a grade of at least C in each.",
+"prereqText": "Architectural Interior Design 520L and 434K with a grade of at least C in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ARI 520L",
+"minGrade": "C"
+},
+{
+"type": "course",
+"id": "ARI 434K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the School of Architecture."
+},
+{
+"id": "ARI 530T",
+"subject": "ARI",
+"number": "530T",
+"title": "Design VI--Interiors",
+"hours": 5.0,
+"division": "upper",
+"description": "Restricted to students in the School of Architecture. Capstone studio with specific design projects from current markets. Application of code issues, regulatory restraints, fire safety, and regulations for accessibility in interiors. Fifteen hours of lecture and studio a week for one semester. Prerequisite: Architectural Interior Design 324K and 530K with a grade of at least C in each.",
+"prereqText": "Architectural Interior Design 324K and 530K with a grade of at least C in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ARI 324K",
+"minGrade": "C"
+},
+{
+"type": "course",
+"id": "ARI 530K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the School of Architecture."
+},
+{
+"id": "ARI 434K",
+"subject": "ARI",
+"number": "434K",
+"title": "Construction II--Interior Materials and Assemblies",
+"hours": 4.0,
+"division": "upper",
+"description": "Restricted to students in the School of Architecture. Core concepts in interior materials, assemblies, and systems. Includes material properties, environmental and sustainable issues, attachment, detailing, and product specifications. Projects encourage manipulation and assembly of various material systems. Case studies using material samples, and field trips to sites of fabrication. Six hours of lecture and laboratory a week for one semester. Prerequisite: Architecture 415K with a grade of at least C.",
+"prereqText": "Architecture 415K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARC 415K",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the School of Architecture."
+},
+{
+"id": "ARI 338",
+"subject": "ARI",
+"number": "338",
+"title": "Designing for Human Behavior",
+"hours": 3.0,
+"division": "upper",
+"description": "Issues of mood, privacy, perception, proxemics, and preferences applied to the design of interiors. Three lecture hours a week for one semester. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 350R",
+"subject": "ARI",
+"number": "350R",
+"title": "Topics in Interior Design Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "Seminar in a variety of topics. Designed to broaden the student's knowledge of interior design and to encourage critical and theoretical thinking in the discipline. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: For students in the School of Architecture, upper-division standing; for others, upper-division standing and consent of instructor.",
+"prereqText": "For students in the School of Architecture, upper-division standing; for others, upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 560R",
+"subject": "ARI",
+"number": "560R",
+"title": "Advanced Interior Design",
+"hours": 5.0,
+"division": "upper",
+"description": "Restricted to students in the School of Architecture. Synthesis of components covered in other interior design courses, such as human aspects, place-making, the interior envelope, transitional spaces, and conceptual processes. Ten hours of lecture and studio a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Architectural Interior Design 530T with a grade of at least C and satisfactory completion of a third-year portfolio review.",
+"prereqText": "Architectural Interior Design 530T with a grade of at least C and satisfactory completion of a third-year portfolio review.",
+"prereq": {
+"type": "course",
+"id": "ARI 530T",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the School of Architecture."
+},
+{
+"id": "ARI 362",
+"subject": "ARI",
+"number": "362",
+"title": "Interior Design Practice",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the School of Architecture. Business procedures, professional practice, design project control and management, and professional ethics. Documents procedures for interior design. Three lecture hours a week for one semester. Prerequisite: Upper-division standing or consent of instructor.",
+"prereqText": "Upper-division standing or consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the School of Architecture."
+},
+{
+"id": "ARI 368R",
+"subject": "ARI",
+"number": "368R",
+"title": "Interior Design History II",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of function and aesthetics, and decoration and use, emphasizing interiors from the nineteenth century to the present. Three lecture hours a week for one semester. Prerequisite: Architectural Interior Design 318M with a grade of at least C.",
+"prereqText": "Architectural Interior Design 318M with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARI 318M",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARI 368S",
+"subject": "ARI",
+"number": "368S",
+"title": "Topics in the History of Architecture and Architectural Interior Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Seminars and lecture/seminars on advanced topics in the history of architectural interior design. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing; and for students in the School of Architecture, Architecture 318L with a grade of at least C; for others, consent of instructor.",
+"prereqText": "Upper-division standing; and for students in the School of Architecture, Architecture 318L with a grade of at least C; for others, consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "ARC 318L",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARI 279",
+"subject": "ARI",
+"number": "279",
+"title": "Interior Design Research",
+"hours": 2.0,
+"division": "upper",
+"description": "Investigation of problems selected by the student with approval of the supervising instructor. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Prerequisite: Upper-division standing and consent of instructor and the dean.",
+"prereqText": "Upper-division standing and consent of instructor and the dean.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 379",
+"subject": "ARI",
+"number": "379",
+"title": "Interior Design Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Investigation of problems selected by the student with approval of the supervising instructor. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Prerequisite: Upper-division standing and consent of instructor and the dean.",
+"prereqText": "Upper-division standing and consent of instructor and the dean.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 281",
+"subject": "ARI",
+"number": "281",
+"title": "Visual Communications",
+"hours": 2.0,
+"division": "graduate",
+"description": "Introduction to using digital tools for communicating design, with an emphasis on integrating digital image, CAD, and 3-D software processes with hand drawing and modeling techniques. Subjects may include the manipulation of digital images, the combination of text and image, rendered perspectives, measured drawings, an introduction to 3-D modeling, and the use of advanced visual language. Some projects are based on work done in the student's design studios. Six hours of lecture and studio a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 381D",
+"subject": "ARI",
+"number": "381D",
+"title": "Architectural Drawing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Visual communication in such media as freehand drawing, modeling, photography, and measured drawings. Five laboratory hours a week for one semester. Architecture Interior Design 381D and 381R (Topic: Architectural Drawing) may not both be counted. Prerequisite: Graduate standing and consent of graduate adviser.",
+"prereqText": "Graduate standing and consent of graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 381R",
+"subject": "ARI",
+"number": "381R",
+"title": "Topics in Representation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics in the fundamental components of interior design and visual communication. Five or six laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 381T",
+"subject": "ARI",
+"number": "381T",
+"title": "Topics in Emerging Technologies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examines tools, techniques, and methods used in simulating, constructing, and experiencing interior space. Studies how various emerging technologies affect interior design, from initial design to fabrication to completion. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 382",
+"subject": "ARI",
+"number": "382",
+"title": "Interior Design Practice",
+"hours": 3.0,
+"division": "graduate",
+"description": "Business procedures, professional practice, design project control and management, and professional ethics as they relate to interior design. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 382D",
+"subject": "ARI",
+"number": "382D",
+"title": "Mediating Interiors",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore methods of media-based processes such as drawing, modeling, imaging, and coding in design, with particular emphasis on explorations which make interior space perceptually, physically, and conceptually tangible. Three lectures hours a week for one semester. Prerequisite: Graduate standing and consent of graduate advisor.",
+"prereqText": "Graduate standing and consent of graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 384F",
+"subject": "ARI",
+"number": "384F",
+"title": "Environmental Control: Heat, Air and Water",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine thermal comfort, heating, cooling, ventilation, plumbing systems, fire protection, and conveying equipment in buildings. Three lecture hours and one laboratory hour a week for one semester. Only one of the following may be counted: Architecture 384F, 384L, Architectural Interior Design 384F, and 384K. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 384G",
+"subject": "ARI",
+"number": "384G",
+"title": "Environmental Control: Light, Sound and Electricity",
+"hours": 3.0,
+"division": "graduate",
+"description": "Survey light and color fundamentals, daylighting, artificial illumination, acoustics, and electrical and information systems for buildings. Three lecture hours and one laboratory hour a week for one semester. Only one of the following may be counted: Architecture 384K, 384G, Architectural Interior Design 384L, 384G. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 385K",
+"subject": "ARI",
+"number": "385K",
+"title": "Construction I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Interior Design, first professional program. Introduction to building construction, materials, and structures. Three lecture hours and three laboratory hours a week for one semester. Prerequisite: Graduate standing and consent of graduate adviser.",
+"prereqText": "Graduate standing and consent of graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Master of Interior Design, first professional program."
+},
+{
+"id": "ARI 385L",
+"subject": "ARI",
+"number": "385L",
+"title": "Construction II: Interior Materials and Assemblies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Interior Design, first professional program. Core concepts in interior materials, assemblies, and systems. Includes material properties, environmental and sustainable issues, attachment, detailing, and product specifications. Projects encourage manipulation and assembly of various material systems. Also includes case studies using material samples, and field trips to sites of fabrication. Six lecture hours and three laboratory hours a week for one semester. Prerequisite: Graduate standing, Architectural Interior Design 385K with a grade of at least C, and consent of graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 385K with a grade of at least C, and consent of graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "ARI 385K",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Master of Interior Design, first professional program."
+},
+{
+"id": "ARI 385T",
+"subject": "ARI",
+"number": "385T",
+"title": "Topics in Materials and Tectonics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Investigates traditional interior design materials and materials emerging from new technologies. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 386K",
+"subject": "ARI",
+"number": "386K",
+"title": "Seminar in Interior Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introductory subjects in interior design. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 386M",
+"subject": "ARI",
+"number": "386M",
+"title": "Topics in Interior Design Theory and Criticism",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 388",
+"subject": "ARI",
+"number": "388",
+"title": "Designing for Human Behavior",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Interior Design, first professional program. Three lecture hours a week for one semester. Architectural Interior Design 386M (Topic: Designing for Human Behavior) and 388 may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Master of Interior Design, first professional program."
+},
+{
+"id": "ARI 388K",
+"subject": "ARI",
+"number": "388K",
+"title": "Interior Design History I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Survey of interior design from antiquity through the eighteenth century, including theoretical, social, technical, and environmental issues. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 388L",
+"subject": "ARI",
+"number": "388L",
+"title": "Interior Design History II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of function and aesthetics, and decoration and use, emphasizing interiors from the nineteenth century to the present. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Architectural Interior Design 388K with a grade of at least C.",
+"prereqText": "Graduate standing and Architectural Interior Design 388K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARI 388K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARI 388R",
+"subject": "ARI",
+"number": "388R",
+"title": "Topics in Interior Design History",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser. Additional prerequisites may vary with the topic.",
+"prereqText": "Graduate standing and consent of the graduate adviser. Additional prerequisites may vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 389",
+"subject": "ARI",
+"number": "389",
+"title": "Research in Interior Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Investigation of problems selected by the student and approved by the graduate adviser. Three or six lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 689",
+"subject": "ARI",
+"number": "689",
+"title": "Research in Interior Design",
+"hours": 6.0,
+"division": "graduate",
+"description": "Investigation of problems selected by the student and approved by the graduate adviser. Three or six lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 391P",
+"subject": "ARI",
+"number": "391P",
+"title": "Productions",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Architecture 391P. Designed to explore the relationships between the generation of form, space, experience, and atmosphere in the spatial practices of interior design, architecture, and art. Three lecture hours a week for one semester. Only one of the following may be counted: Architecture 386M (Topic: Productions), 391P, Architectural Interior Design 386M (Topic: Productions), 391P. Prerequisite: For students in the School of Architecture, graduate standing; for others, graduate standing and consent of instructor.",
+"prereqText": "For students in the School of Architecture, graduate standing; for others, graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"sameAs": "Architecture 391P"
+},
+{
+"id": "ARI 392F",
+"subject": "ARI",
+"number": "392F",
+"title": "Digital Drawing and Fabrication",
+"hours": 3.0,
+"division": "graduate",
+"description": "Focus on advanced visual communication methodologies necessary for architectural generation, translation, and output. Six laboratory hours a week for one semester. Architectural Interior Design 381R (Topic: Digital Drawing and Fabrication) and 392F may not both be counted. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 392P",
+"subject": "ARI",
+"number": "392P",
+"title": "Prototype",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Architecture 392P. Focus on digital fabrication as a link between architecture and product design. Five laboratory hours a week for one semester. Only one of the following may be counted: Architecture 381R (Topic: Prototype), 392P, Architectural Interior Design 381R (Topic: Prototype), 392P. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"sameAs": "Architecture 392P",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ARI 693",
+"subject": "ARI",
+"number": "693",
+"title": "Master's Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Interior Design, first professional program. Advanced study in architectural interior design, addressing complex design problems and issues related to various architectural topics. The equivalent of eighteen laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Master of Interior Design, first professional program."
+},
+{
+"id": "ARI 693K",
+"subject": "ARI",
+"number": "693K",
+"title": "Interior Design Core Studio I",
+"hours": 6.0,
+"division": "graduate",
+"description": "Explores interior spaces and their sequence and adjacencies. Studies individual rooms, their locations, and their uses in such fields as hospitality, health care, and entertainment. Special emphasis on the design of transitions from public spaces to personal spaces. Fifteen hours of lecture and studio a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 693L",
+"subject": "ARI",
+"number": "693L",
+"title": "Interior Design Core Studio II",
+"hours": 6.0,
+"division": "graduate",
+"description": "Examination of the elements of interior space and scale, including specific human factors. Particular emphasis on the design, documentation, production, and placement of objects in interiors. Fifteen hours of lecture and studio a week for one semester. Prerequisite: Graduate standing, Architectural Interior Design 693K with a grade of at least C, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693K with a grade of at least C, and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "ARI 693K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARI 693M",
+"subject": "ARI",
+"number": "693M",
+"title": "Interior Design Core Studio III",
+"hours": 6.0,
+"division": "graduate",
+"description": "Examination of interior spaces and elements. Fifteen hours of lecture and studio a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, Architectural Interior Design 693L with a grade of at least C, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693L with a grade of at least C, and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "ARI 693L",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ARI 694",
+"subject": "ARI",
+"number": "694",
+"title": "Advanced Design: International Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Advanced problems in international interior design. Students help design new residential or commercial buildings, incorporating local architectural style. Includes research of local historical texts. Taught abroad in locations that vary by semester, but may include Italy and Mexico. Fifteen studio hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ARI 693K"
+},
+{
+"type": "course",
+"id": "ARI 693L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARI 695",
+"subject": "ARI",
+"number": "695",
+"title": "Interior Design: Technical Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Comprehensive studio that focuses on combining the elements that create a thorough interior design. Fifteen studio hours a week for one semester. Prerequisite: Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ARI 693K"
+},
+{
+"type": "course",
+"id": "ARI 693L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARI 395D",
+"subject": "ARI",
+"number": "395D",
+"title": "Frank Lloyd Wright: Design, Method, Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Architecture 395D and Landscape Architecture 395D. Comprehensive study of Frank Lloyd Wright's life and work with emphasis on the analyses of his concepts of organic architecture, design methods, and theories. Three lecture hours a week for one semester. Only one of the following may be counted: Architecture 388R (Topic: Frank Lloyd Wright: Design, Method, Theory), 395D, Architectural Interior Design 388R (Topic: Frank Lloyd Wright: Design, Method, Theory), 395D, Landscape Architecture 388 (Topic: Frank Lloyd Wright), 395D. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"sameAs": "Architecture 395D and Landscape Architecture 395D",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ARI 395G",
+"subject": "ARI",
+"number": "395G",
+"title": "The American Home: Identity, Process, and Marketing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Architecture 395G and Landscape Architecture 395G. An examination of how American housing is conceived, developed, and marketed, as well as relationships between home buyers and builders. Three lecture hours a week for one semester. Only one of the following may be counted: Architecture 388R (Topic: American Home), 395G, Architectural Interior Design 388R (Topic: American Home), 395G, Landscape Architecture 388 (Topic: American Home), 395G. Offered on the letter-grade basis only. Prerequisite: For students in the School of Architecture, graduate standing; for others, graduate standing and consent of instructor.",
+"prereqText": "For students in the School of Architecture, graduate standing; for others, graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"sameAs": "Architecture 395G and Landscape Architecture 395G",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ARI 696",
+"subject": "ARI",
+"number": "696",
+"title": "Advanced Interior Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Studies advanced problems in interior design and examines design strategies and different phases of design. Topics may focus on interior design as it relates to retail, education, sustainability, and health care. Fifteen studio hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ARI 693K"
+},
+{
+"type": "course",
+"id": "ARI 693L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARI 197",
+"subject": "ARI",
+"number": "197",
+"title": "Interior Design Internship",
+"hours": 1.0,
+"division": "graduate",
+"description": "Practical application of design procedures in a professional design office. Sixteen to twenty hours of work a week for one semester (a total of at least 250 hours). Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 698",
+"subject": "ARI",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "For students seeking the Master of Interior Design degree. The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in interior design and consent of the graduate adviser; for 698B, Interior Design 698A.",
+"prereqText": "For 698A, graduate standing in interior design and consent of the graduate adviser; for 698B, Interior Design 698A.",
+"prereq": {
+"type": "course",
+"id": "DES 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

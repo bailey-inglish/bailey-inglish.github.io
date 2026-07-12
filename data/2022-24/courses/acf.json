@@ -1,0 +1,107 @@
+{
+"code": "ACF",
+"name": "Actuarial Foundations",
+"courses": [
+{
+"id": "ACF 110C",
+"subject": "ACF",
+"number": "110C",
+"title": "Conference Course",
+"hours": 1.0,
+"division": "lower",
+"description": "Supervised study of selected subjects by individual arrangement with department and instructor. Conference course. May be repeated for credit. Prerequisite: Written consent of instructor.",
+"prereqText": "Written consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACF 210C",
+"subject": "ACF",
+"number": "210C",
+"title": "Conference Course",
+"hours": 2.0,
+"division": "lower",
+"description": "Supervised study of selected subjects by individual arrangement with department and instructor. Conference course. May be repeated for credit. Prerequisite: Written consent of instructor.",
+"prereqText": "Written consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACF 310C",
+"subject": "ACF",
+"number": "310C",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "lower",
+"description": "Supervised study of selected subjects by individual arrangement with department and instructor. Conference course. May be repeated for credit. Prerequisite: Written consent of instructor.",
+"prereqText": "Written consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACF 410C",
+"subject": "ACF",
+"number": "410C",
+"title": "Conference Course",
+"hours": 4.0,
+"division": "lower",
+"description": "Supervised study of selected subjects by individual arrangement with department and instructor. Conference course. May be repeated for credit. Prerequisite: Written consent of instructor.",
+"prereqText": "Written consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACF 110T",
+"subject": "ACF",
+"number": "110T",
+"title": "Conference Course: Texas Department of Insurance Internship",
+"hours": 1.0,
+"division": "lower",
+"description": "Supervised internship at the Texas Department of Insurance. Conference course. May be repeated for credit. Admission by application only. Students must apply to the director of the concentration in actuarial studies the semester before they take the course."
+},
+{
+"id": "ACF 112M",
+"subject": "ACF",
+"number": "112M",
+"title": "Actuarial Laboratory on Probability and Statistics",
+"hours": 1.0,
+"division": "lower",
+"description": "Problems and supplementary instruction in probability and statistics, especially as required for the Society of Actuaries and Casualty Actuarial Society Exam 110. Three laboratory hours a week for one semester. Prerequisite: Mathematics 362K, credit or registration for Mathematics 378K, and consent of the director of the concentration in actuarial studies.",
+"prereqText": "Mathematics 362K, credit or registration for Mathematics 378K, and consent of the director of the concentration in actuarial studies.",
+"prereqConfidence": "low"
+},
+{
+"id": "ACF 329",
+"subject": "ACF",
+"number": "329",
+"title": "Theory of Interest",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Mathematics 329F. Measurement of interest, present and accumulated value, amortization, sinking funds, bonds, duration, and immunization. Covers the interest-theory portion of an exam of the Society of Actuaries and the Casualty Actuarial Society. Three lecture hours a week for one semester. Only one of the following may be counted: Actuarial Foundations 329, Mathematics 329F, 389F. Prerequisite: Mathematics 408D, 308L, 408L, 408M, or 408S with a grade of at least C-.",
+"prereqText": "Mathematics 408D, 308L, 408L, 408M, or 408S with a grade of at least C-.",
+"prereqConfidence": "low",
+"sameAs": "Mathematics 329F"
+},
+{
+"id": "ACF 129D",
+"subject": "ACF",
+"number": "129D",
+"title": "Introductory Actuarial Financial Mathematics",
+"hours": 1.0,
+"division": "upper",
+"description": "Introductory analysis of financial derivatives. Covers the financial derivatives portion of the syllabus for the professional actuarial exam on financial mathematics. One lecture hour a week for one semester. Offered on the pass/fail basis only. Prerequisite: Credit with a grade of at least C- or registration for Actuarial Foundations 329 or Mathematics 329F.",
+"prereqText": "Credit with a grade of at least C- or registration for Actuarial Foundations 329 or Mathematics 329F.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ACF 329"
+},
+{
+"type": "course",
+"id": "M 329F"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the pass/fail basis only."
+}
+]
+}

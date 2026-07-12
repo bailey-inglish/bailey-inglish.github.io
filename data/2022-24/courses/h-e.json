@@ -1,0 +1,85 @@
+{
+"code": "H E",
+"name": "Human Ecology",
+"courses": [
+{
+"id": "H E 101P",
+"subject": "H E",
+"number": "101P",
+"title": "Professional Development I",
+"hours": 1.0,
+"division": "lower",
+"description": "Explore common career paths, identify professional and personal goals, and develop entry-level career portfolios. One lecture hour a week for one semester. Human Development and Family Sciences 340 and Human Ecology 101P may not both be counted."
+},
+{
+"id": "H E 102P",
+"subject": "H E",
+"number": "102P",
+"title": "Ethics Across Life",
+"hours": 1.0,
+"division": "lower",
+"description": "Examine applied ethics in the workplace and in adult life with a focus on working in teams and organizations effectively. One lecture hour a week for one semester. Human Development and Family Sciences 340 and Human Ecology 102P may not both be counted. Prerequisite: Credit or registration for Human Ecology 101P.",
+"prereqText": "Credit or registration for Human Ecology 101P.",
+"prereq": {
+"type": "course",
+"id": "H E 101P"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "H E 103P",
+"subject": "H E",
+"number": "103P",
+"title": "Professional Development II",
+"hours": 1.0,
+"division": "lower",
+"description": "Explore a practical approach to professional self-presentation, leadership and decision-making, and career development. One lecture hour a week for one semester. Human Development and Family Sciences 340 and Human Ecology 103P may not both be counted. Prerequisite: Human Ecology 101P and credit or registration for Human Ecology 102P.",
+"prereqText": "Human Ecology 101P and credit or registration for Human Ecology 102P.",
+"prereqConfidence": "low"
+},
+{
+"id": "H E 115H",
+"subject": "H E",
+"number": "115H",
+"title": "Freshman Honors Seminar",
+"hours": 1.0,
+"division": "lower",
+"description": "Research presentations by students, faculty, and invited scientists on current issues in human ecology, human development and family sciences, and nutrition. One lecture hour a week for one semester. Prerequisite: Admission to the honors degree option in human development and family sciences or nutrition; three semester hours of honors-designated coursework in chemistry, biology, or mathematics with a grade of at least B-; and Human Development and Family Sciences 313 and 113L, or Nutrition 312 and 112L, with a grade of at least B- in each course.",
+"prereqText": "Admission to the honors degree option in human development and family sciences or nutrition; three semester hours of honors-designated coursework in chemistry, biology, or mathematics with a grade of at least B-; and Human Development and Family Sciences 313 and 113L, or Nutrition 312 and 112L, with a grade of at least B- in each course.",
+"prereqConfidence": "low"
+},
+{
+"id": "H E 225H",
+"subject": "H E",
+"number": "225H",
+"title": "Sophomore Honors Seminar",
+"hours": 2.0,
+"division": "upper",
+"description": "Students plan, conduct, write, and present research on a current topic in human ecology. Two lecture hours a week for one semester. Prerequisite: Six semester hours of honors-designated coursework in chemistry, biology, or mathematics; concurrent enrollment in a course chosen from a list maintained in the departmental office; and consent of instructor and the departmental honors adviser.",
+"prereqText": "Six semester hours of honors-designated coursework in chemistry, biology, or mathematics; concurrent enrollment in a course chosen from a list maintained in the departmental office; and consent of instructor and the departmental honors adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "H E 355",
+"subject": "H E",
+"number": "355",
+"title": "Problems Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Intensive study of selected problems of a transdisciplinary nature. The equivalent of three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor; additional prerequisites vary with the topic.",
+"prereqText": "Consent of instructor; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "H E 392",
+"subject": "H E",
+"number": "392",
+"title": "Research Problems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Problems may be chosen from the areas of family and consumer economics or textiles and apparel. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+}
+]
+}

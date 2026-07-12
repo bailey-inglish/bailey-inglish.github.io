@@ -1,0 +1,892 @@
+{
+"code": "ARA",
+"name": "Arabic",
+"courses": [
+{
+"id": "ARA 601C",
+"subject": "ARA",
+"number": "601C",
+"title": "Intensive Arabic I",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native speakers of Arabic. First semester of intensive Arabic language instruction. Six lecture hours a week for one semester. Only one of the following may be counted: Arabic 601C, 506, 508. Arabic 601C and 106C may not both be counted."
+},
+{
+"id": "ARA 305",
+"subject": "ARA",
+"number": "305",
+"title": "Arabic Tutorial",
+"hours": 3.0,
+"division": "lower",
+"description": "The basics of the Arabic language. Individual instruction. May not be used to fulfill the foreign language requirement for any bachelor's degree. Prerequisite: Consent of the faculty coordinator.",
+"prereqText": "Consent of the faculty coordinator.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARA 506",
+"subject": "ARA",
+"number": "506",
+"title": "First-Year Arabic I",
+"hours": 5.0,
+"division": "lower",
+"description": "Not open to native speakers of Arabic. First semester of Arabic language instruction. Five lecture hours a week for one semester. Only one of the following may be counted: Arabic 601C, 506, 508. Prerequisite: Credit or registration for Arabic 106C.",
+"prereqText": "Credit or registration for Arabic 106C.",
+"prereq": {
+"type": "course",
+"id": "ARA 106C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 106C",
+"subject": "ARA",
+"number": "106C",
+"title": "Conversation for First-Year Arabic I",
+"hours": 1.0,
+"division": "lower",
+"description": "Not open to native speakers of Arabic. One lecture hour a week for one semester. Arabic 601C and 106C may not both be counted. Prerequisite: Credit or registration for Arabic 506.",
+"prereqText": "Credit or registration for Arabic 506.",
+"prereq": {
+"type": "course",
+"id": "ARA 506"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 507",
+"subject": "ARA",
+"number": "507",
+"title": "First-Year Arabic II",
+"hours": 5.0,
+"division": "lower",
+"description": "Not open to native speakers of Arabic. Continuation of Arabic 506. Five lecture hours a week for one semester. Only one of the following may be counted: Arabic 507, 509, 611C. Prerequisite: Arabic 506 and 106C with a grade of at least C in each, and credit or registration for Arabic 107C.",
+"prereqText": "Arabic 506 and 106C with a grade of at least C in each, and credit or registration for Arabic 107C.",
+"prereqConfidence": "low"
+},
+{
+"id": "ARA 107C",
+"subject": "ARA",
+"number": "107C",
+"title": "Conversation for First-Year Arabic II",
+"hours": 1.0,
+"division": "lower",
+"description": "Not open to native speakers of Arabic. One lecture hour a week for one semester. Arabic 107C and 611C may not both be counted. Prerequisite: Arabic 506 and 106C with a grade of at least C in each, and credit or registration for Arabic 507.",
+"prereqText": "Arabic 506 and 106C with a grade of at least C in each, and credit or registration for Arabic 507.",
+"prereqConfidence": "low"
+},
+{
+"id": "ARA 508",
+"subject": "ARA",
+"number": "508",
+"title": "Modern Standard Arabic I",
+"hours": 5.0,
+"division": "lower",
+"description": "Designed to provide students with basic competence in Modern Standard Arabic, targeting the skills of speaking, reading, writing, and listening. Five lecture hours a week for one semester. Only one of the following may be counted: Arabic 601C, 506, 508."
+},
+{
+"id": "ARA 509",
+"subject": "ARA",
+"number": "509",
+"title": "Modern Standard Arabic II",
+"hours": 5.0,
+"division": "lower",
+"description": "Continuation of Arabic 508. Five lecture hours a week for one semester. Only one of the following may be counted: Arabic 507, 509, 611C. Prerequisite: Arabic 508 with a grade of at least C.",
+"prereqText": "Arabic 508 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARA 508",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 611C",
+"subject": "ARA",
+"number": "611C",
+"title": "Intensive Arabic II",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native speakers of Arabic. Six lecture hours a week for one semester. Arabic 611C and 512K may not both be counted. If taken in residence, only one of the following may be counted: Arabic 507, 509, 611C. If taken in residence, Arabic 107C and 611C may not both be counted. Prerequisite: Arabic 601C with a grade of at least C.",
+"prereqText": "Arabic 601C with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARA 601C",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 112C",
+"subject": "ARA",
+"number": "112C",
+"title": "Conversation for Second-Year Arabic I",
+"hours": 1.0,
+"division": "lower",
+"description": "Not open to native speakers of Arabic. One lecture hour a week for one semester. Arabic 112C and 621K may not both be counted. Prerequisite: Arabic 507 and 107C with a grade of at least C in each, and credit or registration for Arabic 512K.",
+"prereqText": "Arabic 507 and 107C with a grade of at least C in each, and credit or registration for Arabic 512K.",
+"prereqConfidence": "low"
+},
+{
+"id": "ARA 112D",
+"subject": "ARA",
+"number": "112D",
+"title": "Conversation for Second-Year Arabic II",
+"hours": 1.0,
+"division": "lower",
+"description": "Not open to native speakers of Arabic. One lecture hour a week for one semester. Arabic 112D and 621L may not both be counted. Prerequisite: Arabic 112C and 512K with a grade of at least C in each, and credit or registration for Arabic 512L.",
+"prereqText": "Arabic 112C and 512K with a grade of at least C in each, and credit or registration for Arabic 512L.",
+"prereqConfidence": "low"
+},
+{
+"id": "ARA 512K",
+"subject": "ARA",
+"number": "512K",
+"title": "Second-Year Arabic I",
+"hours": 5.0,
+"division": "lower",
+"description": "Not open to native speakers of Arabic. Five lecture hours a week for one semester. Arabic 512K and 621K may not both be counted. Prerequisite: Arabic 507 and 107C with a grade of at least C in each, and credit or registration for Arabic 112C.",
+"prereqText": "Arabic 507 and 107C with a grade of at least C in each, and credit or registration for Arabic 112C.",
+"prereqConfidence": "low"
+},
+{
+"id": "ARA 512L",
+"subject": "ARA",
+"number": "512L",
+"title": "Second-Year Arabic II",
+"hours": 5.0,
+"division": "lower",
+"description": "Not open to native speakers of Arabic. Continuation of Arabic 512K. Five lecture hours a week for one semester. Arabic 512L and 621L may not both be counted. Prerequisite: Arabic 112C and 512K with a grade of at least C in each, and credit or registration for Arabic 112D.",
+"prereqText": "Arabic 112C and 512K with a grade of at least C in each, and credit or registration for Arabic 112D.",
+"prereqConfidence": "low"
+},
+{
+"id": "ARA 119S",
+"subject": "ARA",
+"number": "119S",
+"title": "Topics in Arabic",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework counted in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 219S",
+"subject": "ARA",
+"number": "219S",
+"title": "Topics in Arabic",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework counted in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 319S",
+"subject": "ARA",
+"number": "319S",
+"title": "Topics in Arabic",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework counted in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 419S",
+"subject": "ARA",
+"number": "419S",
+"title": "Topics in Arabic",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework counted in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 519S",
+"subject": "ARA",
+"number": "519S",
+"title": "Topics in Arabic",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework counted in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 619S",
+"subject": "ARA",
+"number": "619S",
+"title": "Topics in Arabic",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework counted in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 719S",
+"subject": "ARA",
+"number": "719S",
+"title": "Topics in Arabic",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework counted in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 819S",
+"subject": "ARA",
+"number": "819S",
+"title": "Topics in Arabic",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework counted in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 919S",
+"subject": "ARA",
+"number": "919S",
+"title": "Topics in Arabic",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework counted in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 321",
+"subject": "ARA",
+"number": "321",
+"title": "Introduction to Arabic Dialects",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to Arabic as spoken throughout the Arab world. Three lecture hours a week for one semester."
+},
+{
+"id": "ARA 621K",
+"subject": "ARA",
+"number": "621K",
+"title": "Intensive Arabic III",
+"hours": 6.0,
+"division": "upper",
+"description": "Not open to native speakers of Arabic. Six lecture hours a week for one semester. If taken in residence, only one of the following may be counted: Arabic 512K, 621K. Arabic 112C and 621K may not both be counted. Prerequisite: Arabic 611C with a grade of at least C.",
+"prereqText": "Arabic 611C with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARA 611C",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 621L",
+"subject": "ARA",
+"number": "621L",
+"title": "Intensive Arabic IV",
+"hours": 6.0,
+"division": "upper",
+"description": "Not open to native speakers of Arabic. Six lecture hours a week for one semester. If taken in residence, only one of the following may be counted: Arabic 512L, 621L. Arabic 112D and 621L may not both be counted. Prerequisite: Arabic 621K with a grade of at least C.",
+"prereqText": "Arabic 621K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARA 621K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 322K",
+"subject": "ARA",
+"number": "322K",
+"title": "Levantine Arabic",
+"hours": 3.0,
+"division": "upper",
+"description": "Not open to native speakers of Arabic. Three lecture hours a week for one semester. Prerequisite: Arabic 512L or 621L with a grade of at least C.",
+"prereqText": "Arabic 512L or 621L with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ARA 512L"
+},
+{
+"type": "course",
+"id": "ARA 621L",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 325K",
+"subject": "ARA",
+"number": "325K",
+"title": "Egyptian Arabic",
+"hours": 3.0,
+"division": "upper",
+"description": "Not open to native speakers of Arabic. Introduction to the Egyptian dialect of Arabic. Three lecture hours a week for one semester. Prerequisite: Arabic 512L or 621L with a grade of at least C.",
+"prereqText": "Arabic 512L or 621L with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ARA 512L"
+},
+{
+"type": "course",
+"id": "ARA 621L",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 327K",
+"subject": "ARA",
+"number": "327K",
+"title": "Advanced Spoken Media Arabic I",
+"hours": 3.0,
+"division": "upper",
+"description": "Development of the specialized vocabulary and skills needed in the media or public policy sectors of the Arab-speaking world. Three lecture hours a week for one semester. Prerequisite: Arabic 531L with a grade of at least B-.",
+"prereqText": "Arabic 531L with a grade of at least B-.",
+"prereq": {
+"type": "course",
+"id": "ARA 531L",
+"minGrade": "B-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 327L",
+"subject": "ARA",
+"number": "327L",
+"title": "Advanced Spoken Media Arabic II",
+"hours": 3.0,
+"division": "upper",
+"description": "Development of the specialized vocabulary and skills needed in the media or public policy sectors of the Arab-speaking world. Three lecture hours a week for one semester. Prerequisite: Arabic 327K with a grade of at least B-.",
+"prereqText": "Arabic 327K with a grade of at least B-.",
+"prereq": {
+"type": "course",
+"id": "ARA 327K",
+"minGrade": "B-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 129S",
+"subject": "ARA",
+"number": "129S",
+"title": "Topics in Arabic",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 229S",
+"subject": "ARA",
+"number": "229S",
+"title": "Topics in Arabic",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 329S",
+"subject": "ARA",
+"number": "329S",
+"title": "Topics in Arabic",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 429S",
+"subject": "ARA",
+"number": "429S",
+"title": "Topics in Arabic",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 529S",
+"subject": "ARA",
+"number": "529S",
+"title": "Topics in Arabic",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 629S",
+"subject": "ARA",
+"number": "629S",
+"title": "Topics in Arabic",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 729S",
+"subject": "ARA",
+"number": "729S",
+"title": "Topics in Arabic",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 829S",
+"subject": "ARA",
+"number": "829S",
+"title": "Topics in Arabic",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 929S",
+"subject": "ARA",
+"number": "929S",
+"title": "Topics in Arabic",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARA 130D",
+"subject": "ARA",
+"number": "130D",
+"title": "Arabic across Disciplines",
+"hours": 1.0,
+"division": "upper",
+"description": "Students read and discuss Arabic language materials related to the subject matter of another designated course. One lecture hour a week for one semester. No more than three semester hours may be counted toward the major in either Middle Eastern Studies or Middle Eastern Languages and Culture. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARA 531K",
+"subject": "ARA",
+"number": "531K",
+"title": "Intensive Arabic V",
+"hours": 5.0,
+"division": "upper",
+"description": "Not open to native speakers of Arabic. Five lecture hours a week for one semester. Prerequisite: Arabic 112D and 512L with a grade of at least C in each, or Arabic 621L with a grade of at least C.",
+"prereqText": "Arabic 112D and 512L with a grade of at least C in each, or Arabic 621L with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "ARA 531L",
+"subject": "ARA",
+"number": "531L",
+"title": "Intensive Arabic VI",
+"hours": 5.0,
+"division": "upper",
+"description": "Not open to native speakers of Arabic. Sixth semester of intensive Arabic language instruction. Five lecture hours a week for one semester. Prerequisite: Arabic 531K with a grade of at least C.",
+"prereqText": "Arabic 531K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARA 531K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 360C",
+"subject": "ARA",
+"number": "360C",
+"title": "Arabic Readings in Classical Islamic Texts",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Arabic 360C and 360L (Topic: Ara Readings Classcl Isl Txts) may not both be counted. Prerequisite: Arabic 531L with a grade of at least C.",
+"prereqText": "Arabic 531L with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARA 531L",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 360D",
+"subject": "ARA",
+"number": "360D",
+"title": "Quranic Arabic",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Arabic 360D and 360L (Topic: Quranic Arabic) may not both be counted. Prerequisite: Arabic 531L with a grade of at least C.",
+"prereqText": "Arabic 531L with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARA 531L",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 360E",
+"subject": "ARA",
+"number": "360E",
+"title": "Contemporary World Challenges",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Arabic 360E and 360L (Topic: Contemporary World Challenges) may not both be counted. Prerequisite: Arabic 531L with a grade of at least C.",
+"prereqText": "Arabic 531L with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARA 531L",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 360F",
+"subject": "ARA",
+"number": "360F",
+"title": "Modern Arab Cultures",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the challenges of Arab youth, most notably in the economy, nationalism, and environmental issues. Taught in Arabic. Three lecture hours a week for one semester. Arabic 360F and 360L (Topic: Modern Arab Cultures) may not both be counted. Prerequisite: Arabic 531L with a grade of at least C.",
+"prereqText": "Arabic 531L with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARA 531L",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 360L",
+"subject": "ARA",
+"number": "360L",
+"title": "Topics in Arabic Language, Literature, and Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Close textual study of prose or poetry in Arabic. Some topics may focus on the cultural impact of literature and language. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Arabic 531L with a grade of at least C.",
+"prereqText": "Arabic 531L with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARA 531L",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 360M",
+"subject": "ARA",
+"number": "360M",
+"title": "Arabs and Modernity",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine how Arabs have contributed to the global scientific movement in the past and in the present. Three lecture hours a week for one semester. Arabic 360L (Topic: Arabs and Modernity) and Arabic 360M may not both be counted. Prerequisite: Arabic 531L with a grade of at least C.",
+"prereqText": "Arabic 531L with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARA 531L",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 360S",
+"subject": "ARA",
+"number": "360S",
+"title": "Arts and Literature in Arab Societies",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the role of arts and literature and how it influences Arab societies and politics. Three lecture hours a week for one semester. Arabic 360L (Topic: Arts/Lit in Arab Societies) and 360S may not both be counted. Prerequisite: Arabic 531L with a grade of at least C.",
+"prereqText": "Arabic 531L with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "ARA 531L",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 369",
+"subject": "ARA",
+"number": "369",
+"title": "Conference Course in Arabic Language and Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in Arabic language or literature. Conference course. May be repeated for credit. Prerequisite: Nine semester hours of upper-division coursework in Arabic and consent of instructor.",
+"prereqText": "Nine semester hours of upper-division coursework in Arabic and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARA 380C",
+"subject": "ARA",
+"number": "380C",
+"title": "Topics in Arabic Language",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing. Additional prerequisites may vary with the topic and are given in the Course Schedule.",
+"prereqText": "Graduate standing. Additional prerequisites may vary with the topic and are given in the Course Schedule.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARA 381H",
+"subject": "ARA",
+"number": "381H",
+"title": "Intensive Graduate Language Instruction I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Not open to native speakers of Arabic. Intensive cultural and literacy-focused training in Arabic at the beginning level in preparation for research in the Arab world or with Arabic sources. Incoming students are placed in the appropriate level by means of a departmental placement test. Six lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARA 381J",
+"subject": "ARA",
+"number": "381J",
+"title": "Intensive Graduate Language Instruction II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Not open to native speakers of Arabic. Intensive cultural and literacy-focused training in Arabic at the low-intermediate level in preparation for research in the Arab world or with Arabic sources. Incoming students are placed in the appropriate level by means of a departmental placement test. Six lecture hours a week for one semester. Prerequisite: Graduate standing and Arabic 381H with a grade of at least B.",
+"prereqText": "Graduate standing and Arabic 381H with a grade of at least B.",
+"prereq": {
+"type": "course",
+"id": "ARA 381H",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 381K",
+"subject": "ARA",
+"number": "381K",
+"title": "Intensive Graduate Language Instruction III",
+"hours": 3.0,
+"division": "graduate",
+"description": "Not open to native speakers of Arabic. Intensive cultural and literacy-focused training in Arabic at the intermediate level in preparation for research in the Arab world or with Arabic sources. Incoming students are placed in the appropriate level by means of a departmental placement test. Six lecture hours a week for one semester. Prerequisite: Graduate standing and Arabic 381J with a grade of at least B.",
+"prereqText": "Graduate standing and Arabic 381J with a grade of at least B.",
+"prereq": {
+"type": "course",
+"id": "ARA 381J",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 381L",
+"subject": "ARA",
+"number": "381L",
+"title": "Intensive Graduate Language Instruction IV",
+"hours": 3.0,
+"division": "graduate",
+"description": "Not open to native speakers of Arabic. Intensive cultural and literacy-focused training in Arabic at the high-intermediate level in preparation for research in the Arab world or with Arabic sources. Incoming students are placed in the appropriate level by means of a departmental placement test. Six lecture hours week for one semester. Prerequisite: Graduate standing and Arabic 381K with a grade of at least B.",
+"prereqText": "Graduate standing and Arabic 381K with a grade of at least B.",
+"prereq": {
+"type": "course",
+"id": "ARA 381K",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 381M",
+"subject": "ARA",
+"number": "381M",
+"title": "Intensive Graduate Language Instruction V",
+"hours": 3.0,
+"division": "graduate",
+"description": "Not open to native speakers of Arabic. Intensive cultural and literacy-focused training in Arabic at the advanced level in preparation for research in the Arab world or with Arabic sources. Incoming students are placed in the appropriate level by means of a departmental placement test. Five lecture hours a week for one semester. Prerequisite: Graduate standing and Arabic 381L with a grade of at least B.",
+"prereqText": "Graduate standing and Arabic 381L with a grade of at least B.",
+"prereq": {
+"type": "course",
+"id": "ARA 381L",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 381N",
+"subject": "ARA",
+"number": "381N",
+"title": "Intensive Graduate Language Instruction VI",
+"hours": 3.0,
+"division": "graduate",
+"description": "Not open to native speakers of Arabic. Intensive cultural and literacy-focused training in Arabic at the advanced level in preparation for research in the Arab world or with Arabic sources. Incoming students are placed in the appropriate level by means of a departmental placement test. Five lecture hours a week for one semester. Prerequisite: Graduate standing and Arabic 381M with a grade of at least B.",
+"prereqText": "Graduate standing and Arabic 381M with a grade of at least B.",
+"prereq": {
+"type": "course",
+"id": "ARA 381M",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 382C",
+"subject": "ARA",
+"number": "382C",
+"title": "Topics in Arabic Linguistics and Philology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and Arabic 531L with a grade of at least B. Additional prerequisites may vary with the topic.",
+"prereqText": "Graduate standing and Arabic 531L with a grade of at least B. Additional prerequisites may vary with the topic.",
+"prereq": {
+"type": "course",
+"id": "ARA 531L",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 383C",
+"subject": "ARA",
+"number": "383C",
+"title": "Topics in Arabic Language Teaching, Pedagogy, and Applied Linguistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and Arabic 531L with a grade of at least B. Additional prerequisites may vary with the topic.",
+"prereqText": "Graduate standing and Arabic 531L with a grade of at least B. Additional prerequisites may vary with the topic.",
+"prereq": {
+"type": "course",
+"id": "ARA 531L",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 384C",
+"subject": "ARA",
+"number": "384C",
+"title": "Topics in Arabic Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and Arabic 531L with a grade of at least B; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing and Arabic 531L with a grade of at least B; additional prerequisites vary with the topic.",
+"prereq": {
+"type": "course",
+"id": "ARA 531L",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 386K",
+"subject": "ARA",
+"number": "386K",
+"title": "Advanced Spoken Media Arabic I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Development of the specialized vocabulary and skills needed in the media and public policy sectors of the Arab-speaking world. Three lecture hours a week for one semester. Arabic 380C (Topic: Advanced Spoken Media Arabic I) and 386K may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARA 386L",
+"subject": "ARA",
+"number": "386L",
+"title": "Advanced Spoken Media Arabic II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Development of the specialized vocabulary and skills needed in the media and public policy sectors of the Arab-speaking world. Three lecture hours a week for one semester. Arabic 380C (Topic: Advanced Spoken Media Arabic II) and 386L may not both be counted. Prerequisite: Graduate standing and Arabic 386K.",
+"prereqText": "Graduate standing and Arabic 386K.",
+"prereq": {
+"type": "course",
+"id": "ARA 386K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 387",
+"subject": "ARA",
+"number": "387",
+"title": "Topics in Arab Culture",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and Arabic 531L with a grade of at least B. Additional prerequisites may vary with the topic.",
+"prereqText": "Graduate standing and Arabic 531L with a grade of at least B. Additional prerequisites may vary with the topic.",
+"prereq": {
+"type": "course",
+"id": "ARA 531L",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 388",
+"subject": "ARA",
+"number": "388",
+"title": "Research Methods and Bibliography in Arabic Studies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Arabic classical and modern sources on a variety of subjects, as well as modern scholarship in Arabic studies both in the West and in the Arab world. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Arabic 531L with a grade of at least B. Additional prerequisites may vary with the topic.",
+"prereqText": "Graduate standing and Arabic 531L with a grade of at least B. Additional prerequisites may vary with the topic.",
+"prereq": {
+"type": "course",
+"id": "ARA 531L",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARA 389",
+"subject": "ARA",
+"number": "389",
+"title": "Conference Course in Arabic Studies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised individual study of selected problems in Arabic studies. Conference course. May be repeated for credit. Prerequisite: Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARA 698",
+"subject": "ARA",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Arabic studies and consent of the graduate adviser; for 698B, Arabic 698A.",
+"prereqText": "For 698A, graduate standing in Arabic studies and consent of the graduate adviser; for 698B, Arabic 698A.",
+"prereq": {
+"type": "course",
+"id": "ARA 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ARA 398R",
+"subject": "ARA",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in Arabic studies and consent of the graduate adviser.",
+"prereqText": "Graduate standing in Arabic studies and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ARA 399W",
+"subject": "ARA",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ARA 699W",
+"subject": "ARA",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ARA 999W",
+"subject": "ARA",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

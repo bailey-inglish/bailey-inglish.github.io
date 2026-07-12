@@ -1,0 +1,598 @@
+{
+"code": "I",
+"name": "Informatics",
+"courses": [
+{
+"id": "I 301",
+"subject": "I",
+"number": "301",
+"title": "Introduction to Informatics",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to the field of informatics, including cultural heritage informatics, health informatics, human-centered data science, social informatics, social justice informatics, and user experience design. Three lecture hours a week for one semester. Informatics 301 and Information Studies 304D may not both be counted. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 302",
+"subject": "I",
+"number": "302",
+"title": "Academic Success in the Digital University",
+"hours": 3.0,
+"division": "lower",
+"description": "Examine a wide variety of information and academic resources, tools, and skills; with a focus on the digital landscape of higher education. Explore the features of the primary learning management system; communication and organization tools; library resources; basic online research resources; and ethical and safety concerns. Three lecture hours a week for one semester. Informatics 302 and Information Studies 303D may not both be counted. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 303",
+"subject": "I",
+"number": "303",
+"title": "Ethical Foundations for Informatics",
+"hours": 3.0,
+"division": "lower",
+"description": "Survey the ethical foundations for informatics, incorporating non-Western and feminist perspectives. Apply these ethical foundations to contemporary problems in informatics. Examine the confrontation of ethical dilemmas in the workplace, including recognizing value trade-offs, affected stakeholders, and potential solutions. Three lecture hours a week for one semester. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 304",
+"subject": "I",
+"number": "304",
+"title": "Programming for Informatics",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to informatics majors and students pursuing the informatics minor. Examine the fundamentals of computer programming and practice developing and documenting code. Three lecture hours a week for one semester. Offered on the letter-grade basis only.",
+"restricted": "Restricted to informatics majors and students pursuing the informatics minor.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 305",
+"subject": "I",
+"number": "305",
+"title": "Research Methods for Informatics",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to informatics majors and students pursuing the informatics minor. Explore diverse research approaches to investigate informatics-related problems. Examine principles and hands-on practices of data collection and analysis with respect to qualitative, quantitative, and mixed research methods. Three lecture hours a week for one semester. Informatics 305 and Informatics 310 (topic: Resrch Methods for Informatics) may not both be counted. Offered on the letter-grade basis only.",
+"restricted": "Restricted to informatics majors and students pursuing the informatics minor.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 306",
+"subject": "I",
+"number": "306",
+"title": "Statistics for Informatics",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to informatics majors and students pursuing the informatics minor. Examine fundamental principles of probability and statistics. Cultivate an understanding of descriptive and inferential statistics. Conduct and interpret statistical analyses using statistical analysis software, and apply these analyses to common issues in informatics. Three lecture hours a week for one semester. Offered on the letter-grade basis only.",
+"restricted": "Restricted to informatics majors and students pursuing the informatics minor.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 310",
+"subject": "I",
+"number": "310",
+"title": "Topics in Introductory Informatics",
+"hours": 3.0,
+"division": "lower",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Prerequisites may vary with the topic.",
+"prereqText": "Prerequisites may vary with the topic.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 310C",
+"subject": "I",
+"number": "310C",
+"title": "Introduction to Cultural Heritage Informatics",
+"hours": 3.0,
+"division": "lower",
+"description": "Examine the fundamentals of managing, describing, organizing, preserving, and providing access to data and information in a wide range of technological forms. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Informatics 301.",
+"prereqText": "Informatics 301.",
+"prereq": {
+"type": "course",
+"id": "I 301"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 310D",
+"subject": "I",
+"number": "310D",
+"title": "Introduction to Human-Centered Data Science",
+"hours": 3.0,
+"division": "lower",
+"description": "Examine the fundamentals of collecting, managing, and analyzing data; with consideration for the ethical responsibility of data science and the importance of critical thinking. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Informatics 301.",
+"prereqText": "Informatics 301.",
+"prereq": {
+"type": "course",
+"id": "I 301"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 310J",
+"subject": "I",
+"number": "310J",
+"title": "Introduction to Social Justice Informatics",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore the leveraging of data, information, and technology for the greater benefit of society and to help ensure a level playing field for everyone in the information age. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Informatics 301.",
+"prereqText": "Informatics 301.",
+"prereq": {
+"type": "course",
+"id": "I 301"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 310M",
+"subject": "I",
+"number": "310M",
+"title": "Introduction to Health Informatics",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore designing and implementing information technologies to improve healthcare delivery, healthcare management, and health outcomes. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Informatics 301.",
+"prereqText": "Informatics 301.",
+"prereq": {
+"type": "course",
+"id": "I 301"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 310S",
+"subject": "I",
+"number": "310S",
+"title": "Introduction to Social Informatics",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore the leveraging of data, information, and technology to improve the efficiency and effectiveness of organizations while also providing a more ethical and humane environment for workers. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Informatics 301.",
+"prereqText": "Informatics 301.",
+"prereq": {
+"type": "course",
+"id": "I 301"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 310U",
+"subject": "I",
+"number": "310U",
+"title": "Introduction to User Experience Design",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to user experience, human-computer interaction, and the human-centered design of interfaces and applications for mobile devices and the web. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Informatics 301.",
+"prereqText": "Informatics 301.",
+"prereq": {
+"type": "course",
+"id": "I 301"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 119S",
+"subject": "I",
+"number": "119S",
+"title": "Topics in Informatics",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 219S",
+"subject": "I",
+"number": "219S",
+"title": "Topics in Informatics",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 319S",
+"subject": "I",
+"number": "319S",
+"title": "Topics in Informatics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 419S",
+"subject": "I",
+"number": "419S",
+"title": "Topics in Informatics",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 519S",
+"subject": "I",
+"number": "519S",
+"title": "Topics in Informatics",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 619S",
+"subject": "I",
+"number": "619S",
+"title": "Topics in Informatics",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 719S",
+"subject": "I",
+"number": "719S",
+"title": "Topics in Informatics",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 819S",
+"subject": "I",
+"number": "819S",
+"title": "Topics in Informatics",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 919S",
+"subject": "I",
+"number": "919S",
+"title": "Topics in Informatics",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 320",
+"subject": "I",
+"number": "320",
+"title": "Topics in Informatics",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 320C",
+"subject": "I",
+"number": "320C",
+"title": "Topics in Cultural Heritage Informatics",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Informatics 310C.",
+"prereqText": "Informatics 310C.",
+"prereq": {
+"type": "course",
+"id": "I 310C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 320D",
+"subject": "I",
+"number": "320D",
+"title": "Topics in Human-Centered Data Science",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Informatics 304 and 310D.",
+"prereqText": "Informatics 304 and 310D.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "I 304"
+},
+{
+"type": "course",
+"id": "I 310D"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 320J",
+"subject": "I",
+"number": "320J",
+"title": "Topics in Social Justice Informatics",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Informatics 310J.",
+"prereqText": "Informatics 310J.",
+"prereq": {
+"type": "course",
+"id": "I 310J"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 320M",
+"subject": "I",
+"number": "320M",
+"title": "Topics in Health Informatics",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Informatics 310M.",
+"prereqText": "Informatics 310M.",
+"prereq": {
+"type": "course",
+"id": "I 310M"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 320S",
+"subject": "I",
+"number": "320S",
+"title": "Topics in Social Informatics",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Informatics 310S.",
+"prereqText": "Informatics 310S.",
+"prereq": {
+"type": "course",
+"id": "I 310S"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 320U",
+"subject": "I",
+"number": "320U",
+"title": "Topics in User Experience Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Informatics 310U.",
+"prereqText": "Informatics 310U.",
+"prereq": {
+"type": "course",
+"id": "I 310U"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 129S",
+"subject": "I",
+"number": "129S",
+"title": "Topics in Informatics",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 229S",
+"subject": "I",
+"number": "229S",
+"title": "Topics in Informatics",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 329S",
+"subject": "I",
+"number": "329S",
+"title": "Topics in Informatics",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 429S",
+"subject": "I",
+"number": "429S",
+"title": "Topics in Informatics",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 529S",
+"subject": "I",
+"number": "529S",
+"title": "Topics in Informatics",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 629S",
+"subject": "I",
+"number": "629S",
+"title": "Topics in Informatics",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 729S",
+"subject": "I",
+"number": "729S",
+"title": "Topics in Informatics",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 829S",
+"subject": "I",
+"number": "829S",
+"title": "Topics in Informatics",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 929S",
+"subject": "I",
+"number": "929S",
+"title": "Topics in Informatics",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 372",
+"subject": "I",
+"number": "372",
+"title": "Career Success in the Digital Organization",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the essential skills for obtaining a job and sustaining a successful career with an emphasis on integrity, teamwork, time management, responsiveness to feedback, and written and oral communication. Explore tools for computer-supported cooperative work that facilitate online collaboration. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "I 178I",
+"subject": "I",
+"number": "178I",
+"title": "Independent Study",
+"hours": 1.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Individual Instruction. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "I 278I",
+"subject": "I",
+"number": "278I",
+"title": "Independent Study",
+"hours": 2.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Individual Instruction. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "I 378I",
+"subject": "I",
+"number": "378I",
+"title": "Independent Study",
+"hours": 3.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Individual Instruction. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "I 178R",
+"subject": "I",
+"number": "178R",
+"title": "Research Experience",
+"hours": 1.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hours a week for one semester. Individual instruction. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "I 278R",
+"subject": "I",
+"number": "278R",
+"title": "Research Experience",
+"hours": 2.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hours a week for one semester. Individual instruction. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "I 378R",
+"subject": "I",
+"number": "378R",
+"title": "Research Experience",
+"hours": 3.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hours a week for one semester. Individual instruction. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "I 178T",
+"subject": "I",
+"number": "178T",
+"title": "Internship",
+"hours": 1.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional hours to be arranged. Offered on the pass/fail basis only. Prerequisite: Consent of department.",
+"prereqText": "Consent of department.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "I 278T",
+"subject": "I",
+"number": "278T",
+"title": "Internship",
+"hours": 2.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional hours to be arranged. Offered on the pass/fail basis only. Prerequisite: Consent of department.",
+"prereqText": "Consent of department.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "I 378T",
+"subject": "I",
+"number": "378T",
+"title": "Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional hours to be arranged. Offered on the pass/fail basis only. Prerequisite: Consent of department.",
+"prereqText": "Consent of department.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "I 379C",
+"subject": "I",
+"number": "379C",
+"title": "Capstone",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to informatics majors. The equivalent of three lecture hours a week for one semester. Prerequisite: Upper-division standing and a minimum of 90 hours of coursework.",
+"prereqText": "Upper-division standing and a minimum of 90 hours of coursework.",
+"prereqConfidence": "none",
+"restricted": "Restricted to informatics majors."
+},
+{
+"id": "I 679H",
+"subject": "I",
+"number": "679H",
+"title": "Honors Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to Informatics majors. Research, read, and develop an honors thesis subject and proposal for one semester; followed in the second semester by the writing and defense of a final honors thesis. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, upper-division standing, a minimum of 90 hours of coursework, and consent of instructor; for 679HB Informatics 679HA.",
+"prereqText": "For 679HA, upper-division standing, a minimum of 90 hours of coursework, and consent of instructor; for 679HB Informatics 679HA.",
+"prereq": {
+"type": "course",
+"id": "I 679HA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Informatics majors."
+}
+]
+}

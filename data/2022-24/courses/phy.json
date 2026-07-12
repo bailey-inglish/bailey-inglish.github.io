@@ -1,0 +1,1989 @@
+{
+"code": "PHY",
+"name": "Physics",
+"courses": [
+{
+"id": "PHY 301",
+"subject": "PHY",
+"number": "301",
+"title": "Mechanics",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed for students who intend to major in science or mathematics. Three lecture hours a week for one semester. Only one of the following may be counted: Physical Science 303, Physics 301, 302K, 303K, 309K, 317K. Prerequisite: Credit with a grade of at least C- or registration in Mathematics 408D, 408L, or 408S, and Physics 101L; and an appropriate score on the physics assessment exam.",
+"prereqText": "Credit with a grade of at least C- or registration in Mathematics 408D, 408L, or 408S, and Physics 101L; and an appropriate score on the physics assessment exam.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 101L",
+"subject": "PHY",
+"number": "101L",
+"title": "Laboratory for Physics 301",
+"hours": 1.0,
+"division": "lower",
+"description": "Three laboratory hours a week for one semester. Only one of the following may be counted: Physics 101L, 102M, 103M, 105M, 117M. Prerequisite: Credit with a grade of at least C- or registration for Physics 301.",
+"prereqText": "Credit with a grade of at least C- or registration for Physics 301.",
+"prereq": {
+"type": "course",
+"id": "PHY 301"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 302K",
+"subject": "PHY",
+"number": "302K",
+"title": "General Physics Technical Course: Mechanics, Heat, and Sound",
+"hours": 3.0,
+"division": "lower",
+"description": "Noncalculus technical course in physics. Completion of high school trigonometry or Mathematics 305G is highly recommended. Three lecture hours a week for one semester. Only one of the following may be counted: Physical Science 303, Physics 301, 302K, 303K, 309K, 317K. Prerequisite: Credit with a grade of at least C- or registration for Physics 102M or 105M.",
+"tccn": "PHYS 1301",
+"prereqText": "Credit with a grade of at least C- or registration for Physics 102M or 105M.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "PHY 102M"
+},
+{
+"type": "course",
+"id": "PHY 105M"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 302L",
+"subject": "PHY",
+"number": "302L",
+"title": "General Physics Technical Course: Electricity and Magnetism, Light, Atomic and Nuclear Physics",
+"hours": 3.0,
+"division": "lower",
+"description": "Noncalculus technical course in physics. Three lecture hours a week for one semester. Only one of the following may be counted: Physical Science 304, Physics 302L, 303L, 309L, 316, 317L. Prerequisite: Physics 302K and 102M or 105M with a grade of at least C-; credit with a grade of at least C- or registration in Physics 102N or 105N.",
+"tccn": "PHYS 1302",
+"prereqText": "Physics 302K and 102M or 105M with a grade of at least C-; credit with a grade of at least C- or registration in Physics 102N or 105N.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 102M",
+"subject": "PHY",
+"number": "102M",
+"title": "Laboratory for Physics 302K",
+"hours": 1.0,
+"division": "lower",
+"description": "Two laboratory hours a week for one semester. Only one of the following may be counted: Physics 101L, 102M, 103M, 105M, 117M. Prerequisite: Credit with a grade of at least C- or registration for Physics 302K.",
+"tccn": "PHYS 1101",
+"prereqText": "Credit with a grade of at least C- or registration for Physics 302K.",
+"prereq": {
+"type": "course",
+"id": "PHY 302K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 102N",
+"subject": "PHY",
+"number": "102N",
+"title": "Laboratory for Physics 302L",
+"hours": 1.0,
+"division": "lower",
+"description": "Two laboratory hours a week for one semester. Only one of the following may be counted: Physics 102N, 103N, 105N, 116L, 117N. Prerequisite: Credit with a grade of at least C- or registration for Physics 302L.",
+"tccn": "PHYS 1102",
+"prereqText": "Credit with a grade of at least C- or registration for Physics 302L.",
+"prereq": {
+"type": "course",
+"id": "PHY 302L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 303K",
+"subject": "PHY",
+"number": "303K",
+"title": "Engineering Physics I",
+"hours": 3.0,
+"division": "lower",
+"description": "A general survey of physics; primarily laws of motion, heat, and wave phenomena. Three lecture hours and one discussion hour a week for one semester. Only one of the following may be counted: Physical Science 303, Physics 301, 302K, 303K, 309K, 317K. Prerequisite: Credit with a grade of at least C- or registration in Mathematics 408D, 408L, or 408S, and Physics 103M or 105M; and an appropriate score on the physics assessment exam.",
+"tccn": "PHYS 2325",
+"prereqText": "Credit with a grade of at least C- or registration in Mathematics 408D, 408L, or 408S, and Physics 103M or 105M; and an appropriate score on the physics assessment exam.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 303L",
+"subject": "PHY",
+"number": "303L",
+"title": "Engineering Physics II",
+"hours": 3.0,
+"division": "lower",
+"description": "Electricity and magnetism, optics, and atomic phenomena. Three lecture hours and one discussion hour a week for one semester. Only one of the following may be counted: Physical Science 304, Physics 302L, 303L, 309L, 316, 317L. Prerequisite: Physics 303K and 103M or 105M with a grade of at least C- in each; credit with a grade of at least C- or registration in Mathematics 408D or 408M, and Physics 103N or 105N.",
+"tccn": "PHYS 2326",
+"prereqText": "Physics 303K and 103M or 105M with a grade of at least C- in each; credit with a grade of at least C- or registration in Mathematics 408D or 408M, and Physics 103N or 105N.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 103M",
+"subject": "PHY",
+"number": "103M",
+"title": "Laboratory for Physics 303K",
+"hours": 1.0,
+"division": "lower",
+"description": "Two laboratory hours a week for one semester. Only one of the following may be counted: Physics 101L, 102M, 103M, 105M, 117M. Prerequisite: Credit with a grade of at least C- or registration for Physics 303K.",
+"tccn": "PHYS 2125",
+"prereqText": "Credit with a grade of at least C- or registration for Physics 303K.",
+"prereq": {
+"type": "course",
+"id": "PHY 303K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 103N",
+"subject": "PHY",
+"number": "103N",
+"title": "Laboratory for Physics 303L",
+"hours": 1.0,
+"division": "lower",
+"description": "Two laboratory hours and one discussion hour a week for one semester. Only one of the following may be counted: Physics 102N, 103N, 105N, 116L, 117N. Prerequisite: Credit with a grade of at least C- or registration for Physics 303L.",
+"tccn": "PHYS 2126",
+"prereqText": "Credit with a grade of at least C- or registration for Physics 303L.",
+"prereq": {
+"type": "course",
+"id": "PHY 303L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 104",
+"subject": "PHY",
+"number": "104",
+"title": "Introductory Physics Seminar",
+"hours": 1.0,
+"division": "lower",
+"description": "Suggested for beginning physics majors. Discussion of the development of important ideas in physics, with emphasis on their relevance to contemporary research. One lecture hour a week for one semester. Offered on the pass/fail basis only.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHY 105M",
+"subject": "PHY",
+"number": "105M",
+"title": "Laboratory For Physics 302K, 303K, and 317K",
+"hours": 1.0,
+"division": "lower",
+"description": "Participate in an introductory mechanics laboratory. Three laboratory hours a week for one semester. Only one of the following may be counted: Physics 101L, 102M, 103M, 105M, 117M. Prerequisite: Credit with a grade of at least C- or registration for Physics 302K, 303K, or 317K.",
+"prereqText": "Credit with a grade of at least C- or registration for Physics 302K, 303K, or 317K.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 105N",
+"subject": "PHY",
+"number": "105N",
+"title": "Laboratory For Physics 302L, 303L, and 317L",
+"hours": 1.0,
+"division": "lower",
+"description": "Participate in an introductory electricity, magnetism, and optics laboratory. Three laboratory hours a week for one semester. Only one of the following may be counted: Physics 102N, 103N, 105N, 116L, 117N. Prerequisite: Credit with a grade of at least C- or registration for Physics 302L, 303L or 317L.",
+"prereqText": "Credit with a grade of at least C- or registration for Physics 302L, 303L or 317L.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 306",
+"subject": "PHY",
+"number": "306",
+"title": "Elementary Physics Methods",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed for students who have not had high school physics, have weak problem-solving skills, and need preparation for Physics 301 or 303K. Three lecture hours a week for one semester. May not be counted toward any degree. Prerequisite: High school trigonometry or Mathematics 305G.",
+"prereqText": "High school trigonometry or Mathematics 305G.",
+"prereq": {
+"type": "course",
+"id": "M 305G"
+},
+"prereqConfidence": "high",
+"excluded": "any degree"
+},
+{
+"id": "PHY 108",
+"subject": "PHY",
+"number": "108",
+"title": "Introduction to Research",
+"hours": 1.0,
+"division": "lower",
+"description": "Introductory laboratory experience; use of tools and test equipment; beginning apprenticeship in active physics research. One class hour a week for one semester. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Consent of instructor and approval of an undergraduate adviser.",
+"prereqText": "Consent of instructor and approval of an undergraduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHY 208F",
+"subject": "PHY",
+"number": "208F",
+"title": "Introduction to Research",
+"hours": 2.0,
+"division": "lower",
+"description": "Introductory laboratory experience; use of tools and test equipment; beginning apprenticeship in active physics research. For 208F, one lecture hour and one-and-one-half laboratory hours a week for one semester; for 308F, one lecture hour and eight laboratory hours a week for one semester. Prerequisite: Consent of instructor and the undergraduate adviser.",
+"prereqText": "Consent of instructor and the undergraduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 308F",
+"subject": "PHY",
+"number": "308F",
+"title": "Introduction to Research",
+"hours": 3.0,
+"division": "lower",
+"description": "Introductory laboratory experience; use of tools and test equipment; beginning apprenticeship in active physics research. For 208F, one lecture hour and one-and-one-half laboratory hours a week for one semester; for 308F, one lecture hour and eight laboratory hours a week for one semester. Prerequisite: Consent of instructor and the undergraduate adviser.",
+"prereqText": "Consent of instructor and the undergraduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 309K",
+"subject": "PHY",
+"number": "309K",
+"title": "Elementary Physics for Nontechnical Students",
+"hours": 3.0,
+"division": "lower",
+"description": "Mechanics, heat, and sound. Designed for students who do not intend to do further work in natural sciences, engineering, mathematics, or medicine. Three lecture hours a week for one semester. Only one of the following may be counted: Physical Science 303, Physics 301, 302K, 303K, 309K, 317K. May not be counted toward a degree in the College of Natural Sciences.",
+"tccn": "PHYS 1305",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "PHY 309L",
+"subject": "PHY",
+"number": "309L",
+"title": "Elementary Physics for Nontechnical Students",
+"hours": 3.0,
+"division": "lower",
+"description": "Electricity and magnetism, light, atomic and nuclear physics. Designed for students who do not intend to do further work in natural sciences, engineering, mathematics, or medicine. Three lecture hours a week for one semester. Only one of the following may be counted: Physical Science 304, Physics 302L, 303L, 309L, 316, 317L. May not be counted toward a degree in the College of Natural Sciences. Prerequisite: Physics 309K with a grade of at least C-.",
+"tccn": "PHYS 1307",
+"prereqText": "Physics 309K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "PHY 309K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "PHY 110C",
+"subject": "PHY",
+"number": "110C",
+"title": "Conference Course",
+"hours": 1.0,
+"division": "lower",
+"description": "Supervised study of selected topics in physics, by individual arrangement with department and instructor. Conference course. May be repeated for credit when the topics vary. Offered on the pass/fail basis only. Prerequisite: Written consent of instructor.",
+"prereqText": "Written consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHY 315",
+"subject": "PHY",
+"number": "315",
+"title": "Wave Motion and Optics",
+"hours": 3.0,
+"division": "lower",
+"description": "Study of general properties of waves; examples include sound, electromagnetic, and mechanical waves; special emphasis on light and optics. Three lecture hours a week for one semester. Prerequisite: The following coursework with a grade of at least C- in each: Mathematics 408D, 408M, or equivalent; Physics 316 and 116L; and credit with a grade of at least C- or registration for Physics 115L and Mathematics 427J or 427K.",
+"prereqText": "The following coursework with a grade of at least C- in each: Mathematics 408D, 408M, or equivalent; Physics 316 and 116L; and credit with a grade of at least C- or registration for Physics 115L and Mathematics 427J or 427K.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 115L",
+"subject": "PHY",
+"number": "115L",
+"title": "Laboratory for Physics 315",
+"hours": 1.0,
+"division": "lower",
+"description": "Three laboratory hours a week for one semester. May not be counted toward a degree unless prerequisite is observed. Prerequisite: Credit with a grade of at least C- or registration for Physics 315.",
+"prereqText": "is observed. Prerequisite: Credit with a grade of at least C- or registration for Physics 315.",
+"prereq": {
+"type": "course",
+"id": "PHY 315"
+},
+"prereqConfidence": "high",
+"excluded": "a degree unless prerequisite is observed"
+},
+{
+"id": "PHY 316",
+"subject": "PHY",
+"number": "316",
+"title": "Electricity and Magnetism",
+"hours": 3.0,
+"division": "lower",
+"description": "Three lecture hours a week for one semester. Only one of the following may be counted: Physical Science 304, Physics 302L, 303L, 309L, 316, 317L. Prerequisite: Physics 301 and 101L with a grade of at least C- in each; credit with a grade of at least C- or registration in Mathematics 408D or 408M, and Physics 116L.",
+"prereqText": "Physics 301 and 101L with a grade of at least C- in each; credit with a grade of at least C- or registration in Mathematics 408D or 408M, and Physics 116L.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 116L",
+"subject": "PHY",
+"number": "116L",
+"title": "Laboratory for Physics 316",
+"hours": 1.0,
+"division": "lower",
+"description": "Three laboratory hours a week for one semester. Only one of the following may be counted: Physics 102N, 103N, 105N, 116L, 117N. Prerequisite: Credit with a grade of at least C- or registration for Physics 316.",
+"prereqText": "Credit with a grade of at least C- or registration for Physics 316.",
+"prereq": {
+"type": "course",
+"id": "PHY 316"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 317K",
+"subject": "PHY",
+"number": "317K",
+"title": "General Physics I",
+"hours": 3.0,
+"division": "lower",
+"description": "Mechanics, heat, and sound, with biomedical applications. An introductory course designed and recommended primarily for premedical students and others in the biomedical sciences whose professional or preprofessional training includes an introductory course in calculus. Satisfies most medical and dental school requirements for physics. Three lecture hours a week for one semester. Only one of the following may be counted: Physical Science 303, Physics 301, 302K, 303K, 309K, 317K. May not be counted toward the Bachelor of Science in Astronomy or Bachelor of Science in Physics. Prerequisite: Credit with a grade of at least C- in Mathematics 408C or 408R; or credit with a grade of at least C- in 408K or 408N and registration for 408L or 408S; and credit with a grade of at least C- or registration for Physics 117M or 105M.",
+"prereqText": "Credit with a grade of at least C- in Mathematics 408C or 408R; or credit with a grade of at least C- in 408K or 408N and registration for 408L or 408S; and credit with a grade of at least C- or registration for Physics 117M or 105M.",
+"prereqConfidence": "low",
+"excluded": "the Bachelor of Science in Astronomy or Bachelor of Science in Physics"
+},
+{
+"id": "PHY 317L",
+"subject": "PHY",
+"number": "317L",
+"title": "General Physics II",
+"hours": 3.0,
+"division": "lower",
+"description": "Electricity and magnetism, light, atomic and molecular physics, nuclear physics, and their biomedical applications. Designed and recommended primarily for premedical students and others in the biomedical sciences whose professional or preprofessional training includes an introductory course in calculus. Satisfies most medical and dental school requirements for physics. Three lecture hours a week for one semester. Only one of the following may be counted: Physical Science 304, Physics 302L, 303L, 309L, 316, 317L. May not be counted toward the Bachelor of Science in Astronomy or Bachelor of Science in Physics. Prerequisite: Physics 317K and 117M or 105M with a grade of at least C-; and credit with a grade of at least C- or registration in Physics 117N or 105N.",
+"prereqText": "Physics 317K and 117M or 105M with a grade of at least C-; and credit with a grade of at least C- or registration in Physics 117N or 105N.",
+"prereqConfidence": "low",
+"excluded": "the Bachelor of Science in Astronomy or Bachelor of Science in Physics"
+},
+{
+"id": "PHY 117M",
+"subject": "PHY",
+"number": "117M",
+"title": "Laboratory for Physics 317K",
+"hours": 1.0,
+"division": "lower",
+"description": "Three laboratory hours a week for one semester. Only one of the following may be counted: Physics 101L, 102M, 103M, 105M, 117M. Prerequisite: Credit with a grade of at least C- or registration for Physics 317K.",
+"prereqText": "Credit with a grade of at least C- or registration for Physics 317K.",
+"prereq": {
+"type": "course",
+"id": "PHY 317K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 117N",
+"subject": "PHY",
+"number": "117N",
+"title": "Laboratory for Physics 317L",
+"hours": 1.0,
+"division": "lower",
+"description": "Three laboratory hours a week for one semester. Only one of the following may be counted: Physics 102N, 103N, 105N, 116L, 117N. Prerequisite: Credit with a grade of at least C- or registration for Physics 317L.",
+"prereqText": "Credit with a grade of at least C- or registration for Physics 317L.",
+"prereq": {
+"type": "course",
+"id": "PHY 317L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 119S",
+"subject": "PHY",
+"number": "119S",
+"title": "Topics in Physics",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 219S",
+"subject": "PHY",
+"number": "219S",
+"title": "Topics in Physics",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 319S",
+"subject": "PHY",
+"number": "319S",
+"title": "Topics in Physics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 419S",
+"subject": "PHY",
+"number": "419S",
+"title": "Topics in Physics",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 519S",
+"subject": "PHY",
+"number": "519S",
+"title": "Topics in Physics",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 619S",
+"subject": "PHY",
+"number": "619S",
+"title": "Topics in Physics",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 719S",
+"subject": "PHY",
+"number": "719S",
+"title": "Topics in Physics",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 819S",
+"subject": "PHY",
+"number": "819S",
+"title": "Topics in Physics",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 919S",
+"subject": "PHY",
+"number": "919S",
+"title": "Topics in Physics",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 394E",
+"subject": "PHY",
+"number": "394E",
+"title": "Introduction to Quantum Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed for beginning graduate students in electrical engineering. Introduction to the basic concepts of quantum mechanics with emphasis on the application of quantum phenomena to the many-body systems. Origin of quantum mechanics, solution of particle or box and harmonic oscillator, angular momentum and spin, bosons and fermions, distribution functions, crystals, Block's theorem, band theory, superfluids and superconductors. Three lecture hours a week for one semester. Normally meets with Physics 364E. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 321",
+"subject": "PHY",
+"number": "321",
+"title": "Modern Physics: Plan II",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan II students. Conceptual foundations of modern physics. Examines quantum mechanics, quantum field theory, relativity, and general relativity, including large-scale structure and cosmology; and the development of analytic problem-solving skills, including estimation. Three lecture hours a week for one semester. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan II students."
+},
+{
+"id": "PHY 329",
+"subject": "PHY",
+"number": "329",
+"title": "Introduction to Computational Physics",
+"hours": 3.0,
+"division": "upper",
+"description": "Computational methods for problem solving and research in physics; numerical analysis and computer simulation methods for physics applications using different types of computers. Three lecture hours a week for one semester. Only one of the following may be counted: Computer Science 367, Mathematics 368K, Physics 329. Prerequisite: The following coursework with a grade of at least C- in each: Physics 315 and 115L; a programming course at the level of Computer Science 303E with a grade of at least C- and credit with a grade of at least C- or registration for Mathematics 340L, 341, or Statistics and Data Sciences 329C.",
+"prereqText": "The following coursework with a grade of at least C- in each: Physics 315 and 115L; a programming course at the level of Computer Science 303E with a grade of at least C- and credit with a grade of at least C- or registration for Mathematics 340L, 341, or Statistics and Data Sciences 329C.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 129S",
+"subject": "PHY",
+"number": "129S",
+"title": "Topics in Physics",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 229S",
+"subject": "PHY",
+"number": "229S",
+"title": "Topics in Physics",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 329S",
+"subject": "PHY",
+"number": "329S",
+"title": "Topics in Physics",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 429S",
+"subject": "PHY",
+"number": "429S",
+"title": "Topics in Physics",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 529S",
+"subject": "PHY",
+"number": "529S",
+"title": "Topics in Physics",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 629S",
+"subject": "PHY",
+"number": "629S",
+"title": "Topics in Physics",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 729S",
+"subject": "PHY",
+"number": "729S",
+"title": "Topics in Physics",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 829S",
+"subject": "PHY",
+"number": "829S",
+"title": "Topics in Physics",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 929S",
+"subject": "PHY",
+"number": "929S",
+"title": "Topics in Physics",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 329W",
+"subject": "PHY",
+"number": "329W",
+"title": "Cooperative Physics",
+"hours": 3.0,
+"division": "upper",
+"description": "Covers the work period of physics students in the Cooperative Education Program, which provides supervised work experience by arrangement with the employer and the supervising instructor. Forty laboratory hours a week for one semester. The student must repeat the course each work period and must take it twice to receive credit toward the degree; at least one of these registrations must be during a long-session semester. No more than three semester hours may be counted toward the major requirement; no more than six semester hours may be counted toward the degree. The student's first registration must be on the pass/fail basis. Prerequisite: Membership application to the Cooperative Physics Program, Physics 316 with a grade of at least C-, and consent of the undergraduate adviser.",
+"prereqText": "Membership application to the Cooperative Physics Program, Physics 316 with a grade of at least C-, and consent of the undergraduate adviser.",
+"prereq": {
+"type": "course",
+"id": "PHY 316",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 333",
+"subject": "PHY",
+"number": "333",
+"title": "Modern Optics",
+"hours": 3.0,
+"division": "upper",
+"description": "Review of geometrical optics, polarization, interference, and optical instruments. Subjects include Fourier optics, light propagation in fibers, quantum optics, and coherence. Three lecture hours a week for one semester. Prerequisite: The following coursework with a grade of at least C- in each: Mathematics 427J or 427K, Physics 315, and 115L.",
+"prereqText": "The following coursework with a grade of at least C- in each: Mathematics 427J or 427K, Physics 315, and 115L.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 133L",
+"subject": "PHY",
+"number": "133L",
+"title": "Laboratory for Physics 333",
+"hours": 1.0,
+"division": "upper",
+"description": "Three laboratory hours a week for one semester. Prerequisite: Credit with a grade of at least C- or registration for Physics 333.",
+"prereqText": "Credit with a grade of at least C- or registration for Physics 333.",
+"prereq": {
+"type": "course",
+"id": "PHY 333"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 336K",
+"subject": "PHY",
+"number": "336K",
+"title": "Classical Dynamics",
+"hours": 3.0,
+"division": "upper",
+"description": "Elementary linear vector algebra, Newtonian mechanics, Lagrangian mechanics, central force motion, dynamics of rigid bodies, and theory of small oscillations. Three lecture hours a week for one semester. Prerequisite: The following coursework with a grade of at least C- in each: Mathematics 427L or 364K, Physics 315, and 115L.",
+"prereqText": "The following coursework with a grade of at least C- in each: Mathematics 427L or 364K, Physics 315, and 115L.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 336L",
+"subject": "PHY",
+"number": "336L",
+"title": "Fluid Dynamics",
+"hours": 3.0,
+"division": "upper",
+"description": "Fundamental concepts of fluid mechanics developed and applied to laminar and turbulent flows. Subjects include the Navier-Stokes equations, pipe and channel flow, drag, boundary layers, convection, and rotating fluids. Three lecture hours a week for one semester. Prerequisite: Physics 336K with a grade of at least C-.",
+"prereqText": "Physics 336K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "PHY 336K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 338K",
+"subject": "PHY",
+"number": "338K",
+"title": "Electronic Techniques",
+"hours": 3.0,
+"division": "upper",
+"description": "Elementary circuit theory, amplifiers, feedback, pulse and digital techniques, signal processing, and microprocessors as applied to physics instrumentation. One and one-half lecture hours and three laboratory hours a week for one semester. Prerequisite: The following coursework with a grade of at least C- in each: Mathematics 427J or 427K, Physics 316, and 116L.",
+"prereqText": "The following coursework with a grade of at least C- in each: Mathematics 427J or 427K, Physics 316, and 116L.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 239C",
+"subject": "PHY",
+"number": "239C",
+"title": "Physics Cognition and Pedagogy",
+"hours": 2.0,
+"division": "upper",
+"description": "Investigate physics-specific education literature, and think about how the results of these studies apply to teaching practice. Discuss obstacles to students' academic success such as stereotype threat, identity, implicit bias, and mindset. Reflect on how to make a difference in students' learning as a physics learning assistant. The equivalent of two lecture hours a week for one semester. May be repeated for credit. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "PHY 341",
+"subject": "PHY",
+"number": "341",
+"title": "Selected Topics in Physics",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. An additional one-hour problem session is required for some sections. May not be counted toward the Bachelor of Science in Physics degree without prior approval of the department. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing, three semester hours of coursework in a natural science, and three semester hours of coursework in mathematics.",
+"prereqText": "Upper-division standing, three semester hours of coursework in a natural science, and three semester hours of coursework in mathematics.",
+"prereqConfidence": "none",
+"excluded": "the Bachelor of Science in Physics degree without prior approval of the department"
+},
+{
+"id": "PHY 345",
+"subject": "PHY",
+"number": "345",
+"title": "Biophysics",
+"hours": 3.0,
+"division": "upper",
+"description": "Basic concepts of physics developed and applied to biological systems. Subjects include energy in living systems, entropic interactions, molecular forces and self-assembly, biopolymers, bio-membranes, cell-cell interactions, pattern formation, collective behavior, higher order systems, population dynamics and evolution. Three lecture hours a week for one semester. Prerequisite: Upper-division standing, and the following coursework with a grade of at least C- in each: Biology 311D, Chemistry 302, and Physics 355.",
+"prereqText": "Upper-division standing, and the following coursework with a grade of at least C- in each: Biology 311D, Chemistry 302, and Physics 355.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BIO 311D"
+},
+{
+"type": "course",
+"id": "CH 302"
+},
+{
+"type": "course",
+"id": "PHY 355"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 352K",
+"subject": "PHY",
+"number": "352K",
+"title": "Classical Electrodynamics I",
+"hours": 3.0,
+"division": "upper",
+"description": "Electrostatic fields, magnetostatic fields, derivation of Green's theorems and functions and of Maxwell's equations. Three lecture hours a week for one semester. Prerequisite: The following coursework with a grade of at least C- in each: Mathematics 427L or 364K, Physics 315, and 115L.",
+"prereqText": "The following coursework with a grade of at least C- in each: Mathematics 427L or 364K, Physics 315, and 115L.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 352L",
+"subject": "PHY",
+"number": "352L",
+"title": "Classical Electrodynamics II",
+"hours": 3.0,
+"division": "upper",
+"description": "A continuation of Physics 352K, emphasis is placed on conservation laws, electromagnetic waves, potentials and fields, radiation, and Lorentz invariance. One or more special subjects, such as Rayleigh scattering and energy loss by relativistic charged particles in matter will be developed. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Physics 352K with a grade of at least C-.",
+"prereqText": "Physics 352K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "PHY 352K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "PHY 353L",
+"subject": "PHY",
+"number": "353L",
+"title": "Modern Physics Laboratory",
+"hours": 3.0,
+"division": "upper",
+"description": "Laboratory experiments investigating the breakdown of classical physics for microscopic phenomena. Includes absorption and emission spectra, the photoelectric effect, blackbody radiation, the Compton effect, X-ray diffraction, and other experiments in modern physics. Four and one-half laboratory hours a week for one semester. Prerequisite: The following coursework with a grade of at least C- in each: Physics 315 and 115L.",
+"prereqText": "The following coursework with a grade of at least C- in each: Physics 315 and 115L.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "PHY 315"
+},
+{
+"type": "course",
+"id": "PHY 115L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 355",
+"subject": "PHY",
+"number": "355",
+"title": "Modern Physics and Thermodynamics",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to modern physics and thermodynamics: photons (spectra, photoelectric effect, blackbody radiation, Compton effect), atoms (Rutherford, Bohr), matter waves (Planck, deBroglie, probability interpretation, Schroedinger), nuclei, particles, special relativity, the laws of thermodynamics, and statistical physics. Three lecture hours a week for one semester. Prerequisite: Physics 303L or 316 with a grade of at least C-.",
+"prereqText": "Physics 303L or 316 with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "PHY 303L"
+},
+{
+"type": "course",
+"id": "PHY 316",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 362K",
+"subject": "PHY",
+"number": "362K",
+"title": "Quantum Physics II: Atoms and Molecules",
+"hours": 3.0,
+"division": "upper",
+"description": "The two-electron atom; spin and statistics; coupling schemes for many-electron atoms; atoms and the radiation field; perturbation methods for decay and collisions; thermal, electrical, and magnetic properties of solids; and free-electron metal and band theory. May include subjects such as superconductivity, Josephson tunneling, and others. Three lecture hours a week for one semester. Prerequisite: Physics 373 with a grade of at least C-.",
+"prereqText": "Physics 373 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "PHY 373",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 362L",
+"subject": "PHY",
+"number": "362L",
+"title": "Quantum Physics III: Particles and Nuclei",
+"hours": 3.0,
+"division": "upper",
+"description": "Nuclei and nucleons, their gross properties; the hadrons; symmetries and conservation laws; nuclear stability; electromagnetic, weak, and hadronic interactions; nuclear reactions at low, medium, and high energies; nucleon structure; tools of experimental nuclear physics; models of theoretical nuclear physics; nuclear technology. Three lecture hours a week for one semester. Prerequisite: Physics 373 with a grade of at least C-; Physics 362K is recommended.",
+"prereqText": "Physics 373 with a grade of at least C-; Physics 362K is recommended.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "PHY 373",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "PHY 362K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 369",
+"subject": "PHY",
+"number": "369",
+"title": "Thermodynamics and Statistical Mechanics",
+"hours": 3.0,
+"division": "upper",
+"description": "Basic concepts of thermal physics; entropy, enthalpy, free energy, phase transitions, equilibrium distribution functions, applications. Three lecture hours a week for one semester. Prerequisite: Credit with a grade of at least C- or registration for Physics 373.",
+"prereqText": "Credit with a grade of at least C- or registration for Physics 373.",
+"prereq": {
+"type": "course",
+"id": "PHY 373"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 670T",
+"subject": "PHY",
+"number": "670T",
+"title": "Senior Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Individual research with faculty supervision. First half involves preparation of proposal; second involves completion of written thesis. Six hours of work a week for one semester, or three hours of work a week for two semesters. Only three semester hours may be counted toward the Bachelor of Science in Physics degree. Prerequisite: Upper-division standing and nine semester hours of upper-division coursework in physics.",
+"prereqText": "Upper-division standing and nine semester hours of upper-division coursework in physics.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 371C",
+"subject": "PHY",
+"number": "371C",
+"title": "Individual Study in Physics",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised reading or research in physics. Hours to be arranged. May be repeated for credit. Prerequisite: Upper-division standing; Physics 336K with a grade of at least C-; credit with a grade of at least C- or registration for Physics 352K; and consent of the undergraduate adviser.",
+"prereqText": "Upper-division standing; Physics 336K with a grade of at least C-; credit with a grade of at least C- or registration for Physics 352K; and consent of the undergraduate adviser.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "PHY 336K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "PHY 352K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 373",
+"subject": "PHY",
+"number": "373",
+"title": "Quantum Physics I: Foundations",
+"hours": 3.0,
+"division": "upper",
+"description": "Postulates of quantum mechanics, the bound states of the finite square well, the harmonic oscillator, operator-eigenvalue formulism and selected examples, the hydrogen atom, angular momentum, rigid rotor, and spin. May include simple scattering theory. Three lecture hours a week for one semester. Prerequisite: Physics 315 and 355 with a grade of at least C-.",
+"prereqText": "Physics 315 and 355 with a grade of at least C-.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "PHY 315"
+},
+{
+"type": "course",
+"id": "PHY 355",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 474",
+"subject": "PHY",
+"number": "474",
+"title": "Advanced Laboratory I",
+"hours": 4.0,
+"division": "upper",
+"description": "Modern experimental techniques, theory of error, and analysis of experiments; both modern and classical experiments in atomic and nuclear physics, electricity and magnetism, optics and heat. Three lecture hours and eight laboratory hours a week for one semester, with additional laboratory hours to be arranged. With consent of instructor, may be repeated for credit. Prerequisite: Physics 352K, 353L, and 355; or consent of the undergraduate adviser. Physics 338K is recommended.",
+"prereqText": "Physics 352K, 353L, and 355; or consent of the undergraduate adviser. Physics 338K is recommended.",
+"prereqConfidence": "low"
+},
+{
+"id": "PHY 375P",
+"subject": "PHY",
+"number": "375P",
+"title": "Introductory Plasma Physics",
+"hours": 3.0,
+"division": "upper",
+"description": "Orbit theory and drifts, introduction to plasma stability and waves, applications to plasma confinement and heating. Three lecture hours a week for one semester. Prerequisite: The following coursework with a grade of at least C- in each: Physics 352K and 369.",
+"prereqText": "The following coursework with a grade of at least C- in each: Physics 352K and 369.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "PHY 352K"
+},
+{
+"type": "course",
+"id": "PHY 369"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 375R",
+"subject": "PHY",
+"number": "375R",
+"title": "Introduction to Relativity",
+"hours": 3.0,
+"division": "upper",
+"description": "Overview of the special and general theories of relativity, with emphasis on recent developments in gravitation. Three lecture hours a week for one semester. Prerequisite: Physics 352K with a grade of at least C-.",
+"prereqText": "Physics 352K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "PHY 352K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 375S",
+"subject": "PHY",
+"number": "375S",
+"title": "Introductory Solid-State Physics",
+"hours": 3.0,
+"division": "upper",
+"description": "Crystal structure, classification of solids, cohesion, thermal and electrical properties of solids, magnetic properties of solids, imperfections. Three lecture hours a week for one semester. Prerequisite: The following coursework with a grade of at least C- in each: Physics 369 and 373.",
+"prereqText": "The following coursework with a grade of at least C- in each: Physics 369 and 373.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "PHY 369"
+},
+{
+"type": "course",
+"id": "PHY 373"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 379H",
+"subject": "PHY",
+"number": "379H",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Research project, resulting in a thesis, for outstanding students electing to take the honors program in physics. Conference course. Prerequisite: A University grade point average of at least 3.00, a grade point average in physics of at least 3.50, twelve semester hours of upper-division coursework in physics, and consent of the student's research supervisor and the departmental honors adviser.",
+"prereqText": "A University grade point average of at least 3.00, a grade point average in physics of at least 3.50, twelve semester hours of upper-division coursework in physics, and consent of the student's research supervisor and the departmental honors adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 394E",
+"subject": "PHY",
+"number": "394E",
+"title": "Introduction to Quantum Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed for beginning graduate students in electrical engineering. Introduction to the basic concepts of quantum mechanics with emphasis on the application of quantum phenomena to the many-body systems. Origin of quantum mechanics, solution of particle or box and harmonic oscillator, angular momentum and spin, bosons and fermions, distribution functions, crystals, Block's theorem, band theory, superfluids and superconductors. Three lecture hours a week for one semester. Normally meets with Physics 364E. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 380L",
+"subject": "PHY",
+"number": "380L",
+"title": "Plasma Physics I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Particle drifts, equations for plasmas, magnetohydrodynamics, waves and instabilities in the two-fluid model, Vlasov equation, Landau damping, controlled thermonuclear research, plasma diagnostics. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 380M",
+"subject": "PHY",
+"number": "380M",
+"title": "Plasma Physics II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Plasma containment, stability theory in fluid models, derivation of Vlasov and Fokker-Planck equations, the dielectric tensor, velocity space and gradient instabilities, Nyquist diagrams. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Physics 380L or consent of instructor.",
+"prereqText": "Graduate standing and Physics 380L or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "PHY 380L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 380N",
+"subject": "PHY",
+"number": "380N",
+"title": "Experimental Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Experimental work to provide exposure to physics research techniques. Eighteen laboratory hours a week for one semester. Prerequisite: Graduate standing and concurrent enrollment in Physics 390.",
+"prereqText": "Graduate standing and concurrent enrollment in Physics 390.",
+"prereq": {
+"type": "course",
+"id": "PHY 390"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 380T",
+"subject": "PHY",
+"number": "380T",
+"title": "Advanced Study in Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Not open to physics majors. Special topics for physics teachers. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, a bachelor's degree in science or mathematics, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, a bachelor's degree in science or mathematics, and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 381C",
+"subject": "PHY",
+"number": "381C",
+"title": "Computational Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Dynamical and statical descriptions and solutions of many-body, nonlinear physical systems by computation. Theory of computation and applications to various branches of physics. Three lecture hours a week for one semester. Prerequisite: Graduate standing; and Physics 385K and 387K, or consent of instructor.",
+"prereqText": "Graduate standing; and Physics 385K and 387K, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "PHY 385K"
+},
+{
+"type": "course",
+"id": "PHY 387K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 381M",
+"subject": "PHY",
+"number": "381M",
+"title": "Methods of Mathematical Physics I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 385M. Theory of analytic functions; linear algebra and vector spaces; orthogonal functions; ordinary differential equations; partial differential equations; Green's functions; complex variables. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 385M and Physics 381M may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"sameAs": "Computational Science, Engineering, and Mathematics 385M"
+},
+{
+"id": "PHY 381N",
+"subject": "PHY",
+"number": "381N",
+"title": "Methods of Mathematical Physics II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 385N. Continuation of Computational Science, Engineering, and Mathematics 385M and Physics 381M. Topology, functional analysis, approximation methods, group theory, differential manifolds. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 385N and Physics 381N may not both be counted. Prerequisite: Graduate standing; and Computational Science, Engineering, and Mathematics 385M or Physics 381M.",
+"prereqText": "Graduate standing; and Computational Science, Engineering, and Mathematics 385M or Physics 381M.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CSE 385M"
+},
+{
+"type": "course",
+"id": "PHY 381M"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Computational Science, Engineering, and Mathematics 385N"
+},
+{
+"id": "PHY 382M",
+"subject": "PHY",
+"number": "382M",
+"title": "Fluid Mechanics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Flow of ideal and viscous fluids; introduction to turbulence; boundary layers; sound and shock waves. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Physics 381M, 385K, and 387K.",
+"prereqText": "Graduate standing and Physics 381M, 385K, and 387K.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "PHY 381M"
+},
+{
+"type": "course",
+"id": "PHY 385K"
+},
+{
+"type": "course",
+"id": "PHY 387K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 382N",
+"subject": "PHY",
+"number": "382N",
+"title": "Nonlinear Dynamics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Basic concepts of evolution and stability, examples of instabilities, low dimensional dynamical systems, chaos, characterization of temporal chaos, pattern formation, Hamiltonian systems. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 382P",
+"subject": "PHY",
+"number": "382P",
+"title": "Biophysics I",
+"hours": 3.0,
+"division": "graduate",
+"description": "The cell, small molecules and chemical kinetics, forces on the molecular scale, proteins, lipids and membranes, biopolymers, neurons and electrical signal transduction, and complex pattern formation in cells and cell aggregates. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 382Q",
+"subject": "PHY",
+"number": "382Q",
+"title": "Biophysics II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced biophysics with emphasis on biologically relevant questions addressed with physical approaches. Biopolymer mechanics, protein-nucleic acid interaction, protein structure and dynamics, membrane dynamics, cytoskeletal dynamics, motor proteins, cell shape and motility, cell communication, tissue mechanics. Three lecture hours a week for one semester. Prerequisite: Graduate standing; and Physics 382P or consent of instructor.",
+"prereqText": "Graduate standing; and Physics 382P or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "PHY 382P"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 382S",
+"subject": "PHY",
+"number": "382S",
+"title": "Seminar in Nonlinear Dynamics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 385K",
+"subject": "PHY",
+"number": "385K",
+"title": "Classical Mechanics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Classical and relativistic Hamiltonian mechanics; Hamilton-Jacobi theory; Lagrangian mechanics for continuous media; symmetry principles and conservation laws. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 385L",
+"subject": "PHY",
+"number": "385L",
+"title": "Statistical Mechanics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Equilibrium statistical mechanics; introduction to nonequilibrium concepts; ensembles; classical and quantum gases; statistical physics of solids. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Physics 385K or consent of instructor.",
+"prereqText": "Graduate standing, and Physics 385K or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "PHY 385K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 385S",
+"subject": "PHY",
+"number": "385S",
+"title": "Seminar in Statistical Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 385T",
+"subject": "PHY",
+"number": "385T",
+"title": "Special Topics in Statistical Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. With consent of the graduate adviser, may be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 386K",
+"subject": "PHY",
+"number": "386K",
+"title": "Physics of Sensors",
+"hours": 3.0,
+"division": "graduate",
+"description": "Physical principles of acoustic, optical, electromagnetic, radiation, and motion sensors. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 386N",
+"subject": "PHY",
+"number": "386N",
+"title": "Technical Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Physics for applied and industrial purposes. Three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 386S",
+"subject": "PHY",
+"number": "386S",
+"title": "Seminar in Applied Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 387K",
+"subject": "PHY",
+"number": "387K",
+"title": "Electromagnetic Theory I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Electrostatics and magnetostatics; boundary value problems; Maxwell's equations; plane waves; wave guides; diffraction; multipole radiation. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 387L",
+"subject": "PHY",
+"number": "387L",
+"title": "Electromagnetic Theory II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Magnetohydrodynamics and plasmas; relativity; collisions of charged particles; radiation from moving charges; radiation damping. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Physics 387K.",
+"prereqText": "Graduate standing and Physics 387K.",
+"prereq": {
+"type": "course",
+"id": "PHY 387K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 387M",
+"subject": "PHY",
+"number": "387M",
+"title": "Relativity Theory I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore tensor calculus, differential geometry, special and general relativity, black holes, and gravitational waves. Three lecture hours a week for one semester. Offered in the fall semester only. Prerequisite: Graduate standing and Physics 387K.",
+"prereqText": "Graduate standing and Physics 387K.",
+"prereq": {
+"type": "course",
+"id": "PHY 387K"
+},
+"prereqConfidence": "high",
+"offering": "Offered in the fall semester only."
+},
+{
+"id": "PHY 387N",
+"subject": "PHY",
+"number": "387N",
+"title": "Relativity Theory II",
+"hours": 3.0,
+"division": "graduate",
+"description": "General relativity theory; gravitational field equations; weak field approximations; Schwarzschild solution, observable consequences; other topics. Three lecture hours a week for one semester. Offered in the spring semester only. Prerequisite: Graduate standing and Physics 387M.",
+"prereqText": "Graduate standing and Physics 387M.",
+"prereq": {
+"type": "course",
+"id": "PHY 387M"
+},
+"prereqConfidence": "high",
+"offering": "Offered in the spring semester only."
+},
+{
+"id": "PHY 388M",
+"subject": "PHY",
+"number": "388M",
+"title": "Graduate Colloquy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Reviews of current topics in physics research. Three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 388S",
+"subject": "PHY",
+"number": "388S",
+"title": "Seminar in Teaching Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 389K",
+"subject": "PHY",
+"number": "389K",
+"title": "Quantum Mechanics I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Hilbert space and operators; Schroedinger and Heisenberg equations; solutions for systems in one and three dimensions; theory of spin and orbital angular momentum; the effect of symmetries; approximation techniques; elementary scattering theory. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 389L",
+"subject": "PHY",
+"number": "389L",
+"title": "Quantum Mechanics II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Perturbation techniques; systems of identical particles; quantum theory of radiation; emission and absorption of photons; selection rules; life times; scattering theory for light and particles, S-matrix; relativistic corrections to electron motion. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Physics 389K.",
+"prereqText": "Graduate standing and Physics 389K.",
+"prereq": {
+"type": "course",
+"id": "PHY 389K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 190",
+"subject": "PHY",
+"number": "190",
+"title": "Graduate Research",
+"hours": 1.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May not be counted toward the master's degree in physics. Prerequisite: Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqText": "Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqConfidence": "none",
+"excluded": "the master's degree in physics"
+},
+{
+"id": "PHY 290",
+"subject": "PHY",
+"number": "290",
+"title": "Graduate Research",
+"hours": 2.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May not be counted toward the master's degree in physics. Prerequisite: Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqText": "Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqConfidence": "none",
+"excluded": "the master's degree in physics"
+},
+{
+"id": "PHY 390",
+"subject": "PHY",
+"number": "390",
+"title": "Graduate Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May not be counted toward the master's degree in physics. Prerequisite: Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqText": "Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqConfidence": "none",
+"excluded": "the master's degree in physics"
+},
+{
+"id": "PHY 690",
+"subject": "PHY",
+"number": "690",
+"title": "Graduate Research",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May not be counted toward the master's degree in physics. Prerequisite: Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqText": "Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqConfidence": "none",
+"excluded": "the master's degree in physics"
+},
+{
+"id": "PHY 990",
+"subject": "PHY",
+"number": "990",
+"title": "Graduate Research",
+"hours": 9.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May not be counted toward the master's degree in physics. Prerequisite: Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqText": "Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqConfidence": "none",
+"excluded": "the master's degree in physics"
+},
+{
+"id": "PHY 391M",
+"subject": "PHY",
+"number": "391M",
+"title": "Nonlinear Plasma Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Quasi-linear theory, weak turbulence, large amplitude waves, plasma radiation, shock waves, shock structure, computer techniques. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Physics 380L.",
+"prereqText": "Graduate standing and Physics 380L.",
+"prereq": {
+"type": "course",
+"id": "PHY 380L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 391S",
+"subject": "PHY",
+"number": "391S",
+"title": "Seminar in Plasma Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 391T",
+"subject": "PHY",
+"number": "391T",
+"title": "Special Subjects in Plasma Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Subjects to be announced. Three lecture hours a week for one semester. With consent of instructor, may be repeated for credit. Prerequisite: Graduate standing, Physics 380L, and consent of instructor.",
+"prereqText": "Graduate standing, Physics 380L, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "PHY 380L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 391U",
+"subject": "PHY",
+"number": "391U",
+"title": "Seminar in Plasma Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Current topics in plasma theory. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 392K",
+"subject": "PHY",
+"number": "392K",
+"title": "Solid-State Physics I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Lattice vibrations and thermal properties of solids; band theory of solids; transport properties of metals and semiconductors; optical properties; magnetic properties; magnetic relaxation; superconductivity. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Physics 389K, and Physics 375S or the equivalent.",
+"prereqText": "Graduate standing, Physics 389K, and Physics 375S or the equivalent.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "PHY 389K"
+},
+{
+"type": "course",
+"id": "PHY 375S"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 392L",
+"subject": "PHY",
+"number": "392L",
+"title": "Solid-State Physics II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Elementary excitations: phonons, electrons, spin waves; interactions: phonon-phonon, electron-electron, electron-phonon; theory of metals and semiconductors; transport theory; optical properties. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Physics 392K.",
+"prereqText": "Graduate standing and Physics 392K.",
+"prereq": {
+"type": "course",
+"id": "PHY 392K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 392N",
+"subject": "PHY",
+"number": "392N",
+"title": "Many-Body Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Overview of many-body theory; second quantization; Green's functions and Feynman diagrams; finite-temperature, imaginary-time Green's functions; the disordered metal; path integrals; broken symmetries; and local moments. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 392P",
+"subject": "PHY",
+"number": "392P",
+"title": "Advanced Optical Spectroscopy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore spectroscopy methods including: time-resolved photoluminescence, transient absorption, four-wave mixing, and multidimensional spectroscopy. Examine the propagation of ultrafast laser pulses in matter and dispersion-compensation. Consider the description of quantum dynamics such as decoherence and population relaxation using the density matrix formalism. Three lecture hours a week for one semester. Prerequisite: Gradate standing. For undergraduate students who take this course: Physics 315, Physics 373, or consent of the instructor and graduate advisor.",
+"prereqText": "Gradate standing. For undergraduate students who take this course: Physics 315, Physics 373, or consent of the instructor and graduate advisor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "PHY 315"
+},
+{
+"type": "course",
+"id": "PHY 373"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 392Q",
+"subject": "PHY",
+"number": "392Q",
+"title": "Density Functional Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine the quantum theory of many-electron systems from the point of view of first-principles atomic-scale calculations. Develop the conceptual foundations of density functional theory and its uses in computational materials modeling, design, and discovery. Perform predictive calculations of structural, electronic, optical, vibrational, and magnetic properties of solids using high-performance computing environments. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 392S",
+"subject": "PHY",
+"number": "392S",
+"title": "Seminar in Solid-State Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 392T",
+"subject": "PHY",
+"number": "392T",
+"title": "Special Topics in Solid-State Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. With consent of instructor, may be repeated for credit. Prerequisite: Graduate standing, Physics 392K, and consent of instructor.",
+"prereqText": "Graduate standing, Physics 392K, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "PHY 392K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 393S",
+"subject": "PHY",
+"number": "393S",
+"title": "Seminar in Relativity",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 393T",
+"subject": "PHY",
+"number": "393T",
+"title": "Special Topics in Relativity",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. With consent of instructor, may be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 394E",
+"subject": "PHY",
+"number": "394E",
+"title": "Introduction to Quantum Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed for beginning graduate students in electrical engineering. Introduction to the basic concepts of quantum mechanics with emphasis on the application of quantum phenomena to the many-body systems. Origin of quantum mechanics, solution of particle or box and harmonic oscillator, angular momentum and spin, bosons and fermions, distribution functions, crystals, Block's theorem, band theory, superfluids and superconductors. Three lecture hours a week for one semester. Normally meets with Physics 364E. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 394U",
+"subject": "PHY",
+"number": "394U",
+"title": "Special Topics in Theoretical Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 395",
+"subject": "PHY",
+"number": "395",
+"title": "Survey of Atomic and Molecular Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Spectra of atoms and diatomic molecules; quantum electronics; experimental techniques. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 395K",
+"subject": "PHY",
+"number": "395K",
+"title": "Nonlinear Optics and Lasers",
+"hours": 3.0,
+"division": "graduate",
+"description": "Gaussian beam optics, interaction of electromagnetic radiation with matter, semiclassical laser theory, experimental laser systems, nonlinear optical susceptibilities, harmonic generation, wave mixing, electro-optic and acousto-optic effects, coherent transient effects, optical breakdown, laser-plasma interactions. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and either Physics 387K and 389K or consent of instructor.",
+"prereqText": "Graduate standing, and either Physics 387K and 389K or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "PHY 387K"
+},
+{
+"type": "course",
+"id": "PHY 389K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 395M",
+"subject": "PHY",
+"number": "395M",
+"title": "Laser Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Continuation of Physics 395K. Advanced atomic physics of various laser systems, optical coherence and diffraction theory, pulse propagation and dispersion effects, advanced laser oscillator and amplifier physics, laser amplifier chain design, and chirped-pulse amplification. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Physics 387K, 389K, and 395K, and consent of instructor.",
+"prereqText": "Graduate standing, Physics 387K, 389K, and 395K, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "PHY 387K"
+},
+{
+"type": "course",
+"id": "PHY 389K"
+},
+{
+"type": "course",
+"id": "PHY 395K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 395S",
+"subject": "PHY",
+"number": "395S",
+"title": "Seminar in Atomic and Molecular Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 395T",
+"subject": "PHY",
+"number": "395T",
+"title": "Special Topics in Atomic and Molecular Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. With consent of instructor, may be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 396G",
+"subject": "PHY",
+"number": "396G",
+"title": "Cosmology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore inflationary cosmology, the formation of element abundances during Big Bang nucleosynthesis, cosmological perturbations and structure formation, the cosmic microwave background, and the content of the universe (including dark matter and dark energy). Examine unresolved problems in cosmology (such as the origin of the matter/antimatter asymmetry), the possibility of extra dimensions, what happened before the Big Bang, \"big data\" in cosmology, observational probes of dark energy, and inflation models and tests. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Physics 389K, and consent of instructor.",
+"prereqText": "Graduate standing, Physics 389K, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "PHY 389K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 396J",
+"subject": "PHY",
+"number": "396J",
+"title": "Introduction to Elementary Particle Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Historical introduction to elementary particles, elementary particle dynamics, relativistic kinematics, symmetries, bound states, the Feynman calculus, quantum electrodynamics, electrodynamics of quarks and hadrons, quantum chromodynamics, weak interactions, gauge theories. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Physics 389K, and knowledge of special relativity and scattering.",
+"prereqText": "Graduate standing, Physics 389K, and knowledge of special relativity and scattering.",
+"prereq": {
+"type": "course",
+"id": "PHY 389K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 396K",
+"subject": "PHY",
+"number": "396K",
+"title": "Quantum Field Theory I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Quantization of the Klein-Gordon, Dirac, and electromagnetic field theories; theory of interacting fields, perturbation theory, and renormalization. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Physics 389K.",
+"prereqText": "Graduate standing and Physics 389K.",
+"prereq": {
+"type": "course",
+"id": "PHY 389K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 396L",
+"subject": "PHY",
+"number": "396L",
+"title": "Quantum Field Theory II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Path-integral formalism, massless particles, electrodynamics, nonperturbative methods, one-loop calculations in quantum electrodynamics, general renormalization theory, soft photons, bound statics in quantum electrodynamics. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Physics 396K.",
+"prereqText": "Graduate standing and Physics 396K.",
+"prereq": {
+"type": "course",
+"id": "PHY 396K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 396P",
+"subject": "PHY",
+"number": "396P",
+"title": "String Theory I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to string theory and conformal field theory. The free string, conformal invariance and conformal field theory, supersymmetry and string interactions. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Physics 396K or the equivalent or consent of instructor.",
+"prereqText": "Graduate standing, and Physics 396K or the equivalent or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "PHY 396K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 396Q",
+"subject": "PHY",
+"number": "396Q",
+"title": "String Theory II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced conformal field theory, perturbative string theory and compactification. Introduction to nonperturbative aspects of string theory. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Physics 396P.",
+"prereqText": "Graduate standing and Physics 396P.",
+"prereq": {
+"type": "course",
+"id": "PHY 396P"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 396S",
+"subject": "PHY",
+"number": "396S",
+"title": "Seminar in Particle Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. With consent of instructor, any topic may be repeated for credit. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 396T",
+"subject": "PHY",
+"number": "396T",
+"title": "Special Topics in Particle Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. With consent of instructor, may be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 397K",
+"subject": "PHY",
+"number": "397K",
+"title": "Nuclear Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Systematics of stable nuclei; nuclear structure; decay of the nucleus; cross sections and reaction mechanisms; the elementary particles. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Physics 389K or consent of instructor.",
+"prereqText": "Graduate standing, and Physics 389K or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "PHY 389K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHY 397S",
+"subject": "PHY",
+"number": "397S",
+"title": "Seminar in Nuclear Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 397T",
+"subject": "PHY",
+"number": "397T",
+"title": "Special Topics in Nuclear Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. With consent of instructor, may be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 197U",
+"subject": "PHY",
+"number": "197U",
+"title": "Graduate Seminar in Nanoscience",
+"hours": 1.0,
+"division": "graduate",
+"description": "Various seminar topics in nanoscience. One lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 698",
+"subject": "PHY",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in physics and written consent of the supervising professor filed with the graduate adviser; for 698B, Physics 698A.",
+"prereqText": "For 698A, graduate standing in physics and written consent of the supervising professor filed with the graduate adviser; for 698B, Physics 698A.",
+"prereq": {
+"type": "course",
+"id": "PHY 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 398S",
+"subject": "PHY",
+"number": "398S",
+"title": "Seminar in High Energy Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Physics 396U (Topic: Theory Group Seminar) and 398S may not both be counted. May be repeated for credit. Offered on the credit/no credit basis only.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 398T",
+"subject": "PHY",
+"number": "398T",
+"title": "Supervised Teaching in Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "A review of physics teaching strategies, administrative procedures, and classroom responsibilities. Includes a review and critique of each participant's classroom teaching. Three lecture hours a week for one semester. Prerequisite: Graduate standing and appointment as a teaching assistant.",
+"prereqText": "Graduate standing and appointment as a teaching assistant.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 399W",
+"subject": "PHY",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 699W",
+"subject": "PHY",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 999W",
+"subject": "PHY",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 394E",
+"subject": "PHY",
+"number": "394E",
+"title": "Introduction to Quantum Physics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed for beginning graduate students in electrical engineering. Introduction to the basic concepts of quantum mechanics with emphasis on the application of quantum phenomena to the many-body systems. Origin of quantum mechanics, solution of particle or box and harmonic oscillator, angular momentum and spin, bosons and fermions, distribution functions, crystals, Block's theorem, band theory, superfluids and superconductors. Three lecture hours a week for one semester. Normally meets with Physics 364E. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+}
+]
+}

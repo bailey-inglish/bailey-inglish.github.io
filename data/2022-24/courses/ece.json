@@ -1,0 +1,2752 @@
+{
+"code": "ECE",
+"name": "Electrical and Computer Engineering",
+"courses": [
+{
+"id": "ECE 302",
+"subject": "ECE",
+"number": "302",
+"title": "Introduction to Electrical Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Examine the scope and nature of professional activities of electrical engineers, including problem-solving techniques; analysis and design methods; engineering professional ethics; analysis of analog resistive circuits, including Thevenin/Norton equivalents, mesh analysis, and nodal analysis; and operational amplifiers (DC response). Three lecture hours and two laboratory hours a week for one semester Only one of the following may be counted: Electrical and Computer Engineering 302, 302H, Electrical Engineering 302, 302H. Prerequisite: Credit with a grade of at least C- or registration for Mathematics 408C or 408K.",
+"tccn": "ENGR 2305",
+"prereqText": "Credit with a grade of at least C- or registration for Mathematics 408C or 408K.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 408C"
+},
+{
+"type": "course",
+"id": "M 408K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 302H",
+"subject": "ECE",
+"number": "302H",
+"title": "Introduction to Electrical Engineering: Honors",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the electrical and computer engineering honors program. Examine the scope and nature of professional activities of electrical engineers, including problem-solving techniques; analysis and design methods; engineering professional ethics; analysis of linear and non-linear analog circuits, including Thevenin/Norton equivalents, two-port networks, frequency domain analysis, mesh analysis, and nodal analysis; and operational amplifiers (DC response). Three lecture hours and two laboratory hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 302, 302H, Electrical Engineering 302, 302H. Prerequisite: Credit with a grade of at least C- or registration for Mathematics 408D.",
+"prereqText": "Credit with a grade of at least C- or registration for Mathematics 408D.",
+"prereq": {
+"type": "course",
+"id": "M 408D"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the electrical and computer engineering honors program."
+},
+{
+"id": "ECE 306",
+"subject": "ECE",
+"number": "306",
+"title": "Introduction to Computing",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to computing including bits and operations on bits, number formats, arithmetic and logic operations, and digital logic. Explore the Von Neumann model of processing including memory, arithmetic logic unit, registers, and instruction decoding and execution. Examine structured programming and debugging, machine and assembly language programming, the structure of an assembler, physical input/output through device registers, subroutine call/return; trap instruction, stacks and applications of stacks. Three lecture hours and one recitation hour a week for one semester. Only one of the following may be counted: Biomedical Engineering 306, Electrical and Computer Engineering 306, 306H, Electrical Engineering 306, 306H. Prerequisite: Credit with a grade of at least a C- or registration for Mathematics 408C or 408K.",
+"prereqText": "Credit with a grade of at least a C- or registration for Mathematics 408C or 408K.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 408C"
+},
+{
+"type": "course",
+"id": "M 408K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 306H",
+"subject": "ECE",
+"number": "306H",
+"title": "Introduction to Computing: Honors",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to computing including bits and operations on bits, number formats, arithmetic and logic operations, and digital logic. Explore the Von Neumann model of processing including memory, arithmetic logic unit, registers, and instruction decoding and execution. Examine structured programming and debugging, machine and assembly language programming, the structure of an assembler, physical input/output through device registers, subroutine call/return; trap instruction, stacks and applications of stacks. Three lecture hours and one recitation hour a week for one semester. Only one of the following may be counted: Biomedical Engineering 306, Electrical and Computer Engineering 306, 306H, Electrical Engineering 306, 306H. Prerequisite: Credit with a grade of at least a C- or registration for Mathematics 408C or 408K.",
+"prereqText": "Credit with a grade of at least a C- or registration for Mathematics 408C or 408K.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 408C"
+},
+{
+"type": "course",
+"id": "M 408K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 307E",
+"subject": "ECE",
+"number": "307E",
+"title": "Elements of Electrical and Computer Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to electrical engineering: direct current circuit analysis, resistors, LEDs, switches, current and voltage measurements. Introduction to computer engineering: number systems, digital logic, storage, finite state machines, programming basics, microcontrollers. Three lecture hours and one laboratory hour a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 307E, Electrical Engineering 307E, 307S (Topic: Elements of Elec/Comp Engr). Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 107H",
+"subject": "ECE",
+"number": "107H",
+"title": "Engineering Leadership: Honors",
+"hours": 1.0,
+"division": "lower",
+"description": "Explore different research areas in electrical and computer engineering and participate in community service projects within the discipline. One lecture hour a week for one semester. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ECE 108S",
+"subject": "ECE",
+"number": "108S",
+"title": "Topics in Technical Skills",
+"hours": 1.0,
+"division": "lower",
+"description": "Explore the development of a specific technical skill. The equivalent of one lecture and one laboratory hour a week for one semester. May be repeated for credit when the topics vary. Offered on the pass/fail basis only. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "ECE 109K",
+"subject": "ECE",
+"number": "109K",
+"title": "Topics in Electrical Engineering",
+"hours": 1.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 209K",
+"subject": "ECE",
+"number": "209K",
+"title": "Topics in Electrical Engineering",
+"hours": 2.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 309K",
+"subject": "ECE",
+"number": "309K",
+"title": "Topics in Electrical Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 409K",
+"subject": "ECE",
+"number": "409K",
+"title": "Topics in Electrical Engineering",
+"hours": 4.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 209P",
+"subject": "ECE",
+"number": "209P",
+"title": "Introduction to Professional Engineering",
+"hours": 2.0,
+"division": "lower",
+"description": "Explore professional skills including academic success, career development, and engineering ethics. Two lecture hours a week for one semester. Prerequisite: Electrical and Computer Engineering 302 (or Electrical Engineering 302) or 302H (or Electrical Engineering 302H) with grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 302 (or Electrical Engineering 302) or 302H (or Electrical Engineering 302H) with grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 302"
+},
+{
+"type": "course",
+"id": "ECE 302"
+},
+{
+"type": "course",
+"id": "ECE 302H"
+},
+{
+"type": "course",
+"id": "ECE 302H",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 309S",
+"subject": "ECE",
+"number": "309S",
+"title": "Development of a Solar-Powered Vehicle",
+"hours": 3.0,
+"division": "lower",
+"description": "Analyze, design, and construct a solar-powered car for national competitions involving other universities. Study electrical, mechanical, and aerodynamic systems. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 309S and Electrical Engineering 309S may not both be counted."
+},
+{
+"id": "ECE 411",
+"subject": "ECE",
+"number": "411",
+"title": "Circuit Theory",
+"hours": 4.0,
+"division": "lower",
+"description": "Examine capacitance and inductance; first- and second-order transient circuit response, including operational amplifier circuits; sinusoidal steady state analysis; Bode plots; complex power in single and balanced three-phase systems; transformers; two-port networks (Z-parameters and Y-parameters); and computer-aided analysis and design. Three lecture hours and two recitation hours a week for one semester. Only one of the following may be counted: Biomedical Engineering 311, Electrical and Computer Engineering 411, 411H, Electrical Engineering 411. Prerequisite: One of the following with a grade of at least C- Electrical and Computer Engineering 302 (or Electrical Engineering 302) or 302H (or Electrical Engineering 302H); credit with a grade of at least C- or registration for Mathematics 427J or 427K, and Physics 303L and 105N.",
+"prereqText": "One of the following with a grade of at least C- Electrical and Computer Engineering 302 (or Electrical Engineering 302) or 302H (or Electrical Engineering 302H); credit with a grade of at least C- or registration for Mathematics 427J or 427K, and Physics 303L and 105N.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 411H",
+"subject": "ECE",
+"number": "411H",
+"title": "Circuit Theory: Honors",
+"hours": 4.0,
+"division": "lower",
+"description": "Examine capacitance and inductance; first- and second-order transient circuit response, including operational amplifier circuits; sinusoidal steady state analysis; Bode plots; complex power in single and balanced three-phase systems; transformers; two-port networks (Z-parameters and Y-parameters); and computer-aided analysis and design. Three lecture hours and two recitation hours a week for one semester. Only one of the following may be counted: Biomedical Engineering 311, Electrical and Computer Engineering 411, 411H, Electrical Engineering 411. Offered on the letter-grade basis only. Prerequisite: Electrical and Computer Engineering 302 (or Electrical Engineering 302) or 302H (or Electrical Engineering 302H) with a grade of at least B; credit with a grade of at least C- or registration for Mathematics 427J or 427K, and Physics 303L and 103N",
+"prereqText": "Electrical and Computer Engineering 302 (or Electrical Engineering 302) or 302H (or Electrical Engineering 302H) with a grade of at least B; credit with a grade of at least C- or registration for Mathematics 427J or 427K, and Physics 303L and 103N.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ECE 111S",
+"subject": "ECE",
+"number": "111S",
+"title": "Tools to Enhance Academic Success",
+"hours": 1.0,
+"division": "lower",
+"description": "Explore the components necessary to enhance academic success in engineering coursework including academic self-regulation, time management, self-discipline, goal-setting, weekly and semester planning, growth mindset, self-motivation, management of anxiety and stress, learning and memory, learning strategies, retrieval practices, and exam preparation. One lecture hour a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 111S, Electrical Engineering 109K (Topic: Enhancing Academic Success), 111S."
+},
+{
+"id": "ECE 312",
+"subject": "ECE",
+"number": "312",
+"title": "Software Design and Implementation I",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore basic problem solving, design and implementation techniques for imperative programming; structured programming in the C/C++ language; programming idioms. Examine software design principles, including modularity, coupling and cohesion; software engineering tools; elementary data structures; and asymptotic analysis. Three lecture hours and one recitation hour a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 312, 312H, Electrical Engineering 312, 312H. Prerequisite: The following coursework with a grade of at least C-: Biomedical Engineering 306 or Electrical and Computer Engineering 306 (or Electrical Engineering 306) or 306H (or Electrical Engineering 306H), and 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H).",
+"prereqText": "The following coursework with a grade of at least C-: Biomedical Engineering 306 or Electrical and Computer Engineering 306 (or Electrical Engineering 306) or 306H (or Electrical Engineering 306H), and 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 312H",
+"subject": "ECE",
+"number": "312H",
+"title": "Software Design and Implementation I: Honors",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore basic problem solving, design and implementation techniques for imperative programming; structured programming in the C/C++ language; programming idioms. Examine software design principles, including modularity, coupling and cohesion; software engineering tools; elementary data structures; and asymptotic analysis. Three lecture hours and one recitation hour a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 312, 312H, Electrical Engineering 312, 312H. Prerequisite: The following coursework with a grade of at least B in each: Biomedical Engineering 306 or Electrical and Computer Engineering 306 (or Electrical Engineering 306) or 306H (or Electrical Engineering 306H); Electrical and Computer Engineering 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H) or registration for Electrical and Computer Engineering 319H (or credit for Electrical Engineering 319H).",
+"prereqText": "The following coursework with a grade of at least B in each: Biomedical Engineering 306 or Electrical and Computer Engineering 306 (or Electrical Engineering 306) or 306H (or Electrical Engineering 306H); Electrical and Computer Engineering 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H) or registration for Electrical and Computer Engineering 319H (or credit for Electrical Engineering 319H).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 313",
+"subject": "ECE",
+"number": "313",
+"title": "Linear Systems and Signals",
+"hours": 3.0,
+"division": "lower",
+"description": "Examine representation of signals and systems; system properties; sampling; Laplace and z-transforms; transfer functions and frequency response; convolution; stability; Fourier transform; feedback; and control applications. Explore computer analysis using MATLAB or Python. Three lecture hours a week for one semester. Only one of the following may be counted: Biomedical Engineering 343, Electrical and Computer Engineering 313, 313H, Electrical Engineering 313. Prerequisite: Biomedical Engineering 311, Electrical and Computer Engineering 411 (or Electrical Engineering 411), Electrical and Computer Engineering 411H (or Electrical Engineering 411H), or 331 (or Electrical Engineering 331) with a grade of at least C-; Mathematics 427J or 427K with a grade of at least C-; and credit with a grade of at least C- or registration for Mathematics 340L.",
+"prereqText": "Biomedical Engineering 311, Electrical and Computer Engineering 411 (or Electrical Engineering 411), Electrical and Computer Engineering 411H (or Electrical Engineering 411H), or 331 (or Electrical Engineering 331) with a grade of at least C-; Mathematics 427J or 427K with a grade of at least C-; and credit with a grade of at least C- or registration for Mathematics 340L.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 313H",
+"subject": "ECE",
+"number": "313H",
+"title": "Linear Systems and Signals: Honors",
+"hours": 3.0,
+"division": "lower",
+"description": "Examine representation of signals and systems; system properties; sampling; Laplace and z-transforms; transfer functions and frequency response; convolution; stability; Fourier transform; feedback; and control applications. Explore computer analysis using MATLAB or Python. Three lecture hours a week for one semester. Only one of the following may be counted: Biomedical Engineering 343, Electrical and Computer Engineering 313, 313H, Electrical Engineering 313. Offered on the letter-grade basis only. Prerequisite: Biomedical Engineering 311, Electrical and Computer Engineering 411 (or Electrical Engineering 411), 411H, or 331 (or Electrical Engineering 331) with a grade of at least B; Mathematics 427J or 427K with a grade of at least C-; and credit with a grade of at least C- or registration for Mathematics 340L.",
+"prereqText": "Biomedical Engineering 311, Electrical and Computer Engineering 411 (or Electrical Engineering 411), 411H, or 331 (or Electrical Engineering 331) with a grade of at least B; Mathematics 427J or 427K with a grade of at least C-; and credit with a grade of at least C- or registration for Mathematics 340L.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ECE 316",
+"subject": "ECE",
+"number": "316",
+"title": "Digital Logic Design",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore boolean algebra; analysis and design of combinational and sequential logic circuits; state machine design and state tables and graphs; simulation of combinational and sequential circuits; applications to computer design; and hardware description languages (HDLs) and field-programmable gate arrays (FPGAs). Three lecture hours and one recitation hour a week for one semester. Electrical and Computer Engineering 316 and Electrical Engineering 316 may not both be counted. Prerequisite: Biomedical Engineering 306, Computer Science 429, Electrical and Computer Engineering 306 (or Electrical Engineering 306) or 306H (or Electrical Engineering 306H) with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 306, Computer Science 429, Electrical and Computer Engineering 306 (or Electrical Engineering 306) or 306H (or Electrical Engineering 306H) with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 319H",
+"subject": "ECE",
+"number": "319H",
+"title": "Introduction to Embedded Systems: Honors",
+"hours": 3.0,
+"division": "lower",
+"description": "Examine embedded systems; machine language execution; assembly and C language programming; local variables and subroutines; input/output synchronization; analog to digital conversion and digital to analog conversion; debugging; and interrupts. Three lecture hours and one laboratory hour a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 319K, 319H, Electrical Engineering 319K, 319H. Prerequisite: Biomedical Engineering 306, Electrical and Computer Engineering 306 (or Electrical Engineering 306), 306H (or Electrical Engineering 306H), or Mechanical Engineering 340 and 140L with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 306, Electrical and Computer Engineering 306 (or Electrical Engineering 306), 306H (or Electrical Engineering 306H), or Mechanical Engineering 340 and 140L with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 319K",
+"subject": "ECE",
+"number": "319K",
+"title": "Introduction to Embedded Systems",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore embedded systems; machine language execution; assembly and C language programming; local variables and subroutines; input/output synchronization; analog to digital conversion and digital to analog conversion; debugging; and interrupts. Three lecture hours and one laboratory hour a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 319K, 319H, Electrical Engineering 319K, 319H. Prerequisite: Biomedical Engineering 306, Electrical and Computer Engineering 306 (or Electrical Engineering 306), 306H (or Electrical Engineering 306H), or Mechanical Engineering 340 and 140L with a grade of at least C-.",
+"prereqText": "Biomedical Engineering 306, Electrical and Computer Engineering 306 (or Electrical Engineering 306), 306H (or Electrical Engineering 306H), or Mechanical Engineering 340 and 140L with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 119S",
+"subject": "ECE",
+"number": "119S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 1.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 219S",
+"subject": "ECE",
+"number": "219S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 2.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 319S",
+"subject": "ECE",
+"number": "319S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 419S",
+"subject": "ECE",
+"number": "419S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 4.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 519S",
+"subject": "ECE",
+"number": "519S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 5.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 619S",
+"subject": "ECE",
+"number": "619S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 6.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 719S",
+"subject": "ECE",
+"number": "719S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 7.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 819S",
+"subject": "ECE",
+"number": "819S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 8.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 919S",
+"subject": "ECE",
+"number": "919S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 9.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 321K",
+"subject": "ECE",
+"number": "321K",
+"title": "Mixed Signal and Circuits Laboratory",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore digital and analog parametric testing of mixed-signal circuits and systems, including frequency response, harmonic and intermodulation, and noise behavior; use of system-level test equipment, including network analyzers, spectrum analyzers, and probe stations; coherent versus noncoherent measurements; and design for testability. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 321K and Electrical Engineering 321K may not both be counted. Prerequisite: Electrical and Computer Engineering 438 (or Electrical Engineering 438) with a grade of at least C-; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or credit with a grade of at least C- for Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqText": "Electrical and Computer Engineering 438 (or Electrical Engineering 438) with a grade of at least C-; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or credit with a grade of at least C- for Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 422C",
+"subject": "ECE",
+"number": "422C",
+"title": "Software Design and Implementation II",
+"hours": 4.0,
+"division": "upper",
+"description": "Explore methods for engineering software with a focus on abstraction; specification, design, implementation, and testing of object-oriented code using a modern development tool-set for complex systems; design and implementation of object-oriented programs in Java; abstract data types; inheritance; polymorphism; parameterized types and generic programming; the operation and application of commonly used data structures; exception handling and fault tolerance; algorithm analysis; and teamwork models. Three lecture hours and one and one-half laboratory hours a week for one semester. Electrical and Computer Engineering 422C and Electrical Engineering 422C may not both be counted. Prerequisite: Computer Science 312 or Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H) with a grade of at least C-.",
+"prereqText": "Computer Science 312 or Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "C S 312"
+},
+{
+"type": "course",
+"id": "ECE 312"
+},
+{
+"type": "course",
+"id": "ECE 312"
+},
+{
+"type": "course",
+"id": "ECE 312H"
+},
+{
+"type": "course",
+"id": "ECE 312H",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 325",
+"subject": "ECE",
+"number": "325",
+"title": "Electromagnetic Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine electrostatics and magnetostatics; properties of conductive, dielectric, and magnetic materials; solutions of Maxwell's equations; uniform plane wave applications; and frequency- and time-domain analyses of transmission lines. Three lecture hours a week for one semester. Electrical and Computer Engineering 325 and Electrical Engineering 325 may not both be counted. Prerequisite: Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H, Mathematics 427J or 427K, Physics 303L, and Physics 105N or 103N with a grade of at least C- in each; and credit with a grade of at least C- or registration for Mathematics 427L.",
+"prereqText": "Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H, Mathematics 427J or 427K, Physics 303L, and Physics 105N or 103N with a grade of at least C- in each; and credit with a grade of at least C- or registration for Mathematics 427L.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 325K",
+"subject": "ECE",
+"number": "325K",
+"title": "Antennas and Wireless Propagation",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore solutions of time-varying Maxwell's equations with applications to antennas and wireless propagation; antenna theory and design, array synthesis; electromagnetic wave propagation, scattering, and diffraction; and numerical methods for solving Maxwell's equations. Three lecture hours a week for one semester. Electrical and Computer Engineering 325K and Electrical Engineering 325K may not both be counted. Prerequisite: Electrical and Computer Engineering 325 (or Electrical Engineering 325) with a grade of at least C-",
+"prereqText": "Electrical and Computer Engineering 325 (or Electrical Engineering 325) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 325"
+},
+{
+"type": "course",
+"id": "ECE 325",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 125S",
+"subject": "ECE",
+"number": "125S",
+"title": "Internship in Electrical and Computer Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "Practical work experience in industry or a research lab under the supervision of an engineer or scientist. Requires a substantial final report. At least ten hours of work a week, for a total of 150 hours a semester. May be repeated for credit. Offered on the pass/fail basis only.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "ECE 129S",
+"subject": "ECE",
+"number": "129S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 229S",
+"subject": "ECE",
+"number": "229S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 329S",
+"subject": "ECE",
+"number": "329S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 429S",
+"subject": "ECE",
+"number": "429S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 529S",
+"subject": "ECE",
+"number": "529S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 629S",
+"subject": "ECE",
+"number": "629S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 729S",
+"subject": "ECE",
+"number": "729S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 829S",
+"subject": "ECE",
+"number": "829S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 929S",
+"subject": "ECE",
+"number": "929S",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 331",
+"subject": "ECE",
+"number": "331",
+"title": "Electrical Circuits, Electronics, and Machinery",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to non-electrical engineering majors. Explore brief theory of direct and alternating current circuits; single-phase and three-phase power transmission; electronic devices and instrumentation; and electromechanics. Three lecture hours a week for one semester. Electrical and Computer Engineering 331 and Electrical Engineering 331 may not both be counted. Prerequisite: Mathematics 408D or 408M with a grade of at least C-, and Physics 303L and 103N with a grade of at least C- in each.",
+"prereqText": "Mathematics 408D or 408M with a grade of at least C-, and Physics 303L and 103N with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to non-electrical engineering majors."
+},
+{
+"id": "ECE 333T",
+"subject": "ECE",
+"number": "333T",
+"title": "Engineering Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to electrical engineering majors. Explore advanced engineering communication skills, with emphasis on technical documents, oral reports, and graphics. Participate in collaborative work involving online communication and research. Three lecture hours a week for one semester. Only one of the following may be counted: Aerospace Engineering 333T, Biomedical Engineering 333T, Communication 333T, Civil Engineering 333T, Chemical Engineering 333T, Electrical and Computer Engineering 333T, Electrical Engineering 333T, Engineering Studies 333T, Mechanical Engineering 333T, Petroleum and Geosystems Engineering 333T. Prerequisite: Rhetoric and Writing 306, and Electrical and Computer Engineering 319K or 319H with a grade of at least C-.",
+"prereqText": "Rhetoric and Writing 306, and Electrical and Computer Engineering 319K or 319H with a grade of at least C-.",
+"prereqConfidence": "low",
+"restricted": "Restricted to electrical engineering majors."
+},
+{
+"id": "ECE 334K",
+"subject": "ECE",
+"number": "334K",
+"title": "Quantum Theory of Electronic Materials",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to quantum mechanics; atoms and molecules; electron statistics; quantum theory of solids; electronic phenomena in semiconductors; and device applications based on these phenomena. Three lecture hours a week for one semester. Electrical and Computer Engineering 334K and Electrical Engineering 334K may not both be counted. Prerequisite: Mathematics 427J or 427K, Physics 303L, and Physics 105N OR 103N with a grade of at least C- in each.",
+"prereqText": "Mathematics 427J or 427K, Physics 303L, and Physics 105N OR 103N with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 438",
+"subject": "ECE",
+"number": "438",
+"title": "Fundamentals of Electronic Circuits I Laboratory",
+"hours": 4.0,
+"division": "upper",
+"description": "Explore the analysis and design of electronic circuits using semiconductor devices. Examine basic device physics and small-signal modeling for diodes, bipolar junction transistors, and metal-oxide-semiconductor transistors; operation region and biasing; basic switching circuits; single-stage and multi-stage amplifier design and analysis; input and output impedance characteristics of amplifiers; frequency response; AC and DC coupling techniques; and differential amplifiers and output stages. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 438 and Electrical Engineering 438 may not both be counted. Prerequisite: Biomedical Engineering 311, Electrical and Computer Engineering 411 (or Electrical Engineering 411), or 411H with a grade of at least C-; and credit with a grade of at least C- or registration for one of the following: Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqText": "Biomedical Engineering 311, Electrical and Computer Engineering 411 (or Electrical Engineering 411), or 411H with a grade of at least C-; and credit with a grade of at least C- or registration for one of the following: Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 438K",
+"subject": "ECE",
+"number": "438K",
+"title": "Analog Electronics",
+"hours": 4.0,
+"division": "upper",
+"description": "Explore the analysis and design of analog electronic circuits; transistor models; single-ended amplifiers; differential amplifiers; operational amplifiers; frequency response; feedback theory; stability analysis; circuit nonidealities; op-amp-based circuits; output stages; power amplifiers; passive and active analog filters; and relaxation oscillators Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 438K and Electrical Engineering 438K may not both be counted. Prerequisite: Electrical and Computer Engineering 438 (or Electrical Engineering 438) with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 438 (or Electrical Engineering 438) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 438"
+},
+{
+"type": "course",
+"id": "ECE 438",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 338L",
+"subject": "ECE",
+"number": "338L",
+"title": "Analog Integrated Circuit Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the analysis and design of analog integrated circuits; transistor models; simple and advanced current mirrors; single-ended amplifiers; differential amplifiers; operational amplifiers; frequency response; feedback theory; stability analysis; circuit nonidealities and noise; output stages; and analog filters. Examine computer-aided design (CAD) tools for circuit analysis and design. Three lecture hours a week for one semester. Electrical and Computer Engineering 338L and Electrical Engineering 338L may not both be counted. Prerequisite: Electrical and Computer Engineering 438 (or Electrical Engineering 438) with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 438 (or Electrical Engineering 438) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 438"
+},
+{
+"type": "course",
+"id": "ECE 438",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 339",
+"subject": "ECE",
+"number": "339",
+"title": "Solid-State Electronic Devices",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine semiconductor materials; atomic orbitals to energy band structure of semiconductors; charge carrier transport, electron-hole generation and recombination; p-n junctions and Schottky barriers; bipolar and field-effect transistors; and optoelectronic devices. Three lecture hours a week for one semester. Electrical and Computer Engineering 339 and Electrical Engineering 339 may not both be counted. Prerequisite: Mathematics 427J or 427K, Physics 303L, and Physics 105N OR 103N with a grade of at least C- in each.",
+"prereqText": "Mathematics 427J or 427K, Physics 303L, and Physics 105N OR 103N with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 339S",
+"subject": "ECE",
+"number": "339S",
+"title": "Solar Energy Conversion Devices",
+"hours": 3.0,
+"division": "upper",
+"description": "Investigate basic principles of photovoltaic devices which convert light into charge carriers (electrons and holes). Examine electrons and holes in semiconductors, generation and recombination, junctions, analysis of the p-n junction, silicon and III-V semiconductor solar cell design and optimization, thin film solar cell technologies, managing light, strategies for higher efficiency, and a brief overview of non-photovoltaic approaches to solar energy conversion. Three lecture hours a week for one semester. Electrical and Computer Engineering 339S and Electrical Engineering 339S may not both be counted. Prerequisite: Mathematics 427J or 427K, Physics 303L, and Physics 105N or 103N with a grade of at least C- in each.",
+"prereqText": "Mathematics 427J or 427K, Physics 303L, and Physics 105N or 103N with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 440",
+"subject": "ECE",
+"number": "440",
+"title": "Integrated Circuit Nanomanufacturing Techniques",
+"hours": 4.0,
+"division": "upper",
+"description": "Examine integrated circuit processing; crystal growth and wafer preparation; epitaxial growth; oxidation, diffusion, and ion implantation; thin-film deposition techniques; and lithography and etching. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 440 and Electrical Engineering 440 may not both be counted. Prerequisite: Credit with a grade of at least a C- for Mathematics 427J or 427K; credit with a grade of at least a C- for Physics 303L; credit with a grade of at least a C- for Physics 103N; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqText": "Credit with a grade of at least a C- for Mathematics 427J or 427K; credit with a grade of at least a C- for Physics 303L; credit with a grade of at least a C- for Physics 103N; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 340P",
+"subject": "ECE",
+"number": "340P",
+"title": "High-Throughput Nanopatterning",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore sub-50nm fabrication using mechanical patterning techniques; overview of photolithography, mechanical nanopatterning processes, hot embossing, and UV imprint lithography; wafer-scale and roll-to-roll nanopatterning with applications in electronics, photonics, and nanomedicine; physics of nanoreplication, process limits, template (mold) fabrication, defect mechanisms, and factors affecting throughput. Three lecture hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 340P, Electrical Engineering 340P, 379K (Topic: High Throughput Nanopatterning), Mechanical Engineering 379M (Topic: High Throughput Nanopatterning). Prerequisite: Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H, and 339 (or Electrical Engineering 339), and Mathematics 427K or 427J, with a grade of at least C- in each.",
+"prereqText": "Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H, and 339 (or Electrical Engineering 339), and Mathematics 427K or 427J, with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 341",
+"subject": "ECE",
+"number": "341",
+"title": "Electric Drives and Machines",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore fundamentals of electric machines. Examine electromechanical energy conversion; magnetic circuits, transformers, and energy conversion devices; and power electronics. Discuss motor drive fundamentals and applications. Three lecture hours a week for one semester. Electrical and Computer Engineering 341 and Electrical Engineering 341 may not both be counted. Prerequisite: Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 411"
+},
+{
+"type": "course",
+"id": "ECE 411"
+},
+{
+"type": "course",
+"id": "ECE 411H",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 445L",
+"subject": "ECE",
+"number": "445L",
+"title": "Embedded Systems Design Laboratory",
+"hours": 4.0,
+"division": "upper",
+"description": "Explore the design of microcontroller-based embedded systems; interfacing from both a hardware and software perspective; and applications, including audio, data acquisition, and communication systems. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 445L and Electrical Engineering 445L may not both be counted. Prerequisite: Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H) and 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H) with a grade of at least C- in each; Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H and 313 (or Electrical Engineering 313) or 313H, or Biomedical Engineering 311 and 343, or Mechanical Engineering 348E with a grade of at least C- in each; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqText": "Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H) and 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H) with a grade of at least C- in each; Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H and 313 (or Electrical Engineering 313) or 313H, or Biomedical Engineering 311 and 343, or Mechanical Engineering 348E with a grade of at least C- in each; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 445M",
+"subject": "ECE",
+"number": "445M",
+"title": "Embedded and Real-Time Systems Laboratory",
+"hours": 4.0,
+"division": "upper",
+"description": "Explore real-time operating systems; implementation of context switching, threads, multitasking, real-time scheduling, synchronization, communication, storage, file systems, memory management, process linking and loading, hardware interfacing, and networking; debugging and testing; operating system performance, including latency, jitter, deadlines, deadlocks, and starvation; real-time systems, including data acquisition, sensing, actuating, digital control, signal processing, and robotics. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 445M and Electrical Engineering 445M may not both be counted. Prerequisite: One of the following with a grade of at least C- Electrical and Computer Engineering 306 (or Electrical Engineering 306) or 306H (or Electrical Engineering 306H); one of the following with a grade of at least C- Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H); and one of the following with a grade of at least C- Electrical and Computer Engineering 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H).",
+"prereqText": "One of the following with a grade of at least C- Electrical and Computer Engineering 306 (or Electrical Engineering 306) or 306H (or Electrical Engineering 306H); one of the following with a grade of at least C- Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H); and one of the following with a grade of at least C- Electrical and Computer Engineering 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 445S",
+"subject": "ECE",
+"number": "445S",
+"title": "Real-Time Digital Signal Processing Laboratory",
+"hours": 4.0,
+"division": "upper",
+"description": "Explore digital signal processing algorithms; simulation and real-time implementation of audio and communication systems; filters; pulse shaping and matched filters; modulation and demodulation; adaptive filters; carrier recovery; symbol synchronization; equalization; quantization; and data conversion. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 445S and Electrical Engineering 445S may not both be counted. Prerequisite: Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H) and 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H) with a grade of at least C- in each; Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H with a grade of at least C-; credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T; and credit with a grade of at least C- or registration for Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), or 351H.",
+"prereqText": "Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H) and 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H) with a grade of at least C- in each; Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H with a grade of at least C-; credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T; and credit with a grade of at least C- or registration for Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), or 351H.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 347",
+"subject": "ECE",
+"number": "347",
+"title": "Modern Optics",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore modern optical wave phenomena with applications to imaging, holography, fiber optics, lasers, and optical information processing. Three lecture hours a week for one semester. Electrical and Computer Engineering 347 and Electrical Engineering 347 may not both be counted. Prerequisite: Electrical and Computer Engineering 313 (or Electrical Engineering 313) or 313H, and 325 (or Electrical Engineering 325) with a grade of at least C- in each; or Biomedical Engineering 343 with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 313 (or Electrical Engineering 313) or 313H, and 325 (or Electrical Engineering 325) with a grade of at least C- in each; or Biomedical Engineering 343 with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 348",
+"subject": "ECE",
+"number": "348",
+"title": "Laser and Optical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore principles of operation and applications of lasers, optical modulators, and optical detectors. Three lecture hours a week for one semester. Electrical and Computer Engineering 348 and Electrical Engineering 348 may not both be counted. Prerequisite: Electrical and Computer Engineering 325 (or Electrical Engineering 325) with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 325 (or Electrical Engineering 325) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 325"
+},
+{
+"type": "course",
+"id": "ECE 325",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 351H",
+"subject": "ECE",
+"number": "351H",
+"title": "Probability and Random Processes: Honors",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine probability, random variables, statistics, and random processes, including counting, independence, conditioning, expectation, density functions, distributions, law of large numbers, central limit theorem, confidence intervals, hypothesis testing, statistical estimation, stationary processes, Markov chains, and ergodicity. Three lecture hours and one laboratory hour a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 351H, 351K, Electrical Engineering 351K. Offered on the letter-grade basis only. Prerequisite: Biomedical Engineering 306, Electrical and Computer Engineering 306 (or Electrical Engineering 306), 306H (or Electrical Engineering 306H), or Mechanical Engineering 340 and 140L with a grade of at least B.",
+"prereqText": "Biomedical Engineering 306, Electrical and Computer Engineering 306 (or Electrical Engineering 306), 306H (or Electrical Engineering 306H), or Mechanical Engineering 340 and 140L with a grade of at least B.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ECE 351K",
+"subject": "ECE",
+"number": "351K",
+"title": "Probability and Random Processes",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine probability, random variables, statistics, and random processes, including counting, independence, conditioning, expectation, density functions, distributions, law of large numbers, central limit theorem, confidence intervals, hypothesis testing, statistical estimation, stationary processes, Markov chains, and ergodicity. Three lecture hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 351H, 351K, Electrical Engineering 351K. Prerequisite: Mathematics 427J or 427K with a grade of at least C-.",
+"prereqText": "Mathematics 427J or 427K with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 427J"
+},
+{
+"type": "course",
+"id": "M 427K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 351M",
+"subject": "ECE",
+"number": "351M",
+"title": "Digital Signal Processing",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore sampling, aliasing, truncation effects; discrete and fast Fourier transform methods; convolution and deconvolution; finite and infinite impulse response filter design methods; Wiener, Kalman, noncausal, linear phase, median, and prediction filters; and spectral estimation. Three lecture hours a week for one semester. Electrical and Computer Engineering 351M and Electrical Engineering 351M may not both be counted. Prerequisite: Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H with a grade of at least a C-, and credit with a grade of at least C- or registration for Biomedical Engineering 335, Electrical and Computer Engineering 351K (or credit with a grade of at least C- for Electrical Engineering 351K), or 351H.",
+"prereqText": "Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H with a grade of at least a C-, and credit with a grade of at least C- or registration for Biomedical Engineering 335, Electrical and Computer Engineering 351K (or credit with a grade of at least C- for Electrical Engineering 351K), or 351H.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 155",
+"subject": "ECE",
+"number": "155",
+"title": "Electrical and Computer Engineering Seminar",
+"hours": 1.0,
+"division": "upper",
+"description": "Hear presentations by speakers from industry, government, academia, and professional private practice. Explore environmental and other ethical concerns, safety awareness, quality management, technical career descriptions, and professionalism with a focus on engineering communication. One lecture hour a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 155, Electrical Engineering 155, Electrical and Computer Engineering 364D, Electrical Engineering 364D. Prerequisite: One of the following with a grade of at least C-: English 316L (or 316K), 316M (or 316K), 316N (or 316K), or 316P (or 316K).",
+"prereqText": "One of the following with a grade of at least C-: English 316L (or 316K), 316M (or 316K), 316N (or 316K), or 316P (or 316K).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 155L",
+"subject": "ECE",
+"number": "155L",
+"title": "Engineering Leadership Seminar",
+"hours": 1.0,
+"division": "upper",
+"description": "Hear presentations by speakers from industry, government, academia, and professional private practice. Explore environmental and other ethical concerns, safety awareness, quality management, technical career descriptions, and professionalism. One lecture hour a week for one semester. Electrical and Computer Engineering 155L and Electrical Engineering 155L may not both be counted. Prerequisite: Consent of the dean and one of the following with a grade of at least C-: English 316L (or 316K), 316M (or 316K), 316N (or 316K), or 316P (or 316K).",
+"prereqText": "Consent of the dean and one of the following with a grade of at least C-: English 316L (or 316K), 316M (or 316K), 316N (or 316K), or 316P (or 316K).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 155R",
+"subject": "ECE",
+"number": "155R",
+"title": "Undergraduate Research Seminar",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in the Department of Electrical and Computer Engineering. Explore areas of research in electrical and computer engineering. One lecture hour a week for a semester. Electrical and Computer Engineering 155R and Electrical Engineering 155R may not both be counted. Offered on the pass/fail basis only.",
+"restricted": "Restricted to students in the Department of Electrical and Computer Engineering.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "ECE 160",
+"subject": "ECE",
+"number": "160",
+"title": "Special Problems in Electrical and Computer Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to engineering majors. Investigate special problems as approved by the electrical and computer engineering department. For each semester hour of credit earned, the equivalent of three laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C- and consent of instructor.",
+"prereqText": "Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C- and consent of instructor.",
+"prereqConfidence": "low",
+"restricted": "Restricted to engineering majors."
+},
+{
+"id": "ECE 260",
+"subject": "ECE",
+"number": "260",
+"title": "Special Problems in Electrical and Computer Engineering",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to engineering majors. Investigate special problems as approved by the electrical and computer engineering department. For each semester hour of credit earned, the equivalent of three laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C- and consent of instructor.",
+"prereqText": "Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C- and consent of instructor.",
+"prereqConfidence": "low",
+"restricted": "Restricted to engineering majors."
+},
+{
+"id": "ECE 360",
+"subject": "ECE",
+"number": "360",
+"title": "Special Problems in Electrical and Computer Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to engineering majors. Investigate special problems as approved by the electrical and computer engineering department. For each semester hour of credit earned, the equivalent of three laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C- and consent of instructor.",
+"prereqText": "Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C- and consent of instructor.",
+"prereqConfidence": "low",
+"restricted": "Restricted to engineering majors."
+},
+{
+"id": "ECE 460",
+"subject": "ECE",
+"number": "460",
+"title": "Special Problems in Electrical and Computer Engineering",
+"hours": 4.0,
+"division": "upper",
+"description": "Restricted to engineering majors. Investigate special problems as approved by the electrical and computer engineering department. For each semester hour of credit earned, the equivalent of three laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C- and consent of instructor.",
+"prereqText": "Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C- and consent of instructor.",
+"prereqConfidence": "low",
+"restricted": "Restricted to engineering majors."
+},
+{
+"id": "ECE 360C",
+"subject": "ECE",
+"number": "360C",
+"title": "Algorithms",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore advanced problem-solving methods; algorithm design principles; complexity analysis; the study of the nature, impact, and handling of intractability; and the study of common algorithmic classes and their applications. Three lecture hours a week for one semester. Electrical and Computer Engineering 360C and Electrical Engineering 360C may not both be counted. Prerequisite: Computer Science 312, Electrical and Computer Engineering 312 (or Electrical Engineering 312), or 312H (or Electrical Engineering 312H) with a grade of at least C-; and Mathematics 325K, Computer Science 311, or 311H with a grade of at least C-.",
+"prereqText": "Computer Science 312, Electrical and Computer Engineering 312 (or Electrical Engineering 312), or 312H (or Electrical Engineering 312H) with a grade of at least C-; and Mathematics 325K, Computer Science 311, or 311H with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 360F",
+"subject": "ECE",
+"number": "360F",
+"title": "Introduction to Software Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the discipline of software engineering. Explore software system creation and evolution; fundamental concepts and principles of software product and software process systems, including requirements, architecture and design, construction, deployment, and maintenance; and documentation and document management, measurement and evaluation, software evolution, teamwork, and project management. Three lecture hours a week for one semester. Electrical and Computer Engineering 360F and Electrical Engineering 360F may not both be counted. Prerequisite: One of the following with a grade of at least C-: Computer Science 314, 314H, or Electrical and Computer Engineering 422C (or Electrical Engineering 422C) and consent of instructor.",
+"prereqText": "One of the following with a grade of at least C-: Computer Science 314, 314H, or Electrical and Computer Engineering 422C (or Electrical Engineering 422C) and consent of instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 460J",
+"subject": "ECE",
+"number": "460J",
+"title": "Data Science Laboratory",
+"hours": 4.0,
+"division": "upper",
+"description": "Explore predictive modeling, regression and classification, data cleaning and preprocessing, feature engineering, unsupervised methods, principal component analysis, data clustering, model selection and feature selection, entropy and information theory, neural networks, deep learning, and machine learning for signals and time-series data. Three lecture hours and three laboratory hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 460J, Electrical Engineering 460J, 379K (Topic: Data Science Laboratory), 379K (Topic 24). Prerequisite: The following with a grade of at least C- in each: Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H; and Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), 351H, or Mathematics 362K; and Mathematics 340L. Credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T",
+"prereqText": "The following with a grade of at least C- in each: Biomedical Engineering 343 or Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H; and Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), 351H, or Mathematics 362K; and Mathematics 340L. Credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 360K",
+"subject": "ECE",
+"number": "360K",
+"title": "Introduction to Digital Communications",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine characterization of baseband and passband communication signals and channels, digital modulation, and pulse shaping; optimum receivers in additive white Gaussian noise including matched-filtering, machine learning (ML), and mean average precision (mAP) detection and their bit error probability for M-ary modulation; inter-symbol interference channels, finite impulse response (FIR) and infinite impulse response (IIR) equalization, multicarrier modulation, orthogonal frequency-division multiplexing (OFDM) and frequency domain equalization. Introduction to information theory, channel capacity, error control codes, and ML sequence detection (Viterbi decoding). Explore applications to stationary wireless and wireline channels. Three lecture hours a week for one semester. Electrical and Computer Engineering 360K and Electrical Engineering 360K may not both be counted. Prerequisite: Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), or 351H with a grade of at least C-; Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H with a grade of at least C-; and Electrical and Computer Engineering 351M (or Electrical Engineering 351M) or 445S (or Electrical Engineering 445S) with a grade of at least a C-.",
+"prereqText": "Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), or 351H with a grade of at least C-; Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H with a grade of at least C-; and Electrical and Computer Engineering 351M (or Electrical Engineering 351M) or 445S (or Electrical Engineering 445S) with a grade of at least a C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 460M",
+"subject": "ECE",
+"number": "460M",
+"title": "Digital Systems Design Using Hardware Description Languages",
+"hours": 4.0,
+"division": "upper",
+"description": "Explore organization, design, simulation, synthesis, and testing of digital systems; hardware description languages (HDLs); field programmable gate arrays (FPGAs); hardware implementation of arithmetic and other algorithmic processes; state machine charts; microprogramming; and microprocessor design. Three lecture hours and three laboratory hours a week for one semester. Electrical Engineering 460M and Electrical Engineering 460M may not both be counted. Prerequisite: Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H), 316 (or Electrical Engineering 316), and 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H) with a grade of at least C- in each.",
+"prereqText": "Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H), 316 (or Electrical Engineering 316), and 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H) with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 460N",
+"subject": "ECE",
+"number": "460N",
+"title": "Computer Architecture",
+"hours": 4.0,
+"division": "upper",
+"description": "Examine characteristics of instruction set architecture and microarchitecture; physical and virtual memory; caches and cache design; interrupts and exceptions; integer and floating-point arithmetic; I/O processing; buses; pipelining, out-of-order execution, branch prediction, and other performance enhancements; design trade-offs; and case studies of commercial microprocessors. Explore behavioral-level design of a microarchitecture in a laboratory setting. Three lecture hours and one-and-one-half laboratory/recitation hours a week for one semester. Electrical and Computer Engineering 460N and Electrical Engineering 460N may not both be counted. Prerequisite: Computer Science 312 or 312H, and 429 or 429H with a grade of at least C- in each; or Electrical and Computer Engineering 306 (or Electrical Engineering 306) or 306H (or Electrical Engineering 306H), 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H), and 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H) with a grade of at least C- in each.",
+"prereqText": "Computer Science 312 or 312H, and 429 or 429H with a grade of at least C- in each; or Electrical and Computer Engineering 306 (or Electrical Engineering 306) or 306H (or Electrical Engineering 306H), 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H), and 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H) with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 360P",
+"subject": "ECE",
+"number": "360P",
+"title": "Concurrent and Distributed Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Investigate concurrency, lock-based and lock-free synchronization, resource allocation, multi-threaded programming, distributed systems programming, mutual exclusion, global snapshots, global property evaluation, message ordering, consensus, Byzantine agreement, and commit protocols. Three lecture hours a week for one semester. Electrical and Computer Engineering 360P and Electrical Engineering 360P may not both be counted. Prerequisite: Electrical and Computer Engineering 422C (or Electrical Engineering 422C) and 360C (or Electrical Engineering 360C) with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 422C (or Electrical Engineering 422C) and 360C (or Electrical Engineering 360C) with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 460R",
+"subject": "ECE",
+"number": "460R",
+"title": "Introduction to VLSI Design",
+"hours": 4.0,
+"division": "upper",
+"description": "Explore theory and practice of very-large-scale integration (VLSI) circuit design. Examine metal-oxide-semiconductor (MOS) transistors; static and dynamic complementary metal-oxide-semiconductor (CMOS) combinational and sequential circuits; design of adders, multipliers, and shifters; performance, power consumption and testing. Use computer-aided design (CAD) tools for layout, timing analysis, synthesis, physical design, and verification. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 460R and Electrical Engineering 460R may not both be counted. Prerequisite: Electrical and Computer Engineering 316 (or Electrical Engineering 316) and 438 (or Electrical Engineering 438) with a grade of at least C- in each.",
+"prereqText": "Electrical and Computer Engineering 316 (or Electrical Engineering 316) and 438 (or Electrical Engineering 438) with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 360S",
+"subject": "ECE",
+"number": "360S",
+"title": "Digital Integrated Circuit Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine circuit-level aspects of metal oxide silicon (MOS) and bipolar integrated circuit technologies. Explore logic gates and latches; propagation delays; and circuit simulation models. Three lecture hours a week for one semester. Electrical and Computer Engineering 360S and Electrical Engineering 360S may not both be counted."
+},
+{
+"id": "ECE 360T",
+"subject": "ECE",
+"number": "360T",
+"title": "Software Testing",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore basic concepts and techniques used in testing software and finding bugs. Examine process, unit, integration, and system testing; manual and automatic techniques for generation of test inputs and validation of test outputs; and coverage criteria. Focus on functional testing. Three lecture hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 360T, Electrical Engineering 360T, 379K (Topic: Software Testing). Prerequisite: One of the following with a grade of at least C-: Computer Science 314 or 314H, or Electrical and Computer Engineering 422C (or Electrical Engineering 422C).",
+"prereqText": "One of the following with a grade of at least C-: Computer Science 314 or 314H, or Electrical and Computer Engineering 422C (or Electrical Engineering 422C).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 361C",
+"subject": "ECE",
+"number": "361C",
+"title": "Multicore Computing",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore theoretical and practical aspects of designing multicore software systems; programming constructs for concurrent computation; openMP; sequential consistency; linearizability; lock-based synchronization; lock-free synchronization; wait-free synchronization; consensus number; software transactional memory; testing and debugging parallel programs; race detection; concurrent data structures such as stacks, queues, linked lists, hash tables, and skiplists; formal models; temporal logic; reachability analysis; and parallel graph algorithms. Three lecture hours a week for one semester. Electrical and Computer Engineering 361C and Electrical Engineering 361C may not both be counted. Prerequisite: Electrical and Computer Engineering 422C (or Electrical Engineering 422C) and Electrical and Computer Engineering 360C (or Electrical Engineering 360C) with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 422C (or Electrical Engineering 422C) and Electrical and Computer Engineering 360C (or Electrical Engineering 360C) with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 361D",
+"subject": "ECE",
+"number": "361D",
+"title": "System Design Metrics",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine engineering design, manufacturing, and lifetime support issues; implications of customer perceptions of quality on design; economics of design; and legal implications of design decisions. The equivalent of three lecture hours a week for one semester. Electrical and Computer Engineering 361D and Electrical Engineering 361D may not both be counted. Prerequisite: Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 364D"
+},
+{
+"type": "course",
+"id": "ECE 364D",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 361E",
+"subject": "ECE",
+"number": "361E",
+"title": "Machine Learning and Data Analytics for Edge Artificial Intelligence",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine edge computing; Internet-of-Things (IoT); cyber-physical systems; energy-aware machine learning (ML); deep learning; model compression; knowledge distillation; federated learning; ML security; system optimization; model-architecture co-design; object detection; and social sensing. Three lecture hours a week for one semester. Electrical and Computer Engineering 361E and Electrical Engineering 379K (Topic: ML/Data Analytc for EDGE AI) may not both be counted. Prerequisite: Electrical and Computer Engineering 460J (or Electrical Engineering 460J) or Computer Science 342 with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 460J (or Electrical Engineering 460J) or Computer Science 342 with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 460J"
+},
+{
+"type": "course",
+"id": "ECE 460J"
+},
+{
+"type": "course",
+"id": "C S 342",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 361G",
+"subject": "ECE",
+"number": "361G",
+"title": "Engineering Program Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore program analysis; compilers; interpreters; code instrumentation; control-flow analysis; data-flow analysis; static single assignment form; dependency analysis; incremental analysis; autotuning; and just-in-time compilation. The equivalent of three lecture hours for one semester. Electrical and Computer Engineering 361G and Electrical Engineering 379K (Topic: Engineering Dynmc Prgrm Anly) may not both be counted. Prerequisite: Electrical and Computer Engineering 422C (or Electrical Engineering 422C) and Electrical and Computer Engineering 360C (or Electrical Engineering 360C) with a grade of at least C- in each.",
+"prereqText": "Electrical and Computer Engineering 422C (or Electrical Engineering 422C) and Electrical and Computer Engineering 360C (or Electrical Engineering 360C) with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 461L",
+"subject": "ECE",
+"number": "461L",
+"title": "Software Engineering and Design Laboratory",
+"hours": 4.0,
+"division": "upper",
+"description": "Examine generation of concrete software engineering artifacts at all stages of the software life-cycle processes; stakeholder needs to system requirements mapping; object-oriented design and analysis; and test driven development. Study design principles and methods; design and modeling tools; collaborative development environment; design patterns and refactoring; integration and testing tools. Examine emerging concepts in cloud native devops, including microservices, containers, and application programming interfaces (APIs). Explore design and development of at-scale software system using modern software development techniques, including re-usable front-end and back-end components, and cloud deployment. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 461L and Electrical Engineering 461L may not both be counted. Prerequisite: Computer Science 314, 314H, or Electrical and Computer Engineering 422C (or Electrical Engineering 422C) with a grade of at least C-; Mathematics 325K with a grade of at least C-; and credit or registration with a grade of at least C- for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqText": "Computer Science 314, 314H, or Electrical and Computer Engineering 422C (or Electrical Engineering 422C) with a grade of at least C-; Mathematics 325K with a grade of at least C-; and credit or registration with a grade of at least C- for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 361M",
+"subject": "ECE",
+"number": "361M",
+"title": "Software Architectures",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the definitions, motivations, and utility of software system architectures from a technical and business perspective; derivation, specification, and analysis of architectural views in support of different phases in the system engineering lifecycle; methods to judge architectural quality; and communication of architectural views to a wide range of system stakeholders. Three lecture hours a week for one semester. Electrical and Computer Engineering 361M and Electrical Engineering 379K (Topic: Software Architectures) may not both be counted. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; and Electrical and Computer Engineering 422C (or Electrical Engineering 422C) or 360C (or Electrical Engineering 360C) with a grade of at least C-.",
+"prereqText": "Upper-division standing; and Electrical and Computer Engineering 422C (or Electrical Engineering 422C) or 360C (or Electrical Engineering 360C) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 422C"
+},
+{
+"type": "course",
+"id": "ECE 422C"
+},
+{
+"type": "course",
+"id": "ECE 360C"
+},
+{
+"type": "course",
+"id": "ECE 360C",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ECE 361N",
+"subject": "ECE",
+"number": "361N",
+"title": "Information Security and Privacy",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore information valuation; information classification; information confidentiality, integrity and availability; access control models; trusted identity, trust frameworks. Examine cryptology, designing information system security and privacy, threats and vulnerabilities. Introduction to network, software, and web security; risk assessments; data breach incident response; privacy laws and regulations. The equivalent of three lecture hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 361N, Electrical Engineering 361N, 379K (Topic: Information Security & Privacy). Prerequisite: Computer Science 312 or 312H, or Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H) with a grade of at least C-.",
+"prereqText": "Computer Science 312 or 312H, or Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H) with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 461P",
+"subject": "ECE",
+"number": "461P",
+"title": "Data Science Principles",
+"hours": 4.0,
+"division": "upper",
+"description": "Examine principles of unsupervised and supervised learning; exploratory data analysis; feature engineering; predictive modeling for regression and classification; clustering algorithms; neural networks and stochastic gradient descent methods; scalable models for Big Data sets; case studies; and programming predictive models in Python and R. Four lecture hours a week for one semester. Only one of following may be counted: Electrical and Computer Engineering 461P, Electrical Engineering 361M, 461P. Prerequisite: The following with a grade of at least C- in each: Mathematics 340L; and Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H; and Biomedical Engineering 335 or Electrical and Computer Engineering 351K (or Electrical Engineering 351K), 351H, or Mathematics 362K.",
+"prereqText": "The following with a grade of at least C- in each: Mathematics 340L; and Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H; and Biomedical Engineering 335 or Electrical and Computer Engineering 351K (or Electrical Engineering 351K), 351H, or Mathematics 362K.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 361Q",
+"subject": "ECE",
+"number": "361Q",
+"title": "Requirements Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the methods and technology for acquiring, representing, documenting, verifying, validating, and maintaining requirements; text-based, graphic-based, and computational requirements model representations; requirements analysis to synthesize and resolve conflicts among disparate stakeholder viewpoints; requirements traceability and evolution; and change management. The equivalent of three lecture hours a week for one semester. Electrical and Computer Engineering 361Q and Electrical Engineering 361Q may not both be counted. Prerequisite: Computer Science 312, 312H, Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H) with a grade of at least C-.",
+"prereqText": "Computer Science 312, 312H, Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H) with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 361R",
+"subject": "ECE",
+"number": "361R",
+"title": "Radio-Frequency Electronics",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine modeling of active and passive devices and transmission line structures at high frequencies. Explore analysis and design of radio-frequency electronic circuits including amplifiers, mixers, multipliers, detectors, and oscillators; transistor-, circuit-, and system-level design methods, challenges, and topologies; noise and distortion analysis; and evaluation of modern radio systems. The equivalent of three lecture hours a week for one semester. Electrical and Computer Engineering 361R and Electrical Engineering 361R may not both be counted. Prerequisite: Electrical and Computer Engineering 325 (or Electrical Engineering 325) and 438 (or Electrical Engineering 438) with a grade of at least C- in each.",
+"prereqText": "Electrical and Computer Engineering 325 (or Electrical Engineering 325) and 438 (or Electrical Engineering 438) with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 461S",
+"subject": "ECE",
+"number": "461S",
+"title": "Operating Systems",
+"hours": 4.0,
+"division": "upper",
+"description": "Introduction to operating system design and implementation; the shell; process management and system calls; memory management; thread management, scheduling, synchronization and concurrency; file systems; input/output systems; virtual machines; and networking and security. Three lecture hours and one-and-one-half laboratory hour a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 461S, Electrical Engineering 461S, Electrical Engineering 379K (Topic: Operating Systems). Prerequisite: The following with a grade of at least C-: Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H), 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H) and Mathematics 325K.",
+"prereqText": "The following with a grade of at least C-: Electrical and Computer Engineering 312 (or Electrical Engineering 312) or 312H (or Electrical Engineering 312H), 319K (or Electrical Engineering 319K) or 319H (or Electrical Engineering 319H) and Mathematics 325K.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 362G",
+"subject": "ECE",
+"number": "362G",
+"title": "Smart Grids",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the fundamentals of smart electric power grids; smart grid architecture, communications, measurement, sensing, design, performance, standards and cyber security; distributed energy, renewable sources, and energy storage; and interoperability. Three lecture hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 362G, Electrical Engineering 362G, Electrical Engineering 379K (Topic: Smart Grids). Prerequisite: Electrical and Computer Engineering 468L (or Electrical Engineering 368L) or 369 (or Electrical Engineering 369) with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 468L (or Electrical Engineering 368L) or 369 (or Electrical Engineering 369) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 468L"
+},
+{
+"type": "course",
+"id": "ECE 368L"
+},
+{
+"type": "course",
+"id": "ECE 369"
+},
+{
+"type": "course",
+"id": "ECE 369",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 362K",
+"subject": "ECE",
+"number": "362K",
+"title": "Introduction to Automatic Control",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to engineering majors. Explore analysis of linear automatic control systems in time and frequency domains; stability analysis; state variable analysis of continuous-time and discrete-time systems; root locus; Nyquist diagrams; Bode plots; sensitivity; and lead and lag compensation. Three lecture hours a week for one semester. Electrical and Computer Engineering 362K and Electrical Engineering 362K may not both be counted. Prerequisite: Upper-division standing, Electrical and Computer Engineering 313 (or Electrical Engineering 313) or 313H, and Mathematics 340L with a grade of at least C- in each.",
+"prereqText": "Upper-division standing, Electrical and Computer Engineering 313 (or Electrical Engineering 313) or 313H, and Mathematics 340L with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to engineering majors."
+},
+{
+"id": "ECE 462L",
+"subject": "ECE",
+"number": "462L",
+"title": "Power Electronics Laboratory",
+"hours": 4.0,
+"division": "upper",
+"description": "Explore the analysis, design, and operation of power electronic circuits; power conversion from AC to DC, DC to DC, and DC to AC; rectifiers, inverters, and pulse width modulated motor drives. Examine the use of energy from renewable sources such as photovoltaics and wind in a laboratory setting. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 462L and Electrical Engineering 462L may not both be counted. Prerequisite: Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H with a grade of at least C-; and credit with a grade of at least C- or registration for one of the following: Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqText": "Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H with a grade of at least C-; and credit with a grade of at least C- or registration for one of the following: Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 362M",
+"subject": "ECE",
+"number": "362M",
+"title": "Power Electronics II",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine pulse-width-modulated power converters, rigorous physical design and device selection, gate driving, thermal design, magnetics design, small-signal modeling and control, and EMI filtering. Explore design and prototyping. Three lecture hours a week for one semester. Electrical and Computer Engineering 362M and Electrical Engineering 379K (Topic: Fundmntls of Power Electronics) may not both be counted. Prerequisite: Upper-division standing, Electrical and Computer Engineering 462L (or Electrical Engineering 462L), and consent of instructor.",
+"prereqText": "Upper-division standing, Electrical and Computer Engineering 462L (or Electrical Engineering 462L), and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 462L"
+},
+{
+"type": "course",
+"id": "ECE 462L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 362Q",
+"subject": "ECE",
+"number": "362Q",
+"title": "Power Quality and Harmonics",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine and analyze power quality and harmonic phenomena in electric power systems, including characteristics and definitions, voltage sags, electrical transients, harmonics, mitigation techniques, and standards of power quality and harmonics. The equivalent of three lecture hours a week for one semester. Electrical and Computer Engineering 362Q and Electrical Engineering 362Q may not both be counted. Prerequisite: Electrical and Computer Engineering 368L (or Electrical Engineering 368L) or 468L with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 368L (or Electrical Engineering 368L) or 468L with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 368L"
+},
+{
+"type": "course",
+"id": "ECE 368L"
+},
+{
+"type": "course",
+"id": "ECE 468L",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 362R",
+"subject": "ECE",
+"number": "362R",
+"title": "Renewable Energy and Power Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine renewable energy sources and their integration into power systems. Explore wind energy: resources, turbines, blades, rotor power characteristics, generators, active and reactive power, variability, and voltage regulation; solar energy: resources, solar radiation measurements, photovoltaic materials and properties, photovoltaic electrical characteristics, and system integration; and demonstrations with commercial-grade solar panels and laboratory-scale wind turbines. Three lecture hours a week for one semester. Electrical and Computer Engineering 362R and Electrical Engineering 362R may not both be counted. Prerequisite: Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 411"
+},
+{
+"type": "course",
+"id": "ECE 411"
+},
+{
+"type": "course",
+"id": "ECE 411H",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 362S",
+"subject": "ECE",
+"number": "362S",
+"title": "Development of a Solar-Powered Vehicle",
+"hours": 3.0,
+"division": "upper",
+"description": "Analyze, design, and construct a solar-powered car for national competitions involving other universities. Study electrical, mechanical, and aerodynamic systems. Three lecture hours and three laboratory hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 362S, Electrical Engineering 362S, Mechanical Engineering 362S. Prerequisite: One of the following with a grade of at least C-: Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H.",
+"prereqText": "One of the following with a grade of at least C-: Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 363M",
+"subject": "ECE",
+"number": "363M",
+"title": "Microwave and Radio Frequency Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine design principles in microwave and radio frequency systems; transmission lines and waveguides; S-parameter representation; impedance matching; microwave network analysis; microwave devices and components; and electromagnetic effects in high-speed and high-frequency applications. Three lecture hours a week for one semester. Electrical and Computer Engineering 363M and Electrical Engineering 363M may not both be counted. Prerequisite: Electrical and Computer Engineering 325 (or Electrical Engineering 325) with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 325 (or Electrical Engineering 325) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 325"
+},
+{
+"type": "course",
+"id": "ECE 325",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 363N",
+"subject": "ECE",
+"number": "363N",
+"title": "Engineering Acoustics",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Mechanical Engineering 379N. Principles of acoustics, with applications drawn from audio engineering, biomedical ultrasound, industrial acoustics, noise control, room acoustics, and underwater sound. Three lecture hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 363N, Electrical Engineering 363N, Mechanical Engineering 379N. Prerequisite: Mathematics 427J or 427K with a grade of at least C-.",
+"prereqText": "Mathematics 427J or 427K with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 427J"
+},
+{
+"type": "course",
+"id": "M 427K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Mechanical Engineering 379N"
+},
+{
+"id": "ECE 464C",
+"subject": "ECE",
+"number": "464C",
+"title": "Corporate Senior Design Project",
+"hours": 4.0,
+"division": "upper",
+"description": "Undertake design and experimental projects in the laboratories of local companies. Examine the ethics of design for safety and reliability. Designed for electrical engineering students working full-time in the industry. Three lecture hours and one-and-one-half laboratory hours a week for one semester. Electrical and Computer Engineering 464C and Electrical Engineering 464C may not both be counted. Prerequisite: Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-, and one of the following with a grade of at least C-: Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, 471C (or Electrical Engineering 471C).",
+"prereqText": "Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-, and one of the following with a grade of at least C-: Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, 471C (or Electrical Engineering 471C).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 364D",
+"subject": "ECE",
+"number": "364D",
+"title": "Introduction to Engineering Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the engineering design process. Explore the assessment and documentation of engineering problems and customer needs, such as acquiring, documenting, and verifying requirements; high-level system design principles; effects of economic, environmental, ethical, safety, and social issues in design; writing and presenting design specifications; and effective teamwork. Two lecture hours and three laboratory hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 155, Electrical Engineering 155, Electrical and Computer Engineering 364D, Electrical Engineering 364D. Only one of the following may be counted: Electrical and Computer Engineering 364E, 364D, Electrical Engineering 364D, 364E. Prerequisite: Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T with a grade of at least C-; and credit with a grade of at least C- or registration for Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, or 471C (or Electrical Engineering 471C).",
+"prereqText": "Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T with a grade of at least C-; and credit with a grade of at least C- or registration for Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, or 471C (or Electrical Engineering 471C).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 364E",
+"subject": "ECE",
+"number": "364E",
+"title": "Interdisciplinary Entrepreneurship",
+"hours": 3.0,
+"division": "upper",
+"description": "Start a company with a team. Explore skill development and mentoring in start-up formation, technology development, market validation, marketing, sales, operations, human resources, program management, and finance. Discuss the role of intellectual property and the social issues in design, as well as ethical and safety considerations. The equivalent of three lecture hours a week for one semester, with additional hours to be arranged. Only one of the following may be counted: Electrical and Computer Engineering 364D, 364E, Electrical Engineering 364D, 364E. Prerequisite: Credit with a grade of at least C- in Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T; credit with a grade of at least C- or registration for Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), or 471C (or Electrical Engineering 471C ); and consent of instructor.",
+"prereqText": "Credit with a grade of at least C- in Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T; credit with a grade of at least C- or registration for Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), or 471C (or Electrical Engineering 471C ); and consent of instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 464G",
+"subject": "ECE",
+"number": "464G",
+"title": "Multidisciplinary Senior Design Project",
+"hours": 4.0,
+"division": "upper",
+"description": "Undertake design and experimental projects with teams from multiple engineering disciplines. Examine the ethics of design for safety and reliability. Three lecture hours and one-and-one-half laboratory hours a week for one semester. Electrical and Computer Engineering 464G and Electrical Engineering 464G may not both be counted. Prerequisite: Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-, and one of the following with a grade of at least C-: Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or EE445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, 471C (or Electrical Engineering 471C).",
+"prereqText": "Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-, and one of the following with a grade of at least C-: Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or EE445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, 471C (or Electrical Engineering 471C).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 464H",
+"subject": "ECE",
+"number": "464H",
+"title": "Honors Senior Design Project",
+"hours": 4.0,
+"division": "upper",
+"description": "Implement the previously developed engineering system design, including design review, prototyping, project testing and any subsequent design modifications; addressing economic, environmental, ethical, safety, and social issues; documentation of each of the preceding and publicly presenting design results; and working effectively in teams. Three lecture hours and six laboratory hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 464H, 464K, 464R, 464S, Electrical Engineering 464H, 464K, 464R, 464S. Prerequisite: Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-, and one of the following with a grade of at least C-: Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, 471C (or Electrical Engineering 471C).",
+"prereqText": "Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-, and one of the following with a grade of at least C-: Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, 471C (or Electrical Engineering 471C).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 464K",
+"subject": "ECE",
+"number": "464K",
+"title": "Senior Design Project",
+"hours": 4.0,
+"division": "upper",
+"description": "Implement the previously developed engineering system design, including design review, prototyping, project testing and any subsequent design modifications; addressing economic, environmental, ethical, safety, and social issues; documentation of each of the preceding and publicly presenting design results; and working effectively in teams. Three lecture hours and six laboratory hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 464H, 464K, 464R, 464S, Electrical Engineering 464H, 464K, 464R, 464S. Prerequisite: Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-, and one of the following with a grade of at least C-: Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, 471C (or Electrical Engineering 471C).",
+"prereqText": "Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-, and one of the following with a grade of at least C-: Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, 471C (or Electrical Engineering 471C).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 464R",
+"subject": "ECE",
+"number": "464R",
+"title": "Research Senior Design Project",
+"hours": 4.0,
+"division": "upper",
+"description": "Implement the previously developed engineering system design, including design review, prototyping, project testing and any subsequent design modifications; addressing economic, environmental, ethical, safety, and social issues; documentation of each of the preceding and publicly presenting design results; and working effectively in teams. Three lecture hours and six laboratory hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 464H, 464K, 464R, 464S, Electrical Engineering 464H, 464K, 464R, 464S. Prerequisite: Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-, and one of the following with a grade of at least C-: Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, 471C (or Electrical Engineering 471C).",
+"prereqText": "Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-, and one of the following with a grade of at least C-: Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, 471C (or Electrical Engineering 471C).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 464S",
+"subject": "ECE",
+"number": "464S",
+"title": "Start-Up Senior Design Project",
+"hours": 4.0,
+"division": "upper",
+"description": "Complete a practical engineering product design; validate the design through prototype construction and testing, modeling and simulation, and manufacturability analysis. Develop a completed company prospectus and seek venture funding for the project. Three lecture hours and six laboratory hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 464H, 464K, 464R, 464S, Electrical Engineering 464H, 464K, 464R, 464S. Prerequisite: Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-, and one of the following with a grade of at least C-: Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, or 471C (or Electrical Engineering 471C).",
+"prereqText": "Electrical and Computer Engineering 364D (or Electrical Engineering 364D) with a grade of at least C-, and one of the following with a grade of at least C-: Electrical and Computer Engineering 438 (or Electrical Engineering 438), 440 (or Electrical Engineering 440), 445L (or Electrical Engineering 445L), 445S (or Electrical Engineering 445S), 460J (or Electrical Engineering 460J), 461L (or Electrical Engineering 461L), 462L (or Electrical Engineering 462L), 468L, or 471C (or Electrical Engineering 471C).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 366",
+"subject": "ECE",
+"number": "366",
+"title": "Engineering Economics I",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore business organization; discounted cash flow calculations, including present-worth and rate-of-return calculations; replacement analyses; financial analyses; accounting and depreciation; income taxes; inflation; risk analysis, utility theory, decision models, sequential decision making; and value of information. Three lecture hours a week for one semester. Electrical and Computer Engineering 366 and Electrical Engineering 366 may not both be counted. Prerequisite: The following with a grade of at least C-: Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), or 351H; and Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H.",
+"prereqText": "The following with a grade of at least C-: Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), or 351H; and Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 366K",
+"subject": "ECE",
+"number": "366K",
+"title": "Engineering Economics II",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the fundamentals of risk management, including portfolio theory, capital asset pricing theory, and optimal project mix; hedging financial risk; advanced economic analysis of alternative energy systems; and advanced mathematical modeling techniques for economic analysis. Three lecture hours a week for one semester. Electrical and Computer Engineering 366K and Electrical Engineering 366K may not both be counted. Prerequisite: Electrical and Computer Engineering 366 (or Electrical Engineering 366) with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 366 (or Electrical Engineering 366) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 366"
+},
+{
+"type": "course",
+"id": "ECE 366",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 366L",
+"subject": "ECE",
+"number": "366L",
+"title": "Statistics for Manufacturing",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore statistical analysis applied to the development and control of manufacturing operations. Examine quality control, statistical process control, and design of experiments. Three lecture hours a week for one semester. Electrical and Computer Engineering 366L and Electrical Engineering 366L may not both be counted. Prerequisite: The following with a grade of at least C-: Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), or 351H; and Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H.",
+"prereqText": "The following with a grade of at least C-: Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), or 351H; and Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 368L",
+"subject": "ECE",
+"number": "368L",
+"title": "Power Systems Apparatus and Laboratory",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore fundamentals of power systems emphasized through laboratory experiments; complex power, three-phase circuits, per-unit system, transformers, synchronous machines, transmission line models, steady-state analysis, induction machines, capacitor banks, protective relaying, surge arrestors, and instrumentation. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 368L and Electrical Engineering 368L may not both be counted. Prerequisite: Electrical and Computer Engineering 411 (or Electrical Engineering 411) with a grade of at least C-; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqText": "Electrical and Computer Engineering 411 (or Electrical Engineering 411) with a grade of at least C-; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 468L",
+"subject": "ECE",
+"number": "468L",
+"title": "Power Systems Apparatus and Laboratory",
+"hours": 4.0,
+"division": "upper",
+"description": "Explore fundamentals of power systems emphasized through laboratory experiments; complex power, three-phase circuits, per-unit system, transformers, synchronous machines, transmission line models, steady-state analysis, induction machines, capacitor banks, protective relaying, surge arrestors, and instrumentation. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 368L and Electrical Engineering 368L may not both be counted. Prerequisite: Electrical and Computer Engineering 411 (or Electrical Engineering 411) with a grade of at least C-; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqText": "Electrical and Computer Engineering 411 (or Electrical Engineering 411) with a grade of at least C-; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 369",
+"subject": "ECE",
+"number": "369",
+"title": "Power Systems Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine power systems engineering. Explore complex power, phasors, balanced three phase power systems, transformers and per-unit systems, transmission line parameters, steady state operation of transmission lines, the power flow problem, symmetrical faults, power system controls, economic operation of power systems, optimal power flow, and deregulation and restructuring of electricity markets. Three lecture hours a week for one semester. Electrical and Computer Engineering 369 and Electrical Engineering 369 may not both be counted. Prerequisite: Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 411 (or Electrical Engineering 411) or 411H with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 411"
+},
+{
+"type": "course",
+"id": "ECE 411"
+},
+{
+"type": "course",
+"id": "ECE 411H",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 369L",
+"subject": "ECE",
+"number": "369L",
+"title": "Relay Protection of Power Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the theory, principles, and practices for protecting medium-voltage industrial power systems and high-voltage transmission grids, including symmetrical components; fault calculations and grounding; protection of motors, generators, cables, and transmission lines; and relay settings, fusing, and coordination of multiple protection devices. Two lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 369L and Electrical Engineering 369L may not both be counted. Prerequisite: Electrical and Computer Engineering 313 (or Electrical Engineering 313) or 313H with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 313 (or Electrical Engineering 313) or 313H with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 313"
+},
+{
+"type": "course",
+"id": "ECE 313"
+},
+{
+"type": "course",
+"id": "ECE 313H",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 370",
+"subject": "ECE",
+"number": "370",
+"title": "Automatic Control II",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to modern control theory, nonlinear and optimal control systems; controllability, observability, stability; state feedback, observers, eigenvalue assignment. Three lecture hours a week for one semester. Electrical and Computer Engineering 370 and Electrical Engineering 370 may not both be counted. Prerequisite: Credit with a grade of at least C- or registration for Electrical and Computer Engineering 362K (or credit with a grade of at least C- for Electrical Engineering 362K).",
+"prereqText": "Credit with a grade of at least C- or registration for Electrical and Computer Engineering 362K (or credit with a grade of at least C- for Electrical Engineering 362K).",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 362K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "ECE 362K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 370K",
+"subject": "ECE",
+"number": "370K",
+"title": "Computer Control Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the analysis and design of linear discrete time control systems; z-transform theory; modified z-transforms; stability; multirate systems; digital simulation of discrete time systems; and synthesis of algorithms for computer controllers. Three lecture hours a week for one semester. Electrical and Computer Engineering 370K and Electrical Engineering 370K may not both be counted. Prerequisite: Credit with a grade of at least C- or registration for Electrical and Computer Engineering 362K (or Electrical Engineering 362K).",
+"prereqText": "Credit with a grade of at least C- or registration for Electrical and Computer Engineering 362K (or Electrical Engineering 362K).",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 362K"
+},
+{
+"type": "course",
+"id": "ECE 362K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 370L",
+"subject": "ECE",
+"number": "370L",
+"title": "Introduction to Manufacturing Systems Automation",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore applications of automation techniques to manufacturing systems, robotics, and computer vision. Three lecture hours a week for one semester. Electrical and Computer Engineering 370L and Electrical Engineering 370L may not both be counted. Prerequisite: Electrical and Computer Engineering 362K (or Electrical Engineering 362K) with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 362K (or Electrical Engineering 362K) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 362K"
+},
+{
+"type": "course",
+"id": "ECE 362K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 370N",
+"subject": "ECE",
+"number": "370N",
+"title": "Introduction to Robotics and Mechatronics",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine structures for industrial robots; geometry and transformation; direct and inverse kinematics; differential kinematics; dynamics; trajectory planning; actuators and sensors; adaptive control and learning compliance; vision and pattern recognition; and expert systems. Three lecture hours a week for one semester. Electrical and Computer Engineering 370N and Electrical Engineering 370N may not both be counted. Prerequisite: Electrical and Computer Engineering 362K (or Electrical Engineering 362K) with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 362K (or Electrical Engineering 362K) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 362K"
+},
+{
+"type": "course",
+"id": "ECE 362K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 471C",
+"subject": "ECE",
+"number": "471C",
+"title": "Wireless Communications Laboratory",
+"hours": 4.0,
+"division": "upper",
+"description": "Examine the fundamentals of wireless communication from a digital signal processing perspective; linear modulation, demodulation, and orthogonal frequency division multiplexing; synchronization, channel estimation, and equalization; communication in fading channels; and wireless standards. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 371C and Electrical Engineering 371C may not both be counted. Prerequisite: Electrical and Computer Engineering 445S (or Electrical Engineering 445S), 351M (or Electrical Engineering 351M), or 360K (or Electrical Engineering 360K) with a grade of at least C-; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqText": "Electrical and Computer Engineering 445S (or Electrical Engineering 445S), 351M (or Electrical Engineering 351M), or 360K (or Electrical Engineering 360K) with a grade of at least C-; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 371D",
+"subject": "ECE",
+"number": "371D",
+"title": "Introduction to Neural Networks",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore characteristics of artificial neural networks, feedforward networks, and recurrent networks; learning algorithms; self-organization; biological links; and data mining and other applications. Three lecture hours a week for one semester. Electrical and Computer Engineering 371D and Electrical Engineering 371D may not both be counted. Prerequisite: The following with a grade of at least C- in each: Mathematics 340L; and Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H; and Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), 351H, or Mathematics 362K.",
+"prereqText": "The following with a grade of at least C- in each: Mathematics 340L; and Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H; and Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), 351H, or Mathematics 362K.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 371M",
+"subject": "ECE",
+"number": "371M",
+"title": "Communication Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore analog and digital modulation; noise in communication systems; signal-to-noise ratio; coding; optimal receiver design; phase-locked loops; and performance analysis. Three lecture hours a week for one semester. Electrical and Computer Engineering 371M and Electrical Engineering 371M may not both be counted. Prerequisite: The following with a grade of at least C- in each: Mathematics 340L; and Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H; and Biomedical Engineering 335, Electrical and Computer Engineering 351K, (or Electrical Engineering 351K), 351H, or Mathematics 362K.",
+"prereqText": "The following with a grade of at least C- in each: Mathematics 340L; and Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H; and Biomedical Engineering 335, Electrical and Computer Engineering 351K, (or Electrical Engineering 351K), 351H, or Mathematics 362K.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 371Q",
+"subject": "ECE",
+"number": "371Q",
+"title": "Digital Image Processing",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine digital image acquisition, processing, and analysis; two dimensional Fourier analysis; 2D wavelets; image filtering; image denoising; image compression; machine learning for image processing and analysis; deep learning of images; picture quality prediction; image analysis; 3D stereoscopic ranging. Three lecture hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 371Q, Electrical Engineering 371Q, 371R. Prerequisite: The following with a grade of at least C- in each: Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H; and Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), 351H, or Mathematics 362K.",
+"prereqText": "The following with a grade of at least C- in each: Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H; and Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), 351H, or Mathematics 362K.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 472L",
+"subject": "ECE",
+"number": "472L",
+"title": "Network Engineering Laboratory",
+"hours": 4.0,
+"division": "upper",
+"description": "Explore local, metropolitan, and wide-area operations; telecommunication common carrier organizations and services; administrative and political considerations; premise distribution systems; name resolution, address assignment, and mail; datagra,s, packets, frames, and cells; addressing and network-level interconnection; internetwork architecture; TCP/IP protocol suite (v. 4 and 6); Ethernet and IEEE 802.3 standards; IEEE 802.11 standards and wireless access points; repeaters, hubs, bridges, routers; local area network emulation; public switched network access through POTS and ISDN; intradomain and interdomain routing; routing protocols, including RIP, OSPF, and BGP; multicast; media testing; and local- and wide-area diagnostic tools. Three lecture hours and three laboratory hours a week for one semester. Electrical and Computer Engineering 472L and Electrical Engineering 372L may not both be counted. Prerequisite: Electrical and Computer Engineering 372N (or Electrical Engineering 372N) with a grade of at least C-; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqText": "Electrical and Computer Engineering 372N (or Electrical Engineering 372N) with a grade of at least C-; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 372N",
+"subject": "ECE",
+"number": "372N",
+"title": "Telecommunication Networks",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine circuit and packet-switched networks; local area networks; protocol stacks; asynchronous transfer mode (ATM) and broadband integrated services digital network (ISDN); Internet; routing, congestion control, and performance evaluation; and multimedia applications. Three lecture hours a week for one semester. Electrical and Computer Engineering 372N and Electrical Engineering 372N may not both be counted. Prerequisite: The following with a grade of at least C- in each: Mathematics 340L; and Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H; and Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), 351H, or Mathematics 362K.",
+"prereqText": "The following with a grade of at least C- in each: Mathematics 340L; and Biomedical Engineering 343, Electrical and Computer Engineering 313 (or Electrical Engineering 313), or 313H; and Biomedical Engineering 335, Electrical and Computer Engineering 351K (or Electrical Engineering 351K), 351H, or Mathematics 362K.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 372S",
+"subject": "ECE",
+"number": "372S",
+"title": "Cryptography and Network Security",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore distributed information system security, cryptographic tools, authentication, message security, and system management. The equivalent of three lecture hours a week for one semester. Electrical and Computer Engineering 372S and Electrical Engineering 372S may not both be counted. Prerequisite: Mathematics 325K or 340L with a grade of at least C-.",
+"prereqText": "Mathematics 325K or 340L with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 325K"
+},
+{
+"type": "course",
+"id": "M 340L",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 374K",
+"subject": "ECE",
+"number": "374K",
+"title": "Biomedical Electronic Instrument Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the application of electrical engineering principles in the design of electronic instrumentation at the circuit-board level for the measurement of pressure, temperature, flow, and impedance. Examine the study of light intensity, bioelectric potentials, and stimulation devices such as pacemakers and defibrillators. Focus on design considerations specific to electro-medical environments, safety and efficacy, and public policy issues. Three lecture hours a week for one semester. Electrical and Computer Engineering 374K and Electrical Engineering 374K may not both be counted. Prerequisite: Electrical and Computer Engineering 438 (or Electrical Engineering 438) with a grade of at least C-.",
+"prereqText": "Electrical and Computer Engineering 438 (or Electrical Engineering 438) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 438"
+},
+{
+"type": "course",
+"id": "ECE 438",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 374L",
+"subject": "ECE",
+"number": "374L",
+"title": "Applications of Biomedical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine areas of biomedical engineering, such as optical and thermal properties of laser interaction with tissue; measurement of perfusion in the microvascular system; diagnostic imaging; interaction of living systems with electromagnetic fields; robotic surgical tools; ophthalmic instrumentation; and noninvasive cardiovascular measurements. Three lecture hours and six laboratory hours a week for one semester. Electrical and Computer Engineering 374L and Electrical Engineering 374L may not both be counted. Prerequisite: Electrical and Computer Engineering 374K (or Electrical Engineering 374K) with a grade of at least C-; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or credit with a grade of at least C- for Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqText": "Electrical and Computer Engineering 374K (or Electrical Engineering 374K) with a grade of at least C-; and credit with a grade of at least C- or registration for Aerospace Engineering 333T, Biomedical Engineering 333T, Chemical Engineering 333T, Civil Engineering 333T, Electrical and Computer Engineering 333T (or credit with a grade of at least C- for Electrical Engineering 333T), Engineering Studies 333T, Mechanical Engineering 333T, or Petroleum and Geosystems Engineering 333T.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 374N",
+"subject": "ECE",
+"number": "374N",
+"title": "Neural Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine a variety of clinical conditions and their associated neurological basis, and then analyze the engineering solutions to cope with the neurological deficits, with an emphasis on electrical and computer engineering components. Study approaches to design motor neuroprosthetics and sensory neuroprosthetics that restore lost functions. Learn principles of deep brain stimulation, neuromodulation, and brain plasticity. Explore the concepts behind technological approaches for neurorehabilitation, in particular robotics and brain-computer interfaces. Three lecture hours a week for one semester. Electrical and Computer Engineering 374N and Electrical Engineering 379K (Topic: Neural Engineering) may not both be counted. Prerequisite: Upper-division standing; Electrical and Computer Engineering 351M (or Electrical Engineering 351M) or 445S (or Electrical Engineering 351M); Electrical and Computer Engineering 461P (or Electrical Engineering 461P) or 460J (or Electrical Engineering 460J); and consent of the instructor.",
+"prereqText": "Upper-division standing; Electrical and Computer Engineering 351M (or Electrical Engineering 351M) or 445S (or Electrical Engineering 351M); Electrical and Computer Engineering 461P (or Electrical Engineering 461P) or 460J (or Electrical Engineering 460J); and consent of the instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 679H",
+"subject": "ECE",
+"number": "679H",
+"title": "Undergraduate Honors Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to students in the Engineering Honors Program. Undertake research across two consecutive semesters under the supervision of an engineering faculty member. Investigate a research area, selected with a faculty member with approval by the director of the Honors Program. Deliver an oral presentation and write a thesis. Individual instruction for two semesters. Electrical and Computer Engineering 679H and Electrical Engineering 679H may not both be counted. Prerequisite: For 679HB, Electrical and Computer Engineering 679HA (or Electrical Engineering 679HA) with a grade of at least C-.",
+"prereqText": "For 679HB, Electrical and Computer Engineering 679HA (or Electrical Engineering 679HA) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 679HA"
+},
+{
+"type": "course",
+"id": "ECE 679HA",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Engineering Honors Program."
+},
+{
+"id": "ECE 179K",
+"subject": "ECE",
+"number": "179K",
+"title": "Topics in Electrical Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing, Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C-, and consent of instructor.",
+"prereqText": "Upper-division standing, Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C-, and consent of instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 279K",
+"subject": "ECE",
+"number": "279K",
+"title": "Topics in Electrical Engineering",
+"hours": 2.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing, Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C-, and consent of instructor.",
+"prereqText": "Upper-division standing, Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C-, and consent of instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 379K",
+"subject": "ECE",
+"number": "379K",
+"title": "Topics in Electrical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing, Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C-, and consent of instructor.",
+"prereqText": "Upper-division standing, Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C-, and consent of instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 479K",
+"subject": "ECE",
+"number": "479K",
+"title": "Topics in Electrical Engineering",
+"hours": 4.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing, Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C-, and consent of instructor.",
+"prereqText": "Upper-division standing, Electrical and Computer Engineering 312 (or Electrical Engineering 312), 312H (or Electrical Engineering 312H), 313 (or Electrical Engineering 313), or 313H with a grade of at least C-, and consent of instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 380C",
+"subject": "ECE",
+"number": "380C",
+"title": "Introduction to Optimization",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Electrical and Computer Engineering 380C and Electrical Engineering 380C may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 380K",
+"subject": "ECE",
+"number": "380K",
+"title": "Introduction to System Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to linear dynamical systems and differential equations, state space analysis and applications to feedback control, functional analytic methods, realization theory, stability theory, and elements of optimal control. Three lecture hours a week for one semester. Electrical and Computer Engineering 380K and Electrical Engineering 380K may not both be counted. Prerequisite: Graduate standing and knowledge in real analysis.",
+"prereqText": "Graduate standing and knowledge in real analysis.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 380L",
+"subject": "ECE",
+"number": "380L",
+"title": "Topics in Computer Systems in Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 380N",
+"subject": "ECE",
+"number": "380N",
+"title": "Topics in System Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and Electrical and Computer Engineering 380K (or Electrical Engineering 380K).",
+"prereqText": "Graduate standing and Electrical and Computer Engineering 380K (or Electrical Engineering 380K).",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 380K"
+},
+{
+"type": "course",
+"id": "ECE 380K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 381C",
+"subject": "ECE",
+"number": "381C",
+"title": "Verification and Validation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Electrical and Computer Engineering 381C and Electrical Engineering 381C may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 381J",
+"subject": "ECE",
+"number": "381J",
+"title": "Probability and Stochastic Processes I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine probability spaces, random variables, expectation, conditional expectation, stochastic convergence, characteristic functions, and limit theorems. Explore Markov and Gaussian processes, stationary processes, spectral representation, ergodicity, renewal processes, martingales, and applications to estimation, prediction, and queueing theory. Three lecture hours a week for one semester. Electrical and Computer Engineering 381J and Electrical Engineering 381J may not both be counted. Prerequisite: Graduate standing, and an undergraduate course in probability, statistics, and random processes.",
+"prereqText": "Graduate standing, and an undergraduate course in probability, statistics, and random processes.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 381K",
+"subject": "ECE",
+"number": "381K",
+"title": "Topics in Decision, Information, and Communications Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 381L",
+"subject": "ECE",
+"number": "381L",
+"title": "Digital Time Series Analysis and Applications",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine digital implementation of higher-order spectra and other techniques useful in analyzing, interpreting, and modeling random time series data from linear and nonlinear physical systems. Three lecture hours a week for one semester. Electrical and Computer Engineering 381L and Electrical Engineering 381L may not both be counted. Prerequisite: Graduate standing in engineering or natural sciences.",
+"prereqText": "Graduate standing in engineering or natural sciences.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 381M",
+"subject": "ECE",
+"number": "381M",
+"title": "Probability and Stochastic Processes II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine random walk and Brownian motion; renewal and regenerative processes; Markov processes; ergodic theory; continuous parameter martingales; stochastic differential equations; diffusions; stochastic control; and multidimensional stochastic models. Three lecture hours a week for one semester. Electrical and Computer Engineering 381M and Electrical Engineering 381M may not both be counted. Prerequisite: Graduate standing and Electrical and Computer Engineering 381J (or Electrical Engineering 381J).",
+"prereqText": "Graduate standing and Electrical and Computer Engineering 381J (or Electrical Engineering 381J).",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 381J"
+},
+{
+"type": "course",
+"id": "ECE 381J"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECE 381S",
+"subject": "ECE",
+"number": "381S",
+"title": "Space-Time Communication",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore multiple-input multiple-output (MIMO) wireless communication, including discrete-time signal models, equalization, and channel estimation; channel models; channel capacity; average probability of error in fading channels; channel coding; transmit and receive diversity; space-time codes; spatial multiplexing; precoding and limited feedback; space-time adaptation; multiuser communication; multiuser information theory; practical multiuser algorithms; and applications in recent standards. Three lecture hours a week for one semester. Electrical and Computer Engineering 381S and Electrical Engineering 381S may not both be counted. Prerequisite: Graduate standing and Electrical and Computer Engineering 381J (or Electrical Engineering 381J) and 381K (Topic 2) (or Electrical Engineering 381K (Topic 2)).",
+"prereqText": "Graduate standing and Electrical and Computer Engineering 381J (or Electrical Engineering 381J) and 381K (Topic 2) (or Electrical Engineering 381K (Topic 2)).",
+"prereqConfidence": "low"
+},
+{
+"id": "ECE 381V",
+"subject": "ECE",
+"number": "381V",
+"title": "Topics in Communications, Networks, and Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 382C",
+"subject": "ECE",
+"number": "382C",
+"title": "Topics in Software Engineering and Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 382L",
+"subject": "ECE",
+"number": "382L",
+"title": "Topics in Theory of Digital Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 382M",
+"subject": "ECE",
+"number": "382M",
+"title": "Topics in Integrated Circuits and Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 382N",
+"subject": "ECE",
+"number": "382N",
+"title": "Topics in Architecture, Computer Systems, and Embedded Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 382V",
+"subject": "ECE",
+"number": "382V",
+"title": "Topics in Computer Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 383L",
+"subject": "ECE",
+"number": "383L",
+"title": "Electromagnetic Field Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine vector space, Green's function; equivalence theorem; vector potentials; plane, cylindrical, and spherical waves; and radiation and scattering. Three lecture hours a week for one semester. Electrical and Computer Engineering 383L and Electrical Engineering 383L may not both be counted. Prerequisite: Graduate standing in electrical engineering.",
+"prereqText": "Graduate standing in electrical engineering.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 383M",
+"subject": "ECE",
+"number": "383M",
+"title": "Microwave Field Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine guided waves in cylindrical waveguides, microstrip lines, dielectric and optical waveguides; integrated circuits; and periodic structures. Three lecture hours a week for one semester. Electrical and Computer Engineering 383M and Electrical Engineering 383M may not both be counted. Prerequisite: Graduate standing in electrical engineering.",
+"prereqText": "Graduate standing in electrical engineering.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 383N",
+"subject": "ECE",
+"number": "383N",
+"title": "Theory of Electromagnetic Fields: Electrodynamics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore intermediate electromagnetic field theory, with emphasis on the interaction of fields and material media, including anisotropic media. Three lecture hours a week for one semester. Electrical and Computer Engineering 383N and Electrical Engineering 383N may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 383P",
+"subject": "ECE",
+"number": "383P",
+"title": "Topics in Optical Processing and Laser Communications",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in engineering, mathematics, chemistry, or physics.",
+"prereqText": "Graduate standing in engineering, mathematics, chemistry, or physics.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 383V",
+"subject": "ECE",
+"number": "383V",
+"title": "Topics in Electromagnetics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 384N",
+"subject": "ECE",
+"number": "384N",
+"title": "Topics in Acoustics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 385J",
+"subject": "ECE",
+"number": "385J",
+"title": "Topics in Biomedical Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in engineering and consent of instructor.",
+"prereqText": "Graduate standing in engineering and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 386C",
+"subject": "ECE",
+"number": "386C",
+"title": "Software Architecture",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Electrical and Computer Engineering 386C and Electrical Engineering 386C may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 390C",
+"subject": "ECE",
+"number": "390C",
+"title": "Statistical Methods in Engineering and Quality Assurance",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine the interpretation of data from designed experiments and production processes. Explore subjects including probability distributions, confidence intervals, analysis of variance, hypothesis testing, factorial designs, and quality control data. Three lecture hours a week for one semester. Electrical and Computer Engineering 390C and Electrical Engineering 390C may not both be counted. Prerequisite: Graduate standing in engineering and a course in probability and statistics.",
+"prereqText": "Graduate standing in engineering and a course in probability and statistics.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 390V",
+"subject": "ECE",
+"number": "390V",
+"title": "Topics in Manufacturing Systems Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 391C",
+"subject": "ECE",
+"number": "391C",
+"title": "Technical Entrepreneurship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine the technology-based company: entrepreneurship, intrapreneurship, strategic planning, finance, marketing, sales, operations, research and development, manufacturing, and management. Form hypothetical companies in a team and simulate their ventures over an extended period. Three lecture hours a week for one semester. Electrical and Computer Engineering 391C and Electrical Engineering 391C may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 392C",
+"subject": "ECE",
+"number": "392C",
+"title": "Software Testing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 392C, Electrical Engineering 382V (Topic: Software Testing), 392C. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 392K",
+"subject": "ECE",
+"number": "392K",
+"title": "Antenna Theory and Practice",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore modern antenna systems for receiving and transmitting, including driven and parasitic arrays, horns, parabolic and other antennas. Three lecture hours a week for one semester. Electrical and Computer Engineering 392K and Electrical Engineering 392K may not both be counted. Prerequisite: Graduate standing in electrical engineering and knowledge in electromagnetic engineering.",
+"prereqText": "Graduate standing in electrical engineering and knowledge in electromagnetic engineering.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 392L",
+"subject": "ECE",
+"number": "392L",
+"title": "Computational Electromagnetics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore fundamental computational modeling and analysis techniques for applications in antennas, microwave circuits, biomedical engineering, and geophysics. Focus on boundary-value problem formulation, numerical methods, computer implementation, and error quantification. Examine differential and integral equation-based methods for solving Maxwell's equations in frequency and time domains. Three lecture hours a week for one semester. Electrical and Computer Engineering 392L and Electrical Engineering 392L may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 392N",
+"subject": "ECE",
+"number": "392N",
+"title": "Principles of Radar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore the fundamentals of radar, with an emphasis on electromagnetics and signal processing. Examine radar range equation, antennas, propagation and target scattering, matched filter, ambiguity function, waveform design, pulse compression, microwave imaging, synthetic aperture radar, and inverse synthetic aperture radar (ISAR). Three lecture hours a week for one semester. Electrical and Computer Engineering 392N and Electrical Engineering 392N may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 393C",
+"subject": "ECE",
+"number": "393C",
+"title": "Topics in Plasma Dynamics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in engineering, physics, chemistry, or mathematics.",
+"prereqText": "Graduate standing in engineering, physics, chemistry, or mathematics.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 394",
+"subject": "ECE",
+"number": "394",
+"title": "Topics in Power System Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in electrical engineering, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in electrical engineering, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 394J",
+"subject": "ECE",
+"number": "394J",
+"title": "Topics in Energy Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 394L",
+"subject": "ECE",
+"number": "394L",
+"title": "Power Systems Apparatus and Laboratory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine the fundamentals of power systems emphasized through laboratory experiments. Explore complex power, three-phase circuits, per-unit system, transformers, synchronous machines, transmission line models, steady-state analysis, induction machines, capacitor banks, protective relaying, surge arrestors, and instrumentation. Three lecture hours and three laboratory hours a week for one semester. Only one of the following may be counted: Electrical and Computer Engineering 394L, Electrical Engineering 394L, 394V (Topic: Power Systems Apparatus and Laboratory). Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 396K",
+"subject": "ECE",
+"number": "396K",
+"title": "Topics in Solid-State Device Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore the theory of electron, magnetic, and electro-optic devices. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 396M",
+"subject": "ECE",
+"number": "396M",
+"title": "Topics in Quantum Electronics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine quantum mechanical principles as applied to electron devices, lasers, and electro-optics; material properties and interaction of radiation and material. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in electrical engineering or physics.",
+"prereqText": "Graduate standing in electrical engineering or physics.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 396N",
+"subject": "ECE",
+"number": "396N",
+"title": "Topics in Nanotechnology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 396V",
+"subject": "ECE",
+"number": "396V",
+"title": "Topics in Solid-State Electronics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 197C",
+"subject": "ECE",
+"number": "197C",
+"title": "Research Problems",
+"hours": 1.0,
+"division": "graduate",
+"description": "Select and research a problem with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197C and Electrical Engineering 197C may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 297C",
+"subject": "ECE",
+"number": "297C",
+"title": "Research Problems",
+"hours": 2.0,
+"division": "graduate",
+"description": "Select and research a problem with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197C and Electrical Engineering 197C may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 397C",
+"subject": "ECE",
+"number": "397C",
+"title": "Research Problems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Select and research a problem with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197C and Electrical Engineering 197C may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 697C",
+"subject": "ECE",
+"number": "697C",
+"title": "Research Problems",
+"hours": 6.0,
+"division": "graduate",
+"description": "Select and research a problem with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197C and Electrical Engineering 197C may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 997C",
+"subject": "ECE",
+"number": "997C",
+"title": "Research Problems",
+"hours": 9.0,
+"division": "graduate",
+"description": "Select and research a problem with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197C and Electrical Engineering 197C may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 197G",
+"subject": "ECE",
+"number": "197G",
+"title": "Research Problems",
+"hours": 1.0,
+"division": "graduate",
+"description": "Problem selected by the student with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197G and Electrical Engineering 197G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ECE 297G",
+"subject": "ECE",
+"number": "297G",
+"title": "Research Problems",
+"hours": 2.0,
+"division": "graduate",
+"description": "Problem selected by the student with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197G and Electrical Engineering 197G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ECE 397G",
+"subject": "ECE",
+"number": "397G",
+"title": "Research Problems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Problem selected by the student with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197G and Electrical Engineering 197G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ECE 697G",
+"subject": "ECE",
+"number": "697G",
+"title": "Research Problems",
+"hours": 6.0,
+"division": "graduate",
+"description": "Problem selected by the student with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197G and Electrical Engineering 197G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ECE 997G",
+"subject": "ECE",
+"number": "997G",
+"title": "Research Problems",
+"hours": 9.0,
+"division": "graduate",
+"description": "Problem selected by the student with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197G and Electrical Engineering 197G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ECE 397K",
+"subject": "ECE",
+"number": "397K",
+"title": "Advanced Topics in Electrical Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in electrical engineering and consent of instructor.",
+"prereqText": "Graduate standing in electrical engineering and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 197M",
+"subject": "ECE",
+"number": "197M",
+"title": "Graduate Research Internship",
+"hours": 1.0,
+"division": "graduate",
+"description": "Engage in research associated with enrollment in the Graduate Research Internship Program (GRIP). For every hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197M and Electrical Engineering 197M may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in electrical engineering and consent of instructor.",
+"prereqText": "Graduate standing in electrical engineering and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 297M",
+"subject": "ECE",
+"number": "297M",
+"title": "Graduate Research Internship",
+"hours": 2.0,
+"division": "graduate",
+"description": "Engage in research associated with enrollment in the Graduate Research Internship Program (GRIP). For every hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197M and Electrical Engineering 197M may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in electrical engineering and consent of instructor.",
+"prereqText": "Graduate standing in electrical engineering and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 397M",
+"subject": "ECE",
+"number": "397M",
+"title": "Graduate Research Internship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Engage in research associated with enrollment in the Graduate Research Internship Program (GRIP). For every hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197M and Electrical Engineering 197M may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in electrical engineering and consent of instructor.",
+"prereqText": "Graduate standing in electrical engineering and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 397N",
+"subject": "ECE",
+"number": "397N",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in electrical and computer engineering and consent of instructor.",
+"prereqText": "Graduate standing in electrical and computer engineering and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 197S",
+"subject": "ECE",
+"number": "197S",
+"title": "Graduate Seminar in Electrical Engineering",
+"hours": 1.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 297S",
+"subject": "ECE",
+"number": "297S",
+"title": "Graduate Seminar in Electrical Engineering",
+"hours": 2.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 397S",
+"subject": "ECE",
+"number": "397S",
+"title": "Graduate Seminar in Electrical Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECE 698",
+"subject": "ECE",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Electrical and Computer Engineering 698 and Electrical Engineering 698 may not both be counted. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in electrical and computer engineering and consent of the graduate advisor; for 698B, Electrical and Computer Engineering 698A (or Electrical Engineering 698A).",
+"prereqText": "For 698A, graduate standing in electrical and computer engineering and consent of the graduate advisor; for 698B, Electrical and Computer Engineering 698A (or Electrical Engineering 698A).",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 698A"
+},
+{
+"type": "course",
+"id": "ECE 698A"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 398R",
+"subject": "ECE",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare a report to fulfill the requirement for the Master's degree under the report option. The equivalent of three lecture hours a week for one semester. Electrical and Computer Engineering 398R and Electrical Engineering 398R may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in electrical and computer engineering and consent of the graduate advisor.",
+"prereqText": "Graduate standing in electrical and computer engineering and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 398T",
+"subject": "ECE",
+"number": "398T",
+"title": "Supervised Teaching in Electrical Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Teach under close supervision for one semester. Attend group meetings or individual consultations, and submit reports as required. The equivalent of three lecture hours a week for one semester. Electrical and Computer Engineering 398T and Electrical Engineering 398T may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and appointment as a teaching assistant.",
+"prereqText": "Graduate standing and appointment as a teaching assistant.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 399W",
+"subject": "ECE",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 499W",
+"subject": "ECE",
+"number": "499W",
+"title": "Dissertation",
+"hours": 4.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 599W",
+"subject": "ECE",
+"number": "599W",
+"title": "Dissertation",
+"hours": 5.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 699W",
+"subject": "ECE",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 799W",
+"subject": "ECE",
+"number": "799W",
+"title": "Dissertation",
+"hours": 7.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 899W",
+"subject": "ECE",
+"number": "899W",
+"title": "Dissertation",
+"hours": 8.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 999W",
+"subject": "ECE",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

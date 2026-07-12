@@ -1,0 +1,172 @@
+{
+"code": "LAL",
+"name": "Indigenous Languages of Latin America",
+"courses": [
+{
+"id": "LAL 601C",
+"subject": "LAL",
+"number": "601C",
+"title": "Intensive Indigenous Language of Latin America I",
+"hours": 6.0,
+"division": "lower",
+"description": "Introduction to an indigenous language of Latin America. Designed to provide students with the basics of grammar and vocabulary; the to ability to engage in simple, colloquial conversation; and basic writing skills as foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAL 406",
+"subject": "LAL",
+"number": "406",
+"title": "First-Year Ancient Mayan I",
+"hours": 4.0,
+"division": "lower",
+"description": "Introduction to the grammar and hieroglyphic writing used to record Ancient Mayan as well as key elements of cultural and historical context that are crucial for interpreting texts, including calendrics and political history. Four lecture hours a week for one semester."
+},
+{
+"id": "LAL 407",
+"subject": "LAL",
+"number": "407",
+"title": "First-Year Ancient Mayan II",
+"hours": 4.0,
+"division": "lower",
+"description": "Explore basic functions of the script and language, how hieroglyphic texts are structured, and how the rich Classic Maya iconographic tradition interacts with and complements the textual tradition. Four lecture hours a week for one semester. Prerequisite: Indigenous Languages of Latin America 406.",
+"prereqText": "Indigenous Languages of Latin America 406.",
+"prereq": {
+"type": "course",
+"id": "LAL 406"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAL 611C",
+"subject": "LAL",
+"number": "611C",
+"title": "Intensive Indigenous Language of Latin America II",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation in the study of an indigenous language of Latin America. Designed to introduce students to advanced subjects in grammar and vocabulary and develop advanced conversation, reading, and writing skills as a foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Indigenous Languages of Latin America 601C with a grade of at least C.",
+"prereqText": "Indigenous Languages of Latin America 601C with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "LAL 601C",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAL 312K",
+"subject": "LAL",
+"number": "312K",
+"title": "Second-Year Ancient Mayan I",
+"hours": 3.0,
+"division": "lower",
+"description": "Analyze problems in grammar and discourse in Ancient Mayan texts. Translate and interpret texts in detail to understand their structure, context, and broader meaning and purpose in their specific cultural and historical contexts. Examine the methods and tools of Maya epigraphy. Three lecture hours a week for one semester. Prerequisite: Indigenous Languages of Latin America 407.",
+"prereqText": "Indigenous Languages of Latin America 407.",
+"prereq": {
+"type": "course",
+"id": "LAL 407"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAL 312L",
+"subject": "LAL",
+"number": "312L",
+"title": "Second-Year Ancient Mayan II",
+"hours": 3.0,
+"division": "lower",
+"description": "Analyze calendrics, rhetorical structure, and variation in script and language from the earliest to the latest hieroglyphic inscriptions. Explore the latest advances and current debates in the research and humanistic study of Ancient Mayan language and hieroglyphic writing. Three lecture hours a week for one semester. Prerequisite: Indigenous Languages of Latin America 312K.",
+"prereqText": "Indigenous Languages of Latin America 312K.",
+"prereq": {
+"type": "course",
+"id": "LAL 312K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAL 321",
+"subject": "LAL",
+"number": "321",
+"title": "Third-Year Indigenous Language of Latin America I",
+"hours": 3.0,
+"division": "upper",
+"description": "Advanced study of an indigenous language of Latin America, with an emphasis on advanced conversation and reading skills. Particular attention is given to cultural issues and discussion in the target language. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Indigenous Languages of Latin America 611C with a grade of at least C.",
+"prereqText": "Indigenous Languages of Latin America 611C with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "LAL 611C",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAL 322",
+"subject": "LAL",
+"number": "322",
+"title": "Third-Year Indigenous Language II",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Indigenous Languages of Latin America 321.",
+"prereqText": "Indigenous Languages of Latin America 321.",
+"prereq": {
+"type": "course",
+"id": "LAL 321"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAL 330",
+"subject": "LAL",
+"number": "330",
+"title": "Topics in Language, Culture, and Linguistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Indigenous Languages of Latin America 611C.",
+"prereqText": "Indigenous Languages of Latin America 611C.",
+"prereq": {
+"type": "course",
+"id": "LAL 611C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAL 385K",
+"subject": "LAL",
+"number": "385K",
+"title": "Intensive Graduate Language Instruction I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive cultural and literacy-focused training in an indigenous language at the beginning level in preparation for research. Six lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of graduate adviser.",
+"prereqText": "Graduate standing and consent of graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAL 385L",
+"subject": "LAL",
+"number": "385L",
+"title": "Intensive Graduate Language Instruction II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive cultural and literacy-focused training in an indigenous language at the intermediate level in preparation for research. Six lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Indigenous Languages of Latin America 385K and consent of graduate adviser.",
+"prereqText": "Indigenous Languages of Latin America 385K and consent of graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "LAL 385K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAL 385M",
+"subject": "LAL",
+"number": "385M",
+"title": "Intensive Graduate Language Instruction III",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive cultural and literacy-focused training in an indigenous language at the intermediate/advanced level in preparation for research. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Indigenous Languages of Latin America 385L and consent of graduate adviser.",
+"prereqText": "Indigenous Languages of Latin America 385L and consent of graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "LAL 385L"
+},
+"prereqConfidence": "high"
+}
+]
+}

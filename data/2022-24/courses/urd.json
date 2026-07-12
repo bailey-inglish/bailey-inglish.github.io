@@ -1,0 +1,294 @@
+{
+"code": "URD",
+"name": "Urdu",
+"courses": [
+{
+"id": "URD 604",
+"subject": "URD",
+"number": "604",
+"title": "Accelerated First-Year Urdu",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed for students who have some knowledge of spoken Urdu but have not studied Urdu formally. Six lecture hours a week for one semester. Hindi 604 and Urdu 604 may not both be counted; Hindi 506 and Urdu 604 may not both be counted; Hindi 507 and Urdu 604 may not both be counted; Urdu 604 and 506 may not both be counted; Urdu 604 and 507 may not both be counted."
+},
+{
+"id": "URD 506",
+"subject": "URD",
+"number": "506",
+"title": "First-Year Urdu I",
+"hours": 5.0,
+"division": "lower",
+"description": "Not open to native speakers of Urdu. Five class hours a week for one semester. Urdu 604 and 506 may not both be counted."
+},
+{
+"id": "URD 507",
+"subject": "URD",
+"number": "507",
+"title": "First-Year Urdu II",
+"hours": 5.0,
+"division": "lower",
+"description": "Not open to native speakers of Urdu. Five class hours a week for one semester. Urdu 604 and 507 may not both be counted. Prerequisite: Urdu 506 with a grade of at least C.",
+"prereqText": "Urdu 506 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "URD 506",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "URD 612",
+"subject": "URD",
+"number": "612",
+"title": "Accelerated Second-Year Urdu",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation of Urdu 604. Six lecture hours a week for one semester. Urdu 612 and 312K may not both be counted; Urdu 612 and 312L may not both be counted. Prerequisite: Urdu 604 with a grade of at least C.",
+"prereqText": "Urdu 604 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "URD 604",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "URD 312K",
+"subject": "URD",
+"number": "312K",
+"title": "Second-Year Urdu I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native speakers of Urdu. Introduction to the Urdu script, followed by Urdu reading, composition, and conversation. Three lecture hours a week for one semester. Urdu 612 and 312K may not both be counted. Prerequisite: Urdu 507 with a grade of at least C.",
+"prereqText": "Urdu 507 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "URD 507",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "URD 312L",
+"subject": "URD",
+"number": "312L",
+"title": "Second-Year Urdu II",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native speakers of Urdu. Continuation of Urdu 312K. Three lecture hours a week for one semester. Urdu 612 and 312L may not both be counted. Prerequisite: Urdu 312K with a grade of at least C.",
+"prereqText": "Urdu 312K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "URD 312K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "URD 118K",
+"subject": "URD",
+"number": "118K",
+"title": "Practice in Spoken Urdu I",
+"hours": 1.0,
+"division": "lower",
+"description": "Not open to native speakers of Urdu. Instruction and practice in conversation for intermediate-level students. Two lecture hours a week for one semester. Prerequisite: Urdu 507 with a grade of at least C.",
+"prereqText": "Urdu 507 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "URD 507",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "URD 118L",
+"subject": "URD",
+"number": "118L",
+"title": "Practice in Spoken Urdu II",
+"hours": 1.0,
+"division": "lower",
+"description": "Not open to native speakers of Urdu. Two lecture hours a week for one semester. Prerequisite: Urdu 118K with a grade of at least C.",
+"prereqText": "Urdu 118K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "URD 118K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "URD 129S",
+"subject": "URD",
+"number": "129S",
+"title": "Topics in Urdu",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URD 229S",
+"subject": "URD",
+"number": "229S",
+"title": "Topics in Urdu",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URD 329S",
+"subject": "URD",
+"number": "329S",
+"title": "Topics in Urdu",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URD 429S",
+"subject": "URD",
+"number": "429S",
+"title": "Topics in Urdu",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URD 529S",
+"subject": "URD",
+"number": "529S",
+"title": "Topics in Urdu",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URD 629S",
+"subject": "URD",
+"number": "629S",
+"title": "Topics in Urdu",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URD 729S",
+"subject": "URD",
+"number": "729S",
+"title": "Topics in Urdu",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URD 829S",
+"subject": "URD",
+"number": "829S",
+"title": "Topics in Urdu",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URD 929S",
+"subject": "URD",
+"number": "929S",
+"title": "Topics in Urdu",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URD 330",
+"subject": "URD",
+"number": "330",
+"title": "Topics in Urdu Language and Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of specific subjects related to Urdu culture as reflected in literary productions and other modes of expression. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Urdu 312L with a grade of at least C.",
+"prereqText": "Urdu 312L with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "URD 312L",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "URD 130D",
+"subject": "URD",
+"number": "130D",
+"title": "Urdu Across Disciplines",
+"hours": 1.0,
+"division": "upper",
+"description": "Reading of Urdu language materials related to the subject matter of another designated course in Asian studies. One lecture hour a week for one semester. May not be counted toward fulfillment of the foreign language requirement for any bachelor's degree. May be repeated for credit. Prerequisite: Registration for an appropriate Asian studies course, and written consent of instructor on form obtained from the undergraduate adviser.",
+"prereqText": "Registration for an appropriate Asian studies course, and written consent of instructor on form obtained from the undergraduate adviser.",
+"prereqConfidence": "none",
+"excluded": "fulfillment of the foreign language requirement for any bachelor's degree"
+},
+{
+"id": "URD 330G",
+"subject": "URD",
+"number": "330G",
+"title": "Gender and Sexuality in Urdu-Hindi",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Urdu 330 (Topic: Gender/Sexuality In Urdu-Hindi) and 330G may not both be counted. Prerequisite: Urdu 312L with a grade of at least C.",
+"prereqText": "Urdu 312L with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "URD 312L",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "URD 332",
+"subject": "URD",
+"number": "332",
+"title": "Style and Register in Urdu",
+"hours": 3.0,
+"division": "upper",
+"description": "Practice of skills in reading, listening, writing, and speaking for everyday social situations and some formal situations. Relevant to students working toward the \"Advanced\" level on the American Council for the Teaching of Foreign Languages (ACTFL) proficiency scale, equivalent to level 2 on the Interagency Language Roundtable (ILR) scale. Three lecture hours a week for one semester. Urdu 330 (Topic: Style and Register in Urdu) and 332 may not both be counted. Prerequisite: Urdu 312L with a grade of at least C.",
+"prereqText": "Urdu 312L with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "URD 312L",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "URD 360",
+"subject": "URD",
+"number": "360",
+"title": "Conference Course in Urdu Language and Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in Urdu language or literature. Conference course. May be repeated for credit. Prerequisite: Upper-division standing and written consent of instructor on form obtained from the undergraduate adviser.",
+"prereqText": "Upper-division standing and written consent of instructor on form obtained from the undergraduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "URD 381",
+"subject": "URD",
+"number": "381",
+"title": "Conference Course in Urdu Language and Culture",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised individual study. The equivalent of three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and written consent of instructor on form obtained from the graduate coordinator.",
+"prereqText": "Graduate standing and written consent of instructor on form obtained from the graduate coordinator.",
+"prereqConfidence": "none"
+},
+{
+"id": "URD 384",
+"subject": "URD",
+"number": "384",
+"title": "Topics in Urdu Language and Culture",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of various aspects and periods of Urdu language and culture. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and six semester hours of upper-division coursework in Urdu with a grade of at least C; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing, and six semester hours of upper-division coursework in Urdu with a grade of at least C; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+}
+]
+}

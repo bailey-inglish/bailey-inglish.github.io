@@ -1,0 +1,129 @@
+{
+"code": "STS",
+"name": "Science, Technology, and Society",
+"courses": [
+{
+"id": "STS 101",
+"subject": "STS",
+"number": "101",
+"title": "Key Ideas and Issues in Science, Technology, and Society",
+"hours": 1.0,
+"division": "lower",
+"description": "Designed to introduce students to the main areas of interest in science, technology, and society. Lectures, readings, and discussions include speakers from various academic disciplines. One lecture hour a week for one semester. Offered on the pass/fail basis only.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "STS 311",
+"subject": "STS",
+"number": "311",
+"title": "Topics in Science, Technology, and Society",
+"hours": 3.0,
+"division": "lower",
+"description": "Some topics may include an academic service-learning component. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "STS 318",
+"subject": "STS",
+"number": "318",
+"title": "How We Shape Discoveries and How They Shape Us",
+"hours": 3.0,
+"division": "lower",
+"description": "Technical, historical, and cultural approaches to the multiple dimensions and complexities of scientific and technological innovation, and how they shape and are shaped by society. Cases for discussion are drawn from energy discoveries, nanoscience, biomedicine, and materials science advances. Three lecture hours a week for one semester."
+},
+{
+"id": "STS 319",
+"subject": "STS",
+"number": "319",
+"title": "Information Technology and Social Life",
+"hours": 3.0,
+"division": "lower",
+"description": "The impact of technologies on social life, and the necessity for applying skills developed in the liberal arts to managing new ways of life mediated through technologies, including work and home environments. Includes an academic service-learning component. Three lecture hours a week for one semester."
+},
+{
+"id": "STS 321",
+"subject": "STS",
+"number": "321",
+"title": "Introduction to Science, Technology, and Society",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the history of communication technology, including how past innovations shaped societies and how current changes are transforming human cultures, universities, and the liberal arts. Three lecture hours a week for one semester. Prerequisite: Completion of at least thirty semester hours of coursework.",
+"prereqText": "Completion of at least thirty semester hours of coursework.",
+"prereqConfidence": "none"
+},
+{
+"id": "STS 331",
+"subject": "STS",
+"number": "331",
+"title": "Topics in Science, Technology, and Society",
+"hours": 3.0,
+"division": "upper",
+"description": "Some topics may include an academic service-learning component. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "STS 332",
+"subject": "STS",
+"number": "332",
+"title": "The Nanotechnology and Science Revolution",
+"hours": 3.0,
+"division": "upper",
+"description": "The societal impacts of nanotechnology and how this emerging technology might transform the future of technologies, manufacturing, and innovation. Three lecture hours a week for one semester. Science, Technology, and Society 331 (Topic: Impacts of Science: Nanotechnology, Technology, and Life) and 332 may not both be counted."
+},
+{
+"id": "STS 360",
+"subject": "STS",
+"number": "360",
+"title": "Senior Seminar in Science, Technology, and Society",
+"hours": 3.0,
+"division": "upper",
+"description": "Senior capstone seminar. Allows the student to integrate the knowledge he or she has gained in the major field of study with that provided by the concentration in science, technology, and society. Three lecture hours a week for one semester. Prerequisite: Completion of at least ninety semester hours of coursework, including Science, Technology, and Society 321.",
+"prereqText": "Completion of at least ninety semester hours of coursework, including Science, Technology, and Society 321.",
+"prereq": {
+"type": "course",
+"id": "STS 321"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "STS 367",
+"subject": "STS",
+"number": "367",
+"title": "Conference Course in Science, Technology, and Society",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised work on specific projects in science, technology, and society. Three conference hours a week for one semester. May be repeated for credit. Prerequisite: Completion of at least thirty-six semester hours of coursework and approval of written application by the supervising instructor.",
+"prereqText": "Completion of at least thirty-six semester hours of coursework and approval of written application by the supervising instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "STS 370",
+"subject": "STS",
+"number": "370",
+"title": "Research Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised fieldwork in a business or community setting related to the student's career and research interests. Approximately six to ten hours of work a week for one semester, to be arranged with faculty member and internship sponsor. May be repeated for credit, but no more than six semester hours of Science, Technology, and Society 370 may be counted toward the concentration requirement. Prerequisite: Science, Technology, and Society 321, upper-division standing, and consent of instructor.",
+"prereqText": "Science, Technology, and Society 321, upper-division standing, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "STS 321"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "STS 380",
+"subject": "STS",
+"number": "380",
+"title": "Proseminar: Current Issues in the Societal Impact of Science and Technology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Overview of the fundamentals of the practice of science, and of science as a human enterprise that interacts with and transforms cultural views, ideas, and habits. Includes lectures by natural scientists, engineers, and social scientists on the societal impact of rapid scientific technological developments from the perspectives of their individual disciplines. Students complete a comprehensive research project on a topic related to the course. Three lecture hours a week for one semester. May not be repeated for credit. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

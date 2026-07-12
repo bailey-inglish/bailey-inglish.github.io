@@ -1,0 +1,603 @@
+{
+"code": "TUR",
+"name": "Turkish",
+"courses": [
+{
+"id": "TUR 601C",
+"subject": "TUR",
+"number": "601C",
+"title": "Intensive Turkish I",
+"hours": 6.0,
+"division": "lower",
+"description": "First semester of intensive Turkish language instruction. Six lecture hours a week for one semester. Turkish 601C and 506 may not both be counted. Turkish 601C and 507 may not both be counted."
+},
+{
+"id": "TUR 506",
+"subject": "TUR",
+"number": "506",
+"title": "First-Year Turkish I",
+"hours": 5.0,
+"division": "lower",
+"description": "Modern Standard Turkish. Five lecture hours a week for one semester. Turkish 601C and 506 may not both be counted."
+},
+{
+"id": "TUR 507",
+"subject": "TUR",
+"number": "507",
+"title": "First-Year Turkish II",
+"hours": 5.0,
+"division": "lower",
+"description": "Modern Standard Turkish. Continuation of Turkish 506. Five lecture hours a week for one semester. Turkish 601C and 507 may not both be counted. Prerequisite: Turkish 506 with a grade of at least C.",
+"prereqText": "Turkish 506 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "TUR 506",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 611C",
+"subject": "TUR",
+"number": "611C",
+"title": "Intensive Turkish II",
+"hours": 6.0,
+"division": "lower",
+"description": "Second semester of intensive Turkish language instruction. Six lecture hours a week for one semester. Turkish 611C and 412K may not both be counted. Turkish 611C and 412L may not both be counted. Prerequisite: Turkish 601C or 507 with a grade of at least C.",
+"prereqText": "Turkish 601C or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "TUR 601C"
+},
+{
+"type": "course",
+"id": "TUR 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 412K",
+"subject": "TUR",
+"number": "412K",
+"title": "Second-Year Turkish I",
+"hours": 4.0,
+"division": "lower",
+"description": "Conversational Turkish and readings in contemporary Turkish literature and newspapers. Review of the grammar covered in Turkish 506 and 507, and introduction of more complex grammatical patterns. Four lecture hours a week for one semester. Turkish 611C and 412K may not both be counted. Prerequisite: Turkish 601C or 507 with a grade of at least C.",
+"prereqText": "Turkish 601C or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "TUR 601C"
+},
+{
+"type": "course",
+"id": "TUR 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 412L",
+"subject": "TUR",
+"number": "412L",
+"title": "Second-Year Turkish II",
+"hours": 4.0,
+"division": "lower",
+"description": "Continuation of Turkish 412K. Four lecture hours a week for one semester. Turkish 611C and 412L may not both be counted. Prerequisite: Turkish 412K with a grade of at least C.",
+"prereqText": "Turkish 412K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "TUR 412K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 119S",
+"subject": "TUR",
+"number": "119S",
+"title": "Topics in Turkish",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 219S",
+"subject": "TUR",
+"number": "219S",
+"title": "Topics in Turkish",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 319S",
+"subject": "TUR",
+"number": "319S",
+"title": "Topics in Turkish",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 419S",
+"subject": "TUR",
+"number": "419S",
+"title": "Topics in Turkish",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 519S",
+"subject": "TUR",
+"number": "519S",
+"title": "Topics in Turkish",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 619S",
+"subject": "TUR",
+"number": "619S",
+"title": "Topics in Turkish",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 719S",
+"subject": "TUR",
+"number": "719S",
+"title": "Topics in Turkish",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 819S",
+"subject": "TUR",
+"number": "819S",
+"title": "Topics in Turkish",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 919S",
+"subject": "TUR",
+"number": "919S",
+"title": "Topics in Turkish",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 320K",
+"subject": "TUR",
+"number": "320K",
+"title": "Intermediate Turkish I",
+"hours": 3.0,
+"division": "upper",
+"description": "Not open to native speakers of Turkish. Intermediate to high-level Turkish in four basic language skills: speaking, listening, reading, and writing. Turkish culture. Three lecture hours a week for one semester. Prerequisite: Turkish 611C or 412L with a grade of at least C.",
+"prereqText": "Turkish 611C or 412L with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "TUR 611C"
+},
+{
+"type": "course",
+"id": "TUR 412L",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 320L",
+"subject": "TUR",
+"number": "320L",
+"title": "Intermediate Turkish II",
+"hours": 3.0,
+"division": "upper",
+"description": "Not open to native speakers of Turkish. Continuation of Turkish 320K. Three lecture hours a week for one semester. Prerequisite: Turkish 320K with a grade of at least C.",
+"prereqText": "Turkish 320K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "TUR 320K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 325K",
+"subject": "TUR",
+"number": "325K",
+"title": "Advanced Turkish I",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to nonnative speakers of Turkish. Three lecture hours a week for one semester. Turkish 325K and 329 (Topic: Advanced Turkish I) may not both be counted. Prerequisite: Turkish 320L with a grade of at least C.",
+"prereqText": "Turkish 320L with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "TUR 320L",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to nonnative speakers of Turkish."
+},
+{
+"id": "TUR 325L",
+"subject": "TUR",
+"number": "325L",
+"title": "Advanced Turkish II",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to nonnative speakers of Turkish. Advanced Turkish language instruction. Three lecture hours a week for one semester. Turkish 325L and 329 (Topic: Advanced Turkish II) may not both be counted. Prerequisite: Turkish 325K or the equivalent.",
+"prereqText": "Turkish 325K or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "TUR 325K"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to nonnative speakers of Turkish."
+},
+{
+"id": "TUR 329",
+"subject": "TUR",
+"number": "329",
+"title": "Topics in Turkish Language, Literature, and Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Conducted in Turkish. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and Turkish 611C or 412L with a grade of at least C.",
+"prereqText": "Upper-division standing and Turkish 611C or 412L with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "TUR 611C"
+},
+{
+"type": "course",
+"id": "TUR 412L",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 329C",
+"subject": "TUR",
+"number": "329C",
+"title": "Turkish Cinema",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Turkish 329 (Topic: Turkish Cinema) and 329C may not both be counted. Prerequisite: Turkish 611C or 412L with a grade of at least C.",
+"prereqText": "Turkish 611C or 412L with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "TUR 611C"
+},
+{
+"type": "course",
+"id": "TUR 412L",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 329D",
+"subject": "TUR",
+"number": "329D",
+"title": "Turkish Society and Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore aspects of contemporary Turkish society and culture while building intercultural communicative competence in modern Turkish through listening, speaking, reading, and writing activities in and outside of class. Focus on daily life and material culture, and guides students to develop efficient reading, listening, and viewing strategies. Three lecture hours a week for one semester. Turkish 329 (Topic: Turkish Society and Culture) and 329D may not both be counted. Prerequisite: Upper-division standing, and Turkish 611C or 412L with a grade of at least C.",
+"prereqText": "Upper-division standing, and Turkish 611C or 412L with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "TUR 611C"
+},
+{
+"type": "course",
+"id": "TUR 412L",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 129S",
+"subject": "TUR",
+"number": "129S",
+"title": "Topics in Turkish",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 229S",
+"subject": "TUR",
+"number": "229S",
+"title": "Topics in Turkish",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 329S",
+"subject": "TUR",
+"number": "329S",
+"title": "Topics in Turkish",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 429S",
+"subject": "TUR",
+"number": "429S",
+"title": "Topics in Turkish",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 529S",
+"subject": "TUR",
+"number": "529S",
+"title": "Topics in Turkish",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 629S",
+"subject": "TUR",
+"number": "629S",
+"title": "Topics in Turkish",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 729S",
+"subject": "TUR",
+"number": "729S",
+"title": "Topics in Turkish",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 829S",
+"subject": "TUR",
+"number": "829S",
+"title": "Topics in Turkish",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 929S",
+"subject": "TUR",
+"number": "929S",
+"title": "Topics in Turkish",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 130D",
+"subject": "TUR",
+"number": "130D",
+"title": "Turkish across Disciplines",
+"hours": 1.0,
+"division": "upper",
+"description": "Students read and discuss Turkish language materials related to the subject matter of another designated course. One lecture hour a week for one semester. No more than three semester hours may be counted toward the major in either Middle Eastern Studies or Middle Eastern Languages and Culture. May be repeated for credit. Prerequisite: Upper-division standing, Turkish 320L, and consent of instructor.",
+"prereqText": "Upper-division standing, Turkish 320L, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "TUR 320L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 369",
+"subject": "TUR",
+"number": "369",
+"title": "Conference Course in Turkish Language and Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in Turkish language or literature. Conference course. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "TUR 380",
+"subject": "TUR",
+"number": "380",
+"title": "Topics in Turkish Language and Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of various aspects or eras of Turkish language and literature. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and Turkish 412L or the equivalent.",
+"prereqText": "Graduate standing, and Turkish 412L or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "TUR 412L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 381H",
+"subject": "TUR",
+"number": "381H",
+"title": "Intensive Graduate Language Instruction I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive cultural and literacy-focused training in Turkish at the beginning level in preparation for research in the Turkic-speaking world or with Turkish sources. Incoming students are placed in the appropriate level by means of a departmental placement test. Six lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "TUR 381J",
+"subject": "TUR",
+"number": "381J",
+"title": "Intensive Graduate Language Instruction II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive cultural and literacy-focused training in Turkish at the low-intermediate level in preparation for research in the Turkic-speaking world or with Turkish sources. Incoming students are placed in the appropriate level by means of a departmental placement test. Six lecture hours a week for one semester. Prerequisite: Graduate standing and Turkish 381H with a grade of at least B.",
+"prereqText": "Graduate standing and Turkish 381H with a grade of at least B.",
+"prereq": {
+"type": "course",
+"id": "TUR 381H",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 381K",
+"subject": "TUR",
+"number": "381K",
+"title": "Intermediate Graduate Language Instruction I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive cultural and literacy-focused training in Turkish at the intermediate level in preparation for research in the Turkic-speaking world or with Turkish sources. Includes an independent project component. Incoming students are placed in the appropriate level by means of a departmental placement test. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Turkish 381J with a grade of at least B.",
+"prereqText": "Graduate standing and Turkish 381J with a grade of at least B.",
+"prereq": {
+"type": "course",
+"id": "TUR 381J",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 381L",
+"subject": "TUR",
+"number": "381L",
+"title": "Intermediate Graduate Language Instruction II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive cultural and literacy-focused training in Turkish at the high-intermediate level in preparation for research in the Turkic-speaking world or with Turkish sources. Includes an independent project component. Incoming students are placed in the appropriate level by means of a placement test. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Turkish 381K with a grade of at least B.",
+"prereqText": "Graduate standing and Turkish 381K with a grade of at least B.",
+"prereq": {
+"type": "course",
+"id": "TUR 381K",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 381M",
+"subject": "TUR",
+"number": "381M",
+"title": "Advanced Language Instruction I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to non-native speakers of Turkish. Intensive cultural and literacy-focused training in Turkish at the advanced level in preparation for research in the Turkic-speaking world or with Turkish sources. Incoming students are placed in the appropriate level by means of a departmental placement test. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Turkish 381L or the equivalent with a grade of at least C.",
+"prereqText": "Graduate standing and Turkish 381L or the equivalent with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "TUR 381L",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to non-native speakers of Turkish."
+},
+{
+"id": "TUR 381N",
+"subject": "TUR",
+"number": "381N",
+"title": "Advanced Language Instruction II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to non-native speakers of Turkish. Intensive cultural and literacy-focused training in Turkish at the advanced level in preparation for research in the Turkic-speaking world or with Turkish sources. Incoming students are placed in the appropriate level by means of a departmental placement test. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Turkish 381M or the equivalent with a grade of at least C.",
+"prereqText": "Graduate standing and Turkish 381M or the equivalent with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "TUR 381M",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to non-native speakers of Turkish."
+},
+{
+"id": "TUR 382",
+"subject": "TUR",
+"number": "382",
+"title": "Topics in Turkish Culture",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "TUR 389",
+"subject": "TUR",
+"number": "389",
+"title": "Conference Course in Turkish Studies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised individual study of selected problems in Turkish studies. The equivalent of three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "TUR 390K",
+"subject": "TUR",
+"number": "390K",
+"title": "Advanced Turkish I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intermediate to high-level Turkish in four basic language skills: speaking, listening, reading, and writing. Turkish culture. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Turkish 412L or the equivalent.",
+"prereqText": "Graduate standing, and Turkish 412L or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "TUR 412L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 390L",
+"subject": "TUR",
+"number": "390L",
+"title": "Advanced Turkish II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Continuation of Turkish 390K. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Turkish 390K or the equivalent.",
+"prereqText": "Graduate standing, and Turkish 390K or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "TUR 390K"
+},
+"prereqConfidence": "high"
+}
+]
+}

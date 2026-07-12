@@ -1,0 +1,580 @@
+{
+"code": "HEB",
+"name": "Hebrew",
+"courses": [
+{
+"id": "HEB 601C",
+"subject": "HEB",
+"number": "601C",
+"title": "Intensive Hebrew I",
+"hours": 6.0,
+"division": "lower",
+"description": "First semester of intensive Hebrew language instruction. Six lecture hours a week for one semester. Hebrew 601C and 506 may not both be counted. Hebrew 601C and 507 may not both be counted."
+},
+{
+"id": "HEB 602C",
+"subject": "HEB",
+"number": "602C",
+"title": "Intensive Biblical Hebrew I",
+"hours": 6.0,
+"division": "lower",
+"description": "Introduction to the language and texts of the Hebrew Bible, taught in the interactive style of a modern language classroom. Six lecture hours a week for one semester."
+},
+{
+"id": "HEB 506",
+"subject": "HEB",
+"number": "506",
+"title": "First-Year Hebrew I",
+"hours": 5.0,
+"division": "lower",
+"description": "Not open to native speakers of Hebrew. Modern Israeli Hebrew, including the writing system, basic sentence structure, vocabulary, and simple conversation. Five lecture hours a week for one semester. Hebrew 601C and 506 may not both be counted."
+},
+{
+"id": "HEB 507",
+"subject": "HEB",
+"number": "507",
+"title": "First-Year Hebrew II",
+"hours": 5.0,
+"division": "lower",
+"description": "Not open to native speakers of Hebrew. Continuation of Hebrew 506. Five lecture hours a week for one semester. Hebrew 601C and 507 may not both be counted. Prerequisite: Hebrew 506 with a grade of at least C.",
+"prereqText": "Hebrew 506 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "HEB 506",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 611C",
+"subject": "HEB",
+"number": "611C",
+"title": "Intensive Hebrew II",
+"hours": 6.0,
+"division": "lower",
+"description": "Second semester of intensive Hebrew language instruction. Six lecture hours a week for one semester. Hebrew 611C and 412K may not both be counted. Hebrew 611C and 412L may not both be counted. Prerequisite: Hebrew 601C or 507 with a grade of at least C.",
+"prereqText": "Hebrew 601C or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "HEB 601C"
+},
+{
+"type": "course",
+"id": "HEB 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 612C",
+"subject": "HEB",
+"number": "612C",
+"title": "Intensive Biblical Hebrew II",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuing the study of the language and texts of the Hebrew Bible, taught in the interactive style of a modern language classroom. Six lecture hours a week for one semester. Prerequisite: Hebrew 602C with a grade of at least C.",
+"prereqText": "Hebrew 602C with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "HEB 602C",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 412K",
+"subject": "HEB",
+"number": "412K",
+"title": "Second-Year Hebrew I",
+"hours": 4.0,
+"division": "lower",
+"description": "Not open to native speakers of Hebrew. Modern Israeli Hebrew. Continuation of Hebrew 507 with expanded grammar and conversation. Four lecture hours a week for one semester. Hebrew 611C and 412K may not both be counted. Prerequisite: Hebrew 507 with a grade of at least C.",
+"prereqText": "Hebrew 507 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "HEB 507",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 412L",
+"subject": "HEB",
+"number": "412L",
+"title": "Second-Year Hebrew II",
+"hours": 4.0,
+"division": "lower",
+"description": "Not open to native speakers of Hebrew. Continuation of Hebrew 412K, with emphasis on conversation and composition. Four lecture hours a week for one semester. Hebrew 611C and 312L, 412L may not both be counted. Prerequisite: Hebrew 412K (or 312K) with a grade of at least C.",
+"prereqText": "Hebrew 412K (or 312K) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "HEB 412K"
+},
+{
+"type": "course",
+"id": "HEB 312K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 119S",
+"subject": "HEB",
+"number": "119S",
+"title": "Topics in Hebrew",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 219S",
+"subject": "HEB",
+"number": "219S",
+"title": "Topics in Hebrew",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 319S",
+"subject": "HEB",
+"number": "319S",
+"title": "Topics in Hebrew",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 419S",
+"subject": "HEB",
+"number": "419S",
+"title": "Topics in Hebrew",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 519S",
+"subject": "HEB",
+"number": "519S",
+"title": "Topics in Hebrew",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 619S",
+"subject": "HEB",
+"number": "619S",
+"title": "Topics in Hebrew",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 719S",
+"subject": "HEB",
+"number": "719S",
+"title": "Topics in Hebrew",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 819S",
+"subject": "HEB",
+"number": "819S",
+"title": "Topics in Hebrew",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 919S",
+"subject": "HEB",
+"number": "919S",
+"title": "Topics in Hebrew",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 320K",
+"subject": "HEB",
+"number": "320K",
+"title": "Hebrew via Popular Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Hebrew 320K and 346 (Topic 7: Hebrew via Popular Culture) may not both be counted. Prerequisite: Hebrew 611C or 412l (or 312L) with a grade of at least C.",
+"prereqText": "Hebrew 611C or 412l (or 312L) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "HEB 611C"
+},
+{
+"type": "course",
+"id": "HEB 312L",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 320L",
+"subject": "HEB",
+"number": "320L",
+"title": "Hebrew through the Media",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Hebrew 346 (Topic: Hebrew through the Media) and 320L may not both be counted. Prerequisite: Hebrew 611C.",
+"prereqText": "Hebrew 611C.",
+"prereq": {
+"type": "course",
+"id": "HEB 611C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 129S",
+"subject": "HEB",
+"number": "129S",
+"title": "Topics in Hebrew",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 229S",
+"subject": "HEB",
+"number": "229S",
+"title": "Topics in Hebrew",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 329S",
+"subject": "HEB",
+"number": "329S",
+"title": "Topics in Hebrew",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 429S",
+"subject": "HEB",
+"number": "429S",
+"title": "Topics in Hebrew",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 529S",
+"subject": "HEB",
+"number": "529S",
+"title": "Topics in Hebrew",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 629S",
+"subject": "HEB",
+"number": "629S",
+"title": "Topics in Hebrew",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 729S",
+"subject": "HEB",
+"number": "729S",
+"title": "Topics in Hebrew",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 829S",
+"subject": "HEB",
+"number": "829S",
+"title": "Topics in Hebrew",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 929S",
+"subject": "HEB",
+"number": "929S",
+"title": "Topics in Hebrew",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HEB 130D",
+"subject": "HEB",
+"number": "130D",
+"title": "Hebrew across Disciplines",
+"hours": 1.0,
+"division": "upper",
+"description": "Students read and discuss Hebrew language materials related to the subject matter of another designated course. One lecture hour a week for one semester. No more than three semester hours may be counted toward the major in either Middle Eastern Studies or Middle Eastern Languages and Culture. May be repeated for credit. Prerequisite: Upper-division standing, Hebrew 611C or 412L, and consent of instructor.",
+"prereqText": "Upper-division standing, Hebrew 611C or 412L, and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "HEB 611C"
+},
+{
+"type": "course",
+"id": "HEB 412L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 346",
+"subject": "HEB",
+"number": "346",
+"title": "Topics in Hebrew Language, Literature, and Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Hebrew 320L.",
+"prereqText": "Hebrew 320L.",
+"prereq": {
+"type": "course",
+"id": "HEB 320L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 346C",
+"subject": "HEB",
+"number": "346C",
+"title": "Innovation and Technology in Israel",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Hebrew 346 (Topic: Innovation & Tech In Israel) and 346C may not both be counted. Prerequisite: Hebrew 320L.",
+"prereqText": "Hebrew 320L.",
+"prereq": {
+"type": "course",
+"id": "HEB 320L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 369",
+"subject": "HEB",
+"number": "369",
+"title": "Conference Course in Hebrew Language and Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in Hebrew language or literature. Conference course. May be repeated for credit. Prerequisite: Six semester hours of upper-division coursework in Hebrew and consent of instructor.",
+"prereqText": "Six semester hours of upper-division coursework in Hebrew and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "HEB 380C",
+"subject": "HEB",
+"number": "380C",
+"title": "Topics in Hebrew Language",
+"hours": 3.0,
+"division": "graduate",
+"description": "Taught in English with readings in Hebrew. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "HEB 381H",
+"subject": "HEB",
+"number": "381H",
+"title": "Intensive Graduate Language Instruction I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive cultural and literacy-focused training in Hebrew at the beginning level in preparation for research with Hebrew sources. Incoming students are placed in the appropriate level by means of a departmental placement test. Six lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "HEB 381J",
+"subject": "HEB",
+"number": "381J",
+"title": "Intensive Graduate Language Instruction II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive cultural and literacy-focused training in Hebrew at the intermediate level in preparation for research with Hebrew sources. Incoming students are placed in the appropriate level by means of a departmental placement test. Six lecture hours a week for one semester. Prerequisite: Graduate standing and Hebrew 381H with a grade of at least B.",
+"prereqText": "Graduate standing and Hebrew 381H with a grade of at least B.",
+"prereq": {
+"type": "course",
+"id": "HEB 381H",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 381K",
+"subject": "HEB",
+"number": "381K",
+"title": "Intensive Biblical Language Instruction I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to the language and texts of the Hebrew Bible, taught in the interactive style of a modern language classroom. Six lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "HEB 381L",
+"subject": "HEB",
+"number": "381L",
+"title": "Intensive Biblical Language Instruction II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Continuing the study of the language and texts of the Hebrew Bible, taught in the interactive style of a modern language classroom. Six lecture hours a week for one semester. Prerequisite: Graduate standing and Hebrew 381K with a grade of at least C.",
+"prereqText": "Graduate standing and Hebrew 381K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "HEB 381K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 381M",
+"subject": "HEB",
+"number": "381M",
+"title": "Hebrew Via Popular Culture",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Prerequisite: Graduate standing and Hebrew 381J or the equivalent with a grade of at least C.",
+"prereqText": "Graduate standing and Hebrew 381J or the equivalent with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "HEB 381J",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 381N",
+"subject": "HEB",
+"number": "381N",
+"title": "Hebrew Through the Media",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Prerequisite: Graduate standing and Hebrew 381M or the equivalent with a grade of at least C.",
+"prereqText": "Graduate standing and Hebrew 381M or the equivalent with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "HEB 381M",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HEB 384C",
+"subject": "HEB",
+"number": "384C",
+"title": "Topics in Hebrew Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "HEB 385",
+"subject": "HEB",
+"number": "385",
+"title": "Hebrew Literature in Translation and Israeli Media",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of selected works of Hebrew literature in English translation and Israeli film and television programs with English subtitles. Three lecture hours a week for one semester; additional hours may be required for some topics. May be repeated for credit when the topics vary, but no more than six hours may be counted toward the Master of Arts or the Doctor of Philosophy in Hebrew studies. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "HEB 389",
+"subject": "HEB",
+"number": "389",
+"title": "Conference Course in Hebrew Studies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised individual study of selected problems in Hebrew studies. Conference course. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "HEB 698",
+"subject": "HEB",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Hebrew studies and consent of the graduate adviser; for 698B, Hebrew 698A.",
+"prereqText": "For 698A, graduate standing in Hebrew studies and consent of the graduate adviser; for 698B, Hebrew 698A.",
+"prereq": {
+"type": "course",
+"id": "HEB 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "HEB 399W",
+"subject": "HEB",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "HEB 699W",
+"subject": "HEB",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "HEB 999W",
+"subject": "HEB",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

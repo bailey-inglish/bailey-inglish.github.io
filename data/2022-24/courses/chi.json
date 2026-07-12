@@ -1,0 +1,550 @@
+{
+"code": "CHI",
+"name": "Chinese",
+"courses": [
+{
+"id": "CHI 604",
+"subject": "CHI",
+"number": "604",
+"title": "Accelerated First-Year Chinese",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed for students who understand or speak but do not read or write Mandarin Chinese. Six class hours a week for one semester. Chinese 604 and 506 may not both be counted; Chinese 604 and 507 may not both be counted. Prerequisite: Results on the placement examination in Chinese that indicate that the student is ineligible to receive credit for Chinese 507. If the student is eligible to receive credit by examination for Chinese 506, this credit must not appear on the student's record.",
+"prereqText": "Results on the placement examination in Chinese that indicate that the student is ineligible to receive credit for Chinese 507. If the student is eligible to receive credit by examination for Chinese 506, this credit must not appear on the student's record.",
+"prereqConfidence": "low"
+},
+{
+"id": "CHI 506",
+"subject": "CHI",
+"number": "506",
+"title": "First-Year Chinese I",
+"hours": 5.0,
+"division": "lower",
+"description": "Modern Standard Chinese (Mandarin). Intended for students who do not understand or speak Mandarin Chinese. Six lecture hours a week for one semester. Chinese 604 and 506, 606 may not both be counted."
+},
+{
+"id": "CHI 606",
+"subject": "CHI",
+"number": "606",
+"title": "First-Year Chinese I",
+"hours": 6.0,
+"division": "lower",
+"description": "Modern Standard Chinese (Mandarin). Intended for students who do not understand or speak Mandarin Chinese. Six lecture hours a week for one semester. Chinese 604 and 506, 606 may not both be counted."
+},
+{
+"id": "CHI 507",
+"subject": "CHI",
+"number": "507",
+"title": "First-Year Chinese II",
+"hours": 5.0,
+"division": "lower",
+"description": "Continuation of Chinese 506, 606. Intended for non-native speakers of Chinese. Six lecture hours a week for one semester. Chinese 604 and 507, 607 may not both be counted. Prerequisite: Chinese 506, 606 with a grade of at least C.",
+"prereqText": "Chinese 506, 606 with a grade of at least C.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHI 506"
+},
+{
+"type": "course",
+"id": "CHI 606",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 607",
+"subject": "CHI",
+"number": "607",
+"title": "First-Year Chinese II",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation of Chinese 506, 606. Intended for non-native speakers of Chinese. Six lecture hours a week for one semester. Chinese 604 and 507, 607 may not both be counted. Prerequisite: Chinese 506, 606 with a grade of at least C.",
+"prereqText": "Chinese 506, 606 with a grade of at least C.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHI 506"
+},
+{
+"type": "course",
+"id": "CHI 606",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 612",
+"subject": "CHI",
+"number": "612",
+"title": "Accelerated Second-Year Chinese",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation of Chinese 604. Six class hours a week for one semester. Chinese 612 and 412K may not both be counted; Chinese 612 and 412L may not both be counted. Prerequisite: Chinese 604 with a grade of at least C.",
+"prereqText": "Chinese 604 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "CHI 604",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 312K",
+"subject": "CHI",
+"number": "312K",
+"title": "Second-Year Chinese I",
+"hours": 3.0,
+"division": "lower",
+"description": "Modern Standard Chinese (Mandarin). Intended for non-native speakers of Chinese. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Chinese 612 and 312K, 412K may not both be counted. Prerequisite: Chinese 507, 607 with a grade of at least C.",
+"prereqText": "Chinese 507, 607 with a grade of at least C.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHI 507"
+},
+{
+"type": "course",
+"id": "CHI 607",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 412K",
+"subject": "CHI",
+"number": "412K",
+"title": "Second-Year Chinese I",
+"hours": 4.0,
+"division": "lower",
+"description": "Modern Standard Chinese (Mandarin). Intended for non-native speakers of Chinese. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Chinese 612 and 312K, 412K may not both be counted. Prerequisite: Chinese 507, 607 with a grade of at least C.",
+"prereqText": "Chinese 507, 607 with a grade of at least C.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHI 507"
+},
+{
+"type": "course",
+"id": "CHI 607",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 312L",
+"subject": "CHI",
+"number": "312L",
+"title": "Second-Year Chinese II",
+"hours": 3.0,
+"division": "lower",
+"description": "Intended for non-native speakers of Chinese. Continuation of Chinese 312K, 412K. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Chinese 612 and 312L, 412L may not both be counted. Prerequisite: Chinese 312K, 412K with a grade of at least C.",
+"prereqText": "Chinese 312K, 412K with a grade of at least C.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHI 312K"
+},
+{
+"type": "course",
+"id": "CHI 412K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 412L",
+"subject": "CHI",
+"number": "412L",
+"title": "Second-Year Chinese II",
+"hours": 4.0,
+"division": "lower",
+"description": "Intended for non-native speakers of Chinese. Continuation of Chinese 312K, 412K. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Chinese 612 and 312L, 412L may not both be counted. Prerequisite: Chinese 312K, 412K with a grade of at least C.",
+"prereqText": "Chinese 312K, 412K with a grade of at least C.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CHI 312K"
+},
+{
+"type": "course",
+"id": "CHI 412K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 119S",
+"subject": "CHI",
+"number": "119S",
+"title": "Topics in Chinese",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 219S",
+"subject": "CHI",
+"number": "219S",
+"title": "Topics in Chinese",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 319S",
+"subject": "CHI",
+"number": "319S",
+"title": "Topics in Chinese",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 419S",
+"subject": "CHI",
+"number": "419S",
+"title": "Topics in Chinese",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 519S",
+"subject": "CHI",
+"number": "519S",
+"title": "Topics in Chinese",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 619S",
+"subject": "CHI",
+"number": "619S",
+"title": "Topics in Chinese",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 719S",
+"subject": "CHI",
+"number": "719S",
+"title": "Topics in Chinese",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 819S",
+"subject": "CHI",
+"number": "819S",
+"title": "Topics in Chinese",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 919S",
+"subject": "CHI",
+"number": "919S",
+"title": "Topics in Chinese",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 320K",
+"subject": "CHI",
+"number": "320K",
+"title": "Readings in Modern Chinese I",
+"hours": 3.0,
+"division": "upper",
+"description": "Readings in expository prose: selections from journals, newspapers, and other sources. Three lecture hours a week for one semester. Prerequisite: Chinese 612 or 412L with a grade of at least C.",
+"prereqText": "Chinese 612 or 412L with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CHI 612"
+},
+{
+"type": "course",
+"id": "CHI 412L",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 320L",
+"subject": "CHI",
+"number": "320L",
+"title": "Readings in Modern Chinese II",
+"hours": 3.0,
+"division": "upper",
+"description": "Readings in modern fiction, poetry, and drama. Three lecture hours a week for one semester. Prerequisite: Chinese 320K with a grade of at least C.",
+"prereqText": "Chinese 320K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "CHI 320K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 322",
+"subject": "CHI",
+"number": "322",
+"title": "Introduction to Classical Chinese",
+"hours": 3.0,
+"division": "upper",
+"description": "Beginning study of wen yen, the particles, and syntax of the Chinese classics. Three lecture hours a week for one semester. Prerequisite: Chinese 612 or 412L with a grade of at least C.",
+"prereqText": "Chinese 612 or 412L with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CHI 612"
+},
+{
+"type": "course",
+"id": "CHI 412L",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 325K",
+"subject": "CHI",
+"number": "325K",
+"title": "Advanced Conversation I",
+"hours": 3.0,
+"division": "upper",
+"description": "Not open to native speakers of Chinese. Drill in conversation on general topics. Three lecture hours a week for one semester. Prerequisite: Chinese 412L with a grade of at least C.",
+"prereqText": "Chinese 412L with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "CHI 412L",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 325L",
+"subject": "CHI",
+"number": "325L",
+"title": "Advanced Conversation II",
+"hours": 3.0,
+"division": "upper",
+"description": "Not open to native speakers of Chinese. Practice in speaking Modern Standard Chinese. Three lecture hours a week for one semester. Prerequisite: Chinese 325K with a grade of at least C.",
+"prereqText": "Chinese 325K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "CHI 325K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 326",
+"subject": "CHI",
+"number": "326",
+"title": "Business Chinese",
+"hours": 3.0,
+"division": "upper",
+"description": "Advanced Chinese conversation, with emphasis on business vocabulary. Three lecture hours a week for one semester. Chinese 326 and 330 (Topic: Business Chinese) may not both be counted. Prerequisite: Chinese 612, 320K, or 325K with a grade of at least C.",
+"prereqText": "Chinese 612, 320K, or 325K with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "CHI 129S",
+"subject": "CHI",
+"number": "129S",
+"title": "Topics in Chinese",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 229S",
+"subject": "CHI",
+"number": "229S",
+"title": "Topics in Chinese",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 329S",
+"subject": "CHI",
+"number": "329S",
+"title": "Topics in Chinese",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 429S",
+"subject": "CHI",
+"number": "429S",
+"title": "Topics in Chinese",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 529S",
+"subject": "CHI",
+"number": "529S",
+"title": "Topics in Chinese",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 629S",
+"subject": "CHI",
+"number": "629S",
+"title": "Topics in Chinese",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 729S",
+"subject": "CHI",
+"number": "729S",
+"title": "Topics in Chinese",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 829S",
+"subject": "CHI",
+"number": "829S",
+"title": "Topics in Chinese",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 929S",
+"subject": "CHI",
+"number": "929S",
+"title": "Topics in Chinese",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CHI 130D",
+"subject": "CHI",
+"number": "130D",
+"title": "Chinese across Disciplines",
+"hours": 1.0,
+"division": "upper",
+"description": "Reading and discussion of Chinese language materials related to the subject matter of another designated course in Asian studies. Meetings with the instructor will be devoted to the discussion of linguistic problems, literary features, and crucial passages. Individual instruction. May not be counted toward fulfillment of the foreign language requirement for any bachelor's degree. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Upper-division standing, concurrent enrollment in an appropriate Asian studies course, and written consent of instructor on form obtained from the undergraduate adviser.",
+"prereqText": "Upper-division standing, concurrent enrollment in an appropriate Asian studies course, and written consent of instructor on form obtained from the undergraduate adviser.",
+"prereqConfidence": "none",
+"excluded": "fulfillment of the foreign language requirement for any bachelor's degree",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CHI 340",
+"subject": "CHI",
+"number": "340",
+"title": "Topics in Chinese Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of Chinese literary texts in the original. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Chinese 320K with a grade of at least C.",
+"prereqText": "Chinese 320K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "CHI 320K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 341",
+"subject": "CHI",
+"number": "341",
+"title": "Classical Chinese Poetry",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of Chinese poetry in the original. Three lecture hours a week for one semester. Chinese 340 (Topic: Classical Chinese Poetry) and 341 may not both be counted. Prerequisite: Chinese 320K with a grade of at least C.",
+"prereqText": "Chinese 320K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "CHI 320K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHI 360",
+"subject": "CHI",
+"number": "360",
+"title": "Conference Course in Chinese Language and Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in Chinese language or literature. Conference course. May be repeated for credit. Prerequisite: Upper-division standing and written consent of instructor on form obtained from the undergraduate adviser.",
+"prereqText": "Upper-division standing and written consent of instructor on form obtained from the undergraduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHI 381",
+"subject": "CHI",
+"number": "381",
+"title": "Conference Course in Chinese Language and Culture",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised individual study in Chinese language or culture. The equivalent of three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and written consent of instructor on form obtained from the graduate coordinator.",
+"prereqText": "Graduate standing and written consent of instructor on form obtained from the graduate coordinator.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHI 384",
+"subject": "CHI",
+"number": "384",
+"title": "Topics in Chinese Language and Culture",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of various aspects and periods of Chinese language or culture. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+}
+]
+}

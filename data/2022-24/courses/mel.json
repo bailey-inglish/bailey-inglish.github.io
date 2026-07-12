@@ -1,0 +1,347 @@
+{
+"code": "MEL",
+"name": "Middle Eastern Languages and Cultures",
+"courses": [
+{
+"id": "MEL 301",
+"subject": "MEL",
+"number": "301",
+"title": "Gateway to the Middle East",
+"hours": 3.0,
+"division": "lower",
+"description": "Same as Middle Eastern Studies 301C. Three lecture hours a week for one semester. Middle Eastern Languages and Cultures 301 and Middle Eastern Studies 301C may not both be counted.",
+"sameAs": "Middle Eastern Studies 301C"
+},
+{
+"id": "MEL 301J",
+"subject": "MEL",
+"number": "301J",
+"title": "The Ancient Middle East",
+"hours": 3.0,
+"division": "lower",
+"description": "Same as Ancient History and Classical Civilization 310 (Topic 3), History 306Q, and Middle Eastern Studies 301J. Survey the history of the Middle East from the beginning of the Neolithic period (9000 BCE) through the invasion of the region by Alexander the Great in 332 BCE and into the pre-Islamic era. Three lecture hours a week for one semester. Only one of the following may be counted: Ancient History and Classical Civilization 310 (Topic 3), History 306Q, Middle Eastern Languages and Cultures 301J, Middle Eastern Studies 301J.",
+"sameAs": "Ancient History and Classical Civilization 310 (Topic 3), History 306Q, and Middle Eastern Studies 301J"
+},
+{
+"id": "MEL 321",
+"subject": "MEL",
+"number": "321",
+"title": "Topics in Middle Eastern Languages and Cultures",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Only one of the following may be counted unless the topics vary: Islamic Studies 372, Middle Eastern Languages and Cultures 321, Middle Eastern Studies 342. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 321C",
+"subject": "MEL",
+"number": "321C",
+"title": "Iranian and Iranian-American Identity",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Comparative Literature 323 (Topic 63), Middle Eastern Studies 342 (Topic 62), and Women's and Gender Studies 340 (Topic 81). Three lecture hours a week for one semester. Only one of the following may be counted: Comparative Literature 323 (Topic: Iran/Iranian-Amer Ident), 323 (Topic 63), Middle Eastern Languages and Cultures 321 (Topic: Iran/Iranian-Amer Ident), 321C, Middle Eastern Studies 342 (Topic: Iran/Iranian-Amer Ident), 342 (Topic 62), Women's and Gender Studies 340 (Topic: Iran/Iranian-Amer Ident), 340 (Topic 81). Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"sameAs": "Comparative Literature 323 (Topic 63), Middle Eastern Studies 342 (Topic 62), and Women's and Gender Studies 340 (Topic 81)"
+},
+{
+"id": "MEL 321D",
+"subject": "MEL",
+"number": "321D",
+"title": "Debating Genesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Jewish Studies 363 (Topic 26), Middle Eastern Studies 342 (Topic 65), and Religious Studies 353M. Three lecture hours a week for one semester. Only one of the following may be counted: Jewish Studies 363 (Topic: Debating Genesis), 363 (Topic 26), Middle Eastern Languages and Cultures 321 (Topic: Debating Genesis), 321D, Middle Eastern Studies 342 (Topic: Debating Genesis), 342 (Topic 65), Religious Studies 353 (Topic: Debating Genesis), 353M. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"sameAs": "Jewish Studies 363 (Topic 26), Middle Eastern Studies 342 (Topic 65), and Religious Studies 353M"
+},
+{
+"id": "MEL 321P",
+"subject": "MEL",
+"number": "321P",
+"title": "The Persian Epic and Popular Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Middle Eastern Studies 342 (Topic 60). Three lecture hours a week for one semester. Only one of the following may be counted: Middle Eastern Languages and Cultures 321 (Topic: Persian Epic/Pop Culture), 321P, Middle Eastern Studies 342 (Topic: Persian Epic/Pop Culture), 342 (Topic 60). Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"sameAs": "Middle Eastern Studies 342 (Topic 60)"
+},
+{
+"id": "MEL 323",
+"subject": "MEL",
+"number": "323",
+"title": "Engaging the Middle East",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Middle Eastern Studies 323C. Three lecture hours a week for one semester. Middle Eastern Languages and Cultures 323 and Middle Eastern Studies 323C may not both be counted. Prerequisite: Upper-division standing; Middle Eastern Languages and Cultures 301 or Middle Eastern Studies 301C.",
+"prereqText": "Upper-division standing; Middle Eastern Languages and Cultures 301 or Middle Eastern Studies 301C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MEL 301"
+},
+{
+"type": "course",
+"id": "MES 301C"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Middle Eastern Studies 323C"
+},
+{
+"id": "MEL 358Q",
+"subject": "MEL",
+"number": "358Q",
+"title": "Supervised Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised research experience in Middle Eastern languages, literatures and cultures. Individual instruction. May be repeated for credit. Prerequisite: Middle Eastern Languages and Cultures 301, and six hours of upper-division Arabic, Hebrew, Persian, or Turkish.",
+"prereqText": "Middle Eastern Languages and Cultures 301, and six hours of upper-division Arabic, Hebrew, Persian, or Turkish.",
+"prereq": {
+"type": "course",
+"id": "MEL 301"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MEL 379",
+"subject": "MEL",
+"number": "379",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in Middle Eastern languages and cultures. Conference course. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 679H",
+"subject": "MEL",
+"number": "679H",
+"title": "Honors Tutorial Course",
+"hours": 6.0,
+"division": "upper",
+"description": "Supervised individual reading for one semester, followed by research and writing to produce a substantial paper on a literary or linguistic problem. Conference course for two semesters. Prerequisite: For 679HA, admission to the Middle Eastern Languages and Cultures Honors Program; for 679HB, Middle Eastern Languages and Cultures 679HA.",
+"prereqText": "For 679HA, admission to the Middle Eastern Languages and Cultures Honors Program; for 679HB, Middle Eastern Languages and Cultures 679HA.",
+"prereq": {
+"type": "course",
+"id": "MEL 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MEL 380",
+"subject": "MEL",
+"number": "380",
+"title": "Topics in Middle Eastern Cultures",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 380C",
+"subject": "MEL",
+"number": "380C",
+"title": "Topics in Middle Eastern Languages",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced studies in Middle Eastern languages. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor; additional prerequisites may vary with the topic.",
+"prereqText": "Graduate standing and consent of instructor; additional prerequisites may vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 381",
+"subject": "MEL",
+"number": "381",
+"title": "Topics in Middle Eastern Literatures",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 382",
+"subject": "MEL",
+"number": "382",
+"title": "Topics in Middle Eastern Linguistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 383",
+"subject": "MEL",
+"number": "383",
+"title": "Topics in the Ancient Near East",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 383C",
+"subject": "MEL",
+"number": "383C",
+"title": "Current Issues in Hebrew Bible",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examines the issues that are current in one major area of Hebrew Bible scholarship. Three lecture hours a week for one semester. Only one of the following may be counted: Hebrew 380C (Topic: Hebrew Bible Doctoral Seminar I), Jewish Studies 383 (Topic: Hebrew Bible Doctoral Seminar III), Middle Eastern Languages and Cultures 383 (Topic: Hebrew Bible Doctoral Seminar III), 383C, 383 (Topic 1: Hebrew Bible Doctoral Seminar I), 383 (Topic 3: Hebrew Bible Doctoral Seminar III), Religious Studies 386H (Topic: Hebrew Bible Doctoral Seminar III). Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 383D",
+"subject": "MEL",
+"number": "383D",
+"title": "Exegetical Seminar in Hebrew Bible",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examines a biblical book (e.g. Song of Songs) or subject (e.g. Jubilee) applying history, philology, literary theory, poetics, history of interpretation, and linguistics. Three lecture hours a week for one semester. Only one of the following may be counted: Hebrew 380C (Topic: Hebrew Bible Doctoral Seminar II), Middle Eastern Languages and Cultures 383 (Topic: Hebrew Bible Doctoral Seminar IV), 383 (Topic 2: Hebrew Bible Doctoral Seminar II), 383 (Topic 4: Hebrew Bible Doctoral Seminar IV), 383D. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 389",
+"subject": "MEL",
+"number": "389",
+"title": "Conference Course in Middle Eastern Languages and Cultures",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised individual study of selected problems in Middle Eastern languages and cultures. The equivalent of three lectures a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of the instructor and graduate adviser.",
+"prereqText": "Graduate standing, consent of the instructor and graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 393",
+"subject": "MEL",
+"number": "393",
+"title": "Comprehensive Examination Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, and consent of the instructor and graduate adviser.",
+"prereqText": "Graduate standing, and consent of the instructor and graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MEL 194",
+"subject": "MEL",
+"number": "194",
+"title": "Professional Development in Middle Eastern Languages and Cultures",
+"hours": 1.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 294",
+"subject": "MEL",
+"number": "294",
+"title": "Professional Development in Middle Eastern Languages and Cultures",
+"hours": 2.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 394",
+"subject": "MEL",
+"number": "394",
+"title": "Professional Development in Middle Eastern Languages and Cultures",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing, and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 698",
+"subject": "MEL",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Middle Eastern languages and cultures and consent of the graduate adviser; for 698B, Middle Eastern Languages and Cultures 698A.",
+"prereqText": "For 698A, graduate standing in Middle Eastern languages and cultures and consent of the graduate adviser; for 698B, Middle Eastern Languages and Cultures 698A.",
+"prereq": {
+"type": "course",
+"id": "MEL 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MEL 398R",
+"subject": "MEL",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in Middle Eastern languages and cultures and consent of the graduate adviser.",
+"prereqText": "Graduate standing in Middle Eastern languages and cultures and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MEL 398T",
+"subject": "MEL",
+"number": "398T",
+"title": "Supervised Teaching in Middle Eastern Languages and Cultures",
+"hours": 3.0,
+"division": "graduate",
+"description": "Teaching under the close supervision of a faculty member; weekly group meetings with the instructor, individual consultation, and reports throughout the teaching period. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MEL 399W",
+"subject": "MEL",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MEL 699W",
+"subject": "MEL",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MEL 999W",
+"subject": "MEL",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

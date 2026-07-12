@@ -1,0 +1,149 @@
+{
+"code": "EVE",
+"name": "Environmental Engineering",
+"courses": [
+{
+"id": "EVE 302",
+"subject": "EVE",
+"number": "302",
+"title": "Foundations of Environmental Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Foundational principles in environmental engineering, sources of contaminants, physics and chemistry of water, air, soil, concepts and tools for assessing sustainability. Two lecture hours and three laboratory hours a week for one semester. Prerequisite: Credit or registration for Chemistry 302.",
+"prereqText": "Credit or registration for Chemistry 302.",
+"prereq": {
+"type": "course",
+"id": "CH 302"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "EVE 103",
+"subject": "EVE",
+"number": "103",
+"title": "First-Year Seminar",
+"hours": 1.0,
+"division": "lower",
+"description": "Introduction to the field of environmental engineering. Explore future opportunities for careers and research in environmental engineering. One lecture hour a week for one semester. Environmental Engineering 103 and 177K (Topic: First Year Seminar In EVE) may not both be counted."
+},
+{
+"id": "EVE 310",
+"subject": "EVE",
+"number": "310",
+"title": "Sustainable Systems Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Integration and optimization of engineering systems for water treatment, water reuse, and energy production processes given technical, economic, and environmental constraints. Three lecture hours a week for one semester. Prerequisite: Credit or registration for Physics 303L.",
+"prereqText": "Credit or registration for Physics 303L.",
+"prereq": {
+"type": "course",
+"id": "PHY 303L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "EVE 312",
+"subject": "EVE",
+"number": "312",
+"title": "Environmental Engineering and Science",
+"hours": 3.0,
+"division": "lower",
+"description": "Quantitative evaluations of environmental processes including mass and energy balances, mass and heat transfer, chemical kinetics, water quality modeling, water treatment, indoor and outdoor air quality, and risk analyses. Two lecture hours and three laboratory hours a week for one semester. Prerequisite: Environmental Engineering 302 and credit or registration for Civil Engineering 333T or Engineering Studies 333T, and Mathematics 427J.",
+"prereqText": "Environmental Engineering 302 and credit or registration for Civil Engineering 333T or Engineering Studies 333T, and Mathematics 427J.",
+"prereqConfidence": "low"
+},
+{
+"id": "EVE 350",
+"subject": "EVE",
+"number": "350",
+"title": "Environmental Chemistry for a Sustainable World",
+"hours": 3.0,
+"division": "upper",
+"description": "Application of chemical concepts to understand the fate of contaminants in natural and engineered systems. Focus on the use of analytical and graphical tools for solving chemical equilibrium and kinetic problems. Three lecture hours a week for one semester. Prerequisite: Environmental Engineering 312.",
+"prereqText": "Environmental Engineering 312.",
+"prereq": {
+"type": "course",
+"id": "EVE 312"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "EVE 360",
+"subject": "EVE",
+"number": "360",
+"title": "Design for Air Quality Improvement",
+"hours": 3.0,
+"division": "upper",
+"description": "Analysis, synthesis, and integrated design of air pollution control systems for improvements in outdoor and indoor air quality. Design for reduction of high impact pollutants of local, regional and global significance with consideration of human inhalation exposure and climate impacts. Three lecture hours a week for one semester, with additional hours to be arranged for design laboratory, system testing, and field trips. Prerequisite: Civil Engineering 319F and 333T; and Civil Engineering 369L or 369R; and Mechanical Engineering 320 or 326.",
+"prereqText": "Civil Engineering 319F and 333T; and Civil Engineering 369L or 369R; and Mechanical Engineering 320 or 326.",
+"prereqConfidence": "low"
+},
+{
+"id": "EVE 370",
+"subject": "EVE",
+"number": "370",
+"title": "Design for Environmental Community Improvement",
+"hours": 3.0,
+"division": "upper",
+"description": "Application of engineering to a project that addresses a local, national or international community or design challenge. Problem statement, project objectives, stakeholder input, technical problem solving, environmental, social and economic assessment is performed collaboratively within a multidisciplinary team to develop a final design for a comprehensive service-learning project. Three lecture hours a week for one semester, with additional hours to be arranged for design laboratory. Prerequisite: Civil Engineering 342 or 369L.",
+"prereqText": "Civil Engineering 342 or 369L.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "C E 342"
+},
+{
+"type": "course",
+"id": "C E 369L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "EVE 177K",
+"subject": "EVE",
+"number": "177K",
+"title": "Topics in Environmental Engineering",
+"hours": 1.0,
+"division": "upper",
+"description": "Various specified topics or conference course. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "EVE 277K",
+"subject": "EVE",
+"number": "277K",
+"title": "Topics in Environmental Engineering",
+"hours": 2.0,
+"division": "upper",
+"description": "Various specified topics or conference course. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "EVE 377K",
+"subject": "EVE",
+"number": "377K",
+"title": "Topics in Environmental Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Various specified topics or conference course. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "EVE 177R",
+"subject": "EVE",
+"number": "177R",
+"title": "Internship",
+"hours": 1.0,
+"division": "upper",
+"description": "The equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the pass/fail basis only.",
+"offering": "Offered on the pass/fail basis only."
+}
+]
+}
