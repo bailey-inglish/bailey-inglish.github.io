@@ -120,6 +120,58 @@
 "offering": "Offered on the letter-grade basis only."
 },
 {
+"id": "STM 695A",
+"subject": "STM",
+"number": "695A",
+"title": "Classroom Interactions and Project Based Instruction",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the UTeach Natural Sciences post-baccalaureate program. Students are assigned to a mentor teacher classroom where they might continue as apprentice teachers the next semester. At least three hours a week of observation and teaching in the classroom, in addition to the six contact hours per week. Preparation, implementation, and assessment of inquiry- and project-based lessons, focusing on student thinking and participation, and meeting the needs of students with reading and writing difficulties, those learning in a second language, and those with behavioral and psychological issues. Six lecture hours a week for one semester, with additional hours to be arranged. Curriculum and Instruction 665 and Science, Technology, Engineering, and Mathematics Education 695 may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Curriculum and Instruction 365C or Science, Technology, Engineering, and Mathematics Education 385.",
+"prereqText": "Graduate standing; Curriculum and Instruction 365C or Science, Technology, Engineering, and Mathematics Education 385.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "EDC 365C"
+},
+{
+"type": "course",
+"id": "STM 385"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the UTeach Natural Sciences post-baccalaureate program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "STM 695B",
+"subject": "STM",
+"number": "695B",
+"title": "Classroom Interactions and Project Based Instruction",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the UTeach Natural Sciences post-baccalaureate program. Students are assigned to a mentor teacher classroom where they might continue as apprentice teachers the next semester. At least three hours a week of observation and teaching in the classroom, in addition to the six contact hours per week. Preparation, implementation, and assessment of inquiry- and project-based lessons, focusing on student thinking and participation, and meeting the needs of students with reading and writing difficulties, those learning in a second language, and those with behavioral and psychological issues. Six lecture hours a week for one semester, with additional hours to be arranged. Curriculum and Instruction 665 and Science, Technology, Engineering, and Mathematics Education 695 may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Curriculum and Instruction 365C or Science, Technology, Engineering, and Mathematics Education 385.",
+"prereqText": "Graduate standing; Curriculum and Instruction 365C or Science, Technology, Engineering, and Mathematics Education 385.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "EDC 365C"
+},
+{
+"type": "course",
+"id": "STM 385"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the UTeach Natural Sciences post-baccalaureate program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
 "id": "STM 196",
 "subject": "STM",
 "number": "196",
@@ -199,6 +251,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "STM 696TA",
+"subject": "STM",
+"number": "696TA",
+"title": "Directed Research in Science, Technology, Engineering and Mathematics Education",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "STM 696TB",
+"subject": "STM",
+"number": "696TB",
+"title": "Directed Research in Science, Technology, Engineering and Mathematics Education",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
 "id": "STM 197V",
 "subject": "STM",
 "number": "197V",
@@ -224,6 +298,38 @@
 "id": "STM 698",
 "subject": "STM",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in science, technology, engineering, and mathematics education and consent of the graduate adviser; for 698B, Science, Technology, Engineering, and Mathematics Education 698A.",
+"prereqText": "For 698A, graduate standing in science, technology, engineering, and mathematics education and consent of the graduate adviser; for 698B, Science, Technology, Engineering, and Mathematics Education 698A.",
+"prereq": {
+"type": "course",
+"id": "STM 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "STM 698A",
+"subject": "STM",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in science, technology, engineering, and mathematics education and consent of the graduate adviser; for 698B, Science, Technology, Engineering, and Mathematics Education 698A.",
+"prereqText": "For 698A, graduate standing in science, technology, engineering, and mathematics education and consent of the graduate adviser; for 698B, Science, Technology, Engineering, and Mathematics Education 698A.",
+"prereq": {
+"type": "course",
+"id": "STM 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "STM 698B",
+"subject": "STM",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -290,6 +396,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "STM 699WA",
+"subject": "STM",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "STM 699WB",
+"subject": "STM",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

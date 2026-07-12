@@ -103,6 +103,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the ancient history and classical civilization program. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "AHC 619SA",
+"subject": "AHC",
+"number": "619SA",
+"title": "Topics in Ancient History",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the ancient history and classical civilization program. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AHC 619SB",
+"subject": "AHC",
+"number": "619SB",
+"title": "Topics in Ancient History",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the ancient history and classical civilization program. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "AHC 325",
 "subject": "AHC",
 "number": "325",
@@ -195,6 +213,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the ancient history and classical civilization program. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "AHC 629SA",
+"subject": "AHC",
+"number": "629SA",
+"title": "Topics in Ancient History",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the ancient history and classical civilization program. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AHC 629SB",
+"subject": "AHC",
+"number": "629SB",
+"title": "Topics in Ancient History",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the ancient history and classical civilization program. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "AHC 330",
 "subject": "AHC",
 "number": "330",
@@ -223,6 +259,36 @@
 "number": "679H",
 "title": "Honors Tutorial Course",
 "hours": 6.0,
+"division": "upper",
+"description": "Supervised conference course for honors candidates in ancient history and classical civilization. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Ancient History and Classical Civilization Honors Program; for 679HB, Ancient History and Classical Civilization 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the Ancient History and Classical Civilization Honors Program; for 679HB, Ancient History and Classical Civilization 679HA.",
+"prereq": {
+"type": "course",
+"id": "AHC 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "AHC 679HA",
+"subject": "AHC",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised conference course for honors candidates in ancient history and classical civilization. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Ancient History and Classical Civilization Honors Program; for 679HB, Ancient History and Classical Civilization 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the Ancient History and Classical Civilization Honors Program; for 679HB, Ancient History and Classical Civilization 679HA.",
+"prereq": {
+"type": "course",
+"id": "AHC 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "AHC 679HB",
+"subject": "AHC",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
 "division": "upper",
 "description": "Supervised conference course for honors candidates in ancient history and classical civilization. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Ancient History and Classical Civilization Honors Program; for 679HB, Ancient History and Classical Civilization 679HA.",
 "prereqText": "For 679HA, upper-division standing and admission to the Ancient History and Classical Civilization Honors Program; for 679HB, Ancient History and Classical Civilization 679HA.",

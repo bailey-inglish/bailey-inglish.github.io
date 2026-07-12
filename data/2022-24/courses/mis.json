@@ -163,6 +163,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Information, Risk, and Operations Management. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
 },
 {
+"id": "MIS 640SA",
+"subject": "MIS",
+"number": "640SA",
+"title": "Topics in Management Information Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Information, Risk, and Operations Management. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MIS 640SB",
+"subject": "MIS",
+"number": "640SB",
+"title": "Topics in Management Information Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Information, Risk, and Operations Management. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
 "id": "MIS 366P",
 "subject": "MIS",
 "number": "366P",
@@ -577,6 +595,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "MIS 698A",
+"subject": "MIS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in information, risk, and operations management and consent of the graduate adviser; for 698B, Management Information Systems 698A.",
+"prereqText": "For 698A, graduate standing in information, risk, and operations management and consent of the graduate adviser; for 698B, Management Information Systems 698A.",
+"prereq": {
+"type": "course",
+"id": "MIS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MIS 698B",
+"subject": "MIS",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in information, risk, and operations management and consent of the graduate adviser; for 698B, Management Information Systems 698A.",
+"prereqText": "For 698A, graduate standing in information, risk, and operations management and consent of the graduate adviser; for 698B, Management Information Systems 698A.",
+"prereq": {
+"type": "course",
+"id": "MIS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "MIS 398R",
 "subject": "MIS",
 "number": "398R",
@@ -618,6 +668,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MIS 699WA",
+"subject": "MIS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MIS 699WB",
+"subject": "MIS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

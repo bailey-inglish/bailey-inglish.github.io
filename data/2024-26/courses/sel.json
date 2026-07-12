@@ -12,6 +12,24 @@
 "description": "Emphasis on basic communication skills in Slavic and Eurasian languages: listening, speaking, reading, and writing. Includes introduction to Slavic and Eurasian cultures. Six lecture hours a week for one semester. Slavic and Eurasian Languages 601C and 506 may not both be counted unless the languages vary. Slavic and Eurasian Languages 601C and 507 may not both be counted unless the languages vary. May be repeated for credit when the topics vary."
 },
 {
+"id": "SEL 601CA",
+"subject": "SEL",
+"number": "601CA",
+"title": "Topics in Intensive Slavic and Eurasian Languages I",
+"hours": 3.0,
+"division": "lower",
+"description": "Emphasis on basic communication skills in Slavic and Eurasian languages: listening, speaking, reading, and writing. Includes introduction to Slavic and Eurasian cultures. Six lecture hours a week for one semester. Slavic and Eurasian Languages 601C and 506 may not both be counted unless the languages vary. Slavic and Eurasian Languages 601C and 507 may not both be counted unless the languages vary. May be repeated for credit when the topics vary."
+},
+{
+"id": "SEL 601CB",
+"subject": "SEL",
+"number": "601CB",
+"title": "Topics in Intensive Slavic and Eurasian Languages I",
+"hours": 3.0,
+"division": "lower",
+"description": "Emphasis on basic communication skills in Slavic and Eurasian languages: listening, speaking, reading, and writing. Includes introduction to Slavic and Eurasian cultures. Six lecture hours a week for one semester. Slavic and Eurasian Languages 601C and 506 may not both be counted unless the languages vary. Slavic and Eurasian Languages 601C and 507 may not both be counted unless the languages vary. May be repeated for credit when the topics vary."
+},
+{
 "id": "SEL 506",
 "subject": "SEL",
 "number": "506",
@@ -41,6 +59,54 @@
 "number": "611C",
 "title": "Topics in Intensive Slavic and Eurasian Languages II",
 "hours": 6.0,
+"division": "lower",
+"description": "Continuing intensive development of communication abilities in Slavic and Eurasian languages with emphasis on the four basic skills: listening, speaking, reading, and writing. Includes an introduction to Slavic and Eurasian cultures. Six lecture hours a week for one semester. Slavic and Eurasian Languages 611C and 312K may not both be counted unless the languages vary. Slavic and Eurasian Languages 611C and 312L may not both be counted unless the languages vary. May be repeated for credit when the topics vary. Prerequisite: Slavic and Eurasian Languages 601C or 507 in the same language.",
+"prereqText": "Slavic and Eurasian Languages 601C or 507 in the same language.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "SEL 601C"
+},
+{
+"type": "course",
+"id": "SEL 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SEL 611CA",
+"subject": "SEL",
+"number": "611CA",
+"title": "Topics in Intensive Slavic and Eurasian Languages II",
+"hours": 3.0,
+"division": "lower",
+"description": "Continuing intensive development of communication abilities in Slavic and Eurasian languages with emphasis on the four basic skills: listening, speaking, reading, and writing. Includes an introduction to Slavic and Eurasian cultures. Six lecture hours a week for one semester. Slavic and Eurasian Languages 611C and 312K may not both be counted unless the languages vary. Slavic and Eurasian Languages 611C and 312L may not both be counted unless the languages vary. May be repeated for credit when the topics vary. Prerequisite: Slavic and Eurasian Languages 601C or 507 in the same language.",
+"prereqText": "Slavic and Eurasian Languages 601C or 507 in the same language.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "SEL 601C"
+},
+{
+"type": "course",
+"id": "SEL 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SEL 611CB",
+"subject": "SEL",
+"number": "611CB",
+"title": "Topics in Intensive Slavic and Eurasian Languages II",
+"hours": 3.0,
 "division": "lower",
 "description": "Continuing intensive development of communication abilities in Slavic and Eurasian languages with emphasis on the four basic skills: listening, speaking, reading, and writing. Includes an introduction to Slavic and Eurasian cultures. Six lecture hours a week for one semester. Slavic and Eurasian Languages 611C and 312K may not both be counted unless the languages vary. Slavic and Eurasian Languages 611C and 312L may not both be counted unless the languages vary. May be repeated for credit when the topics vary. Prerequisite: Slavic and Eurasian Languages 601C or 507 in the same language.",
 "prereqText": "Slavic and Eurasian Languages 601C or 507 in the same language.",
@@ -180,6 +246,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "SEL 619SA",
+"subject": "SEL",
+"number": "619SA",
+"title": "Topics in Slavic and Eurasian Languages",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SEL 619SB",
+"subject": "SEL",
+"number": "619SB",
+"title": "Topics in Slavic and Eurasian Languages",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "SEL 129S",
 "subject": "SEL",
 "number": "129S",
@@ -257,6 +341,24 @@
 "number": "929S",
 "title": "Topics in Slavic and Eurasian Languages",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SEL 629SA",
+"subject": "SEL",
+"number": "629SA",
+"title": "Topics in Slavic and Eurasian Languages",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SEL 629SB",
+"subject": "SEL",
+"number": "629SB",
+"title": "Topics in Slavic and Eurasian Languages",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },

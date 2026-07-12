@@ -180,6 +180,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "EEB 682A",
+"subject": "EEB",
+"number": "682A",
+"title": "Advanced Study and Research",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "EEB 682B",
+"subject": "EEB",
+"number": "682B",
+"title": "Advanced Study and Research",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqText": "Graduate standing, consent of instructor, and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
 "id": "EEB 382K",
 "subject": "EEB",
 "number": "382K",
@@ -272,6 +294,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "EEB 698A",
+"subject": "EEB",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "Three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing and consent of the graduate advisor; for 698B, Ecology, Evolution, and Behavior 698A or the equivalent.",
+"prereqText": "For 698A, graduate standing and consent of the graduate advisor; for 698B, Ecology, Evolution, and Behavior 698A or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "EEB 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "EEB 698B",
+"subject": "EEB",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "Three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing and consent of the graduate advisor; for 698B, Ecology, Evolution, and Behavior 698A or the equivalent.",
+"prereqText": "For 698A, graduate standing and consent of the graduate advisor; for 698B, Ecology, Evolution, and Behavior 698A or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "EEB 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "EEB 398R",
 "subject": "EEB",
 "number": "398R",
@@ -312,6 +366,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "EEB 699WA",
+"subject": "EEB",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "EEB 699WB",
+"subject": "EEB",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

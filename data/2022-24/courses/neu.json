@@ -583,6 +583,30 @@
 "restricted": "Restricted to students in the honors program in neuroscience."
 },
 {
+"id": "NEU 679HA",
+"subject": "NEU",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the honors program in neuroscience. Original laboratory research project under the direction of a faculty mentor leading to a thesis or research presentation. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit, but no more than six hours may be counted toward a degree in neuroscience. Prerequisite: Consent of student's research supervisor and the departmental honors adviser.",
+"prereqText": "Consent of student's research supervisor and the departmental honors adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the honors program in neuroscience."
+},
+{
+"id": "NEU 679HB",
+"subject": "NEU",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the honors program in neuroscience. Original laboratory research project under the direction of a faculty mentor leading to a thesis or research presentation. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit, but no more than six hours may be counted toward a degree in neuroscience. Prerequisite: Consent of student's research supervisor and the departmental honors adviser.",
+"prereqText": "Consent of student's research supervisor and the departmental honors adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the honors program in neuroscience."
+},
+{
 "id": "NEU 380C",
 "subject": "NEU",
 "number": "380C",
@@ -1102,6 +1126,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "NEU 698A",
+"subject": "NEU",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in neuroscience and consent of the graduate adviser; for 698B, Neuroscience 698A.",
+"prereqText": "For 698A, graduate standing in neuroscience and consent of the graduate adviser; for 698B, Neuroscience 698A.",
+"prereq": {
+"type": "course",
+"id": "NEU 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NEU 698B",
+"subject": "NEU",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in neuroscience and consent of the graduate adviser; for 698B, Neuroscience 698A.",
+"prereqText": "For 698A, graduate standing in neuroscience and consent of the graduate adviser; for 698B, Neuroscience 698A.",
+"prereq": {
+"type": "course",
+"id": "NEU 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "NEU 399W",
 "subject": "NEU",
 "number": "399W",
@@ -1131,6 +1187,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NEU 699WA",
+"subject": "NEU",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NEU 699WB",
+"subject": "NEU",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

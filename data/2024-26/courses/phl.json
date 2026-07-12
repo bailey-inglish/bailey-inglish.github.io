@@ -150,6 +150,38 @@
 "restricted": "Restricted to students in the Plan II Honors Program."
 },
 {
+"id": "PHL 610QA",
+"subject": "PHL",
+"number": "610QA",
+"title": "Problems of Knowledge and Valuation",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the Plan II Honors Program. Methods and aims of selected sciences, arts, and philosophy in the attainment of knowledge and in providing the basis for valuation. Three lecture hours and one discussion hour a week for two semesters. Philosophy 301 and 610QA may not both be counted; Philosophy 310 and 610QA may not both be counted; Philosophy 610QB and 318 may not both be counted. Prerequisite: For 610QA, admission to the Plan II Honors Program; for 610QB, Philosophy 610QA.",
+"prereqText": "For 610QA, admission to the Plan II Honors Program; for 610QB, Philosophy 610QA.",
+"prereq": {
+"type": "course",
+"id": "PHL 610QA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Plan II Honors Program."
+},
+{
+"id": "PHL 610QB",
+"subject": "PHL",
+"number": "610QB",
+"title": "Problems of Knowledge and Valuation",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the Plan II Honors Program. Methods and aims of selected sciences, arts, and philosophy in the attainment of knowledge and in providing the basis for valuation. Three lecture hours and one discussion hour a week for two semesters. Philosophy 301 and 610QA may not both be counted; Philosophy 310 and 610QA may not both be counted; Philosophy 610QB and 318 may not both be counted. Prerequisite: For 610QA, admission to the Plan II Honors Program; for 610QB, Philosophy 610QA.",
+"prereqText": "For 610QA, admission to the Plan II Honors Program; for 610QB, Philosophy 610QA.",
+"prereq": {
+"type": "course",
+"id": "PHL 610QA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Plan II Honors Program."
+},
+{
 "id": "PHL 311",
 "subject": "PHL",
 "number": "311",
@@ -332,6 +364,24 @@
 "number": "919S",
 "title": "Topics in Philosophy",
 "hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Philosophy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHL 619SA",
+"subject": "PHL",
+"number": "619SA",
+"title": "Topics in Philosophy",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Philosophy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHL 619SB",
+"subject": "PHL",
+"number": "619SB",
+"title": "Topics in Philosophy",
+"hours": 3.0,
 "division": "lower",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Philosophy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -634,6 +684,24 @@
 "number": "929S",
 "title": "Topics in Philosophy",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Philosophy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHL 629SA",
+"subject": "PHL",
+"number": "629SA",
+"title": "Topics in Philosophy",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Philosophy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHL 629SB",
+"subject": "PHL",
+"number": "629SB",
+"title": "Topics in Philosophy",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Philosophy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -1025,6 +1093,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "PHL 679HA",
+"subject": "PHL",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual reading for one semester, followed by research and writing to produce a substantial paper on a special topic in philosophy, to be completed during the second semester. Conference course for two semesters. Prerequisite: For 679HA, admission to the Philosophy Honors Program; for 679HB, Philosophy 679HA.",
+"prereqText": "For 679HA, admission to the Philosophy Honors Program; for 679HB, Philosophy 679HA.",
+"prereq": {
+"type": "course",
+"id": "PHL 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHL 679HB",
+"subject": "PHL",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual reading for one semester, followed by research and writing to produce a substantial paper on a special topic in philosophy, to be completed during the second semester. Conference course for two semesters. Prerequisite: For 679HA, admission to the Philosophy Honors Program; for 679HB, Philosophy 679HA.",
+"prereqText": "For 679HA, admission to the Philosophy Honors Program; for 679HB, Philosophy 679HA.",
+"prereq": {
+"type": "course",
+"id": "PHL 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "PHL 379K",
 "subject": "PHL",
 "number": "379K",
@@ -1280,6 +1378,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "PHL 698A",
+"subject": "PHL",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in philosophy, twelve semester hours of upper-division or graduate coursework in philosophy, and consent of the graduate adviser; for 698B, Philosophy 698A.",
+"prereqText": "For 698A, graduate standing in philosophy, twelve semester hours of upper-division or graduate coursework in philosophy, and consent of the graduate adviser; for 698B, Philosophy 698A.",
+"prereq": {
+"type": "course",
+"id": "PHL 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHL 698B",
+"subject": "PHL",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in philosophy, twelve semester hours of upper-division or graduate coursework in philosophy, and consent of the graduate adviser; for 698B, Philosophy 698A.",
+"prereqText": "For 698A, graduate standing in philosophy, twelve semester hours of upper-division or graduate coursework in philosophy, and consent of the graduate adviser; for 698B, Philosophy 698A.",
+"prereq": {
+"type": "course",
+"id": "PHL 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "PHL 398R",
 "subject": "PHL",
 "number": "398R",
@@ -1333,6 +1463,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHL 699WA",
+"subject": "PHL",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHL 699WB",
+"subject": "PHL",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

@@ -181,6 +181,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "ANS 619SA",
+"subject": "ANS",
+"number": "619SA",
+"title": "Topics in Asian Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ANS 619SB",
+"subject": "ANS",
+"number": "619SB",
+"title": "Topics in Asian Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "ANS 320C",
 "subject": "ANS",
 "number": "320C",
@@ -374,6 +392,24 @@
 "number": "929S",
 "title": "Topics in Asian Studies",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ANS 629SA",
+"subject": "ANS",
+"number": "629SA",
+"title": "Topics in Asian Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ANS 629SB",
+"subject": "ANS",
+"number": "629SB",
+"title": "Topics in Asian Studies",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -1234,6 +1270,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "ANS 678HA",
+"subject": "ANS",
+"number": "678HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for two semesters. Prerequisite: For 678HA, admission to the Asian Studies Honors Program; for 678HB, Asian Studies 678HA.",
+"prereqText": "For 678HA, admission to the Asian Studies Honors Program; for 678HB, Asian Studies 678HA.",
+"prereq": {
+"type": "course",
+"id": "ANS 678HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ANS 678HB",
+"subject": "ANS",
+"number": "678HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for two semesters. Prerequisite: For 678HA, admission to the Asian Studies Honors Program; for 678HB, Asian Studies 678HA.",
+"prereqText": "For 678HA, admission to the Asian Studies Honors Program; for 678HB, Asian Studies 678HA.",
+"prereq": {
+"type": "course",
+"id": "ANS 678HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "ANS 379",
 "subject": "ANS",
 "number": "379",
@@ -1679,9 +1745,67 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "ANS 697CA",
+"subject": "ANS",
+"number": "697CA",
+"title": "Comprehensive Examination Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to doctoral students in the Department of Asian Studies. Individual instruction. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and written consent of instructor on a form obtained from the graduate coordinator.",
+"prereqText": "Graduate standing and written consent of instructor on a form obtained from the graduate coordinator.",
+"prereqConfidence": "none",
+"restricted": "Restricted to doctoral students in the Department of Asian Studies.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ANS 697CB",
+"subject": "ANS",
+"number": "697CB",
+"title": "Comprehensive Examination Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to doctoral students in the Department of Asian Studies. Individual instruction. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and written consent of instructor on a form obtained from the graduate coordinator.",
+"prereqText": "Graduate standing and written consent of instructor on a form obtained from the graduate coordinator.",
+"prereqConfidence": "none",
+"restricted": "Restricted to doctoral students in the Department of Asian Studies.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "ANS 698",
 "subject": "ANS",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Asian studies and consent of the graduate adviser; for 698B, Asian Studies 698A.",
+"prereqText": "For 698A, graduate standing in Asian studies and consent of the graduate adviser; for 698B, Asian Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "ANS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ANS 698A",
+"subject": "ANS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Asian studies and consent of the graduate adviser; for 698B, Asian Studies 698A.",
+"prereqText": "For 698A, graduate standing in Asian studies and consent of the graduate adviser; for 698B, Asian Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "ANS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ANS 698B",
+"subject": "ANS",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -1760,6 +1884,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ANS 699WA",
+"subject": "ANS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ANS 699WB",
+"subject": "ANS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

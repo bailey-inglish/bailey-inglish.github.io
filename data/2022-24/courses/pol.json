@@ -12,6 +12,24 @@
 "description": "Not open to native or heritage speakers of Polish. Emphasis on developing oral proficiency in Polish using intensive methods of instruction. Six lecture hours a week for one semester. Polish 601C and 506 may not both be counted. Polish 601C and 507 may not both be counted."
 },
 {
+"id": "POL 601CA",
+"subject": "POL",
+"number": "601CA",
+"title": "Intensive Polish I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Polish. Emphasis on developing oral proficiency in Polish using intensive methods of instruction. Six lecture hours a week for one semester. Polish 601C and 506 may not both be counted. Polish 601C and 507 may not both be counted."
+},
+{
+"id": "POL 601CB",
+"subject": "POL",
+"number": "601CB",
+"title": "Intensive Polish I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Polish. Emphasis on developing oral proficiency in Polish using intensive methods of instruction. Six lecture hours a week for one semester. Polish 601C and 506 may not both be counted. Polish 601C and 507 may not both be counted."
+},
+{
 "id": "POL 506",
 "subject": "POL",
 "number": "506",
@@ -41,6 +59,54 @@
 "number": "611C",
 "title": "Intensive Polish II",
 "hours": 6.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Polish. Continuing intensive development of proficiency in Polish, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Polish 611C and 312K may not both be counted. Polish 611C and 312L may not both be counted. Prerequisite: Polish 601C or 507.",
+"prereqText": "Polish 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POL 601C"
+},
+{
+"type": "course",
+"id": "POL 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POL 611CA",
+"subject": "POL",
+"number": "611CA",
+"title": "Intensive Polish II",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Polish. Continuing intensive development of proficiency in Polish, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Polish 611C and 312K may not both be counted. Polish 611C and 312L may not both be counted. Prerequisite: Polish 601C or 507.",
+"prereqText": "Polish 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POL 601C"
+},
+{
+"type": "course",
+"id": "POL 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POL 611CB",
+"subject": "POL",
+"number": "611CB",
+"title": "Intensive Polish II",
+"hours": 3.0,
 "division": "lower",
 "description": "Not open to native or heritage speakers of Polish. Continuing intensive development of proficiency in Polish, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Polish 611C and 312K may not both be counted. Polish 611C and 312L may not both be counted. Prerequisite: Polish 601C or 507.",
 "prereqText": "Polish 601C or 507.",

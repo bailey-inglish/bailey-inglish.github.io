@@ -96,6 +96,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "IRG 619SA",
+"subject": "IRG",
+"number": "619SA",
+"title": "Topics in International Relations and Global Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "IRG 619SB",
+"subject": "IRG",
+"number": "619SB",
+"title": "Topics in International Relations and Global Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "IRG 320F",
 "subject": "IRG",
 "number": "320F",
@@ -193,6 +211,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "IRG 629SA",
+"subject": "IRG",
+"number": "629SA",
+"title": "Topics in International Relations and Global Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "IRG 629SB",
+"subject": "IRG",
+"number": "629SB",
+"title": "Topics in International Relations and Global Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Liberal Arts. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "IRG 378",
 "subject": "IRG",
 "number": "378",
@@ -223,6 +259,56 @@
 "number": "678H",
 "title": "Honors Tutorial Course",
 "hours": 6.0,
+"division": "upper",
+"description": "Supervised individual research on an international relations and global studies topic. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 678HA, upper-division standing, International Relations and Global Studies 301 with a grade of at least B, and admission to the International Relations and Global Studies Honors Program; for 678HB, International Relations and Global Studies 678HA.",
+"prereqText": "For 678HA, upper-division standing, International Relations and Global Studies 301 with a grade of at least B, and admission to the International Relations and Global Studies Honors Program; for 678HB, International Relations and Global Studies 678HA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "IRG 301",
+"minGrade": "B"
+},
+{
+"type": "course",
+"id": "IRG 678HA"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "IRG 678HA",
+"subject": "IRG",
+"number": "678HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on an international relations and global studies topic. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 678HA, upper-division standing, International Relations and Global Studies 301 with a grade of at least B, and admission to the International Relations and Global Studies Honors Program; for 678HB, International Relations and Global Studies 678HA.",
+"prereqText": "For 678HA, upper-division standing, International Relations and Global Studies 301 with a grade of at least B, and admission to the International Relations and Global Studies Honors Program; for 678HB, International Relations and Global Studies 678HA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "IRG 301",
+"minGrade": "B"
+},
+{
+"type": "course",
+"id": "IRG 678HA"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "IRG 678HB",
+"subject": "IRG",
+"number": "678HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
 "division": "upper",
 "description": "Supervised individual research on an international relations and global studies topic. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 678HA, upper-division standing, International Relations and Global Studies 301 with a grade of at least B, and admission to the International Relations and Global Studies Honors Program; for 678HB, International Relations and Global Studies 678HA.",
 "prereqText": "For 678HA, upper-division standing, International Relations and Global Studies 301 with a grade of at least B, and admission to the International Relations and Global Studies Honors Program; for 678HB, International Relations and Global Studies 678HA.",

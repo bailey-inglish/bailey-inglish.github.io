@@ -170,6 +170,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Educational Psychology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "EDP 619SA",
+"subject": "EDP",
+"number": "619SA",
+"title": "Topics in Educational Psychology",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Educational Psychology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "EDP 619SB",
+"subject": "EDP",
+"number": "619SB",
+"title": "Topics in Educational Psychology",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Educational Psychology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "EDP 320",
 "subject": "EDP",
 "number": "320",
@@ -256,6 +274,24 @@
 "number": "929S",
 "title": "Topics in Educational Psychology",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Educational Psychology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "EDP 629SA",
+"subject": "EDP",
+"number": "629SA",
+"title": "Topics in Educational Psychology",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Educational Psychology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "EDP 629SB",
+"subject": "EDP",
+"number": "629SB",
+"title": "Topics in Educational Psychology",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Educational Psychology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -834,6 +870,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "EDP 687TA",
+"subject": "EDP",
+"number": "687TA",
+"title": "Topics in Educational Psychology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore issues, research, and topics of contemporary interest in various areas of educational psychology and the behavioral sciences. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "EDP 687TB",
+"subject": "EDP",
+"number": "687TB",
+"title": "Topics in Educational Psychology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore issues, research, and topics of contemporary interest in various areas of educational psychology and the behavioral sciences. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
 "id": "EDP 193E",
 "subject": "EDP",
 "number": "193E",
@@ -1026,6 +1084,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "EDP 698A",
+"subject": "EDP",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in educational psychology and consent of the adviser in the student's area of specialization; for 698B, Educational Psychology 698A.",
+"prereqText": "For 698A, graduate standing in educational psychology and consent of the adviser in the student's area of specialization; for 698B, Educational Psychology 698A.",
+"prereq": {
+"type": "course",
+"id": "EDP 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "EDP 698B",
+"subject": "EDP",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in educational psychology and consent of the adviser in the student's area of specialization; for 698B, Educational Psychology 698A.",
+"prereqText": "For 698A, graduate standing in educational psychology and consent of the adviser in the student's area of specialization; for 698B, Educational Psychology 698A.",
+"prereq": {
+"type": "course",
+"id": "EDP 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "EDP 398R",
 "subject": "EDP",
 "number": "398R",
@@ -1078,6 +1168,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "EDP 699WA",
+"subject": "EDP",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "EDP 699WB",
+"subject": "EDP",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

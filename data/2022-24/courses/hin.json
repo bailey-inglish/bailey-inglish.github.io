@@ -12,6 +12,24 @@
 "description": "For speakers of Hindi who have not studied it formally. Six lecture hours a week for one semester. Hindi 604 and 506 may not both be counted; Hindi 604 and 507 may not both be counted; Hindi 604 and Urdu 604 may not both be counted; Hindi 604 and Urdu 506 may not both be counted; Hindi 604 and Urdu 507 may not both be counted."
 },
 {
+"id": "HIN 604A",
+"subject": "HIN",
+"number": "604A",
+"title": "Accelerated First-Year Hindi",
+"hours": 6.0,
+"division": "lower",
+"description": "For speakers of Hindi who have not studied it formally. Six lecture hours a week for one semester. Hindi 604 and 506 may not both be counted; Hindi 604 and 507 may not both be counted; Hindi 604 and Urdu 604 may not both be counted; Hindi 604 and Urdu 506 may not both be counted; Hindi 604 and Urdu 507 may not both be counted."
+},
+{
+"id": "HIN 604B",
+"subject": "HIN",
+"number": "604B",
+"title": "Accelerated First-Year Hindi",
+"hours": 6.0,
+"division": "lower",
+"description": "For speakers of Hindi who have not studied it formally. Six lecture hours a week for one semester. Hindi 604 and 506 may not both be counted; Hindi 604 and 507 may not both be counted; Hindi 604 and Urdu 604 may not both be counted; Hindi 604 and Urdu 506 may not both be counted; Hindi 604 and Urdu 507 may not both be counted."
+},
+{
 "id": "HIN 506",
 "subject": "HIN",
 "number": "506",
@@ -40,6 +58,38 @@
 "id": "HIN 612",
 "subject": "HIN",
 "number": "612",
+"title": "Accelerated Second-Year Hindi",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation of Hindi 604. Six lecture hours a week for one semester. Hindi 612 and 312K may not both be counted; Hindi 612 and 312L may not both be counted. Prerequisite: Hindi 604 with a grade of at least C.",
+"prereqText": "Hindi 604 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "HIN 604",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HIN 612A",
+"subject": "HIN",
+"number": "612A",
+"title": "Accelerated Second-Year Hindi",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation of Hindi 604. Six lecture hours a week for one semester. Hindi 612 and 312K may not both be counted; Hindi 612 and 312L may not both be counted. Prerequisite: Hindi 604 with a grade of at least C.",
+"prereqText": "Hindi 604 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "HIN 604",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HIN 612B",
+"subject": "HIN",
+"number": "612B",
 "title": "Accelerated Second-Year Hindi",
 "hours": 6.0,
 "division": "lower",
@@ -182,6 +232,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser of the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "HIN 619SA",
+"subject": "HIN",
+"number": "619SA",
+"title": "Topics in Hindi",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser of the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HIN 619SB",
+"subject": "HIN",
+"number": "619SB",
+"title": "Topics in Hindi",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser of the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "HIN 125",
 "subject": "HIN",
 "number": "125",
@@ -275,6 +343,24 @@
 "number": "929S",
 "title": "Topics in Hindi",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HIN 629SA",
+"subject": "HIN",
+"number": "629SA",
+"title": "Topics in Hindi",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HIN 629SB",
+"subject": "HIN",
+"number": "629SB",
+"title": "Topics in Hindi",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in affiliated studies program. May be repeated for credit when the topics vary."
 },

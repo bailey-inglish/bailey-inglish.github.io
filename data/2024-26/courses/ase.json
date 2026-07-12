@@ -105,6 +105,26 @@
 "offering": "Offered on the letter-grade basis only."
 },
 {
+"id": "ASE 619SA",
+"subject": "ASE",
+"number": "619SA",
+"title": "Topics in Aerospace Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ASE 619SB",
+"subject": "ASE",
+"number": "619SB",
+"title": "Topics in Aerospace Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
 "id": "ASE 320",
 "subject": "ASE",
 "number": "320",
@@ -637,6 +657,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "ASE 679HA",
+"subject": "ASE",
+"number": "679HA",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a Bachelor of Science in Engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Aerospace Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Aerospace Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "ASE 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ASE 679HB",
+"subject": "ASE",
+"number": "679HB",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a Bachelor of Science in Engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Aerospace Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Aerospace Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "ASE 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "ASE 179K",
 "subject": "ASE",
 "number": "179K",
@@ -769,6 +819,26 @@
 "number": "979S",
 "title": "Topics in Aerospace Engineering",
 "hours": 9.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ASE 679SA",
+"subject": "ASE",
+"number": "679SA",
+"title": "Topics in Aerospace Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ASE 679SB",
+"subject": "ASE",
+"number": "679SB",
+"title": "Topics in Aerospace Engineering",
+"hours": 3.0,
 "division": "upper",
 "description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
 "offering": "Offered on the letter-grade basis only."
@@ -933,6 +1003,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "ASE 689A",
+"subject": "ASE",
+"number": "689A",
+"title": "Topics in Aerospace Engineering",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ASE 689B",
+"subject": "ASE",
+"number": "689B",
+"title": "Topics in Aerospace Engineering",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
 "id": "ASE 389P",
 "subject": "ASE",
 "number": "389P",
@@ -1064,9 +1156,65 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "ASE 697RA",
+"subject": "ASE",
+"number": "697RA",
+"title": "Research in Aerospace Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ASE 697RB",
+"subject": "ASE",
+"number": "697RB",
+"title": "Research in Aerospace Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "ASE 698",
 "subject": "ASE",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in aerospace engineering and consent of the graduate adviser; for 698B, Aerospace Engineering 698A.",
+"prereqText": "For 698A, graduate standing in aerospace engineering and consent of the graduate adviser; for 698B, Aerospace Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "ASE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ASE 698A",
+"subject": "ASE",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in aerospace engineering and consent of the graduate adviser; for 698B, Aerospace Engineering 698A.",
+"prereqText": "For 698A, graduate standing in aerospace engineering and consent of the graduate adviser; for 698B, Aerospace Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "ASE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ASE 698B",
+"subject": "ASE",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -1133,6 +1281,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ASE 699WA",
+"subject": "ASE",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ASE 699WB",
+"subject": "ASE",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

@@ -272,6 +272,24 @@
 "description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mechanical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "M E 619SA",
+"subject": "M E",
+"number": "619SA",
+"title": "Topics in Mechanical Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mechanical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M E 619SB",
+"subject": "M E",
+"number": "619SB",
+"title": "Topics in Mechanical Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mechanical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "M E 320",
 "subject": "M E",
 "number": "320",
@@ -463,6 +481,24 @@
 "number": "929S",
 "title": "Topics in Mechanical Engineering",
 "hours": 9.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mechanical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M E 629SA",
+"subject": "M E",
+"number": "629SA",
+"title": "Topics in Mechanical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mechanical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "M E 629SB",
+"subject": "M E",
+"number": "629SB",
+"title": "Topics in Mechanical Engineering",
+"hours": 3.0,
 "division": "upper",
 "description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Mechanical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -2087,6 +2123,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "M E 679HA",
+"subject": "M E",
+"number": "679HA",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Mechanical Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Mechanical Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "M E 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M E 679HB",
+"subject": "M E",
+"number": "679HB",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Mechanical Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Mechanical Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "M E 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "M E 179M",
 "subject": "M E",
 "number": "179M",
@@ -2209,6 +2275,30 @@
 "number": "980M",
 "title": "Research",
 "hours": 9.0,
+"division": "graduate",
+"description": "Individual research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in mechanical engineering.",
+"prereqText": "Graduate standing in mechanical engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M E 680MA",
+"subject": "M E",
+"number": "680MA",
+"title": "Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Individual research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in mechanical engineering.",
+"prereqText": "Graduate standing in mechanical engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M E 680MB",
+"subject": "M E",
+"number": "680MB",
+"title": "Research",
+"hours": 3.0,
 "division": "graduate",
 "description": "Individual research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in mechanical engineering.",
 "prereqText": "Graduate standing in mechanical engineering.",
@@ -3105,6 +3195,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "M E 698A",
+"subject": "M E",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in mechanical engineering and consent of the graduate adviser; for 698B, Mechanical Engineering 698A.",
+"prereqText": "For 698A, graduate standing in mechanical engineering and consent of the graduate adviser; for 698B, Mechanical Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "M E 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M E 698B",
+"subject": "M E",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in mechanical engineering and consent of the graduate adviser; for 698B, Mechanical Engineering 698A.",
+"prereqText": "For 698A, graduate standing in mechanical engineering and consent of the graduate adviser; for 698B, Mechanical Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "M E 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "M E 398M",
 "subject": "M E",
 "number": "398M",
@@ -3170,6 +3292,54 @@
 "number": "698P",
 "title": "Engineering Teaching Practicum",
 "hours": 6.0,
+"division": "graduate",
+"description": "Mentored teaching experience completed by arrangement with the instructor of record for an undergraduate engineering course. May be completed in the same semester as a Teaching Assistant or Assistant Instructor assignment with additional responsibilities. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Mechanical Engineering 397 (Topic: Curriculum Design in Engineering) and 397 (Topic: Teaching Engineering) or equivalent; and admission to the Graduate Certificate in Engineering Education Program; and consent of the graduate adviser.",
+"prereqText": "Mechanical Engineering 397 (Topic: Curriculum Design in Engineering) and 397 (Topic: Teaching Engineering) or equivalent; and admission to the Graduate Certificate in Engineering Education Program; and consent of the graduate adviser.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M E 397"
+},
+{
+"type": "course",
+"id": "M E 397"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M E 698PA",
+"subject": "M E",
+"number": "698PA",
+"title": "Engineering Teaching Practicum",
+"hours": 3.0,
+"division": "graduate",
+"description": "Mentored teaching experience completed by arrangement with the instructor of record for an undergraduate engineering course. May be completed in the same semester as a Teaching Assistant or Assistant Instructor assignment with additional responsibilities. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Mechanical Engineering 397 (Topic: Curriculum Design in Engineering) and 397 (Topic: Teaching Engineering) or equivalent; and admission to the Graduate Certificate in Engineering Education Program; and consent of the graduate adviser.",
+"prereqText": "Mechanical Engineering 397 (Topic: Curriculum Design in Engineering) and 397 (Topic: Teaching Engineering) or equivalent; and admission to the Graduate Certificate in Engineering Education Program; and consent of the graduate adviser.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M E 397"
+},
+{
+"type": "course",
+"id": "M E 397"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M E 698PB",
+"subject": "M E",
+"number": "698PB",
+"title": "Engineering Teaching Practicum",
+"hours": 3.0,
 "division": "graduate",
 "description": "Mentored teaching experience completed by arrangement with the instructor of record for an undergraduate engineering course. May be completed in the same semester as a Teaching Assistant or Assistant Instructor assignment with additional responsibilities. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Mechanical Engineering 397 (Topic: Curriculum Design in Engineering) and 397 (Topic: Teaching Engineering) or equivalent; and admission to the Graduate Certificate in Engineering Education Program; and consent of the graduate adviser.",
 "prereqText": "Mechanical Engineering 397 (Topic: Curriculum Design in Engineering) and 397 (Topic: Teaching Engineering) or equivalent; and admission to the Graduate Certificate in Engineering Education Program; and consent of the graduate adviser.",
@@ -3274,6 +3444,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M E 699WA",
+"subject": "M E",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "M E 699WB",
+"subject": "M E",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

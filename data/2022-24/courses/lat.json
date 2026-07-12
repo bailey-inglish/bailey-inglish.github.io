@@ -12,6 +12,24 @@
 "description": "Fundamentals of grammar and reading. Six lecture hours a week for one semester. Only one of the following may be counted: Latin 601C; 506 and 507"
 },
 {
+"id": "LAT 601CA",
+"subject": "LAT",
+"number": "601CA",
+"title": "Beginning Latin",
+"hours": 3.0,
+"division": "lower",
+"description": "Fundamentals of grammar and reading. Six lecture hours a week for one semester. Only one of the following may be counted: Latin 601C; 506 and 507"
+},
+{
+"id": "LAT 601CB",
+"subject": "LAT",
+"number": "601CB",
+"title": "Beginning Latin",
+"hours": 3.0,
+"division": "lower",
+"description": "Fundamentals of grammar and reading. Six lecture hours a week for one semester. Only one of the following may be counted: Latin 601C; 506 and 507"
+},
+{
 "id": "LAT 506",
 "subject": "LAT",
 "number": "506",
@@ -221,6 +239,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "LAT 619SA",
+"subject": "LAT",
+"number": "619SA",
+"title": "Topics in Latin",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 619SB",
+"subject": "LAT",
+"number": "619SB",
+"title": "Topics in Latin",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "LAT 322",
 "subject": "LAT",
 "number": "322",
@@ -345,6 +381,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "LAT 629SA",
+"subject": "LAT",
+"number": "629SA",
+"title": "Topics in Latin",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 629SB",
+"subject": "LAT",
+"number": "629SB",
+"title": "Topics in Latin",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "LAT 365",
 "subject": "LAT",
 "number": "365",
@@ -377,6 +431,36 @@
 "number": "679H",
 "title": "Honors Tutorial Course",
 "hours": 6.0,
+"division": "upper",
+"description": "Supervised conference course for honors candidates in Latin. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Latin Honors Program; for 679HB, Latin 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the Latin Honors Program; for 679HB, Latin 679HA.",
+"prereq": {
+"type": "course",
+"id": "LAT 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAT 679HA",
+"subject": "LAT",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised conference course for honors candidates in Latin. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Latin Honors Program; for 679HB, Latin 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the Latin Honors Program; for 679HB, Latin 679HA.",
+"prereq": {
+"type": "course",
+"id": "LAT 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAT 679HB",
+"subject": "LAT",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
 "division": "upper",
 "description": "Supervised conference course for honors candidates in Latin. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Latin Honors Program; for 679HB, Latin 679HA.",
 "prereqText": "For 679HA, upper-division standing and admission to the Latin Honors Program; for 679HB, Latin 679HA.",
@@ -541,6 +625,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAT 699WA",
+"subject": "LAT",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAT 699WB",
+"subject": "LAT",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

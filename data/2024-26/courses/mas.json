@@ -271,6 +271,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "MAS 619SA",
+"subject": "MAS",
+"number": "619SA",
+"title": "Topics in Mexican American Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MAS 619SB",
+"subject": "MAS",
+"number": "619SB",
+"title": "Topics in Mexican American Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "MAS 320C",
 "subject": "MAS",
 "number": "320C",
@@ -456,6 +474,24 @@
 "number": "929S",
 "title": "Topics in Mexican American Studies",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MAS 629SA",
+"subject": "MAS",
+"number": "629SA",
+"title": "Topics in Mexican American Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MAS 629SB",
+"subject": "MAS",
+"number": "629SB",
+"title": "Topics in Mexican American Studies",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -1043,6 +1079,38 @@
 "restricted": "Restricted to Mexican American and Latina/o Studies majors."
 },
 {
+"id": "MAS 679HA",
+"subject": "MAS",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Mexican American and Latina/o Studies majors. Supervised research, readings, and writing of a substantial paper on a Mexican American and Latina/o Studies topic. The equivalent of six lecture hours a week for two semesters. Prerequisite: For 679HA, a grade of A in an upper-division Mexican American Studies course; admission to the Mexican American and Latina/o Studies Honors Program no later than two semesters before expected graduation; a University grade point average of at least 3.00; and a grade point average in Mexican American and Latina/o Studies of at least 3.50; for 679HB, Mexican American Studies 679HA.",
+"prereqText": "For 679HA, a grade of A in an upper-division Mexican American Studies course; admission to the Mexican American and Latina/o Studies Honors Program no later than two semesters before expected graduation; a University grade point average of at least 3.00; and a grade point average in Mexican American and Latina/o Studies of at least 3.50; for 679HB, Mexican American Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "MAS 679HA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Mexican American and Latina/o Studies majors."
+},
+{
+"id": "MAS 679HB",
+"subject": "MAS",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Mexican American and Latina/o Studies majors. Supervised research, readings, and writing of a substantial paper on a Mexican American and Latina/o Studies topic. The equivalent of six lecture hours a week for two semesters. Prerequisite: For 679HA, a grade of A in an upper-division Mexican American Studies course; admission to the Mexican American and Latina/o Studies Honors Program no later than two semesters before expected graduation; a University grade point average of at least 3.00; and a grade point average in Mexican American and Latina/o Studies of at least 3.50; for 679HB, Mexican American Studies 679HA.",
+"prereqText": "For 679HA, a grade of A in an upper-division Mexican American Studies course; admission to the Mexican American and Latina/o Studies Honors Program no later than two semesters before expected graduation; a University grade point average of at least 3.00; and a grade point average in Mexican American and Latina/o Studies of at least 3.50; for 679HB, Mexican American Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "MAS 679HA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Mexican American and Latina/o Studies majors."
+},
+{
 "id": "MAS 382",
 "subject": "MAS",
 "number": "382",
@@ -1137,9 +1205,65 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "MAS 696QA",
+"subject": "MAS",
+"number": "696QA",
+"title": "Qualifying Exam Prep",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare for qualifying examinations. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in Mexican American and Latina/o Studies and consent of graduate adviser.",
+"prereqText": "Graduate standing in Mexican American and Latina/o Studies and consent of graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MAS 696QB",
+"subject": "MAS",
+"number": "696QB",
+"title": "Qualifying Exam Prep",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare for qualifying examinations. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in Mexican American and Latina/o Studies and consent of graduate adviser.",
+"prereqText": "Graduate standing in Mexican American and Latina/o Studies and consent of graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "MAS 698",
 "subject": "MAS",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Mexican American and Latina/o Studies and consent of the graduate adviser; for 698B, Mexican American Studies 698A.",
+"prereqText": "For 698A, graduate standing in Mexican American and Latina/o Studies and consent of the graduate adviser; for 698B, Mexican American Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "MAS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MAS 698A",
+"subject": "MAS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Mexican American and Latina/o Studies and consent of the graduate adviser; for 698B, Mexican American Studies 698A.",
+"prereqText": "For 698A, graduate standing in Mexican American and Latina/o Studies and consent of the graduate adviser; for 698B, Mexican American Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "MAS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MAS 698B",
+"subject": "MAS",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -1206,6 +1330,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree in Mexican American and Latina/o Studies.",
+"prereqText": "Admission to candidacy for the doctoral degree in Mexican American and Latina/o Studies.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MAS 699WA",
+"subject": "MAS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree in Mexican American and Latina/o Studies.",
+"prereqText": "Admission to candidacy for the doctoral degree in Mexican American and Latina/o Studies.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MAS 699WB",
+"subject": "MAS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree in Mexican American and Latina/o Studies.",
 "prereqText": "Admission to candidacy for the doctoral degree in Mexican American and Latina/o Studies.",

@@ -204,9 +204,63 @@
 "prereqConfidence": "none"
 },
 {
+"id": "PSC 697PA",
+"subject": "PSC",
+"number": "697PA",
+"title": "Graduate Internship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Practice in a professional organization or institution under supervision. The equivalent of nine laboratory hours a week for one semester. Health Education 397P and Prevention Science 397P may not both be counted. Prerequisite: Graduate standing and admission by internship committee.",
+"prereqText": "Graduate standing and admission by internship committee.",
+"prereqConfidence": "none"
+},
+{
+"id": "PSC 697PB",
+"subject": "PSC",
+"number": "697PB",
+"title": "Graduate Internship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Practice in a professional organization or institution under supervision. The equivalent of nine laboratory hours a week for one semester. Health Education 397P and Prevention Science 397P may not both be counted. Prerequisite: Graduate standing and admission by internship committee.",
+"prereqText": "Graduate standing and admission by internship committee.",
+"prereqConfidence": "none"
+},
+{
 "id": "PSC 698",
 "subject": "PSC",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Health Education 698 and Prevention Science 698 may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of the graduate advisor. For 698B, Prevention Science 698A.",
+"prereqText": "Graduate standing and consent of the graduate advisor. For 698B, Prevention Science 698A.",
+"prereq": {
+"type": "course",
+"id": "PSC 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PSC 698A",
+"subject": "PSC",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Health Education 698 and Prevention Science 698 may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of the graduate advisor. For 698B, Prevention Science 698A.",
+"prereqText": "Graduate standing and consent of the graduate advisor. For 698B, Prevention Science 698A.",
+"prereq": {
+"type": "course",
+"id": "PSC 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PSC 698B",
+"subject": "PSC",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -258,6 +312,28 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "PSC 699WA",
+"subject": "PSC",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "PSC 699WB",
+"subject": "PSC",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Prerequisite: Graduate standing.",
 "prereqText": "Graduate standing.",

@@ -630,6 +630,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "ARI 689A",
+"subject": "ARI",
+"number": "689A",
+"title": "Research in Interior Design",
+"hours": 6.0,
+"division": "graduate",
+"description": "Investigation of problems selected by the student and approved by the graduate adviser. Three or six lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 689B",
+"subject": "ARI",
+"number": "689B",
+"title": "Research in Interior Design",
+"hours": 6.0,
+"division": "graduate",
+"description": "Investigation of problems selected by the student and approved by the graduate adviser. Three or six lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
 "id": "ARI 391P",
 "subject": "ARI",
 "number": "391P",
@@ -678,11 +700,57 @@
 "restricted": "Restricted to students in the Master of Interior Design, first professional program."
 },
 {
+"id": "ARI 693A",
+"subject": "ARI",
+"number": "693A",
+"title": "Master's Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Interior Design, first professional program. Advanced study in architectural interior design, addressing complex design problems and issues related to various architectural topics. The equivalent of eighteen laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Master of Interior Design, first professional program."
+},
+{
+"id": "ARI 693B",
+"subject": "ARI",
+"number": "693B",
+"title": "Master's Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Interior Design, first professional program. Advanced study in architectural interior design, addressing complex design problems and issues related to various architectural topics. The equivalent of eighteen laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Master of Interior Design, first professional program."
+},
+{
 "id": "ARI 693K",
 "subject": "ARI",
 "number": "693K",
 "title": "Interior Design Core Studio I",
 "hours": 6.0,
+"division": "graduate",
+"description": "Explores interior spaces and their sequence and adjacencies. Studies individual rooms, their locations, and their uses in such fields as hospitality, health care, and entertainment. Special emphasis on the design of transitions from public spaces to personal spaces. Fifteen hours of lecture and studio a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 693KA",
+"subject": "ARI",
+"number": "693KA",
+"title": "Interior Design Core Studio I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explores interior spaces and their sequence and adjacencies. Studies individual rooms, their locations, and their uses in such fields as hospitality, health care, and entertainment. Special emphasis on the design of transitions from public spaces to personal spaces. Fifteen hours of lecture and studio a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ARI 693KB",
+"subject": "ARI",
+"number": "693KB",
+"title": "Interior Design Core Studio I",
+"hours": 3.0,
 "division": "graduate",
 "description": "Explores interior spaces and their sequence and adjacencies. Studies individual rooms, their locations, and their uses in such fields as hospitality, health care, and entertainment. Special emphasis on the design of transitions from public spaces to personal spaces. Fifteen hours of lecture and studio a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
 "prereqText": "Graduate standing and consent of the graduate adviser.",
@@ -705,11 +773,77 @@
 "prereqConfidence": "high"
 },
 {
+"id": "ARI 693LA",
+"subject": "ARI",
+"number": "693LA",
+"title": "Interior Design Core Studio II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examination of the elements of interior space and scale, including specific human factors. Particular emphasis on the design, documentation, production, and placement of objects in interiors. Fifteen hours of lecture and studio a week for one semester. Prerequisite: Graduate standing, Architectural Interior Design 693K with a grade of at least C, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693K with a grade of at least C, and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "ARI 693K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARI 693LB",
+"subject": "ARI",
+"number": "693LB",
+"title": "Interior Design Core Studio II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examination of the elements of interior space and scale, including specific human factors. Particular emphasis on the design, documentation, production, and placement of objects in interiors. Fifteen hours of lecture and studio a week for one semester. Prerequisite: Graduate standing, Architectural Interior Design 693K with a grade of at least C, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693K with a grade of at least C, and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "ARI 693K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "ARI 693M",
 "subject": "ARI",
 "number": "693M",
 "title": "Interior Design Core Studio III",
 "hours": 6.0,
+"division": "graduate",
+"description": "Examination of interior spaces and elements. Fifteen hours of lecture and studio a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, Architectural Interior Design 693L with a grade of at least C, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693L with a grade of at least C, and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "ARI 693L",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ARI 693MA",
+"subject": "ARI",
+"number": "693MA",
+"title": "Interior Design Core Studio III",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examination of interior spaces and elements. Fifteen hours of lecture and studio a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, Architectural Interior Design 693L with a grade of at least C, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693L with a grade of at least C, and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "ARI 693L",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ARI 693MB",
+"subject": "ARI",
+"number": "693MB",
+"title": "Interior Design Core Studio III",
+"hours": 3.0,
 "division": "graduate",
 "description": "Examination of interior spaces and elements. Fifteen hours of lecture and studio a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, Architectural Interior Design 693L with a grade of at least C, and consent of the graduate adviser.",
 "prereqText": "Graduate standing, Architectural Interior Design 693L with a grade of at least C, and consent of the graduate adviser.",
@@ -746,9 +880,105 @@
 "prereqConfidence": "high"
 },
 {
+"id": "ARI 694A",
+"subject": "ARI",
+"number": "694A",
+"title": "Advanced Design: International Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Advanced problems in international interior design. Students help design new residential or commercial buildings, incorporating local architectural style. Includes research of local historical texts. Taught abroad in locations that vary by semester, but may include Italy and Mexico. Fifteen studio hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ARI 693K"
+},
+{
+"type": "course",
+"id": "ARI 693L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARI 694B",
+"subject": "ARI",
+"number": "694B",
+"title": "Advanced Design: International Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Advanced problems in international interior design. Students help design new residential or commercial buildings, incorporating local architectural style. Includes research of local historical texts. Taught abroad in locations that vary by semester, but may include Italy and Mexico. Fifteen studio hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ARI 693K"
+},
+{
+"type": "course",
+"id": "ARI 693L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
 "id": "ARI 695",
 "subject": "ARI",
 "number": "695",
+"title": "Interior Design: Technical Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Comprehensive studio that focuses on combining the elements that create a thorough interior design. Fifteen studio hours a week for one semester. Prerequisite: Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ARI 693K"
+},
+{
+"type": "course",
+"id": "ARI 693L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARI 695A",
+"subject": "ARI",
+"number": "695A",
+"title": "Interior Design: Technical Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Comprehensive studio that focuses on combining the elements that create a thorough interior design. Fifteen studio hours a week for one semester. Prerequisite: Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ARI 693K"
+},
+{
+"type": "course",
+"id": "ARI 693L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARI 695B",
+"subject": "ARI",
+"number": "695B",
 "title": "Interior Design: Technical Studio",
 "hours": 6.0,
 "division": "graduate",
@@ -820,6 +1050,54 @@
 "prereqConfidence": "high"
 },
 {
+"id": "ARI 696A",
+"subject": "ARI",
+"number": "696A",
+"title": "Advanced Interior Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Studies advanced problems in interior design and examines design strategies and different phases of design. Topics may focus on interior design as it relates to retail, education, sustainability, and health care. Fifteen studio hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ARI 693K"
+},
+{
+"type": "course",
+"id": "ARI 693L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARI 696B",
+"subject": "ARI",
+"number": "696B",
+"title": "Advanced Interior Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Studies advanced problems in interior design and examines design strategies and different phases of design. Topics may focus on interior design as it relates to retail, education, sustainability, and health care. Fifteen studio hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Architectural Interior Design 693K and 693L, and consent of the graduate adviser.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ARI 693K"
+},
+{
+"type": "course",
+"id": "ARI 693L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
 "id": "ARI 197",
 "subject": "ARI",
 "number": "197",
@@ -834,6 +1112,38 @@
 "id": "ARI 698",
 "subject": "ARI",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "For students seeking the Master of Interior Design degree. The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in interior design and consent of the graduate adviser; for 698B, Interior Design 698A.",
+"prereqText": "For 698A, graduate standing in interior design and consent of the graduate adviser; for 698B, Interior Design 698A.",
+"prereq": {
+"type": "course",
+"id": "DES 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ARI 698A",
+"subject": "ARI",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "For students seeking the Master of Interior Design degree. The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in interior design and consent of the graduate adviser; for 698B, Interior Design 698A.",
+"prereqText": "For 698A, graduate standing in interior design and consent of the graduate adviser; for 698B, Interior Design 698A.",
+"prereq": {
+"type": "course",
+"id": "DES 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ARI 698B",
+"subject": "ARI",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",

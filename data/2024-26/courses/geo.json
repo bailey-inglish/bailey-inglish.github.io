@@ -445,6 +445,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the study abroad adviser in the Department of Earth and Planetary Sciences. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "GEO 619SA",
+"subject": "GEO",
+"number": "619SA",
+"title": "Topics in Geological Sciences",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the study abroad adviser in the Department of Earth and Planetary Sciences. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GEO 619SB",
+"subject": "GEO",
+"number": "619SB",
+"title": "Topics in Geological Sciences",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad office. Credit is recorded as assigned by the study abroad adviser in the Department of Earth and Planetary Sciences. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "GEO 420F",
 "subject": "GEO",
 "number": "420F",
@@ -817,6 +835,24 @@
 "number": "929S",
 "title": "Topics in Geological Sciences",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Earth and Planetary Sciences. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GEO 629SA",
+"subject": "GEO",
+"number": "629SA",
+"title": "Topics in Geological Sciences",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Earth and Planetary Sciences. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GEO 629SB",
+"subject": "GEO",
+"number": "629SB",
+"title": "Topics in Geological Sciences",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Earth and Planetary Sciences. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -1298,6 +1334,30 @@
 "restricted": "Restricted to geological sciences majors."
 },
 {
+"id": "GEO 660A",
+"subject": "GEO",
+"number": "660A",
+"title": "Field Geology",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to geological sciences majors. Identify sedimentary structures, measure and describe stratigraphy, and make interpretations of physical, biological, and environmental conditions preserved in modern and ancient deposits. Develop an understanding of field mapping methods, structural geology interpretation and analysis, crustal tectonics, basin formation and dynamics, landform evolution, and the geologic history of the Rocky Mountains. Perform field work including camping and dormitory stays, with exposure to high-elevation work and diverse weather conditions. Three lecture hours a week for two semesters. Prerequisite: For 660A, Geological Sciences 416S, 416E, and the following with a grade of at least C-; Geological Sciences 420K, 315L, or 405. For 660B, Geological Sciences 660A.",
+"prereqText": "For 660A, Geological Sciences 416S, 416E, and the following with a grade of at least C-; Geological Sciences 420K, 315L, or 405. For 660B, Geological Sciences 660A.",
+"prereqConfidence": "low",
+"restricted": "Restricted to geological sciences majors."
+},
+{
+"id": "GEO 660B",
+"subject": "GEO",
+"number": "660B",
+"title": "Field Geology",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to geological sciences majors. Identify sedimentary structures, measure and describe stratigraphy, and make interpretations of physical, biological, and environmental conditions preserved in modern and ancient deposits. Develop an understanding of field mapping methods, structural geology interpretation and analysis, crustal tectonics, basin formation and dynamics, landform evolution, and the geologic history of the Rocky Mountains. Perform field work including camping and dormitory stays, with exposure to high-elevation work and diverse weather conditions. Three lecture hours a week for two semesters. Prerequisite: For 660A, Geological Sciences 416S, 416E, and the following with a grade of at least C-; Geological Sciences 420K, 315L, or 405. For 660B, Geological Sciences 660A.",
+"prereqText": "For 660A, Geological Sciences 416S, 416E, and the following with a grade of at least C-; Geological Sciences 420K, 315L, or 405. For 660B, Geological Sciences 660A.",
+"prereqConfidence": "low",
+"restricted": "Restricted to geological sciences majors."
+},
+{
 "id": "GEO 360G",
 "subject": "GEO",
 "number": "360G",
@@ -1326,6 +1386,70 @@
 "id": "GEO 661",
 "subject": "GEO",
 "number": "661",
+"title": "Geophysics Field Camp",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to geophysics majors. Field studies for geophysics majors, including seismic, magnetic, electrical, gravity, and other techniques; related data processing and interpretation. Three lecture hours a week for two semesters. Students may take Geological Sciences 661 for University credit while enrolled in the Los Alamos National Laboratory SAGE program. May be used in place of Geological Sciences 660 to fulfill the requirements for the Bachelor of Science in Geological Sciences (Option II: Geophysics). Prerequisite: Geological Sciences 420K, 465K, and 365P with a grade of at least C- in each.",
+"prereqText": "Geological Sciences 420K, 465K, and 365P with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "GEO 420K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "GEO 465K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "GEO 365P",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to geophysics majors."
+},
+{
+"id": "GEO 661A",
+"subject": "GEO",
+"number": "661A",
+"title": "Geophysics Field Camp",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to geophysics majors. Field studies for geophysics majors, including seismic, magnetic, electrical, gravity, and other techniques; related data processing and interpretation. Three lecture hours a week for two semesters. Students may take Geological Sciences 661 for University credit while enrolled in the Los Alamos National Laboratory SAGE program. May be used in place of Geological Sciences 660 to fulfill the requirements for the Bachelor of Science in Geological Sciences (Option II: Geophysics). Prerequisite: Geological Sciences 420K, 465K, and 365P with a grade of at least C- in each.",
+"prereqText": "Geological Sciences 420K, 465K, and 365P with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "GEO 420K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "GEO 465K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "GEO 365P",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to geophysics majors."
+},
+{
+"id": "GEO 661B",
+"subject": "GEO",
+"number": "661B",
 "title": "Geophysics Field Camp",
 "hours": 6.0,
 "division": "upper",
@@ -1725,6 +1849,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "GEO 671TA",
+"subject": "GEO",
+"number": "671TA",
+"title": "Topics in Geological Sciences: Undergraduate Seminar",
+"hours": 3.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; additional hours may be required for some topics. May not be substituted for any required geological sciences courses. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and consent of instructor; additional prerequisites may vary with the topic.",
+"prereqText": "Upper-division standing and consent of instructor; additional prerequisites may vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "GEO 671TB",
+"subject": "GEO",
+"number": "671TB",
+"title": "Topics in Geological Sciences: Undergraduate Seminar",
+"hours": 3.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; additional hours may be required for some topics. May not be substituted for any required geological sciences courses. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and consent of instructor; additional prerequisites may vary with the topic.",
+"prereqText": "Upper-division standing and consent of instructor; additional prerequisites may vary with the topic.",
+"prereqConfidence": "none"
+},
+{
 "id": "GEO 172H",
 "subject": "GEO",
 "number": "172H",
@@ -1931,6 +2077,30 @@
 "restricted": "Restricted to geophysics majors."
 },
 {
+"id": "GEO 679GA",
+"subject": "GEO",
+"number": "679GA",
+"title": "Special Studies in Geophysics Research, Fieldwork, or Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to geophysics majors. Special research projects, field studies, or geophysical/industrial internship. Assigned reading with written and oral report. Three lecture hours a week for two semesters. May be used instead of Geological Sciences 660 in fulfilling the requirements for the Bachelor of Science in Geological Sciences (Option II: Geophysics). Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to geophysics majors."
+},
+{
+"id": "GEO 679GB",
+"subject": "GEO",
+"number": "679GB",
+"title": "Special Studies in Geophysics Research, Fieldwork, or Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to geophysics majors. Special research projects, field studies, or geophysical/industrial internship. Assigned reading with written and oral report. Three lecture hours a week for two semesters. May be used instead of Geological Sciences 660 in fulfilling the requirements for the Bachelor of Science in Geological Sciences (Option II: Geophysics). Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to geophysics majors."
+},
+{
 "id": "GEO 379H",
 "subject": "GEO",
 "number": "379H",
@@ -1968,6 +2138,40 @@
 "number": "679J",
 "title": "Internship in Hydrogeology",
 "hours": 6.0,
+"division": "upper",
+"description": "Restricted to hydrogeology majors. Special hydrogeological studies under the joint supervision of industry professionals and faculty members. Students present a written report. Forty hours a week for one semester. May be used in place of Geological Sciences 660 in fulfilling the requirements for the Bachelor of Science in Geological Sciences (Option III: Hydrogeology). Prerequisite: Geological Sciences 476K with a grade of at least C-, and consent of instructor.",
+"prereqText": "Geological Sciences 476K with a grade of at least C-, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "GEO 476K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to hydrogeology majors."
+},
+{
+"id": "GEO 679JA",
+"subject": "GEO",
+"number": "679JA",
+"title": "Internship in Hydrogeology",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to hydrogeology majors. Special hydrogeological studies under the joint supervision of industry professionals and faculty members. Students present a written report. Forty hours a week for one semester. May be used in place of Geological Sciences 660 in fulfilling the requirements for the Bachelor of Science in Geological Sciences (Option III: Hydrogeology). Prerequisite: Geological Sciences 476K with a grade of at least C-, and consent of instructor.",
+"prereqText": "Geological Sciences 476K with a grade of at least C-, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "GEO 476K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to hydrogeology majors."
+},
+{
+"id": "GEO 679JB",
+"subject": "GEO",
+"number": "679JB",
+"title": "Internship in Hydrogeology",
+"hours": 3.0,
 "division": "upper",
 "description": "Restricted to hydrogeology majors. Special hydrogeological studies under the joint supervision of industry professionals and faculty members. Students present a written report. Forty hours a week for one semester. May be used in place of Geological Sciences 660 in fulfilling the requirements for the Bachelor of Science in Geological Sciences (Option III: Hydrogeology). Prerequisite: Geological Sciences 476K with a grade of at least C-, and consent of instructor.",
 "prereqText": "Geological Sciences 476K with a grade of at least C-, and consent of instructor.",
@@ -2031,6 +2235,30 @@
 "number": "679N",
 "title": "Geosciences Internship",
 "hours": 6.0,
+"division": "upper",
+"description": "Restricted to geological sciences and environmental science majors. Work experience in geological sciences under the joint supervision of industry professionals (the employer) and a supervising faculty member. Requires submission of a final report to the supervising faculty member at the end of the semester. Internship position must be on file with JSG Career Services. For 379N, twenty laboratory hours a week for one semester. For 679N, forty laboratory hours a week for one semester. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to geological sciences and environmental science majors."
+},
+{
+"id": "GEO 679NA",
+"subject": "GEO",
+"number": "679NA",
+"title": "Geosciences Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to geological sciences and environmental science majors. Work experience in geological sciences under the joint supervision of industry professionals (the employer) and a supervising faculty member. Requires submission of a final report to the supervising faculty member at the end of the semester. Internship position must be on file with JSG Career Services. For 379N, twenty laboratory hours a week for one semester. For 679N, forty laboratory hours a week for one semester. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to geological sciences and environmental science majors."
+},
+{
+"id": "GEO 679NB",
+"subject": "GEO",
+"number": "679NB",
+"title": "Geosciences Internship",
+"hours": 3.0,
 "division": "upper",
 "description": "Restricted to geological sciences and environmental science majors. Work experience in geological sciences under the joint supervision of industry professionals (the employer) and a supervising faculty member. Requires submission of a final report to the supervising faculty member at the end of the semester. Internship position must be on file with JSG Career Services. For 379N, twenty laboratory hours a week for one semester. For 679N, forty laboratory hours a week for one semester. Prerequisite: Consent of instructor.",
 "prereqText": "Consent of instructor.",
@@ -3562,6 +3790,32 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "GEO 694A",
+"subject": "GEO",
+"number": "694A",
+"title": "Topics in Research in Geological Sciences",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to graduate students in geological sciences. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. Offered every semester. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in geological sciences.",
+"prereqText": "Graduate standing in geological sciences.",
+"prereqConfidence": "none",
+"restricted": "Restricted to graduate students in geological sciences.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GEO 694B",
+"subject": "GEO",
+"number": "694B",
+"title": "Topics in Research in Geological Sciences",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to graduate students in geological sciences. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. Offered every semester. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in geological sciences.",
+"prereqText": "Graduate standing in geological sciences.",
+"prereqConfidence": "none",
+"restricted": "Restricted to graduate students in geological sciences.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "GEO 494P",
 "subject": "GEO",
 "number": "494P",
@@ -3653,6 +3907,38 @@
 "id": "GEO 698",
 "subject": "GEO",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in geological sciences and consent of the graduate adviser; for 698B, Geological Sciences 698A.",
+"prereqText": "For 698A, graduate standing in geological sciences and consent of the graduate adviser; for 698B, Geological Sciences 698A.",
+"prereq": {
+"type": "course",
+"id": "GEO 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GEO 698A",
+"subject": "GEO",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in geological sciences and consent of the graduate adviser; for 698B, Geological Sciences 698A.",
+"prereqText": "For 698A, graduate standing in geological sciences and consent of the graduate adviser; for 698B, Geological Sciences 698A.",
+"prereq": {
+"type": "course",
+"id": "GEO 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GEO 698B",
+"subject": "GEO",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -3821,6 +4107,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GEO 699WA",
+"subject": "GEO",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GEO 699WB",
+"subject": "GEO",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

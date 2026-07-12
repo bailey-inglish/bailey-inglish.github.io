@@ -1349,6 +1349,30 @@
 "offering": "Offered on the letter-grade basis only."
 },
 {
+"id": "PGS 693UA",
+"subject": "PGS",
+"number": "693UA",
+"title": "Pharmacotherapy Master's Mentorship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Experience in pharmacy practice, research, and/or administration. For each semester hour of credit earned, three hours of fieldwork a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "PGS 693UB",
+"subject": "PGS",
+"number": "693UB",
+"title": "Pharmacotherapy Master's Mentorship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Experience in pharmacy practice, research, and/or administration. For each semester hour of credit earned, three hours of fieldwork a week for one semester. May be repeated for credit. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
 "id": "PGS 194Q",
 "subject": "PGS",
 "number": "194Q",
@@ -1495,6 +1519,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "PGS 698A",
+"subject": "PGS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in pharmacy and consent of the graduate adviser; for 698B, Pharmacy Graduate Studies 698A.",
+"prereqText": "For 698A, graduate standing in pharmacy and consent of the graduate adviser; for 698B, Pharmacy Graduate Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "PGS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PGS 698B",
+"subject": "PGS",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in pharmacy and consent of the graduate adviser; for 698B, Pharmacy Graduate Studies 698A.",
+"prereqText": "For 698A, graduate standing in pharmacy and consent of the graduate adviser; for 698B, Pharmacy Graduate Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "PGS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "PGS 398T",
 "subject": "PGS",
 "number": "398T",
@@ -1560,6 +1616,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "Pharmacy 399W, 699W, 799W, 899W, 999W and Pharmacy Graduate Studies 399W, 699W, 799W, 899W, 999W may not both be counted. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PGS 699WA",
+"subject": "PGS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Pharmacy 399W, 699W, 799W, 899W, 999W and Pharmacy Graduate Studies 399W, 699W, 799W, 899W, 999W may not both be counted. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PGS 699WB",
+"subject": "PGS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "Pharmacy 399W, 699W, 799W, 899W, 999W and Pharmacy Graduate Studies 399W, 699W, 799W, 899W, 999W may not both be counted. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

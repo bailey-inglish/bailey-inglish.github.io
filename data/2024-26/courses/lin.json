@@ -149,6 +149,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Linguistics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "LIN 619SA",
+"subject": "LIN",
+"number": "619SA",
+"title": "Topics in Linguistics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Linguistics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LIN 619SB",
+"subject": "LIN",
+"number": "619SB",
+"title": "Topics in Linguistics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Linguistics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "LIN 321L",
 "subject": "LIN",
 "number": "321L",
@@ -250,6 +268,24 @@
 "number": "929S",
 "title": "Topics in Linguistics",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Linguistics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LIN 629SA",
+"subject": "LIN",
+"number": "629SA",
+"title": "Topics in Linguistics",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Linguistics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LIN 629SB",
+"subject": "LIN",
+"number": "629SB",
+"title": "Topics in Linguistics",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Linguistics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -753,6 +789,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "LIN 679HA",
+"subject": "LIN",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual reading for one semester, followed by research and writing to produce a substantial paper. Conference course for two semesters. May be repeated for credit. Prerequisite: For 679HA, admission to the Linguistics Honors Program; for 679HB, Linguistics 679HA.",
+"prereqText": "For 679HA, admission to the Linguistics Honors Program; for 679HB, Linguistics 679HA.",
+"prereq": {
+"type": "course",
+"id": "LIN 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LIN 679HB",
+"subject": "LIN",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual reading for one semester, followed by research and writing to produce a substantial paper. Conference course for two semesters. May be repeated for credit. Prerequisite: For 679HA, admission to the Linguistics Honors Program; for 679HB, Linguistics 679HA.",
+"prereqText": "For 679HA, admission to the Linguistics Honors Program; for 679HB, Linguistics 679HA.",
+"prereq": {
+"type": "course",
+"id": "LIN 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "LIN 380K",
 "subject": "LIN",
 "number": "380K",
@@ -1130,6 +1196,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "LIN 698A",
+"subject": "LIN",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in linguistics and consent of the graduate adviser; for 698B, Linguistics 698A.",
+"prereqText": "For 698A, graduate standing in linguistics and consent of the graduate adviser; for 698B, Linguistics 698A.",
+"prereq": {
+"type": "course",
+"id": "LIN 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LIN 698B",
+"subject": "LIN",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in linguistics and consent of the graduate adviser; for 698B, Linguistics 698A.",
+"prereqText": "For 698A, graduate standing in linguistics and consent of the graduate adviser; for 698B, Linguistics 698A.",
+"prereq": {
+"type": "course",
+"id": "LIN 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "LIN 398R",
 "subject": "LIN",
 "number": "398R",
@@ -1182,6 +1280,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LIN 699WA",
+"subject": "LIN",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LIN 699WB",
+"subject": "LIN",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

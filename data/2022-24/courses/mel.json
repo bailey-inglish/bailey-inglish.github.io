@@ -136,6 +136,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "MEL 679HA",
+"subject": "MEL",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual reading for one semester, followed by research and writing to produce a substantial paper on a literary or linguistic problem. Conference course for two semesters. Prerequisite: For 679HA, admission to the Middle Eastern Languages and Cultures Honors Program; for 679HB, Middle Eastern Languages and Cultures 679HA.",
+"prereqText": "For 679HA, admission to the Middle Eastern Languages and Cultures Honors Program; for 679HB, Middle Eastern Languages and Cultures 679HA.",
+"prereq": {
+"type": "course",
+"id": "MEL 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MEL 679HB",
+"subject": "MEL",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual reading for one semester, followed by research and writing to produce a substantial paper on a literary or linguistic problem. Conference course for two semesters. Prerequisite: For 679HA, admission to the Middle Eastern Languages and Cultures Honors Program; for 679HB, Middle Eastern Languages and Cultures 679HA.",
+"prereqText": "For 679HA, admission to the Middle Eastern Languages and Cultures Honors Program; for 679HB, Middle Eastern Languages and Cultures 679HA.",
+"prereq": {
+"type": "course",
+"id": "MEL 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "MEL 380",
 "subject": "MEL",
 "number": "380",
@@ -285,6 +315,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "MEL 698A",
+"subject": "MEL",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Middle Eastern languages and cultures and consent of the graduate adviser; for 698B, Middle Eastern Languages and Cultures 698A.",
+"prereqText": "For 698A, graduate standing in Middle Eastern languages and cultures and consent of the graduate adviser; for 698B, Middle Eastern Languages and Cultures 698A.",
+"prereq": {
+"type": "course",
+"id": "MEL 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MEL 698B",
+"subject": "MEL",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Middle Eastern languages and cultures and consent of the graduate adviser; for 698B, Middle Eastern Languages and Cultures 698A.",
+"prereqText": "For 698A, graduate standing in Middle Eastern languages and cultures and consent of the graduate adviser; for 698B, Middle Eastern Languages and Cultures 698A.",
+"prereq": {
+"type": "course",
+"id": "MEL 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "MEL 398R",
 "subject": "MEL",
 "number": "398R",
@@ -337,6 +399,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MEL 699WA",
+"subject": "MEL",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MEL 699WB",
+"subject": "MEL",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

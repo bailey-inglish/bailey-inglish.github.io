@@ -192,6 +192,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for Russian, East European, and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "REE 619SA",
+"subject": "REE",
+"number": "619SA",
+"title": "Topics in Russian, East European, and Eurasian Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for Russian, East European, and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "REE 619SB",
+"subject": "REE",
+"number": "619SB",
+"title": "Topics in Russian, East European, and Eurasian Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for Russian, East European, and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "REE 325",
 "subject": "REE",
 "number": "325",
@@ -296,6 +314,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for Russian, East European, and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "REE 629SA",
+"subject": "REE",
+"number": "629SA",
+"title": "Topics in Russian, East European, and Eurasian Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for Russian, East European, and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "REE 629SB",
+"subject": "REE",
+"number": "629SB",
+"title": "Topics in Russian, East European, and Eurasian Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for Russian, East European, and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "REE 335",
 "subject": "REE",
 "number": "335",
@@ -345,6 +381,36 @@
 "number": "679H",
 "title": "Honors Tutorial Course",
 "hours": 6.0,
+"division": "upper",
+"description": "Intensive reading and research planned with and approved by the honors adviser, followed by completion of a thesis. Conference course for two semesters. Required of Russian, East European, and Eurasian studies majors who plan to seek special honors in Russian, East European, and Eurasian studies. Prerequisite: For 679HA, upper-division standing, admission to the Russian, East European, and Eurasian Studies Honors Program, and consent of the honors adviser; for 679HB, Russian, East European, and Eurasian Studies 679HA.",
+"prereqText": "For 679HA, upper-division standing, admission to the Russian, East European, and Eurasian Studies Honors Program, and consent of the honors adviser; for 679HB, Russian, East European, and Eurasian Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "REE 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "REE 679HA",
+"subject": "REE",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Intensive reading and research planned with and approved by the honors adviser, followed by completion of a thesis. Conference course for two semesters. Required of Russian, East European, and Eurasian studies majors who plan to seek special honors in Russian, East European, and Eurasian studies. Prerequisite: For 679HA, upper-division standing, admission to the Russian, East European, and Eurasian Studies Honors Program, and consent of the honors adviser; for 679HB, Russian, East European, and Eurasian Studies 679HA.",
+"prereqText": "For 679HA, upper-division standing, admission to the Russian, East European, and Eurasian Studies Honors Program, and consent of the honors adviser; for 679HB, Russian, East European, and Eurasian Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "REE 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "REE 679HB",
+"subject": "REE",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
 "division": "upper",
 "description": "Intensive reading and research planned with and approved by the honors adviser, followed by completion of a thesis. Conference course for two semesters. Required of Russian, East European, and Eurasian studies majors who plan to seek special honors in Russian, East European, and Eurasian studies. Prerequisite: For 679HA, upper-division standing, admission to the Russian, East European, and Eurasian Studies Honors Program, and consent of the honors adviser; for 679HB, Russian, East European, and Eurasian Studies 679HA.",
 "prereqText": "For 679HA, upper-division standing, admission to the Russian, East European, and Eurasian Studies Honors Program, and consent of the honors adviser; for 679HB, Russian, East European, and Eurasian Studies 679HA.",
@@ -446,6 +512,38 @@
 "id": "REE 698",
 "subject": "REE",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Russian, East European, and Eurasian studies; for 698B, Russian, East European, and Eurasian Studies 698A.",
+"prereqText": "For 698A, graduate standing in Russian, East European, and Eurasian studies; for 698B, Russian, East European, and Eurasian Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "REE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "REE 698A",
+"subject": "REE",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Russian, East European, and Eurasian studies; for 698B, Russian, East European, and Eurasian Studies 698A.",
+"prereqText": "For 698A, graduate standing in Russian, East European, and Eurasian studies; for 698B, Russian, East European, and Eurasian Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "REE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "REE 698B",
+"subject": "REE",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",

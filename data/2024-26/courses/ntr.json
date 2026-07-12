@@ -229,6 +229,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "NTR 619SA",
+"subject": "NTR",
+"number": "619SA",
+"title": "Topics in Nutrition",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 619SB",
+"subject": "NTR",
+"number": "619SB",
+"title": "Topics in Nutrition",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "NTR 321",
 "subject": "NTR",
 "number": "321",
@@ -399,6 +417,24 @@
 "number": "929S",
 "title": "Topics in Nutrition",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 629SA",
+"subject": "NTR",
+"number": "629SA",
+"title": "Topics in Nutrition",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 629SB",
+"subject": "NTR",
+"number": "629SB",
+"title": "Topics in Nutrition",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -1092,9 +1128,65 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "NTR 697CA",
+"subject": "NTR",
+"number": "697CA",
+"title": "Conference Course in Nutritional Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "For 397C, one lecture hour and six laboratory hours a week for one semester; for 697C, two lecture hours and twelve laboratory hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 697CB",
+"subject": "NTR",
+"number": "697CB",
+"title": "Conference Course in Nutritional Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "For 397C, one lecture hour and six laboratory hours a week for one semester; for 697C, two lecture hours and twelve laboratory hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "NTR 698",
 "subject": "NTR",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in nutrition and consent of the graduate adviser; for 698B, Nutrition 698A.",
+"prereqText": "For 698A, graduate standing in nutrition and consent of the graduate adviser; for 698B, Nutrition 698A.",
+"prereq": {
+"type": "course",
+"id": "NTR 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 698A",
+"subject": "NTR",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in nutrition and consent of the graduate adviser; for 698B, Nutrition 698A.",
+"prereqText": "For 698A, graduate standing in nutrition and consent of the graduate adviser; for 698B, Nutrition 698A.",
+"prereq": {
+"type": "course",
+"id": "NTR 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 698B",
+"subject": "NTR",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -1160,6 +1252,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 699WA",
+"subject": "NTR",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 699WB",
+"subject": "NTR",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

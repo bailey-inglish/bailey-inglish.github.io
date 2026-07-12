@@ -148,6 +148,26 @@
 "offering": "Offered on the letter-grade basis only."
 },
 {
+"id": "PGE 619SA",
+"subject": "PGE",
+"number": "619SA",
+"title": "Topics in Petroleum and Geosystems Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Petroleum and Geosystems Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "PGE 619SB",
+"subject": "PGE",
+"number": "619SB",
+"title": "Topics in Petroleum and Geosystems Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Petroleum and Geosystems Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
 "id": "PGE 421K",
 "subject": "PGE",
 "number": "421K",
@@ -648,6 +668,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "PGE 679HA",
+"subject": "PGE",
+"number": "679HA",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Petroleum and Geosystems Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Petroleum and Geosystems Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "PGE 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PGE 679HB",
+"subject": "PGE",
+"number": "679HB",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Petroleum and Geosystems Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Petroleum and Geosystems Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "PGE 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "PGE 380",
 "subject": "PGE",
 "number": "380",
@@ -663,6 +713,30 @@
 "id": "PGE 680",
 "subject": "PGE",
 "number": "680",
+"title": "Advanced Petroleum Laboratory for Master's Degree Candidates",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and twelve semester hours of upper-division coursework in petroleum and geosystems engineering.",
+"prereqText": "Graduate standing and twelve semester hours of upper-division coursework in petroleum and geosystems engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PGE 680A",
+"subject": "PGE",
+"number": "680A",
+"title": "Advanced Petroleum Laboratory for Master's Degree Candidates",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and twelve semester hours of upper-division coursework in petroleum and geosystems engineering.",
+"prereqText": "Graduate standing and twelve semester hours of upper-division coursework in petroleum and geosystems engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PGE 680B",
+"subject": "PGE",
+"number": "680B",
 "title": "Advanced Petroleum Laboratory for Master's Degree Candidates",
 "hours": 6.0,
 "division": "graduate",
@@ -913,6 +987,30 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "PGE 690A",
+"subject": "PGE",
+"number": "690A",
+"title": "Advanced Laboratory for Doctoral Candidates",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in petroleum engineering.",
+"prereqText": "Graduate standing in petroleum engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PGE 690B",
+"subject": "PGE",
+"number": "690B",
+"title": "Advanced Laboratory for Doctoral Candidates",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in petroleum engineering.",
+"prereqText": "Graduate standing in petroleum engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "PGE 392K",
 "subject": "PGE",
 "number": "392K",
@@ -988,6 +1086,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "PGE 698A",
+"subject": "PGE",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in petroleum engineering and consent of the graduate adviser; for 698B, Petroleum and Geosystems Engineering 698A.",
+"prereqText": "For 698A, graduate standing in petroleum engineering and consent of the graduate adviser; for 698B, Petroleum and Geosystems Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "PGE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PGE 698B",
+"subject": "PGE",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in petroleum engineering and consent of the graduate adviser; for 698B, Petroleum and Geosystems Engineering 698A.",
+"prereqText": "For 698A, graduate standing in petroleum engineering and consent of the graduate adviser; for 698B, Petroleum and Geosystems Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "PGE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "PGE 398R",
 "subject": "PGE",
 "number": "398R",
@@ -1029,6 +1159,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PGE 699WA",
+"subject": "PGE",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PGE 699WB",
+"subject": "PGE",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

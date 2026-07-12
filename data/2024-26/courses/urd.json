@@ -12,6 +12,24 @@
 "description": "Designed for students who have some knowledge of spoken Urdu but have not studied Urdu formally. Six lecture hours a week for one semester. Hindi 604 and Urdu 604 may not both be counted; Hindi 506 and Urdu 604 may not both be counted; Hindi 507 and Urdu 604 may not both be counted; Urdu 604 and 506 may not both be counted; Urdu 604 and 507 may not both be counted."
 },
 {
+"id": "URD 604A",
+"subject": "URD",
+"number": "604A",
+"title": "Accelerated First-Year Urdu",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed for students who have some knowledge of spoken Urdu but have not studied Urdu formally. Six lecture hours a week for one semester. Hindi 604 and Urdu 604 may not both be counted; Hindi 506 and Urdu 604 may not both be counted; Hindi 507 and Urdu 604 may not both be counted; Urdu 604 and 506 may not both be counted; Urdu 604 and 507 may not both be counted."
+},
+{
+"id": "URD 604B",
+"subject": "URD",
+"number": "604B",
+"title": "Accelerated First-Year Urdu",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed for students who have some knowledge of spoken Urdu but have not studied Urdu formally. Six lecture hours a week for one semester. Hindi 604 and Urdu 604 may not both be counted; Hindi 506 and Urdu 604 may not both be counted; Hindi 507 and Urdu 604 may not both be counted; Urdu 604 and 506 may not both be counted; Urdu 604 and 507 may not both be counted."
+},
+{
 "id": "URD 506",
 "subject": "URD",
 "number": "506",
@@ -40,6 +58,38 @@
 "id": "URD 612",
 "subject": "URD",
 "number": "612",
+"title": "Accelerated Second-Year Urdu",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation of Urdu 604. Six lecture hours a week for one semester. Urdu 612 and 312K may not both be counted; Urdu 612 and 312L may not both be counted. Prerequisite: Urdu 604 with a grade of at least C.",
+"prereqText": "Urdu 604 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "URD 604",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "URD 612A",
+"subject": "URD",
+"number": "612A",
+"title": "Accelerated Second-Year Urdu",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation of Urdu 604. Six lecture hours a week for one semester. Urdu 612 and 312K may not both be counted; Urdu 612 and 312L may not both be counted. Prerequisite: Urdu 604 with a grade of at least C.",
+"prereqText": "Urdu 604 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "URD 604",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "URD 612B",
+"subject": "URD",
+"number": "612B",
 "title": "Accelerated Second-Year Urdu",
 "hours": 6.0,
 "division": "lower",
@@ -198,6 +248,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "URD 619SA",
+"subject": "URD",
+"number": "619SA",
+"title": "Topics in Urdu",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URD 619SB",
+"subject": "URD",
+"number": "619SB",
+"title": "Topics in Urdu",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "URD 129S",
 "subject": "URD",
 "number": "129S",
@@ -275,6 +343,24 @@
 "number": "929S",
 "title": "Topics in Urdu",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URD 629SA",
+"subject": "URD",
+"number": "629SA",
+"title": "Topics in Urdu",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URD 629SB",
+"subject": "URD",
+"number": "629SB",
+"title": "Topics in Urdu",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },

@@ -116,6 +116,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of English. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "CRW 619SA",
+"subject": "CRW",
+"number": "619SA",
+"title": "Topics in Creative Writing",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of English. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CRW 619SB",
+"subject": "CRW",
+"number": "619SB",
+"title": "Topics in Creative Writing",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of English. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "CRW 325",
 "subject": "CRW",
 "number": "325",
@@ -297,6 +315,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of English. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "CRW 629SA",
+"subject": "CRW",
+"number": "629SA",
+"title": "Topics in Creative Writing",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of English. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CRW 629SB",
+"subject": "CRW",
+"number": "629SB",
+"title": "Topics in Creative Writing",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of English. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "CRW 330",
 "subject": "CRW",
 "number": "330",
@@ -451,6 +487,54 @@
 "id": "CRW 660",
 "subject": "CRW",
 "number": "660",
+"title": "Intensive Creative Writing",
+"hours": 6.0,
+"division": "upper",
+"description": "An accelerated seminar-style workshop for highly motivated students. Designed to be taken over two consecutive summer terms; offered only during the summer semester. Three lecture-workshop hours a week for two semesters. Completion of this course is equivalent to completion of both Creative Writing 340F and 355F. Only one of the following may be counted: Creative Writing 340F and 355F; or 660. Prerequisite: For 660A, credit or registration for Creative Writing 325F; for 660B, Creative Writing 660A.",
+"prereqText": "For 660A, credit or registration for Creative Writing 325F; for 660B, Creative Writing 660A.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CRW 325F"
+},
+{
+"type": "course",
+"id": "CRW 660A"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CRW 660A",
+"subject": "CRW",
+"number": "660A",
+"title": "Intensive Creative Writing",
+"hours": 6.0,
+"division": "upper",
+"description": "An accelerated seminar-style workshop for highly motivated students. Designed to be taken over two consecutive summer terms; offered only during the summer semester. Three lecture-workshop hours a week for two semesters. Completion of this course is equivalent to completion of both Creative Writing 340F and 355F. Only one of the following may be counted: Creative Writing 340F and 355F; or 660. Prerequisite: For 660A, credit or registration for Creative Writing 325F; for 660B, Creative Writing 660A.",
+"prereqText": "For 660A, credit or registration for Creative Writing 325F; for 660B, Creative Writing 660A.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CRW 325F"
+},
+{
+"type": "course",
+"id": "CRW 660A"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CRW 660B",
+"subject": "CRW",
+"number": "660B",
 "title": "Intensive Creative Writing",
 "hours": 6.0,
 "division": "upper",

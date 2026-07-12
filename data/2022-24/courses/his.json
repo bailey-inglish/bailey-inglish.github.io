@@ -522,6 +522,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "HIS 619SA",
+"subject": "HIS",
+"number": "619SA",
+"title": "Topics in History",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HIS 619SB",
+"subject": "HIS",
+"number": "619SB",
+"title": "Topics in History",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "HIS 320E",
 "subject": "HIS",
 "number": "320E",
@@ -831,6 +849,24 @@
 "number": "929S",
 "title": "Topics in History",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HIS 629SA",
+"subject": "HIS",
+"number": "629SA",
+"title": "Topics in History",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "HIS 629SB",
+"subject": "HIS",
+"number": "629SB",
+"title": "Topics in History",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of History. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -2986,6 +3022,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "HIS 679HA",
+"subject": "HIS",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "An individual instruction course to provide training in the methods and teaching of historical research and writing. The equivalent of three semester hours a week for two semesters. May not be included in the thirty semester hours of coursework required for the major. Prerequisite: For 679HA, upper-division standing and admission to the History Honors Program; for 679HB, History 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the History Honors Program; for 679HB, History 679HA.",
+"prereq": {
+"type": "course",
+"id": "HIS 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HIS 679HB",
+"subject": "HIS",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "An individual instruction course to provide training in the methods and teaching of historical research and writing. The equivalent of three semester hours a week for two semesters. May not be included in the thirty semester hours of coursework required for the major. Prerequisite: For 679HA, upper-division standing and admission to the History Honors Program; for 679HB, History 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the History Honors Program; for 679HB, History 679HA.",
+"prereq": {
+"type": "course",
+"id": "HIS 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "HIS 380K",
 "subject": "HIS",
 "number": "380K",
@@ -3433,6 +3499,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "HIS 698A",
+"subject": "HIS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in history and consent of the graduate adviser; for 698B, History 698A.",
+"prereqText": "For 698A, graduate standing in history and consent of the graduate adviser; for 698B, History 698A.",
+"prereq": {
+"type": "course",
+"id": "HIS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "HIS 698B",
+"subject": "HIS",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in history and consent of the graduate adviser; for 698B, History 698A.",
+"prereqText": "For 698A, graduate standing in history and consent of the graduate adviser; for 698B, History 698A.",
+"prereq": {
+"type": "course",
+"id": "HIS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "HIS 398R",
 "subject": "HIS",
 "number": "398R",
@@ -3486,6 +3584,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "HIS 699WA",
+"subject": "HIS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "HIS 699WB",
+"subject": "HIS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

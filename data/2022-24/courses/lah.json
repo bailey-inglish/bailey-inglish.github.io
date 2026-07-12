@@ -744,6 +744,58 @@
 "prereqConfidence": "high",
 "restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
 "offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 679TA",
+"subject": "LAH",
+"number": "679TA",
+"title": "Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Supervised research, reading, and writing of a substantial paper on an interdepartmental subject. Conference course for two semesters. Offered on the letter-grade basis only. Prerequisite: For Liberal Arts Honors 679TA, upper-division standing, a grade point average of at least 3.50, and written consent of the director of the Liberal Arts Honors Program; for 679TB, Liberal Arts Honors 679TA.",
+"prereqText": "For Liberal Arts Honors 679TA, upper-division standing, a grade point average of at least 3.50, and written consent of the director of the Liberal Arts Honors Program; for 679TB, Liberal Arts Honors 679TA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "LAH 679TA"
+},
+{
+"type": "course",
+"id": "LAH 679TA"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 679TB",
+"subject": "LAH",
+"number": "679TB",
+"title": "Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Supervised research, reading, and writing of a substantial paper on an interdepartmental subject. Conference course for two semesters. Offered on the letter-grade basis only. Prerequisite: For Liberal Arts Honors 679TA, upper-division standing, a grade point average of at least 3.50, and written consent of the director of the Liberal Arts Honors Program; for 679TB, Liberal Arts Honors 679TA.",
+"prereqText": "For Liberal Arts Honors 679TA, upper-division standing, a grade point average of at least 3.50, and written consent of the director of the Liberal Arts Honors Program; for 679TB, Liberal Arts Honors 679TA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "LAH 679TA"
+},
+{
+"type": "course",
+"id": "LAH 679TA"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
 }
 ]
 }

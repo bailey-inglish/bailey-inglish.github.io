@@ -278,6 +278,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of American Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "AMS 619SA",
+"subject": "AMS",
+"number": "619SA",
+"title": "Topics in American Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of American Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AMS 619SB",
+"subject": "AMS",
+"number": "619SB",
+"title": "Topics in American Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of American Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "AMS 320C",
 "subject": "AMS",
 "number": "320C",
@@ -918,6 +936,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of American Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "AMS 629SA",
+"subject": "AMS",
+"number": "629SA",
+"title": "Topics in American Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of American Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AMS 629SB",
+"subject": "AMS",
+"number": "629SB",
+"title": "Topics in American Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of American Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "AMS 330",
 "subject": "AMS",
 "number": "330",
@@ -1263,6 +1299,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "AMS 679HA",
+"subject": "AMS",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Individual readings and conferences in connection with an original research paper. Conference course for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the American Studies Honors Program; for 679HB, American Studies 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the American Studies Honors Program; for 679HB, American Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "AMS 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "AMS 679HB",
+"subject": "AMS",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Individual readings and conferences in connection with an original research paper. Conference course for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the American Studies Honors Program; for 679HB, American Studies 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the American Studies Honors Program; for 679HB, American Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "AMS 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "AMS 385",
 "subject": "AMS",
 "number": "385",
@@ -1383,6 +1449,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "AMS 698A",
+"subject": "AMS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in American studies and consent of the graduate adviser; for 698B, American Studies 698A.",
+"prereqText": "For 698A, graduate standing in American studies and consent of the graduate adviser; for 698B, American Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "AMS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AMS 698B",
+"subject": "AMS",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in American studies and consent of the graduate adviser; for 698B, American Studies 698A.",
+"prereqText": "For 698A, graduate standing in American studies and consent of the graduate adviser; for 698B, American Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "AMS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "AMS 398R",
 "subject": "AMS",
 "number": "398R",
@@ -1435,6 +1533,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AMS 699WA",
+"subject": "AMS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AMS 699WB",
+"subject": "AMS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

@@ -12,6 +12,24 @@
 "description": "Introduction to an indigenous language of Latin America. Designed to provide students with the basics of grammar and vocabulary; the to ability to engage in simple, colloquial conversation; and basic writing skills as foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary."
 },
 {
+"id": "LAL 601CA",
+"subject": "LAL",
+"number": "601CA",
+"title": "Topics in Intensive Indigenous Language of Latin America I",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to an indigenous language of Latin America. Designed to provide students with the basics of grammar and vocabulary; the to ability to engage in simple, colloquial conversation; and basic writing skills as foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAL 601CB",
+"subject": "LAL",
+"number": "601CB",
+"title": "Topics in Intensive Indigenous Language of Latin America I",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to an indigenous language of Latin America. Designed to provide students with the basics of grammar and vocabulary; the to ability to engage in simple, colloquial conversation; and basic writing skills as foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
 "id": "LAL 406",
 "subject": "LAL",
 "number": "406",
@@ -65,6 +83,38 @@
 "number": "611C",
 "title": "Topics in Intensive Indigenous Language of Latin America II",
 "hours": 6.0,
+"division": "lower",
+"description": "Continuation in the study of an indigenous language of Latin America. Designed to introduce students to advanced subjects in grammar and vocabulary and develop advanced conversation, reading, and writing skills as a foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Indigenous Languages of Latin America 601C with a grade of at least C.",
+"prereqText": "Indigenous Languages of Latin America 601C with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "LAL 601C",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAL 611CA",
+"subject": "LAL",
+"number": "611CA",
+"title": "Topics in Intensive Indigenous Language of Latin America II",
+"hours": 3.0,
+"division": "lower",
+"description": "Continuation in the study of an indigenous language of Latin America. Designed to introduce students to advanced subjects in grammar and vocabulary and develop advanced conversation, reading, and writing skills as a foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Indigenous Languages of Latin America 601C with a grade of at least C.",
+"prereqText": "Indigenous Languages of Latin America 601C with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "LAL 601C",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAL 611CB",
+"subject": "LAL",
+"number": "611CB",
+"title": "Topics in Intensive Indigenous Language of Latin America II",
+"hours": 3.0,
 "division": "lower",
 "description": "Continuation in the study of an indigenous language of Latin America. Designed to introduce students to advanced subjects in grammar and vocabulary and develop advanced conversation, reading, and writing skills as a foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Indigenous Languages of Latin America 601C with a grade of at least C.",
 "prereqText": "Indigenous Languages of Latin America 601C with a grade of at least C.",
@@ -217,6 +267,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Institute of Latin American Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "LAL 619SA",
+"subject": "LAL",
+"number": "619SA",
+"title": "Topics in Indigenous Languages of Latin America",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Institute of Latin American Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAL 619SB",
+"subject": "LAL",
+"number": "619SB",
+"title": "Topics in Indigenous Languages of Latin America",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Institute of Latin American Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "LAL 321",
 "subject": "LAL",
 "number": "321",
@@ -325,6 +393,24 @@
 "number": "929S",
 "title": "Topics in Indigenous Languages of Latin America",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Institute of Latin American Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAL 629SA",
+"subject": "LAL",
+"number": "629SA",
+"title": "Topics in Indigenous Languages of Latin America",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Institute of Latin American Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAL 629SB",
+"subject": "LAL",
+"number": "629SB",
+"title": "Topics in Indigenous Languages of Latin America",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Institute of Latin American Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },

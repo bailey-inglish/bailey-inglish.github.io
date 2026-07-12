@@ -12,6 +12,24 @@
 "description": "Six lecture hours a week for one semester. Telugu 604 and 506 may not both be counted; Telugu 604 and 507 may not both be counted."
 },
 {
+"id": "TEL 604A",
+"subject": "TEL",
+"number": "604A",
+"title": "Accelerated First-Year Telugu",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester. Telugu 604 and 506 may not both be counted; Telugu 604 and 507 may not both be counted."
+},
+{
+"id": "TEL 604B",
+"subject": "TEL",
+"number": "604B",
+"title": "Accelerated First-Year Telugu",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester. Telugu 604 and 506 may not both be counted; Telugu 604 and 507 may not both be counted."
+},
+{
 "id": "TEL 506",
 "subject": "TEL",
 "number": "506",
@@ -40,6 +58,36 @@
 "id": "TEL 612",
 "subject": "TEL",
 "number": "612",
+"title": "Accelerated Second-Year Telugu",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation of Telugu 604. Six lecture hours a week for one semester. Telugu 612 and 312K may not both be counted; Telugu 612 and 312L may not both be counted. Prerequisite: Telugu 604.",
+"prereqText": "Telugu 604.",
+"prereq": {
+"type": "course",
+"id": "TEL 604"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TEL 612A",
+"subject": "TEL",
+"number": "612A",
+"title": "Accelerated Second-Year Telugu",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation of Telugu 604. Six lecture hours a week for one semester. Telugu 612 and 312K may not both be counted; Telugu 612 and 312L may not both be counted. Prerequisite: Telugu 604.",
+"prereqText": "Telugu 604.",
+"prereq": {
+"type": "course",
+"id": "TEL 604"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TEL 612B",
+"subject": "TEL",
+"number": "612B",
 "title": "Accelerated Second-Year Telugu",
 "hours": 6.0,
 "division": "lower",
@@ -206,6 +254,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "TEL 619SA",
+"subject": "TEL",
+"number": "619SA",
+"title": "Topics in Telugu",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TEL 619SB",
+"subject": "TEL",
+"number": "619SB",
+"title": "Topics in Telugu",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "TEL 129S",
 "subject": "TEL",
 "number": "129S",
@@ -283,6 +349,24 @@
 "number": "929S",
 "title": "Topics in Telugu",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TEL 629SA",
+"subject": "TEL",
+"number": "629SA",
+"title": "Topics in Telugu",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TEL 629SB",
+"subject": "TEL",
+"number": "629SB",
+"title": "Topics in Telugu",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },

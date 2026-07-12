@@ -234,6 +234,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "GRG 619SA",
+"subject": "GRG",
+"number": "619SA",
+"title": "Topics in Geography",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GRG 619SB",
+"subject": "GRG",
+"number": "619SB",
+"title": "Topics in Geography",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "GRG 320J",
 "subject": "GRG",
 "number": "320J",
@@ -606,6 +624,24 @@
 "number": "929S",
 "title": "Topics in Geography",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GRG 629SA",
+"subject": "GRG",
+"number": "629SA",
+"title": "Topics in Geography",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GRG 629SB",
+"subject": "GRG",
+"number": "629SB",
+"title": "Topics in Geography",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -1415,6 +1451,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "GRG 679HA",
+"subject": "GRG",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "For honors candidates in geography. Individual reading of selected works for one semester, followed in the second semester by the writing of an honors thesis. Regular conferences with the faculty supervisor are also required. Conference course for two semesters. Prerequisite: For 679HA, admission to the Geography Honors Program no later than two semesters before expected graduation; for 679HB, Geography 679HA. A University grade point average of at least 3.00 and a grade point average in geography of at least 3.50 are required for admission to the Geography Honors Program.",
+"prereqText": "For 679HA, admission to the Geography Honors Program no later than two semesters before expected graduation; for 679HB, Geography 679HA. A University grade point average of at least 3.00 and a grade point average in geography of at least 3.50 are required for admission to the Geography Honors Program.",
+"prereq": {
+"type": "course",
+"id": "GRG 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GRG 679HB",
+"subject": "GRG",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "For honors candidates in geography. Individual reading of selected works for one semester, followed in the second semester by the writing of an honors thesis. Regular conferences with the faculty supervisor are also required. Conference course for two semesters. Prerequisite: For 679HA, admission to the Geography Honors Program no later than two semesters before expected graduation; for 679HB, Geography 679HA. A University grade point average of at least 3.00 and a grade point average in geography of at least 3.50 are required for admission to the Geography Honors Program.",
+"prereqText": "For 679HA, admission to the Geography Honors Program no later than two semesters before expected graduation; for 679HB, Geography 679HA. A University grade point average of at least 3.00 and a grade point average in geography of at least 3.50 are required for admission to the Geography Honors Program.",
+"prereq": {
+"type": "course",
+"id": "GRG 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "GRG 379K",
 "subject": "GRG",
 "number": "379K",
@@ -2032,6 +2098,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "GRG 698A",
+"subject": "GRG",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in geography and consent of the graduate adviser; for 698B, Geography 698A.",
+"prereqText": "For 698A, graduate standing in geography and consent of the graduate adviser; for 698B, Geography 698A.",
+"prereq": {
+"type": "course",
+"id": "GRG 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GRG 698B",
+"subject": "GRG",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in geography and consent of the graduate adviser; for 698B, Geography 698A.",
+"prereqText": "For 698A, graduate standing in geography and consent of the graduate adviser; for 698B, Geography 698A.",
+"prereq": {
+"type": "course",
+"id": "GRG 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "GRG 398R",
 "subject": "GRG",
 "number": "398R",
@@ -2084,6 +2182,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GRG 699WA",
+"subject": "GRG",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GRG 699WB",
+"subject": "GRG",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

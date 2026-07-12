@@ -202,6 +202,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded to work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "MES 619SA",
+"subject": "MES",
+"number": "619SA",
+"title": "Topics in Middle Eastern Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded to work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MES 619SB",
+"subject": "MES",
+"number": "619SB",
+"title": "Topics in Middle Eastern Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded to work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "MES 323C",
 "subject": "MES",
 "number": "323C",
@@ -315,6 +333,24 @@
 "number": "929S",
 "title": "Topics in Middle Eastern Studies",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MES 629SA",
+"subject": "MES",
+"number": "629SA",
+"title": "Topics in Middle Eastern Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MES 629SB",
+"subject": "MES",
+"number": "629SB",
+"title": "Topics in Middle Eastern Studies",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -469,6 +505,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "MES 679HA",
+"subject": "MES",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual reading for one semester, followed by research and writing to produce a substantial paper on a special topic in middle eastern studies, to be completed during the second semester. Conference course for two semesters. Prerequisite: For 679HA, admission to the Middle Eastern Studies Honors Program; for 679HB, Middle Eastern Studies 679HA.",
+"prereqText": "For 679HA, admission to the Middle Eastern Studies Honors Program; for 679HB, Middle Eastern Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "MES 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MES 679HB",
+"subject": "MES",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual reading for one semester, followed by research and writing to produce a substantial paper on a special topic in middle eastern studies, to be completed during the second semester. Conference course for two semesters. Prerequisite: For 679HA, admission to the Middle Eastern Studies Honors Program; for 679HB, Middle Eastern Studies 679HA.",
+"prereqText": "For 679HA, admission to the Middle Eastern Studies Honors Program; for 679HB, Middle Eastern Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "MES 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "MES 380",
 "subject": "MES",
 "number": "380",
@@ -606,6 +672,38 @@
 "id": "MES 698",
 "subject": "MES",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Middle Eastern studies and consent of the graduate adviser; for 698B, Middle Eastern Studies 698A.",
+"prereqText": "For 698A, graduate standing in Middle Eastern studies and consent of the graduate adviser; for 698B, Middle Eastern Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "MES 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MES 698A",
+"subject": "MES",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Middle Eastern studies and consent of the graduate adviser; for 698B, Middle Eastern Studies 698A.",
+"prereqText": "For 698A, graduate standing in Middle Eastern studies and consent of the graduate adviser; for 698B, Middle Eastern Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "MES 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MES 698B",
+"subject": "MES",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",

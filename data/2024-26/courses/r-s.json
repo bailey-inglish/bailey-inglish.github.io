@@ -441,6 +441,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Religious Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "R S 619SA",
+"subject": "R S",
+"number": "619SA",
+"title": "Topics in Religious Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Religious Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "R S 619SB",
+"subject": "R S",
+"number": "619SB",
+"title": "Topics in Religious Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Religious Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "R S 320",
 "subject": "R S",
 "number": "320",
@@ -613,6 +631,24 @@
 "number": "929S",
 "title": "Topics in Religious Studies",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Religious Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated program. May be repeated for credit when the topics vary."
+},
+{
+"id": "R S 629SA",
+"subject": "R S",
+"number": "629SA",
+"title": "Topics in Religious Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Religious Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated program. May be repeated for credit when the topics vary."
+},
+{
+"id": "R S 629SB",
+"subject": "R S",
+"number": "629SB",
+"title": "Topics in Religious Studies",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Religious Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated program. May be repeated for credit when the topics vary."
 },
@@ -2337,6 +2373,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "R S 679HA",
+"subject": "R S",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual reading for one semester, followed by research and writing to produce a substantial paper on a specific topic in religious studies, to be completed during the second semester. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Religious Studies Honors Program; for 679HB, Religious Studies 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the Religious Studies Honors Program; for 679HB, Religious Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "R S 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "R S 679HB",
+"subject": "R S",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual reading for one semester, followed by research and writing to produce a substantial paper on a specific topic in religious studies, to be completed during the second semester. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Religious Studies Honors Program; for 679HB, Religious Studies 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the Religious Studies Honors Program; for 679HB, Religious Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "R S 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "R S 180",
 "subject": "R S",
 "number": "180",
@@ -2618,6 +2684,30 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "R S 696EA",
+"subject": "R S",
+"number": "696EA",
+"title": "Examination Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed for religious studies doctoral students preparing for qualifying examinations. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of graduate adviser.",
+"prereqText": "Graduate standing and consent of graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "R S 696EB",
+"subject": "R S",
+"number": "696EB",
+"title": "Examination Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed for religious studies doctoral students preparing for qualifying examinations. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of graduate adviser.",
+"prereqText": "Graduate standing and consent of graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "R S 396P",
 "subject": "R S",
 "number": "396P",
@@ -2654,9 +2744,65 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "R S 696PA",
+"subject": "R S",
+"number": "696PA",
+"title": "Dissertation Prospectus",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed for Religious Studies doctoral students preparing a dissertation proposal. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "R S 696PB",
+"subject": "R S",
+"number": "696PB",
+"title": "Dissertation Prospectus",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed for Religious Studies doctoral students preparing a dissertation proposal. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "R S 698",
 "subject": "R S",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in religious studies and consent of the graduate adviser; for 698B, Religious Studies 698A.",
+"prereqText": "For 698A, graduate standing in religious studies and consent of the graduate adviser; for 698B, Religious Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "R S 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "R S 698A",
+"subject": "R S",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in religious studies and consent of the graduate adviser; for 698B, Religious Studies 698A.",
+"prereqText": "For 698A, graduate standing in religious studies and consent of the graduate adviser; for 698B, Religious Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "R S 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "R S 698B",
+"subject": "R S",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -2723,6 +2869,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "R S 699WA",
+"subject": "R S",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "R S 699WB",
+"subject": "R S",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

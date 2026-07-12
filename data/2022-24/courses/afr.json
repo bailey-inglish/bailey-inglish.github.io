@@ -421,6 +421,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "AFR 619SA",
+"subject": "AFR",
+"number": "619SA",
+"title": "Topics in African and African Diaspora Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AFR 619SB",
+"subject": "AFR",
+"number": "619SB",
+"title": "Topics in African and African Diaspora Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "AFR 320C",
 "subject": "AFR",
 "number": "320C",
@@ -616,6 +634,24 @@
 "number": "929S",
 "title": "Topics in African and African Diaspora Studies",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AFR 629SA",
+"subject": "AFR",
+"number": "629SA",
+"title": "Topics in African and African Diaspora Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AFR 629SB",
+"subject": "AFR",
+"number": "629SB",
+"title": "Topics in African and African Diaspora Studies",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -2514,6 +2550,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "AFR 679HA",
+"subject": "AFR",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "For honors candidates in African and African diaspora studies. Individual reading of selected works for one semester, followed in the second semester by the writing of an honors thesis. Conference course for two semesters. Prerequisite: For 679HA, admission to the African and African Diaspora Studies Honors Program no later than two semesters before expected graduation; for 679HB, African and African Diaspora Studies 679HA. A University grade point average of at least 3.00 and a grade point average in African and African diaspora studies of at least 3.50 are required for admission to the African and African Diaspora Studies Honors Program.",
+"prereqText": "For 679HA, admission to the African and African Diaspora Studies Honors Program no later than two semesters before expected graduation; for 679HB, African and African Diaspora Studies 679HA. A University grade point average of at least 3.00 and a grade point average in African and African diaspora studies of at least 3.50 are required for admission to the African and African Diaspora Studies Honors Program.",
+"prereq": {
+"type": "course",
+"id": "AFR 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "AFR 679HB",
+"subject": "AFR",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "For honors candidates in African and African diaspora studies. Individual reading of selected works for one semester, followed in the second semester by the writing of an honors thesis. Conference course for two semesters. Prerequisite: For 679HA, admission to the African and African Diaspora Studies Honors Program no later than two semesters before expected graduation; for 679HB, African and African Diaspora Studies 679HA. A University grade point average of at least 3.00 and a grade point average in African and African diaspora studies of at least 3.50 are required for admission to the African and African Diaspora Studies Honors Program.",
+"prereqText": "For 679HA, admission to the African and African Diaspora Studies Honors Program no later than two semesters before expected graduation; for 679HB, African and African Diaspora Studies 679HA. A University grade point average of at least 3.00 and a grade point average in African and African diaspora studies of at least 3.50 are required for admission to the African and African Diaspora Studies Honors Program.",
+"prereq": {
+"type": "course",
+"id": "AFR 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "AFR 380",
 "subject": "AFR",
 "number": "380",
@@ -2705,6 +2771,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "AFR 698A",
+"subject": "AFR",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in African and African diaspora studies; for 698B, African and African Diaspora Studies 698A.",
+"prereqText": "For 698A, graduate standing in African and African diaspora studies; for 698B, African and African Diaspora Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "AFR 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AFR 698B",
+"subject": "AFR",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in African and African diaspora studies; for 698B, African and African Diaspora Studies 698A.",
+"prereqText": "For 698A, graduate standing in African and African diaspora studies; for 698B, African and African Diaspora Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "AFR 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "AFR 398R",
 "subject": "AFR",
 "number": "398R",
@@ -2762,6 +2860,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AFR 699WA",
+"subject": "AFR",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AFR 699WB",
+"subject": "AFR",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

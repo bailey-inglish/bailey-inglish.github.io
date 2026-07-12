@@ -12,6 +12,24 @@
 "description": "First semester of intensive Turkish language instruction. Six lecture hours a week for one semester. Turkish 601C and 506 may not both be counted. Turkish 601C and 507 may not both be counted."
 },
 {
+"id": "TUR 601CA",
+"subject": "TUR",
+"number": "601CA",
+"title": "Intensive Turkish I",
+"hours": 3.0,
+"division": "lower",
+"description": "First semester of intensive Turkish language instruction. Six lecture hours a week for one semester. Turkish 601C and 506 may not both be counted. Turkish 601C and 507 may not both be counted."
+},
+{
+"id": "TUR 601CB",
+"subject": "TUR",
+"number": "601CB",
+"title": "Intensive Turkish I",
+"hours": 3.0,
+"division": "lower",
+"description": "First semester of intensive Turkish language instruction. Six lecture hours a week for one semester. Turkish 601C and 506 may not both be counted. Turkish 601C and 507 may not both be counted."
+},
+{
 "id": "TUR 506",
 "subject": "TUR",
 "number": "506",
@@ -42,6 +60,56 @@
 "number": "611C",
 "title": "Intensive Turkish II",
 "hours": 6.0,
+"division": "lower",
+"description": "Second semester of intensive Turkish language instruction. Six lecture hours a week for one semester. Turkish 611C and 412K may not both be counted. Turkish 611C and 412L may not both be counted. Prerequisite: Turkish 601C or 507 with a grade of at least C.",
+"prereqText": "Turkish 601C or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "TUR 601C"
+},
+{
+"type": "course",
+"id": "TUR 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 611CA",
+"subject": "TUR",
+"number": "611CA",
+"title": "Intensive Turkish II",
+"hours": 3.0,
+"division": "lower",
+"description": "Second semester of intensive Turkish language instruction. Six lecture hours a week for one semester. Turkish 611C and 412K may not both be counted. Turkish 611C and 412L may not both be counted. Prerequisite: Turkish 601C or 507 with a grade of at least C.",
+"prereqText": "Turkish 601C or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "TUR 601C"
+},
+{
+"type": "course",
+"id": "TUR 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TUR 611CB",
+"subject": "TUR",
+"number": "611CB",
+"title": "Intensive Turkish II",
+"hours": 3.0,
 "division": "lower",
 "description": "Second semester of intensive Turkish language instruction. Six lecture hours a week for one semester. Turkish 611C and 412K may not both be counted. Turkish 611C and 412L may not both be counted. Prerequisite: Turkish 601C or 507 with a grade of at least C.",
 "prereqText": "Turkish 601C or 507 with a grade of at least C.",
@@ -180,6 +248,24 @@
 "number": "919S",
 "title": "Topics in Turkish",
 "hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 619SA",
+"subject": "TUR",
+"number": "619SA",
+"title": "Topics in Turkish",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 619SB",
+"subject": "TUR",
+"number": "619SB",
+"title": "Topics in Turkish",
+"hours": 3.0,
 "division": "lower",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -410,6 +496,24 @@
 "number": "929S",
 "title": "Topics in Turkish",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 629SA",
+"subject": "TUR",
+"number": "629SA",
+"title": "Topics in Turkish",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TUR 629SB",
+"subject": "TUR",
+"number": "629SB",
+"title": "Topics in Turkish",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },

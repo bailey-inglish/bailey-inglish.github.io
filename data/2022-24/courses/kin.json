@@ -341,6 +341,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Kinesiology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "KIN 619RA",
+"subject": "KIN",
+"number": "619RA",
+"title": "Topics in Kinesiology",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Kinesiology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "KIN 619RB",
+"subject": "KIN",
+"number": "619RB",
+"title": "Topics in Kinesiology",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Kinesiology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "KIN 219S",
 "subject": "KIN",
 "number": "219S",
@@ -509,6 +527,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "KIN 627DA",
+"subject": "KIN",
+"number": "627DA",
+"title": "Fieldwork: Aiding",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised fieldwork in appropriate activity courses. For 127D, up to three hours of fieldwork a week for one semester; for 227D, up to six hours of fieldwork a week for one semester; for 327D, up to nine hours of fieldwork a week for one semester; for 627D, up to twenty hours of fieldwork a week for one semester. May be repeated for credit up to twelve semester hours. No more than twelve semester hours in kinesiology or health education fieldwork or internship credit may be counted. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "KIN 627DB",
+"subject": "KIN",
+"number": "627DB",
+"title": "Fieldwork: Aiding",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised fieldwork in appropriate activity courses. For 127D, up to three hours of fieldwork a week for one semester; for 227D, up to six hours of fieldwork a week for one semester; for 327D, up to nine hours of fieldwork a week for one semester; for 627D, up to twenty hours of fieldwork a week for one semester. May be repeated for credit up to twelve semester hours. No more than twelve semester hours in kinesiology or health education fieldwork or internship credit may be counted. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
 "id": "KIN 127E",
 "subject": "KIN",
 "number": "127E",
@@ -557,11 +597,85 @@
 "restricted": "Restricted to applied learning and development majors."
 },
 {
+"id": "KIN 627EA",
+"subject": "KIN",
+"number": "627EA",
+"title": "Fieldwork: Applied Learning and Development Majors",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to applied learning and development majors. Supervised fieldwork or clinical work in appropriate activities. For 127E, up to three hours of fieldwork a week for one semester; for 227E, up to six hours of fieldwork a week for one semester; for 327E, up to nine hours of fieldwork a week for one semester; for 627E, up to twenty hours of fieldwork a week for one semester. May be repeated for credit up to twelve semester hours. No more than twelve semester hours in kinesiology or health education fieldwork or internship credit may be counted. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to applied learning and development majors."
+},
+{
+"id": "KIN 627EB",
+"subject": "KIN",
+"number": "627EB",
+"title": "Fieldwork: Applied Learning and Development Majors",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to applied learning and development majors. Supervised fieldwork or clinical work in appropriate activities. For 127E, up to three hours of fieldwork a week for one semester; for 227E, up to six hours of fieldwork a week for one semester; for 327E, up to nine hours of fieldwork a week for one semester; for 627E, up to twenty hours of fieldwork a week for one semester. May be repeated for credit up to twelve semester hours. No more than twelve semester hours in kinesiology or health education fieldwork or internship credit may be counted. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to applied learning and development majors."
+},
+{
 "id": "KIN 627F",
 "subject": "KIN",
 "number": "627F",
 "title": "Internship",
 "hours": 6.0,
+"division": "upper",
+"description": "Restricted to health education and kinesiology majors. Supervised fieldwork or clinical work in appropriate activities. The equivalent of twenty lecture hours a week for one semester; additional hours may be required for some topics. May be repeated for credit when topics vary up to twelve semester hours. No more than twelve semester hours in health education or kinesiology fieldwork or internship credit may be counted. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing, Kinesiology 327T (Topic 1) or 327T (Topic 2), a University grade point average of at least 2.50, and consent of instructor.",
+"prereqText": "Upper-division standing, Kinesiology 327T (Topic 1) or 327T (Topic 2), a University grade point average of at least 2.50, and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "KIN 327T"
+},
+{
+"type": "course",
+"id": "KIN 327T"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to health education and kinesiology majors."
+},
+{
+"id": "KIN 627FA",
+"subject": "KIN",
+"number": "627FA",
+"title": "Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to health education and kinesiology majors. Supervised fieldwork or clinical work in appropriate activities. The equivalent of twenty lecture hours a week for one semester; additional hours may be required for some topics. May be repeated for credit when topics vary up to twelve semester hours. No more than twelve semester hours in health education or kinesiology fieldwork or internship credit may be counted. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing, Kinesiology 327T (Topic 1) or 327T (Topic 2), a University grade point average of at least 2.50, and consent of instructor.",
+"prereqText": "Upper-division standing, Kinesiology 327T (Topic 1) or 327T (Topic 2), a University grade point average of at least 2.50, and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "KIN 327T"
+},
+{
+"type": "course",
+"id": "KIN 327T"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to health education and kinesiology majors."
+},
+{
+"id": "KIN 627FB",
+"subject": "KIN",
+"number": "627FB",
+"title": "Internship",
+"hours": 3.0,
 "division": "upper",
 "description": "Restricted to health education and kinesiology majors. Supervised fieldwork or clinical work in appropriate activities. The equivalent of twenty lecture hours a week for one semester; additional hours may be required for some topics. May be repeated for credit when topics vary up to twelve semester hours. No more than twelve semester hours in health education or kinesiology fieldwork or internship credit may be counted. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing, Kinesiology 327T (Topic 1) or 327T (Topic 2), a University grade point average of at least 2.50, and consent of instructor.",
 "prereqText": "Upper-division standing, Kinesiology 327T (Topic 1) or 327T (Topic 2), a University grade point average of at least 2.50, and consent of instructor.",
@@ -626,6 +740,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "KIN 627JA",
+"subject": "KIN",
+"number": "627JA",
+"title": "Fieldwork: Off Campus",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised fieldwork or clinical work in appropriate activities off campus. For 127J, up to three hours of fieldwork a week for one semester; for 227J, up to six hours of fieldwork a week for one semester; for 327J, up to nine hours of fieldwork a week for one semester; for 627J, up to twenty hours of fieldwork a week for one semester. May be repeated for credit up to twelve semester hours. No more than twelve semester hours in kinesiology or health education fieldwork or internship credit may be counted. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "KIN 627JB",
+"subject": "KIN",
+"number": "627JB",
+"title": "Fieldwork: Off Campus",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised fieldwork or clinical work in appropriate activities off campus. For 127J, up to three hours of fieldwork a week for one semester; for 227J, up to six hours of fieldwork a week for one semester; for 327J, up to nine hours of fieldwork a week for one semester; for 627J, up to twenty hours of fieldwork a week for one semester. May be repeated for credit up to twelve semester hours. No more than twelve semester hours in kinesiology or health education fieldwork or internship credit may be counted. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
 "id": "KIN 127K",
 "subject": "KIN",
 "number": "127K",
@@ -664,6 +800,28 @@
 "number": "627K",
 "title": "Fieldwork: On Campus",
 "hours": 6.0,
+"division": "upper",
+"description": "Supervised fieldwork or clinical work in appropriate activities on campus. For 127K, up to three hours of fieldwork a week for one semester; for 227K, up to six hours of fieldwork a week for one semester; for 327K, up to nine hours of fieldwork a week for one semester; for 627K, up to twenty hours of fieldwork a week for one semester. May be repeated for credit up to twelve semester hours. No more than twelve semester hours in kinesiology or health education fieldwork or internship credit may be counted. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "KIN 627KA",
+"subject": "KIN",
+"number": "627KA",
+"title": "Fieldwork: On Campus",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised fieldwork or clinical work in appropriate activities on campus. For 127K, up to three hours of fieldwork a week for one semester; for 227K, up to six hours of fieldwork a week for one semester; for 327K, up to nine hours of fieldwork a week for one semester; for 627K, up to twenty hours of fieldwork a week for one semester. May be repeated for credit up to twelve semester hours. No more than twelve semester hours in kinesiology or health education fieldwork or internship credit may be counted. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "KIN 627KB",
+"subject": "KIN",
+"number": "627KB",
+"title": "Fieldwork: On Campus",
+"hours": 3.0,
 "division": "upper",
 "description": "Supervised fieldwork or clinical work in appropriate activities on campus. For 127K, up to three hours of fieldwork a week for one semester; for 227K, up to six hours of fieldwork a week for one semester; for 327K, up to nine hours of fieldwork a week for one semester; for 627K, up to twenty hours of fieldwork a week for one semester. May be repeated for credit up to twelve semester hours. No more than twelve semester hours in kinesiology or health education fieldwork or internship credit may be counted. May be repeated for credit. Prerequisite: Consent of instructor.",
 "prereqText": "Consent of instructor.",
@@ -726,6 +884,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "KIN 627RA",
+"subject": "KIN",
+"number": "627RA",
+"title": "Fieldwork: Lab Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised fieldwork or clinical work in appropriate activities. For 127R, up to three hours of fieldwork a week for one semester; for 227R, up to six hours of fieldwork a week for one semester; for 327R, up to nine hours of fieldwork a week for one semester; for 627R, up to twenty hours of fieldwork a week for one semester. May be repeated for credit up to twelve semester hours. No more than twelve semester hours in kinesiology or health education fieldwork or internship credit may be counted. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "KIN 627RB",
+"subject": "KIN",
+"number": "627RB",
+"title": "Fieldwork: Lab Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised fieldwork or clinical work in appropriate activities. For 127R, up to three hours of fieldwork a week for one semester; for 227R, up to six hours of fieldwork a week for one semester; for 327R, up to nine hours of fieldwork a week for one semester; for 627R, up to twenty hours of fieldwork a week for one semester. May be repeated for credit up to twelve semester hours. No more than twelve semester hours in kinesiology or health education fieldwork or internship credit may be counted. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
 "id": "KIN 327T",
 "subject": "KIN",
 "number": "327T",
@@ -740,6 +920,30 @@
 "id": "KIN 628",
 "subject": "KIN",
 "number": "628",
+"title": "Fieldwork in Sport Management",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to sport management majors. Twenty-seven hours of fieldwork a week for one semester. Requires 270 hours overall or about 20 hours per week. Students will be required to have no more than six hours remaining in their cognate to be eligible. May be taken twice for credit. No more than twelve semester hours in the following courses may be counted: Kinesiology 127L, 227L, 327L, 627L, 628. May be repeated for credit. Prerequisite: Upper-division standing, a University grade point average of at least 2.50, and consent of the faculty adviser.",
+"prereqText": "Upper-division standing, a University grade point average of at least 2.50, and consent of the faculty adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to sport management majors."
+},
+{
+"id": "KIN 628A",
+"subject": "KIN",
+"number": "628A",
+"title": "Fieldwork in Sport Management",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to sport management majors. Twenty-seven hours of fieldwork a week for one semester. Requires 270 hours overall or about 20 hours per week. Students will be required to have no more than six hours remaining in their cognate to be eligible. May be taken twice for credit. No more than twelve semester hours in the following courses may be counted: Kinesiology 127L, 227L, 327L, 627L, 628. May be repeated for credit. Prerequisite: Upper-division standing, a University grade point average of at least 2.50, and consent of the faculty adviser.",
+"prereqText": "Upper-division standing, a University grade point average of at least 2.50, and consent of the faculty adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to sport management majors."
+},
+{
+"id": "KIN 628B",
+"subject": "KIN",
+"number": "628B",
 "title": "Fieldwork in Sport Management",
 "hours": 6.0,
 "division": "upper",
@@ -838,6 +1042,24 @@
 "number": "929S",
 "title": "Topics in Kinesiology",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Kinesiology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "KIN 629SA",
+"subject": "KIN",
+"number": "629SA",
+"title": "Topics in Kinesiology",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Kinesiology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "KIN 629SB",
+"subject": "KIN",
+"number": "629SB",
+"title": "Topics in Kinesiology",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Kinesiology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -1443,6 +1665,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "KIN 678A",
+"subject": "KIN",
+"number": "678A",
+"title": "Fieldwork in Health",
+"hours": 6.0,
+"division": "upper",
+"description": "Undergraduate research and/or experience with a health agency in the field attempting to analyze or solve community health problems through education; supervision by the health agency and by the kinesiology and health education faculty. For each semester hour of credit earned, two laboratory hours a week for one semester. Some topics are offered on the pass/fail basis only; these are identified in the Course Schedule. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "KIN 678B",
+"subject": "KIN",
+"number": "678B",
+"title": "Fieldwork in Health",
+"hours": 6.0,
+"division": "upper",
+"description": "Undergraduate research and/or experience with a health agency in the field attempting to analyze or solve community health problems through education; supervision by the health agency and by the kinesiology and health education faculty. For each semester hour of credit earned, two laboratory hours a week for one semester. Some topics are offered on the pass/fail basis only; these are identified in the Course Schedule. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
 "id": "KIN 379H",
 "subject": "KIN",
 "number": "379H",
@@ -1619,9 +1863,63 @@
 "prereqConfidence": "none"
 },
 {
+"id": "KIN 697PA",
+"subject": "KIN",
+"number": "697PA",
+"title": "Graduate Internship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised practice in a professional organization, business, or institution. The equivalent of three, nine, or eighteen laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, a University grade point average of at least 3.00 and a grade point average in the major department of at least 3.00, and written consent form.",
+"prereqText": "Graduate standing, a University grade point average of at least 3.00 and a grade point average in the major department of at least 3.00, and written consent form.",
+"prereqConfidence": "none"
+},
+{
+"id": "KIN 697PB",
+"subject": "KIN",
+"number": "697PB",
+"title": "Graduate Internship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised practice in a professional organization, business, or institution. The equivalent of three, nine, or eighteen laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, a University grade point average of at least 3.00 and a grade point average in the major department of at least 3.00, and written consent form.",
+"prereqText": "Graduate standing, a University grade point average of at least 3.00 and a grade point average in the major department of at least 3.00, and written consent form.",
+"prereqConfidence": "none"
+},
+{
 "id": "KIN 698",
 "subject": "KIN",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in kinesiology and written consent of the graduate adviser; for 698B, Kinesiology 698A and written consent of the graduate adviser.",
+"prereqText": "For 698A, graduate standing in kinesiology and written consent of the graduate adviser; for 698B, Kinesiology 698A and written consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "KIN 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "KIN 698A",
+"subject": "KIN",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in kinesiology and written consent of the graduate adviser; for 698B, Kinesiology 698A and written consent of the graduate adviser.",
+"prereqText": "For 698A, graduate standing in kinesiology and written consent of the graduate adviser; for 698B, Kinesiology 698A and written consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "KIN 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "KIN 698B",
+"subject": "KIN",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -1676,6 +1974,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree .",
+"prereqText": "Admission to candidacy for the doctoral degree .",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "KIN 699WA",
+"subject": "KIN",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree .",
+"prereqText": "Admission to candidacy for the doctoral degree .",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "KIN 699WB",
+"subject": "KIN",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree .",
 "prereqText": "Admission to candidacy for the doctoral degree .",

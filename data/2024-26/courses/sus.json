@@ -93,6 +93,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "SUS 619SA",
+"subject": "SUS",
+"number": "619SA",
+"title": "Topics in Sustainability Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SUS 619SB",
+"subject": "SUS",
+"number": "619SB",
+"title": "Topics in Sustainability Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "SUS 320",
 "subject": "SUS",
 "number": "320",
@@ -185,6 +203,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "SUS 629SA",
+"subject": "SUS",
+"number": "629SA",
+"title": "Topics in Sustainability Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SUS 629SB",
+"subject": "SUS",
+"number": "629SB",
+"title": "Topics in Sustainability Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "SUS 330",
 "subject": "SUS",
 "number": "330",
@@ -212,6 +248,36 @@
 "number": "679H",
 "title": "Honors Tutorial Course",
 "hours": 6.0,
+"division": "upper",
+"description": "For honors candidates in sustainability studies. Read selected works individually for one semester, followed in the second semester by the writing of an honors thesis. Participate in regular conferences with the faculty supervisor. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, a University GPA of at least 3.0 and a GPA in sustainability studies of at least 3.5. For 679HB, Sustainability Studies 679HA.",
+"prereqText": "For 679HA, a University GPA of at least 3.0 and a GPA in sustainability studies of at least 3.5. For 679HB, Sustainability Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "SUS 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SUS 679HA",
+"subject": "SUS",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "For honors candidates in sustainability studies. Read selected works individually for one semester, followed in the second semester by the writing of an honors thesis. Participate in regular conferences with the faculty supervisor. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, a University GPA of at least 3.0 and a GPA in sustainability studies of at least 3.5. For 679HB, Sustainability Studies 679HA.",
+"prereqText": "For 679HA, a University GPA of at least 3.0 and a GPA in sustainability studies of at least 3.5. For 679HB, Sustainability Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "SUS 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SUS 679HB",
+"subject": "SUS",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
 "division": "upper",
 "description": "For honors candidates in sustainability studies. Read selected works individually for one semester, followed in the second semester by the writing of an honors thesis. Participate in regular conferences with the faculty supervisor. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, a University GPA of at least 3.0 and a GPA in sustainability studies of at least 3.5. For 679HB, Sustainability Studies 679HA.",
 "prereqText": "For 679HA, a University GPA of at least 3.0 and a GPA in sustainability studies of at least 3.5. For 679HB, Sustainability Studies 679HA.",

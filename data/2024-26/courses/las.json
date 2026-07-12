@@ -184,6 +184,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in Latin American studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "LAS 619SA",
+"subject": "LAS",
+"number": "619SA",
+"title": "Topics in Latin American Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in Latin American studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAS 619SB",
+"subject": "LAS",
+"number": "619SB",
+"title": "Topics in Latin American Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in Latin American studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "LAS 322",
 "subject": "LAS",
 "number": "322",
@@ -511,6 +529,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in Latin American studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "LAS 629SA",
+"subject": "LAS",
+"number": "629SA",
+"title": "Topics in Latin American Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in Latin American studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAS 629SB",
+"subject": "LAS",
+"number": "629SB",
+"title": "Topics in Latin American Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in Latin American studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "LAS 330",
 "subject": "LAS",
 "number": "330",
@@ -770,6 +806,62 @@
 "prereqConfidence": "high"
 },
 {
+"id": "LAS 679HA",
+"subject": "LAS",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "For honors candidates in Latin American studies. Individual reading of selected works for one semester, followed in the second semester by the writing of an honors thesis. Conference course for two semesters. Prerequisite: For Latin American Studies 679HA, Latin American Studies 359H, admission to the Latin American Studies Honors Program, and written consent of the Latin American Studies Honors Program adviser; for 679HB, Latin American Studies 679HA.",
+"prereqText": "For Latin American Studies 679HA, Latin American Studies 359H, admission to the Latin American Studies Honors Program, and written consent of the Latin American Studies Honors Program adviser; for 679HB, Latin American Studies 679HA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "LAS 679HA"
+},
+{
+"type": "course",
+"id": "LAS 359H"
+},
+{
+"type": "course",
+"id": "LAS 679HA"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAS 679HB",
+"subject": "LAS",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "For honors candidates in Latin American studies. Individual reading of selected works for one semester, followed in the second semester by the writing of an honors thesis. Conference course for two semesters. Prerequisite: For Latin American Studies 679HA, Latin American Studies 359H, admission to the Latin American Studies Honors Program, and written consent of the Latin American Studies Honors Program adviser; for 679HB, Latin American Studies 679HA.",
+"prereqText": "For Latin American Studies 679HA, Latin American Studies 359H, admission to the Latin American Studies Honors Program, and written consent of the Latin American Studies Honors Program adviser; for 679HB, Latin American Studies 679HA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "LAS 679HA"
+},
+{
+"type": "course",
+"id": "LAS 359H"
+},
+{
+"type": "course",
+"id": "LAS 679HA"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
 "id": "LAS 381",
 "subject": "LAS",
 "number": "381",
@@ -919,6 +1011,30 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "LAS 690KA",
+"subject": "LAS",
+"number": "690KA",
+"title": "Proposal Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare proposal for the doctoral dissertation. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, consent of the graduate advisor, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate advisor, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAS 690KB",
+"subject": "LAS",
+"number": "690KB",
+"title": "Proposal Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare proposal for the doctoral dissertation. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, consent of the graduate advisor, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate advisor, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "LAS 391",
 "subject": "LAS",
 "number": "391",
@@ -999,6 +1115,30 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "LAS 693LA",
+"subject": "LAS",
+"number": "693LA",
+"title": "Qualifying Examination",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare for qualifying examinations. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, consent of the graduate advisor, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate advisor, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAS 693LB",
+"subject": "LAS",
+"number": "693LB",
+"title": "Qualifying Examination",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare for qualifying examinations. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, consent of the graduate advisor, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate advisor, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "LAS 397R",
 "subject": "LAS",
 "number": "397R",
@@ -1014,6 +1154,38 @@
 "id": "LAS 698",
 "subject": "LAS",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Latin American studies and consent of the supervising professor and the graduate adviser; for 698B, Latin American Studies 698A.",
+"prereqText": "For 698A, graduate standing in Latin American studies and consent of the supervising professor and the graduate adviser; for 698B, Latin American Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "LAS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAS 698A",
+"subject": "LAS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Latin American studies and consent of the supervising professor and the graduate adviser; for 698B, Latin American Studies 698A.",
+"prereqText": "For 698A, graduate standing in Latin American studies and consent of the supervising professor and the graduate adviser; for 698B, Latin American Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "LAS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAS 698B",
+"subject": "LAS",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -1068,6 +1240,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAS 699WA",
+"subject": "LAS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAS 699WB",
+"subject": "LAS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

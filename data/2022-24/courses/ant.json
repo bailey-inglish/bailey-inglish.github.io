@@ -280,6 +280,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Anthropology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "ANT 619SA",
+"subject": "ANT",
+"number": "619SA",
+"title": "Topics in Anthropology",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Anthropology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ANT 619SB",
+"subject": "ANT",
+"number": "619SB",
+"title": "Topics in Anthropology",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Anthropology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "ANT 320C",
 "subject": "ANT",
 "number": "320C",
@@ -1446,6 +1464,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Anthropology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "ANT 629SA",
+"subject": "ANT",
+"number": "629SA",
+"title": "Topics in Anthropology",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Anthropology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ANT 629SB",
+"subject": "ANT",
+"number": "629SB",
+"title": "Topics in Anthropology",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Anthropology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "ANT 330C",
 "subject": "ANT",
 "number": "330C",
@@ -1753,6 +1789,24 @@
 "description": "Two hundred and forty hours of fieldwork. May be repeated for credit, but may be taken only once on the letter-grade basis. May be repeated for credit."
 },
 {
+"id": "ANT 662A",
+"subject": "ANT",
+"number": "662A",
+"title": "Field Archaeology",
+"hours": 6.0,
+"division": "upper",
+"description": "Two hundred and forty hours of fieldwork. May be repeated for credit, but may be taken only once on the letter-grade basis. May be repeated for credit."
+},
+{
+"id": "ANT 662B",
+"subject": "ANT",
+"number": "662B",
+"title": "Field Archaeology",
+"hours": 6.0,
+"division": "upper",
+"description": "Two hundred and forty hours of fieldwork. May be repeated for credit, but may be taken only once on the letter-grade basis. May be repeated for credit."
+},
+{
 "id": "ANT 362K",
 "subject": "ANT",
 "number": "362K",
@@ -1818,6 +1872,30 @@
 "restricted": "Restricted to anthropology majors."
 },
 {
+"id": "ANT 676PA",
+"subject": "ANT",
+"number": "676PA",
+"title": "Research Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to anthropology majors. Supervised fieldwork in a business or community setting related to the student's career and research interests. Students conduct research and apply anthropological skills to real-world problems. Approximately 150 or 300 hours of fieldwork. May be repeated for credit, but no more than six semester hours may be counted toward the major requirement. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to anthropology majors."
+},
+{
+"id": "ANT 676PB",
+"subject": "ANT",
+"number": "676PB",
+"title": "Research Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to anthropology majors. Supervised fieldwork in a business or community setting related to the student's career and research interests. Students conduct research and apply anthropological skills to real-world problems. Approximately 150 or 300 hours of fieldwork. May be repeated for credit, but no more than six semester hours may be counted toward the major requirement. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to anthropology majors."
+},
+{
 "id": "ANT 379",
 "subject": "ANT",
 "number": "379",
@@ -1834,6 +1912,36 @@
 "number": "679H",
 "title": "Honors Tutorial Course",
 "hours": 6.0,
+"division": "upper",
+"description": "For honors candidates in anthropology. Individual reading of selected works for one semester, followed in the second semester by the writing of an honors thesis. Conference course for two semesters. Prerequisite: For 679HA, admission to the Anthropology Honors Program; for 679HB, Anthropology 679HA.",
+"prereqText": "For 679HA, admission to the Anthropology Honors Program; for 679HB, Anthropology 679HA.",
+"prereq": {
+"type": "course",
+"id": "ANT 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ANT 679HA",
+"subject": "ANT",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "For honors candidates in anthropology. Individual reading of selected works for one semester, followed in the second semester by the writing of an honors thesis. Conference course for two semesters. Prerequisite: For 679HA, admission to the Anthropology Honors Program; for 679HB, Anthropology 679HA.",
+"prereqText": "For 679HA, admission to the Anthropology Honors Program; for 679HB, Anthropology 679HA.",
+"prereq": {
+"type": "course",
+"id": "ANT 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ANT 679HB",
+"subject": "ANT",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
 "division": "upper",
 "description": "For honors candidates in anthropology. Individual reading of selected works for one semester, followed in the second semester by the writing of an honors thesis. Conference course for two semesters. Prerequisite: For 679HA, admission to the Anthropology Honors Program; for 679HB, Anthropology 679HA.",
 "prereqText": "For 679HA, admission to the Anthropology Honors Program; for 679HB, Anthropology 679HA.",
@@ -1894,6 +2002,28 @@
 "number": "683N",
 "title": "Field Archaeology",
 "hours": 6.0,
+"division": "graduate",
+"description": "Two hundred forty hours of fieldwork. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ANT 683NA",
+"subject": "ANT",
+"number": "683NA",
+"title": "Field Archaeology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Two hundred forty hours of fieldwork. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ANT 683NB",
+"subject": "ANT",
+"number": "683NB",
+"title": "Field Archaeology",
+"hours": 3.0,
 "division": "graduate",
 "description": "Two hundred forty hours of fieldwork. Prerequisite: Graduate standing and consent of instructor.",
 "prereqText": "Graduate standing and consent of instructor.",
@@ -2266,6 +2396,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "ANT 697A",
+"subject": "ANT",
+"number": "697A",
+"title": "Conference Course in Anthropology",
+"hours": 6.0,
+"division": "graduate",
+"description": "Individual instruction for graduate students on specialized problems of advanced research. Conference course. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ANT 697B",
+"subject": "ANT",
+"number": "697B",
+"title": "Conference Course in Anthropology",
+"hours": 6.0,
+"division": "graduate",
+"description": "Individual instruction for graduate students on specialized problems of advanced research. Conference course. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
 "id": "ANT 397F",
 "subject": "ANT",
 "number": "397F",
@@ -2280,6 +2432,38 @@
 "id": "ANT 698",
 "subject": "ANT",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in anthropology and consent of the graduate adviser; for 698B, Anthropology 698A.",
+"prereqText": "For 698A, graduate standing in anthropology and consent of the graduate adviser; for 698B, Anthropology 698A.",
+"prereq": {
+"type": "course",
+"id": "ANT 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ANT 698A",
+"subject": "ANT",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in anthropology and consent of the graduate adviser; for 698B, Anthropology 698A.",
+"prereqText": "For 698A, graduate standing in anthropology and consent of the graduate adviser; for 698B, Anthropology 698A.",
+"prereq": {
+"type": "course",
+"id": "ANT 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ANT 698B",
+"subject": "ANT",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -2346,6 +2530,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ANT 699WA",
+"subject": "ANT",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ANT 699WB",
+"subject": "ANT",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

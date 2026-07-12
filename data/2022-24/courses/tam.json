@@ -12,6 +12,24 @@
 "description": "Not open to native speakers of Tamil. Designed for students who understand or speak but do not read or write Tamil. Six class hours a week for one semester. Tamil 604 and 506 may not both be counted; Tamil 604 and 507 may not both be counted."
 },
 {
+"id": "TAM 604A",
+"subject": "TAM",
+"number": "604A",
+"title": "Accelerated First-Year Tamil",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native speakers of Tamil. Designed for students who understand or speak but do not read or write Tamil. Six class hours a week for one semester. Tamil 604 and 506 may not both be counted; Tamil 604 and 507 may not both be counted."
+},
+{
+"id": "TAM 604B",
+"subject": "TAM",
+"number": "604B",
+"title": "Accelerated First-Year Tamil",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native speakers of Tamil. Designed for students who understand or speak but do not read or write Tamil. Six class hours a week for one semester. Tamil 604 and 506 may not both be counted; Tamil 604 and 507 may not both be counted."
+},
+{
 "id": "TAM 506",
 "subject": "TAM",
 "number": "506",
@@ -40,6 +58,38 @@
 "id": "TAM 612",
 "subject": "TAM",
 "number": "612",
+"title": "Accelerated Second-Year Tamil",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native speakers of Tamil. Continuation of Tamil 604. Designed for students who understand or speak but do not read or write Tamil. Six class hours a week for one semester. Tamil 612 and 312K may not both be counted; Tamil 612 and 312L may not both be counted. Prerequisite: Tamil 604 with a grade of at least C.",
+"prereqText": "Tamil 604 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "TAM 604",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TAM 612A",
+"subject": "TAM",
+"number": "612A",
+"title": "Accelerated Second-Year Tamil",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native speakers of Tamil. Continuation of Tamil 604. Designed for students who understand or speak but do not read or write Tamil. Six class hours a week for one semester. Tamil 612 and 312K may not both be counted; Tamil 612 and 312L may not both be counted. Prerequisite: Tamil 604 with a grade of at least C.",
+"prereqText": "Tamil 604 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "TAM 604",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TAM 612B",
+"subject": "TAM",
+"number": "612B",
 "title": "Accelerated Second-Year Tamil",
 "hours": 6.0,
 "division": "lower",
@@ -194,6 +244,24 @@
 "number": "929S",
 "title": "Topics in Tamil",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TAM 629SA",
+"subject": "TAM",
+"number": "629SA",
+"title": "Topics in Tamil",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TAM 629SB",
+"subject": "TAM",
+"number": "629SB",
+"title": "Topics in Tamil",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },

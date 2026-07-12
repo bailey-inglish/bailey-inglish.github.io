@@ -1,0 +1,49 @@
+{
+ "id": "2024-26/certificate/pre-health-professions",
+ "edition": "2024-26",
+ "type": "certificate",
+ "name": "Pre-Health Professions Certificate",
+ "college": "Natural Sciences",
+ "totalHours": 20,
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/",
+ "notes": "Two tracks (science major / non-science major). Each course requires a grade of at least C-; at least nine hours in residence.",
+ "rules": {
+  "type": "all",
+  "title": "Certificate requirements",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 2,
+    "title": "Two of the NSC health-professions seminars",
+    "of": [
+     {
+      "type": "course",
+      "course": "NSC 107J",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "NSC 107K",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "NSC 107M",
+      "minGrade": "C-"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Complete 18 hours chosen from the following themes relevant to healthcare.",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    },
+    "title": "18 hours from approved healthcare themes"
+   }
+  ]
+ }
+}

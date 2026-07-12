@@ -214,6 +214,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Psychology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "PSY 619SA",
+"subject": "PSY",
+"number": "619SA",
+"title": "Topics in Psychology",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Psychology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PSY 619SB",
+"subject": "PSY",
+"number": "619SB",
+"title": "Topics in Psychology",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Psychology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "PSY 420M",
 "subject": "PSY",
 "number": "420M",
@@ -499,6 +517,24 @@
 "number": "929S",
 "title": "Topics in Psychology",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Psychology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PSY 629SA",
+"subject": "PSY",
+"number": "629SA",
+"title": "Topics in Psychology",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Psychology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PSY 629SB",
+"subject": "PSY",
+"number": "629SB",
+"title": "Topics in Psychology",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Psychology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -1280,6 +1316,32 @@
 "number": "677P",
 "title": "Undergraduate Practicum",
 "hours": 6.0,
+"division": "upper",
+"description": "Field experience in applied psychology. Students are supervised by faculty members and by practitioners in community agencies. One lecture hour and ten or twenty hours of fieldwork a week for one semester. May not be counted toward a major in psychology. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Upper-division standing and consent of the practicum supervisor.",
+"prereqText": "Upper-division standing and consent of the practicum supervisor.",
+"prereqConfidence": "none",
+"excluded": "a major in psychology",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PSY 677PA",
+"subject": "PSY",
+"number": "677PA",
+"title": "Undergraduate Practicum",
+"hours": 3.0,
+"division": "upper",
+"description": "Field experience in applied psychology. Students are supervised by faculty members and by practitioners in community agencies. One lecture hour and ten or twenty hours of fieldwork a week for one semester. May not be counted toward a major in psychology. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Upper-division standing and consent of the practicum supervisor.",
+"prereqText": "Upper-division standing and consent of the practicum supervisor.",
+"prereqConfidence": "none",
+"excluded": "a major in psychology",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PSY 677PB",
+"subject": "PSY",
+"number": "677PB",
+"title": "Undergraduate Practicum",
+"hours": 3.0,
 "division": "upper",
 "description": "Field experience in applied psychology. Students are supervised by faculty members and by practitioners in community agencies. One lecture hour and ten or twenty hours of fieldwork a week for one semester. May not be counted toward a major in psychology. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Upper-division standing and consent of the practicum supervisor.",
 "prereqText": "Upper-division standing and consent of the practicum supervisor.",
@@ -2204,6 +2266,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "PSY 698A",
+"subject": "PSY",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in psychology, twelve semester hours of upper-division or graduate coursework in psychology, and consent of the graduate adviser; for 698B, Psychology 698A.",
+"prereqText": "For 698A, graduate standing in psychology, twelve semester hours of upper-division or graduate coursework in psychology, and consent of the graduate adviser; for 698B, Psychology 698A.",
+"prereq": {
+"type": "course",
+"id": "PSY 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PSY 698B",
+"subject": "PSY",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in psychology, twelve semester hours of upper-division or graduate coursework in psychology, and consent of the graduate adviser; for 698B, Psychology 698A.",
+"prereqText": "For 698A, graduate standing in psychology, twelve semester hours of upper-division or graduate coursework in psychology, and consent of the graduate adviser; for 698B, Psychology 698A.",
+"prereq": {
+"type": "course",
+"id": "PSY 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "PSY 398T",
 "subject": "PSY",
 "number": "398T",
@@ -2244,6 +2338,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PSY 699WA",
+"subject": "PSY",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PSY 699WB",
+"subject": "PSY",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree",
 "prereqText": "Admission to candidacy for the doctoral degree.",

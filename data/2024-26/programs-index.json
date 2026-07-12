@@ -1,0 +1,79 @@
+{
+ "edition": "2024-26",
+ "programs": [
+  {
+   "id": "2024-26/layer/university-general",
+   "type": "layer",
+   "name": "University General Requirements",
+   "college": "The University",
+   "file": "programs/layer-university-general.json"
+  },
+  {
+   "id": "2024-26/layer/cola-ba-plan-i",
+   "type": "layer",
+   "name": "Bachelor of Arts, Plan I — degree requirements",
+   "college": "Liberal Arts",
+   "file": "programs/layer-cola-ba-plan-i.json"
+  },
+  {
+   "id": "2024-26/layer/cns-college",
+   "type": "layer",
+   "name": "College of Natural Sciences — college requirements",
+   "college": "Natural Sciences",
+   "file": "programs/layer-cns-college.json"
+  },
+  {
+   "id": "2024-26/major/bs-statistics-and-data-sciences",
+   "type": "major",
+   "name": "Statistics and Data Science",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "file": "programs/major-bs-statistics-and-data-sciences.json"
+  },
+  {
+   "id": "2024-26/major/ba-plan-ii",
+   "type": "major",
+   "name": "Plan II Honors Program",
+   "college": "Liberal Arts",
+   "degreeType": "BA (Plan II)",
+   "file": "programs/major-ba-plan-ii.json"
+  },
+  {
+   "id": "2024-26/major/ba-economics",
+   "type": "major",
+   "name": "Economics",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "file": "programs/major-ba-economics.json"
+  },
+  {
+   "id": "2024-26/major/ba-government",
+   "type": "major",
+   "name": "Government",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "file": "programs/major-ba-government.json"
+  },
+  {
+   "id": "2024-26/minor/statistics-and-data-science",
+   "type": "minor",
+   "name": "Statistics and Data Science Minor",
+   "college": "Natural Sciences",
+   "file": "programs/minor-statistics-and-data-science.json"
+  },
+  {
+   "id": "2024-26/certificate/pre-health-professions",
+   "type": "certificate",
+   "name": "Pre-Health Professions Certificate",
+   "college": "Natural Sciences",
+   "file": "programs/certificate-pre-health-professions.json"
+  },
+  {
+   "id": "2024-26/layer/core-curriculum",
+   "type": "layer",
+   "name": "University Core Curriculum",
+   "college": "The University",
+   "file": "programs/core-curriculum.json"
+  }
+ ]
+}

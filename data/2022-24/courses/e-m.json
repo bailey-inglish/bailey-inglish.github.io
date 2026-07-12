@@ -129,6 +129,26 @@
 "offering": "Offered on the letter-grade basis only."
 },
 {
+"id": "E M 619SA",
+"subject": "E M",
+"number": "619SA",
+"title": "Topics in Engineering Mechanics",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "E M 619SB",
+"subject": "E M",
+"number": "619SB",
+"title": "Topics in Engineering Mechanics",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
 "id": "E M 339",
 "subject": "E M",
 "number": "339",
@@ -242,6 +262,26 @@
 "number": "979S",
 "title": "Topics in Engineering Mechanics",
 "hours": 9.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "E M 679SA",
+"subject": "E M",
+"number": "679SA",
+"title": "Topics in Engineering Mechanics",
+"hours": 3.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "E M 679SB",
+"subject": "E M",
+"number": "679SB",
+"title": "Topics in Engineering Mechanics",
+"hours": 3.0,
 "division": "upper",
 "description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
 "offering": "Offered on the letter-grade basis only."
@@ -622,6 +662,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "E M 697A",
+"subject": "E M",
+"number": "697A",
+"title": "Advanced Studies in Engineering Mechanics",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "E M 697B",
+"subject": "E M",
+"number": "697B",
+"title": "Advanced Studies in Engineering Mechanics",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
 "id": "E M 397R",
 "subject": "E M",
 "number": "397R",
@@ -658,6 +720,30 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "E M 697RA",
+"subject": "E M",
+"number": "697RA",
+"title": "Individual Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Must be arranged by mutual agreement between student and faculty member. Individual research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "E M 697RB",
+"subject": "E M",
+"number": "697RB",
+"title": "Individual Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Must be arranged by mutual agreement between student and faculty member. Individual research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "E M 397S",
 "subject": "E M",
 "number": "397S",
@@ -685,6 +771,38 @@
 "id": "E M 698",
 "subject": "E M",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in engineering mechanics and consent of the supervising professor and the graduate adviser; for 698B, Engineering Mechanics 698A.",
+"prereqText": "For 698A, graduate standing in engineering mechanics and consent of the supervising professor and the graduate adviser; for 698B, Engineering Mechanics 698A.",
+"prereq": {
+"type": "course",
+"id": "E M 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "E M 698A",
+"subject": "E M",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in engineering mechanics and consent of the supervising professor and the graduate adviser; for 698B, Engineering Mechanics 698A.",
+"prereqText": "For 698A, graduate standing in engineering mechanics and consent of the supervising professor and the graduate adviser; for 698B, Engineering Mechanics 698A.",
+"prereq": {
+"type": "course",
+"id": "E M 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "E M 698B",
+"subject": "E M",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -751,6 +869,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "E M 699WA",
+"subject": "E M",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "E M 699WB",
+"subject": "E M",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

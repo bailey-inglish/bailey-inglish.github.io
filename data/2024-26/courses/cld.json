@@ -144,6 +144,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Communication. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "CLD 619SA",
+"subject": "CLD",
+"number": "619SA",
+"title": "Topics in Communication and Leadership",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Communication. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 619SB",
+"subject": "CLD",
+"number": "619SB",
+"title": "Topics in Communication and Leadership",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Communication. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "CLD 120",
 "subject": "CLD",
 "number": "120",
@@ -330,6 +348,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
 },
 {
+"id": "CLD 629SA",
+"subject": "CLD",
+"number": "629SA",
+"title": "Topics in Communication and Leadership",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 629SB",
+"subject": "CLD",
+"number": "629SB",
+"title": "Topics in Communication and Leadership",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
 "id": "CLD 330",
 "subject": "CLD",
 "number": "330",
@@ -448,6 +484,58 @@
 "offering": "Offered on the pass/fail basis only."
 },
 {
+"id": "CLD 651A",
+"subject": "CLD",
+"number": "651A",
+"title": "Internship in Communication and Leadership",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to Communication and Leadership majors. Practical work experience related to the practice of ethical leadership and communication with a non-profit community, or philanthropic organization. For 351, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 651, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Communication 351L and Communication and Leadership 351 may not both be counted. Offered on the pass/fail basis only. Prerequisite: Upper-division standing; Communication 320L or Communication and Leadership 321.",
+"prereqText": "Upper-division standing; Communication 320L or Communication and Leadership 321.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "COM 320L"
+},
+{
+"type": "course",
+"id": "CLD 321"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Communication and Leadership majors.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CLD 651B",
+"subject": "CLD",
+"number": "651B",
+"title": "Internship in Communication and Leadership",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to Communication and Leadership majors. Practical work experience related to the practice of ethical leadership and communication with a non-profit community, or philanthropic organization. For 351, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 651, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Communication 351L and Communication and Leadership 351 may not both be counted. Offered on the pass/fail basis only. Prerequisite: Upper-division standing; Communication 320L or Communication and Leadership 321.",
+"prereqText": "Upper-division standing; Communication 320L or Communication and Leadership 321.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "COM 320L"
+},
+{
+"type": "course",
+"id": "CLD 321"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Communication and Leadership majors.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
 "id": "CLD 360",
 "subject": "CLD",
 "number": "360",
@@ -520,6 +608,38 @@
 "id": "CLD 679",
 "subject": "CLD",
 "number": "679",
+"title": "Undergraduate Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to communication and leadership majors. Write and research two consecutive semesters under the supervision of a College of Communication faculty member; subjects are selected by the student with approval from the faculty member. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679A, upper-division standing and consent of instructor. For 679B, Communication and Leadership 679A.",
+"prereqText": "For 679A, upper-division standing and consent of instructor. For 679B, Communication and Leadership 679A.",
+"prereq": {
+"type": "course",
+"id": "CLD 679A"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to communication and leadership majors."
+},
+{
+"id": "CLD 679A",
+"subject": "CLD",
+"number": "679A",
+"title": "Undergraduate Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to communication and leadership majors. Write and research two consecutive semesters under the supervision of a College of Communication faculty member; subjects are selected by the student with approval from the faculty member. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679A, upper-division standing and consent of instructor. For 679B, Communication and Leadership 679A.",
+"prereqText": "For 679A, upper-division standing and consent of instructor. For 679B, Communication and Leadership 679A.",
+"prereq": {
+"type": "course",
+"id": "CLD 679A"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to communication and leadership majors."
+},
+{
+"id": "CLD 679B",
+"subject": "CLD",
+"number": "679B",
 "title": "Undergraduate Thesis",
 "hours": 6.0,
 "division": "upper",

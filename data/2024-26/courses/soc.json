@@ -410,6 +410,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Sociology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "SOC 619SA",
+"subject": "SOC",
+"number": "619SA",
+"title": "Topics in Sociology",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Sociology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SOC 619SB",
+"subject": "SOC",
+"number": "619SB",
+"title": "Topics in Sociology",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Sociology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "SOC 320C",
 "subject": "SOC",
 "number": "320C",
@@ -1060,6 +1078,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "SOC 629SA",
+"subject": "SOC",
+"number": "629SA",
+"title": "Topics in Sociology",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Sociology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "SOC 629SB",
+"subject": "SOC",
+"number": "629SB",
+"title": "Topics in Sociology",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Sociology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
 "id": "SOC 330C",
 "subject": "SOC",
 "number": "330C",
@@ -1392,6 +1432,36 @@
 "number": "679H",
 "title": "Honors Tutorial Course",
 "hours": 6.0,
+"division": "upper",
+"description": "Research into and development of a thesis topic and proposal followed by the writing and defense of a thesis. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Sociology Honors Program; for 679HB, Sociology 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the Sociology Honors Program; for 679HB, Sociology 679HA.",
+"prereq": {
+"type": "course",
+"id": "SOC 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SOC 679HA",
+"subject": "SOC",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Research into and development of a thesis topic and proposal followed by the writing and defense of a thesis. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Sociology Honors Program; for 679HB, Sociology 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the Sociology Honors Program; for 679HB, Sociology 679HA.",
+"prereq": {
+"type": "course",
+"id": "SOC 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SOC 679HB",
+"subject": "SOC",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
 "division": "upper",
 "description": "Research into and development of a thesis topic and proposal followed by the writing and defense of a thesis. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Sociology Honors Program; for 679HB, Sociology 679HA.",
 "prereqText": "For 679HA, upper-division standing and admission to the Sociology Honors Program; for 679HB, Sociology 679HA.",
@@ -1753,6 +1823,30 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "SOC 690KA",
+"subject": "SOC",
+"number": "690KA",
+"title": "Proposal Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of proposal for the doctoral dissertation. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, completion of all coursework, and consent of instructor.",
+"prereqText": "Graduate standing, completion of all coursework, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SOC 690KB",
+"subject": "SOC",
+"number": "690KB",
+"title": "Proposal Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of proposal for the doctoral dissertation. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, completion of all coursework, and consent of instructor.",
+"prereqText": "Graduate standing, completion of all coursework, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "SOC 391L",
 "subject": "SOC",
 "number": "391L",
@@ -1917,6 +2011,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "SOC 698A",
+"subject": "SOC",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in sociology, twelve semester hours of graduate coursework in sociology, and consent of the graduate adviser; for 698B, Sociology 698A.",
+"prereqText": "For 698A, graduate standing in sociology, twelve semester hours of graduate coursework in sociology, and consent of the graduate adviser; for 698B, Sociology 698A.",
+"prereq": {
+"type": "course",
+"id": "SOC 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SOC 698B",
+"subject": "SOC",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in sociology, twelve semester hours of graduate coursework in sociology, and consent of the graduate adviser; for 698B, Sociology 698A.",
+"prereqText": "For 698A, graduate standing in sociology, twelve semester hours of graduate coursework in sociology, and consent of the graduate adviser; for 698B, Sociology 698A.",
+"prereq": {
+"type": "course",
+"id": "SOC 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "SOC 398T",
 "subject": "SOC",
 "number": "398T",
@@ -1958,6 +2084,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SOC 699WA",
+"subject": "SOC",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SOC 699WB",
+"subject": "SOC",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

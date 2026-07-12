@@ -188,6 +188,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "ECO 619SA",
+"subject": "ECO",
+"number": "619SA",
+"title": "Topics in Economics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 619SB",
+"subject": "ECO",
+"number": "619SB",
+"title": "Topics in Economics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "ECO 420K",
 "subject": "ECO",
 "number": "420K",
@@ -483,6 +501,24 @@
 "number": "929S",
 "title": "Topics in Economics",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 629SA",
+"subject": "ECO",
+"number": "629SA",
+"title": "Topics in Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 629SB",
+"subject": "ECO",
+"number": "629SB",
+"title": "Topics in Economics",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -1123,6 +1159,30 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "ECO 680A",
+"subject": "ECO",
+"number": "680A",
+"title": "Research Course",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqText": "Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 680B",
+"subject": "ECO",
+"number": "680B",
+"title": "Research Course",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqText": "Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "ECO 180D",
 "subject": "ECO",
 "number": "180D",
@@ -1642,6 +1702,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "ECO 698A",
+"subject": "ECO",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in economics, twelve semester hours of upper-division or graduate coursework in economics, and consent of the graduate adviser; for 698B, Economics 698A.",
+"prereqText": "For 698A, graduate standing in economics, twelve semester hours of upper-division or graduate coursework in economics, and consent of the graduate adviser; for 698B, Economics 698A.",
+"prereq": {
+"type": "course",
+"id": "ECO 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 698B",
+"subject": "ECO",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in economics, twelve semester hours of upper-division or graduate coursework in economics, and consent of the graduate adviser; for 698B, Economics 698A.",
+"prereqText": "For 698A, graduate standing in economics, twelve semester hours of upper-division or graduate coursework in economics, and consent of the graduate adviser; for 698B, Economics 698A.",
+"prereq": {
+"type": "course",
+"id": "ECO 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "ECO 198K",
 "subject": "ECO",
 "number": "198K",
@@ -1719,6 +1811,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 699WA",
+"subject": "ECO",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 699WB",
+"subject": "ECO",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

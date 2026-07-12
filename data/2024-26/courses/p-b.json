@@ -156,6 +156,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "P B 682A",
+"subject": "P B",
+"number": "682A",
+"title": "Advanced Study and Research",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate advisor.",
+"prereqText": "Graduate standing and consent of instructor and the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "P B 682B",
+"subject": "P B",
+"number": "682B",
+"title": "Advanced Study and Research",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate advisor.",
+"prereqText": "Graduate standing and consent of instructor and the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
 "id": "P B 382K",
 "subject": "P B",
 "number": "382K",
@@ -315,6 +337,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "P B 698A",
+"subject": "P B",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "Three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing and consent of the graduate advisor; for 698B, Plant Biology 698A or the equivalent.",
+"prereqText": "For 698A, graduate standing and consent of the graduate advisor; for 698B, Plant Biology 698A or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "P B 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "P B 698B",
+"subject": "P B",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "Three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing and consent of the graduate advisor; for 698B, Plant Biology 698A or the equivalent.",
+"prereqText": "For 698A, graduate standing and consent of the graduate advisor; for 698B, Plant Biology 698A or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "P B 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "P B 398R",
 "subject": "P B",
 "number": "398R",
@@ -355,6 +409,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "P B 699WA",
+"subject": "P B",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "P B 699WB",
+"subject": "P B",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

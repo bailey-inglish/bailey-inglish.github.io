@@ -260,6 +260,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "C L 698A",
+"subject": "C L",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in comparative literature and consent of the graduate adviser; for 698B, Comparative Literature 698A and consent of the graduate adviser.",
+"prereqText": "For 698A, graduate standing in comparative literature and consent of the graduate adviser; for 698B, Comparative Literature 698A and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "C L 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C L 698B",
+"subject": "C L",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in comparative literature and consent of the graduate adviser; for 698B, Comparative Literature 698A and consent of the graduate adviser.",
+"prereqText": "For 698A, graduate standing in comparative literature and consent of the graduate adviser; for 698B, Comparative Literature 698A and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "C L 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "C L 398R",
 "subject": "C L",
 "number": "398R",
@@ -301,6 +333,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C L 699WA",
+"subject": "C L",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C L 699WB",
+"subject": "C L",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

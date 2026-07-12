@@ -104,6 +104,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "COE 619SA",
+"subject": "COE",
+"number": "619SA",
+"title": "Topics in Computational Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 619SB",
+"subject": "COE",
+"number": "619SB",
+"title": "Topics in Computational Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "COE 321K",
 "subject": "COE",
 "number": "321K",
@@ -222,6 +240,24 @@
 "number": "929S",
 "title": "Topics in Computational Engineering",
 "hours": 9.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 629SA",
+"subject": "COE",
+"number": "629SA",
+"title": "Topics in Computational Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "COE 629SB",
+"subject": "COE",
+"number": "629SB",
+"title": "Topics in Computational Engineering",
+"hours": 3.0,
 "division": "upper",
 "description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's International Engineering Education Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Aerospace Engineering and Engineering Mechanics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
 },
@@ -350,6 +386,38 @@
 "number": "679H",
 "title": "Undergraduate Honors Thesis",
 "hours": 6.0,
+"division": "upper",
+"description": "Restricted to computational engineering majors. Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. Entails an oral presentation and a written thesis. Individual instruction for two semesters. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Computational Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Computational Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "COE 679HA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to computational engineering majors."
+},
+{
+"id": "COE 679HA",
+"subject": "COE",
+"number": "679HA",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to computational engineering majors. Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. Entails an oral presentation and a written thesis. Individual instruction for two semesters. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Computational Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Computational Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "COE 679HA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to computational engineering majors."
+},
+{
+"id": "COE 679HB",
+"subject": "COE",
+"number": "679HB",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
 "division": "upper",
 "description": "Restricted to computational engineering majors. Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. Entails an oral presentation and a written thesis. Individual instruction for two semesters. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Computational Engineering 679HA and enrollment in the Engineering Honors Program.",
 "prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Computational Engineering 679HA and enrollment in the Engineering Honors Program.",

@@ -84,6 +84,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Architecture. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "CRP 619SA",
+"subject": "CRP",
+"number": "619SA",
+"title": "Topics in Community and Regional Planning",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Architecture. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CRP 619SB",
+"subject": "CRP",
+"number": "619SB",
+"title": "Topics in Community and Regional Planning",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Architecture. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "CRP 129S",
 "subject": "CRP",
 "number": "129S",
@@ -161,6 +179,24 @@
 "number": "929S",
 "title": "Topics in Community and Regional Planning",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Architecture. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CRP 629SA",
+"subject": "CRP",
+"number": "629SA",
+"title": "Topics in Community and Regional Planning",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Architecture. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CRP 629SB",
+"subject": "CRP",
+"number": "629SB",
+"title": "Topics in Community and Regional Planning",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Architecture. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -285,6 +321,28 @@
 "number": "685D",
 "title": "Planning Studio",
 "hours": 6.0,
+"division": "graduate",
+"description": "An integrative and comprehensive planning studio project course, involving application of theory, research, fieldwork, and oral, graphic, and written communication. Six lecture hours and four laboratory hours a week for one semester. With consent of the graduate adviser, may be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CRP 685DA",
+"subject": "CRP",
+"number": "685DA",
+"title": "Planning Studio",
+"hours": 3.0,
+"division": "graduate",
+"description": "An integrative and comprehensive planning studio project course, involving application of theory, research, fieldwork, and oral, graphic, and written communication. Six lecture hours and four laboratory hours a week for one semester. With consent of the graduate adviser, may be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CRP 685DB",
+"subject": "CRP",
+"number": "685DB",
+"title": "Planning Studio",
+"hours": 3.0,
 "division": "graduate",
 "description": "An integrative and comprehensive planning studio project course, involving application of theory, research, fieldwork, and oral, graphic, and written communication. Six lecture hours and four laboratory hours a week for one semester. With consent of the graduate adviser, may be repeated for credit. Prerequisite: Graduate standing.",
 "prereqText": "Graduate standing.",
@@ -481,6 +539,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "CRP 698A",
+"subject": "CRP",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in community and regional planning and consent of the graduate adviser; for 698B, Community and Regional Planning 698A.",
+"prereqText": "For 698A, graduate standing in community and regional planning and consent of the graduate adviser; for 698B, Community and Regional Planning 698A.",
+"prereq": {
+"type": "course",
+"id": "CRP 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CRP 698B",
+"subject": "CRP",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in community and regional planning and consent of the graduate adviser; for 698B, Community and Regional Planning 698A.",
+"prereqText": "For 698A, graduate standing in community and regional planning and consent of the graduate adviser; for 698B, Community and Regional Planning 698A.",
+"prereq": {
+"type": "course",
+"id": "CRP 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "CRP 398R",
 "subject": "CRP",
 "number": "398R",
@@ -522,6 +612,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CRP 699WA",
+"subject": "CRP",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CRP 699WB",
+"subject": "CRP",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

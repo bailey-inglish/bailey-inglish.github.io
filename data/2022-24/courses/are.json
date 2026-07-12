@@ -110,6 +110,24 @@
 "description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Civil, Architectural and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "ARE 619SA",
+"subject": "ARE",
+"number": "619SA",
+"title": "Topics in Architectural Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Civil, Architectural and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARE 619SB",
+"subject": "ARE",
+"number": "619SB",
+"title": "Topics in Architectural Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Civil, Architectural and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "ARE 320K",
 "subject": "ARE",
 "number": "320K",
@@ -222,6 +240,24 @@
 "number": "929S",
 "title": "Topics in Architectural Engineering",
 "hours": 9.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Civil, Architectural and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARE 629SA",
+"subject": "ARE",
+"number": "629SA",
+"title": "Topics in Architectural Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Civil, Architectural and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ARE 629SB",
+"subject": "ARE",
+"number": "629SB",
+"title": "Topics in Architectural Engineering",
+"hours": 3.0,
 "division": "upper",
 "description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Civil, Architectural and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -513,6 +549,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "ARE 679HA",
+"subject": "ARE",
+"number": "679HA",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Architectural Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Architectural Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "ARE 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ARE 679HB",
+"subject": "ARE",
+"number": "679HB",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Architectural Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Architectural Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "ARE 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "ARE 381E",
 "subject": "ARE",
 "number": "381E",
@@ -696,6 +762,38 @@
 "id": "ARE 698",
 "subject": "ARE",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in architectural engineering and consent of the graduate adviser; for 698B, Architectural Engineering 698A.",
+"prereqText": "For 698A, graduate standing in architectural engineering and consent of the graduate adviser; for 698B, Architectural Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "ARE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ARE 698A",
+"subject": "ARE",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in architectural engineering and consent of the graduate adviser; for 698B, Architectural Engineering 698A.",
+"prereqText": "For 698A, graduate standing in architectural engineering and consent of the graduate adviser; for 698B, Architectural Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "ARE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ARE 698B",
+"subject": "ARE",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",

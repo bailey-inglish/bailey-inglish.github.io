@@ -73,8 +73,11 @@ def main() -> None:
     elif cmd == "pages":
         edition = sys.argv[2]
         for rel in sys.argv[3:]:
-            fetch_cached(edition, rel)
-            print(f"[{edition}] cached {rel}")
+            try:
+                fetch_cached(edition, rel)
+                print(f"[{edition}] cached {rel}")
+            except urllib.error.HTTPError as e:
+                print(f"[{edition}] MISS {e.code} {rel}")
     else:
         sys.exit(f"unknown command: {cmd}")
 

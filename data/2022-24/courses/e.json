@@ -298,6 +298,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of English. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "E 619SA",
+"subject": "E",
+"number": "619SA",
+"title": "Topics in English",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of English. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "E 619SB",
+"subject": "E",
+"number": "619SB",
+"title": "Topics in English",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of English. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "E 320L",
 "subject": "E",
 "number": "320L",
@@ -712,6 +730,24 @@
 "number": "929S",
 "title": "Topics in English",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of English. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "E 629SA",
+"subject": "E",
+"number": "629SA",
+"title": "Topics in English",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of English. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "E 629SB",
+"subject": "E",
+"number": "629SB",
+"title": "Topics in English",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of English. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -2414,6 +2450,38 @@
 "offering": "Offered in the summer session only."
 },
 {
+"id": "E 678SA",
+"subject": "E",
+"number": "678SA",
+"title": "Shakespeare at Winedale",
+"hours": 3.0,
+"division": "upper",
+"description": "Study and readings of selected works and criticism, culminating in public performance of the plays. For English 678SB, students are required to be in residence at Winedale near Round Top, Texas. For 678SA, the equivalent of five lecture hours a week for one semester; for 678SB, fifteen to eighteen hours of work a day, including weekends. Offered in the summer session only. Prerequisite: For 678SA, consent of instructor; for 678SB, English 678SA and consent of instructor.",
+"prereqText": "For 678SA, consent of instructor; for 678SB, English 678SA and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "E 678SA"
+},
+"prereqConfidence": "high",
+"offering": "Offered in the summer session only."
+},
+{
+"id": "E 678SB",
+"subject": "E",
+"number": "678SB",
+"title": "Shakespeare at Winedale",
+"hours": 3.0,
+"division": "upper",
+"description": "Study and readings of selected works and criticism, culminating in public performance of the plays. For English 678SB, students are required to be in residence at Winedale near Round Top, Texas. For 678SA, the equivalent of five lecture hours a week for one semester; for 678SB, fifteen to eighteen hours of work a day, including weekends. Offered in the summer session only. Prerequisite: For 678SA, consent of instructor; for 678SB, English 678SA and consent of instructor.",
+"prereqText": "For 678SA, consent of instructor; for 678SB, English 678SA and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "E 678SA"
+},
+"prereqConfidence": "high",
+"offering": "Offered in the summer session only."
+},
+{
 "id": "E 379",
 "subject": "E",
 "number": "379",
@@ -2702,6 +2770,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "E 691FA",
+"subject": "E",
+"number": "691FA",
+"title": "Field and Prospectus Examination",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare for required Field and Prospectus examinations under the supervision of a faculty member. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. May be repeated for credit. Prerequisite: Graduate standing and consent of the English graduate advisor.",
+"prereqText": "Graduate standing and consent of the English graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "E 691FB",
+"subject": "E",
+"number": "691FB",
+"title": "Field and Prospectus Examination",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare for required Field and Prospectus examinations under the supervision of a faculty member. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. May be repeated for credit. Prerequisite: Graduate standing and consent of the English graduate advisor.",
+"prereqText": "Graduate standing and consent of the English graduate advisor.",
+"prereqConfidence": "none"
+},
+{
 "id": "E 391L",
 "subject": "E",
 "number": "391L",
@@ -2718,6 +2808,28 @@
 "number": "691L",
 "title": "Conference Course on Special Topics",
 "hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the English graduate adviser.",
+"prereqText": "Graduate standing and consent of the English graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "E 691LA",
+"subject": "E",
+"number": "691LA",
+"title": "Conference Course on Special Topics",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the English graduate adviser.",
+"prereqText": "Graduate standing and consent of the English graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "E 691LB",
+"subject": "E",
+"number": "691LB",
+"title": "Conference Course on Special Topics",
+"hours": 3.0,
 "division": "graduate",
 "description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the English graduate adviser.",
 "prereqText": "Graduate standing and consent of the English graduate adviser.",
@@ -2817,6 +2929,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "E 698A",
+"subject": "E",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "Research and writing of a thesis under the supervision of the chair of the supervising committee and subject to the approval of the committee and the graduate dean. The equivalent of three lecture hours a week for two semesters. English 698A may not be repeated for credit. The student must register for 698B the semester he or she intends to graduate. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in creative writing; for 698B, English 698A.",
+"prereqText": "For 698A, graduate standing in creative writing; for 698B, English 698A.",
+"prereq": {
+"type": "course",
+"id": "E 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "E 698B",
+"subject": "E",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "Research and writing of a thesis under the supervision of the chair of the supervising committee and subject to the approval of the committee and the graduate dean. The equivalent of three lecture hours a week for two semesters. English 698A may not be repeated for credit. The student must register for 698B the semester he or she intends to graduate. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in creative writing; for 698B, English 698A.",
+"prereqText": "For 698A, graduate standing in creative writing; for 698B, English 698A.",
+"prereq": {
+"type": "course",
+"id": "E 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "E 398D",
 "subject": "E",
 "number": "398D",
@@ -2883,6 +3027,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "E 699WA",
+"subject": "E",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "E 699WB",
+"subject": "E",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

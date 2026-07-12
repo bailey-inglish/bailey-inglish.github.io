@@ -129,6 +129,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for Women's and Gender Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "WGS 619SA",
+"subject": "WGS",
+"number": "619SA",
+"title": "Topics in Women's and Gender Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for Women's and Gender Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "WGS 619SB",
+"subject": "WGS",
+"number": "619SB",
+"title": "Topics in Women's and Gender Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for Women's and Gender Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "WGS 322",
 "subject": "WGS",
 "number": "322",
@@ -443,6 +461,24 @@
 "number": "929S",
 "title": "Topics in Women's and Gender Studies",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for Women's and Gender Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "WGS 629SA",
+"subject": "WGS",
+"number": "629SA",
+"title": "Topics in Women's and Gender Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for Women's and Gender Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "WGS 629SB",
+"subject": "WGS",
+"number": "629SB",
+"title": "Topics in Women's and Gender Studies",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Center for Women's and Gender Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -799,6 +835,38 @@
 "restricted": "Restricted to honors candidates majoring in women's and gender studies."
 },
 {
+"id": "WGS 679HA",
+"subject": "WGS",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to honors candidates majoring in women's and gender studies. Individual reading of selected works for one semester, followed in the second semester by the writing of an honors thesis. The equivalent of three lectures hours a week for two semesters. Prerequisite: For 679HA, twelve semester hours of coursework in women's and gender studies and consent of supervising faculty; for 679HB, Women's and Gender Studies 679HA.",
+"prereqText": "For 679HA, twelve semester hours of coursework in women's and gender studies and consent of supervising faculty; for 679HB, Women's and Gender Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "WGS 679HA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to honors candidates majoring in women's and gender studies."
+},
+{
+"id": "WGS 679HB",
+"subject": "WGS",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to honors candidates majoring in women's and gender studies. Individual reading of selected works for one semester, followed in the second semester by the writing of an honors thesis. The equivalent of three lectures hours a week for two semesters. Prerequisite: For 679HA, twelve semester hours of coursework in women's and gender studies and consent of supervising faculty; for 679HB, Women's and Gender Studies 679HA.",
+"prereqText": "For 679HA, twelve semester hours of coursework in women's and gender studies and consent of supervising faculty; for 679HB, Women's and Gender Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "WGS 679HA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to honors candidates majoring in women's and gender studies."
+},
+{
 "id": "WGS 379L",
 "subject": "WGS",
 "number": "379L",
@@ -968,6 +1036,38 @@
 "id": "WGS 698",
 "subject": "WGS",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. The student must register for Women's and Gender Studies 698B the semester he/she intends to graduate. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in women's and gender studies, consent of the graduate adviser, and a course proposal form signed by the student's thesis supervisor must be turned into the department office before registration; for 698B, Women's and Gender Studies 698A.",
+"prereqText": "For 698A, graduate standing in women's and gender studies, consent of the graduate adviser, and a course proposal form signed by the student's thesis supervisor must be turned into the department office before registration; for 698B, Women's and Gender Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "WGS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "WGS 698A",
+"subject": "WGS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. The student must register for Women's and Gender Studies 698B the semester he/she intends to graduate. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in women's and gender studies, consent of the graduate adviser, and a course proposal form signed by the student's thesis supervisor must be turned into the department office before registration; for 698B, Women's and Gender Studies 698A.",
+"prereqText": "For 698A, graduate standing in women's and gender studies, consent of the graduate adviser, and a course proposal form signed by the student's thesis supervisor must be turned into the department office before registration; for 698B, Women's and Gender Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "WGS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "WGS 698B",
+"subject": "WGS",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",

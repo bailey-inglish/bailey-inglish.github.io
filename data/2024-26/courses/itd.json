@@ -217,6 +217,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Design. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "ITD 619SA",
+"subject": "ITD",
+"number": "619SA",
+"title": "Topics in Integrated Design",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Design. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ITD 619SB",
+"subject": "ITD",
+"number": "619SB",
+"title": "Topics in Integrated Design",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Design. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "ITD 320",
 "subject": "ITD",
 "number": "320",
@@ -342,6 +360,24 @@
 "number": "929S",
 "title": "Topics in Integrated Design",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Design. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ITD 629SA",
+"subject": "ITD",
+"number": "629SA",
+"title": "Topics in Integrated Design",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Design. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ITD 629SB",
+"subject": "ITD",
+"number": "629SB",
+"title": "Topics in Integrated Design",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Design. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -744,6 +780,54 @@
 "prereqConfidence": "high"
 },
 {
+"id": "ITD 686A",
+"subject": "ITD",
+"number": "686A",
+"title": "Topics in Integrated Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Project-based studio graduate work within integrated design. For each semester hour of credit earned, the equivalent of two hours of laboratory work per week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; and Integrated Design 380 or consent of instructor. May be taken concurrently with Integrated Design 380 if topic is appropriate.",
+"prereqText": "Graduate standing; and Integrated Design 380 or consent of instructor. May be taken concurrently with Integrated Design 380 if topic is appropriate.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ITD 380"
+},
+{
+"type": "course",
+"id": "ITD 380"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ITD 686B",
+"subject": "ITD",
+"number": "686B",
+"title": "Topics in Integrated Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Project-based studio graduate work within integrated design. For each semester hour of credit earned, the equivalent of two hours of laboratory work per week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; and Integrated Design 380 or consent of instructor. May be taken concurrently with Integrated Design 380 if topic is appropriate.",
+"prereqText": "Graduate standing; and Integrated Design 380 or consent of instructor. May be taken concurrently with Integrated Design 380 if topic is appropriate.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ITD 380"
+},
+{
+"type": "course",
+"id": "ITD 380"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
 "id": "ITD 390",
 "subject": "ITD",
 "number": "390",
@@ -786,6 +870,54 @@
 "id": "ITD 692",
 "subject": "ITD",
 "number": "692",
+"title": "Health Design Lab",
+"hours": 6.0,
+"division": "graduate",
+"description": "Team-based, project-focused application of the principles of design to real-world health and wellness challenges. Lab component of Integrated Design 291. Twelve laboratory hours a week for one semester. Prerequisite: Graduate standing; and Integrated Design 390 or consent of instructor. Concurrent enrollment in Integrated Design 291.",
+"prereqText": "Graduate standing; and Integrated Design 390 or consent of instructor. Concurrent enrollment in Integrated Design 291.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ITD 390"
+},
+{
+"type": "course",
+"id": "ITD 291"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ITD 692A",
+"subject": "ITD",
+"number": "692A",
+"title": "Health Design Lab",
+"hours": 6.0,
+"division": "graduate",
+"description": "Team-based, project-focused application of the principles of design to real-world health and wellness challenges. Lab component of Integrated Design 291. Twelve laboratory hours a week for one semester. Prerequisite: Graduate standing; and Integrated Design 390 or consent of instructor. Concurrent enrollment in Integrated Design 291.",
+"prereqText": "Graduate standing; and Integrated Design 390 or consent of instructor. Concurrent enrollment in Integrated Design 291.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ITD 390"
+},
+{
+"type": "course",
+"id": "ITD 291"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ITD 692B",
+"subject": "ITD",
+"number": "692B",
 "title": "Health Design Lab",
 "hours": 6.0,
 "division": "graduate",
@@ -1002,6 +1134,54 @@
 "id": "ITD 696",
 "subject": "ITD",
 "number": "696",
+"title": "Topics in Health Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Project-based studio graduate work within health design. For each semester hour of credit earned, the equivalent of two hours of laboratory work per week for one semester. Additional hours to be arranged as needed. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and Integrated Design 380 and 390, or consent of instructor",
+"prereqText": "Graduate standing and Integrated Design 380 and 390, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ITD 380"
+},
+{
+"type": "course",
+"id": "ITD 390"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ITD 696A",
+"subject": "ITD",
+"number": "696A",
+"title": "Topics in Health Design Studio",
+"hours": 6.0,
+"division": "graduate",
+"description": "Project-based studio graduate work within health design. For each semester hour of credit earned, the equivalent of two hours of laboratory work per week for one semester. Additional hours to be arranged as needed. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and Integrated Design 380 and 390, or consent of instructor",
+"prereqText": "Graduate standing and Integrated Design 380 and 390, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ITD 380"
+},
+{
+"type": "course",
+"id": "ITD 390"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ITD 696B",
+"subject": "ITD",
+"number": "696B",
 "title": "Topics in Health Design Studio",
 "hours": 6.0,
 "division": "graduate",

@@ -24,9 +24,45 @@
 "description": "Explore the development of speaking, listening, reading, and writing skills; build vocabulary, review basic rules and terminology of grammar; and examine Spanish-speaking cultures. Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 601D, 604, 506. Only one of the following may be counted: Spanish 601D, 604, 507, 508K."
 },
 {
+"id": "SPN 601DA",
+"subject": "SPN",
+"number": "601DA",
+"title": "First-Year Spanish I",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore the development of speaking, listening, reading, and writing skills; build vocabulary, review basic rules and terminology of grammar; and examine Spanish-speaking cultures. Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 601D, 604, 506. Only one of the following may be counted: Spanish 601D, 604, 507, 508K."
+},
+{
+"id": "SPN 601DB",
+"subject": "SPN",
+"number": "601DB",
+"title": "First-Year Spanish I",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore the development of speaking, listening, reading, and writing skills; build vocabulary, review basic rules and terminology of grammar; and examine Spanish-speaking cultures. Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 601D, 604, 506. Only one of the following may be counted: Spanish 601D, 604, 507, 508K."
+},
+{
 "id": "SPN 604",
 "subject": "SPN",
 "number": "604",
+"title": "Accelerated Introductory Spanish for Heritage Learners",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed primarily for students who have a cultural and linguistic connection to Spanish (i.e. native and near-native speakers, Spanish as home language). Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 601D, 604, 506. Only one of the following may be counted: Spanish 601D, 604, 507, 508K. Only one of the following may be counted: Spanish 604, 610D, 312K."
+},
+{
+"id": "SPN 604A",
+"subject": "SPN",
+"number": "604A",
+"title": "Accelerated Introductory Spanish for Heritage Learners",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed primarily for students who have a cultural and linguistic connection to Spanish (i.e. native and near-native speakers, Spanish as home language). Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 601D, 604, 506. Only one of the following may be counted: Spanish 601D, 604, 507, 508K. Only one of the following may be counted: Spanish 604, 610D, 312K."
+},
+{
+"id": "SPN 604B",
+"subject": "SPN",
+"number": "604B",
 "title": "Accelerated Introductory Spanish for Heritage Learners",
 "hours": 6.0,
 "division": "lower",
@@ -38,6 +74,64 @@
 "number": "610D",
 "title": "First-Year Spanish II",
 "hours": 6.0,
+"division": "lower",
+"description": "Continue to explore the development of speaking, listening, reading, and writing skills; build vocabulary, review basic rules and terminology of grammar; and examine Spanish-speaking cultures. Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 604, 610D, 312K. Prerequisite: Spanish 601D (or 507 or 508K) with a grade of at least C.",
+"prereqText": "Spanish 601D (or 507 or 508K) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "SPN 601D"
+},
+{
+"type": "course",
+"id": "SPN 507"
+},
+{
+"type": "course",
+"id": "SPN 508K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SPN 610DA",
+"subject": "SPN",
+"number": "610DA",
+"title": "First-Year Spanish II",
+"hours": 3.0,
+"division": "lower",
+"description": "Continue to explore the development of speaking, listening, reading, and writing skills; build vocabulary, review basic rules and terminology of grammar; and examine Spanish-speaking cultures. Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 604, 610D, 312K. Prerequisite: Spanish 601D (or 507 or 508K) with a grade of at least C.",
+"prereqText": "Spanish 601D (or 507 or 508K) with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "SPN 601D"
+},
+{
+"type": "course",
+"id": "SPN 507"
+},
+{
+"type": "course",
+"id": "SPN 508K",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SPN 610DB",
+"subject": "SPN",
+"number": "610DB",
+"title": "First-Year Spanish II",
+"hours": 3.0,
 "division": "lower",
 "description": "Continue to explore the development of speaking, listening, reading, and writing skills; build vocabulary, review basic rules and terminology of grammar; and examine Spanish-speaking cultures. Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 604, 610D, 312K. Prerequisite: Spanish 601D (or 507 or 508K) with a grade of at least C.",
 "prereqText": "Spanish 601D (or 507 or 508K) with a grade of at least C.",
@@ -96,6 +190,28 @@
 "number": "611D",
 "title": "Second-Year Spanish",
 "hours": 6.0,
+"division": "lower",
+"description": "Focus on the development of multilingual literacy through the analysis and use of Spanish to achieve linguistic competence (aspect, mood, compound tenses, passive voice), communication and interactional competence (pragmatics, cultural perspectives), and metalinguistic competence (critical analysis of oral and written texts, dialectal differences). Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 311, 611D, 311J, 612, or 312L. Only one of the following may be counted: Spanish 611D, 612, 314, 314J, or 318. Prerequisite: Spanish 604, 610D or 312K with a grade of at least C.",
+"prereqText": "Spanish 604, 610D or 312K with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 611DA",
+"subject": "SPN",
+"number": "611DA",
+"title": "Second-Year Spanish",
+"hours": 3.0,
+"division": "lower",
+"description": "Focus on the development of multilingual literacy through the analysis and use of Spanish to achieve linguistic competence (aspect, mood, compound tenses, passive voice), communication and interactional competence (pragmatics, cultural perspectives), and metalinguistic competence (critical analysis of oral and written texts, dialectal differences). Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 311, 611D, 311J, 612, or 312L. Only one of the following may be counted: Spanish 611D, 612, 314, 314J, or 318. Prerequisite: Spanish 604, 610D or 312K with a grade of at least C.",
+"prereqText": "Spanish 604, 610D or 312K with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "SPN 611DB",
+"subject": "SPN",
+"number": "611DB",
+"title": "Second-Year Spanish",
+"hours": 3.0,
 "division": "lower",
 "description": "Focus on the development of multilingual literacy through the analysis and use of Spanish to achieve linguistic competence (aspect, mood, compound tenses, passive voice), communication and interactional competence (pragmatics, cultural perspectives), and metalinguistic competence (critical analysis of oral and written texts, dialectal differences). Six lecture hours a week for one semester. Only one of the following may be counted: Spanish 311, 611D, 311J, 612, or 312L. Only one of the following may be counted: Spanish 611D, 612, 314, 314J, or 318. Prerequisite: Spanish 604, 610D or 312K with a grade of at least C.",
 "prereqText": "Spanish 604, 610D or 312K with a grade of at least C.",
@@ -257,6 +373,26 @@
 "excluded": "a major in Spanish"
 },
 {
+"id": "SPN 619SA",
+"subject": "SPN",
+"number": "619SA",
+"title": "Topics in Spanish",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 619SB",
+"subject": "SPN",
+"number": "619SB",
+"title": "Topics in Spanish",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
 "id": "SPN 327C",
 "subject": "SPN",
 "number": "327C",
@@ -398,6 +534,26 @@
 "number": "929S",
 "title": "Topics in Spanish",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 629SA",
+"subject": "SPN",
+"number": "629SA",
+"title": "Topics in Spanish",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
+"excluded": "a major in Spanish"
+},
+{
+"id": "SPN 629SB",
+"subject": "SPN",
+"number": "629SB",
+"title": "Topics in Spanish",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Spanish and Portuguese. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May not be counted toward a major in Spanish. May be repeated for credit when the topics vary.",
 "excluded": "a major in Spanish"
@@ -932,6 +1088,36 @@
 "number": "679H",
 "title": "Honors Tutorial Course",
 "hours": 6.0,
+"division": "upper",
+"description": "Supervised individual research on a literary, linguistic, or cultural problem, culminating in a written thesis of fifty to eighty typewritten pages. Conference course for two semesters. Prerequisite: For 679HA, upper-division standing, admission to the Spanish Honors Program, and consent of the honors adviser; for 679HB, Spanish 679HA.",
+"prereqText": "For 679HA, upper-division standing, admission to the Spanish Honors Program, and consent of the honors adviser; for 679HB, Spanish 679HA.",
+"prereq": {
+"type": "course",
+"id": "SPN 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SPN 679HA",
+"subject": "SPN",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on a literary, linguistic, or cultural problem, culminating in a written thesis of fifty to eighty typewritten pages. Conference course for two semesters. Prerequisite: For 679HA, upper-division standing, admission to the Spanish Honors Program, and consent of the honors adviser; for 679HB, Spanish 679HA.",
+"prereqText": "For 679HA, upper-division standing, admission to the Spanish Honors Program, and consent of the honors adviser; for 679HB, Spanish 679HA.",
+"prereq": {
+"type": "course",
+"id": "SPN 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SPN 679HB",
+"subject": "SPN",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
 "division": "upper",
 "description": "Supervised individual research on a literary, linguistic, or cultural problem, culminating in a written thesis of fifty to eighty typewritten pages. Conference course for two semesters. Prerequisite: For 679HA, upper-division standing, admission to the Spanish Honors Program, and consent of the honors adviser; for 679HB, Spanish 679HA.",
 "prereqText": "For 679HA, upper-division standing, admission to the Spanish Honors Program, and consent of the honors adviser; for 679HB, Spanish 679HA.",

@@ -255,6 +255,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "I 619SA",
+"subject": "I",
+"number": "619SA",
+"title": "Topics in Informatics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 619SB",
+"subject": "I",
+"number": "619SB",
+"title": "Topics in Informatics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "I 320",
 "subject": "I",
 "number": "320",
@@ -453,6 +471,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "I 629SA",
+"subject": "I",
+"number": "629SA",
+"title": "Topics in Informatics",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "I 629SB",
+"subject": "I",
+"number": "629SB",
+"title": "Topics in Informatics",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "I 372",
 "subject": "I",
 "number": "372",
@@ -584,6 +620,38 @@
 "number": "679H",
 "title": "Honors Thesis",
 "hours": 6.0,
+"division": "upper",
+"description": "Restricted to Informatics majors. Research, read, and develop an honors thesis subject and proposal for one semester; followed in the second semester by the writing and defense of a final honors thesis. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, upper-division standing, a minimum of 90 hours of coursework, and consent of instructor; for 679HB Informatics 679HA.",
+"prereqText": "For 679HA, upper-division standing, a minimum of 90 hours of coursework, and consent of instructor; for 679HB Informatics 679HA.",
+"prereq": {
+"type": "course",
+"id": "I 679HA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Informatics majors."
+},
+{
+"id": "I 679HA",
+"subject": "I",
+"number": "679HA",
+"title": "Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Informatics majors. Research, read, and develop an honors thesis subject and proposal for one semester; followed in the second semester by the writing and defense of a final honors thesis. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, upper-division standing, a minimum of 90 hours of coursework, and consent of instructor; for 679HB Informatics 679HA.",
+"prereqText": "For 679HA, upper-division standing, a minimum of 90 hours of coursework, and consent of instructor; for 679HB Informatics 679HA.",
+"prereq": {
+"type": "course",
+"id": "I 679HA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Informatics majors."
+},
+{
+"id": "I 679HB",
+"subject": "I",
+"number": "679HB",
+"title": "Honors Thesis",
+"hours": 3.0,
 "division": "upper",
 "description": "Restricted to Informatics majors. Research, read, and develop an honors thesis subject and proposal for one semester; followed in the second semester by the writing and defense of a final honors thesis. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, upper-division standing, a minimum of 90 hours of coursework, and consent of instructor; for 679HB Informatics 679HA.",
 "prereqText": "For 679HA, upper-division standing, a minimum of 90 hours of coursework, and consent of instructor; for 679HB Informatics 679HA.",

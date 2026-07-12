@@ -12,6 +12,24 @@
 "description": "Introduction to an indigenous language of Latin America. Designed to provide students with the basics of grammar and vocabulary; the to ability to engage in simple, colloquial conversation; and basic writing skills as foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary."
 },
 {
+"id": "LAL 601CA",
+"subject": "LAL",
+"number": "601CA",
+"title": "Intensive Indigenous Language of Latin America I",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to an indigenous language of Latin America. Designed to provide students with the basics of grammar and vocabulary; the to ability to engage in simple, colloquial conversation; and basic writing skills as foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAL 601CB",
+"subject": "LAL",
+"number": "601CB",
+"title": "Intensive Indigenous Language of Latin America I",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to an indigenous language of Latin America. Designed to provide students with the basics of grammar and vocabulary; the to ability to engage in simple, colloquial conversation; and basic writing skills as foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
 "id": "LAL 406",
 "subject": "LAL",
 "number": "406",
@@ -41,6 +59,38 @@
 "number": "611C",
 "title": "Intensive Indigenous Language of Latin America II",
 "hours": 6.0,
+"division": "lower",
+"description": "Continuation in the study of an indigenous language of Latin America. Designed to introduce students to advanced subjects in grammar and vocabulary and develop advanced conversation, reading, and writing skills as a foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Indigenous Languages of Latin America 601C with a grade of at least C.",
+"prereqText": "Indigenous Languages of Latin America 601C with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "LAL 601C",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAL 611CA",
+"subject": "LAL",
+"number": "611CA",
+"title": "Intensive Indigenous Language of Latin America II",
+"hours": 3.0,
+"division": "lower",
+"description": "Continuation in the study of an indigenous language of Latin America. Designed to introduce students to advanced subjects in grammar and vocabulary and develop advanced conversation, reading, and writing skills as a foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Indigenous Languages of Latin America 601C with a grade of at least C.",
+"prereqText": "Indigenous Languages of Latin America 601C with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "LAL 601C",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAL 611CB",
+"subject": "LAL",
+"number": "611CB",
+"title": "Intensive Indigenous Language of Latin America II",
+"hours": 3.0,
 "division": "lower",
 "description": "Continuation in the study of an indigenous language of Latin America. Designed to introduce students to advanced subjects in grammar and vocabulary and develop advanced conversation, reading, and writing skills as a foundation for further study. The equivalent of six lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Indigenous Languages of Latin America 601C with a grade of at least C.",
 "prereqText": "Indigenous Languages of Latin America 601C with a grade of at least C.",

@@ -236,6 +236,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "MOL 692A",
+"subject": "MOL",
+"number": "692A",
+"title": "Research Problems",
+"hours": 6.0,
+"division": "graduate",
+"description": "One lecture hour a week for one semester, with additional laboratory hours. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "MOL 692B",
+"subject": "MOL",
+"number": "692B",
+"title": "Research Problems",
+"hours": 6.0,
+"division": "graduate",
+"description": "One lecture hour a week for one semester, with additional laboratory hours. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
 "id": "MOL 394L",
 "subject": "MOL",
 "number": "394L",
@@ -385,6 +407,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "MOL 698A",
+"subject": "MOL",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in molecular biology and consent of the graduate adviser; for 698B, Molecular Biology 698A.",
+"prereqText": "For 698A, graduate standing in molecular biology and consent of the graduate adviser; for 698B, Molecular Biology 698A.",
+"prereq": {
+"type": "course",
+"id": "MOL 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MOL 698B",
+"subject": "MOL",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in molecular biology and consent of the graduate adviser; for 698B, Molecular Biology 698A.",
+"prereqText": "For 698A, graduate standing in molecular biology and consent of the graduate adviser; for 698B, Molecular Biology 698A.",
+"prereq": {
+"type": "course",
+"id": "MOL 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "MOL 398T",
 "subject": "MOL",
 "number": "398T",
@@ -425,6 +479,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MOL 699WA",
+"subject": "MOL",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MOL 699WB",
+"subject": "MOL",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

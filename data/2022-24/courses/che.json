@@ -194,6 +194,26 @@
 "offering": "Offered on the letter-grade basis only."
 },
 {
+"id": "CHE 619SA",
+"subject": "CHE",
+"number": "619SA",
+"title": "Topics in Chemical Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 619SB",
+"subject": "CHE",
+"number": "619SB",
+"title": "Topics in Chemical Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
 "id": "CHE 322",
 "subject": "CHE",
 "number": "322",
@@ -354,6 +374,26 @@
 "number": "929S",
 "title": "Topics in Chemical Engineering",
 "hours": 9.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 629SA",
+"subject": "CHE",
+"number": "629SA",
+"title": "Topics in Chemical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "CHE 629SB",
+"subject": "CHE",
+"number": "629SB",
+"title": "Topics in Chemical Engineering",
+"hours": 3.0,
 "division": "upper",
 "description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the McKetta Department of Chemical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
 "offering": "Offered on the letter-grade basis only."
@@ -950,6 +990,36 @@
 "prereqConfidence": "high"
 },
 {
+"id": "CHE 679HA",
+"subject": "CHE",
+"number": "679HA",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of a chemical engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the department chair. The student makes two oral presentations and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and the Bachelor of Science in Chemical Engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Chemical Engineering Honors Program; for 679HB, enrollment in the Chemical Engineering Honors Program and credit for Chemical Engineering 679HA.",
+"prereqText": "For 679HA, enrollment in the Chemical Engineering Honors Program; for 679HB, enrollment in the Chemical Engineering Honors Program and credit for Chemical Engineering 679HA.",
+"prereq": {
+"type": "course",
+"id": "CHE 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CHE 679HB",
+"subject": "CHE",
+"number": "679HB",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of a chemical engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the department chair. The student makes two oral presentations and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and the Bachelor of Science in Chemical Engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Chemical Engineering Honors Program; for 679HB, enrollment in the Chemical Engineering Honors Program and credit for Chemical Engineering 679HA.",
+"prereqText": "For 679HA, enrollment in the Chemical Engineering Honors Program; for 679HB, enrollment in the Chemical Engineering Honors Program and credit for Chemical Engineering 679HA.",
+"prereq": {
+"type": "course",
+"id": "CHE 679HA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "CHE 180C",
 "subject": "CHE",
 "number": "180C",
@@ -1092,6 +1162,28 @@
 "id": "CHE 685",
 "subject": "CHE",
 "number": "685",
+"title": "Research",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 685A",
+"subject": "CHE",
+"number": "685A",
+"title": "Research",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in chemical engineering, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CHE 685B",
+"subject": "CHE",
+"number": "685B",
 "title": "Research",
 "hours": 6.0,
 "division": "graduate",
@@ -1338,6 +1430,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "CHE 698A",
+"subject": "CHE",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in chemical engineering and consent of the graduate adviser; for 698B, Chemical Engineering 698A.",
+"prereqText": "For 698A, graduate standing in chemical engineering and consent of the graduate adviser; for 698B, Chemical Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "CHE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CHE 698B",
+"subject": "CHE",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in chemical engineering and consent of the graduate adviser; for 698B, Chemical Engineering 698A.",
+"prereqText": "For 698A, graduate standing in chemical engineering and consent of the graduate adviser; for 698B, Chemical Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "CHE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "CHE 398R",
 "subject": "CHE",
 "number": "398R",
@@ -1414,6 +1538,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CHE 699WA",
+"subject": "CHE",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CHE 699WB",
+"subject": "CHE",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

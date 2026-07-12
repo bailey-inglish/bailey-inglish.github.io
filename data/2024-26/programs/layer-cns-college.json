@@ -1,0 +1,34 @@
+{
+ "id": "2024-26/layer/cns-college",
+ "edition": "2024-26",
+ "type": "layer",
+ "name": "College of Natural Sciences — college requirements",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/natural-sciences/graduation/",
+ "rules": {
+  "type": "all",
+  "title": "CNS college requirements",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 60,
+    "filter": {
+     "label": "Any coursework in residence"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/graduation/"
+    },
+    "title": "60 hours in residence",
+    "inResidence": true
+   },
+   {
+    "type": "manual",
+    "text": "At least six semester hours of advanced coursework in the major be completed in residence.",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/graduation/"
+    },
+    "title": "Six advanced in-residence hours in major"
+   }
+  ]
+ }
+}

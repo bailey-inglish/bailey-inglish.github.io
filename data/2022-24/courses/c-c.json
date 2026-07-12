@@ -226,6 +226,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "C C 619SA",
+"subject": "C C",
+"number": "619SA",
+"title": "Topics in Classical Civilization",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C C 619SB",
+"subject": "C C",
+"number": "619SB",
+"title": "Topics in Classical Civilization",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "C C 322C",
 "subject": "C C",
 "number": "322C",
@@ -338,6 +356,24 @@
 "number": "929S",
 "title": "Topics in Classical Civilization",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C C 629SA",
+"subject": "C C",
+"number": "629SA",
+"title": "Topics in Classical Civilization",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C C 629SB",
+"subject": "C C",
+"number": "629SB",
+"title": "Topics in Classical Civilization",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -546,6 +582,36 @@
 "number": "679H",
 "title": "Honors Tutorial Course",
 "hours": 6.0,
+"division": "upper",
+"description": "Supervised conference course for honors candidates in classics. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Classics Honors Program; for 679HB, Classical Civilization 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the Classics Honors Program; for 679HB, Classical Civilization 679HA.",
+"prereq": {
+"type": "course",
+"id": "C C 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C C 679HA",
+"subject": "C C",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised conference course for honors candidates in classics. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Classics Honors Program; for 679HB, Classical Civilization 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the Classics Honors Program; for 679HB, Classical Civilization 679HA.",
+"prereq": {
+"type": "course",
+"id": "C C 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C C 679HB",
+"subject": "C C",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
 "division": "upper",
 "description": "Supervised conference course for honors candidates in classics. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Classics Honors Program; for 679HB, Classical Civilization 679HA.",
 "prereqText": "For 679HA, upper-division standing and admission to the Classics Honors Program; for 679HB, Classical Civilization 679HA.",

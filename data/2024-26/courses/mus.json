@@ -215,6 +215,38 @@
 "prereqConfidence": "high"
 },
 {
+"id": "MUS 605A",
+"subject": "MUS",
+"number": "605A",
+"title": "Musicianship",
+"hours": 6.0,
+"division": "lower",
+"description": "Study of the fundamentals of music for music majors through tonal harmony, ear training, sight-singing, keyboard drill, analysis, and composition of music. Three lecture hours and two laboratory hours a week for two semesters. Only one of the following may be counted: Music 303C, 605, 313; Music 303D, 605, 313; Music 303E, 605, 313; Music 303F, 605, 313. Prerequisite: For 605A, either satisfactory completion of the audition required for admission to the Butler School of Music and registration in class piano as assigned by the Butler School of Music, or consent of instructor; for 605B, Music 605A with a grade of at least C-.",
+"prereqText": "For 605A, either satisfactory completion of the audition required for admission to the Butler School of Music and registration in class piano as assigned by the Butler School of Music, or consent of instructor; for 605B, Music 605A with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "MUS 605A",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 605B",
+"subject": "MUS",
+"number": "605B",
+"title": "Musicianship",
+"hours": 6.0,
+"division": "lower",
+"description": "Study of the fundamentals of music for music majors through tonal harmony, ear training, sight-singing, keyboard drill, analysis, and composition of music. Three lecture hours and two laboratory hours a week for two semesters. Only one of the following may be counted: Music 303C, 605, 313; Music 303D, 605, 313; Music 303E, 605, 313; Music 303F, 605, 313. Prerequisite: For 605A, either satisfactory completion of the audition required for admission to the Butler School of Music and registration in class piano as assigned by the Butler School of Music, or consent of instructor; for 605B, Music 605A with a grade of at least C-.",
+"prereqText": "For 605A, either satisfactory completion of the audition required for admission to the Butler School of Music and registration in class piano as assigned by the Butler School of Music, or consent of instructor; for 605B, Music 605A with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "MUS 605A",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "MUS 306M",
 "subject": "MUS",
 "number": "306M",
@@ -329,6 +361,28 @@
 "id": "MUS 612",
 "subject": "MUS",
 "number": "612",
+"title": "Structure of Tonal Music",
+"hours": 6.0,
+"division": "lower",
+"description": "Elements of tonal harmony and form; tonal analysis. Three lecture hours a week for two semesters, with one laboratory hour a week as required. Prerequisite: For 612A, Music 605B with a grade of at least C-, and credit or registration for Music 411A; for 612B, Music 612A with a grade of at least C-, and credit or registration for Music 411B.",
+"prereqText": "For 612A, Music 605B with a grade of at least C-, and credit or registration for Music 411A; for 612B, Music 612A with a grade of at least C-, and credit or registration for Music 411B.",
+"prereqConfidence": "low"
+},
+{
+"id": "MUS 612A",
+"subject": "MUS",
+"number": "612A",
+"title": "Structure of Tonal Music",
+"hours": 6.0,
+"division": "lower",
+"description": "Elements of tonal harmony and form; tonal analysis. Three lecture hours a week for two semesters, with one laboratory hour a week as required. Prerequisite: For 612A, Music 605B with a grade of at least C-, and credit or registration for Music 411A; for 612B, Music 612A with a grade of at least C-, and credit or registration for Music 411B.",
+"prereqText": "For 612A, Music 605B with a grade of at least C-, and credit or registration for Music 411A; for 612B, Music 612A with a grade of at least C-, and credit or registration for Music 411B.",
+"prereqConfidence": "low"
+},
+{
+"id": "MUS 612B",
+"subject": "MUS",
+"number": "612B",
 "title": "Structure of Tonal Music",
 "hours": 6.0,
 "division": "lower",
@@ -642,6 +696,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "MUS 619QA",
+"subject": "MUS",
+"number": "619QA",
+"title": "Topics in Music",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 619QB",
+"subject": "MUS",
+"number": "619QB",
+"title": "Topics in Music",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "MUS 119S",
 "subject": "MUS",
 "number": "119S",
@@ -719,6 +791,24 @@
 "number": "919S",
 "title": "Topics in Music",
 "hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 619SA",
+"subject": "MUS",
+"number": "619SA",
+"title": "Topics in Music",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 619SB",
+"subject": "MUS",
+"number": "619SB",
+"title": "Topics in Music",
+"hours": 3.0,
 "division": "lower",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -1212,6 +1302,24 @@
 "number": "929Q",
 "title": "Topics in Music",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 629QA",
+"subject": "MUS",
+"number": "629QA",
+"title": "Topics in Music",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 629QB",
+"subject": "MUS",
+"number": "629QB",
+"title": "Topics in Music",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -2981,6 +3089,30 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "MUS 694A",
+"subject": "MUS",
+"number": "694A",
+"title": "Directed Reading",
+"hours": 6.0,
+"division": "graduate",
+"description": "Readings in the literature of music. The equivalent of one, three, or six lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in music and consent of the graduate adviser.",
+"prereqText": "Graduate standing in music and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 694B",
+"subject": "MUS",
+"number": "694B",
+"title": "Directed Reading",
+"hours": 6.0,
+"division": "graduate",
+"description": "Readings in the literature of music. The equivalent of one, three, or six lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in music and consent of the graduate adviser.",
+"prereqText": "Graduate standing in music and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "MUS 395W",
 "subject": "MUS",
 "number": "395W",
@@ -2995,6 +3127,38 @@
 "id": "MUS 698",
 "subject": "MUS",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in music and consent of the graduate adviser; for 698B, Music 698A.",
+"prereqText": "For 698A, graduate standing in music and consent of the graduate adviser; for 698B, Music 698A.",
+"prereq": {
+"type": "course",
+"id": "MUS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 698A",
+"subject": "MUS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in music and consent of the graduate adviser; for 698B, Music 698A.",
+"prereqText": "For 698A, graduate standing in music and consent of the graduate adviser; for 698B, Music 698A.",
+"prereq": {
+"type": "course",
+"id": "MUS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 698B",
+"subject": "MUS",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -3042,6 +3206,38 @@
 "number": "698R",
 "title": "Master's Recital",
 "hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698RA, graduate standing in performance or music literature and pedagogy, and course 380 or 480 in the appropriate instrument; for 698RB, Music 698RA.",
+"prereqText": "For 698RA, graduate standing in performance or music literature and pedagogy, and course 380 or 480 in the appropriate instrument; for 698RB, Music 698RA.",
+"prereq": {
+"type": "course",
+"id": "MUS 698RA"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 698RA",
+"subject": "MUS",
+"number": "698RA",
+"title": "Master's Recital",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698RA, graduate standing in performance or music literature and pedagogy, and course 380 or 480 in the appropriate instrument; for 698RB, Music 698RA.",
+"prereqText": "For 698RA, graduate standing in performance or music literature and pedagogy, and course 380 or 480 in the appropriate instrument; for 698RB, Music 698RA.",
+"prereq": {
+"type": "course",
+"id": "MUS 698RA"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 698RB",
+"subject": "MUS",
+"number": "698RB",
+"title": "Master's Recital",
+"hours": 3.0,
 "division": "graduate",
 "description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698RA, graduate standing in performance or music literature and pedagogy, and course 380 or 480 in the appropriate instrument; for 698RB, Music 698RA.",
 "prereqText": "For 698RA, graduate standing in performance or music literature and pedagogy, and course 380 or 480 in the appropriate instrument; for 698RB, Music 698RA.",
@@ -3103,6 +3299,32 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "MUS 699A",
+"subject": "MUS",
+"number": "699A",
+"title": "Treatise",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree. Author a substantial research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 699B",
+"subject": "MUS",
+"number": "699B",
+"title": "Treatise",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree. Author a substantial research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "MUS 399N",
 "subject": "MUS",
 "number": "399N",
@@ -3142,6 +3364,32 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "MUS 699NA",
+"subject": "MUS",
+"number": "699NA",
+"title": "Nontreatise Lecture Recital Document",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree. Author a research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 699NB",
+"subject": "MUS",
+"number": "699NB",
+"title": "Nontreatise Lecture Recital Document",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree. Author a research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "MUS 399W",
 "subject": "MUS",
 "number": "399W",
@@ -3171,6 +3419,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 699WA",
+"subject": "MUS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 699WB",
+"subject": "MUS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

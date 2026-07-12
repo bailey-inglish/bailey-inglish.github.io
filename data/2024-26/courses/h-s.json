@@ -119,6 +119,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Health and Society major. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "H S 619SA",
+"subject": "H S",
+"number": "619SA",
+"title": "Topics in Health and Society",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Health and Society major. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "H S 619SB",
+"subject": "H S",
+"number": "619SB",
+"title": "Topics in Health and Society",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Health and Society major. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "H S 129S",
 "subject": "H S",
 "number": "129S",
@@ -196,6 +214,24 @@
 "number": "929S",
 "title": "Topics in Health and Society",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Health and Society major. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "H S 629SA",
+"subject": "H S",
+"number": "629SA",
+"title": "Topics in Health and Society",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Health and Society major. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "H S 629SB",
+"subject": "H S",
+"number": "629SB",
+"title": "Topics in Health and Society",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Health and Society major. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -318,6 +354,38 @@
 "number": "679H",
 "title": "Honors Tutorial Course",
 "hours": 6.0,
+"division": "upper",
+"description": "A supervised conference course to provide training in research and writing. The equivalent of three lecture hours a week for two semesters. Offered on the letter-grade basis only. Prerequisite: For 679HA, upper-division standing and admission to the honors program in Health and Society; for 679HB, Health and Society 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the honors program in Health and Society; for 679HB, Health and Society 679HA.",
+"prereq": {
+"type": "course",
+"id": "H S 679HA"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "H S 679HA",
+"subject": "H S",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "A supervised conference course to provide training in research and writing. The equivalent of three lecture hours a week for two semesters. Offered on the letter-grade basis only. Prerequisite: For 679HA, upper-division standing and admission to the honors program in Health and Society; for 679HB, Health and Society 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the honors program in Health and Society; for 679HB, Health and Society 679HA.",
+"prereq": {
+"type": "course",
+"id": "H S 679HA"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "H S 679HB",
+"subject": "H S",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
 "division": "upper",
 "description": "A supervised conference course to provide training in research and writing. The equivalent of three lecture hours a week for two semesters. Offered on the letter-grade basis only. Prerequisite: For 679HA, upper-division standing and admission to the honors program in Health and Society; for 679HB, Health and Society 679HA.",
 "prereqText": "For 679HA, upper-division standing and admission to the honors program in Health and Society; for 679HB, Health and Society 679HA.",

@@ -104,6 +104,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Pharmacy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "PHM 619SA",
+"subject": "PHM",
+"number": "619SA",
+"title": "Topics in Pharmacy PharmD",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Pharmacy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHM 619SB",
+"subject": "PHM",
+"number": "619SB",
+"title": "Topics in Pharmacy PharmD",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Pharmacy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "PHM 129S",
 "subject": "PHM",
 "number": "129S",
@@ -181,6 +199,24 @@
 "number": "929S",
 "title": "Topics in Pharmacy PharmD",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Pharmacy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHM 629SA",
+"subject": "PHM",
+"number": "629SA",
+"title": "Topics in Pharmacy PharmD",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Pharmacy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHM 629SB",
+"subject": "PHM",
+"number": "629SB",
+"title": "Topics in Pharmacy PharmD",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the College of Pharmacy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -2084,6 +2120,54 @@
 "prereqConfidence": "high"
 },
 {
+"id": "PHM 687KA",
+"subject": "PHM",
+"number": "687KA",
+"title": "Pharmacy Association Management Residency",
+"hours": 3.0,
+"division": "graduate",
+"description": "Experience working in a pharmacy association, including active involvement in some managerial aspect of the association. Eighteen hours of fieldwork a week for one semester. Only one of the following may be counted: Pharmacy 629D and Pharmacy PharmD 687K. Prerequisite: Pharmacy PharmD 384L (or Pharmacy 364D) and consent of instructor.",
+"prereqText": "Pharmacy PharmD 384L (or Pharmacy 364D) and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "PHM 384L"
+},
+{
+"type": "course",
+"id": "PHM 364D"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PHM 687KB",
+"subject": "PHM",
+"number": "687KB",
+"title": "Pharmacy Association Management Residency",
+"hours": 3.0,
+"division": "graduate",
+"description": "Experience working in a pharmacy association, including active involvement in some managerial aspect of the association. Eighteen hours of fieldwork a week for one semester. Only one of the following may be counted: Pharmacy 629D and Pharmacy PharmD 687K. Prerequisite: Pharmacy PharmD 384L (or Pharmacy 364D) and consent of instructor.",
+"prereqText": "Pharmacy PharmD 384L (or Pharmacy 364D) and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "PHM 384L"
+},
+{
+"type": "course",
+"id": "PHM 364D"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
 "id": "PHM 387M",
 "subject": "PHM",
 "number": "387M",
@@ -2860,11 +2944,59 @@
 "offering": "Offered on the pass/fail basis only."
 },
 {
+"id": "PHM 693CA",
+"subject": "PHM",
+"number": "693CA",
+"title": "Ambulatory Care Pharmacy Practice",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in the context of ambulatory patient care. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693C and Pharmacy PharmD 693C may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 693CB",
+"subject": "PHM",
+"number": "693CB",
+"title": "Ambulatory Care Pharmacy Practice",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in the context of ambulatory patient care. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693C and Pharmacy PharmD 693C may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
 "id": "PHM 693E",
 "subject": "PHM",
 "number": "693E",
 "title": "Elective in Pharmacy Practice I",
 "hours": 6.0,
+"division": "graduate",
+"description": "Experience in pharmacy practice, research, or administration. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693E and Pharmacy PharmD 693E may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 693EA",
+"subject": "PHM",
+"number": "693EA",
+"title": "Elective in Pharmacy Practice I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Experience in pharmacy practice, research, or administration. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693E and Pharmacy PharmD 693E may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 693EB",
+"subject": "PHM",
+"number": "693EB",
+"title": "Elective in Pharmacy Practice I",
+"hours": 3.0,
 "division": "graduate",
 "description": "Experience in pharmacy practice, research, or administration. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693E and Pharmacy PharmD 693E may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
 "prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
@@ -2940,11 +3072,59 @@
 "offering": "Offered on the pass/fail basis only."
 },
 {
+"id": "PHM 693NA",
+"subject": "PHM",
+"number": "693NA",
+"title": "Advanced Hospital Pharmacy Practice",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, synthesis of rational drug regimens, and dispensing of medications in the context of institutional patient care. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693N and Pharmacy PharmD 693N may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 693NB",
+"subject": "PHM",
+"number": "693NB",
+"title": "Advanced Hospital Pharmacy Practice",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, synthesis of rational drug regimens, and dispensing of medications in the context of institutional patient care. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693N and Pharmacy PharmD 693N may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
 "id": "PHM 693P",
 "subject": "PHM",
 "number": "693P",
 "title": "Advanced Community Pharmacy Practice",
 "hours": 6.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, synthesis of rational drug regimens, and dispensing of medications in the context of community-based patient care. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693P and Pharmacy PharmD 693P may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 693PA",
+"subject": "PHM",
+"number": "693PA",
+"title": "Advanced Community Pharmacy Practice",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, synthesis of rational drug regimens, and dispensing of medications in the context of community-based patient care. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693P and Pharmacy PharmD 693P may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 693PB",
+"subject": "PHM",
+"number": "693PB",
+"title": "Advanced Community Pharmacy Practice",
+"hours": 3.0,
 "division": "graduate",
 "description": "Analysis of pharmacotherapy, evaluation of drug use, synthesis of rational drug regimens, and dispensing of medications in the context of community-based patient care. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693P and Pharmacy PharmD 693P may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
 "prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
@@ -2964,11 +3144,59 @@
 "offering": "Offered on the pass/fail basis only."
 },
 {
+"id": "PHM 693RA",
+"subject": "PHM",
+"number": "693RA",
+"title": "Supplemental Rotation in Pharmacy Practice I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in the context of patient care. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy.",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 693RB",
+"subject": "PHM",
+"number": "693RB",
+"title": "Supplemental Rotation in Pharmacy Practice I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in the context of patient care. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy.",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
 "id": "PHM 693S",
 "subject": "PHM",
 "number": "693S",
 "title": "Selective in Pharmacy Practice I",
 "hours": 6.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in a selected pharmacy practice environment. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693S and Pharmacy PharmD 693S may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 693SA",
+"subject": "PHM",
+"number": "693SA",
+"title": "Selective in Pharmacy Practice I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in a selected pharmacy practice environment. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693S and Pharmacy PharmD 693S may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 693SB",
+"subject": "PHM",
+"number": "693SB",
+"title": "Selective in Pharmacy Practice I",
+"hours": 3.0,
 "division": "graduate",
 "description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in a selected pharmacy practice environment. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693S and Pharmacy PharmD 693S may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
 "prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 694C (or Pharmacy 694C), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
@@ -3022,6 +3250,30 @@
 "offering": "Offered on the pass/fail basis only."
 },
 {
+"id": "PHM 693WA",
+"subject": "PHM",
+"number": "693WA",
+"title": "Elective International Pharmacy Experience",
+"hours": 3.0,
+"division": "graduate",
+"description": "Competitive placement for an international advanced pharmacy experience. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693W and Pharmacy PharmD 693W may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy.",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 693WB",
+"subject": "PHM",
+"number": "693WB",
+"title": "Elective International Pharmacy Experience",
+"hours": 3.0,
+"division": "graduate",
+"description": "Competitive placement for an international advanced pharmacy experience. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 693W and Pharmacy PharmD 693W may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy.",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
 "id": "PHM 194",
 "subject": "PHM",
 "number": "194",
@@ -3063,11 +3315,59 @@
 "offering": "Offered on the pass/fail basis only."
 },
 {
+"id": "PHM 694CA",
+"subject": "PHM",
+"number": "694CA",
+"title": "Inpatient General Medicine Pharmacy Practice",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in the context of acute patient care. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 694C and Pharmacy PharmD 694C may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 694CB",
+"subject": "PHM",
+"number": "694CB",
+"title": "Inpatient General Medicine Pharmacy Practice",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in the context of acute patient care. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 694C and Pharmacy PharmD 694C may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694E (or Pharmacy 694E), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
 "id": "PHM 694E",
 "subject": "PHM",
 "number": "694E",
 "title": "Elective in Pharmacy Practice II",
 "hours": 6.0,
+"division": "graduate",
+"description": "Experience in pharmacy practice, research, or administration. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 694E and Pharmacy PharmD 694E may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 694EA",
+"subject": "PHM",
+"number": "694EA",
+"title": "Elective in Pharmacy Practice II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Experience in pharmacy practice, research, or administration. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 694E and Pharmacy PharmD 694E may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 694EB",
+"subject": "PHM",
+"number": "694EB",
+"title": "Elective in Pharmacy Practice II",
+"hours": 3.0,
 "division": "graduate",
 "description": "Experience in pharmacy practice, research, or administration. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 694E and Pharmacy PharmD 694E may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
 "prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C), 694S (or Pharmacy 694S), or 695E (or Pharmacy 695E).",
@@ -3112,11 +3412,59 @@
 "offering": "Offered on the pass/fail basis only."
 },
 {
+"id": "PHM 694RA",
+"subject": "PHM",
+"number": "694RA",
+"title": "Supplemental Rotation in Pharmacy Practice II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in the context of patient care. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy.",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 694RB",
+"subject": "PHM",
+"number": "694RB",
+"title": "Supplemental Rotation in Pharmacy Practice II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in the context of patient care. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy.",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
 "id": "PHM 694S",
 "subject": "PHM",
 "number": "694S",
 "title": "Selective in Pharmacy Practice II",
 "hours": 6.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in selected pharmacy practice environments. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 694S and Pharmacy PharmD 694S may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C) 694E (or Pharmacy 694E), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C) 694E (or Pharmacy 694E), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 694SA",
+"subject": "PHM",
+"number": "694SA",
+"title": "Selective in Pharmacy Practice II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in selected pharmacy practice environments. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 694S and Pharmacy PharmD 694S may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C) 694E (or Pharmacy 694E), or 695E (or Pharmacy 695E).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C) 694E (or Pharmacy 694E), or 695E (or Pharmacy 695E).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 694SB",
+"subject": "PHM",
+"number": "694SB",
+"title": "Selective in Pharmacy Practice II",
+"hours": 3.0,
 "division": "graduate",
 "description": "Analysis of pharmacotherapy, evaluation of drug use, and synthesis of rational drug regimens in selected pharmacy practice environments. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 694S and Pharmacy PharmD 694S may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C) 694E (or Pharmacy 694E), or 695E (or Pharmacy 695E).",
 "prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C) 694E (or Pharmacy 694E), or 695E (or Pharmacy 695E).",
@@ -3158,6 +3506,30 @@
 "number": "695E",
 "title": "Elective in Pharmacy Practice III",
 "hours": 6.0,
+"division": "graduate",
+"description": "Experience in pharmacy practice, research, or administration. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 695E and Pharmacy PharmD 695E may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C) 694E (or Pharmacy 694E) or 694S (or Pharmacy 694S).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C) 694E (or Pharmacy 694E) or 694S (or Pharmacy 694S).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 695EA",
+"subject": "PHM",
+"number": "695EA",
+"title": "Elective in Pharmacy Practice III",
+"hours": 3.0,
+"division": "graduate",
+"description": "Experience in pharmacy practice, research, or administration. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 695E and Pharmacy PharmD 695E may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C) 694E (or Pharmacy 694E) or 694S (or Pharmacy 694S).",
+"prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C) 694E (or Pharmacy 694E) or 694S (or Pharmacy 694S).",
+"prereqConfidence": "low",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "PHM 695EB",
+"subject": "PHM",
+"number": "695EB",
+"title": "Elective in Pharmacy Practice III",
+"hours": 3.0,
 "division": "graduate",
 "description": "Experience in pharmacy practice, research, or administration. Forty laboratory hours a week for at least six weeks, with additional hours to be arranged. Pharmacy 695E and Pharmacy PharmD 695E may not both be counted. Offered on the pass/fail basis only. Prerequisite: Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C) 694E (or Pharmacy 694E) or 694S (or Pharmacy 694S).",
 "prereqText": "Current intern registration with the Texas State Board of Pharmacy and completion of all didactic and laboratory coursework prior to the fourth professional year in the College of Pharmacy; during the fall and spring semesters, concurrent enrollment in two of the following: Pharmacy PharmD 693C (or Pharmacy 693C), 693E (or Pharmacy 693E), 693N (or Pharmacy 693N), 693P (or Pharmacy 693P), 693S (or Pharmacy 693S), 694C (or Pharmacy 694C) 694E (or Pharmacy 694E) or 694S (or Pharmacy 694S).",

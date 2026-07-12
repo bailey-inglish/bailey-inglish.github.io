@@ -1,0 +1,208 @@
+{
+ "id": "2022-24/layer/cola-ba-plan-i",
+ "edition": "2022-24",
+ "type": "layer",
+ "name": "Bachelor of Arts, Plan I — degree requirements",
+ "college": "Liberal Arts",
+ "totalHours": 120,
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/",
+ "notes": "Up to 16 hours pass/fail (electives only). No more than 39 hours in one COLA/CNS field of study. Every BA Plan I student must also complete a minor.",
+ "rules": {
+  "type": "all",
+  "title": "BA Plan I degree requirements",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 120,
+    "filter": {
+     "label": "Any coursework"
+    },
+    "umbrella": true,
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/",
+     "quote": "A total of 120 semester hours is required."
+    },
+    "title": "120 total hours"
+   },
+   {
+    "type": "hours",
+    "hours": 39,
+    "filter": {
+     "division": "upper",
+     "label": "Upper-division coursework"
+    },
+    "umbrella": true,
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/"
+    },
+    "title": "39 upper-division hours"
+   },
+   {
+    "type": "hours",
+    "hours": 24,
+    "filter": {
+     "division": "upper",
+     "label": "Upper-division in residence"
+    },
+    "umbrella": true,
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/"
+    },
+    "title": "24 upper-division hours in residence",
+    "inResidence": true
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Writing and literature",
+    "of": [
+     {
+      "type": "course",
+      "course": "E 316L"
+     },
+     {
+      "type": "course",
+      "course": "E 316M"
+     },
+     {
+      "type": "course",
+      "course": "E 316N"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Foreign language proficiency",
+    "of": [
+     {
+      "type": "hours",
+      "hours": 3,
+      "filter": {
+       "courses": [
+        "ASL 311D",
+        "ARA 611C",
+        "BEN 312L",
+        "CHI 612",
+        "CHI 312L",
+        "CZ 611C",
+        "CZ 412L",
+        "DAN 612",
+        "DCH 612",
+        "FR 611C",
+        "FR 412K",
+        "GER 612",
+        "GK 312K",
+        "GK 312L",
+        "GK 610C",
+        "GK 310K",
+        "HEB 612C",
+        "HEB 611C",
+        "HIN 312L",
+        "HIN 612",
+        "ITL 611C",
+        "JPN 611D",
+        "KOR 312L",
+        "LAL 611C",
+        "LAT 511K",
+        "MAL 312L",
+        "NOR 612",
+        "PRS 611C",
+        "PRS 612C",
+        "POL 611C",
+        "POL 312L",
+        "POR 611D",
+        "RUS 611C",
+        "RUS 412K",
+        "SAN 312L",
+        "S C 312L",
+        "SAL 312L",
+        "SEL 611C",
+        "SEL 312L",
+        "SPN 311",
+        "SPN 611D",
+        "SPN 311J",
+        "SWA 611C",
+        "SWE 612",
+        "TAM 312L",
+        "TEL 312L",
+        "TUR 611C",
+        "URD 312L",
+        "UKR 312L",
+        "YID 612",
+        "YOR 611C"
+       ],
+       "label": "Intermediate foreign-language course"
+      },
+      "title": "Intermediate language course"
+     },
+     {
+      "type": "manual",
+      "text": "Certified proficiency on a placement or credit-by-exam test.",
+      "title": "Certified proficiency by placement/exam"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/",
+     "quote": "Proficiency in a language other than English is required."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three semester credit hours in a social science field, in addition to the course taken to satisfy the Social and Behavioral Science requirement of the Core Curriculum.",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/"
+    },
+    "title": "Social science (approved list on COLA website)"
+   },
+   {
+    "type": "hours",
+    "hours": 3,
+    "filter": {
+     "subjects": [
+      "M",
+      "SDS",
+      "STA"
+     ],
+     "excludeCourses": [
+      "M 301",
+      "M 316K",
+      "M 316L"
+     ],
+     "label": "Mathematics"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/"
+    },
+    "title": "Mathematics (beyond college algebra)"
+   },
+   {
+    "type": "manual",
+    "text": "Cultural expression, human experience, and thought: Three semester hours chosen from a list of approved courses.",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/"
+    },
+    "title": "Cultural expression, human experience, and thought"
+   },
+   {
+    "type": "gpa",
+    "min": 2.0,
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/"
+    },
+    "title": "GPA of at least 2.00 in the major"
+   },
+   {
+    "type": "manual",
+    "text": "All students pursuing a major under the BA Plan I, with the exception of International Relations and Global Studies majors, must complete a minor.",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/"
+    },
+    "title": "Minor required"
+   }
+  ]
+ }
+}

@@ -299,6 +299,54 @@
 "prereqConfidence": "high"
 },
 {
+"id": "CRW 660A",
+"subject": "CRW",
+"number": "660A",
+"title": "Intensive Creative Writing",
+"hours": 6.0,
+"division": "upper",
+"description": "An accelerated seminar-style workshop for highly motivated students. Designed to be taken over two consecutive summer sessions; offered only during the summer semester. Three lecture-workshop hours a week for two semesters. Completion of this course is equivalent to completion of both Creative Writing 340F and 355F. Only one of the following may be counted: Creative Writing 340F and 355F; or 660. Prerequisite: For 660A, credit or registration for Creative Writing 325F; for 660B, Creative Writing 660A.",
+"prereqText": "For 660A, credit or registration for Creative Writing 325F; for 660B, Creative Writing 660A.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CRW 325F"
+},
+{
+"type": "course",
+"id": "CRW 660A"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CRW 660B",
+"subject": "CRW",
+"number": "660B",
+"title": "Intensive Creative Writing",
+"hours": 6.0,
+"division": "upper",
+"description": "An accelerated seminar-style workshop for highly motivated students. Designed to be taken over two consecutive summer sessions; offered only during the summer semester. Three lecture-workshop hours a week for two semesters. Completion of this course is equivalent to completion of both Creative Writing 340F and 355F. Only one of the following may be counted: Creative Writing 340F and 355F; or 660. Prerequisite: For 660A, credit or registration for Creative Writing 325F; for 660B, Creative Writing 660A.",
+"prereqText": "For 660A, credit or registration for Creative Writing 325F; for 660B, Creative Writing 660A.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CRW 325F"
+},
+{
+"type": "course",
+"id": "CRW 660A"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
 "id": "CRW 370H",
 "subject": "CRW",
 "number": "370H",

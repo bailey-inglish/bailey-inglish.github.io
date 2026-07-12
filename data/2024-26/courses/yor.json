@@ -12,6 +12,24 @@
 "description": "An intensive beginning course with an emphasis on basic skills: listening, speaking, reading, and writing. Six lecture hours a week for one semester. Yoruba 601C and 506 may not both be counted. Yoruba 601C and 507 may not both be counted."
 },
 {
+"id": "YOR 601CA",
+"subject": "YOR",
+"number": "601CA",
+"title": "Beginning Yoruba",
+"hours": 3.0,
+"division": "lower",
+"description": "An intensive beginning course with an emphasis on basic skills: listening, speaking, reading, and writing. Six lecture hours a week for one semester. Yoruba 601C and 506 may not both be counted. Yoruba 601C and 507 may not both be counted."
+},
+{
+"id": "YOR 601CB",
+"subject": "YOR",
+"number": "601CB",
+"title": "Beginning Yoruba",
+"hours": 3.0,
+"division": "lower",
+"description": "An intensive beginning course with an emphasis on basic skills: listening, speaking, reading, and writing. Six lecture hours a week for one semester. Yoruba 601C and 506 may not both be counted. Yoruba 601C and 507 may not both be counted."
+},
+{
 "id": "YOR 506",
 "subject": "YOR",
 "number": "506",
@@ -44,6 +62,56 @@
 "number": "611C",
 "title": "Intermediate Yoruba",
 "hours": 6.0,
+"division": "lower",
+"description": "An intensive intermediate course with emphasis on basic skills: listening, speaking, reading, and writing. Six lecture hours a week for one semester. Yoruba 611C and 312K may not both be counted. Yoruba 611C and 312L may not both be counted. Prerequisite: Yoruba 601C or 507 with a grade of at least C.",
+"prereqText": "Yoruba 601C or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "YOR 601C"
+},
+{
+"type": "course",
+"id": "YOR 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "YOR 611CA",
+"subject": "YOR",
+"number": "611CA",
+"title": "Intermediate Yoruba",
+"hours": 3.0,
+"division": "lower",
+"description": "An intensive intermediate course with emphasis on basic skills: listening, speaking, reading, and writing. Six lecture hours a week for one semester. Yoruba 611C and 312K may not both be counted. Yoruba 611C and 312L may not both be counted. Prerequisite: Yoruba 601C or 507 with a grade of at least C.",
+"prereqText": "Yoruba 601C or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "YOR 601C"
+},
+{
+"type": "course",
+"id": "YOR 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "YOR 611CB",
+"subject": "YOR",
+"number": "611CB",
+"title": "Intermediate Yoruba",
+"hours": 3.0,
 "division": "lower",
 "description": "An intensive intermediate course with emphasis on basic skills: listening, speaking, reading, and writing. Six lecture hours a week for one semester. Yoruba 611C and 312K may not both be counted. Yoruba 611C and 312L may not both be counted. Prerequisite: Yoruba 601C or 507 with a grade of at least C.",
 "prereqText": "Yoruba 601C or 507 with a grade of at least C.",
@@ -186,6 +254,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "YOR 619SA",
+"subject": "YOR",
+"number": "619SA",
+"title": "Topics in Yoruba",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "YOR 619SB",
+"subject": "YOR",
+"number": "619SB",
+"title": "Topics in Yoruba",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "YOR 129S",
 "subject": "YOR",
 "number": "129S",
@@ -263,6 +349,24 @@
 "number": "929S",
 "title": "Topics in Yoruba",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "YOR 629SA",
+"subject": "YOR",
+"number": "629SA",
+"title": "Topics in Yoruba",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "YOR 629SB",
+"subject": "YOR",
+"number": "629SB",
+"title": "Topics in Yoruba",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of African and African Diaspora Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },

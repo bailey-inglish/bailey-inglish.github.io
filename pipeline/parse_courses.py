@@ -188,7 +188,14 @@ def parse_subject_page(path: Path):
             sm = pat.search(desc)
             if sm:
                 extra[key] = sm.group(1).strip()
+        # six-hour courses are taken as two three-hour halves recorded as
+        # <num>A / <num>B (e.g. PHL 610QA/610QB, T C 660HA/660HB); the
+        # catalog lists only the base number, so synthesize both halves
+        expanded = list(nums)
         for num in nums:
+            if num.startswith("6") and not num[-1] in "AB" and COURSE_NUM.match(num):
+                expanded += [f"{num}A", f"{num}B"]
+        for num in expanded:
             meta = number_meta(num)
             if not meta:
                 continue

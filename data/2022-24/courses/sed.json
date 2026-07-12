@@ -93,6 +93,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Special Education. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "SED 619SA",
+"subject": "SED",
+"number": "619SA",
+"title": "Topics in Special Education",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Special Education. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SED 619SB",
+"subject": "SED",
+"number": "619SB",
+"title": "Topics in Special Education",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Special Education. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "SED 293",
 "subject": "SED",
 "number": "293",
@@ -192,6 +210,24 @@
 "number": "929S",
 "title": "Topics in Special Education",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Special Education. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SED 629SA",
+"subject": "SED",
+"number": "629SA",
+"title": "Topics in Special Education",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Special Education. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SED 629SB",
+"subject": "SED",
+"number": "629SB",
+"title": "Topics in Special Education",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Special Education. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -524,6 +560,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "SED 694A",
+"subject": "SED",
+"number": "694A",
+"title": "Practicum in Special Education",
+"hours": 6.0,
+"division": "graduate",
+"description": "Supervised field placement in specialized settings serving exceptional children and youth. Conference course; for each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "SED 694B",
+"subject": "SED",
+"number": "694B",
+"title": "Practicum in Special Education",
+"hours": 6.0,
+"division": "graduate",
+"description": "Supervised field placement in specialized settings serving exceptional children and youth. Conference course; for each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
 "id": "SED 395",
 "subject": "SED",
 "number": "395",
@@ -561,9 +619,97 @@
 "prereqConfidence": "high"
 },
 {
+"id": "SED 695SA",
+"subject": "SED",
+"number": "695SA",
+"title": "Professional Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Forum for students to become familiar with the areas of study, research, and professional practice within special education. Students also refine their professional writing and communication skills, critically evaluate current and emerging research in the field, and examine the historical, legal, philosophical, and theoretical foundations of special education. Three lecture hours a week for two semesters. Required of all doctoral students. Prerequisite: For 695SA, graduate standing and admission to the doctoral program in special education; for 695SB, Special Education 695SA.",
+"prereqText": "For 695SA, graduate standing and admission to the doctoral program in special education; for 695SB, Special Education 695SA.",
+"prereq": {
+"type": "course",
+"id": "SED 695SA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SED 695SB",
+"subject": "SED",
+"number": "695SB",
+"title": "Professional Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Forum for students to become familiar with the areas of study, research, and professional practice within special education. Students also refine their professional writing and communication skills, critically evaluate current and emerging research in the field, and examine the historical, legal, philosophical, and theoretical foundations of special education. Three lecture hours a week for two semesters. Required of all doctoral students. Prerequisite: For 695SA, graduate standing and admission to the doctoral program in special education; for 695SB, Special Education 695SA.",
+"prereqText": "For 695SA, graduate standing and admission to the doctoral program in special education; for 695SB, Special Education 695SA.",
+"prereq": {
+"type": "course",
+"id": "SED 695SA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "SED 696",
 "subject": "SED",
 "number": "696",
+"title": "Research Mentoring",
+"hours": 6.0,
+"division": "graduate",
+"description": "Designed to develop the knowledge and skills students need in order to conduct research. Under the supervision of a three-member committee, students develop a publishable-quality synthesis of the professional literature on a topic related to their research interests. Conference course. Required of all doctoral students prior to admission to candidacy. Offered on the credit/no credit basis only. Prerequisite: For Special Education 696A, graduate standing, completion of specialization core requirements, at least three graduate courses in research methods and data analysis, and consent of the graduate adviser; for Special Education 696B, 696A.",
+"prereqText": "For Special Education 696A, graduate standing, completion of specialization core requirements, at least three graduate courses in research methods and data analysis, and consent of the graduate adviser; for Special Education 696B, 696A.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "SED 696A"
+},
+{
+"type": "course",
+"id": "SED 696B"
+},
+{
+"type": "course",
+"id": "SED 696A"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SED 696A",
+"subject": "SED",
+"number": "696A",
+"title": "Research Mentoring",
+"hours": 6.0,
+"division": "graduate",
+"description": "Designed to develop the knowledge and skills students need in order to conduct research. Under the supervision of a three-member committee, students develop a publishable-quality synthesis of the professional literature on a topic related to their research interests. Conference course. Required of all doctoral students prior to admission to candidacy. Offered on the credit/no credit basis only. Prerequisite: For Special Education 696A, graduate standing, completion of specialization core requirements, at least three graduate courses in research methods and data analysis, and consent of the graduate adviser; for Special Education 696B, 696A.",
+"prereqText": "For Special Education 696A, graduate standing, completion of specialization core requirements, at least three graduate courses in research methods and data analysis, and consent of the graduate adviser; for Special Education 696B, 696A.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "SED 696A"
+},
+{
+"type": "course",
+"id": "SED 696B"
+},
+{
+"type": "course",
+"id": "SED 696A"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SED 696B",
+"subject": "SED",
+"number": "696B",
 "title": "Research Mentoring",
 "hours": 6.0,
 "division": "graduate",
@@ -660,6 +806,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "SED 697PA",
+"subject": "SED",
+"number": "697PA",
+"title": "Graduate Internship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised practice in a professional position. The equivalent of three or six lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, twelve semester hours of upper-division coursework in education, and consent of instructor.",
+"prereqText": "Graduate standing, twelve semester hours of upper-division coursework in education, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "SED 697PB",
+"subject": "SED",
+"number": "697PB",
+"title": "Graduate Internship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised practice in a professional position. The equivalent of three or six lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, twelve semester hours of upper-division coursework in education, and consent of instructor.",
+"prereqText": "Graduate standing, twelve semester hours of upper-division coursework in education, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
 "id": "SED 397S",
 "subject": "SED",
 "number": "397S",
@@ -674,6 +842,38 @@
 "id": "SED 698",
 "subject": "SED",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in special education and consent of the supervising professor and the graduate adviser; for 698B, Special Education 698A.",
+"prereqText": "For 698A, graduate standing in special education and consent of the supervising professor and the graduate adviser; for 698B, Special Education 698A.",
+"prereq": {
+"type": "course",
+"id": "SED 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SED 698A",
+"subject": "SED",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in special education and consent of the supervising professor and the graduate adviser; for 698B, Special Education 698A.",
+"prereqText": "For 698A, graduate standing in special education and consent of the supervising professor and the graduate adviser; for 698B, Special Education 698A.",
+"prereq": {
+"type": "course",
+"id": "SED 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SED 698B",
+"subject": "SED",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -739,6 +939,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SED 699WA",
+"subject": "SED",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SED 699WB",
+"subject": "SED",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

@@ -13,6 +13,26 @@
 "offering": "Offered on the letter-grade basis only."
 },
 {
+"id": "ASL 601CA",
+"subject": "ASL",
+"number": "601CA",
+"title": "Accelerated First-Year American Sign Language",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to American Sign Language and its vocabulary and sentence structure. A six-hour course comparable to American Sign Language 506 and 507. Six lecture hours a week for one semester. Only one of the following may be counted: American Sign Language 601C, 601D, 506. American Sign Language 601C and 507 may not both be counted. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ASL 601CB",
+"subject": "ASL",
+"number": "601CB",
+"title": "Accelerated First-Year American Sign Language",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to American Sign Language and its vocabulary and sentence structure. A six-hour course comparable to American Sign Language 506 and 507. Six lecture hours a week for one semester. Only one of the following may be counted: American Sign Language 601C, 601D, 506. American Sign Language 601C and 507 may not both be counted. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
 "id": "ASL 601D",
 "subject": "ASL",
 "number": "601D",
@@ -23,11 +43,83 @@
 "offering": "Offered on the letter-grade basis only."
 },
 {
+"id": "ASL 601DA",
+"subject": "ASL",
+"number": "601DA",
+"title": "American Sign Language I: Beginning",
+"hours": 3.0,
+"division": "lower",
+"description": "This course focuses on the development of beginner-level comprehension and production skills in American Sign Language. Students learn how to attend to visual language and use their hands and body for producing ASL constructions. Elementary vocabulary and grammar is covered, along with information about Deaf culture. Six lecture hours a week for one semester. Only one of the following may be counted: American Sign Language 601C, 601D, 506. American Sign Language 601D and 507 may not both be counted. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ASL 601DB",
+"subject": "ASL",
+"number": "601DB",
+"title": "American Sign Language I: Beginning",
+"hours": 3.0,
+"division": "lower",
+"description": "This course focuses on the development of beginner-level comprehension and production skills in American Sign Language. Students learn how to attend to visual language and use their hands and body for producing ASL constructions. Elementary vocabulary and grammar is covered, along with information about Deaf culture. Six lecture hours a week for one semester. Only one of the following may be counted: American Sign Language 601C, 601D, 506. American Sign Language 601D and 507 may not both be counted. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
 "id": "ASL 610D",
 "subject": "ASL",
 "number": "610D",
 "title": "American Sign Language II: Beginning",
 "hours": 6.0,
+"division": "lower",
+"description": "Focuses on the development of intermediate-level proficiency in ASL. An introduction to more complex grammatical constructions with the goal of engaging in conversations in ASL on a variety of topics. Examines the historical aspects of the Deaf community and related themes. Six lecture hours a week for one semester. Only one of the following may be counted: American Sign Language 610D, 611C, 312K. American Sign Language 507 and 610D may not both be counted. Offered on the letter-grade basis only. Prerequisite: American Sign Language 601D or 507 with a grade of at least C.",
+"prereqText": "American Sign Language 601D or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ASL 601D"
+},
+{
+"type": "course",
+"id": "ASL 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ASL 610DA",
+"subject": "ASL",
+"number": "610DA",
+"title": "American Sign Language II: Beginning",
+"hours": 3.0,
+"division": "lower",
+"description": "Focuses on the development of intermediate-level proficiency in ASL. An introduction to more complex grammatical constructions with the goal of engaging in conversations in ASL on a variety of topics. Examines the historical aspects of the Deaf community and related themes. Six lecture hours a week for one semester. Only one of the following may be counted: American Sign Language 610D, 611C, 312K. American Sign Language 507 and 610D may not both be counted. Offered on the letter-grade basis only. Prerequisite: American Sign Language 601D or 507 with a grade of at least C.",
+"prereqText": "American Sign Language 601D or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ASL 601D"
+},
+{
+"type": "course",
+"id": "ASL 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ASL 610DB",
+"subject": "ASL",
+"number": "610DB",
+"title": "American Sign Language II: Beginning",
+"hours": 3.0,
 "division": "lower",
 "description": "Focuses on the development of intermediate-level proficiency in ASL. An introduction to more complex grammatical constructions with the goal of engaging in conversations in ASL on a variety of topics. Examines the historical aspects of the Deaf community and related themes. Six lecture hours a week for one semester. Only one of the following may be counted: American Sign Language 610D, 611C, 312K. American Sign Language 507 and 610D may not both be counted. Offered on the letter-grade basis only. Prerequisite: American Sign Language 601D or 507 with a grade of at least C.",
 "prereqText": "American Sign Language 601D or 507 with a grade of at least C.",

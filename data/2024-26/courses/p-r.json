@@ -135,6 +135,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Advertising and Public Relations. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "P R 619SA",
+"subject": "P R",
+"number": "619SA",
+"title": "Topics in Public Relations",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Advertising and Public Relations. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "P R 619SB",
+"subject": "P R",
+"number": "619SB",
+"title": "Topics in Public Relations",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Advertising and Public Relations. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "P R 320",
 "subject": "P R",
 "number": "320",
@@ -275,6 +293,26 @@
 "offering": "Offered on the letter-grade basis only."
 },
 {
+"id": "P R 629SA",
+"subject": "P R",
+"number": "629SA",
+"title": "Topics in Public Relations",
+"hours": 3.0,
+"division": "upper",
+"description": "Enrollment in this course is to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Public Relations; transfer credit is awarded for work in an affiliated studies program. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "P R 629SB",
+"subject": "P R",
+"number": "629SB",
+"title": "Topics in Public Relations",
+"hours": 3.0,
+"division": "upper",
+"description": "Enrollment in this course is to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Public Relations; transfer credit is awarded for work in an affiliated studies program. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
 "id": "P R 332",
 "subject": "P R",
 "number": "332",
@@ -395,6 +433,72 @@
 "id": "P R 650",
 "subject": "P R",
 "number": "650",
+"title": "Public Relations Internship",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to public relations majors. Internship to be arranged by student and approved by instructor. For 350, an average of 12 hours of work a week, for a total of 180 hours a semester. For 650, an average of 24 hours of work a week, for a total of 360 hours a semester. Offered on the pass/fail basis only. Prerequisite: Advertising 344K, 345J, and Public Relations 348 with a grade of at least C- in each and a University GPA of 2.0.",
+"prereqText": "Advertising 344K, 345J, and Public Relations 348 with a grade of at least C- in each and a University GPA of 2.0.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ADV 344K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "ADV 345J",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "P R 348",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to public relations majors.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "P R 650A",
+"subject": "P R",
+"number": "650A",
+"title": "Public Relations Internship",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to public relations majors. Internship to be arranged by student and approved by instructor. For 350, an average of 12 hours of work a week, for a total of 180 hours a semester. For 650, an average of 24 hours of work a week, for a total of 360 hours a semester. Offered on the pass/fail basis only. Prerequisite: Advertising 344K, 345J, and Public Relations 348 with a grade of at least C- in each and a University GPA of 2.0.",
+"prereqText": "Advertising 344K, 345J, and Public Relations 348 with a grade of at least C- in each and a University GPA of 2.0.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ADV 344K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "ADV 345J",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "P R 348",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to public relations majors.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "P R 650B",
+"subject": "P R",
+"number": "650B",
 "title": "Public Relations Internship",
 "hours": 6.0,
 "division": "upper",

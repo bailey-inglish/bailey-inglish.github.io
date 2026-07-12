@@ -12,6 +12,24 @@
 "description": "Not open to native speakers of Japanese. Designed for students with no previous coursework in Japanese. Emphasis on basic skills in listening and speaking Japanese and in reading and writing hiragana, katakana, and kanji. Introduction to Japanese culture. Includes computer-assisted instruction. Six lecture hours a week for one semester. Japanese 601D and 506 may not both be counted."
 },
 {
+"id": "JPN 601DA",
+"subject": "JPN",
+"number": "601DA",
+"title": "Japanese I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native speakers of Japanese. Designed for students with no previous coursework in Japanese. Emphasis on basic skills in listening and speaking Japanese and in reading and writing hiragana, katakana, and kanji. Introduction to Japanese culture. Includes computer-assisted instruction. Six lecture hours a week for one semester. Japanese 601D and 506 may not both be counted."
+},
+{
+"id": "JPN 601DB",
+"subject": "JPN",
+"number": "601DB",
+"title": "Japanese I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native speakers of Japanese. Designed for students with no previous coursework in Japanese. Emphasis on basic skills in listening and speaking Japanese and in reading and writing hiragana, katakana, and kanji. Introduction to Japanese culture. Includes computer-assisted instruction. Six lecture hours a week for one semester. Japanese 601D and 506 may not both be counted."
+},
+{
 "id": "JPN 506",
 "subject": "JPN",
 "number": "506",
@@ -53,11 +71,75 @@
 "prereqConfidence": "high"
 },
 {
+"id": "JPN 610DA",
+"subject": "JPN",
+"number": "610DA",
+"title": "Japanese II",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native speakers of Japanese. Expands on skills acquired in Japanese 601D. Includes computer-assisted instruction. Six lecture hours a week for one semester. Japanese 507 and 610D may not both be counted. Prerequisite: Japanese 601D with a grade of at least C.",
+"prereqText": "Japanese 601D with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "JPN 601D",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "JPN 610DB",
+"subject": "JPN",
+"number": "610DB",
+"title": "Japanese II",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native speakers of Japanese. Expands on skills acquired in Japanese 601D. Includes computer-assisted instruction. Six lecture hours a week for one semester. Japanese 507 and 610D may not both be counted. Prerequisite: Japanese 601D with a grade of at least C.",
+"prereqText": "Japanese 601D with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "JPN 601D",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "JPN 611D",
 "subject": "JPN",
 "number": "611D",
 "title": "Intermediate Japanese",
 "hours": 6.0,
+"division": "lower",
+"description": "Not open to native speakers of Japanese. Intermediate level of competency in Japanese to enable students to function in a variety of real-life contexts. Six lecture hours a week for one semester. Japanese 611D and 412K may not both be counted. Japanese 611D and 412L may not both be counted. Prerequisite: Japanese 610D with a grade of at least C.",
+"prereqText": "Japanese 610D with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "JPN 610D",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "JPN 611DA",
+"subject": "JPN",
+"number": "611DA",
+"title": "Intermediate Japanese",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native speakers of Japanese. Intermediate level of competency in Japanese to enable students to function in a variety of real-life contexts. Six lecture hours a week for one semester. Japanese 611D and 412K may not both be counted. Japanese 611D and 412L may not both be counted. Prerequisite: Japanese 610D with a grade of at least C.",
+"prereqText": "Japanese 610D with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "JPN 610D",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "JPN 611DB",
+"subject": "JPN",
+"number": "611DB",
+"title": "Intermediate Japanese",
+"hours": 3.0,
 "division": "lower",
 "description": "Not open to native speakers of Japanese. Intermediate level of competency in Japanese to enable students to function in a variety of real-life contexts. Six lecture hours a week for one semester. Japanese 611D and 412K may not both be counted. Japanese 611D and 412L may not both be counted. Prerequisite: Japanese 610D with a grade of at least C.",
 "prereqText": "Japanese 610D with a grade of at least C.",
@@ -194,6 +276,24 @@
 "number": "919S",
 "title": "Topics in Japanese",
 "hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "JPN 619SA",
+"subject": "JPN",
+"number": "619SA",
+"title": "Topics in Japanese",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "JPN 619SB",
+"subject": "JPN",
+"number": "619SB",
+"title": "Topics in Japanese",
+"hours": 3.0,
 "division": "lower",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -423,6 +523,24 @@
 "number": "929S",
 "title": "Topics in Japanese",
 "hours": 9.0,
+"division": "upper",
+"description": "Not open to native speakers of Japanese. This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "JPN 629SA",
+"subject": "JPN",
+"number": "629SA",
+"title": "Topics in Japanese",
+"hours": 3.0,
+"division": "upper",
+"description": "Not open to native speakers of Japanese. This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "JPN 629SB",
+"subject": "JPN",
+"number": "629SB",
+"title": "Topics in Japanese",
+"hours": 3.0,
 "division": "upper",
 "description": "Not open to native speakers of Japanese. This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },

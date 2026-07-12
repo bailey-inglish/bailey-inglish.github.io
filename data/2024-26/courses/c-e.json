@@ -156,6 +156,24 @@
 "description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "C E 619SA",
+"subject": "C E",
+"number": "619SA",
+"title": "Topics in Civil Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 619SB",
+"subject": "C E",
+"number": "619SB",
+"title": "Topics in Civil Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "C E 321",
 "subject": "C E",
 "number": "321",
@@ -283,6 +301,24 @@
 "number": "929S",
 "title": "Topics in Civil Engineering",
 "hours": 9.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 629SA",
+"subject": "C E",
+"number": "629SA",
+"title": "Topics in Civil Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "C E 629SB",
+"subject": "C E",
+"number": "629SB",
+"title": "Topics in Civil Engineering",
+"hours": 3.0,
 "division": "upper",
 "description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Fariborz Maseeh Department of Civil, Architectural, and Environmental Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -879,6 +915,36 @@
 "number": "679H",
 "title": "Undergraduate Honors Thesis",
 "hours": 6.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Civil Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Civil Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "C E 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 679HA",
+"subject": "C E",
+"number": "679HA",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Civil Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Civil Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "C E 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "C E 679HB",
+"subject": "C E",
+"number": "679HB",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
 "division": "upper",
 "description": "Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Civil Engineering 679HA and enrollment in the Engineering Honors Program.",
 "prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Civil Engineering 679HA and enrollment in the Engineering Honors Program.",
@@ -2319,6 +2385,30 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "C E 697CA",
+"subject": "C E",
+"number": "697CA",
+"title": "Master's Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 697CB",
+"subject": "C E",
+"number": "697CB",
+"title": "Master's Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "C E 197D",
 "subject": "C E",
 "number": "197D",
@@ -2360,6 +2450,30 @@
 "number": "697D",
 "title": "Dissertation Research",
 "hours": 6.0,
+"division": "graduate",
+"description": "Independent research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 697DA",
+"subject": "C E",
+"number": "697DA",
+"title": "Dissertation Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 697DB",
+"subject": "C E",
+"number": "697DB",
+"title": "Dissertation Research",
+"hours": 3.0,
 "division": "graduate",
 "description": "Independent research. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
 "prereqText": "Graduate standing and consent of adviser.",
@@ -2464,9 +2578,65 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "C E 697QA",
+"subject": "C E",
+"number": "697QA",
+"title": "Special Independent Studies in Civil Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 697QB",
+"subject": "C E",
+"number": "697QB",
+"title": "Special Independent Studies in Civil Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of adviser.",
+"prereqText": "Graduate standing and consent of adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "C E 698",
 "subject": "C E",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in civil engineering and consent of the graduate adviser; for 698B, Civil Engineering 698A.",
+"prereqText": "For 698A, graduate standing in civil engineering and consent of the graduate adviser; for 698B, Civil Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "C E 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 698A",
+"subject": "C E",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in civil engineering and consent of the graduate adviser; for 698B, Civil Engineering 698A.",
+"prereqText": "For 698A, graduate standing in civil engineering and consent of the graduate adviser; for 698B, Civil Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "C E 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 698B",
+"subject": "C E",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -2544,6 +2714,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 699WA",
+"subject": "C E",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "C E 699WB",
+"subject": "C E",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

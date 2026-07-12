@@ -177,6 +177,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Finance. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
 },
 {
+"id": "FIN 640SA",
+"subject": "FIN",
+"number": "640SA",
+"title": "Topics in Finance",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Finance. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "FIN 640SB",
+"subject": "FIN",
+"number": "640SB",
+"title": "Topics in Finance",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Finance. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
 "id": "FIN 357",
 "subject": "FIN",
 "number": "357",
@@ -736,6 +754,40 @@
 "offering": "Offered on the letter-grade basis only."
 },
 {
+"id": "FIN 684FA",
+"subject": "FIN",
+"number": "684FA",
+"title": "Advanced Corporate Finance and Investment Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students enrolled in the Master of Science Program. Explore valuation theory, corporate finance theory, asset management, applied valuation and capital markets, and empirical finance. Examine theory, practice, and institutional applications. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Finance 194; and a strong background in Python, probability and statistics, and regression and machine learning techniques.",
+"prereqText": "Graduate standing; Finance 194; and a strong background in Python, probability and statistics, and regression and machine learning techniques.",
+"prereq": {
+"type": "course",
+"id": "FIN 194"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students enrolled in the Master of Science Program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "FIN 684FB",
+"subject": "FIN",
+"number": "684FB",
+"title": "Advanced Corporate Finance and Investment Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students enrolled in the Master of Science Program. Explore valuation theory, corporate finance theory, asset management, applied valuation and capital markets, and empirical finance. Examine theory, practice, and institutional applications. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Finance 194; and a strong background in Python, probability and statistics, and regression and machine learning techniques.",
+"prereqText": "Graduate standing; Finance 194; and a strong background in Python, probability and statistics, and regression and machine learning techniques.",
+"prereq": {
+"type": "course",
+"id": "FIN 194"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students enrolled in the Master of Science Program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
 "id": "FIN 185F",
 "subject": "FIN",
 "number": "185F",
@@ -871,6 +923,58 @@
 "number": "685F",
 "title": "Analytic Finance and Machine Learning",
 "hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Science in Business Analytics program. Utilize traditional financial datasets (e.g., financial statements, ratio analysis, credit and fixed income information, stock returns) from a variety of data sources and platforms, including WRDS/Compustat/CRSP, Bloomberg, and Compustat. Explore more advanced techniques designed to yield insights from alternative and unstructured datasets (e.g., text and sentiment analysis of earnings conference calls; SEC filings like 10K's, 10Q's, and 8-Ks; message and discussion boards; marketing/customer feedback; and other big data sources). For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, Finance 394 and 397, and a strong background in Python, probability and statistics, and regression and machine learning techniques, and consent of instructor.",
+"prereqText": "Graduate standing, Finance 394 and 397, and a strong background in Python, probability and statistics, and regression and machine learning techniques, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "FIN 394"
+},
+{
+"type": "course",
+"id": "FIN 397"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Master of Science in Business Analytics program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "FIN 685FA",
+"subject": "FIN",
+"number": "685FA",
+"title": "Analytic Finance and Machine Learning",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Science in Business Analytics program. Utilize traditional financial datasets (e.g., financial statements, ratio analysis, credit and fixed income information, stock returns) from a variety of data sources and platforms, including WRDS/Compustat/CRSP, Bloomberg, and Compustat. Explore more advanced techniques designed to yield insights from alternative and unstructured datasets (e.g., text and sentiment analysis of earnings conference calls; SEC filings like 10K's, 10Q's, and 8-Ks; message and discussion boards; marketing/customer feedback; and other big data sources). For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, Finance 394 and 397, and a strong background in Python, probability and statistics, and regression and machine learning techniques, and consent of instructor.",
+"prereqText": "Graduate standing, Finance 394 and 397, and a strong background in Python, probability and statistics, and regression and machine learning techniques, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "FIN 394"
+},
+{
+"type": "course",
+"id": "FIN 397"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Master of Science in Business Analytics program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "FIN 685FB",
+"subject": "FIN",
+"number": "685FB",
+"title": "Analytic Finance and Machine Learning",
+"hours": 3.0,
 "division": "graduate",
 "description": "Restricted to students in the Master of Science in Business Analytics program. Utilize traditional financial datasets (e.g., financial statements, ratio analysis, credit and fixed income information, stock returns) from a variety of data sources and platforms, including WRDS/Compustat/CRSP, Bloomberg, and Compustat. Explore more advanced techniques designed to yield insights from alternative and unstructured datasets (e.g., text and sentiment analysis of earnings conference calls; SEC filings like 10K's, 10Q's, and 8-Ks; message and discussion boards; marketing/customer feedback; and other big data sources). For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, Finance 394 and 397, and a strong background in Python, probability and statistics, and regression and machine learning techniques, and consent of instructor.",
 "prereqText": "Graduate standing, Finance 394 and 397, and a strong background in Python, probability and statistics, and regression and machine learning techniques, and consent of instructor.",
@@ -1159,6 +1263,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "FIN 698A",
+"subject": "FIN",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in finance and consent of the graduate adviser; for 698B, Finance 698A.",
+"prereqText": "For 698A, graduate standing in finance and consent of the graduate adviser; for 698B, Finance 698A.",
+"prereq": {
+"type": "course",
+"id": "FIN 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FIN 698B",
+"subject": "FIN",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in finance and consent of the graduate adviser; for 698B, Finance 698A.",
+"prereqText": "For 698A, graduate standing in finance and consent of the graduate adviser; for 698B, Finance 698A.",
+"prereq": {
+"type": "course",
+"id": "FIN 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "FIN 398R",
 "subject": "FIN",
 "number": "398R",
@@ -1200,6 +1336,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FIN 699WA",
+"subject": "FIN",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "FIN 699WB",
+"subject": "FIN",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

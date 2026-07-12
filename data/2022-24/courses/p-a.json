@@ -102,6 +102,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Lyndon B. Johnson School of Public Affairs. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "P A 619SA",
+"subject": "P A",
+"number": "619SA",
+"title": "Topics in Public Affairs",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Lyndon B. Johnson School of Public Affairs. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "P A 619SB",
+"subject": "P A",
+"number": "619SB",
+"title": "Topics in Public Affairs",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Lyndon B. Johnson School of Public Affairs. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "P A 325",
 "subject": "P A",
 "number": "325",
@@ -198,6 +216,24 @@
 "number": "929S",
 "title": "Topics in Public Affairs",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Lyndon B. Johnson School of Public Affairs. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "P A 629SA",
+"subject": "P A",
+"number": "629SA",
+"title": "Topics in Public Affairs",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Lyndon B. Johnson School of Public Affairs. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "P A 629SB",
+"subject": "P A",
+"number": "629SB",
+"title": "Topics in Public Affairs",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Lyndon B. Johnson School of Public Affairs. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -311,11 +347,73 @@
 "prereqConfidence": "high"
 },
 {
+"id": "P A 680PA",
+"subject": "P A",
+"number": "680PA",
+"title": "Policy Research Project",
+"hours": 3.0,
+"division": "graduate",
+"description": "Interdisciplinary research on a contemporary policy problem involving interaction with sponsoring organizations. Three lecture hours a week for two semesters, or as required by the topic. May be repeated for credit when the topics vary. Prerequisite: For 680PA, graduate standing and consent of instructor; for 680PB, Public Affairs 680PA.",
+"prereqText": "For 680PA, graduate standing and consent of instructor; for 680PB, Public Affairs 680PA.",
+"prereq": {
+"type": "course",
+"id": "P A 680PA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "P A 680PB",
+"subject": "P A",
+"number": "680PB",
+"title": "Policy Research Project",
+"hours": 3.0,
+"division": "graduate",
+"description": "Interdisciplinary research on a contemporary policy problem involving interaction with sponsoring organizations. Three lecture hours a week for two semesters, or as required by the topic. May be repeated for credit when the topics vary. Prerequisite: For 680PA, graduate standing and consent of instructor; for 680PB, Public Affairs 680PA.",
+"prereqText": "For 680PA, graduate standing and consent of instructor; for 680PB, Public Affairs 680PA.",
+"prereq": {
+"type": "course",
+"id": "P A 680PA"
+},
+"prereqConfidence": "high"
+},
+{
 "id": "P A 680W",
 "subject": "P A",
 "number": "680W",
 "title": "Apprenticeship in Public Policy",
 "hours": 6.0,
+"division": "graduate",
+"description": "Students work full-time for one whole-term summer semester and the following fall semester. Offered on the letter-grade basis only. Prerequisite: For 680WA, graduate standing and consent of instructor; for 680WB, Public Affairs 680WA.",
+"prereqText": "For 680WA, graduate standing and consent of instructor; for 680WB, Public Affairs 680WA.",
+"prereq": {
+"type": "course",
+"id": "P A 680WA"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "P A 680WA",
+"subject": "P A",
+"number": "680WA",
+"title": "Apprenticeship in Public Policy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Students work full-time for one whole-term summer semester and the following fall semester. Offered on the letter-grade basis only. Prerequisite: For 680WA, graduate standing and consent of instructor; for 680WB, Public Affairs 680WA.",
+"prereqText": "For 680WA, graduate standing and consent of instructor; for 680WB, Public Affairs 680WA.",
+"prereq": {
+"type": "course",
+"id": "P A 680WA"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "P A 680WB",
+"subject": "P A",
+"number": "680WB",
+"title": "Apprenticeship in Public Policy",
+"hours": 3.0,
 "division": "graduate",
 "description": "Students work full-time for one whole-term summer semester and the following fall semester. Offered on the letter-grade basis only. Prerequisite: For 680WA, graduate standing and consent of instructor; for 680WB, Public Affairs 680WA.",
 "prereqText": "For 680WA, graduate standing and consent of instructor; for 680WB, Public Affairs 680WA.",
@@ -391,6 +489,36 @@
 "number": "682G",
 "title": "Policy Research Project on Global Policy Issues",
 "hours": 6.0,
+"division": "graduate",
+"description": "Interdisciplinary research on a contemporary global policy problem involving interaction with sponsoring organizations. Three lecture hours a week for two semesters, or as required by the topic. May be repeated for credit when the topics vary. Prerequisite: For 682GA, graduate standing and consent of instructor; for 682GB, Public Affairs 682GA.",
+"prereqText": "For 682GA, graduate standing and consent of instructor; for 682GB, Public Affairs 682GA.",
+"prereq": {
+"type": "course",
+"id": "P A 682GA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "P A 682GA",
+"subject": "P A",
+"number": "682GA",
+"title": "Policy Research Project on Global Policy Issues",
+"hours": 3.0,
+"division": "graduate",
+"description": "Interdisciplinary research on a contemporary global policy problem involving interaction with sponsoring organizations. Three lecture hours a week for two semesters, or as required by the topic. May be repeated for credit when the topics vary. Prerequisite: For 682GA, graduate standing and consent of instructor; for 682GB, Public Affairs 682GA.",
+"prereqText": "For 682GA, graduate standing and consent of instructor; for 682GB, Public Affairs 682GA.",
+"prereq": {
+"type": "course",
+"id": "P A 682GA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "P A 682GB",
+"subject": "P A",
+"number": "682GB",
+"title": "Policy Research Project on Global Policy Issues",
+"hours": 3.0,
 "division": "graduate",
 "description": "Interdisciplinary research on a contemporary global policy problem involving interaction with sponsoring organizations. Three lecture hours a week for two semesters, or as required by the topic. May be repeated for credit when the topics vary. Prerequisite: For 682GA, graduate standing and consent of instructor; for 682GB, Public Affairs 682GA.",
 "prereqText": "For 682GA, graduate standing and consent of instructor; for 682GB, Public Affairs 682GA.",
@@ -834,6 +962,30 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "P A 690DA",
+"subject": "P A",
+"number": "690DA",
+"title": "Dissertation Proposal Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Development and preparation of the dissertation proposal. Individual instruction. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, completion of all coursework, and consent of instructor.",
+"prereqText": "Graduate standing, completion of all coursework, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "P A 690DB",
+"subject": "P A",
+"number": "690DB",
+"title": "Dissertation Proposal Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Development and preparation of the dissertation proposal. Individual instruction. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, completion of all coursework, and consent of instructor.",
+"prereqText": "Graduate standing, completion of all coursework, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "P A 390E",
 "subject": "P A",
 "number": "390E",
@@ -1221,6 +1373,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "P A 699WA",
+"subject": "P A",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "P A 699WB",
+"subject": "P A",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

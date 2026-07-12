@@ -417,6 +417,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Management. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
 },
 {
+"id": "MAN 640SA",
+"subject": "MAN",
+"number": "640SA",
+"title": "Topics in Management",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Management. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MAN 640SB",
+"subject": "MAN",
+"number": "640SB",
+"title": "Topics in Management",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Management. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
 "id": "MAN 147C",
 "subject": "MAN",
 "number": "147C",
@@ -977,6 +995,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "MAN 698A",
+"subject": "MAN",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in management and consent of the supervising faculty member and the graduate adviser; for 698B, Management 698A.",
+"prereqText": "For 698A, graduate standing in management and consent of the supervising faculty member and the graduate adviser; for 698B, Management 698A.",
+"prereq": {
+"type": "course",
+"id": "MAN 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MAN 698B",
+"subject": "MAN",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in management and consent of the supervising faculty member and the graduate adviser; for 698B, Management 698A.",
+"prereqText": "For 698A, graduate standing in management and consent of the supervising faculty member and the graduate adviser; for 698B, Management 698A.",
+"prereq": {
+"type": "course",
+"id": "MAN 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "MAN 398R",
 "subject": "MAN",
 "number": "398R",
@@ -1018,6 +1068,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MAN 699WA",
+"subject": "MAN",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MAN 699WB",
+"subject": "MAN",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

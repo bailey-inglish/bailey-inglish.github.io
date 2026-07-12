@@ -180,6 +180,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "CMS 619SA",
+"subject": "CMS",
+"number": "619SA",
+"title": "Topics in Communication Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CMS 619SB",
+"subject": "CMS",
+"number": "619SB",
+"title": "Topics in Communication Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "CMS 320",
 "subject": "CMS",
 "number": "320",
@@ -318,6 +336,24 @@
 "number": "929S",
 "title": "Topics in Communication Studies",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CMS 629SA",
+"subject": "CMS",
+"number": "629SA",
+"title": "Topics in Communication Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CMS 629SB",
+"subject": "CMS",
+"number": "629SB",
+"title": "Topics in Communication Studies",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -1254,6 +1290,32 @@
 "offering": "Offered on the pass/fail basis only."
 },
 {
+"id": "CMS 670KA",
+"subject": "CMS",
+"number": "670KA",
+"title": "Internship in Communication Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to communication studies majors. Internships to be arranged by student and approved by instructor. Focuses on career goals of students in communication positions with public and private organizations. For 370K, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer session; for 670K, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer session. Offered on the pass/fail basis only. Prerequisite: Upper-division standing; twelve semester hours of communication studies with a grade of at least C-; and a University grade point average of at least 2.25.",
+"prereqText": "Upper-division standing; twelve semester hours of communication studies with a grade of at least C-; and a University grade point average of at least 2.25.",
+"prereqConfidence": "none",
+"restricted": "Restricted to communication studies majors.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CMS 670KB",
+"subject": "CMS",
+"number": "670KB",
+"title": "Internship in Communication Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to communication studies majors. Internships to be arranged by student and approved by instructor. Focuses on career goals of students in communication positions with public and private organizations. For 370K, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer session; for 670K, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer session. Offered on the pass/fail basis only. Prerequisite: Upper-division standing; twelve semester hours of communication studies with a grade of at least C-; and a University grade point average of at least 2.25.",
+"prereqText": "Upper-division standing; twelve semester hours of communication studies with a grade of at least C-; and a University grade point average of at least 2.25.",
+"prereqConfidence": "none",
+"restricted": "Restricted to communication studies majors.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
 "id": "CMS 371D",
 "subject": "CMS",
 "number": "371D",
@@ -1542,6 +1604,62 @@
 "prereqConfidence": "high"
 },
 {
+"id": "CMS 678KA",
+"subject": "CMS",
+"number": "678KA",
+"title": "Student-Initiated Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised independent research on a project initiated, designed, and implemented by the student. Student secures consent of a faculty member willing to supervise the project prior to registering. Individual instruction. No more than six semester hours in the following courses may be counted: Communication Studies 177K, 377K, 477K, 178K, 278K, 378K, 478K, 578K, 678K. Prerequisite: Upper-division standing, twelve semester hours of coursework in communication studies, a University grade point average of at least 2.50, and consent of instructor and the department; Communication Studies 177K, 377K, 477K is recommended.",
+"prereqText": "Upper-division standing, twelve semester hours of coursework in communication studies, a University grade point average of at least 2.50, and consent of instructor and the department; Communication Studies 177K, 377K, 477K is recommended.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CMS 177K"
+},
+{
+"type": "course",
+"id": "CMS 377K"
+},
+{
+"type": "course",
+"id": "CMS 477K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CMS 678KB",
+"subject": "CMS",
+"number": "678KB",
+"title": "Student-Initiated Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised independent research on a project initiated, designed, and implemented by the student. Student secures consent of a faculty member willing to supervise the project prior to registering. Individual instruction. No more than six semester hours in the following courses may be counted: Communication Studies 177K, 377K, 477K, 178K, 278K, 378K, 478K, 578K, 678K. Prerequisite: Upper-division standing, twelve semester hours of coursework in communication studies, a University grade point average of at least 2.50, and consent of instructor and the department; Communication Studies 177K, 377K, 477K is recommended.",
+"prereqText": "Upper-division standing, twelve semester hours of coursework in communication studies, a University grade point average of at least 2.50, and consent of instructor and the department; Communication Studies 177K, 377K, 477K is recommended.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CMS 177K"
+},
+{
+"type": "course",
+"id": "CMS 377K"
+},
+{
+"type": "course",
+"id": "CMS 477K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
 "id": "CMS 379H",
 "subject": "CMS",
 "number": "379H",
@@ -1747,6 +1865,30 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "CMS 688CA",
+"subject": "CMS",
+"number": "688CA",
+"title": "Doctoral Comprehensive Examination Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted enrollment; contact the department for permission to register. Research and reading in preparation for doctoral comprehensive examinations in communication studies. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CMS 688CB",
+"subject": "CMS",
+"number": "688CB",
+"title": "Doctoral Comprehensive Examination Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted enrollment; contact the department for permission to register. Research and reading in preparation for doctoral comprehensive examinations in communication studies. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "CMS 389C",
 "subject": "CMS",
 "number": "389C",
@@ -1909,6 +2051,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "CMS 698A",
+"subject": "CMS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in communication studies and consent of the graduate adviser; for 698B, Communication Studies 698A.",
+"prereqText": "For 698A, graduate standing in communication studies and consent of the graduate adviser; for 698B, Communication Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "CMS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CMS 698B",
+"subject": "CMS",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in communication studies and consent of the graduate adviser; for 698B, Communication Studies 698A.",
+"prereqText": "For 698A, graduate standing in communication studies and consent of the graduate adviser; for 698B, Communication Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "CMS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "CMS 398R",
 "subject": "CMS",
 "number": "398R",
@@ -1962,6 +2136,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CMS 699WA",
+"subject": "CMS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CMS 699WB",
+"subject": "CMS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

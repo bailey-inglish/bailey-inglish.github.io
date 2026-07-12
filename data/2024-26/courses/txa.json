@@ -437,6 +437,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "TXA 619SA",
+"subject": "TXA",
+"number": "619SA",
+"title": "Topics in Textiles and Apparel",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 619SB",
+"subject": "TXA",
+"number": "619SB",
+"title": "Topics in Textiles and Apparel",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "TXA 325K",
 "subject": "TXA",
 "number": "325K",
@@ -644,6 +662,24 @@
 "number": "929S",
 "title": "Topics in Textiles and Apparel",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 629SA",
+"subject": "TXA",
+"number": "629SA",
+"title": "Topics in Textiles and Apparel",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 629SB",
+"subject": "TXA",
+"number": "629SB",
+"title": "Topics in Textiles and Apparel",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -890,6 +926,94 @@
 "number": "652C",
 "title": "Field Experience in Textile Conservation Internship",
 "hours": 6.0,
+"division": "upper",
+"description": "Participation in an approved internship after completion of all conservation science stream coursework. Students will be placed in an appropriate site under the supervision of an available professional such that students may experience collection management, artifact storage and conservation, exhibit planning/installation, environmental monitoring, and/or other museum or conservation activities. A formal agreement between the faculty supervisor and internship sponsor will govern activities and be monitored throughout the experience through assignments, regular electronic communication, and a site visit. For Textiles and Apparel 352C, a minimum of 150 hours of supervised fieldwork for one semester. For Textiles and Apparel 652C, a minimum of 225 hours of supervised fieldwork for one semester. Prerequisite: Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
+"prereqText": "Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 219C"
+},
+{
+"type": "course",
+"id": "TXA 119L"
+},
+{
+"type": "course",
+"id": "TXA 354C"
+},
+{
+"type": "course",
+"id": "TXA 354D"
+},
+{
+"type": "course",
+"id": "TXA 354E"
+},
+{
+"type": "course",
+"id": "TXA 354F"
+},
+{
+"type": "course",
+"id": "TXA 355D"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 652CA",
+"subject": "TXA",
+"number": "652CA",
+"title": "Field Experience in Textile Conservation Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Participation in an approved internship after completion of all conservation science stream coursework. Students will be placed in an appropriate site under the supervision of an available professional such that students may experience collection management, artifact storage and conservation, exhibit planning/installation, environmental monitoring, and/or other museum or conservation activities. A formal agreement between the faculty supervisor and internship sponsor will govern activities and be monitored throughout the experience through assignments, regular electronic communication, and a site visit. For Textiles and Apparel 352C, a minimum of 150 hours of supervised fieldwork for one semester. For Textiles and Apparel 652C, a minimum of 225 hours of supervised fieldwork for one semester. Prerequisite: Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
+"prereqText": "Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 219C"
+},
+{
+"type": "course",
+"id": "TXA 119L"
+},
+{
+"type": "course",
+"id": "TXA 354C"
+},
+{
+"type": "course",
+"id": "TXA 354D"
+},
+{
+"type": "course",
+"id": "TXA 354E"
+},
+{
+"type": "course",
+"id": "TXA 354F"
+},
+{
+"type": "course",
+"id": "TXA 355D"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 652CB",
+"subject": "TXA",
+"number": "652CB",
+"title": "Field Experience in Textile Conservation Internship",
+"hours": 3.0,
 "division": "upper",
 "description": "Participation in an approved internship after completion of all conservation science stream coursework. Students will be placed in an appropriate site under the supervision of an available professional such that students may experience collection management, artifact storage and conservation, exhibit planning/installation, environmental monitoring, and/or other museum or conservation activities. A formal agreement between the faculty supervisor and internship sponsor will govern activities and be monitored throughout the experience through assignments, regular electronic communication, and a site visit. For Textiles and Apparel 352C, a minimum of 150 hours of supervised fieldwork for one semester. For Textiles and Apparel 652C, a minimum of 225 hours of supervised fieldwork for one semester. Prerequisite: Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
 "prereqText": "Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
@@ -1710,6 +1834,38 @@
 "id": "TXA 698",
 "subject": "TXA",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in textile and apparel technology and consent of the graduate adviser; for 698B, Textiles and Apparel 698A.",
+"prereqText": "For 698A, graduate standing in textile and apparel technology and consent of the graduate adviser; for 698B, Textiles and Apparel 698A.",
+"prereq": {
+"type": "course",
+"id": "TXA 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "TXA 698A",
+"subject": "TXA",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in textile and apparel technology and consent of the graduate adviser; for 698B, Textiles and Apparel 698A.",
+"prereqText": "For 698A, graduate standing in textile and apparel technology and consent of the graduate adviser; for 698B, Textiles and Apparel 698A.",
+"prereq": {
+"type": "course",
+"id": "TXA 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "TXA 698B",
+"subject": "TXA",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",

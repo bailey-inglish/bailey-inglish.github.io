@@ -84,6 +84,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "MKT 619SA",
+"subject": "MKT",
+"number": "619SA",
+"title": "Topics in Marketing",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 619SB",
+"subject": "MKT",
+"number": "619SB",
+"title": "Topics in Marketing",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "MKT 320F",
 "subject": "MKT",
 "number": "320F",
@@ -174,6 +192,24 @@
 "number": "929S",
 "title": "Topics in Marketing",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 629SA",
+"subject": "MKT",
+"number": "629SA",
+"title": "Topics in Marketing",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 629SB",
+"subject": "MKT",
+"number": "629SB",
+"title": "Topics in Marketing",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -340,6 +376,24 @@
 "number": "940S",
 "title": "Topics in Marketing",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 640SA",
+"subject": "MKT",
+"number": "640SA",
+"title": "Topics in Marketing",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 640SB",
+"subject": "MKT",
+"number": "640SB",
+"title": "Topics in Marketing",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
 },
@@ -717,6 +771,28 @@
 "prereqConfidence": "none"
 },
 {
+"id": "MKT 691CA",
+"subject": "MKT",
+"number": "691CA",
+"title": "Independent Study",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 691CB",
+"subject": "MKT",
+"number": "691CB",
+"title": "Independent Study",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
 "id": "MKT 397",
 "subject": "MKT",
 "number": "397",
@@ -731,6 +807,38 @@
 "id": "MKT 698",
 "subject": "MKT",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in marketing and consent of the graduate adviser; for 698B, Marketing 698A.",
+"prereqText": "For 698A, graduate standing in marketing and consent of the graduate adviser; for 698B, Marketing 698A.",
+"prereq": {
+"type": "course",
+"id": "MKT 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MKT 698A",
+"subject": "MKT",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in marketing and consent of the graduate adviser; for 698B, Marketing 698A.",
+"prereqText": "For 698A, graduate standing in marketing and consent of the graduate adviser; for 698B, Marketing 698A.",
+"prereq": {
+"type": "course",
+"id": "MKT 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MKT 698B",
+"subject": "MKT",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -785,6 +893,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MKT 699WA",
+"subject": "MKT",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MKT 699WB",
+"subject": "MKT",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

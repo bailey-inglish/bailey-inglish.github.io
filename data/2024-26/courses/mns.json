@@ -141,6 +141,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Marine Science. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "MNS 619SA",
+"subject": "MNS",
+"number": "619SA",
+"title": "Topics in Marine Science",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Marine Science. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MNS 619SB",
+"subject": "MNS",
+"number": "619SB",
+"title": "Topics in Marine Science",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Marine Science. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "MNS 320",
 "subject": "MNS",
 "number": "320",
@@ -244,6 +262,24 @@
 "number": "929S",
 "title": "Topics in Marine Science",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Marine Science. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MNS 629SA",
+"subject": "MNS",
+"number": "629SA",
+"title": "Topics in Marine Science",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Marine Science. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MNS 629SB",
+"subject": "MNS",
+"number": "629SB",
+"title": "Topics in Marine Science",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Marine Science. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -661,6 +697,30 @@
 "restricted": "Restricted to students in marine science."
 },
 {
+"id": "MNS 680A",
+"subject": "MNS",
+"number": "680A",
+"title": "Research in Marine Science",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in marine science. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in marine science."
+},
+{
+"id": "MNS 680B",
+"subject": "MNS",
+"number": "680B",
+"title": "Research in Marine Science",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in marine science. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in marine science."
+},
+{
 "id": "MNS 481C",
 "subject": "MNS",
 "number": "481C",
@@ -986,6 +1046,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "MNS 698A",
+"subject": "MNS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in marine science and consent of the graduate adviser; for 698B, Marine Sciences 698A.",
+"prereqText": "For 698A, graduate standing in marine science and consent of the graduate adviser; for 698B, Marine Sciences 698A.",
+"prereq": {
+"type": "course",
+"id": "MNS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MNS 698B",
+"subject": "MNS",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in marine science and consent of the graduate adviser; for 698B, Marine Sciences 698A.",
+"prereqText": "For 698A, graduate standing in marine science and consent of the graduate adviser; for 698B, Marine Sciences 698A.",
+"prereq": {
+"type": "course",
+"id": "MNS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "MNS 398T",
 "subject": "MNS",
 "number": "398T",
@@ -1026,6 +1118,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MNS 699WA",
+"subject": "MNS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MNS 699WB",
+"subject": "MNS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

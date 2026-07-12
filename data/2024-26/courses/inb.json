@@ -108,6 +108,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Biology Instructional Office. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "INB 619SA",
+"subject": "INB",
+"number": "619SA",
+"title": "Topics in Integrative Biology",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Biology Instructional Office. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "INB 619SB",
+"subject": "INB",
+"number": "619SB",
+"title": "Topics in Integrative Biology",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Biology Instructional Office. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "INB 321G",
 "subject": "INB",
 "number": "321G",
@@ -262,6 +280,24 @@
 "number": "929S",
 "title": "Topics in Integrative Biology",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Biology Instructional Office. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "INB 629SA",
+"subject": "INB",
+"number": "629SA",
+"title": "Topics in Integrative Biology",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Biology Instructional Office. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "INB 629SB",
+"subject": "INB",
+"number": "629SB",
+"title": "Topics in Integrative Biology",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Biology Instructional Office. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -1048,9 +1084,63 @@
 "prereqConfidence": "none"
 },
 {
+"id": "INB 679HA",
+"subject": "INB",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Perform original laboratory or field research project under the direction of a faculty mentor, leading to a thesis or research presentation for students in the honors program in biology. For each semester hour of credit earned, the equivalent of one-and-one-half lab hours a week for one semester. Only one of the following may be counted: Biology 379H, 679H, Integrative Biology 379H, 679H, Molecular Biosciences 379H, 679H. Prerequisite: Consent of the student's research supervisor and the departmental honors advisor.",
+"prereqText": "Consent of the student's research supervisor and the departmental honors advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "INB 679HB",
+"subject": "INB",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Perform original laboratory or field research project under the direction of a faculty mentor, leading to a thesis or research presentation for students in the honors program in biology. For each semester hour of credit earned, the equivalent of one-and-one-half lab hours a week for one semester. Only one of the following may be counted: Biology 379H, 679H, Integrative Biology 379H, 679H, Molecular Biosciences 379H, 679H. Prerequisite: Consent of the student's research supervisor and the departmental honors advisor.",
+"prereqText": "Consent of the student's research supervisor and the departmental honors advisor.",
+"prereqConfidence": "none"
+},
+{
 "id": "INB 698",
 "subject": "INB",
 "number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in the Ecology, Evolution and Behavior or Plant Biology graduate program and consent of the graduate advisor; for 698B, Integrative Biology 698A or the equivalent.",
+"prereqText": "For 698A, graduate standing in the Ecology, Evolution and Behavior or Plant Biology graduate program and consent of the graduate advisor; for 698B, Integrative Biology 698A or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "INB 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "INB 698A",
+"subject": "INB",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in the Ecology, Evolution and Behavior or Plant Biology graduate program and consent of the graduate advisor; for 698B, Integrative Biology 698A or the equivalent.",
+"prereqText": "For 698A, graduate standing in the Ecology, Evolution and Behavior or Plant Biology graduate program and consent of the graduate advisor; for 698B, Integrative Biology 698A or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "INB 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "INB 698B",
+"subject": "INB",
+"number": "698B",
 "title": "Thesis",
 "hours": 6.0,
 "division": "graduate",
@@ -1105,6 +1195,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "INB 699WA",
+"subject": "INB",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "INB 699WB",
+"subject": "INB",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

@@ -1,0 +1,90 @@
+{
+ "id": "2024-26/minor/statistics-and-data-science",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Statistics and Data Science Minor",
+ "college": "Natural Sciences",
+ "totalHours": 15,
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/",
+ "notes": "No credit-by-exam may be used to fulfill minor course requirements. At least half of the coursework must be in residence; at least nine hours must not also satisfy the student's major.",
+ "rules": {
+  "type": "all",
+  "title": "Minor requirements",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 3,
+    "filter": {
+     "courses": [
+      "SDS 320E",
+      "SDS 320H",
+      "SDS 315"
+     ],
+     "label": "Statistics foundation"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    },
+    "title": "Statistics foundation",
+    "minGrade": "C-"
+   },
+   {
+    "type": "hours",
+    "hours": 3,
+    "filter": {
+     "courses": [
+      "SDS 322E",
+      "SDS 313"
+     ],
+     "label": "Data science foundation"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    },
+    "title": "Data science foundation",
+    "minGrade": "C-"
+   },
+   {
+    "type": "hours",
+    "hours": 3,
+    "filter": {
+     "courses": [
+      "C S 303E",
+      "C S 312",
+      "C S 312H"
+     ],
+     "label": "Programming foundation"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    },
+    "title": "Programming foundation",
+    "minGrade": "C-"
+   },
+   {
+    "type": "hours",
+    "hours": 6,
+    "filter": {
+     "courses": [
+      "SDS 324E",
+      "SDS 334",
+      "SDS 326E",
+      "SDS 336",
+      "C S 327E",
+      "SDS 321",
+      "SDS 431",
+      "M 362K",
+      "M 378K",
+      "SDS 366"
+     ],
+     "label": "SDS minor supplementary list"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    },
+    "title": "Supplementary courses",
+    "minGrade": "C-"
+   }
+  ]
+ }
+}

@@ -465,6 +465,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "PHY 619SA",
+"subject": "PHY",
+"number": "619SA",
+"title": "Topics in Physics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 619SB",
+"subject": "PHY",
+"number": "619SB",
+"title": "Topics in Physics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "PHY 394E",
 "subject": "PHY",
 "number": "394E",
@@ -576,6 +594,24 @@
 "number": "929S",
 "title": "Topics in Physics",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 629SA",
+"subject": "PHY",
+"number": "629SA",
+"title": "Topics in Physics",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PHY 629SB",
+"subject": "PHY",
+"number": "629SB",
+"title": "Topics in Physics",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Physics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -848,6 +884,28 @@
 "number": "670T",
 "title": "Senior Thesis",
 "hours": 6.0,
+"division": "upper",
+"description": "Individual research with faculty supervision. First half involves preparation of proposal; second involves completion of written thesis. Six hours of work a week for one semester, or three hours of work a week for two semesters. Only three semester hours may be counted toward the Bachelor of Science in Physics degree. Prerequisite: Upper-division standing and nine semester hours of upper-division coursework in physics.",
+"prereqText": "Upper-division standing and nine semester hours of upper-division coursework in physics.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 670TA",
+"subject": "PHY",
+"number": "670TA",
+"title": "Senior Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Individual research with faculty supervision. First half involves preparation of proposal; second involves completion of written thesis. Six hours of work a week for one semester, or three hours of work a week for two semesters. Only three semester hours may be counted toward the Bachelor of Science in Physics degree. Prerequisite: Upper-division standing and nine semester hours of upper-division coursework in physics.",
+"prereqText": "Upper-division standing and nine semester hours of upper-division coursework in physics.",
+"prereqConfidence": "none"
+},
+{
+"id": "PHY 670TB",
+"subject": "PHY",
+"number": "670TB",
+"title": "Senior Thesis",
+"hours": 3.0,
 "division": "upper",
 "description": "Individual research with faculty supervision. First half involves preparation of proposal; second involves completion of written thesis. Six hours of work a week for one semester, or three hours of work a week for two semesters. Only three semester hours may be counted toward the Bachelor of Science in Physics degree. Prerequisite: Upper-division standing and nine semester hours of upper-division coursework in physics.",
 "prereqText": "Upper-division standing and nine semester hours of upper-division coursework in physics.",
@@ -1442,6 +1500,30 @@
 "excluded": "the master's degree in physics"
 },
 {
+"id": "PHY 690A",
+"subject": "PHY",
+"number": "690A",
+"title": "Graduate Research",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May not be counted toward the master's degree in physics. Prerequisite: Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqText": "Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqConfidence": "none",
+"excluded": "the master's degree in physics"
+},
+{
+"id": "PHY 690B",
+"subject": "PHY",
+"number": "690B",
+"title": "Graduate Research",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May not be counted toward the master's degree in physics. Prerequisite: Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqText": "Graduate standing, and written consent of instructor filed with the graduate adviser.",
+"prereqConfidence": "none",
+"excluded": "the master's degree in physics"
+},
+{
 "id": "PHY 391M",
 "subject": "PHY",
 "number": "391M",
@@ -1918,6 +2000,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "PHY 698A",
+"subject": "PHY",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in physics and written consent of the supervising professor filed with the graduate adviser; for 698B, Physics 698A.",
+"prereqText": "For 698A, graduate standing in physics and written consent of the supervising professor filed with the graduate adviser; for 698B, Physics 698A.",
+"prereq": {
+"type": "course",
+"id": "PHY 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 698B",
+"subject": "PHY",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in physics and written consent of the supervising professor filed with the graduate adviser; for 698B, Physics 698A.",
+"prereqText": "For 698A, graduate standing in physics and written consent of the supervising professor filed with the graduate adviser; for 698B, Physics 698A.",
+"prereq": {
+"type": "course",
+"id": "PHY 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "PHY 398S",
 "subject": "PHY",
 "number": "398S",
@@ -1968,6 +2082,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 699WA",
+"subject": "PHY",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PHY 699WB",
+"subject": "PHY",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

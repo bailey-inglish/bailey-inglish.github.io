@@ -189,6 +189,26 @@
 "offering": "Offered on the letter-grade basis only."
 },
 {
+"id": "BME 629SA",
+"subject": "BME",
+"number": "629SA",
+"title": "Topics in Biomedical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Biomedical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "BME 629SB",
+"subject": "BME",
+"number": "629SB",
+"title": "Topics in Biomedical Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Biomedical Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
 "id": "BME 333T",
 "subject": "BME",
 "number": "333T",
@@ -1292,6 +1312,38 @@
 "restricted": "Restricted to biomedical engineering majors."
 },
 {
+"id": "BME 678A",
+"subject": "BME",
+"number": "678A",
+"title": "Undergraduate Thesis in Biomedical Engineering",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Research performed during two consecutive semesters under the supervision of a biomedical engineering faculty member or other approved faculty member; topics are selected jointly by the student and faculty member. The student provides a progress report at the end of the first semester and writes a thesis and gives an oral presentation at the end of the second semester. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a Bachelor of Science in Biomedical Engineering may use this course to fulfill the thesis requirements for the Bachelor of Arts, Plan II. Prerequisite: For 678A, admission to the major sequence in biomedical engineering and a University grade point average of at least 3.50; for 678B, a University grade point average of at least 3.50 and Biomedical Engineering 678A.",
+"prereqText": "For 678A, admission to the major sequence in biomedical engineering and a University grade point average of at least 3.50; for 678B, a University grade point average of at least 3.50 and Biomedical Engineering 678A.",
+"prereq": {
+"type": "course",
+"id": "BME 678A"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 678B",
+"subject": "BME",
+"number": "678B",
+"title": "Undergraduate Thesis in Biomedical Engineering",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Research performed during two consecutive semesters under the supervision of a biomedical engineering faculty member or other approved faculty member; topics are selected jointly by the student and faculty member. The student provides a progress report at the end of the first semester and writes a thesis and gives an oral presentation at the end of the second semester. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a Bachelor of Science in Biomedical Engineering may use this course to fulfill the thesis requirements for the Bachelor of Arts, Plan II. Prerequisite: For 678A, admission to the major sequence in biomedical engineering and a University grade point average of at least 3.50; for 678B, a University grade point average of at least 3.50 and Biomedical Engineering 678A.",
+"prereqText": "For 678A, admission to the major sequence in biomedical engineering and a University grade point average of at least 3.50; for 678B, a University grade point average of at least 3.50 and Biomedical Engineering 678A.",
+"prereq": {
+"type": "course",
+"id": "BME 678A"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
 "id": "BME 379",
 "subject": "BME",
 "number": "379",
@@ -1324,6 +1376,38 @@
 "number": "679H",
 "title": "Undergraduate Honors Thesis",
 "hours": 6.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Biomedical Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Biomedical Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "BME 679HA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 679HA",
+"subject": "BME",
+"number": "679HA",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to biomedical engineering majors. Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Biomedical Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Biomedical Engineering 679HA and enrollment in the Engineering Honors Program.",
+"prereq": {
+"type": "course",
+"id": "BME 679HA"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to biomedical engineering majors."
+},
+{
+"id": "BME 679HB",
+"subject": "BME",
+"number": "679HB",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
 "division": "upper",
 "description": "Restricted to biomedical engineering majors. Research performed during two consecutive semesters under the supervision of an engineering faculty member; topics are selected jointly by the student and the faculty member with approval by the director of the Engineering Honors Program. The student makes an oral presentation and writes a thesis. Individual instruction for two semesters. Students pursuing both the Bachelor of Arts, Plan II, and a bachelor's degree in engineering may use this course to fulfill the thesis requirement for the Bachelor of Arts, Plan II. Prerequisite: For 679HA, enrollment in the Engineering Honors Program; for 679HB, Biomedical Engineering 679HA and enrollment in the Engineering Honors Program.",
 "prereqText": "For 679HA, enrollment in the Engineering Honors Program; for 679HB, Biomedical Engineering 679HA and enrollment in the Engineering Honors Program.",
@@ -1389,6 +1473,26 @@
 "restricted": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program."
 },
 {
+"id": "BME 681MA",
+"subject": "BME",
+"number": "681MA",
+"title": "Normal Body Structure and Function",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program. Exploration of the structure and function of the human body at all levels of organization, from molecular and cellular to the integrated function of multiple organ systems attempting to maintain homeostasis. Emphasis on wellness and normal structure/function, in addition to the mechanistic disruptions that cause illness as well as the scientific rationale for methods to diagnose and treat selected diseases. Six lecture hours a week for one semester.",
+"restricted": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program."
+},
+{
+"id": "BME 681MB",
+"subject": "BME",
+"number": "681MB",
+"title": "Normal Body Structure and Function",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program. Exploration of the structure and function of the human body at all levels of organization, from molecular and cellular to the integrated function of multiple organ systems attempting to maintain homeostasis. Emphasis on wellness and normal structure/function, in addition to the mechanistic disruptions that cause illness as well as the scientific rationale for methods to diagnose and treat selected diseases. Six lecture hours a week for one semester.",
+"restricted": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program."
+},
+{
 "id": "BME 382J",
 "subject": "BME",
 "number": "382J",
@@ -1412,6 +1516,30 @@
 "restricted": "Restricted to students in the Clinical Innovation and Design Program."
 },
 {
+"id": "BME 682MA",
+"subject": "BME",
+"number": "682MA",
+"title": "Biodesign: Needs Identification",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Clinical Innovation and Design Program. Identify concrete clinical needs via clinical immersion experience with healthcare professionals and patients. Apply engineering design methodologies to identify clinical needs based upon the most meaningful problems observed. Three lecture hours and three laboratory hours a week for one semester. Biomedical Engineering 682M and 385J (Topic: Biodsgn: Needs Identification) may not both be counted. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Clinical Innovation and Design Program."
+},
+{
+"id": "BME 682MB",
+"subject": "BME",
+"number": "682MB",
+"title": "Biodesign: Needs Identification",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Clinical Innovation and Design Program. Identify concrete clinical needs via clinical immersion experience with healthcare professionals and patients. Apply engineering design methodologies to identify clinical needs based upon the most meaningful problems observed. Three lecture hours and three laboratory hours a week for one semester. Biomedical Engineering 682M and 385J (Topic: Biodsgn: Needs Identification) may not both be counted. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Clinical Innovation and Design Program."
+},
+{
 "id": "BME 383J",
 "subject": "BME",
 "number": "383J",
@@ -1428,6 +1556,40 @@
 "number": "683M",
 "title": "Biodesign: Entrepreneurship",
 "hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the Clinical Innovation and Design Program. Develop a team project in biomedical engineering with emphasis on detailed design and prototyping. Prepare a business plan designed to bring product to market or use in clinical practice. Three lecture hours and three laboratory hours a week for one semester. Biomedical Engineering 683M and 385J (Topic: Biodesign: Entrepreneurship) may not both be counted. Prerequisite: Consent of instructor and Biomedical Engineering 682M with a grade of at least C-.",
+"prereqText": "Consent of instructor and Biomedical Engineering 682M with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "BME 682M",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Clinical Innovation and Design Program."
+},
+{
+"id": "BME 683MA",
+"subject": "BME",
+"number": "683MA",
+"title": "Biodesign: Entrepreneurship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Clinical Innovation and Design Program. Develop a team project in biomedical engineering with emphasis on detailed design and prototyping. Prepare a business plan designed to bring product to market or use in clinical practice. Three lecture hours and three laboratory hours a week for one semester. Biomedical Engineering 683M and 385J (Topic: Biodesign: Entrepreneurship) may not both be counted. Prerequisite: Consent of instructor and Biomedical Engineering 682M with a grade of at least C-.",
+"prereqText": "Consent of instructor and Biomedical Engineering 682M with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "BME 682M",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Clinical Innovation and Design Program."
+},
+{
+"id": "BME 683MB",
+"subject": "BME",
+"number": "683MB",
+"title": "Biodesign: Entrepreneurship",
+"hours": 3.0,
 "division": "graduate",
 "description": "Restricted to students in the Clinical Innovation and Design Program. Develop a team project in biomedical engineering with emphasis on detailed design and prototyping. Prepare a business plan designed to bring product to market or use in clinical practice. Three lecture hours and three laboratory hours a week for one semester. Biomedical Engineering 683M and 385J (Topic: Biodesign: Entrepreneurship) may not both be counted. Prerequisite: Consent of instructor and Biomedical Engineering 682M with a grade of at least C-.",
 "prereqText": "Consent of instructor and Biomedical Engineering 682M with a grade of at least C-.",
@@ -1479,6 +1641,26 @@
 "number": "685M",
 "title": "Mechanisms of Disease",
 "hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program. Overview of the disease-specific concepts required to participate in patient care by integrating clinical medicine, microbiology, pathology, and pharmacology into organ system modules, and the pathophysiology of diseases, the differential diagnosis of cardinal symptoms, and treatment modalities. Includes other concepts such as radiology and diagnostics. Six lecture hours a week for one semester.",
+"restricted": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program."
+},
+{
+"id": "BME 685MA",
+"subject": "BME",
+"number": "685MA",
+"title": "Mechanisms of Disease",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program. Overview of the disease-specific concepts required to participate in patient care by integrating clinical medicine, microbiology, pathology, and pharmacology into organ system modules, and the pathophysiology of diseases, the differential diagnosis of cardinal symptoms, and treatment modalities. Includes other concepts such as radiology and diagnostics. Six lecture hours a week for one semester.",
+"restricted": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program."
+},
+{
+"id": "BME 685MB",
+"subject": "BME",
+"number": "685MB",
+"title": "Mechanisms of Disease",
+"hours": 3.0,
 "division": "graduate",
 "description": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program. Overview of the disease-specific concepts required to participate in patient care by integrating clinical medicine, microbiology, pathology, and pharmacology into organ system modules, and the pathophysiology of diseases, the differential diagnosis of cardinal symptoms, and treatment modalities. Includes other concepts such as radiology and diagnostics. Six lecture hours a week for one semester.",
 "restricted": "Restricted to students in the Master of Science in Engineering and Doctor of Medicine dual-degree program."
@@ -1547,6 +1729,30 @@
 "id": "BME 697",
 "subject": "BME",
 "number": "697",
+"title": "Research Problems",
+"hours": 6.0,
+"division": "graduate",
+"description": "Problems selected by the student with approval of the faculty adviser. For each semester hour of credit earned, three laboratory hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in biomedical engineering.",
+"prereqText": "Graduate standing in biomedical engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 697A",
+"subject": "BME",
+"number": "697A",
+"title": "Research Problems",
+"hours": 6.0,
+"division": "graduate",
+"description": "Problems selected by the student with approval of the faculty adviser. For each semester hour of credit earned, three laboratory hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in biomedical engineering.",
+"prereqText": "Graduate standing in biomedical engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 697B",
+"subject": "BME",
+"number": "697B",
 "title": "Research Problems",
 "hours": 6.0,
 "division": "graduate",
@@ -1661,6 +1867,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "BME 698A",
+"subject": "BME",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in biomedical engineering and consent of the graduate adviser; for 698B, Biomedical Engineering 698A.",
+"prereqText": "For 698A, graduate standing in biomedical engineering and consent of the graduate adviser; for 698B, Biomedical Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "BME 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 698B",
+"subject": "BME",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in biomedical engineering and consent of the graduate adviser; for 698B, Biomedical Engineering 698A.",
+"prereqText": "For 698A, graduate standing in biomedical engineering and consent of the graduate adviser; for 698B, Biomedical Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "BME 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "BME 398R",
 "subject": "BME",
 "number": "398R",
@@ -1702,6 +1940,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 699WA",
+"subject": "BME",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "BME 699WB",
+"subject": "BME",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

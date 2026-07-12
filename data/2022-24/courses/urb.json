@@ -116,6 +116,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "URB 619SA",
+"subject": "URB",
+"number": "619SA",
+"title": "Topics in Urban Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URB 619SB",
+"subject": "URB",
+"number": "619SB",
+"title": "Topics in Urban Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "URB 320E",
 "subject": "URB",
 "number": "320E",
@@ -512,6 +530,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "URB 629SA",
+"subject": "URB",
+"number": "629SA",
+"title": "Topics in Urban Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "URB 629SB",
+"subject": "URB",
+"number": "629SB",
+"title": "Topics in Urban Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Geography and the Environment. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "URB 330F",
 "subject": "URB",
 "number": "330F",
@@ -730,6 +766,36 @@
 "number": "679H",
 "title": "Honors Tutorial Course",
 "hours": 6.0,
+"division": "upper",
+"description": "Directed reading and research or creation of an honors project, followed by the writing of a thesis. Conference course for two semesters. Prerequisite: For 679HA, admission to the Urban Studies Honors Program and consent of the urban studies adviser; for 679HB, Urban Studies 679HA.",
+"prereqText": "For 679HA, admission to the Urban Studies Honors Program and consent of the urban studies adviser; for 679HB, Urban Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "URB 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "URB 679HA",
+"subject": "URB",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Directed reading and research or creation of an honors project, followed by the writing of a thesis. Conference course for two semesters. Prerequisite: For 679HA, admission to the Urban Studies Honors Program and consent of the urban studies adviser; for 679HB, Urban Studies 679HA.",
+"prereqText": "For 679HA, admission to the Urban Studies Honors Program and consent of the urban studies adviser; for 679HB, Urban Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "URB 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "URB 679HB",
+"subject": "URB",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
 "division": "upper",
 "description": "Directed reading and research or creation of an honors project, followed by the writing of a thesis. Conference course for two semesters. Prerequisite: For 679HA, admission to the Urban Studies Honors Program and consent of the urban studies adviser; for 679HB, Urban Studies 679HA.",
 "prereqText": "For 679HA, admission to the Urban Studies Honors Program and consent of the urban studies adviser; for 679HB, Urban Studies 679HA.",

@@ -215,6 +215,30 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "ORI 680MA",
+"subject": "ORI",
+"number": "680MA",
+"title": "Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in operations research and industrial engineering.",
+"prereqText": "Graduate standing in operations research and industrial engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ORI 680MB",
+"subject": "ORI",
+"number": "680MB",
+"title": "Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in operations research and industrial engineering.",
+"prereqText": "Graduate standing in operations research and industrial engineering.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "ORI 383",
 "subject": "ORI",
 "number": "383",
@@ -389,6 +413,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "ORI 698A",
+"subject": "ORI",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in operations research and industrial engineering and consent of the graduate adviser; for 698B, Operations Research and Industrial Engineering 698A.",
+"prereqText": "For 698A, graduate standing in operations research and industrial engineering and consent of the graduate adviser; for 698B, Operations Research and Industrial Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "ORI 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ORI 698B",
+"subject": "ORI",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in operations research and industrial engineering and consent of the graduate adviser; for 698B, Operations Research and Industrial Engineering 698A.",
+"prereqText": "For 698A, graduate standing in operations research and industrial engineering and consent of the graduate adviser; for 698B, Operations Research and Industrial Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "ORI 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "ORI 398R",
 "subject": "ORI",
 "number": "398R",
@@ -430,6 +486,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ORI 699WA",
+"subject": "ORI",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ORI 699WB",
+"subject": "ORI",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

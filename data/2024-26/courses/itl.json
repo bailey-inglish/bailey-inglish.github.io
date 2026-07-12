@@ -12,9 +12,45 @@
 "description": "An intensive beginning course with an emphasis on basic skills: listening, speaking, reading, and writing. Six lecture hours a week for one semester. Only one of the following may be counted: Italian 601C, 604, 506. Only one of the following may be counted: Italian 601C, 604, 507."
 },
 {
+"id": "ITL 601CA",
+"subject": "ITL",
+"number": "601CA",
+"title": "Beginning Italian",
+"hours": 3.0,
+"division": "lower",
+"description": "An intensive beginning course with an emphasis on basic skills: listening, speaking, reading, and writing. Six lecture hours a week for one semester. Only one of the following may be counted: Italian 601C, 604, 506. Only one of the following may be counted: Italian 601C, 604, 507."
+},
+{
+"id": "ITL 601CB",
+"subject": "ITL",
+"number": "601CB",
+"title": "Beginning Italian",
+"hours": 3.0,
+"division": "lower",
+"description": "An intensive beginning course with an emphasis on basic skills: listening, speaking, reading, and writing. Six lecture hours a week for one semester. Only one of the following may be counted: Italian 601C, 604, 506. Only one of the following may be counted: Italian 601C, 604, 507."
+},
+{
 "id": "ITL 604",
 "subject": "ITL",
 "number": "604",
+"title": "Accelerated First-Year Italian",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed for students of high motivation. A six-hour course comparable to Italian 506 and 507. Six lecture hours a week for one semester. Only one of the following may be counted: Italian 601C, 604, 506. Only one of the following may be counted: Italian 601C, 604, 507."
+},
+{
+"id": "ITL 604A",
+"subject": "ITL",
+"number": "604A",
+"title": "Accelerated First-Year Italian",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed for students of high motivation. A six-hour course comparable to Italian 506 and 507. Six lecture hours a week for one semester. Only one of the following may be counted: Italian 601C, 604, 506. Only one of the following may be counted: Italian 601C, 604, 507."
+},
+{
+"id": "ITL 604B",
+"subject": "ITL",
+"number": "604B",
 "title": "Accelerated First-Year Italian",
 "hours": 6.0,
 "division": "lower",
@@ -42,9 +78,81 @@
 "prereqConfidence": "low"
 },
 {
+"id": "ITL 611CA",
+"subject": "ITL",
+"number": "611CA",
+"title": "Intermediate Italian",
+"hours": 3.0,
+"division": "lower",
+"description": "An intensive intermediate course with an emphasis on basic skills: listening, speaking, reading, and writing. Does not meet the prerequisite requirements for Italian 328, 326K, or 326L. Six lecture hours a week for one semester. Only one of the following may be counted: Italian 611C, 612, 312K. Only one of the following may be counted: Italian 611C, 612, 312L. Prerequisite: Italian 601C, 604, or 507 with a grade of at least C.",
+"prereqText": "requirements for Italian 328, 326K, or 326L. Six lecture hours a week for one semester. Only one of the following may be counted: Italian 611C, 612, 312K. Only one of the following may be counted: Italian 611C, 612, 312L. Prerequisite: Italian 601C, 604, or 507 with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "ITL 611CB",
+"subject": "ITL",
+"number": "611CB",
+"title": "Intermediate Italian",
+"hours": 3.0,
+"division": "lower",
+"description": "An intensive intermediate course with an emphasis on basic skills: listening, speaking, reading, and writing. Does not meet the prerequisite requirements for Italian 328, 326K, or 326L. Six lecture hours a week for one semester. Only one of the following may be counted: Italian 611C, 612, 312K. Only one of the following may be counted: Italian 611C, 612, 312L. Prerequisite: Italian 601C, 604, or 507 with a grade of at least C.",
+"prereqText": "requirements for Italian 328, 326K, or 326L. Six lecture hours a week for one semester. Only one of the following may be counted: Italian 611C, 612, 312K. Only one of the following may be counted: Italian 611C, 612, 312L. Prerequisite: Italian 601C, 604, or 507 with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
 "id": "ITL 612",
 "subject": "ITL",
 "number": "612",
+"title": "Accelerated Second-Year Italian",
+"hours": 6.0,
+"division": "lower",
+"description": "Comparable to Italian 312K and 312L combined. Intensive work in writing, reading, and speaking at the second-year level. Six lecture hours a week for one semester. Only one of the following may be counted: Italian 611C, 612, 312K. Only one of the following may be counted: Italian 611C, 612, 312L. Prerequisite: Italian 604 or 507 with a grade of at least C.",
+"prereqText": "Italian 604 or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ITL 604"
+},
+{
+"type": "course",
+"id": "ITL 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ITL 612A",
+"subject": "ITL",
+"number": "612A",
+"title": "Accelerated Second-Year Italian",
+"hours": 6.0,
+"division": "lower",
+"description": "Comparable to Italian 312K and 312L combined. Intensive work in writing, reading, and speaking at the second-year level. Six lecture hours a week for one semester. Only one of the following may be counted: Italian 611C, 612, 312K. Only one of the following may be counted: Italian 611C, 612, 312L. Prerequisite: Italian 604 or 507 with a grade of at least C.",
+"prereqText": "Italian 604 or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ITL 604"
+},
+{
+"type": "course",
+"id": "ITL 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ITL 612B",
+"subject": "ITL",
+"number": "612B",
 "title": "Accelerated Second-Year Italian",
 "hours": 6.0,
 "division": "lower",
@@ -212,6 +320,24 @@
 "number": "919S",
 "title": "Topics in Italian",
 "hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ITL 619SA",
+"subject": "ITL",
+"number": "619SA",
+"title": "Topics in Italian",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ITL 619SB",
+"subject": "ITL",
+"number": "619SB",
+"title": "Topics in Italian",
+"hours": 3.0,
 "division": "lower",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -475,6 +601,24 @@
 "number": "929S",
 "title": "Topics in Italian",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ITL 629SA",
+"subject": "ITL",
+"number": "629SA",
+"title": "Topics in Italian",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ITL 629SB",
+"subject": "ITL",
+"number": "629SB",
+"title": "Topics in Italian",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of French and Italian. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -968,6 +1112,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "ITL 698A",
+"subject": "ITL",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Italian and consent of the graduate adviser; for 698B, Italian 698A.",
+"prereqText": "For 698A, graduate standing in Italian and consent of the graduate adviser; for 698B, Italian 698A.",
+"prereq": {
+"type": "course",
+"id": "ITL 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ITL 698B",
+"subject": "ITL",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Italian and consent of the graduate adviser; for 698B, Italian 698A.",
+"prereqText": "For 698A, graduate standing in Italian and consent of the graduate adviser; for 698B, Italian 698A.",
+"prereq": {
+"type": "course",
+"id": "ITL 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "ITL 398R",
 "subject": "ITL",
 "number": "398R",
@@ -1020,6 +1196,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ITL 699WA",
+"subject": "ITL",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ITL 699WB",
+"subject": "ITL",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

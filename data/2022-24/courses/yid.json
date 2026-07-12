@@ -12,9 +12,57 @@
 "description": "Six lecture hours a week for one semester, with optional laboratory available."
 },
 {
+"id": "YID 604A",
+"subject": "YID",
+"number": "604A",
+"title": "Accelerated First-Year Yiddish",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester, with optional laboratory available."
+},
+{
+"id": "YID 604B",
+"subject": "YID",
+"number": "604B",
+"title": "Accelerated First-Year Yiddish",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester, with optional laboratory available."
+},
+{
 "id": "YID 612",
 "subject": "YID",
 "number": "612",
+"title": "Accelerated Second-Year Yiddish",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester, with optional laboratory available. Prerequisite: Yiddish 604.",
+"prereqText": "Yiddish 604.",
+"prereq": {
+"type": "course",
+"id": "YID 604"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "YID 612A",
+"subject": "YID",
+"number": "612A",
+"title": "Accelerated Second-Year Yiddish",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester, with optional laboratory available. Prerequisite: Yiddish 604.",
+"prereqText": "Yiddish 604.",
+"prereq": {
+"type": "course",
+"id": "YID 604"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "YID 612B",
+"subject": "YID",
+"number": "612B",
 "title": "Accelerated Second-Year Yiddish",
 "hours": 6.0,
 "division": "lower",
@@ -104,6 +152,24 @@
 "number": "919S",
 "title": "Topics in Yiddish",
 "hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "YID 619SA",
+"subject": "YID",
+"number": "619SA",
+"title": "Topics in Yiddish",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "YID 619SB",
+"subject": "YID",
+"number": "619SB",
+"title": "Topics in Yiddish",
+"hours": 3.0,
 "division": "lower",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -217,6 +283,24 @@
 "number": "929S",
 "title": "Topics in Yiddish",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "YID 629SA",
+"subject": "YID",
+"number": "629SA",
+"title": "Topics in Yiddish",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "YID 629SB",
+"subject": "YID",
+"number": "629SB",
+"title": "Topics in Yiddish",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },

@@ -1,0 +1,310 @@
+{
+ "id": "2024-26/major/ba-economics",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Economics",
+ "college": "Liberal Arts",
+ "degreeType": "BA",
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general",
+  "2024-26/layer/cola-ba-plan-i"
+ ],
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/economics/",
+ "notes": "ECO 420K, 320L, 329, and 341K/441K must be completed in residence. A student may not earn both the BA and BS in Economics.",
+ "rules": {
+  "type": "all",
+  "title": "Major requirements",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Mathematics requirement",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 408Q",
+      "minGrade": "C-"
+     },
+     {
+      "type": "all",
+      "title": "M 408K + M 408L",
+      "of": [
+       {
+        "type": "course",
+        "course": "M 408K",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408L",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "M 408C + M 408D",
+      "of": [
+       {
+        "type": "course",
+        "course": "M 408C",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408D",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "M 408N + M 408S",
+      "of": [
+       {
+        "type": "course",
+        "course": "M 408N",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408S",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "M 408K + M 408S",
+      "of": [
+       {
+        "type": "course",
+        "course": "M 408K",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408S",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "M 408C + M 408L",
+      "of": [
+       {
+        "type": "course",
+        "course": "M 408C",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408L",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "M 408C + M 408S",
+      "of": [
+       {
+        "type": "course",
+        "course": "M 408C",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408S",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "M 408R + M 408L",
+      "of": [
+       {
+        "type": "course",
+        "course": "M 408R",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408L",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "M 408R + M 408S",
+      "of": [
+       {
+        "type": "course",
+        "course": "M 408R",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408S",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "M 408N + M 408L",
+      "of": [
+       {
+        "type": "course",
+        "course": "M 408N",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408L",
+        "minGrade": "C-"
+       }
+      ]
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/economics/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 32,
+    "filter": {
+     "subjects": [
+      "ECO"
+     ],
+     "label": "Economics coursework"
+    },
+    "umbrella": true,
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/economics/"
+    },
+    "title": "32 hours of economics",
+    "minGrade": "C-"
+   },
+   {
+    "type": "all",
+    "title": "Required economics courses",
+    "of": [
+     {
+      "type": "course",
+      "course": "ECO 304K",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "ECO 304L",
+      "minGrade": "C-"
+     },
+     {
+      "type": "anyN",
+      "n": 1,
+      "title": "Intro microeconomic theory",
+      "of": [
+       {
+        "type": "course",
+        "course": "ECO 420K",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "ECO 420S",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "course",
+      "course": "ECO 320L",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "ECO 329",
+      "minGrade": "C-"
+     },
+     {
+      "type": "anyN",
+      "n": 1,
+      "title": "Econometrics",
+      "of": [
+       {
+        "type": "course",
+        "course": "ECO 341K",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "ECO 441K",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "course",
+      "course": "ECO 101S",
+      "minGrade": "C-"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/economics/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 12,
+    "filter": {
+     "subjects": [
+      "ECO"
+     ],
+     "division": "upper",
+     "excludeCourses": [
+      "ECO 320L",
+      "ECO 329",
+      "ECO 341K",
+      "ECO 441K",
+      "ECO 420K",
+      "ECO 420S"
+     ],
+     "label": "Upper-division ECO electives"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/economics/"
+    },
+    "title": "12 additional upper-division economics hours",
+    "minGrade": "C-"
+   },
+   {
+    "type": "manual",
+    "text": "At least six of the additional semester hours of upper-division coursework must be in courses for which a grade of at least C- in Economics 420K [or] Economics 420S is a prerequisite.",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/economics/"
+    },
+    "title": "Six advanced hours beyond ECO 420K/420S"
+   },
+   {
+    "type": "gpa",
+    "min": 2.0,
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/economics/"
+    },
+    "title": "GPA of at least 2.00 in the major",
+    "scope": {
+     "subjects": [
+      "ECO"
+     ],
+     "label": "Economics coursework"
+    }
+   }
+  ]
+ }
+}

@@ -571,6 +571,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "CSE 698A",
+"subject": "CSE",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in computational science, engineering, and mathematics and consent of the graduate adviser; for 698B, Computational Science, Engineering, and Mathematics 698A.",
+"prereqText": "For 698A, graduate standing in computational science, engineering, and mathematics and consent of the graduate adviser; for 698B, Computational Science, Engineering, and Mathematics 698A.",
+"prereq": {
+"type": "course",
+"id": "CSE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 698B",
+"subject": "CSE",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in computational science, engineering, and mathematics and consent of the graduate adviser; for 698B, Computational Science, Engineering, and Mathematics 698A.",
+"prereqText": "For 698A, graduate standing in computational science, engineering, and mathematics and consent of the graduate adviser; for 698B, Computational Science, Engineering, and Mathematics 698A.",
+"prereq": {
+"type": "course",
+"id": "CSE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "CSE 398R",
 "subject": "CSE",
 "number": "398R",
@@ -612,6 +644,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 699WA",
+"subject": "CSE",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 699WB",
+"subject": "CSE",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

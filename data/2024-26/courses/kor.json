@@ -12,6 +12,24 @@
 "description": "Designed for students who understand or speak but do not read or write Korean. Not open to native speakers of Korean. Six class hours a week for one semester. Korean 604 and 506 may not both be counted; Korean 604 and 507 may not both be counted."
 },
 {
+"id": "KOR 604A",
+"subject": "KOR",
+"number": "604A",
+"title": "Accelerated First-Year Korean",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed for students who understand or speak but do not read or write Korean. Not open to native speakers of Korean. Six class hours a week for one semester. Korean 604 and 506 may not both be counted; Korean 604 and 507 may not both be counted."
+},
+{
+"id": "KOR 604B",
+"subject": "KOR",
+"number": "604B",
+"title": "Accelerated First-Year Korean",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed for students who understand or speak but do not read or write Korean. Not open to native speakers of Korean. Six class hours a week for one semester. Korean 604 and 506 may not both be counted; Korean 604 and 507 may not both be counted."
+},
+{
 "id": "KOR 506",
 "subject": "KOR",
 "number": "506",
@@ -24,6 +42,24 @@
 "id": "KOR 606",
 "subject": "KOR",
 "number": "606",
+"title": "First-Year Korean I",
+"hours": 6.0,
+"division": "lower",
+"description": "Intended for non-native speakers of Korean. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Korean 604 and 506, 606 may not both be counted."
+},
+{
+"id": "KOR 606A",
+"subject": "KOR",
+"number": "606A",
+"title": "First-Year Korean I",
+"hours": 6.0,
+"division": "lower",
+"description": "Intended for non-native speakers of Korean. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Korean 604 and 506, 606 may not both be counted."
+},
+{
+"id": "KOR 606B",
+"subject": "KOR",
+"number": "606B",
 "title": "First-Year Korean I",
 "hours": 6.0,
 "division": "lower",
@@ -80,9 +116,91 @@
 "prereqConfidence": "high"
 },
 {
+"id": "KOR 607A",
+"subject": "KOR",
+"number": "607A",
+"title": "First-Year Korean II",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation of Korean 506, 606. Intended for non-native speakers of Korean. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Korean 604 and 507, 607 may not both be counted. Prerequisite: Korean 506, 606 with a grade of at least C.",
+"prereqText": "Korean 506, 606 with a grade of at least C.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "KOR 506"
+},
+{
+"type": "course",
+"id": "KOR 606",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "KOR 607B",
+"subject": "KOR",
+"number": "607B",
+"title": "First-Year Korean II",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation of Korean 506, 606. Intended for non-native speakers of Korean. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Korean 604 and 507, 607 may not both be counted. Prerequisite: Korean 506, 606 with a grade of at least C.",
+"prereqText": "Korean 506, 606 with a grade of at least C.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "KOR 506"
+},
+{
+"type": "course",
+"id": "KOR 606",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
 "id": "KOR 612",
 "subject": "KOR",
 "number": "612",
+"title": "Accelerated Second-Year Korean",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native speakers of Korean. Continuation of Korean 604. Six class hours a week for one semester. Korean 612 and 412K may not both be counted; Korean 612 and 412L may not both be counted. Prerequisite: Korean 604 with a grade of at least C.",
+"prereqText": "Korean 604 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "KOR 604",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "KOR 612A",
+"subject": "KOR",
+"number": "612A",
+"title": "Accelerated Second-Year Korean",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native speakers of Korean. Continuation of Korean 604. Six class hours a week for one semester. Korean 612 and 412K may not both be counted; Korean 612 and 412L may not both be counted. Prerequisite: Korean 604 with a grade of at least C.",
+"prereqText": "Korean 604 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "KOR 604",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "KOR 612B",
+"subject": "KOR",
+"number": "612B",
 "title": "Accelerated Second-Year Korean",
 "hours": 6.0,
 "division": "lower",
@@ -281,6 +399,24 @@
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "KOR 619SA",
+"subject": "KOR",
+"number": "619SA",
+"title": "Topics in Korean",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "KOR 619SB",
+"subject": "KOR",
+"number": "619SB",
+"title": "Topics in Korean",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "KOR 320K",
 "subject": "KOR",
 "number": "320K",
@@ -399,6 +535,24 @@
 "number": "929S",
 "title": "Topics in Korean",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "KOR 629SA",
+"subject": "KOR",
+"number": "629SA",
+"title": "Topics in Korean",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "KOR 629SB",
+"subject": "KOR",
+"number": "629SB",
+"title": "Topics in Korean",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },

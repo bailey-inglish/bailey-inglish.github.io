@@ -1146,6 +1146,38 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "INF 698A",
+"subject": "INF",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in information studies and written consent of the graduate advisor; for 698B, Information Studies 698A.",
+"prereqText": "For 698A, graduate standing in information studies and written consent of the graduate advisor; for 698B, Information Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "INF 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "INF 698B",
+"subject": "INF",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in information studies and written consent of the graduate advisor; for 698B, Information Studies 698A.",
+"prereqText": "For 698A, graduate standing in information studies and written consent of the graduate advisor; for 698B, Information Studies 698A.",
+"prereq": {
+"type": "course",
+"id": "INF 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "INF 398R",
 "subject": "INF",
 "number": "398R",
@@ -1198,6 +1230,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "INF 699WA",
+"subject": "INF",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "INF 699WB",
+"subject": "INF",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

@@ -402,6 +402,24 @@
 "description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
 {
+"id": "ECE 619SA",
+"subject": "ECE",
+"number": "619SA",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 619SB",
+"subject": "ECE",
+"number": "619SB",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 3.0,
+"division": "lower",
+"description": "Used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
 "id": "ECE 321K",
 "subject": "ECE",
 "number": "321K",
@@ -573,6 +591,24 @@
 "number": "929S",
 "title": "Topics in Electrical and Computer Engineering",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 629SA",
+"subject": "ECE",
+"number": "629SA",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECE 629SB",
+"subject": "ECE",
+"number": "629SB",
+"title": "Topics in Electrical and Computer Engineering",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Electrical and Computer Engineering. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -1906,6 +1942,58 @@
 "restricted": "Restricted to students in the Engineering Honors Program."
 },
 {
+"id": "ECE 679HA",
+"subject": "ECE",
+"number": "679HA",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Engineering Honors Program. Undertake research across two consecutive semesters under the supervision of an engineering faculty member. Investigate a research area, selected with a faculty member with approval by the director of the Honors Program. Deliver an oral presentation and write a thesis. Individual instruction for two semesters. Electrical and Computer Engineering 679H and Electrical Engineering 679H may not both be counted. Prerequisite: For 679HB, Electrical and Computer Engineering 679HA (or Electrical Engineering 679HA) with a grade of at least C-.",
+"prereqText": "For 679HB, Electrical and Computer Engineering 679HA (or Electrical Engineering 679HA) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 679HA"
+},
+{
+"type": "course",
+"id": "ECE 679HA",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Engineering Honors Program."
+},
+{
+"id": "ECE 679HB",
+"subject": "ECE",
+"number": "679HB",
+"title": "Undergraduate Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Engineering Honors Program. Undertake research across two consecutive semesters under the supervision of an engineering faculty member. Investigate a research area, selected with a faculty member with approval by the director of the Honors Program. Deliver an oral presentation and write a thesis. Individual instruction for two semesters. Electrical and Computer Engineering 679H and Electrical Engineering 679H may not both be counted. Prerequisite: For 679HB, Electrical and Computer Engineering 679HA (or Electrical Engineering 679HA) with a grade of at least C-.",
+"prereqText": "For 679HB, Electrical and Computer Engineering 679HA (or Electrical Engineering 679HA) with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 679HA"
+},
+{
+"type": "course",
+"id": "ECE 679HA",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Engineering Honors Program."
+},
+{
 "id": "ECE 179K",
 "subject": "ECE",
 "number": "179K",
@@ -2465,6 +2553,30 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "ECE 697CA",
+"subject": "ECE",
+"number": "697CA",
+"title": "Research Problems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Select and research a problem with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197C and Electrical Engineering 197C may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 697CB",
+"subject": "ECE",
+"number": "697CB",
+"title": "Research Problems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Select and research a problem with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197C and Electrical Engineering 197C may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "ECE 197G",
 "subject": "ECE",
 "number": "197G",
@@ -2518,6 +2630,30 @@
 "number": "997G",
 "title": "Research Problems",
 "hours": 9.0,
+"division": "graduate",
+"description": "Problem selected by the student with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197G and Electrical Engineering 197G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ECE 697GA",
+"subject": "ECE",
+"number": "697GA",
+"title": "Research Problems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Problem selected by the student with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197G and Electrical Engineering 197G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqText": "Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ECE 697GB",
+"subject": "ECE",
+"number": "697GB",
+"title": "Research Problems",
+"hours": 3.0,
 "division": "graduate",
 "description": "Problem selected by the student with approval of the department. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Electrical and Computer Engineering 197G and Electrical Engineering 197G may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
 "prereqText": "Graduate standing in electrical engineering and consent of instructor and the graduate advisor.",
@@ -2641,6 +2777,56 @@
 "offering": "Offered on the credit/no credit basis only."
 },
 {
+"id": "ECE 698A",
+"subject": "ECE",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Electrical and Computer Engineering 698 and Electrical Engineering 698 may not both be counted. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in electrical and computer engineering and consent of the graduate advisor; for 698B, Electrical and Computer Engineering 698A (or Electrical Engineering 698A).",
+"prereqText": "For 698A, graduate standing in electrical and computer engineering and consent of the graduate advisor; for 698B, Electrical and Computer Engineering 698A (or Electrical Engineering 698A).",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 698A"
+},
+{
+"type": "course",
+"id": "ECE 698A"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 698B",
+"subject": "ECE",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Electrical and Computer Engineering 698 and Electrical Engineering 698 may not both be counted. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in electrical and computer engineering and consent of the graduate advisor; for 698B, Electrical and Computer Engineering 698A (or Electrical Engineering 698A).",
+"prereqText": "For 698A, graduate standing in electrical and computer engineering and consent of the graduate advisor; for 698B, Electrical and Computer Engineering 698A (or Electrical Engineering 698A).",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECE 698A"
+},
+{
+"type": "course",
+"id": "ECE 698A"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
 "id": "ECE 398R",
 "subject": "ECE",
 "number": "398R",
@@ -2742,6 +2928,30 @@
 "number": "999W",
 "title": "Dissertation",
 "hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 699WA",
+"subject": "ECE",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECE 699WB",
+"subject": "ECE",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
 "division": "graduate",
 "description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
 "prereqText": "Admission to candidacy for the doctoral degree.",

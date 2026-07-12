@@ -12,9 +12,57 @@
 "description": "Six lecture hours a week for one semester, with optional laboratory available."
 },
 {
+"id": "SWE 604A",
+"subject": "SWE",
+"number": "604A",
+"title": "Accelerated First-Year Swedish",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester, with optional laboratory available."
+},
+{
+"id": "SWE 604B",
+"subject": "SWE",
+"number": "604B",
+"title": "Accelerated First-Year Swedish",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester, with optional laboratory available."
+},
+{
 "id": "SWE 612",
 "subject": "SWE",
 "number": "612",
+"title": "Accelerated Second-Year Swedish",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester, with optional laboratory available. Prerequisite: Swedish 604.",
+"prereqText": "Swedish 604.",
+"prereq": {
+"type": "course",
+"id": "SWE 604"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SWE 612A",
+"subject": "SWE",
+"number": "612A",
+"title": "Accelerated Second-Year Swedish",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester, with optional laboratory available. Prerequisite: Swedish 604.",
+"prereqText": "Swedish 604.",
+"prereq": {
+"type": "course",
+"id": "SWE 604"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SWE 612B",
+"subject": "SWE",
+"number": "612B",
 "title": "Accelerated Second-Year Swedish",
 "hours": 6.0,
 "division": "lower",
@@ -104,6 +152,24 @@
 "number": "919S",
 "title": "Topics in Swedish",
 "hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWE 619SA",
+"subject": "SWE",
+"number": "619SA",
+"title": "Topics in Swedish",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWE 619SB",
+"subject": "SWE",
+"number": "619SB",
+"title": "Topics in Swedish",
+"hours": 3.0,
 "division": "lower",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer work is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
@@ -217,6 +283,24 @@
 "number": "929S",
 "title": "Topics in Swedish",
 "hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWE 629SA",
+"subject": "SWE",
+"number": "629SA",
+"title": "Topics in Swedish",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SWE 629SB",
+"subject": "SWE",
+"number": "629SB",
+"title": "Topics in Swedish",
+"hours": 3.0,
 "division": "upper",
 "description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Germanic Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
 },
