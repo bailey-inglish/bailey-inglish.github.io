@@ -1,122 +1,71 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import './App.css'
+import { HashRouter, NavLink, Navigate, Route, Routes } from 'react-router-dom'
+import { StoreProvider, useStore } from './state/store'
+import { Upload } from './pages/Upload'
+import { RecordEditor } from './pages/RecordEditor'
+import { Rankings } from './pages/Rankings'
+import { ProgramDetail } from './pages/ProgramDetail'
+import { Planner } from './pages/Planner'
 
-function App() {
-  const [count, setCount] = useState(0)
-
+function Shell() {
+  const { state, setEdition } = useStore()
   return (
     <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
-
-      <div className="ticks"></div>
-
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
+      <nav className="topnav">
+        <NavLink to="/" className="brand">UT Degree Planner</NavLink>
+        <NavLink to="/record" className={({ isActive }) => `nav${isActive ? ' active' : ''}`}>
+          My record
+        </NavLink>
+        <NavLink to="/programs" className={({ isActive }) => `nav${isActive ? ' active' : ''}`}>
+          Program rankings
+        </NavLink>
+        <NavLink to="/planner" className={({ isActive }) => `nav${isActive ? ' active' : ''}`}>
+          Planner
+        </NavLink>
+        <span className="spacer" />
+        <label className="muted">
+          Catalog{' '}
+          <select
+            value={state.edition}
+            onChange={(e) => setEdition(e.target.value as typeof state.edition)}
+          >
+            <option value="2024-26">2024–2026</option>
+            <option value="2022-24">2022–2024</option>
+          </select>
+        </label>
+      </nav>
+      <div className="disclaimer">
+        Unofficial planning tool — not affiliated with UT Austin. Your official degree audit
+        (IDA) and academic advisor are authoritative. Data is parsed from the public UT
+        catalogs and may contain errors; items marked “manual check” need your own review.
+      </div>
+      <main>
+        <Routes>
+          <Route path="/" element={<Upload />} />
+          <Route path="/record" element={<RecordEditor />} />
+          <Route path="/programs" element={<Rankings />} />
+          <Route path="/programs/:programId" element={<ProgramDetail />} />
+          <Route path="/planner" element={<Planner />} />
+          <Route path="*" element={<Navigate to="/" replace />} />
+        </Routes>
+      </main>
+      <footer>
+        Everything runs in your browser — your transcript never leaves this device. Dataset
+        built from the{' '}
+        <a href="https://catalog.utexas.edu/" target="_blank" rel="noreferrer">
+          UT Austin catalogs
+        </a>
+        .
+      </footer>
     </>
   )
 }
 
-export default App
+export default function App() {
+  return (
+    <StoreProvider>
+      <HashRouter>
+        <Shell />
+      </HashRouter>
+    </StoreProvider>
+  )
+}

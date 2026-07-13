@@ -1,5 +1,14 @@
 # UT Degree Audit & Planner — Build Plan
 
+> **Status (July 2026):** a working vertical slice is on this branch:
+> course DBs for 2024-26 + 2022-24, machine-extracted core-curriculum
+> layers, a first program batch (BS SDS, Plan II, BA Economics, BA
+> Government, SDS minor, Pre-Health certificate), Academic Summary
+> ingestion (PDF + paste, tested against a real summary), the audit
+> engine, rankings UI, and the drag-and-drop planner. Remaining: broader
+> program coverage in college-sized batches, Playwright e2e, and Phase 5
+> polish.
+
 ## Context
 
 Goal: a production web app for UT Austin students that inverts UT's Interactive Degree Audit (IDA). Instead of auditing yourself against one declared major, you upload your **Academic Summary** (UT's unofficial transcript) and the app audits you against **every** major, minor, and certificate across all active catalogs, ranks programs by how close you are to completing them, and feeds everything into a drag-and-drop multi-semester schedule planner that obeys prerequisite rules and supports study abroad / summer configurations.

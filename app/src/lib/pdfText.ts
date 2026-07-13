@@ -153,7 +153,7 @@ export async function extractPdfLines(data: ArrayBuffer): Promise<string[]> {
   for (let p = 1; p <= doc.numPages; p++) {
     const page = await doc.getPage(p)
     const content = await page.getTextContent()
-    const items: Item[] = (content.items as Array<Record<string, unknown>>)
+    const items: Item[] = (content.items as unknown as Array<Record<string, unknown>>)
       .filter((it) => typeof it.str === 'string')
       .map((it) => ({
         str: it.str as string,
