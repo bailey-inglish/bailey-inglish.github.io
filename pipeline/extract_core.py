@@ -72,7 +72,9 @@ def extract(edition: str) -> dict:
                           "filter": {"courses": rest_ids, "label": "Communication (core 010)"},
                           "minGrade": "D-"}
             else:
-                second = {"type": "manual", "title": "Writing Flag course",
+                # older editions listed the second course only by a Writing
+                # Flag designation (flags since abolished) with no course list
+                second = {"type": "note", "title": "Second communication course",
                           "text": "A three-hour course with a Writing Flag designation."}
             children.append({
                 "type": "all", "title": title, "id": f"core-{code}", "source": src,

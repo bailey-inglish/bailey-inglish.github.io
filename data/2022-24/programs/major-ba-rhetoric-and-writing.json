@@ -17,35 +17,16 @@
    {
     "type": "hours",
     "hours": 27.0,
-    "umbrella": true,
-    "title": "27 hours of rhetoric and writing",
+    "title": "Twenty-seven semester hours of coursework in rhetoric and writing, at least 18 of which mu",
     "filter": {
-     "subjects": [
-      "RHE"
-     ],
-     "label": "Rhetoric And Writing coursework"
+     "label": "Twenty-seven semester hours of coursework in rhetoric and writing, at least 18 o",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/rhetoric-and-writing/",
      "quote": "Twenty-seven semester hours of coursework in rhetoric and writing, at least 18 of which must be upper-division, consisting of"
-    }
-   },
-   {
-    "type": "hours",
-    "hours": 18.0,
-    "umbrella": true,
-    "title": "18 upper-division hours of rhetoric and writing",
-    "filter": {
-     "subjects": [
-      "RHE"
-     ],
-     "division": "upper",
-     "label": "Upper-division rhetoric and writing"
     },
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/rhetoric-and-writing/",
-     "quote": "Twenty-seven semester hours of coursework in rhetoric and writing, at least 18 of which must be upper-division, consisting of"
-    }
+    "umbrella": true
    },
    {
     "type": "course",
@@ -64,9 +45,8 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Each of the following courses (any topic): Rhetoric and Writing 330C, Advanced Studies in Digital Rhetoric",
-    "title": "Each of the following courses (any topic): Rhetoric and Writing 330C, Advanced S",
+    "type": "course",
+    "course": "RHE 330C",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/rhetoric-and-writing/",
      "quote": "Each of the following courses (any topic): Rhetoric and Writing 330C, Advanced Studies in Digital Rhetoric"
@@ -89,18 +69,35 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Three hours chosen from Rhetoric and Writing 310, 325M, 328 (any topic), 368C, or 368E",
-    "title": "Three hours chosen from Rhetoric and Writing 310, 325M, 328 (any topic), 368C, o",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three hours chosen from Rhetoric and Writing 310, 325M, 328 (any topic), 368C, or 368E",
+    "filter": {
+     "label": "Three hours chosen from Rhetoric and Writing 310, 325M, 328 (any topic), 368C, o",
+     "courses": [
+      "RHE 310",
+      "RHE 325M",
+      "RHE 328",
+      "RHE 368C",
+      "RHE 368E"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/rhetoric-and-writing/",
      "quote": "Three hours chosen from Rhetoric and Writing 310, 325M, 328 (any topic), 368C, or 368E"
     }
    },
    {
-    "type": "manual",
-    "text": "Nine additional semester hours in rhetoric and writing, including six hours of upper-division coursework",
-    "title": "Nine additional semester hours in rhetoric and writing, including six hours of u",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine additional semester hours in rhetoric and writing, including six hours of upper-divis",
+    "filter": {
+     "label": "Nine additional semester hours in rhetoric and writing, including six hours of u",
+     "subjects": [
+      "RHE"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/rhetoric-and-writing/",
      "quote": "Nine additional semester hours in rhetoric and writing, including six hours of upper-division coursework"

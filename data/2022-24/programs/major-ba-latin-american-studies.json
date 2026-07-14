@@ -15,13 +15,18 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Twenty-seven semester hours, at least 18 hours of which must be upper-division, including:",
-    "title": "Twenty-seven semester hours, at least 18 hours of which must be upper-division, ",
+    "type": "hours",
+    "hours": 27.0,
+    "title": "Twenty-seven semester hours, at least 18 hours of which must be upper-division, including:",
+    "filter": {
+     "label": "Twenty-seven semester hours, at least 18 hours of which must be upper-division, ",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/latin-american-studies/",
      "quote": "Twenty-seven semester hours, at least 18 hours of which must be upper-division, including:"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "course",
@@ -40,40 +45,6 @@
     }
    },
    {
-    "type": "all",
-    "title": "One of the following social sciences: Latin American Studies 315, 319, 324L, 325, 330, 355",
-    "of": [
-     {
-      "type": "course",
-      "course": "LAS 315"
-     },
-     {
-      "type": "course",
-      "course": "LAS 319"
-     },
-     {
-      "type": "course",
-      "course": "LAS 324L"
-     },
-     {
-      "type": "course",
-      "course": "LAS 325"
-     },
-     {
-      "type": "course",
-      "course": "LAS 330"
-     },
-     {
-      "type": "course",
-      "course": "LAS 355"
-     }
-    ],
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/latin-american-studies/",
-     "quote": "One of the following social sciences: Latin American Studies 315, 319, 324L, 325, 330, 355"
-    }
-   },
-   {
     "type": "course",
     "course": "LAS 366",
     "source": {
@@ -82,40 +53,35 @@
     }
    },
    {
-    "type": "anyN",
-    "n": 1,
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three hours, chosen from the following: Latin American Studies 326, 327, 328, 370P , or 37",
-    "of": [
-     {
-      "type": "course",
-      "course": "LAS 326"
-     },
-     {
-      "type": "course",
-      "course": "LAS 327"
-     },
-     {
-      "type": "course",
-      "course": "LAS 328"
-     },
-     {
-      "type": "course",
-      "course": "LAS 370P"
-     },
-     {
-      "type": "course",
-      "course": "LAS 370S"
-     }
-    ],
+    "filter": {
+     "label": "Three hours, chosen from the following: Latin American Studies 326, 327, 328, 37",
+     "courses": [
+      "LAS 326",
+      "LAS 327",
+      "LAS 328",
+      "LAS 370P",
+      "LAS 370S"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/latin-american-studies/",
      "quote": "Three hours, chosen from the following: Latin American Studies 326, 327, 328, 370P , or 370S"
     }
    },
    {
-    "type": "manual",
-    "text": "Nine additional hours of Latin American studies, of which six must be upper-division",
-    "title": "Nine additional hours of Latin American studies, of which six must be upper-divi",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine additional hours of Latin American studies, of which six must be upper-division",
+    "filter": {
+     "label": "Nine additional hours of Latin American studies, of which six must be upper-divi",
+     "subjects": [
+      "LAS"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/latin-american-studies/",
      "quote": "Nine additional hours of Latin American studies, of which six must be upper-division"
@@ -130,12 +96,12 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students must achieve an intermediate level of competency in Spanish, Portuguese, or an indigenous language of Latin America. Credit used to fulfill this requirement may also be used to fulfill the foreign language requirement.",
     "title": "Students must achieve an intermediate level of competency in Spanish, Portuguese",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/latin-american-studies/",
-     "quote": "Students must achieve an intermediate level of competency in Spanish, Portuguese, or an indigenous language of Latin America. Credit used to fulfill this requirement may also be used to fulfill the fo"
+     "quote": "Students must achieve an intermediate level of competency in Spanish, Portuguese, or an indigenous language of Latin America. Credit used to fulfill this requirement may also be used to fulfill the foreign language requi"
     }
    }
   ]

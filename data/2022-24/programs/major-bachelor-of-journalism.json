@@ -14,7 +14,16 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "note",
+    "text": "To be awarded the degree of Bachelor of Journalism, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements for graduation, the Core Curriculum requirements, the college graduation requirements, the requirements and policies listed in Academic Policies and Procedures, and the requirements given in Prescribed Work, Major Requirements, and ",
+    "title": "To be awarded the degree of Bachelor of Journalism, the candidate must complete ",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
+     "quote": "To be awarded the degree of Bachelor of Journalism, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements for graduation, the Core Curriculum requirements, th"
+    }
+   },
+   {
+    "type": "note",
     "text": "A candidate for a degree must have an officially declared major in the Moody College of Communication at the time the degree is awarded.",
     "title": "A candidate for a degree must have an officially declared major in the Moody Col",
     "source": {
@@ -23,16 +32,41 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six semester hours of coursework focusing on communication foundations: Communication 301E and 302E.",
-    "title": "Six semester hours of coursework focusing on communication foundations: Communic",
+    "type": "note",
+    "text": "All students must complete the University’s Core Curriculum. In some cases, a course required for the Bachelor of Journalism may also be counted toward the core curriculum",
+    "title": "All students must complete the University’s Core Curriculum. In some cases, a co",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
+     "quote": "All students must complete the University’s Core Curriculum. In some cases, a course required for the Bachelor of Journalism may also be counted toward the core curriculum"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six semester hours of coursework focusing on communication foundations: Communication 301E",
+    "filter": {
+     "label": "Six semester hours of coursework focusing on communication foundations: Communic",
+     "courses": [
+      "COM 301E",
+      "COM 302E"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Six semester hours of coursework focusing on communication foundations: Communication 301E and 302E."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
+    "text": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in a language other than English and taking one approved culture course in a culture that is relevant to the language. A list of approved culture and language courses and combinations",
+    "title": "Students must satisfy a language and culture requirement in one of the following",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
+     "quote": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in "
+    }
+   },
+   {
+    "type": "note",
     "text": "At least 42, but no more than 45, semester hours of journalism coursework, as described in Major Requirements, below.",
     "title": "At least 42, but no more than 45, semester hours of journalism coursework, as de",
     "source": {
@@ -41,20 +75,16 @@
     }
    },
    {
-    "type": "hours",
-    "hours": 120.0,
-    "umbrella": true,
-    "title": "120 total hours",
-    "filter": {
-     "label": "Any coursework"
-    },
+    "type": "note",
+    "text": "Enough additional coursework to make a total of 120 semester hours.",
+    "title": "Enough additional coursework to make a total of 120 semester hours.",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Enough additional coursework to make a total of 120 semester hours."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Journalism students must complete 42 semester hours in journalism, but no more than 45 journalism hours may be counted toward the degree. Students must complete the following coursework:",
     "title": "Journalism students must complete 42 semester hours in journalism, but no more t",
     "source": {
@@ -63,43 +93,140 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Level I, Foundations (Nine hours): Journalism 301F, 302F, and 304F.",
+    "type": "all",
     "title": "Level I, Foundations (Nine hours): Journalism 301F, 302F, and 304F.",
+    "of": [
+     {
+      "type": "course",
+      "course": "J 301F"
+     },
+     {
+      "type": "course",
+      "course": "J 302F"
+     },
+     {
+      "type": "course",
+      "course": "J 304F"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Level I, Foundations (Nine hours): Journalism 301F, 302F, and 304F."
     }
    },
    {
-    "type": "manual",
-    "text": "Level II, Applications (Six hours): Journalism 310F and 311F.",
+    "type": "all",
     "title": "Level II, Applications (Six hours): Journalism 310F and 311F.",
+    "of": [
+     {
+      "type": "course",
+      "course": "J 310F"
+     },
+     {
+      "type": "course",
+      "course": "J 311F"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Level II, Applications (Six hours): Journalism 310F and 311F."
     }
    },
    {
-    "type": "manual",
-    "text": "At least nine semester hours in Skills courses to be chosen from: Journalism 320F, 320G, 321F, 322E, 322F, 322J, 322P, 323F, 324C, 324F, 325C, 325F, 325J, 325S, 326C, 326F, 327D, 328D, 328L, 328S, 329T, 330C, 330G, 330J, 330L, 331D, 331G, 331M, 331N, 331W, 332D, 332G, 332J, 332P, 333G, 333J, 333L, 333S, 334F, 334G, 334J, 334N, 334P, 334S, 335, 335D, 335F, 335G, 335J, 335K, 335N, 335P, 336D, 336F, 336J, 336M 337C, 337D, 337F, 337G, 337J, 337L, 337M, 337P, 338F, 339F, 339M, 339T (all topics), 340J, 346F. Students should consult the School of Journalism and Media for the most updated course list.",
-    "title": "At least nine semester hours in Skills courses to be chosen from: Journalism 320",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "At least nine semester hours in Skills courses to be chosen from: Journalism 320F, 320G, 3",
+    "filter": {
+     "label": "At least nine semester hours in Skills courses to be chosen from: Journalism 320",
+     "courses": [
+      "J 320F",
+      "J 320G",
+      "J 321F",
+      "J 322E",
+      "J 322F",
+      "J 322J",
+      "J 322P",
+      "J 323F",
+      "J 324C",
+      "J 324F",
+      "J 325C",
+      "J 325F",
+      "J 325J",
+      "J 325S",
+      "J 326C",
+      "J 326F",
+      "J 327D",
+      "J 328D",
+      "J 328L",
+      "J 328S",
+      "J 329T",
+      "J 330C",
+      "J 330G",
+      "J 330J",
+      "J 330L",
+      "J 331D",
+      "J 331G",
+      "J 331M",
+      "J 331N",
+      "J 331W",
+      "J 332D",
+      "J 332G",
+      "J 332J",
+      "J 332P",
+      "J 333G",
+      "J 333J",
+      "J 333L",
+      "J 333S",
+      "J 334F",
+      "J 334G",
+      "J 334J",
+      "J 334N",
+      "J 334P",
+      "J 334S",
+      "J 335",
+      "J 335D",
+      "J 335F",
+      "J 335G",
+      "J 335J",
+      "J 335K",
+      "J 335N",
+      "J 335P",
+      "J 336D",
+      "J 336F",
+      "J 336J",
+      "J 336M",
+      "J 337C",
+      "J 337D",
+      "J 337F",
+      "J 337G",
+      "J 337J",
+      "J 337L",
+      "J 337M",
+      "J 337P",
+      "J 338F",
+      "J 339F",
+      "J 339M",
+      "J 339T",
+      "J 340J",
+      "J 346F"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
-     "quote": "At least nine semester hours in Skills courses to be chosen from: Journalism 320F, 320G, 321F, 322E, 322F, 322J, 322P, 323F, 324C, 324F, 325C, 325F, 325J, 325S, 326C, 326F, 327D, 328D, 328L, 328S, 329"
+     "quote": "At least nine semester hours in Skills courses to be chosen from: Journalism 320F, 320G, 321F, 322E, 322F, 322J, 322P, 323F, 324C, 324F, 325C, 325F, 325J, 325S, 326C, 326F, 327D, 328D, 328L, 328S, 329T, 330C, 330G, 330J,"
     }
    },
    {
-    "type": "manual",
-    "text": "Journalism 350F (required) and at least three additional semester hours in Concepts courses to be chosen from: Journalism 338J, 340F, 340G, 341F, 341G, 341J, 341M, 342F, 342G, 342J, 343F, 343G, 344F, 344G, 345G, 346G, 347F, 347G, 348D, 348E, 348F, 348G, 348J, 348M, 348N, 349E, 349F, 349L, 349N, 349T, 350M, 350N, 351C, 351F, 351G, 351J, 351P, 351S, 351T, 352F, 353F, 354F, 354L, 354M, 354N, 354R, 354S, 355F, 355G, 355M, 355P, 356C, 356G, 356M, 356R, 358N, 358P, 358S, 359M, 359S, 359T. Students should consult the School of Journalism and Media for the most updated course list.",
+    "type": "note",
+    "text": "Journalism 350F (required) and at least three additional semester hours in Concepts courses to be chosen from: Journalism 338J, 340F, 340G, 341F, 341G, 341J, 341M, 342F, 342G, 342J, 343F, 343G, 344F, 344G, 345G, 346G, 347F, 347G, 348D, 348E, 348F, 348G, 348J, 348M, 348N, 349E, 349F, 349L, 349N, 349T, 350M, 350N, 351C, 351F, 351G, 351J, 351P, 351S, 351T, 352F, 353F, 354F, 354L, 354M, 354N, 354R, 35",
     "title": "Journalism 350F (required) and at least three additional semester hours in Conce",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
-     "quote": "Journalism 350F (required) and at least three additional semester hours in Concepts courses to be chosen from: Journalism 338J, 340F, 340G, 341F, 341G, 341J, 341M, 342F, 342G, 342J, 343F, 343G, 344F, "
+     "quote": "Journalism 350F (required) and at least three additional semester hours in Concepts courses to be chosen from: Journalism 338J, 340F, 340G, 341F, 341G, 341J, 341M, 342F, 342G, 342J, 343F, 343G, 344F, 344G, 345G, 346G, 34"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Three additional semester hours in Skills or Concepts.",
     "title": "Three additional semester hours in Skills or Concepts.",
     "source": {
@@ -108,16 +235,16 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Level IV, Professional Practices (Six hours): Six hours chosen from Journalism 360F, 361F, 362F, 363C, 363D, 363F, 363K, 363L, 363M, 363N, 363P, 363Q, 363S, 363V, 363W. Students should consult the School of Journalism and Media for the most updated course list.",
     "title": "Level IV, Professional Practices (Six hours): Six hours chosen from Journalism 3",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
-     "quote": "Level IV, Professional Practices (Six hours): Six hours chosen from Journalism 360F, 361F, 362F, 363C, 363D, 363F, 363K, 363L, 363M, 363N, 363P, 363Q, 363S, 363V, 363W. Students should consult the Sch"
+     "quote": "Level IV, Professional Practices (Six hours): Six hours chosen from Journalism 360F, 361F, 362F, 363C, 363D, 363F, 363K, 363L, 363M, 363N, 363P, 363Q, 363S, 363V, 363W. Students should consult the School of Journalism an"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students must take three additional hours of journalism coursework.",
     "title": "Students must take three additional hours of journalism coursework.",
     "source": {
@@ -152,21 +279,50 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Journalism 310F and 311F require a grade of at least B-; students who do not fulfill this requirement cannot register for upper-division journalism Skills courses.",
-    "title": "Journalism 310F and 311F require a grade of at least B-; students who do not ful",
+    "type": "all",
+    "title": "Journalism 310F and 311F require a grade of at least B-; students who do not fulfill this ",
+    "of": [
+     {
+      "type": "course",
+      "course": "J 310F",
+      "minGrade": "B-"
+     },
+     {
+      "type": "course",
+      "course": "J 311F",
+      "minGrade": "B-"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Journalism 310F and 311F require a grade of at least B-; students who do not fulfill this requirement cannot register for upper-division journalism Skills courses."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "The student must complete at least 72 semester hours outside journalism.",
     "title": "The student must complete at least 72 semester hours outside journalism.",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "The student must complete at least 72 semester hours outside journalism."
+    }
+   },
+   {
+    "type": "note",
+    "text": "A student majoring in journalism may not register for more than nine semester hours in journalism in one semester or summer session. The director or associate director may make exceptions to this rule for students who need additional journalism courses in order to graduate on time.",
+    "title": "A student majoring in journalism may not register for more than nine semester ho",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
+     "quote": "A student majoring in journalism may not register for more than nine semester hours in journalism in one semester or summer session. The director or associate director may make exceptions to this rule for students who ne"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Because prerequisites are subject to change, students should consult the Course Schedule before registering.",
+    "title": "Because prerequisites are subject to change, students should consult the Course ",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
+     "quote": "Because prerequisites are subject to change, students should consult the Course Schedule before registering."
     }
    },
    {
@@ -195,7 +351,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Undergraduate Studies 302 or 303",
     "of": [
      {
@@ -210,7 +365,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Undergraduate Studies 302 or 303"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -222,7 +378,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Journalism 310F or 311F",
     "of": [
      {
@@ -237,7 +392,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Journalism 310F or 311F"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -248,7 +404,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "6 hours of language other than English",
     "title": "6 hours of language other than English",
     "source": {
@@ -258,7 +414,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Journalism 310F or 311F",
     "of": [
      {
@@ -273,7 +428,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Journalism 310F or 311F"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -285,7 +441,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "English 316L, 316M, 316N, or 316P",
     "of": [
      {
@@ -308,7 +463,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "English 316L, 316M, 316N, or 316P"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -316,6 +472,21 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Journalism 350F"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 3.0,
+    "title": "3 hours of Journalism",
+    "filter": {
+     "label": "3 hours of Journalism",
+     "subjects": [
+      "J"
+     ]
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
+     "quote": "3 hours of Journalism"
     }
    }
   ]

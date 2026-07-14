@@ -15,9 +15,8 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Russian, East European, and Eurasian area studies, consisting of: Russian, East European, and Eurasian Studies 301",
-    "title": "Russian, East European, and Eurasian area studies, consisting of: Russian, East ",
+    "type": "course",
+    "course": "REE 301",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/russian-east-european-and-eurasian-studies/",
      "quote": "Russian, East European, and Eurasian area studies, consisting of: Russian, East European, and Eurasian Studies 301"
@@ -32,25 +31,40 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six hours of upper-division coursework in a Slavic, Central Asian, or East European language",
-    "title": "Six hours of upper-division coursework in a Slavic, Central Asian, or East Europ",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours of upper-division coursework in a Slavic, Central Asian, or East European langua",
+    "filter": {
+     "label": "Six hours of upper-division coursework in a Slavic, Central Asian, or East Europ",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/russian-east-european-and-eurasian-studies/",
      "quote": "Six hours of upper-division coursework in a Slavic, Central Asian, or East European language"
     }
    },
    {
-    "type": "manual",
-    "text": "Fifteen semester hours of upper-division Russian, East European, and Eurasian Studies, which must include Russian, East European, and Eurasian Studies 350C, 325, and either 335 or 345.",
-    "title": "Fifteen semester hours of upper-division Russian, East European, and Eurasian St",
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Fifteen semester hours of upper-division Russian, East European, and Eurasian Studies, whi",
+    "filter": {
+     "label": "Fifteen semester hours of upper-division Russian, East European, and Eurasian St",
+     "courses": [
+      "REE 350C",
+      "REE 325",
+      "REE 335",
+      "REE 345"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/russian-east-european-and-eurasian-studies/",
      "quote": "Fifteen semester hours of upper-division Russian, East European, and Eurasian Studies, which must include Russian, East European, and Eurasian Studies 350C, 325, and either 335 or 345."
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students pursuing track 1 area studies, must complete a total of three years of language study in a Slavic, Central Asian, or East European language",
     "title": "Students pursuing track 1 area studies, must complete a total of three years of ",
     "source": {
@@ -59,9 +73,8 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Russian, East European, and Eurasian area studies with a language concentration, consisting of: Russian, East European, and Eurasian Studies 301",
-    "title": "Russian, East European, and Eurasian area studies with a language concentration,",
+    "type": "course",
+    "course": "REE 301",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/russian-east-european-and-eurasian-studies/",
      "quote": "Russian, East European, and Eurasian area studies with a language concentration, consisting of: Russian, East European, and Eurasian Studies 301"
@@ -76,21 +89,45 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Twelve hours of upper-division coursework in a Slavic, Central Asian, or East European language",
-    "title": "Twelve hours of upper-division coursework in a Slavic, Central Asian, or East Eu",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve hours of upper-division coursework in a Slavic, Central Asian, or East European lan",
+    "filter": {
+     "label": "Twelve hours of upper-division coursework in a Slavic, Central Asian, or East Eu",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/russian-east-european-and-eurasian-studies/",
      "quote": "Twelve hours of upper-division coursework in a Slavic, Central Asian, or East European language"
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "Nine semester hours of upper-division Russian, East European, and Eurasian Studies: Russian, East European, and Eurasian Studies 350C, 325, and either 335 or 345.",
-    "title": "Nine semester hours of upper-division Russian, East European, and Eurasian Studi",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine semester hours of upper-division Russian, East European, and Eurasian Studies: Russia",
+    "filter": {
+     "label": "Nine semester hours of upper-division Russian, East European, and Eurasian Studi",
+     "courses": [
+      "REE 350C",
+      "REE 325",
+      "REE 335",
+      "REE 345"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/russian-east-european-and-eurasian-studies/",
      "quote": "Nine semester hours of upper-division Russian, East European, and Eurasian Studies: Russian, East European, and Eurasian Studies 350C, 325, and either 335 or 345."
+    }
+   },
+   {
+    "type": "note",
+    "text": "Students pursuing track 2 area studies with a language concentration, are encouraged to study their chosen language over the summer or to take a fourth year.",
+    "title": "Students pursuing track 2 area studies with a language concentration, are encour",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/russian-east-european-and-eurasian-studies/",
+     "quote": "Students pursuing track 2 area studies with a language concentration, are encouraged to study their chosen language over the summer or to take a fourth year."
     }
    }
   ]

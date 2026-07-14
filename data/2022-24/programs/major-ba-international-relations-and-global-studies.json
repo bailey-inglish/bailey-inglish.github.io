@@ -15,48 +15,40 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Forty-eight semester hours of coursework, at least 30 of which must be upper-division, consisting of the following:",
-    "title": "Forty-eight semester hours of coursework, at least 30 of which must be upper-div",
+    "type": "hours",
+    "hours": 48.0,
+    "title": "Forty-eight semester hours of coursework, at least 30 of which must be upper-division, con",
+    "filter": {
+     "label": "Forty-eight semester hours of coursework, at least 30 of which must be upper-div",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
      "quote": "Forty-eight semester hours of coursework, at least 30 of which must be upper-division, consisting of the following:"
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "Fifteen hours in the following six core courses in the major: International Relations and Global Studies 301, Introduction to International Relations and Global Studies",
-    "title": "Fifteen hours in the following six core courses in the major: International Rela",
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Fifteen hours in the following six core courses in the major: International Relations and ",
+    "filter": {
+     "label": "Fifteen hours in the following six core courses in the major: International Rela",
+     "courses": [
+      "IRG 301"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
      "quote": "Fifteen hours in the following six core courses in the major: International Relations and Global Studies 301, Introduction to International Relations and Global Studies"
     }
    },
    {
-    "type": "manual",
-    "text": "A three-semester-hour course chosen from Economics 301, Introduction to Economics, Economics 304K, Introduction to Microeconomics or Economics 304L, Introduction to Macroeconomics",
-    "title": "A three-semester-hour course chosen from Economics 301, Introduction to Economic",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
-     "quote": "A three-semester-hour course chosen from Economics 301, Introduction to Economics, Economics 304K, Introduction to Microeconomics or Economics 304L, Introduction to Macroeconomics"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Geography 305, This Human World: An Introduction to Geography",
-    "title": "Geography 305, This Human World: An Introduction to Geography",
+    "type": "course",
+    "course": "GRG 305",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
      "quote": "Geography 305, This Human World: An Introduction to Geography"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "A three-semester-hour course chosen from Anthropology 302, Cultural Anthropology or Sociology 302, Introduction to the Study of Society",
-    "title": "A three-semester-hour course chosen from Anthropology 302, Cultural Anthropology",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
-     "quote": "A three-semester-hour course chosen from Anthropology 302, Cultural Anthropology or Sociology 302, Introduction to the Study of Society"
     }
    },
    {
@@ -68,35 +60,51 @@
     }
    },
    {
-    "type": "manual",
-    "text": "International Relations and Global Studies 320F, Foundations of International Relations and Global Studies",
-    "title": "International Relations and Global Studies 320F, Foundations of International Re",
+    "type": "course",
+    "course": "IRG 320F",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
      "quote": "International Relations and Global Studies 320F, Foundations of International Relations and Global Studies"
     }
    },
    {
-    "type": "manual",
-    "text": "Nine hours, including six upper-division, in a single area: Asian Studies, European Studies, Latin American Studies, Middle Eastern Studies, Russian, Eurasian, and East European Studies, African studies such as African and African Diaspora Studies 304, Introduction to the Study of Africa , African and African Diaspora Studies 335E, Introduction to African Art , African and African Diaspora Studies 345F, Sex and Power in the African Diaspora or courses chosen from an approved list, or another regional area approved by IRG director.",
-    "title": "Nine hours, including six upper-division, in a single area: Asian Studies, Europ",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine hours, including six upper-division, in a single area: Asian Studies, European Studie",
+    "filter": {
+     "label": "Nine hours, including six upper-division, in a single area: Asian Studies, Europ",
+     "courses": [
+      "AFR 304",
+      "AFR 335E",
+      "AFR 345F"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
-     "quote": "Nine hours, including six upper-division, in a single area: Asian Studies, European Studies, Latin American Studies, Middle Eastern Studies, Russian, Eurasian, and East European Studies, African studi"
+     "quote": "Nine hours, including six upper-division, in a single area: Asian Studies, European Studies, Latin American Studies, Middle Eastern Studies, Russian, Eurasian, and East European Studies, African studies such as African a"
     }
    },
    {
-    "type": "manual",
-    "text": "Twelve hours of upper-division coursework in one of the following tracks, chosen from a list of approved courses available in the advising office: Culture, media, and the arts: Anthropology 326L, Asian Studies 340F, Music 334, or courses chosen from an approved list",
-    "title": "Twelve hours of upper-division coursework in one of the following tracks, chosen",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve hours of upper-division coursework in one of the following tracks, chosen from a li",
+    "filter": {
+     "label": "Twelve hours of upper-division coursework in one of the following tracks, chosen",
+     "courses": [
+      "ANT 326L",
+      "ANS 340F",
+      "MUS 334"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
-     "quote": "Twelve hours of upper-division coursework in one of the following tracks, chosen from a list of approved courses available in the advising office: Culture, media, and the arts: Anthropology 326L, Asia"
+     "quote": "Twelve hours of upper-division coursework in one of the following tracks, chosen from a list of approved courses available in the advising office: Culture, media, and the arts: Anthropology 326L, Asian Studies 340F, Musi"
     }
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "International security: Government 360D, Government 365W, History 346R, or courses chosen ",
     "of": [
      {
@@ -115,51 +123,95 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
      "quote": "International security: Government 360D, Government 365W, History 346R, or courses chosen from an approved list"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
-    "text": "Science, technology, and environment: Geography 326, History 322G, Religious Studies 373M, or courses chosen from an approved list",
-    "title": "Science, technology, and environment: Geography 326, History 322G, Religious Stu",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
-     "quote": "Science, technology, and environment: Geography 326, History 322G, Religious Studies 373M, or courses chosen from an approved list"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "International political economy: Government 360E, History 340L, Textiles and Apparel 331, or courses chosen from an approved list",
-    "title": "International political economy: Government 360E, History 340L, Textiles and App",
+    "type": "anyN",
+    "title": "International political economy: Government 360E, History 340L, Textiles and Apparel 331, ",
+    "of": [
+     {
+      "type": "course",
+      "course": "GOV 360E"
+     },
+     {
+      "type": "course",
+      "course": "HIS 340L"
+     },
+     {
+      "type": "course",
+      "course": "TXA 331"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
      "quote": "International political economy: Government 360E, History 340L, Textiles and Apparel 331, or courses chosen from an approved list"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
-    "text": "Six hours of upper-division coursework in a single foreign language",
+    "type": "hours",
+    "hours": 6.0,
     "title": "Six hours of upper-division coursework in a single foreign language",
+    "filter": {
+     "label": "Six hours of upper-division coursework in a single foreign language",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
      "quote": "Six hours of upper-division coursework in a single foreign language"
     }
    },
    {
-    "type": "manual",
-    "text": "International Relations and Global Studies 378, Capstone Research in International Relations and Global Studies; or, for students seeking special honors, International Relations and Global Studies 678H, Honors Tutorial Course",
-    "title": "International Relations and Global Studies 378, Capstone Research in Internation",
+    "type": "all",
+    "title": "International Relations and Global Studies 378, Capstone Research in International Relatio",
+    "of": [
+     {
+      "type": "course",
+      "course": "IRG 378"
+     },
+     {
+      "type": "course",
+      "course": "IRG 678H"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
-     "quote": "International Relations and Global Studies 378, Capstone Research in International Relations and Global Studies; or, for students seeking special honors, International Relations and Global Studies 678"
+     "quote": "International Relations and Global Studies 378, Capstone Research in International Relations and Global Studies; or, for students seeking special honors, International Relations and Global Studies 678H, Honors Tutorial C"
     }
    },
    {
-    "type": "manual",
-    "text": "A grade of at least C- is required for International Relations and Global Studies 301, Introduction to International Relations and Global Studies, International Relations and Global Studies 320F, Foundations of International Relations and Global Studies, and International Relations and Global Studies 378, Capstone Research in International Relations and Global Studies.",
-    "title": "A grade of at least C- is required for International Relations and Global Studie",
+    "type": "note",
+    "text": "International relations and global studies majors must participate in an approved study abroad program. A list of approved programs is available from the faculty advisor. A student who graduated from an international high school may petition to be excused from this requirement. Documentation is required, and the petition must be approved by the faculty advisor and the associate dean for academic a",
+    "title": "International relations and global studies majors must participate in an approve",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
-     "quote": "A grade of at least C- is required for International Relations and Global Studies 301, Introduction to International Relations and Global Studies, International Relations and Global Studies 320F, Foun"
+     "quote": "International relations and global studies majors must participate in an approved study abroad program. A list of approved programs is available from the faculty advisor. A student who graduated from an international hig"
+    }
+   },
+   {
+    "type": "all",
+    "title": "A grade of at least C- is required for International Relations and Global Studies 301, Int",
+    "of": [
+     {
+      "type": "course",
+      "course": "IRG 301",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "IRG 320F",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "IRG 378",
+      "minGrade": "C-"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/international-relations-and-global-studies/",
+     "quote": "A grade of at least C- is required for International Relations and Global Studies 301, Introduction to International Relations and Global Studies, International Relations and Global Studies 320F, Foundations of Internati"
     }
    }
   ]
@@ -168,6 +220,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BA",
  "majorSubjects": [
-  "HIS"
+  "IRG"
  ]
 }

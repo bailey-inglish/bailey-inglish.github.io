@@ -15,16 +15,16 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "All aspects of the physical universe are of interest to the physicist, who seeks to understand not only the smallest forms of matter and the rich phenomena present in our everyday lives but also the universe itself. Physics has played a critical role in human technological and intellectual development during the twentieth century. The tools of the physicist—observation, imagination, model building, prediction, and deduction—will enable physics to continue this influence into the new century. The Bachelor of Science in Physics degree program is designed to provide the skills, understanding, and outlook required for participation in the discovery of new knowledge about nature.",
+    "type": "note",
+    "text": "All aspects of the physical universe are of interest to the physicist, who seeks to understand not only the smallest forms of matter and the rich phenomena present in our everyday lives but also the universe itself. Physics has played a critical role in human technological and intellectual development during the twentieth century. The tools of the physicist—observation, imagination, model building",
     "title": "All aspects of the physical universe are of interest to the physicist, who seeks",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-     "quote": "All aspects of the physical universe are of interest to the physicist, who seeks to understand not only the smallest forms of matter and the rich phenomena present in our everyday lives but also the u"
+     "quote": "All aspects of the physical universe are of interest to the physicist, who seeks to understand not only the smallest forms of matter and the rich phenomena present in our everyday lives but also the universe itself. Phys"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students who plan to follow Option VI, Physics Honors, must be admitted to the Dean’s Scholars Honors Program.",
     "title": "Students who plan to follow Option VI, Physics Honors, must be admitted to the D",
     "source": {
@@ -33,7 +33,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Two three-semester-hour courses in one foreign culture area; the courses must be chosen from an approved list available in the dean’s office and the college advising centers",
     "title": "Two three-semester-hour courses in one foreign culture area; the courses must be",
     "source": {
@@ -44,31 +44,30 @@
    {
     "type": "hours",
     "hours": 36.0,
-    "umbrella": true,
-    "title": "36 upper-division hours",
+    "title": "Thirty-six semester hours of upper-division coursework",
     "filter": {
-     "division": "upper",
-     "label": "Upper-division coursework"
+     "label": "Thirty-six semester hours of upper-division coursework",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
      "quote": "Thirty-six semester hours of upper-division coursework"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "hours",
     "hours": 21.0,
-    "umbrella": true,
-    "title": "21 upper-division hours",
+    "title": "At least 21 semester hours of upper-division coursework, including at least 12 semester ho",
     "filter": {
-     "division": "upper",
-     "label": "Upper-division coursework"
+     "label": "At least 21 semester hours of upper-division coursework, including at least 12 s",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
      "quote": "At least 21 semester hours of upper-division coursework, including at least 12 semester hours of upper-division coursework in physics, must be completed in residence at the University"
     },
-    "inResidence": true
+    "umbrella": true
    },
    {
     "type": "anyN",
@@ -80,21 +79,44 @@
       "title": "Option I: Physics",
       "of": [
        {
-        "type": "manual",
-        "text": "Chemistry 301 or 301C, and 302 or 302C",
+        "type": "all",
         "title": "Chemistry 301 or 301C, and 302 or 302C",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 301"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "CH 302"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Chemistry 301 or 301C, and 302 or 302C"
         }
        },
        {
-        "type": "manual",
-        "text": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used to fulfill this requirement if it cannot be counted toward major requirements in the department that offers it",
-        "title": "Six semester hours in biology, geological sciences, or astronomy; a course may n",
+        "type": "hours",
+        "hours": 6.0,
+        "title": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used",
+        "filter": {
+         "label": "Six semester hours in biology, geological sciences, or astronomy; a course may n",
+         "subjects": [
+          "BIO"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used to fulfill this requirement if it cannot be counted toward major requirements in the department that offers i"
+         "quote": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used to fulfill this requirement if it cannot be counted toward major requirements in the department that offers it"
         }
        },
        {
@@ -132,18 +154,51 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics; the following courses are recommended: Mathematics 340L, 361, and 362K; only courses at the level of calculus and above may be counted toward the total number of hours required for the degree",
         "title": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six addi",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics; the following courses are recommended: Mathematics 34"
+         "quote": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics; the following courses are recommended: Mathematics 340L, 361, and 362K; o"
         }
        },
        {
-        "type": "manual",
-        "text": "Physics 336K, 352K, 353L, 355, 362K, 369, 373, and 474, or their equivalents",
+        "type": "all",
         "title": "Physics 336K, 352K, 353L, 355, 362K, 369, 373, and 474, or their equivalents",
+        "of": [
+         {
+          "type": "course",
+          "course": "PHY 336K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 352K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 353L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 355"
+         },
+         {
+          "type": "course",
+          "course": "PHY 362K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 369"
+         },
+         {
+          "type": "course",
+          "course": "PHY 373"
+         },
+         {
+          "type": "course",
+          "course": "PHY 474"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Physics 336K, 352K, 353L, 355, 362K, 369, 373, and 474, or their equivalents"
@@ -151,7 +206,6 @@
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "One of the following: Physics 352L 362L, 375C, 375R, 375C, or 375S.",
         "of": [
          {
@@ -182,16 +236,13 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "One of the following: Physics 352L 362L, 375C, 375R, 375C, or 375S."
-        }
+        },
+        "n": 1
        },
        {
-        "type": "hours",
-        "hours": 126.0,
-        "umbrella": true,
-        "title": "126 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 126 semester hours",
+        "title": "Enough additional coursework to make a total of 126 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Enough additional coursework to make a total of 126 semester hours"
@@ -204,30 +255,53 @@
       "title": "Option II: Computation",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "This Option is designed to provide the necessary foundation and hands-on skill in computation for the student who plans a career or further study in computational physics or computer science. Students who complete this option may simultaneously fulfill some of the requirements of the Scientific Computation and Data Sciences Certificate.",
         "title": "This Option is designed to provide the necessary foundation and hands-on skill i",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "This Option is designed to provide the necessary foundation and hands-on skill in computation for the student who plans a career or further study in computational physics or computer science. Students"
+         "quote": "This Option is designed to provide the necessary foundation and hands-on skill in computation for the student who plans a career or further study in computational physics or computer science. Students who complete this o"
         }
        },
        {
-        "type": "manual",
-        "text": "Chemistry 301 or 301C, and 302 or 302C",
+        "type": "all",
         "title": "Chemistry 301 or 301C, and 302 or 302C",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 301"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "CH 302"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Chemistry 301 or 301C, and 302 or 302C"
         }
        },
        {
-        "type": "manual",
-        "text": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used to fulfill this requirement if it cannot be counted toward major requirements in the department that offers it",
-        "title": "Six semester hours in biology, geological sciences, or astronomy; a course may n",
+        "type": "hours",
+        "hours": 6.0,
+        "title": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used",
+        "filter": {
+         "label": "Six semester hours in biology, geological sciences, or astronomy; a course may n",
+         "subjects": [
+          "BIO"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used to fulfill this requirement if it cannot be counted toward major requirements in the department that offers i"
+         "quote": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used to fulfill this requirement if it cannot be counted toward major requirements in the department that offers it"
         }
        },
        {
@@ -265,30 +339,79 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics or statistics and data sciences; Mathematics 362K is recommended; only courses at the level of calculus and above may be counted toward the total number of hours required for the degree",
-        "title": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six addi",
+        "type": "all",
+        "title": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional sem",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408C"
+         },
+         {
+          "type": "course",
+          "course": "M 408D"
+         },
+         {
+          "type": "course",
+          "course": "M 427J"
+         },
+         {
+          "type": "course",
+          "course": "M 427K"
+         },
+         {
+          "type": "course",
+          "course": "M 427L"
+         },
+         {
+          "type": "course",
+          "course": "M 362K"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics or statistics and data sciences; Mathematics 362K is r"
+         "quote": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics or statistics and data sciences; Mathematics 362K is recommended; only cou"
         }
        },
        {
-        "type": "manual",
-        "text": "Physics 329, 336K, 338K, 352K, 353L, 355, 369, and 373, or their equivalents",
+        "type": "all",
         "title": "Physics 329, 336K, 338K, 352K, 353L, 355, 369, and 373, or their equivalents",
+        "of": [
+         {
+          "type": "course",
+          "course": "PHY 329"
+         },
+         {
+          "type": "course",
+          "course": "PHY 336K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 338K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 352K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 353L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 355"
+         },
+         {
+          "type": "course",
+          "course": "PHY 369"
+         },
+         {
+          "type": "course",
+          "course": "PHY 373"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Physics 329, 336K, 338K, 352K, 353L, 355, 369, and 373, or their equivalents"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "One of the following scientific computation options: Computer Science 303E Computer Science 313E and two courses from two of the areas listed below: Numerical methods: Chemical Engineering 348, Computer Science 323E, 323H, 367, Mathematics 348",
-        "title": "One of the following scientific computation options: Computer Science 303E Compu",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "One of the following scientific computation options: Computer Science 303E Computer Science 313E and two courses from two of the areas listed below: Numerical methods: Chemical Engineering 348, Comput"
         }
        },
        {
@@ -314,52 +437,86 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Other computing topics: Computer Science 324E, 327E, 329E, 377, Mathematics 346, 362M, 368K, 372K, 376C, Mechanical Engineering 367S, 374C, 374E",
-        "title": "Other computing topics: Computer Science 324E, 327E, 329E, 377, Mathematics 346,",
+        "type": "all",
+        "title": "Other computing topics: Computer Science 324E, 327E, 329E, 377, Mathematics 346, 362M, 368",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 324E"
+         },
+         {
+          "type": "course",
+          "course": "C S 327E"
+         },
+         {
+          "type": "course",
+          "course": "C S 329E"
+         },
+         {
+          "type": "course",
+          "course": "C S 377"
+         },
+         {
+          "type": "course",
+          "course": "M 346"
+         },
+         {
+          "type": "course",
+          "course": "M 362M"
+         },
+         {
+          "type": "course",
+          "course": "M 368K"
+         },
+         {
+          "type": "course",
+          "course": "M 372K"
+         },
+         {
+          "type": "course",
+          "course": "M 376C"
+         },
+         {
+          "type": "course",
+          "course": "M E 367S"
+         },
+         {
+          "type": "course",
+          "course": "SDS 374C"
+         },
+         {
+          "type": "course",
+          "course": "SDS 374E"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Other computing topics: Computer Science 324E, 327E, 329E, 377, Mathematics 346, 362M, 368K, 372K, 376C, Mechanical Engineering 367S, 374C, 374E"
         }
        },
        {
-        "type": "all",
+        "type": "hours",
+        "hours": 12.0,
         "title": "Twelve semester hours chosen from Electrical and Computer Engineering 306, 312, 316, 319K,",
-        "of": [
-         {
-          "type": "course",
-          "course": "ECE 306"
-         },
-         {
-          "type": "course",
-          "course": "ECE 312"
-         },
-         {
-          "type": "course",
-          "course": "ECE 316"
-         },
-         {
-          "type": "course",
-          "course": "ECE 319K"
-         },
-         {
-          "type": "course",
-          "course": "ECE 422C"
-         }
-        ],
+        "filter": {
+         "label": "Twelve semester hours chosen from Electrical and Computer Engineering 306, 312, ",
+         "courses": [
+          "ECE 306",
+          "ECE 312",
+          "ECE 316",
+          "ECE 319K",
+          "ECE 422C"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Twelve semester hours chosen from Electrical and Computer Engineering 306, 312, 316, 319K, and 422C"
         }
        },
        {
-        "type": "hours",
-        "hours": 126.0,
-        "umbrella": true,
-        "title": "126 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 126 semester hours",
+        "title": "Enough additional coursework to make a total of 126 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Enough additional coursework to make a total of 126 semester hours"
@@ -372,21 +529,44 @@
       "title": "Option III: Radiation Physics",
       "of": [
        {
-        "type": "manual",
-        "text": "Chemistry 301 or 301C, and 302 or 302C",
+        "type": "all",
         "title": "Chemistry 301 or 301C, and 302 or 302C",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 301"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "CH 302"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Chemistry 301 or 301C, and 302 or 302C"
         }
        },
        {
-        "type": "manual",
-        "text": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used to fulfill this requirement if it cannot be counted toward major requirements in the department that offers it",
-        "title": "Six semester hours in biology, geological sciences, or astronomy; a course may n",
+        "type": "hours",
+        "hours": 6.0,
+        "title": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used",
+        "filter": {
+         "label": "Six semester hours in biology, geological sciences, or astronomy; a course may n",
+         "subjects": [
+          "BIO"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used to fulfill this requirement if it cannot be counted toward major requirements in the department that offers i"
+         "quote": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used to fulfill this requirement if it cannot be counted toward major requirements in the department that offers it"
         }
        },
        {
@@ -424,35 +604,31 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics; the following courses are recommended: Mathematics 340L, 361, and 362K; only courses at the level of calculus and above may be counted toward the total number of hours required for the degree",
         "title": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six addi",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics; the following courses are recommended: Mathematics 34"
+         "quote": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics; the following courses are recommended: Mathematics 340L, 361, and 362K; o"
         }
        },
        {
         "type": "hours",
         "hours": 24.0,
-        "umbrella": true,
-        "title": "24 upper-division hours of physics",
+        "title": "Twenty-four semester hours of upper-division coursework in physics, including Physics 336K",
         "filter": {
-         "division": "upper",
-         "subjects": [
-          "PHY"
+         "label": "Twenty-four semester hours of upper-division coursework in physics, including Ph",
+         "courses": [
+          "PHY 336K",
+          "PHY 352K",
+          "PHY 353L",
+          "PHY 355",
+          "PHY 362L",
+          "PHY 369",
+          "PHY 373"
          ],
-         "label": "Upper-division physics"
+         "division": "upper"
         },
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "Twenty-four semester hours of upper-division coursework in physics, including Physics 336K, 352K, 353L, 355, 362L, 369, and 373, or their equivalents"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "Twenty-four semester hours of upper-division coursework in physics, including Physics 336K, 352K, 353L, 355, 362L, 369, and 373, or their equivalents",
-        "title": "Specific courses within: 24 upper-division hours of physics",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Twenty-four semester hours of upper-division coursework in physics, including Physics 336K, 352K, 353L, 355, 362L, 369, and 373, or their equivalents"
@@ -461,14 +637,18 @@
        {
         "type": "hours",
         "hours": 18.0,
-        "umbrella": true,
-        "title": "18 upper-division hours of mechanical engineering",
+        "title": "Eighteen semester hours of upper-division coursework in mechanical engineering, consisting",
         "filter": {
-         "division": "upper",
-         "subjects": [
-          "M E"
+         "label": "Eighteen semester hours of upper-division coursework in mechanical engineering, ",
+         "courses": [
+          "M E 337C",
+          "M E 337F",
+          "M E 337G",
+          "M E 361E",
+          "M E 361F",
+          "M E 336P"
          ],
-         "label": "Upper-division mechanical engineering"
+         "division": "upper"
         },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
@@ -476,22 +656,9 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Eighteen semester hours of upper-division coursework in mechanical engineering, consisting of Mechanical Engineering 337C, 337F, 337G, 361E, 361F, and 336P",
-        "title": "Specific courses within: 18 upper-division hours of mechanical engineering",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "Eighteen semester hours of upper-division coursework in mechanical engineering, consisting of Mechanical Engineering 337C, 337F, 337G, 361E, 361F, and 336P"
-        }
-       },
-       {
-        "type": "hours",
-        "hours": 126.0,
-        "umbrella": true,
-        "title": "126 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 126 semester hours",
+        "title": "Enough additional coursework to make a total of 126 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Enough additional coursework to make a total of 126 semester hours"
@@ -504,21 +671,44 @@
       "title": "Option IV: Space Sciences",
       "of": [
        {
-        "type": "manual",
-        "text": "Chemistry 301 or 301C, and 302 or 302C",
+        "type": "all",
         "title": "Chemistry 301 or 301C, and 302 or 302C",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 301"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "CH 302"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Chemistry 301 or 301C, and 302 or 302C"
         }
        },
        {
-        "type": "manual",
-        "text": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used to fulfill this requirement if it cannot be counted toward major requirements in the department that offers it",
-        "title": "Six semester hours in biology, geological sciences, or astronomy; a course may n",
+        "type": "hours",
+        "hours": 6.0,
+        "title": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used",
+        "filter": {
+         "label": "Six semester hours in biology, geological sciences, or astronomy; a course may n",
+         "subjects": [
+          "BIO"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used to fulfill this requirement if it cannot be counted toward major requirements in the department that offers i"
+         "quote": "Six semester hours in biology, geological sciences, or astronomy; a course may not be used to fulfill this requirement if it cannot be counted toward major requirements in the department that offers it"
         }
        },
        {
@@ -556,25 +746,58 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics; the following courses are recommended: Mathematics 340L, 361, and 362K; only courses at the level of calculus and above may be counted toward the total number of hours required for the degree",
         "title": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six addi",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics; the following courses are recommended: Mathematics 34"
+         "quote": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics; the following courses are recommended: Mathematics 340L, 361, and 362K; o"
         }
        },
        {
-        "type": "manual",
-        "text": "Physics 329, 336K, 352K, 353L, 355, 362K, 369, and 373, or their equivalents",
+        "type": "all",
         "title": "Physics 329, 336K, 352K, 353L, 355, 362K, 369, and 373, or their equivalents",
+        "of": [
+         {
+          "type": "course",
+          "course": "PHY 329"
+         },
+         {
+          "type": "course",
+          "course": "PHY 336K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 352K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 353L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 355"
+         },
+         {
+          "type": "course",
+          "course": "PHY 362K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 369"
+         },
+         {
+          "type": "course",
+          "course": "PHY 373"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Physics 329, 336K, 352K, 353L, 355, 362K, 369, and 373, or their equivalents"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Either 15 semester hours of upper-division coursework in aerospace engineering or 12 hours in aerospace engineering and three additional hours of upper-division coursework in physics",
         "title": "Either 15 semester hours of upper-division coursework in aerospace engineering o",
         "source": {
@@ -583,13 +806,9 @@
         }
        },
        {
-        "type": "hours",
-        "hours": 126.0,
-        "umbrella": true,
-        "title": "126 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 126 semester hours",
+        "title": "Enough additional coursework to make a total of 126 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Enough additional coursework to make a total of 126 semester hours"
@@ -602,6 +821,15 @@
       "title": "Option V: Teaching",
       "of": [
        {
+        "type": "note",
+        "text": "This Option is designed to fulfill the course requirements for certification as a middle grades or secondary school science teacher in Texas; the student chooses composite science certification with physics as the primary teaching field, physical sciences certification, physics/mathematics certification, or mathematics, physical science, and engineering certification. However, completion of the co",
+        "title": "This Option is designed to fulfill the course requirements for certification as ",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
+         "quote": "This Option is designed to fulfill the course requirements for certification as a middle grades or secondary school science teacher in Texas; the student chooses composite science certification with physics as the primar"
+        }
+       },
+       {
         "type": "all",
         "title": "Physics 301, 101L, 316, 116L, 315, and 115L",
         "of": [
@@ -636,9 +864,30 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Mathematics 408C and 408D or the equivalent, 427J or 427K, and 427L",
+        "type": "all",
         "title": "Mathematics 408C and 408D or the equivalent, 427J or 427K, and 427L",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408C"
+         },
+         {
+          "type": "course",
+          "course": "M 408D"
+         },
+         {
+          "type": "course",
+          "course": "M 427J"
+         },
+         {
+          "type": "course",
+          "course": "M 427K"
+         },
+         {
+          "type": "course",
+          "course": "M 427L"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Mathematics 408C and 408D or the equivalent, 427J or 427K, and 427L"
@@ -647,32 +896,31 @@
        {
         "type": "hours",
         "hours": 18.0,
-        "umbrella": true,
-        "title": "18 upper-division hours of physics",
+        "title": "At least 18 semester hours of upper-division coursework in physics, consisting of Physics ",
         "filter": {
-         "division": "upper",
-         "subjects": [
-          "PHY"
+         "label": "At least 18 semester hours of upper-division coursework in physics, consisting o",
+         "courses": [
+          "PHY 341",
+          "PHY 353L",
+          "PHY 355",
+          "PHY 329",
+          "PHY 333",
+          "PHY 336K",
+          "PHY 338K",
+          "PHY 352K",
+          "PHY 373",
+          "SCI 365",
+          "PHY 341"
          ],
-         "label": "Upper-division physics"
+         "division": "upper"
         },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "At least 18 semester hours of upper-division coursework in physics, consisting of Physics 341 (Topic 7: Research Methods: UTeach), 353L, 355, and three of the following courses: Physics 329, 333, 336K"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "At least 18 semester hours of upper-division coursework in physics, consisting of Physics 341 (Topic 7: Research Methods: UTeach), 353L, 355, and three of the following courses: Physics 329, 333, 336K, 338K, 352K, 373, Science 365; with the consent of the UTeach-Natural Sciences undergraduate advisor, an upper-division physics course that includes a substantial research component may be substituted for Physics 341",
-        "title": "Specific courses within: 18 upper-division hours of physics",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "At least 18 semester hours of upper-division coursework in physics, consisting of Physics 341 (Topic 7: Research Methods: UTeach), 353L, 355, and three of the following courses: Physics 329, 333, 336K"
+         "quote": "At least 18 semester hours of upper-division coursework in physics, consisting of Physics 341 (Topic 7: Research Methods: UTeach), 353L, 355, and three of the following courses: Physics 329, 333, 336K, 338K, 352K, 373, S"
         }
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "History 329U or Philosophy 329U",
         "of": [
          {
@@ -687,20 +935,11 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "History 329U or Philosophy 329U"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "The requirements of one of the following certification areas: For composite science certification: Biology 311C and 311D",
-        "title": "The requirements of one of the following certification areas: For composite scie",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "The requirements of one of the following certification areas: For composite science certification: Biology 311C and 311D"
-        }
+        },
+        "n": 1
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "Chemistry 301 or 301C and 302 or 302C",
         "of": [
          {
@@ -723,10 +962,11 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Chemistry 301 or 301C and 302 or 302C"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Six hours of coursework in geological sciences; courses intended for non-science majors may not be counted toward this requirement",
         "title": "Six hours of coursework in geological sciences; courses intended for non-science",
         "source": {
@@ -735,7 +975,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Enough additional approved coursework in biology, chemistry, or geological sciences to provide the required 12 hours in a second field",
         "title": "Enough additional approved coursework in biology, chemistry, or geological scien",
         "source": {
@@ -744,9 +984,58 @@
         }
        },
        {
-        "type": "manual",
-        "text": "For physical sciences certification: Chemistry 301 or 301C, 302 or 302C, 204 or 317, 353, 153K, 154K, 354L, and 455 or 456",
-        "title": "For physical sciences certification: Chemistry 301 or 301C, 302 or 302C, 204 or ",
+        "type": "all",
+        "title": "For physical sciences certification: Chemistry 301 or 301C, 302 or 302C, 204 or 317, 353, ",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 301"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "CH 302"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         },
+         {
+          "type": "course",
+          "course": "CH 204"
+         },
+         {
+          "type": "course",
+          "course": "CH 317"
+         },
+         {
+          "type": "course",
+          "course": "CH 353"
+         },
+         {
+          "type": "course",
+          "course": "CH 153K"
+         },
+         {
+          "type": "course",
+          "course": "CH 154K"
+         },
+         {
+          "type": "course",
+          "course": "CH 354L"
+         },
+         {
+          "type": "course",
+          "course": "CH 455"
+         },
+         {
+          "type": "course",
+          "course": "CH 456"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "For physical sciences certification: Chemistry 301 or 301C, 302 or 302C, 204 or 317, 353, 153K, 154K, 354L, and 455 or 456"
@@ -755,14 +1044,10 @@
        {
         "type": "hours",
         "hours": 3.0,
-        "umbrella": true,
-        "title": "3 upper-division hours of physics",
+        "title": "Three additional hours of upper-division coursework in physics",
         "filter": {
-         "division": "upper",
-         "subjects": [
-          "PHY"
-         ],
-         "label": "Upper-division physics"
+         "label": "Three additional hours of upper-division coursework in physics",
+         "division": "upper"
         },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
@@ -770,53 +1055,144 @@
         }
        },
        {
-        "type": "manual",
-        "text": "For physics/mathematics certification: Mathematics 315C, 325K, 333L, 341 or 340L, 358K, 362K, 375D",
-        "title": "For physics/mathematics certification: Mathematics 315C, 325K, 333L, 341 or 340L",
+        "type": "anyN",
+        "title": "For physics/mathematics certification: Mathematics 315C, 325K, 333L, 341 or 340L, 358K, 36",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 315C"
+         },
+         {
+          "type": "course",
+          "course": "M 325K"
+         },
+         {
+          "type": "course",
+          "course": "M 333L"
+         },
+         {
+          "type": "course",
+          "course": "M 341"
+         },
+         {
+          "type": "course",
+          "course": "M 340L"
+         },
+         {
+          "type": "course",
+          "course": "M 358K"
+         },
+         {
+          "type": "course",
+          "course": "M 362K"
+         },
+         {
+          "type": "course",
+          "course": "M 375D"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "For physics/mathematics certification: Mathematics 315C, 325K, 333L, 341 or 340L, 358K, 362K, 375D"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "For mathematics, physical science, and engineering certification: Mathematics 315C, 325K, 333L, 358K, and 362K",
-        "title": "For mathematics, physical science, and engineering certification: Mathematics 31",
+        "type": "all",
+        "title": "For mathematics, physical science, and engineering certification: Mathematics 315C, 325K, ",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 315C"
+         },
+         {
+          "type": "course",
+          "course": "M 325K"
+         },
+         {
+          "type": "course",
+          "course": "M 333L"
+         },
+         {
+          "type": "course",
+          "course": "M 358K"
+         },
+         {
+          "type": "course",
+          "course": "M 362K"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "For mathematics, physical science, and engineering certification: Mathematics 315C, 325K, 333L, 358K, and 362K"
         }
        },
        {
-        "type": "manual",
-        "text": "Chemistry 301 or 301C, 302 or 302C, and 204",
+        "type": "all",
         "title": "Chemistry 301 or 301C, 302 or 302C, and 204",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 301"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "CH 302"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         },
+         {
+          "type": "course",
+          "course": "CH 204"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Chemistry 301 or 301C, 302 or 302C, and 204"
         }
        },
        {
-        "type": "manual",
-        "text": "Engineering Studies 301; and Mechanical Engineering 377K upon approval of the project by the UTeach Program.",
-        "title": "Engineering Studies 301; and Mechanical Engineering 377K upon approval of the pr",
+        "type": "all",
+        "title": "Engineering Studies 301; and Mechanical Engineering 377K upon approval of the project by t",
+        "of": [
+         {
+          "type": "course",
+          "course": "E S 301"
+         },
+         {
+          "type": "course",
+          "course": "M E 377K"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Engineering Studies 301; and Mechanical Engineering 377K upon approval of the project by the UTeach Program."
         }
        },
        {
-        "type": "manual",
-        "text": "Eighteen semester hours of professional development coursework consisting of: Curriculum and Instruction 651S (Topic 3: Secondary School Teaching Practicum: Math) or 651S (Topic 4: Secondary School Teaching Practicum: Science)",
-        "title": "Eighteen semester hours of professional development coursework consisting of: Cu",
+        "type": "hours",
+        "hours": 18.0,
+        "title": "Eighteen semester hours of professional development coursework consisting of: Curriculum a",
+        "filter": {
+         "label": "Eighteen semester hours of professional development coursework consisting of: Cu",
+         "courses": [
+          "EDC 651S",
+          "EDC 651S"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "Eighteen semester hours of professional development coursework consisting of: Curriculum and Instruction 651S (Topic 3: Secondary School Teaching Practicum: Math) or 651S (Topic 4: Secondary School Te"
+         "quote": "Eighteen semester hours of professional development coursework consisting of: Curriculum and Instruction 651S (Topic 3: Secondary School Teaching Practicum: Math) or 651S (Topic 4: Secondary School Teaching Practicum: Sc"
         }
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "Curriculum and Instruction 365C or UTeach-Natural Sciences 350",
         "of": [
          {
@@ -831,11 +1207,11 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Curriculum and Instruction 365C or UTeach-Natural Sciences 350"
-        }
+        },
+        "n": 1
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "Curriculum and Instruction 365D or UTeach-Natural Sciences 355",
         "of": [
          {
@@ -850,11 +1226,11 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Curriculum and Instruction 365D or UTeach-Natural Sciences 355"
-        }
+        },
+        "n": 1
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "Curriculum and Instruction 365E or UTeach-Natural Sciences 360",
         "of": [
          {
@@ -869,7 +1245,8 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Curriculum and Instruction 365E or UTeach-Natural Sciences 360"
-        }
+        },
+        "n": 1
        },
        {
         "type": "all",
@@ -894,7 +1271,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Students seeking middle grades certification must complete the following courses: Educational Psychology 350G, or Psychology 301 and 304; and Curriculum and Instruction 339E",
         "title": "Students seeking middle grades certification must complete the following courses",
         "source": {
@@ -903,7 +1280,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Enough additional coursework to make a total of at least 126 semester hours",
         "title": "Enough additional coursework to make a total of at least 126 semester hours",
         "source": {
@@ -918,12 +1295,37 @@
       "title": "Option VI: Physics Honors",
       "of": [
        {
-        "type": "manual",
-        "text": "Breadth requirement: Biology 315H and 325H, Chemistry 301C and 302C, and Mathematics 427J and 427L; at least one of the math courses must be a designated honors section; credit earned by examination may not be counted toward this requirement",
-        "title": "Breadth requirement: Biology 315H and 325H, Chemistry 301C and 302C, and Mathema",
+        "type": "all",
+        "title": "Breadth requirement: Biology 315H and 325H, Chemistry 301C and 302C, and Mathematics 427J ",
+        "of": [
+         {
+          "type": "course",
+          "course": "BIO 315H"
+         },
+         {
+          "type": "course",
+          "course": "BIO 325H"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         },
+         {
+          "type": "course",
+          "course": "M 427J"
+         },
+         {
+          "type": "course",
+          "course": "M 427L"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "Breadth requirement: Biology 315H and 325H, Chemistry 301C and 302C, and Mathematics 427J and 427L; at least one of the math courses must be a designated honors section; credit earned by examination m"
+         "quote": "Breadth requirement: Biology 315H and 325H, Chemistry 301C and 302C, and Mathematics 427J and 427L; at least one of the math courses must be a designated honors section; credit earned by examination may not be counted to"
         }
        },
        {
@@ -1025,34 +1427,42 @@
         }
        },
        {
-        "type": "manual",
-        "text": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor",
-        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the department",
+        "type": "anyN",
+        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors ",
+        "of": [
+         {
+          "type": "course",
+          "course": "UGS 302"
+         },
+         {
+          "type": "course",
+          "course": "UGS 303"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean’s Scholars Honors Program",
-        "title": "A section of Rhetoric and Writing 309S that is restricted to students in the Dea",
+        "type": "course",
+        "course": "RHE 309S",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean’s Scholars Honors Program"
         }
        },
        {
-        "type": "manual",
-        "text": "Physics 379H and a three-semester-hour upper-division research course approved by the departmental honors advisor",
-        "title": "Physics 379H and a three-semester-hour upper-division research course approved b",
+        "type": "course",
+        "course": "PHY 379H",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Physics 379H and a three-semester-hour upper-division research course approved by the departmental honors advisor"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Ten additional semester hours of coursework approved by the departmental honors advisor",
         "title": "Ten additional semester hours of coursework approved by the departmental honors ",
         "source": {
@@ -1061,7 +1471,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Six semester hours of coursework from the College of Liberal Arts and/or the College of Fine Arts",
         "title": "Six semester hours of coursework from the College of Liberal Arts and/or the Col",
         "source": {
@@ -1070,13 +1480,9 @@
         }
        },
        {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 120 semester hours",
+        "title": "Enough additional coursework to make a total of 120 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Enough additional coursework to make a total of 120 semester hours"
@@ -1090,7 +1496,6 @@
       "of": [
        {
         "type": "anyN",
-        "n": 1,
         "title": "Chemistry 301 or 301C and 302 or 302C",
         "of": [
          {
@@ -1113,12 +1518,38 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Chemistry 301 or 301C and 302 or 302C"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "Either Biology 311C, 311D, and 325 or Biology 315H and 325H; Biology 206L",
+        "type": "all",
         "title": "Either Biology 311C, 311D, and 325 or Biology 315H and 325H; Biology 206L",
+        "of": [
+         {
+          "type": "course",
+          "course": "BIO 311C"
+         },
+         {
+          "type": "course",
+          "course": "BIO 311D"
+         },
+         {
+          "type": "course",
+          "course": "BIO 325"
+         },
+         {
+          "type": "course",
+          "course": "BIO 315H"
+         },
+         {
+          "type": "course",
+          "course": "BIO 325H"
+         },
+         {
+          "type": "course",
+          "course": "BIO 206L"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Either Biology 311C, 311D, and 325 or Biology 315H and 325H; Biology 206L"
@@ -1159,41 +1590,77 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics; the following courses are recommended: Mathematics 340L, 361, and 362K",
         "title": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six addi",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
-         "quote": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics; the following courses are recommended: Mathematics 34"
+         "quote": "Mathematics 408C and 408D or the equivalent, 427J or 427K and 427L, and six additional semester hours of upper-division coursework in mathematics; the following courses are recommended: Mathematics 340L, 361, and 362K"
         }
        },
        {
-        "type": "manual",
-        "text": "Physics 336K, 345, 352K, 353L, 355, 369, and 373 or their equivalents",
+        "type": "all",
         "title": "Physics 336K, 345, 352K, 353L, 355, 369, and 373 or their equivalents",
+        "of": [
+         {
+          "type": "course",
+          "course": "PHY 336K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 345"
+         },
+         {
+          "type": "course",
+          "course": "PHY 352K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 353L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 355"
+         },
+         {
+          "type": "course",
+          "course": "PHY 369"
+         },
+         {
+          "type": "course",
+          "course": "PHY 373"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Physics 336K, 345, 352K, 353L, 355, 369, and 373 or their equivalents"
         }
        },
        {
-        "type": "manual",
-        "text": "Either Chemistry 320M or 328M, and Biochemistry 369",
+        "type": "all",
         "title": "Either Chemistry 320M or 328M, and Biochemistry 369",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 320M"
+         },
+         {
+          "type": "course",
+          "course": "CH 328M"
+         },
+         {
+          "type": "course",
+          "course": "BCH 369"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Either Chemistry 320M or 328M, and Biochemistry 369"
         }
        },
        {
-        "type": "all",
-        "title": "Complete one of the following areas: Cell Biology: Molecular Biosciences 320",
-        "of": [
-         {
-          "type": "course",
-          "course": "MBS 320"
-         }
-        ],
+        "type": "course",
+        "course": "MBS 320",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Complete one of the following areas: Cell Biology: Molecular Biosciences 320"
@@ -1224,16 +1691,48 @@
         }
        },
        {
-        "type": "hours",
-        "hours": 126.0,
-        "umbrella": true,
-        "title": "126 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "A list of recommended biology laboratory courses that complement the lecture courses listed in 12a through 12e are available in the advising center and the dean's office.",
+        "title": "A list of recommended biology laboratory courses that complement the lecture cou",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
+         "quote": "A list of recommended biology laboratory courses that complement the lecture courses listed in 12a through 12e are available in the advising center and the dean's office."
+        }
+       },
+       {
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 126 semester hours",
+        "title": "Enough additional coursework to make a total of 126 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
          "quote": "Enough additional coursework to make a total of 126 semester hours"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Students in all options must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for the degree, and a grade point average in these courses of at least 2.00. More information about grades and the grade point average is given in the General Information Catalog.",
+        "title": "Students in all options must fulfill both the University's General Requirements ",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
+         "quote": "Students in all options must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for "
+        }
+       },
+       {
+        "type": "note",
+        "text": "To graduate and be recommended for certification, students who follow the Teaching Option must have a University grade point average of at least 2.50. They must earn a grade of at least C- in the supporting course in requirement 9 and in each of the professional development courses listed in requirement 11 and must pass the final teaching portfolio review; those seeking middle grades certification",
+        "title": "To graduate and be recommended for certification, students who follow the Teachi",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
+         "quote": "To graduate and be recommended for certification, students who follow the Teaching Option must have a University grade point average of at least 2.50. They must earn a grade of at least C- in the supporting course in req"
+        }
+       },
+       {
+        "type": "note",
+        "text": "To graduate under Option VI, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor, and present their research in an approved public forum, such as the college’s annual Undergraduate Research Forum. More information about the Undergraduate Research Forum is available at https://cns.utexas.edu/.",
+        "title": "To graduate under Option VI, students must remain in good standing in the Dean’s",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/",
+         "quote": "To graduate under Option VI, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor, and present their research in an approve"
         }
        }
       ]
@@ -1249,6 +1748,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BS",
  "majorSubjects": [
-  "PHY"
+  "BIO"
  ]
 }

@@ -14,16 +14,16 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "To be awarded the degree of Bachelor of Science in Speech, Language, and Hearing Sciences, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements, the college graduation requirements, the requirements and policies listed in Academic Policies and Procedures, and the requirements given in Degree Requirements Common to All Moody Majors, and Major Requirements, below.",
+    "type": "note",
+    "text": "To be awarded the degree of Bachelor of Science in Speech, Language, and Hearing Sciences, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements, the college graduation requirements, the requirements and policies listed in Academic Policies and Procedures, and the requirements given in Degree Requirements Common to All Moody Majors, and",
     "title": "To be awarded the degree of Bachelor of Science in Speech, Language, and Hearing",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-speech-language-and-hearing-sciences/",
-     "quote": "To be awarded the degree of Bachelor of Science in Speech, Language, and Hearing Sciences, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requir"
+     "quote": "To be awarded the degree of Bachelor of Science in Speech, Language, and Hearing Sciences, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements, the college "
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "A candidate for a degree must have an officially declared major in the Moody College of Communication at the time the degree is awarded.",
     "title": "A candidate for a degree must have an officially declared major in the Moody Col",
     "source": {
@@ -32,34 +32,46 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six semester hours of coursework focusing on communication foundations: Communication 301E and 302E.",
-    "title": "Six semester hours of coursework focusing on communication foundations: Communic",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six semester hours of coursework focusing on communication foundations: Communication 301E",
+    "filter": {
+     "label": "Six semester hours of coursework focusing on communication foundations: Communic",
+     "courses": [
+      "COM 301E",
+      "COM 302E"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-speech-language-and-hearing-sciences/",
      "quote": "Six semester hours of coursework focusing on communication foundations: Communication 301E and 302E."
     }
    },
    {
-    "type": "hours",
-    "hours": 120.0,
-    "umbrella": true,
-    "title": "120 total hours",
-    "filter": {
-     "label": "Any coursework"
-    },
+    "type": "note",
+    "text": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in a language other than English and taking one approved culture course in a culture that is relevant to the language. A list of approved culture and language courses and combinations",
+    "title": "Students must satisfy a language and culture requirement in one of the following",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-speech-language-and-hearing-sciences/",
+     "quote": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in "
+    }
+   },
+   {
+    "type": "note",
+    "text": "Enough additional coursework to make a total of 120 semester hours.",
+    "title": "Enough additional coursework to make a total of 120 semester hours.",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-speech-language-and-hearing-sciences/",
      "quote": "Enough additional coursework to make a total of 120 semester hours."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students specializing in speech/language pathology or audiology must complete at least 42 semester hours of coursework in speech, language, and hearing sciences. No more than 54 semester hours of coursework in speech, language, and hearing sciences may be counted toward the degree. The course requirements for each track are as follows:",
     "title": "Students specializing in speech/language pathology or audiology must complete at",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-speech-language-and-hearing-sciences/",
-     "quote": "Students specializing in speech/language pathology or audiology must complete at least 42 semester hours of coursework in speech, language, and hearing sciences. No more than 54 semester hours of cour"
+     "quote": "Students specializing in speech/language pathology or audiology must complete at least 42 semester hours of coursework in speech, language, and hearing sciences. No more than 54 semester hours of coursework in speech, la"
     }
    },
    {
@@ -147,14 +159,8 @@
     }
    },
    {
-    "type": "all",
-    "title": "Speech, Language, and Hearing Sciences 352 (any topic)",
-    "of": [
-     {
-      "type": "course",
-      "course": "SLH 352"
-     }
-    ],
+    "type": "course",
+    "course": "SLH 352",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-speech-language-and-hearing-sciences/",
      "quote": "Speech, Language, and Hearing Sciences 352 (any topic)"
@@ -203,9 +209,15 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Three semester hours of coursework in introductory statistics. Courses that fulfill this requirement include: Educational Psychology 308",
-    "title": "Three semester hours of coursework in introductory statistics. Courses that fulf",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester hours of coursework in introductory statistics. Courses that fulfill this r",
+    "filter": {
+     "label": "Three semester hours of coursework in introductory statistics. Courses that fulf",
+     "courses": [
+      "EDP 308"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-speech-language-and-hearing-sciences/",
      "quote": "Three semester hours of coursework in introductory statistics. Courses that fulfill this requirement include: Educational Psychology 308"
@@ -336,14 +348,8 @@
     }
    },
    {
-    "type": "all",
-    "title": "Speech, Language, and Hearing Sciences 352 (any topic)",
-    "of": [
-     {
-      "type": "course",
-      "course": "SLH 352"
-     }
-    ],
+    "type": "course",
+    "course": "SLH 352",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-speech-language-and-hearing-sciences/",
      "quote": "Speech, Language, and Hearing Sciences 352 (any topic)"
@@ -392,6 +398,21 @@
     }
    },
    {
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester hours of coursework in introductory statistics. Courses that fulfill this r",
+    "filter": {
+     "label": "Three semester hours of coursework in introductory statistics. Courses that fulf",
+     "courses": [
+      "EDP 308"
+     ]
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-speech-language-and-hearing-sciences/",
+     "quote": "Three semester hours of coursework in introductory statistics. Courses that fulfill this requirement include: Educational Psychology 308"
+    }
+   },
+   {
     "type": "course",
     "course": "EDP 371",
     "source": {
@@ -432,12 +453,21 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Students majoring in speech, language, and hearing sciences may specialize in speech/language pathology or audiology. After completing the necessary undergraduate coursework, they may seek the graduate degrees that are required for professional accreditation by the American Speech-Language-Hearing Association. Students in speech/language pathology and audiology who wish to practice in Texas must be licensed by the Texas Department of State Health Services.",
+    "type": "note",
+    "text": "Students majoring in speech, language, and hearing sciences may specialize in speech/language pathology or audiology. After completing the necessary undergraduate coursework, they may seek the graduate degrees that are required for professional accreditation by the American Speech-Language-Hearing Association. Students in speech/language pathology and audiology who wish to practice in Texas must b",
     "title": "Students majoring in speech, language, and hearing sciences may specialize in sp",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-speech-language-and-hearing-sciences/",
-     "quote": "Students majoring in speech, language, and hearing sciences may specialize in speech/language pathology or audiology. After completing the necessary undergraduate coursework, they may seek the graduat"
+     "quote": "Students majoring in speech, language, and hearing sciences may specialize in speech/language pathology or audiology. After completing the necessary undergraduate coursework, they may seek the graduate degrees that are r"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Because prerequisites are subject to change, students should consult the Course Schedule before registering.",
+    "title": "Because prerequisites are subject to change, students should consult the Course ",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-speech-language-and-hearing-sciences/",
+     "quote": "Because prerequisites are subject to change, students should consult the Course Schedule before registering."
     }
    }
   ]

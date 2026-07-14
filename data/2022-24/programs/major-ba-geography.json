@@ -17,40 +17,23 @@
    {
     "type": "hours",
     "hours": 30.0,
-    "umbrella": true,
-    "title": "30 hours of geography",
+    "title": "Thirty semester hours of geography, at least 18 of which must be upper-division, including",
     "filter": {
+     "label": "Thirty semester hours of geography, at least 18 of which must be upper-division,",
      "subjects": [
       "GRG"
      ],
-     "label": "Geography coursework"
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/geography/",
      "quote": "Thirty semester hours of geography, at least 18 of which must be upper-division, including"
-    }
-   },
-   {
-    "type": "hours",
-    "hours": 18.0,
-    "umbrella": true,
-    "title": "18 upper-division hours of geography",
-    "filter": {
-     "subjects": [
-      "GRG"
-     ],
-     "division": "upper",
-     "label": "Upper-division geography"
     },
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/geography/",
-     "quote": "Thirty semester hours of geography, at least 18 of which must be upper-division, including"
-    }
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "An 18 hour core requirement consisting of: Geography 301C and one other course in physical geography",
-    "title": "An 18 hour core requirement consisting of: Geography 301C and one other course i",
+    "type": "course",
+    "course": "GRG 301C",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/geography/",
      "quote": "An 18 hour core requirement consisting of: Geography 301C and one other course in physical geography"
@@ -65,7 +48,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "At least nine semester hours in one of the following tracks: Geographic information science",
     "title": "At least nine semester hours in one of the following tracks: Geographic informat",
     "source": {

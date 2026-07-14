@@ -15,188 +15,671 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Thirty semester credit hours, including 18 upper-division",
+    "type": "hours",
+    "hours": 30.0,
     "title": "Thirty semester credit hours, including 18 upper-division",
+    "filter": {
+     "label": "Thirty semester credit hours, including 18 upper-division",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
      "quote": "Thirty semester credit hours, including 18 upper-division"
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "all",
-    "title": "Religious Studies 310, Introduction to the Study of Religion",
-    "of": [
-     {
-      "type": "course",
-      "course": "R S 310"
-     }
-    ],
+    "type": "course",
+    "course": "R S 310",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
      "quote": "Religious Studies 310, Introduction to the Study of Religion"
     }
    },
    {
-    "type": "manual",
-    "text": "Religious Studies 320, Introduction to Research Methods in the Study of Religion",
-    "title": "Religious Studies 320, Introduction to Research Methods in the Study of Religion",
+    "type": "course",
+    "course": "R S 320",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
      "quote": "Religious Studies 320, Introduction to Research Methods in the Study of Religion"
     }
    },
    {
-    "type": "manual",
-    "text": "Three semester credit hours chosen from the Tools Course list: African and African Diaspora Studies 345F, Sex and Power in the African Diaspora Anthropology 340C, Ethnographic Research Methods Economics 326L, Economics of Education Human Dimensions of Organizations 320, Multidisciplinary Methods for Exploring Organizations Religious Studies 337, Religion and Society Religious Studies 373E, Anthropology Of Religion Religious Studies 373T, Talk, Text, and God",
-    "title": "Three semester credit hours chosen from the Tools Course list: African and Afric",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester credit hours chosen from the Tools Course list: African and African Diaspor",
+    "filter": {
+     "label": "Three semester credit hours chosen from the Tools Course list: African and Afric",
+     "courses": [
+      "AFR 345F",
+      "ANT 340C",
+      "ECO 326L",
+      "HDO 320",
+      "R S 337",
+      "R S 373E",
+      "R S 373T"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
-     "quote": "Three semester credit hours chosen from the Tools Course list: African and African Diaspora Studies 345F, Sex and Power in the African Diaspora Anthropology 340C, Ethnographic Research Methods Economi"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Six semester credits hours of Religions of Asia, Europe, the Middle East, or the Mediterranean World: Religious Studies 302, History of the Religions of Asia Religious Studies 304, Judaism, Christianity, and Islam: An Introduction Religious Studies 310R, Introduction to Middle East Religions Religious Studies 312C, Introduction to Buddhism Religious Studies 313C, Introduction to the Old Testament Religious Studies 313M, Jewish Civilization: Beginnings to 1492 Religious Studies 313N, Jewish Civilization: 1492 to the Present Religious Studies 314K, Introduction to the Middle East: Religious, Cultural, and Historical Foundations Religious Studies 315K, Russian Icons and Propaganda Religious Studies 315M, Luther's World Religious Studies 315N, Introduction to the New Testament Religious Studies 316E, American Jews: The Yiddish Experience Religious Studies 318, The Rise of Christianity Religious Studies 319, Introduction to Islam Religious Studies 321, History of Hindu Religious Traditions Religious Studies 322, History of Indian Buddhism Religious Studies 325, Prophet of Islam: His Life and Times Religious Studies 325G, The Qur'an Religious Studies 335, Jesus in History and Tradition Religious Studies 341E, The Taj Mahal and the Diversity of Indian Art Religious Studies 341P, Indian Poetry and Religions Religious Studies 341T, Buddhist Art Religious Studies 341U, Devotional Literature of India Religious Studies 344, The Age of Reformation Religious Studies 352D, Japanese Religion and Western Imagination Religious Studies 352G, Shamanism and the Primitive Religious Studies 352R, Ritual and Religion in Korea Religious Studies 353D, The Dead Sea Scrolls Religious Studies 353E, Beyond the New Testament Religious Studies 353F, Interpretation of Jesus' Death and Resurrection Religious Studies 353G, Abraham and Abrahamic Religions Religious Studies 353J, Revelation and Apocalyptic Literature Religious Studies 353M, Debating Genesis Religious Studies 353P, Paul and His Social World Religious Studies 354D, The Bible and History Religious Studies 355, The Bible as Literature Religious Studies 355K, The Bible in British and American Literature Religious Studies 356C, Italian Renaissance, 1350-1550 Religious Studies 356F, Twelfth-Century Renaissance: 1050-1200 Religious Studies 356G, The Galileo Affair Religious Studies 357D, Heresy and the Inquisition Religious Studies 357E, Jews of Eastern Europe Religious Studies 357F, Heretics and Freedom Fighters, 1350-1650 Religious Studies 357G, Geography of Religion in Eastern Europe and Russia Religious Studies 357I, Byzantine Art Religious Studies 357J, Northern Renaissance Art, 1350-1500 Religious Studies 357K, Northern Renaissance Art, 1500-1600 Religious Studies 357L, The Spanish Inquisition Religious Studies 357M, Spinoza and Modernity Religious Studies 357N, Northern Gods, Northern Faiths: The Conversion of Scandinavians, Finns, Northern Slavs and Shamans Religious Studies 357O, The Church and the Jews Religious Studies 357P, Jewish Folklore Religious Studies 357Q, Gothic Cathedral: Amiens Religious Studies 357R, The Age of Rembrandt and Rubens: Northern Baroque Art Religious Studies 357T, Introduction to Germanic Religion and Myth Religious Studies 357U, Medieval Women Mystics Religious Studies 357V, Holocaust Aftereffects Religious Studies 357W, Russian Orthodox Religion and Culture Religious Studies 358C, Islam and Politics Religious Studies 358E, Medieval Islam: Faith and History Religious Studies 358F, French Empire: The West and Islam Religious Studies 358G, Gender Politics in the Islamic World Religious Studies 358K, Islamic Law Religious Studies 358L, Rule of Law in the Middle East Religious Studies 358O, Origins of Monotheism Religious Studies 358P, History of the Pilgrimage to Mecca, Hajj Religious Studies 358U, Islamic Theology Religious Studies 358V, Veiling in the Muslim World Religious Studies 359C, Graffiti and Poster Art in the Islamic World Religious Studies 359D, Islam in the Early Modern World: Religion and Culture Religious Studies 359E, Shia Islam Religious Studies 359M, Arts of Islam, 650-1500 Religious Studies 359N, Arts of Islam 1500-Present Religious Studies 365D, Hermits, Monks, and Saints in Early Christianity Religious Studies 365G, Death and the Afterlife in Graeco-Roman Antiquity",
-    "title": "Six semester credits hours of Religions of Asia, Europe, the Middle East, or the",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
-     "quote": "Six semester credits hours of Religions of Asia, Europe, the Middle East, or the Mediterranean World: Religious Studies 302, History of the Religions of Asia Religious Studies 304, Judaism, Christiani"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Six semester credit hours Religions of Africa, African Diaspora, or the Americas: Religious Studies 313E, Introduction to Jewish Latin America Religious Studies 316C, History of Religion in the United States Religious Studies 317N, Introduction to Modern North Africa Religious Studies 326, History of Religion in America since 1800 Religious Studies 345, Islamic Spain and North Africa to 1492 Religious Studies 346D, Native American Religions Religious Studies 346F, United States Catholic History Religious Studies 346G, Religion in the American West Religious Studies 346J, Evangelical Christianity Religious Studies 346K, The Black Church in African American Politics Religious Studies 346L, Representation of Jews in the American Public Sphere Religious Studies 346N, American Jewish Material Culture Religious Studies 346U, The History of Islam in the United States Religious Studies 346V, African American Religions Religious Studies 360C, African Religious Culture and Creativity Religious Studies 366C, The Bible in the Colonial Americas Religious Studies 366D, Religions of the Caribbean Religious Studies 366E, Jewish Cuba Religious Studies 368C, When Christ was King Religious Studies 368D, Church and State in Latin America Religious Studies 368E, The Religious Tradition in Latin America",
-    "title": "Six semester credit hours Religions of Africa, African Diaspora, or the Americas",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
-     "quote": "Six semester credit hours Religions of Africa, African Diaspora, or the Americas: Religious Studies 313E, Introduction to Jewish Latin America Religious Studies 316C, History of Religion in the United"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Six semester credit hours of Comparative Themes: Religious Studies 346C, Religion and Visual Culture in the United States Religious Studies 346M, Music and Religious Identities in the US Religious Studies 346P, Religion in American Political Thought Religious Studies 346S, Debating the Bible in the Twenty-First Century Religious Studies 352S, Japanese Concepts of Body and Self Religious Studies 353C, Angels, Demons, and Magic in Early Christianity Religious Studies 353L, The Sacred and the Secular in Contemporary Jewish Literature Religious Studies 356D, Satan and the Idea of Evil Religious Studies 358S, Saints and Shrines in Islam Religious Studies 357S, The Sacred and the Secular in Modern European Thought Religious Studies 358W, Gender and Art in the Muslim World Religious Studies 368F, Religion, Conquest, and Conversion in Colonial Latin America Religious Studies 373D, The History of Christmas Religious Studies 373F, Creation Religious Studies 373G, Goddesses in World Religions and Cultures Religious Studies 373J, Creation and Evolution: Human Origins in Scientific and Religious Discourses Religious Studies 373K, Extraterrestrial Intelligence: Culture, Religion, and Imagination Religious Studies 373N, Religions in Contact Religious Studies 373S, Sport, Religion, and Society",
-    "title": "Six semester credit hours of Comparative Themes: Religious Studies 346C, Religio",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
-     "quote": "Six semester credit hours of Comparative Themes: Religious Studies 346C, Religion and Visual Culture in the United States Religious Studies 346M, Music and Religious Identities in the US Religious Stu"
+     "quote": "Three semester credit hours chosen from the Tools Course list: African and African Diaspora Studies 345F, Sex and Power in the African Diaspora Anthropology 340C, Ethnographic Research Methods Economics 326L, Economics o"
     }
    },
    {
     "type": "all",
-    "title": "Religious Studies 375S, Advanced Seminars in Religious Studies",
+    "title": "Six semester credits hours of Religions of Asia, Europe, the Middle East, or the Mediterra",
     "of": [
      {
       "type": "course",
-      "course": "R S 375S"
+      "course": "R S 302"
+     },
+     {
+      "type": "course",
+      "course": "R S 304"
+     },
+     {
+      "type": "course",
+      "course": "R S 310R"
+     },
+     {
+      "type": "course",
+      "course": "R S 312C"
+     },
+     {
+      "type": "course",
+      "course": "R S 313C"
+     },
+     {
+      "type": "course",
+      "course": "R S 313M"
+     },
+     {
+      "type": "course",
+      "course": "R S 313N"
+     },
+     {
+      "type": "course",
+      "course": "R S 314K"
+     },
+     {
+      "type": "course",
+      "course": "R S 315K"
+     },
+     {
+      "type": "course",
+      "course": "R S 315M"
+     },
+     {
+      "type": "course",
+      "course": "R S 315N"
+     },
+     {
+      "type": "course",
+      "course": "R S 316E"
+     },
+     {
+      "type": "course",
+      "course": "R S 318"
+     },
+     {
+      "type": "course",
+      "course": "R S 319"
+     },
+     {
+      "type": "course",
+      "course": "R S 321"
+     },
+     {
+      "type": "course",
+      "course": "R S 322"
+     },
+     {
+      "type": "course",
+      "course": "R S 325"
+     },
+     {
+      "type": "course",
+      "course": "R S 325G"
+     },
+     {
+      "type": "course",
+      "course": "R S 335"
+     },
+     {
+      "type": "course",
+      "course": "R S 341E"
+     },
+     {
+      "type": "course",
+      "course": "R S 341P"
+     },
+     {
+      "type": "course",
+      "course": "R S 341T"
+     },
+     {
+      "type": "course",
+      "course": "R S 341U"
+     },
+     {
+      "type": "course",
+      "course": "R S 344"
+     },
+     {
+      "type": "course",
+      "course": "R S 352D"
+     },
+     {
+      "type": "course",
+      "course": "R S 352G"
+     },
+     {
+      "type": "course",
+      "course": "R S 352R"
+     },
+     {
+      "type": "course",
+      "course": "R S 353D"
+     },
+     {
+      "type": "course",
+      "course": "R S 353E"
+     },
+     {
+      "type": "course",
+      "course": "R S 353F"
+     },
+     {
+      "type": "course",
+      "course": "R S 353G"
+     },
+     {
+      "type": "course",
+      "course": "R S 353J"
+     },
+     {
+      "type": "course",
+      "course": "R S 353M"
+     },
+     {
+      "type": "course",
+      "course": "R S 353P"
+     },
+     {
+      "type": "course",
+      "course": "R S 354D"
+     },
+     {
+      "type": "course",
+      "course": "R S 355"
+     },
+     {
+      "type": "course",
+      "course": "R S 355K"
+     },
+     {
+      "type": "course",
+      "course": "R S 356C"
+     },
+     {
+      "type": "course",
+      "course": "R S 356F"
+     },
+     {
+      "type": "course",
+      "course": "R S 356G"
+     },
+     {
+      "type": "course",
+      "course": "R S 357D"
+     },
+     {
+      "type": "course",
+      "course": "R S 357E"
+     },
+     {
+      "type": "course",
+      "course": "R S 357F"
+     },
+     {
+      "type": "course",
+      "course": "R S 357G"
+     },
+     {
+      "type": "course",
+      "course": "R S 357I"
+     },
+     {
+      "type": "course",
+      "course": "R S 357J"
+     },
+     {
+      "type": "course",
+      "course": "R S 357K"
+     },
+     {
+      "type": "course",
+      "course": "R S 357L"
+     },
+     {
+      "type": "course",
+      "course": "R S 357M"
+     },
+     {
+      "type": "course",
+      "course": "R S 357N"
+     },
+     {
+      "type": "course",
+      "course": "R S 357O"
+     },
+     {
+      "type": "course",
+      "course": "R S 357P"
+     },
+     {
+      "type": "course",
+      "course": "R S 357Q"
+     },
+     {
+      "type": "course",
+      "course": "R S 357R"
+     },
+     {
+      "type": "course",
+      "course": "R S 357T"
+     },
+     {
+      "type": "course",
+      "course": "R S 357U"
+     },
+     {
+      "type": "course",
+      "course": "R S 357V"
+     },
+     {
+      "type": "course",
+      "course": "R S 357W"
+     },
+     {
+      "type": "course",
+      "course": "R S 358C"
+     },
+     {
+      "type": "course",
+      "course": "R S 358E"
+     },
+     {
+      "type": "course",
+      "course": "R S 358F"
+     },
+     {
+      "type": "course",
+      "course": "R S 358G"
+     },
+     {
+      "type": "course",
+      "course": "R S 358K"
+     },
+     {
+      "type": "course",
+      "course": "R S 358L"
+     },
+     {
+      "type": "course",
+      "course": "R S 358O"
+     },
+     {
+      "type": "course",
+      "course": "R S 358P"
+     },
+     {
+      "type": "course",
+      "course": "R S 358U"
+     },
+     {
+      "type": "course",
+      "course": "R S 358V"
+     },
+     {
+      "type": "course",
+      "course": "R S 359C"
+     },
+     {
+      "type": "course",
+      "course": "R S 359D"
+     },
+     {
+      "type": "course",
+      "course": "R S 359E"
+     },
+     {
+      "type": "course",
+      "course": "R S 359M"
+     },
+     {
+      "type": "course",
+      "course": "R S 359N"
+     },
+     {
+      "type": "course",
+      "course": "R S 365D"
+     },
+     {
+      "type": "course",
+      "course": "R S 365G"
      }
     ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
+     "quote": "Six semester credits hours of Religions of Asia, Europe, the Middle East, or the Mediterranean World: Religious Studies 302, History of the Religions of Asia Religious Studies 304, Judaism, Christianity, and Islam: An In"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six semester credit hours Religions of Africa, African Diaspora, or the Americas: Religiou",
+    "filter": {
+     "label": "Six semester credit hours Religions of Africa, African Diaspora, or the Americas",
+     "courses": [
+      "R S 313E",
+      "R S 316C",
+      "R S 317N",
+      "R S 326",
+      "R S 345",
+      "R S 346D",
+      "R S 346F",
+      "R S 346G",
+      "R S 346J",
+      "R S 346K",
+      "R S 346L",
+      "R S 346N",
+      "R S 346U",
+      "R S 346V",
+      "R S 360C",
+      "R S 366C",
+      "R S 366D",
+      "R S 366E",
+      "R S 368C",
+      "R S 368D",
+      "R S 368E"
+     ]
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
+     "quote": "Six semester credit hours Religions of Africa, African Diaspora, or the Americas: Religious Studies 313E, Introduction to Jewish Latin America Religious Studies 316C, History of Religion in the United States Religious St"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six semester credit hours of Comparative Themes: Religious Studies 346C, Religion and Visu",
+    "filter": {
+     "label": "Six semester credit hours of Comparative Themes: Religious Studies 346C, Religio",
+     "courses": [
+      "R S 346C",
+      "R S 346M",
+      "R S 346P",
+      "R S 346S",
+      "R S 352S",
+      "R S 353C",
+      "R S 353L",
+      "R S 356D",
+      "R S 358S",
+      "R S 357S",
+      "R S 358W",
+      "R S 368F",
+      "R S 373D",
+      "R S 373F",
+      "R S 373G",
+      "R S 373J",
+      "R S 373K",
+      "R S 373N",
+      "R S 373S"
+     ]
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
+     "quote": "Six semester credit hours of Comparative Themes: Religious Studies 346C, Religion and Visual Culture in the United States Religious Studies 346M, Music and Religious Identities in the US Religious Studies 346P, Religion "
+    }
+   },
+   {
+    "type": "course",
+    "course": "R S 375S",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
      "quote": "Religious Studies 375S, Advanced Seminars in Religious Studies"
     }
    },
    {
-    "type": "all",
-    "title": "Religious Studies 310, Introduction to the Study of Religion",
-    "of": [
-     {
-      "type": "course",
-      "course": "R S 310"
-     }
-    ],
+    "type": "course",
+    "course": "R S 310",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
      "quote": "Religious Studies 310, Introduction to the Study of Religion"
     }
    },
    {
-    "type": "all",
-    "title": "Religious Studies 307, Introduction to Interreligious Dynamics",
-    "of": [
-     {
-      "type": "course",
-      "course": "R S 307"
-     }
-    ],
+    "type": "course",
+    "course": "R S 307",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
      "quote": "Religious Studies 307, Introduction to Interreligious Dynamics"
     }
    },
    {
-    "type": "manual",
-    "text": "Nine semester credit hours of Contemporary Interreligious Dynamics: Religious Studies 316C, History of Religion in the United States Religious Studies 313N, Jewish Civilization: 1492 to the Present Religious Studies 316E, American Jews: The Yiddish Experience Anthropology 318L, Mexican American Culture Religious Studies 358C, Islam and Politics Religious Studies 358F, French Empire: The West and Islam Religious Studies 358G, Gender Politics in the Islamic World Religious Studies 358L, Rule of Law in the Middle East Religious Studies 358V, Veiling in the Muslim World Religious Studies 359C, Graffiti and Poster Art in the Islamic World Religious Studies 346V, African American Religions Religious Studies 326, History of Religion in America since 1800 Religious Studies 345, Islamic Spain and North Africa to 1492 Religious Studies 346D, Native American Religions Religious Studies 346F, United States Catholic History Religious Studies 346G, Religion in the American West Religious Studies 346J, Evangelical Christianity Religious Studies 346K, The Black Church in African American Politics Religious Studies 346L, Representation of Jews in the American Public Sphere Religious Studies 346N, American Jewish Material Culture Religious Studies 346U, The History of Islam in the United States Religious Studies 360C, African Religious Culture and Creativity Religious Studies 366C, The Bible in the Colonial Americas Religious Studies 366D, Religions of the Caribbean Religious Studies 366E, Jewish Cuba Religious Studies 368C, When Christ was King Religious Studies 368D, Church and State in Latin America Religious Studies 368E, The Religious Tradition in Latin America",
-    "title": "Nine semester credit hours of Contemporary Interreligious Dynamics: Religious St",
+    "type": "course",
+    "course": "R S 320",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
-     "quote": "Nine semester credit hours of Contemporary Interreligious Dynamics: Religious Studies 316C, History of Religion in the United States Religious Studies 313N, Jewish Civilization: 1492 to the Present Re"
+     "quote": "Religious Studies 320, Introduction to Research Methods in the Study of Religion"
     }
    },
    {
-    "type": "manual",
-    "text": "Nine semester credit hours of Historical Interreligious Dynamics: Religious Studies 306D, The Roots of Religious Toleration Religious Studies 312C, Introduction to Buddhism Religious Studies 304, Judaism, Christianity, and Islam: An Introduction Religious Studies 312C, Introduction to Buddhism Religious Studies 313E, Introduction to Jewish Latin America Religious Studies 313M, Jewish Civilization: Beginnings to 1492 Religious Studies 318, The Rise of Christianity Religious Studies 319, Introduction to Islam Religious Studies 321, History of Hindu Religious Traditions Religious Studies 322, History of Indian Buddhism Religious Studies 325, Prophet of Islam: His Life and Times Religious Studies 325G, The Qur'an Religious Studies 335, Jesus in History and Tradition Religious Studies 352D, Japanese Religion and Western Imagination Religious Studies 352G, Shamanism and the Primitive Religious Studies 352R, Ritual and Religion in Korea Religious Studies 353G, Abraham and Abrahamic Religions Religious Studies 357E, Jews of Eastern Europe Religious Studies 357N, Northern Gods, Northern Faiths: The Conversion of Scandinavians, Finns, Northern Slavs and Shamans Religious Studies 357O, The Church and the Jews Religious Studies 357P, Jewish Folklore Religious Studies 357T, Introduction to Germanic Religion and Myth Religious Studies 357U, Medieval Women Mystics Religious Studies 357V, Holocaust Aftereffects Religious Studies 357W, Russian Orthodox Religion and Culture Religious Studies 358E, Medieval Islam: Faith and History Religious Studies 358K, Islamic Law Religious Studies 358P, History of the Pilgrimage to Mecca, Hajj Religious Studies 359D, Islam in the Early Modern World: Religion and Culture Religious Studies 359E, Shia Islam Religious Studies 359M, Arts of Islam, 650-1500 Religious Studies 359N, Arts of Islam 1500-Present Religious Studies 365D, Hermits, Monks, and Saints in Early Christianity Religious Studies 365G, Death and the Afterlife in Graeco-Roman Antiquity",
-    "title": "Nine semester credit hours of Historical Interreligious Dynamics: Religious Stud",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine semester credit hours of Contemporary Interreligious Dynamics: Religious Studies 316C",
+    "filter": {
+     "label": "Nine semester credit hours of Contemporary Interreligious Dynamics: Religious St",
+     "courses": [
+      "R S 316C",
+      "R S 313N",
+      "R S 316E",
+      "ANT 318L",
+      "R S 358C",
+      "R S 358F",
+      "R S 358G",
+      "R S 358L",
+      "R S 358V",
+      "R S 359C",
+      "R S 346V",
+      "R S 326",
+      "R S 345",
+      "R S 346D",
+      "R S 346F",
+      "R S 346G",
+      "R S 346J",
+      "R S 346K",
+      "R S 346L",
+      "R S 346N",
+      "R S 346U",
+      "R S 360C",
+      "R S 366C",
+      "R S 366D",
+      "R S 366E",
+      "R S 368C",
+      "R S 368D",
+      "R S 368E"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
-     "quote": "Nine semester credit hours of Historical Interreligious Dynamics: Religious Studies 306D, The Roots of Religious Toleration Religious Studies 312C, Introduction to Buddhism Religious Studies 304, Juda"
+     "quote": "Nine semester credit hours of Contemporary Interreligious Dynamics: Religious Studies 316C, History of Religion in the United States Religious Studies 313N, Jewish Civilization: 1492 to the Present Religious Studies 316E"
     }
    },
    {
-    "type": "all",
-    "title": "Religious Studies 375S, Advanced Seminars in Religious Studies",
-    "of": [
-     {
-      "type": "course",
-      "course": "R S 375S"
-     }
-    ],
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine semester credit hours of Historical Interreligious Dynamics: Religious Studies 306D, ",
+    "filter": {
+     "label": "Nine semester credit hours of Historical Interreligious Dynamics: Religious Stud",
+     "courses": [
+      "R S 306D",
+      "R S 312C",
+      "R S 304",
+      "R S 312C",
+      "R S 313E",
+      "R S 313M",
+      "R S 318",
+      "R S 319",
+      "R S 321",
+      "R S 322",
+      "R S 325",
+      "R S 325G",
+      "R S 335",
+      "R S 352D",
+      "R S 352G",
+      "R S 352R",
+      "R S 353G",
+      "R S 357E",
+      "R S 357N",
+      "R S 357O",
+      "R S 357P",
+      "R S 357T",
+      "R S 357U",
+      "R S 357V",
+      "R S 357W",
+      "R S 358E",
+      "R S 358K",
+      "R S 358P",
+      "R S 359D",
+      "R S 359E",
+      "R S 359M",
+      "R S 359N",
+      "R S 365D",
+      "R S 365G"
+     ]
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
+     "quote": "Nine semester credit hours of Historical Interreligious Dynamics: Religious Studies 306D, The Roots of Religious Toleration Religious Studies 312C, Introduction to Buddhism Religious Studies 304, Judaism, Christianity, a"
+    }
+   },
+   {
+    "type": "course",
+    "course": "R S 375S",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
      "quote": "Religious Studies 375S, Advanced Seminars in Religious Studies"
     }
    },
    {
-    "type": "all",
-    "title": "Religious Studies 310, Introduction to the Study of Religion",
-    "of": [
-     {
-      "type": "course",
-      "course": "R S 310"
-     }
-    ],
+    "type": "course",
+    "course": "R S 310",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
      "quote": "Religious Studies 310, Introduction to the Study of Religion"
     }
    },
    {
-    "type": "manual",
-    "text": "Nine semester credit hours of Religious Ethics and Moral Traditions: African and African Diaspora Studies 351U, Race, Capitalism, and the Environment Religious Studies 358R, Islamic Ethics Religious Studies 306C, Comparative Religious Ethics Religious Studies 346S, Debating the Bible in the Twenty-First Century Religious Studies 373M, Biomedicine, Ethics, and Culture Religious Studies 352F, Religion and Family in Japanese Society Religious Studies 358J, Sex and Sexuality in the Muslim World Religious Studies 373L, Science, Magic, and Religion Religious Studies 358D, Muslim Women in Politics Religious Studies 341F, Jainism: Religion of Non-Violence Religious Studies 341K, Karma: Ethical Theories of India Religious Studies 341M, Gender, Sexuality, and the Family in Indian Religions and Cultures Religious Studies 352E, Confucianism Religious Studies 373K, Extraterrestrial Intelligence: Culture, Religion, and Imagination",
-    "title": "Nine semester credit hours of Religious Ethics and Moral Traditions: African and",
+    "type": "course",
+    "course": "R S 320",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
-     "quote": "Nine semester credit hours of Religious Ethics and Moral Traditions: African and African Diaspora Studies 351U, Race, Capitalism, and the Environment Religious Studies 358R, Islamic Ethics Religious S"
+     "quote": "Religious Studies 320, Introduction to Research Methods in the Study of Religion"
     }
    },
    {
-    "type": "manual",
-    "text": "Nine semester credit hours of Human Rights and Social Justice: African and African Diaspora Studies 301, African American Culture African and African Diaspora Studies 350U, The Civil Rights Movement from a Comparative Perspective African and African Diaspora Studies 351F, Black Americans and the South African and African Diaspora Studies 351L, The United States in the Civil Rights Era African and African Diaspora Studies 351T, Anthropology for Liberation African and African Diaspora Studies 360F, Urban Unrest Anthropology 320G, Endangered Languages Anthropology 325U, Austin Jews in the Civil Rights Era Government 314D, Human Rights Theories and Practices Government 320N, United States Constitutional Development: Rights Government 335Q, Global Justice Government 351C, The Classical Quest for Justice Government 351E, Contemporary Political Theory Government 357D, Civil Liberties Government 357G, Structure of Individual Liberties Government 365W, Human Rights and World Politics Religious Studies 341C, Gandhi and Gandhism Religious Studies 346R, Religion and Social Justice in United States Religious Studies 346E, Religion and Film Religious Studies 346V, African American Religions Religious Studies 346D, Native American Religions Religious Studies 346K, The Black Church in African American Politics Religious Studies 357C, Machiavelli: Politics and Culture Religious Studies 358G, Gender Politics in the Islamic World Religious Studies 373C, Religious Ethics and Human Rights",
-    "title": "Nine semester credit hours of Human Rights and Social Justice: African and Afric",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester credit hours chosen from the Tools Course list: African and African Diaspor",
+    "filter": {
+     "label": "Three semester credit hours chosen from the Tools Course list: African and Afric",
+     "courses": [
+      "AFR 345F",
+      "ANT 340C",
+      "ECO 326L",
+      "HDO 320",
+      "R S 337",
+      "R S 373E",
+      "R S 373T"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
-     "quote": "Nine semester credit hours of Human Rights and Social Justice: African and African Diaspora Studies 301, African American Culture African and African Diaspora Studies 350U, The Civil Rights Movement f"
+     "quote": "Three semester credit hours chosen from the Tools Course list: African and African Diaspora Studies 345F, Sex and Power in the African Diaspora Anthropology 340C, Ethnographic Research Methods Economics 326L, Economics o"
     }
    },
    {
-    "type": "all",
-    "title": "Religious Studies 375S, Advanced Seminars in Religious Studies",
-    "of": [
-     {
-      "type": "course",
-      "course": "R S 375S"
-     }
-    ],
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine semester credit hours of Religious Ethics and Moral Traditions: African and African D",
+    "filter": {
+     "label": "Nine semester credit hours of Religious Ethics and Moral Traditions: African and",
+     "courses": [
+      "AFR 351U",
+      "R S 358R",
+      "R S 306C",
+      "R S 346S",
+      "R S 373M",
+      "R S 352F",
+      "R S 358J",
+      "R S 373L",
+      "R S 358D",
+      "R S 341F",
+      "R S 341K",
+      "R S 341M",
+      "R S 352E",
+      "R S 373K"
+     ]
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
+     "quote": "Nine semester credit hours of Religious Ethics and Moral Traditions: African and African Diaspora Studies 351U, Race, Capitalism, and the Environment Religious Studies 358R, Islamic Ethics Religious Studies 306C, Compara"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine semester credit hours of Human Rights and Social Justice: African and African Diaspor",
+    "filter": {
+     "label": "Nine semester credit hours of Human Rights and Social Justice: African and Afric",
+     "courses": [
+      "AFR 301",
+      "AFR 350U",
+      "AFR 351F",
+      "AFR 351L",
+      "AFR 351T",
+      "AFR 360F",
+      "ANT 320G",
+      "ANT 325U",
+      "GOV 314D",
+      "GOV 320N",
+      "GOV 335Q",
+      "GOV 351C",
+      "GOV 351E",
+      "GOV 357D",
+      "GOV 357G",
+      "GOV 365W",
+      "R S 341C",
+      "R S 346R",
+      "R S 346E",
+      "R S 346V",
+      "R S 346D",
+      "R S 346K",
+      "R S 357C",
+      "R S 358G",
+      "R S 373C"
+     ]
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
+     "quote": "Nine semester credit hours of Human Rights and Social Justice: African and African Diaspora Studies 301, African American Culture African and African Diaspora Studies 350U, The Civil Rights Movement from a Comparative Pe"
+    }
+   },
+   {
+    "type": "course",
+    "course": "R S 375S",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/religious-studies/",
      "quote": "Religious Studies 375S, Advanced Seminars in Religious Studies"

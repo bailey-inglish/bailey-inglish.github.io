@@ -17,35 +17,19 @@
    {
     "type": "hours",
     "hours": 30.0,
-    "umbrella": true,
-    "title": "30 hours of human dimensions of organizations",
+    "title": "Thirty semester hours of human dimensions of organizations, at least 18 of which must be u",
     "filter": {
+     "label": "Thirty semester hours of human dimensions of organizations, at least 18 of which",
      "subjects": [
       "HDO"
      ],
-     "label": "Human Dimensions Of Organizations coursework"
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/human-dimensions-of-organizations/",
      "quote": "Thirty semester hours of human dimensions of organizations, at least 18 of which must be upper-division, including:"
-    }
-   },
-   {
-    "type": "hours",
-    "hours": 18.0,
-    "umbrella": true,
-    "title": "18 upper-division hours of human dimensions of organizations",
-    "filter": {
-     "subjects": [
-      "HDO"
-     ],
-     "division": "upper",
-     "label": "Upper-division human dimensions of organizations"
     },
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/human-dimensions-of-organizations/",
-     "quote": "Thirty semester hours of human dimensions of organizations, at least 18 of which must be upper-division, including:"
-    }
+    "umbrella": true
    },
    {
     "type": "course",
@@ -64,34 +48,25 @@
     }
    },
    {
-    "type": "manual",
-    "text": "At least three hours in each of the following three focus areas, three hours of which must be upper-division. Lists of courses are available in the advisor's office: Methods: chosen from Government 341M, Decision Theory, Anthropology 302, Cultural Anthropology, English 321K, Introduction to Criticism, or courses from an approved list.",
-    "title": "At least three hours in each of the following three focus areas, three hours of ",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "At least three hours in each of the following three focus areas, three hours of which must",
+    "filter": {
+     "label": "At least three hours in each of the following three focus areas, three hours of ",
+     "courses": [
+      "GOV 341M",
+      "ANT 302",
+      "E 321K"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/human-dimensions-of-organizations/",
-     "quote": "At least three hours in each of the following three focus areas, three hours of which must be upper-division. Lists of courses are available in the advisor's office: Methods: chosen from Government 34"
+     "quote": "At least three hours in each of the following three focus areas, three hours of which must be upper-division. Lists of courses are available in the advisor's office: Methods: chosen from Government 341M, Decision Theory,"
     }
    },
    {
-    "type": "manual",
-    "text": "Creativity and innovation: chosen from Creative Writing 325M, Creative Writing, English 678SA, Shakespeare at Winedale, Psychology 355M, The Cognitive Psychology of Music, Sociology 322C, Sociology of Creativity, Rhetoric and Writing 328 (Topic 6: Technical Communication and Wicked Problems), or courses from an approved list.",
-    "title": "Creativity and innovation: chosen from Creative Writing 325M, Creative Writing, ",
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/human-dimensions-of-organizations/",
-     "quote": "Creativity and innovation: chosen from Creative Writing 325M, Creative Writing, English 678SA, Shakespeare at Winedale, Psychology 355M, The Cognitive Psychology of Music, Sociology 322C, Sociology of"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Cultural Competence: chosen from Asian Studies 340L, Post-Mao China: Change and Transformation, Cognitive Science 360, Topics in Cognitive Science: The Study of Mind, Religious Studies 375S (Topic 9: Religion in the Workplace), or courses chosen from an approved list.",
-    "title": "Cultural Competence: chosen from Asian Studies 340L, Post-Mao China: Change and ",
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/human-dimensions-of-organizations/",
-     "quote": "Cultural Competence: chosen from Asian Studies 340L, Post-Mao China: Change and Transformation, Cognitive Science 360, Topics in Cognitive Science: The Study of Mind, Religious Studies 375S (Topic 9: "
-    }
-   },
-   {
-    "type": "manual",
+    "type": "note",
     "text": "Nine additional upper-division semester hours from a single field from item 3, above",
     "title": "Nine additional upper-division semester hours from a single field from item 3, a",
     "source": {

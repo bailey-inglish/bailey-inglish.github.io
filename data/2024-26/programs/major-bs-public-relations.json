@@ -14,16 +14,16 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "To be awarded the degree of Bachelor of Science in Public Relations, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements, the college graduation requirements, the requirements and policies listed in Academic Policies and Procedures, and the requirements given in Degree Requirements Common to All Moody Majors, Major Requirements, and Special Requirements of the Major, below.",
+    "type": "note",
+    "text": "To be awarded the degree of Bachelor of Science in Public Relations, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements, the college graduation requirements, the requirements and policies listed in Academic Policies and Procedures, and the requirements given in Degree Requirements Common to All Moody Majors, Major Requirements, and S",
     "title": "To be awarded the degree of Bachelor of Science in Public Relations, the candida",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-public-relations/",
-     "quote": "To be awarded the degree of Bachelor of Science in Public Relations, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements, the college gr"
+     "quote": "To be awarded the degree of Bachelor of Science in Public Relations, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements, the college graduation requirement"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "A candidate for a degree must have an officially declared major in the Moody College of Communication at the time the degree is awarded.",
     "title": "A candidate for a degree must have an officially declared major in the Moody Col",
     "source": {
@@ -32,29 +32,41 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six semester hours of coursework focusing on communication foundations: Communication 301E and 302E",
-    "title": "Six semester hours of coursework focusing on communication foundations: Communic",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six semester hours of coursework focusing on communication foundations: Communication 301E",
+    "filter": {
+     "label": "Six semester hours of coursework focusing on communication foundations: Communic",
+     "courses": [
+      "COM 301E",
+      "COM 302E"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-public-relations/",
      "quote": "Six semester hours of coursework focusing on communication foundations: Communication 301E and 302E"
     }
    },
    {
-    "type": "hours",
-    "hours": 120.0,
-    "umbrella": true,
-    "title": "120 total hours",
-    "filter": {
-     "label": "Any coursework"
-    },
+    "type": "note",
+    "text": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in a language other than English and taking one approved culture course in a culture that is relevant to the language. A list of approved culture and language courses and combinations",
+    "title": "Students must satisfy a language and culture requirement in one of the following",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-public-relations/",
+     "quote": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in "
+    }
+   },
+   {
+    "type": "note",
+    "text": "Enough additional coursework to make a total of 120 semester hours.",
+    "title": "Enough additional coursework to make a total of 120 semester hours.",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-public-relations/",
      "quote": "Enough additional coursework to make a total of 120 semester hours."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "At least 36, but no more than 42, semester hours of coursework in advertising and public relations, of which at least 24 hours must be upper-division. The following courses are required:",
     "title": "At least 36, but no more than 42, semester hours of coursework in advertising an",
     "source": {
@@ -88,7 +100,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Public Relations 350 or 650",
     "of": [
      {
@@ -103,7 +114,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-public-relations/",
      "quote": "Public Relations 350 or 650"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -146,7 +158,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Three additional hours of non-internship advertising and/or public relations coursework.",
     "title": "Three additional hours of non-internship advertising and/or public relations cou",
     "source": {
@@ -180,7 +192,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Marketing 320F or 337",
     "of": [
      {
@@ -195,7 +206,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-public-relations/",
      "quote": "Marketing 320F or 337"
-    }
+    },
+    "n": 1
    },
    {
     "type": "all",
@@ -217,6 +229,15 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-public-relations/",
      "quote": "The student must complete Public Relations 309, 367, and 377K in residence."
+    }
+   },
+   {
+    "type": "note",
+    "text": "Because prerequisites are subject to change, students should consult the Course Schedule before registering.",
+    "title": "Because prerequisites are subject to change, students should consult the Course ",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-public-relations/",
+     "quote": "Because prerequisites are subject to change, students should consult the Course Schedule before registering."
     }
    }
   ]

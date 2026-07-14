@@ -15,84 +15,87 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "course",
-    "course": "GER 322E",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester hours: German 322E",
+    "filter": {
+     "label": "Three semester hours: German 322E",
+     "courses": [
+      "GER 322E"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/german/",
      "quote": "Three semester hours: German 322E"
     }
    },
    {
-    "type": "anyN",
-    "n": 1,
+    "type": "hours",
+    "hours": 9.0,
     "title": "Nine semester hours from German 342K, 343K, 344K, 347L, or 348D",
-    "of": [
-     {
-      "type": "course",
-      "course": "GER 342K"
-     },
-     {
-      "type": "course",
-      "course": "GER 343K"
-     },
-     {
-      "type": "course",
-      "course": "GER 344K"
-     },
-     {
-      "type": "course",
-      "course": "GER 347L"
-     },
-     {
-      "type": "course",
-      "course": "GER 348D"
-     }
-    ],
+    "filter": {
+     "label": "Nine semester hours from German 342K, 343K, 344K, 347L, or 348D",
+     "courses": [
+      "GER 342K",
+      "GER 343K",
+      "GER 344K",
+      "GER 347L",
+      "GER 348D"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/german/",
      "quote": "Nine semester hours from German 342K, 343K, 344K, 347L, or 348D"
     }
    },
    {
-    "type": "anyN",
-    "n": 1,
+    "type": "hours",
+    "hours": 6.0,
     "title": "Six semester hours from German 363K, 369, 373, or 379",
-    "of": [
-     {
-      "type": "course",
-      "course": "GER 363K"
-     },
-     {
-      "type": "course",
-      "course": "GER 369"
-     },
-     {
-      "type": "course",
-      "course": "GER 373"
-     },
-     {
-      "type": "course",
-      "course": "GER 379"
-     }
-    ],
+    "filter": {
+     "label": "Six semester hours from German 363K, 369, 373, or 379",
+     "courses": [
+      "GER 363K",
+      "GER 369",
+      "GER 373",
+      "GER 379"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/german/",
      "quote": "Six semester hours from German 363K, 369, 373, or 379"
     }
    },
    {
-    "type": "manual",
-    "text": "Three semester hours of any upper-division German or German, Scandinavian, and Dutch studies course.",
-    "title": "Three semester hours of any upper-division German or German, Scandinavian, and D",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester hours of any upper-division German or German, Scandinavian, and Dutch studi",
+    "filter": {
+     "label": "Three semester hours of any upper-division German or German, Scandinavian, and D",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/german/",
      "quote": "Three semester hours of any upper-division German or German, Scandinavian, and Dutch studies course."
     }
    },
    {
-    "type": "manual",
-    "text": "Eighteen of the 24 semester hours must be taken in residence. German 149T, 249T, and 349T may not be counted toward a major in German.",
-    "title": "Eighteen of the 24 semester hours must be taken in residence. German 149T, 249T,",
+    "type": "all",
+    "title": "Eighteen of the 24 semester hours must be taken in residence. German 149T, 249T, and 349T ",
+    "of": [
+     {
+      "type": "course",
+      "course": "GER 149T"
+     },
+     {
+      "type": "course",
+      "course": "GER 249T"
+     },
+     {
+      "type": "course",
+      "course": "GER 349T"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/german/",
      "quote": "Eighteen of the 24 semester hours must be taken in residence. German 149T, 249T, and 349T may not be counted toward a major in German."

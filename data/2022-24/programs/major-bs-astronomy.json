@@ -15,7 +15,7 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "note",
     "text": "Two Options are available: Astronomy and Astronomy Honors. Students who plan to follow Option II, Astronomy Honors, must be admitted to the Dean’s Scholars Honors Program.",
     "title": "Two Options are available: Astronomy and Astronomy Honors. Students who plan to ",
     "source": {
@@ -24,42 +24,58 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Skill and experience flags: a. Writing: two flagged courses beyond Rhetoric and Writing 306 or its equivalent, including one at the upper-division level b. Quantitative reasoning: one flagged course c. Global cultures: one flagged course d. Cultural diversity in the United States: one flagged course e. Ethics: one flagged course f. Independent inquiry: one flagged course",
-    "title": "Skill and experience flags: a. Writing: two flagged courses beyond Rhetoric and ",
+    "type": "course",
+    "course": "RHE 306",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
-     "quote": "Skill and experience flags: a. Writing: two flagged courses beyond Rhetoric and Writing 306 or its equivalent, including one at the upper-division level b. Quantitative reasoning: one flagged course c"
+     "quote": "Skill and experience flags: a. Writing: two flagged courses beyond Rhetoric and Writing 306 or its equivalent, including one at the upper-division level b. Quantitative reasoning: one flagged course c. Global cultures: o"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Courses that may be used to fulfill flag requirements are identified in the Course Schedule. They may be used simultaneously to fulfill other requirements, unless otherwise specified. Please note, students may not earn the cultural diversity in the United States and the global cultures flags from the same course. Students are encouraged to discuss options with their academic advisors.",
+    "title": "Courses that may be used to fulfill flag requirements are identified in the Cour",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
+     "quote": "Courses that may be used to fulfill flag requirements are identified in the Course Schedule. They may be used simultaneously to fulfill other requirements, unless otherwise specified. Please note, students may not earn t"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Two three-semester-hour courses in one foreign culture area chosen from an approved list available in the dean’s office and the college advising centers",
+    "title": "Two three-semester-hour courses in one foreign culture area chosen from an appro",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
+     "quote": "Two three-semester-hour courses in one foreign culture area chosen from an approved list available in the dean’s office and the college advising centers"
     }
    },
    {
     "type": "hours",
     "hours": 36.0,
-    "umbrella": true,
-    "title": "36 upper-division hours",
+    "title": "At least 36 semester hours of upper-division coursework",
     "filter": {
-     "division": "upper",
-     "label": "Upper-division coursework"
+     "label": "At least 36 semester hours of upper-division coursework",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
      "quote": "At least 36 semester hours of upper-division coursework"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "hours",
     "hours": 21.0,
-    "umbrella": true,
-    "title": "21 upper-division hours",
+    "title": "At least 21 hours of upper-division coursework, including at least 12 semester hours in ph",
     "filter": {
-     "division": "upper",
-     "label": "Upper-division coursework"
+     "label": "At least 21 hours of upper-division coursework, including at least 12 semester h",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
      "quote": "At least 21 hours of upper-division coursework, including at least 12 semester hours in physics and astronomy, must be completed in residence at the University"
     },
-    "inResidence": true
+    "umbrella": true
    },
    {
     "type": "anyN",
@@ -71,18 +87,45 @@
       "title": "Option I: Astronomy",
       "of": [
        {
-        "type": "manual",
-        "text": "Six semester hours in biology, chemistry, computer science, and/or geological sciences; Chemistry 301 or CH 301H and the courses in the Elements of Computing Certificate Program may be counted toward this requirement; any other course to be counted must meet major requirements in the department that offers it.",
-        "title": "Six semester hours in biology, chemistry, computer science, and/or geological sc",
+        "type": "hours",
+        "hours": 6.0,
+        "title": "Six semester hours in biology, chemistry, computer science, and/or geological sciences; Ch",
+        "filter": {
+         "label": "Six semester hours in biology, chemistry, computer science, and/or geological sc",
+         "courses": [
+          "CH 301"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
-         "quote": "Six semester hours in biology, chemistry, computer science, and/or geological sciences; Chemistry 301 or CH 301H and the courses in the Elements of Computing Certificate Program may be counted toward "
+         "quote": "Six semester hours in biology, chemistry, computer science, and/or geological sciences; Chemistry 301 or CH 301H and the courses in the Elements of Computing Certificate Program may be counted toward this requirement; an"
         }
        },
        {
-        "type": "manual",
-        "text": "Mathematics 408C and 408D, or the equivalent; and 427J or 427K, 427L, and any three hours of upper-division math.",
-        "title": "Mathematics 408C and 408D, or the equivalent; and 427J or 427K, 427L, and any th",
+        "type": "all",
+        "title": "Mathematics 408C and 408D, or the equivalent; and 427J or 427K, 427L, and any three hours ",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408C"
+         },
+         {
+          "type": "course",
+          "course": "M 408D"
+         },
+         {
+          "type": "course",
+          "course": "M 427J"
+         },
+         {
+          "type": "course",
+          "course": "M 427K"
+         },
+         {
+          "type": "course",
+          "course": "M 427L"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
          "quote": "Mathematics 408C and 408D, or the equivalent; and 427J or 427K, 427L, and any three hours of upper-division math."
@@ -147,31 +190,64 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Astronomy 307, 352K, or 364P, 353, 358 or 376C, 375 or 376R, and three additional hours of upper-division astronomy.",
-        "title": "Astronomy 307, 352K, or 364P, 353, 358 or 376C, 375 or 376R, and three additiona",
+        "type": "all",
+        "title": "Astronomy 307, 352K, or 364P, 353, 358 or 376C, 375 or 376R, and three additional hours of",
+        "of": [
+         {
+          "type": "course",
+          "course": "AST 307"
+         },
+         {
+          "type": "course",
+          "course": "AST 352K"
+         },
+         {
+          "type": "course",
+          "course": "AST 364P"
+         },
+         {
+          "type": "course",
+          "course": "AST 353"
+         },
+         {
+          "type": "course",
+          "course": "AST 358"
+         },
+         {
+          "type": "course",
+          "course": "AST 376C"
+         },
+         {
+          "type": "course",
+          "course": "AST 375"
+         },
+         {
+          "type": "course",
+          "course": "AST 376R"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
          "quote": "Astronomy 307, 352K, or 364P, 353, 358 or 376C, 375 or 376R, and three additional hours of upper-division astronomy."
         }
        },
        {
-        "type": "manual",
-        "text": "Six additional semester hours of upper-division coursework in physics and/or astronomy and/or math.",
-        "title": "Six additional semester hours of upper-division coursework in physics and/or ast",
+        "type": "hours",
+        "hours": 6.0,
+        "title": "Six additional semester hours of upper-division coursework in physics and/or astronomy and",
+        "filter": {
+         "label": "Six additional semester hours of upper-division coursework in physics and/or ast",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
          "quote": "Six additional semester hours of upper-division coursework in physics and/or astronomy and/or math."
         }
        },
        {
-        "type": "hours",
-        "hours": 123.0,
-        "umbrella": true,
-        "title": "123 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 123 semester hours",
+        "title": "Enough additional coursework to make a total of 123 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
          "quote": "Enough additional coursework to make a total of 123 semester hours"
@@ -184,12 +260,12 @@
       "title": "Option II: Astronomy Honors",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Breadth requirement: An honors mathematics course, CH 301H, and nine additional hours of coursework chosen from honors courses in the college; credit earned by examination may not be counted toward this requirement.",
         "title": "Breadth requirement: An honors mathematics course, CH 301H, and nine additional ",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
-         "quote": "Breadth requirement: An honors mathematics course, CH 301H, and nine additional hours of coursework chosen from honors courses in the college; credit earned by examination may not be counted toward th"
+         "quote": "Breadth requirement: An honors mathematics course, CH 301H, and nine additional hours of coursework chosen from honors courses in the college; credit earned by examination may not be counted toward this requirement."
         }
        },
        {
@@ -227,61 +303,93 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Twelve semester hours of upper-division coursework in astronomy approved by the departmental honors advisor",
-        "title": "Twelve semester hours of upper-division coursework in astronomy approved by the ",
+        "type": "hours",
+        "hours": 12.0,
+        "title": "Twelve semester hours of upper-division coursework in astronomy approved by the department",
+        "filter": {
+         "label": "Twelve semester hours of upper-division coursework in astronomy approved by the ",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
          "quote": "Twelve semester hours of upper-division coursework in astronomy approved by the departmental honors advisor"
-        }
+        },
+        "umbrella": true
        },
        {
-        "type": "manual",
-        "text": "Eighteen semester hours of upper-division coursework in physics approved by the departmental honors advisor",
-        "title": "Eighteen semester hours of upper-division coursework in physics approved by the ",
+        "type": "hours",
+        "hours": 18.0,
+        "title": "Eighteen semester hours of upper-division coursework in physics approved by the department",
+        "filter": {
+         "label": "Eighteen semester hours of upper-division coursework in physics approved by the ",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
          "quote": "Eighteen semester hours of upper-division coursework in physics approved by the departmental honors advisor"
-        }
+        },
+        "umbrella": true
        },
        {
-        "type": "manual",
-        "text": "Three additional semester hours of upper-division coursework in astronomy or physics",
-        "title": "Three additional semester hours of upper-division coursework in astronomy or phy",
+        "type": "hours",
+        "hours": 3.0,
+        "title": "Three additional semester hours of upper-division coursework in astronomy or physics",
+        "filter": {
+         "label": "Three additional semester hours of upper-division coursework in astronomy or phy",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
          "quote": "Three additional semester hours of upper-division coursework in astronomy or physics"
         }
        },
        {
-        "type": "manual",
-        "text": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor",
-        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the department",
+        "type": "anyN",
+        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors ",
+        "of": [
+         {
+          "type": "course",
+          "course": "UGS 302"
+         },
+         {
+          "type": "course",
+          "course": "UGS 303"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
          "quote": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean’s Scholars Honors Program",
-        "title": "A section of Rhetoric and Writing 309S that is restricted to students in the Dea",
+        "type": "course",
+        "course": "RHE 309S",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
          "quote": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean’s Scholars Honors Program"
         }
        },
        {
-        "type": "manual",
-        "text": "Astronomy 379H and either a three-semester-hour upper-division research course approved by the departmental honors advisor or a second section of Astronomy 379H",
-        "title": "Astronomy 379H and either a three-semester-hour upper-division research course a",
+        "type": "all",
+        "title": "Astronomy 379H and either a three-semester-hour upper-division research course approved by",
+        "of": [
+         {
+          "type": "course",
+          "course": "AST 379H"
+         },
+         {
+          "type": "course",
+          "course": "AST 379H"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
          "quote": "Astronomy 379H and either a three-semester-hour upper-division research course approved by the departmental honors advisor or a second section of Astronomy 379H"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Sixteen additional hours of coursework approved by the departmental honors advisor",
         "title": "Sixteen additional hours of coursework approved by the departmental honors advis",
         "source": {
@@ -290,7 +398,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Six semester hours of coursework from the College of Liberal Arts and/or the College of Fine Arts",
         "title": "Six semester hours of coursework from the College of Liberal Arts and/or the Col",
         "source": {
@@ -299,16 +407,30 @@
         }
        },
        {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 120 semester hours",
+        "title": "Enough additional coursework to make a total of 120 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
          "quote": "Enough additional coursework to make a total of 120 semester hours"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Students in both Options must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for the degree, and a University grade point average in these courses of at least 2.00. More information about grades and the grade point average is given in the General Information C",
+        "title": "Students in both Options must fulfill both the University's General Requirements",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
+         "quote": "Students in both Options must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for"
+        }
+       },
+       {
+        "type": "note",
+        "text": "To graduate under Option II, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor, and present their research in an approved public forum, such as the college’s annual Undergraduate Research Forum. More information about the Undergraduate Research Forum is available at https://cns.utexas.edu.",
+        "title": "To graduate under Option II, students must remain in good standing in the Dean’s",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-astronomy/",
+         "quote": "To graduate under Option II, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor, and present their research in an approve"
         }
        }
       ]

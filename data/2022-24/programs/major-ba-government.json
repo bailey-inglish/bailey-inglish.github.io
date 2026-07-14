@@ -54,7 +54,7 @@
     "minGrade": "C-"
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students must take at least one upper-division course from three of the seven fields into which the department’s work is divided",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/government/"
@@ -91,7 +91,7 @@
       "course": "GOV 374N"
      },
      {
-      "type": "manual",
+      "type": "note",
       "text": "A three hour research seminar in government.",
       "title": "Research seminar"
      }
@@ -157,8 +157,51 @@
       ]
      },
      {
-      "type": "manual",
-      "text": "Six semester hours of upper-division coursework in one foreign language, excluding courses conducted in English",
+      "type": "hours",
+      "hours": 6,
+      "filter": {
+       "subjects": [
+        "ARA",
+        "ASL",
+        "BEN",
+        "CHI",
+        "CZ",
+        "DAN",
+        "DCH",
+        "FR",
+        "GER",
+        "GK",
+        "HEB",
+        "HIN",
+        "ITL",
+        "JPN",
+        "KOR",
+        "LAL",
+        "LAT",
+        "MAL",
+        "NOR",
+        "PRS",
+        "POL",
+        "POR",
+        "RUS",
+        "SAN",
+        "S C",
+        "SAL",
+        "SEL",
+        "SPN",
+        "SWA",
+        "SWE",
+        "TAM",
+        "TEL",
+        "TUR",
+        "URD",
+        "UKR",
+        "YID",
+        "YOR"
+       ],
+       "division": "upper",
+       "label": "Upper-division foreign-language coursework"
+      },
       "title": "Upper-division foreign language option"
      }
     ],

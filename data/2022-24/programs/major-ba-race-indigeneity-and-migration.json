@@ -15,41 +15,72 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Twenty-seven semester credit hours, including 15 upper-division and 18 in residence.",
-    "title": "Twenty-seven semester credit hours, including 15 upper-division and 18 in reside",
+    "type": "hours",
+    "hours": 27.0,
+    "title": "Twenty-seven semester credit hours, including 15 upper-division and 18 in residence.",
+    "filter": {
+     "label": "Twenty-seven semester credit hours, including 15 upper-division and 18 in reside",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/race-indigeneity-and-migration/",
      "quote": "Twenty-seven semester credit hours, including 15 upper-division and 18 in residence."
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "course",
-    "course": "RIM 301",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester hours of Race, Indigeneity, and Migration 301",
+    "filter": {
+     "label": "Three semester hours of Race, Indigeneity, and Migration 301",
+     "courses": [
+      "RIM 301"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/race-indigeneity-and-migration/",
      "quote": "Three semester hours of Race, Indigeneity, and Migration 301"
     }
    },
    {
-    "type": "manual",
-    "text": "Six semester hours of gateway courses: Three hours of Historical Foundations chosen from African and African Diaspora Studies 301, Asian American Studies 301, American Studies 315O, History 317L (Topic 8: Introduction to Native American Histories), Mexican American Studies 301, Women's and Gender Studies 303, or 305",
-    "title": "Six semester hours of gateway courses: Three hours of Historical Foundations cho",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six semester hours of gateway courses: Three hours of Historical Foundations chosen from A",
+    "filter": {
+     "label": "Six semester hours of gateway courses: Three hours of Historical Foundations cho",
+     "courses": [
+      "AFR 301",
+      "AAS 301",
+      "AMS 315O",
+      "HIS 317L",
+      "MAS 301",
+      "WGS 303",
+      "WGS 305"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/race-indigeneity-and-migration/",
-     "quote": "Six semester hours of gateway courses: Three hours of Historical Foundations chosen from African and African Diaspora Studies 301, Asian American Studies 301, American Studies 315O, History 317L (Topi"
+     "quote": "Six semester hours of gateway courses: Three hours of Historical Foundations chosen from African and African Diaspora Studies 301, Asian American Studies 301, American Studies 315O, History 317L (Topic 8: Introduction to"
     }
    },
    {
-    "type": "course",
-    "course": "RIM 350",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three hours of Race, Indigeneity, and Migration 350",
+    "filter": {
+     "label": "Three hours of Race, Indigeneity, and Migration 350",
+     "courses": [
+      "RIM 350"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/race-indigeneity-and-migration/",
      "quote": "Three hours of Race, Indigeneity, and Migration 350"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Nine semester hours, chosen from an approved list, in one of the following tracks. At least three of these hours must include a course that offers training in \"tools\": Critical and comparative race",
     "title": "Nine semester hours, chosen from an approved list, in one of the following track",
     "source": {
@@ -58,7 +89,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Six additional semester hours, chosen from any course offered from any of the tracks listed above",
     "title": "Six additional semester hours, chosen from any course offered from any of the tr",
     "source": {
@@ -67,14 +98,15 @@
     }
    },
    {
-    "type": "all",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three hours of the capstone course Race, Indigeneity, and Migration 378",
-    "of": [
-     {
-      "type": "course",
-      "course": "RIM 378"
-     }
-    ],
+    "filter": {
+     "label": "Three hours of the capstone course Race, Indigeneity, and Migration 378",
+     "courses": [
+      "RIM 378"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/race-indigeneity-and-migration/",
      "quote": "Three hours of the capstone course Race, Indigeneity, and Migration 378"

@@ -15,7 +15,7 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "note",
     "text": "Undergraduates seeking a Bachelor of Arts degree with a major in mathematics must choose either the standard option or the middle grades or secondary school teaching option.",
     "title": "Undergraduates seeking a Bachelor of Arts degree with a major in mathematics mus",
     "source": {
@@ -26,37 +26,17 @@
    {
     "type": "hours",
     "hours": 24.0,
-    "umbrella": true,
-    "title": "24 upper-division hours of mathematics",
+    "title": "At least 24 semester hours of upper-division coursework in mathematics. Students must earn",
     "filter": {
-     "division": "upper",
-     "subjects": [
-      "M"
-     ],
-     "label": "Upper-division mathematics"
+     "label": "At least 24 semester hours of upper-division coursework in mathematics. Students",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
-     "quote": "At least 24 semester hours of upper-division coursework in mathematics. Students must earn a grade of at least C- in each mathematics and science course required for the degree, and a University grade"
-    }
-   },
-   {
-    "type": "all",
-    "title": "One of the following sequences: Mathematics 408C* and 408D",
-    "of": [
-     {
-      "type": "course",
-      "course": "M 408C"
-     },
-     {
-      "type": "course",
-      "course": "M 408D"
-     }
-    ],
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
-     "quote": "One of the following sequences: Mathematics 408C* and 408D"
-    }
+     "quote": "At least 24 semester hours of upper-division coursework in mathematics. Students must earn a grade of at least C- in each mathematics and science course required for the degree, and a University grade point average in th"
+    },
+    "minGrade": "C-",
+    "umbrella": true
    },
    {
     "type": "all",
@@ -95,9 +75,30 @@
     }
    },
    {
-    "type": "manual",
-    "text": "*Mathematics 408N and 408S, or 408K and 408L, may substitute for 408C;",
+    "type": "all",
     "title": "*Mathematics 408N and 408S, or 408K and 408L, may substitute for 408C;",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 408N"
+     },
+     {
+      "type": "course",
+      "course": "M 408S"
+     },
+     {
+      "type": "course",
+      "course": "M 408K"
+     },
+     {
+      "type": "course",
+      "course": "M 408L"
+     },
+     {
+      "type": "course",
+      "course": "M 408C"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "*Mathematics 408N and 408S, or 408K and 408L, may substitute for 408C;"
@@ -105,7 +106,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Mathematics 340L or 341;",
     "of": [
      {
@@ -120,11 +120,11 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "Mathematics 340L or 341;"
-    }
+    },
+    "n": 1
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "One course chosen from: Mathematics 325K or 328K, 343K, or 373K;",
     "of": [
      {
@@ -147,11 +147,11 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "One course chosen from: Mathematics 325K or 328K, 343K, or 373K;"
-    }
+    },
+    "n": 1
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Mathematics 361K or 365C;",
     "of": [
      {
@@ -166,7 +166,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "Mathematics 361K or 365C;"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -177,18 +178,16 @@
     }
    },
    {
-    "type": "manual",
-    "text": "To broaden the student's training, at least one course chosen from the following: Mathematics 333L, 339J, 339U, 343L, 343M, 344K, 348, 358K, 361, 367K, 368K, 372K, 374M, 376C, 378K;",
-    "title": "To broaden the student's training, at least one course chosen from the following",
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
-     "quote": "To broaden the student's training, at least one course chosen from the following: Mathematics 333L, 339J, 339U, 343L, 343M, 344K, 348, 358K, 361, 367K, 368K, 372K, 374M, 376C, 378K;"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Nine additional hours of upper-division mathematics.",
+    "type": "hours",
+    "hours": 9.0,
     "title": "Nine additional hours of upper-division mathematics.",
+    "filter": {
+     "label": "Nine additional hours of upper-division mathematics.",
+     "subjects": [
+      "M"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "Nine additional hours of upper-division mathematics."
@@ -197,36 +196,25 @@
    {
     "type": "hours",
     "hours": 24.0,
-    "umbrella": true,
-    "title": "24 upper-division hours of mathematics",
+    "title": "At least 24 semester hours of upper-division coursework in mathematics. Students must earn",
     "filter": {
-     "division": "upper",
-     "subjects": [
-      "M"
-     ],
-     "label": "Upper-division mathematics"
+     "label": "At least 24 semester hours of upper-division coursework in mathematics. Students",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
-     "quote": "At least 24 semester hours of upper-division coursework in mathematics. Students must earn a grade of at least C- in each mathematics and science course required for the degree, and a grade point aver"
-    }
+     "quote": "At least 24 semester hours of upper-division coursework in mathematics. Students must earn a grade of at least C- in each mathematics and science course required for the degree, and a grade point average in these courses"
+    },
+    "minGrade": "C-",
+    "umbrella": true
    },
    {
-    "type": "all",
-    "title": "One of the following sequences: Mathematics 408C* and 408D",
-    "of": [
-     {
-      "type": "course",
-      "course": "M 408C"
-     },
-     {
-      "type": "course",
-      "course": "M 408D"
-     }
-    ],
+    "type": "note",
+    "text": "The teaching options are designed to give students the mathematical background appropriate for teaching middle grades and secondary school mathematics, but students must meet additional requirements, including grade point average requirements, to obtain certification. Lists of the combined requirements of the UTeach-Natural Sciences certification programs and these options are available from the U",
+    "title": "The teaching options are designed to give students the mathematical background a",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
-     "quote": "One of the following sequences: Mathematics 408C* and 408D"
+     "quote": "The teaching options are designed to give students the mathematical background appropriate for teaching middle grades and secondary school mathematics, but students must meet additional requirements, including grade poin"
     }
    },
    {
@@ -266,9 +254,30 @@
     }
    },
    {
-    "type": "manual",
-    "text": "*Mathematics 408N and 408S, or 408K and 408L, may substitute for 408C",
+    "type": "all",
     "title": "*Mathematics 408N and 408S, or 408K and 408L, may substitute for 408C",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 408N"
+     },
+     {
+      "type": "course",
+      "course": "M 408S"
+     },
+     {
+      "type": "course",
+      "course": "M 408K"
+     },
+     {
+      "type": "course",
+      "course": "M 408L"
+     },
+     {
+      "type": "course",
+      "course": "M 408C"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "*Mathematics 408N and 408S, or 408K and 408L, may substitute for 408C"
@@ -276,7 +285,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Mathematics 340L or 341",
     "of": [
      {
@@ -291,7 +299,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "Mathematics 340L or 341"
-    }
+    },
+    "n": 1
    },
    {
     "type": "all",
@@ -337,7 +346,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Mathematics 361K or 365C",
     "of": [
      {
@@ -352,11 +360,11 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "Mathematics 361K or 365C"
-    }
+    },
+    "n": 1
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Mathematics 343K or 373K",
     "of": [
      {
@@ -371,10 +379,11 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "Mathematics 343K or 373K"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students pursuing teacher certification through the UTeach-Natural Sciences program must also complete the following:",
     "title": "Students pursuing teacher certification through the UTeach-Natural Sciences prog",
     "source": {
@@ -384,7 +393,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Biology 337 (Topic 2: Research Methods: UTeach), Chemistry 368 (Topic 1: Research Methods:",
     "of": [
      {
@@ -403,11 +411,11 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "Biology 337 (Topic 2: Research Methods: UTeach), Chemistry 368 (Topic 1: Research Methods: UTeach), or Physics 341 (Topic 7: Research Methods: UTeach);"
-    }
+    },
+    "n": 1
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "History 329U or Philosophy 329U;",
     "of": [
      {
@@ -422,17 +430,19 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "History 329U or Philosophy 329U;"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "all",
+    "type": "hours",
+    "hours": 18.0,
     "title": "18 semester hours of professional development coursework consisting of: Curriculum and Ins",
-    "of": [
-     {
-      "type": "course",
-      "course": "EDC 651S"
-     }
-    ],
+    "filter": {
+     "label": "18 semester hours of professional development coursework consisting of: Curricul",
+     "courses": [
+      "EDC 651S"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "18 semester hours of professional development coursework consisting of: Curriculum and Instruction 651S"
@@ -440,7 +450,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Curriculum and Instruction 365C or UTeach-Natural Sciences 350",
     "of": [
      {
@@ -455,11 +464,11 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "Curriculum and Instruction 365C or UTeach-Natural Sciences 350"
-    }
+    },
+    "n": 1
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Curriculum and Instruction 365D or UTeach-Natural Sciences 355",
     "of": [
      {
@@ -474,11 +483,11 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "Curriculum and Instruction 365D or UTeach-Natural Sciences 355"
-    }
+    },
+    "n": 1
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Curriculum and Instruction 365E or UTeach-Natural Sciences 360",
     "of": [
      {
@@ -493,7 +502,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "Curriculum and Instruction 365E or UTeach-Natural Sciences 360"
-    }
+    },
+    "n": 1
    },
    {
     "type": "all",
@@ -518,12 +528,21 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "For students seeking middle grades certification, the following courses: Educational Psychology 350G, or Psychology 301 and 304; and Curriculum and Instruction 339E",
     "title": "For students seeking middle grades certification, the following courses: Educati",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
      "quote": "For students seeking middle grades certification, the following courses: Educational Psychology 350G, or Psychology 301 and 304; and Curriculum and Instruction 339E"
+    }
+   },
+   {
+    "type": "note",
+    "text": "To graduate and be recommended for certification, students who follow the teaching option must have a University grade point average of at least 2.50. They must earn a grade of at least C- in the supporting course in requirement eight and in each of the professional development courses listed in requirement nine and must pass the final teaching portfolio review; those seeking middle grades certifi",
+    "title": "To graduate and be recommended for certification, students who follow the teachi",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/mathematics/",
+     "quote": "To graduate and be recommended for certification, students who follow the teaching option must have a University grade point average of at least 2.50. They must earn a grade of at least C- in the supporting course in req"
     }
    }
   ]

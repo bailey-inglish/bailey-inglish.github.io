@@ -15,50 +15,65 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Thirty semester credit hours, including at least 15 hour of upper-division coursework, consisting of:",
-    "title": "Thirty semester credit hours, including at least 15 hour of upper-division cours",
+    "type": "hours",
+    "hours": 30.0,
+    "title": "Thirty semester credit hours, including at least 15 hour of upper-division coursework, con",
+    "filter": {
+     "label": "Thirty semester credit hours, including at least 15 hour of upper-division cours",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/health-and-society/",
      "quote": "Thirty semester credit hours, including at least 15 hour of upper-division coursework, consisting of:"
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "all",
-    "title": "Health and Society 301, Introduction to Health and Society",
-    "of": [
-     {
-      "type": "course",
-      "course": "H S 301"
-     }
-    ],
+    "type": "course",
+    "course": "H S 301",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/health-and-society/",
      "quote": "Health and Society 301, Introduction to Health and Society"
     }
    },
    {
-    "type": "manual",
-    "text": "Health and Society 302, Current Approaches to Health and Society",
-    "title": "Health and Society 302, Current Approaches to Health and Society",
+    "type": "course",
+    "course": "H S 302",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/health-and-society/",
      "quote": "Health and Society 302, Current Approaches to Health and Society"
     }
    },
    {
-    "type": "manual",
-    "text": "Three semester hours of methods and statistics: Statistics and Data Sciences 301, 302F, or a course chosen from an approved list.",
-    "title": "Three semester hours of methods and statistics: Statistics and Data Sciences 301",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester hours of methods and statistics: Statistics and Data Sciences 301, 302F, or",
+    "filter": {
+     "label": "Three semester hours of methods and statistics: Statistics and Data Sciences 301",
+     "courses": [
+      "SDS 301",
+      "SDS 302F"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/health-and-society/",
      "quote": "Three semester hours of methods and statistics: Statistics and Data Sciences 301, 302F, or a course chosen from an approved list."
     }
    },
    {
-    "type": "manual",
-    "text": "Three semester hours of social justice and health: Health and Society 341, Philosophy 325M, 325E, Nursing 321, Social Work 325, or a course chosen from an approved list.",
-    "title": "Three semester hours of social justice and health: Health and Society 341, Philo",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester hours of social justice and health: Health and Society 341, Philosophy 325M",
+    "filter": {
+     "label": "Three semester hours of social justice and health: Health and Society 341, Philo",
+     "courses": [
+      "H S 341",
+      "PHL 325M",
+      "PHL 325E",
+      "N 321",
+      "S W 325"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/health-and-society/",
      "quote": "Three semester hours of social justice and health: Health and Society 341, Philosophy 325M, 325E, Nursing 321, Social Work 325, or a course chosen from an approved list."
@@ -73,45 +88,93 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Three semester hours of individual health & health behavior: Health and Society 310P, 340 (Topic 9: Valuing Mental Health), 340 or a course chosen from an approved list.",
-    "title": "Three semester hours of individual health & health behavior: Health and Society ",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester hours of individual health & health behavior: Health and Society 310P, 340 ",
+    "filter": {
+     "label": "Three semester hours of individual health & health behavior: Health and Society ",
+     "courses": [
+      "H S 310P",
+      "H S 340",
+      "H S 340"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/health-and-society/",
      "quote": "Three semester hours of individual health & health behavior: Health and Society 310P, 340 (Topic 9: Valuing Mental Health), 340 or a course chosen from an approved list."
     }
    },
    {
-    "type": "manual",
-    "text": "Three semester hours of global health & population health: Health and Society 340, Sociology 369K, or a course chosen from an approved list.",
-    "title": "Three semester hours of global health & population health: Health and Society 34",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester hours of global health & population health: Health and Society 340, Sociolo",
+    "filter": {
+     "label": "Three semester hours of global health & population health: Health and Society 34",
+     "courses": [
+      "H S 340",
+      "SOC 369K"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/health-and-society/",
      "quote": "Three semester hours of global health & population health: Health and Society 340, Sociology 369K, or a course chosen from an approved list."
     }
    },
    {
-    "type": "manual",
-    "text": "Three semester hours of health care policy & economics: Health and Society 330, 341C, 340 (Topic 7: Contemporary Practice of Medicine), 340 (Topic 8: Economic Sociology of Health), or a course chosen from an approved list.",
-    "title": "Three semester hours of health care policy & economics: Health and Society 330, ",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester hours of health care policy & economics: Health and Society 330, 341C, 340 ",
+    "filter": {
+     "label": "Three semester hours of health care policy & economics: Health and Society 330, ",
+     "courses": [
+      "H S 330",
+      "H S 341C",
+      "H S 340",
+      "H S 340"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/health-and-society/",
-     "quote": "Three semester hours of health care policy & economics: Health and Society 330, 341C, 340 (Topic 7: Contemporary Practice of Medicine), 340 (Topic 8: Economic Sociology of Health), or a course chosen "
+     "quote": "Three semester hours of health care policy & economics: Health and Society 330, 341C, 340 (Topic 7: Contemporary Practice of Medicine), 340 (Topic 8: Economic Sociology of Health), or a course chosen from an approved lis"
     }
    },
    {
-    "type": "manual",
-    "text": "Three semester hours of social & cultural context of health: Anthropology 324L, Classical Civilization 340, History 322M, Philosophy 322, Sociology 336D, 354K, or a course chosen from an approved list.",
-    "title": "Three semester hours of social & cultural context of health: Anthropology 324L, ",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester hours of social & cultural context of health: Anthropology 324L, Classical ",
+    "filter": {
+     "label": "Three semester hours of social & cultural context of health: Anthropology 324L, ",
+     "courses": [
+      "ANT 324L",
+      "C C 340",
+      "HIS 322M",
+      "PHL 322",
+      "SOC 336D",
+      "SOC 354K"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/health-and-society/",
-     "quote": "Three semester hours of social & cultural context of health: Anthropology 324L, Classical Civilization 340, History 322M, Philosophy 322, Sociology 336D, 354K, or a course chosen from an approved list"
+     "quote": "Three semester hours of social & cultural context of health: Anthropology 324L, Classical Civilization 340, History 322M, Philosophy 322, Sociology 336D, 354K, or a course chosen from an approved list."
     }
    },
    {
-    "type": "manual",
-    "text": "Health and Society 378, Seminar in Health and Society; or, for students seeking special honors, Health and Society 679HA and 679HB, Honors Tutorial Course",
-    "title": "Health and Society 378, Seminar in Health and Society; or, for students seeking ",
+    "type": "all",
+    "title": "Health and Society 378, Seminar in Health and Society; or, for students seeking special ho",
+    "of": [
+     {
+      "type": "course",
+      "course": "H S 378"
+     },
+     {
+      "type": "course",
+      "course": "H S 679HA"
+     },
+     {
+      "type": "course",
+      "course": "H S 679HB"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/health-and-society/",
      "quote": "Health and Society 378, Seminar in Health and Society; or, for students seeking special honors, Health and Society 679HA and 679HB, Honors Tutorial Course"

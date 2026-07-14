@@ -15,63 +15,90 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Thirty semester hours of coursework in women’s and gender studies, 18 hours of which must be upper-division. It is recommended that six semester hours be taken in women’s and gender studies courses originating from outside the College of Liberal Arts. The 30 required semester hours must include the following:",
-    "title": "Thirty semester hours of coursework in women’s and gender studies, 18 hours of w",
+    "type": "hours",
+    "hours": 30.0,
+    "title": "Thirty semester hours of coursework in women’s and gender studies, 18 hours of which must ",
+    "filter": {
+     "label": "Thirty semester hours of coursework in women’s and gender studies, 18 hours of w",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
-     "quote": "Thirty semester hours of coursework in women’s and gender studies, 18 hours of which must be upper-division. It is recommended that six semester hours be taken in women’s and gender studies courses or"
-    }
+     "quote": "Thirty semester hours of coursework in women’s and gender studies, 18 hours of which must be upper-division. It is recommended that six semester hours be taken in women’s and gender studies courses originating from outsi"
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "Women's and Gender Studies 301, Introductory Topics in Women's and Gender Studies or Women's and Gender Studies 305, Introduction to Women's and Gender Studies",
-    "title": "Women's and Gender Studies 301, Introductory Topics in Women's and Gender Studie",
+    "type": "all",
+    "title": "Women's and Gender Studies 301, Introductory Topics in Women's and Gender Studies or Women",
+    "of": [
+     {
+      "type": "course",
+      "course": "WGS 301"
+     },
+     {
+      "type": "course",
+      "course": "WGS 305"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
      "quote": "Women's and Gender Studies 301, Introductory Topics in Women's and Gender Studies or Women's and Gender Studies 305, Introduction to Women's and Gender Studies"
     }
    },
    {
-    "type": "manual",
-    "text": "Women's and Gender Studies 340, Cross-Cultural Topics in Women's and Gender Studies",
-    "title": "Women's and Gender Studies 340, Cross-Cultural Topics in Women's and Gender Stud",
+    "type": "course",
+    "course": "WGS 340",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
      "quote": "Women's and Gender Studies 340, Cross-Cultural Topics in Women's and Gender Studies"
     }
    },
    {
-    "type": "manual",
-    "text": "Three semester credit hours, chosen from a topic of Women's and Gender Studies 340 different from the one used for 2, above, or Women's and Gender Studies 335",
-    "title": "Three semester credit hours, chosen from a topic of Women's and Gender Studies 3",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester credit hours, chosen from a topic of Women's and Gender Studies 340 differe",
+    "filter": {
+     "label": "Three semester credit hours, chosen from a topic of Women's and Gender Studies 3",
+     "courses": [
+      "WGS 340",
+      "WGS 335"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
      "quote": "Three semester credit hours, chosen from a topic of Women's and Gender Studies 340 different from the one used for 2, above, or Women's and Gender Studies 335"
     }
    },
    {
-    "type": "manual",
-    "text": "Women's and Gender Studies 350, Feminist Theory, or another feminist theory course chosen from a list of courses approved by the Center for Women’s and Gender Studies",
-    "title": "Women's and Gender Studies 350, Feminist Theory, or another feminist theory cour",
+    "type": "course",
+    "course": "WGS 350",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
      "quote": "Women's and Gender Studies 350, Feminist Theory, or another feminist theory course chosen from a list of courses approved by the Center for Women’s and Gender Studies"
     }
    },
    {
-    "type": "manual",
-    "text": "Women's and Gender Studies 356, Introduction to Feminist Research Methods, or another research methods course chosen from a list of courses approved by the Center for Women’s and Gender Studies",
-    "title": "Women's and Gender Studies 356, Introduction to Feminist Research Methods, or an",
+    "type": "course",
+    "course": "WGS 356",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
      "quote": "Women's and Gender Studies 356, Introduction to Feminist Research Methods, or another research methods course chosen from a list of courses approved by the Center for Women’s and Gender Studies"
     }
    },
    {
-    "type": "manual",
-    "text": "Women's and Gender Studies 379L, Internship in Women's and Gender Studies, or Women's and Gender Studies 360, Research and Thesis in Women's and Gender Studies",
-    "title": "Women's and Gender Studies 379L, Internship in Women's and Gender Studies, or Wo",
+    "type": "all",
+    "title": "Women's and Gender Studies 379L, Internship in Women's and Gender Studies, or Women's and ",
+    "of": [
+     {
+      "type": "course",
+      "course": "WGS 379L"
+     },
+     {
+      "type": "course",
+      "course": "WGS 360"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
      "quote": "Women's and Gender Studies 379L, Internship in Women's and Gender Studies, or Women's and Gender Studies 360, Research and Thesis in Women's and Gender Studies"
@@ -86,17 +113,78 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Nine additional hours women's and gender studies, including six upper-division",
+    "type": "hours",
+    "hours": 9.0,
     "title": "Nine additional hours women's and gender studies, including six upper-division",
+    "filter": {
+     "label": "Nine additional hours women's and gender studies, including six upper-division",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
      "quote": "Nine additional hours women's and gender studies, including six upper-division"
+    }
+   },
+   {
+    "type": "note",
+    "text": "60 hours of completed coursework, including timely progress in the Core Curriculum/College of Liberal Arts and WGS major requirements",
+    "title": "60 hours of completed coursework, including timely progress in the Core Curricul",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
+     "quote": "60 hours of completed coursework, including timely progress in the Core Curriculum/College of Liberal Arts and WGS major requirements"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Meeting with WGS Undergraduate Advisor for appropriate paperwork to participate in the program every semester",
+    "title": "Meeting with WGS Undergraduate Advisor for appropriate paperwork to participate ",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
+     "quote": "Meeting with WGS Undergraduate Advisor for appropriate paperwork to participate in the program every semester"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Consent of the department’s undergraduate WGS academic advisor and graduate advisor",
+    "title": "Consent of the department’s undergraduate WGS academic advisor and graduate advi",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
+     "quote": "Consent of the department’s undergraduate WGS academic advisor and graduate advisor"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Consent of the associate dean for student affairs",
+    "title": "Consent of the associate dean for student affairs",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
+     "quote": "Consent of the associate dean for student affairs"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Interested students should contact the Undergraduate Academic Advisor in WGS before the end of their Sophomore year (if possible) to determine eligibility.",
+    "title": "Interested students should contact the Undergraduate Academic Advisor in WGS bef",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
+     "quote": "Interested students should contact the Undergraduate Academic Advisor in WGS before the end of their Sophomore year (if possible) to determine eligibility."
+    }
+   },
+   {
+    "type": "note",
+    "text": "If you are a current UT Austin student and would like to schedule an appointment with the WGS Undergraduate Academic Advisor, please use https://calendly.com/ajsalcedo to find a day and time that work for you.",
+    "title": "If you are a current UT Austin student and would like to schedule an appointment",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/womens-and-gender-studies/",
+     "quote": "If you are a current UT Austin student and would like to schedule an appointment with the WGS Undergraduate Academic Advisor, please use https://calendly.com/ajsalcedo to find a day and time that work for you."
     }
    }
   ]
  },
  "auto": true,
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
- "degreeType": "BA"
+ "degreeType": "BA",
+ "majorSubjects": [
+  "WGS"
+ ]
 }

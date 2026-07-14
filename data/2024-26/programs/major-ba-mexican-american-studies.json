@@ -15,25 +15,29 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Twenty-seven semester credit hours in Mexican American and Latina/o Studies, including 18 hours upper-division and 18 hours in residence. The following courses are required:",
-    "title": "Twenty-seven semester credit hours in Mexican American and Latina/o Studies, inc",
+    "type": "hours",
+    "hours": 27.0,
+    "title": "Twenty-seven semester credit hours in Mexican American and Latina/o Studies, including 18 ",
+    "filter": {
+     "label": "Twenty-seven semester credit hours in Mexican American and Latina/o Studies, inc",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/",
      "quote": "Twenty-seven semester credit hours in Mexican American and Latina/o Studies, including 18 hours upper-division and 18 hours in residence. The following courses are required:"
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "Mexican American Studies 301, Introduction to Mexican American and Latina/o Studies",
-    "title": "Mexican American Studies 301, Introduction to Mexican American and Latina/o Stud",
+    "type": "course",
+    "course": "MAS 301",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/",
      "quote": "Mexican American Studies 301, Introduction to Mexican American and Latina/o Studies"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Six semester credit hours of lower-division Mexican American and Latina/o Studies",
     "title": "Six semester credit hours of lower-division Mexican American and Latina/o Studie",
     "source": {
@@ -42,13 +46,18 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Twelve semester credit hours of upper-division Mexican American and Latina/o Studies",
-    "title": "Twelve semester credit hours of upper-division Mexican American and Latina/o Stu",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve semester credit hours of upper-division Mexican American and Latina/o Studies",
+    "filter": {
+     "label": "Twelve semester credit hours of upper-division Mexican American and Latina/o Stu",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/",
      "quote": "Twelve semester credit hours of upper-division Mexican American and Latina/o Studies"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "course",
@@ -59,153 +68,20 @@
     }
    },
    {
-    "type": "all",
-    "title": "Completion of one of the following is required. Mexican American Studies 375, Internship",
-    "of": [
-     {
-      "type": "course",
-      "course": "MAS 375"
-     }
-    ],
+    "type": "course",
+    "course": "MAS 375",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/",
      "quote": "Completion of one of the following is required. Mexican American Studies 375, Internship"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students majoring in Mexican American and Latina/o Studies must achieve, at a minimum, an intermediate level of proficiency in Spanish, Portuguese, or a relevant Indigenous language.",
     "title": "Students majoring in Mexican American and Latina/o Studies must achieve, at a mi",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/",
      "quote": "Students majoring in Mexican American and Latina/o Studies must achieve, at a minimum, an intermediate level of proficiency in Spanish, Portuguese, or a relevant Indigenous language."
-    }
-   },
-   {
-    "type": "all",
-    "title": "Curriculum (from suggested course arrangement)",
-    "of": [
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "UGS 302",
-      "of": [
-       {
-        "type": "course",
-        "course": "UGS 302",
-        "title": "UGS 302",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "UGS 303"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "RHE 306",
-      "title": "RHE 306",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "MAS 301",
-      "title": "MAS 301",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "E 316L",
-      "of": [
-       {
-        "type": "course",
-        "course": "E 316L",
-        "title": "E 316L",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "E 316M"
-       },
-       {
-        "type": "course",
-        "course": "E 316N"
-       },
-       {
-        "type": "course",
-        "course": "E 316P"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "GOV 310L",
-      "title": "GOV 310L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "GOV 312L",
-      "title": "GOV 312L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "course",
-      "course": "MAS 375",
-      "title": "MAS 375",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "MAS 378",
-      "title": "MAS 378",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Upper-division elective (Elective)",
-      "title": "Upper-division elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/",
-       "quote": "Upper-division elective (Elective)"
-      }
-     }
-    ],
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/"
     }
    }
   ]

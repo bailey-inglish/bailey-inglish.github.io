@@ -15,16 +15,21 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Twenty-four semester hours of Asian studies coursework, at least 18 of which must be upper-division, in one of the two areas of specialization listed below. Students specializing in East Asia must choose either the general track or the Taiwan track. No more than six hours of internship coursework may be counted toward the major. Courses counted toward the foreign language requirement may not also be counted toward the major unless otherwise noted. A list of courses that fulfill the requirements of the areas of specialization is available in the Department of Asian Studies.",
-    "title": "Twenty-four semester hours of Asian studies coursework, at least 18 of which mus",
+    "type": "hours",
+    "hours": 24.0,
+    "title": "Twenty-four semester hours of Asian studies coursework, at least 18 of which must be upper",
+    "filter": {
+     "label": "Twenty-four semester hours of Asian studies coursework, at least 18 of which mus",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-studies/",
-     "quote": "Twenty-four semester hours of Asian studies coursework, at least 18 of which must be upper-division, in one of the two areas of specialization listed below. Students specializing in East Asia must cho"
-    }
+     "quote": "Twenty-four semester hours of Asian studies coursework, at least 18 of which must be upper-division, in one of the two areas of specialization listed below. Students specializing in East Asia must choose either the gener"
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "East Asia General track At least three semester hours of coursework in East Asian history",
     "title": "East Asia General track At least three semester hours of coursework in East Asia",
     "source": {
@@ -41,16 +46,21 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Fifteen additional semester hours in Asian studies courses related to East Asia, preferably in more than one East Asian cultural area. Six semester hours of upper-division coursework in Chinese, Japanese, or Korean language may be counted toward this requirement.",
-    "title": "Fifteen additional semester hours in Asian studies courses related to East Asia,",
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Fifteen additional semester hours in Asian studies courses related to East Asia, preferabl",
+    "filter": {
+     "label": "Fifteen additional semester hours in Asian studies courses related to East Asia,",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-studies/",
-     "quote": "Fifteen additional semester hours in Asian studies courses related to East Asia, preferably in more than one East Asian cultural area. Six semester hours of upper-division coursework in Chinese, Japan"
-    }
+     "quote": "Fifteen additional semester hours in Asian studies courses related to East Asia, preferably in more than one East Asian cultural area. Six semester hours of upper-division coursework in Chinese, Japanese, or Korean langu"
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Taiwan track At least three semester hours of coursework in Taiwanese history",
     "title": "Taiwan track At least three semester hours of coursework in Taiwanese history",
     "source": {
@@ -67,16 +77,21 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Fifteen additional semester hours in Asian studies courses related to East Asia, including at least six hours related to Taiwan, three hours related to China, three hours related to Japan, and three hours in upper-division Asian studies courses related to East Asia or in upper-division Chinese language courses",
-    "title": "Fifteen additional semester hours in Asian studies courses related to East Asia,",
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Fifteen additional semester hours in Asian studies courses related to East Asia, including",
+    "filter": {
+     "label": "Fifteen additional semester hours in Asian studies courses related to East Asia,",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-studies/",
-     "quote": "Fifteen additional semester hours in Asian studies courses related to East Asia, including at least six hours related to Taiwan, three hours related to China, three hours related to Japan, and three h"
-    }
+     "quote": "Fifteen additional semester hours in Asian studies courses related to East Asia, including at least six hours related to Taiwan, three hours related to China, three hours related to Japan, and three hours in upper-divisi"
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "South Asia At least three semester hours of coursework in South Asian history",
     "title": "South Asia At least three semester hours of coursework in South Asian history",
     "source": {
@@ -93,13 +108,18 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Fifteen additional semester hours in Asian studies courses related to South Asia. Six semester hours of upper-division coursework in Bengali, Hindi, Malayalam, Pashto, Sanskrit, Tamil, Telugu, or Urdu language may be counted toward this requirement.",
-    "title": "Fifteen additional semester hours in Asian studies courses related to South Asia",
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Fifteen additional semester hours in Asian studies courses related to South Asia. Six seme",
+    "filter": {
+     "label": "Fifteen additional semester hours in Asian studies courses related to South Asia",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-studies/",
-     "quote": "Fifteen additional semester hours in Asian studies courses related to South Asia. Six semester hours of upper-division coursework in Bengali, Hindi, Malayalam, Pashto, Sanskrit, Tamil, Telugu, or Urdu"
-    }
+     "quote": "Fifteen additional semester hours in Asian studies courses related to South Asia. Six semester hours of upper-division coursework in Bengali, Hindi, Malayalam, Pashto, Sanskrit, Tamil, Telugu, or Urdu language may be cou"
+    },
+    "umbrella": true
    }
   ]
  },

@@ -15,17 +15,16 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "note",
     "text": "The ethnic studies program is administered by the Center for Asian American Studies. The director and executive committee of this center advises students, prescribes groups of courses that fulfill content requirements, and authorizes course substitutions when appropriate. Students majoring in ethnic studies must meet the requirements of the concentration as outlined below.",
     "title": "The ethnic studies program is administered by the Center for Asian American Stud",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/ethnic-studies/",
-     "quote": "The ethnic studies program is administered by the Center for Asian American Studies. The director and executive committee of this center advises students, prescribes groups of courses that fulfill con"
+     "quote": "The ethnic studies program is administered by the Center for Asian American Studies. The director and executive committee of this center advises students, prescribes groups of courses that fulfill content requirements, a"
     }
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Asian American Studies 301 or 312.",
     "of": [
      {
@@ -40,11 +39,19 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/ethnic-studies/",
      "quote": "Asian American Studies 301 or 312."
-    }
+    },
+    "n": 1
    },
    {
-    "type": "course",
-    "course": "AAS 310",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester credit hours, chosen from one of the following: Asian American Studies 310",
+    "filter": {
+     "label": "Three semester credit hours, chosen from one of the following: Asian American St",
+     "courses": [
+      "AAS 310"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/ethnic-studies/",
      "quote": "Three semester credit hours, chosen from one of the following: Asian American Studies 310"
@@ -59,13 +66,21 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Fifteen semester hours, of upper-division coursework in Asian American Studies, divided between at least two of the following tracks (Courses in each track are available at the Center for Asian American Studies): Culture, Literature, and Media Studies",
-    "title": "Fifteen semester hours, of upper-division coursework in Asian American Studies, ",
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Fifteen semester hours, of upper-division coursework in Asian American Studies, divided be",
+    "filter": {
+     "label": "Fifteen semester hours, of upper-division coursework in Asian American Studies, ",
+     "subjects": [
+      "AAS"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/ethnic-studies/",
-     "quote": "Fifteen semester hours, of upper-division coursework in Asian American Studies, divided between at least two of the following tracks (Courses in each track are available at the Center for Asian Americ"
-    }
+     "quote": "Fifteen semester hours, of upper-division coursework in Asian American Studies, divided between at least two of the following tracks (Courses in each track are available at the Center for Asian American Studies): Culture"
+    },
+    "umbrella": true
    },
    {
     "type": "course",

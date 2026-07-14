@@ -36,7 +36,7 @@ function Shell() {
       <div className="disclaimer">
         Unofficial planning tool — not affiliated with UT Austin. Your official degree audit
         (IDA) and academic advisor are authoritative. Data is parsed from the public UT
-        catalogs and may contain errors; items marked “manual check” need your own review.
+        catalogs and may contain errors; always confirm against the linked catalog page.
       </div>
       <main>
         <Routes>

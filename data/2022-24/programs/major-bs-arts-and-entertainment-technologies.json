@@ -14,25 +14,42 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Writing: two flagged courses beyond Rhetoric and Writing 306 or its equivalent",
-    "title": "Writing: two flagged courses beyond Rhetoric and Writing 306 or its equivalent",
+    "type": "note",
+    "text": "All students must complete the University’s Core Curriculum. In the process of fulfilling the core curriculum and other degree requirements, all students are expected to complete the Skills and Experience flags:",
+    "title": "All students must complete the University’s Core Curriculum. In the process of f",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/fine-arts/degrees-and-programs/bs-arts-and-entertainment-technologies/",
+     "quote": "All students must complete the University’s Core Curriculum. In the process of fulfilling the core curriculum and other degree requirements, all students are expected to complete the Skills and Experience flags:"
+    }
+   },
+   {
+    "type": "course",
+    "course": "RHE 306",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/fine-arts/degrees-and-programs/bs-arts-and-entertainment-technologies/",
      "quote": "Writing: two flagged courses beyond Rhetoric and Writing 306 or its equivalent"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
+    "text": "Courses that may be used to fulfill core curriculum and flag requirements are identified in the Course Schedule. They may be used simultaneously to fulfill other requirements, unless otherwise specified. Please note, students may not earn the cultural diversity and global cultures flags from the same course. Students are encouraged to discuss options with a departmental academic advisor.",
+    "title": "Courses that may be used to fulfill core curriculum and flag requirements are id",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/fine-arts/degrees-and-programs/bs-arts-and-entertainment-technologies/",
+     "quote": "Courses that may be used to fulfill core curriculum and flag requirements are identified in the Course Schedule. They may be used simultaneously to fulfill other requirements, unless otherwise specified. Please note, stu"
+    }
+   },
+   {
+    "type": "note",
     "text": "Foundations: 18 semester hours, consisting of the following courses: Arts and Entertainment Technologies 304 and 310; and twelve semester hours of lower-division coursework in Arts and Entertainment Technologies.",
     "title": "Foundations: 18 semester hours, consisting of the following courses: Arts and En",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/fine-arts/degrees-and-programs/bs-arts-and-entertainment-technologies/",
-     "quote": "Foundations: 18 semester hours, consisting of the following courses: Arts and Entertainment Technologies 304 and 310; and twelve semester hours of lower-division coursework in Arts and Entertainment T"
+     "quote": "Foundations: 18 semester hours, consisting of the following courses: Arts and Entertainment Technologies 304 and 310; and twelve semester hours of lower-division coursework in Arts and Entertainment Technologies."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Advanced coursework: 33 upper-division semester hours chosen from Arts and Entertainment Technologies with approval of advisor.",
     "title": "Advanced coursework: 33 upper-division semester hours chosen from Arts and Enter",
     "source": {
@@ -41,25 +58,56 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Capstone or Senior Design Project: six semester hours chosen from Arts and Entertainment Technologies 372, 373, 376, or 377",
-    "title": "Capstone or Senior Design Project: six semester hours chosen from Arts and Enter",
+    "type": "anyN",
+    "title": "Capstone or Senior Design Project: six semester hours chosen from Arts and Entertainment T",
+    "of": [
+     {
+      "type": "course",
+      "course": "AET 372"
+     },
+     {
+      "type": "course",
+      "course": "AET 373"
+     },
+     {
+      "type": "course",
+      "course": "AET 376"
+     },
+     {
+      "type": "course",
+      "course": "AET 377"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/fine-arts/degrees-and-programs/bs-arts-and-entertainment-technologies/",
      "quote": "Capstone or Senior Design Project: six semester hours chosen from Arts and Entertainment Technologies 372, 373, 376, or 377"
+    },
+    "n": 1
+   },
+   {
+    "type": "course",
+    "course": "AET 304",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/fine-arts/degrees-and-programs/bs-arts-and-entertainment-technologies/",
+     "quote": "Arts and Entertainment Technologies 304 is also approved to fulfill the visual and performing arts requirement of the core curriculum."
     }
    },
    {
-    "type": "manual",
-    "text": "Twenty-four semester hours, of which at least nine must be upper-division. Additional elective coursework may be needed to provide the total number of semester hours required for the degree.",
-    "title": "Twenty-four semester hours, of which at least nine must be upper-division. Addit",
+    "type": "hours",
+    "hours": 24.0,
+    "title": "Twenty-four semester hours, of which at least nine must be upper-division. Additional elec",
+    "filter": {
+     "label": "Twenty-four semester hours, of which at least nine must be upper-division. Addit",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/fine-arts/degrees-and-programs/bs-arts-and-entertainment-technologies/",
      "quote": "Twenty-four semester hours, of which at least nine must be upper-division. Additional elective coursework may be needed to provide the total number of semester hours required for the degree."
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "For the Bachelor of Science in Arts and Entertainment Technologies: 120 semester hours as outlined above.",
     "title": "For the Bachelor of Science in Arts and Entertainment Technologies: 120 semester",
     "source": {
@@ -71,5 +119,8 @@
  },
  "auto": true,
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
- "degreeType": "BS"
+ "degreeType": "BS",
+ "majorSubjects": [
+  "AET"
+ ]
 }

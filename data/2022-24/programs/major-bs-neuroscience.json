@@ -15,28 +15,44 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "The Bachelor of Science degree in Neuroscience provides a strong foundation in the core sciences and related mathematical disciplines, along with the opportunity for training in biology, chemistry, computer science, mathematics, physics, or psychology. Distinctive features of the program include an emphasis on developing the quantitative, statistical, mathematical, and computational skills required in neuroscience, and meaningful hands-on laboratory experience.",
+    "type": "note",
+    "text": "The Bachelor of Science degree in Neuroscience provides a strong foundation in the core sciences and related mathematical disciplines, along with the opportunity for training in biology, chemistry, computer science, mathematics, physics, or psychology. Distinctive features of the program include an emphasis on developing the quantitative, statistical, mathematical, and computational skills require",
     "title": "The Bachelor of Science degree in Neuroscience provides a strong foundation in t",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
-     "quote": "The Bachelor of Science degree in Neuroscience provides a strong foundation in the core sciences and related mathematical disciplines, along with the opportunity for training in biology, chemistry, co"
+     "quote": "The Bachelor of Science degree in Neuroscience provides a strong foundation in the core sciences and related mathematical disciplines, along with the opportunity for training in biology, chemistry, computer science, math"
+    }
+   },
+   {
+    "type": "course",
+    "course": "RHE 306",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
+     "quote": "Skills and experience flags: a. Writing: two flagged courses beyond Rhetoric and Writing 306 or its equivalent, including one at the upper-division level b. Quantitative reasoning: one flagged course c. Global cultures: "
+    }
+   },
+   {
+    "type": "note",
+    "text": "Courses that may be used to fulfill flag requirements are identified in the Course Schedule. They may be used simultaneously to fulfill other requirements, unless otherwise specified. Please note, students may not earn the cultural diversity in the United States and the global cultures flags from the same course. Students are encouraged to discuss options with their academic advisors.",
+    "title": "Courses that may be used to fulfill flag requirements are identified in the Cour",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
+     "quote": "Courses that may be used to fulfill flag requirements are identified in the Course Schedule. They may be used simultaneously to fulfill other requirements, unless otherwise specified. Please note, students may not earn t"
     }
    },
    {
     "type": "hours",
     "hours": 21.0,
-    "umbrella": true,
-    "title": "21 upper-division hours",
+    "title": "At least 21 semester hours of upper-division coursework, including 18 semester hours in bi",
     "filter": {
-     "division": "upper",
-     "label": "Upper-division coursework"
+     "label": "At least 21 semester hours of upper-division coursework, including 18 semester h",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
-     "quote": "At least 21 semester hours of upper-division coursework, including 18 semester hours in biology and neuroscience, must be completed in residence at the University. All students must complete at least "
+     "quote": "At least 21 semester hours of upper-division coursework, including 18 semester hours in biology and neuroscience, must be completed in residence at the University. All students must complete at least 36 semester hours of"
     },
-    "inResidence": true
+    "umbrella": true
    },
    {
     "type": "anyN",
@@ -48,21 +64,33 @@
       "title": "Option I: Neuroscience Scholars",
       "of": [
        {
-        "type": "manual",
-        "text": "Mathematics 408C, or 408N or 408R and 408S; Statistics and Data Sciences 320E",
+        "type": "all",
         "title": "Mathematics 408C, or 408N or 408R and 408S; Statistics and Data Sciences 320E",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408C"
+         },
+         {
+          "type": "course",
+          "course": "M 408N"
+         },
+         {
+          "type": "course",
+          "course": "M 408R"
+         },
+         {
+          "type": "course",
+          "course": "M 408S"
+         },
+         {
+          "type": "course",
+          "course": "SDS 320E"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Mathematics 408C, or 408N or 408R and 408S; Statistics and Data Sciences 320E"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "An eight hour physics sequence chosen from the following: Physics 317K, 105M, 317L, and 105N",
-        "title": "An eight hour physics sequence chosen from the following: Physics 317K, 105M, 31",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
-         "quote": "An eight hour physics sequence chosen from the following: Physics 317K, 105M, 317L, and 105N"
         }
        },
        {
@@ -118,36 +146,98 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Chemistry 301 or 301C, 302 or 302C, and 204",
+        "type": "all",
         "title": "Chemistry 301 or 301C, 302 or 302C, and 204",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 301"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "CH 302"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         },
+         {
+          "type": "course",
+          "course": "CH 204"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Chemistry 301 or 301C, 302 or 302C, and 204"
         }
        },
        {
-        "type": "manual",
-        "text": "Biology 311C and 311D, or 315H and 325H, and 206L",
+        "type": "all",
         "title": "Biology 311C and 311D, or 315H and 325H, and 206L",
+        "of": [
+         {
+          "type": "course",
+          "course": "BIO 311C"
+         },
+         {
+          "type": "course",
+          "course": "BIO 311D"
+         },
+         {
+          "type": "course",
+          "course": "BIO 315H"
+         },
+         {
+          "type": "course",
+          "course": "BIO 325H"
+         },
+         {
+          "type": "course",
+          "course": "BIO 206L"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Biology 311C and 311D, or 315H and 325H, and 206L"
         }
        },
        {
-        "type": "manual",
-        "text": "Three additional majors-level courses selected from one of the following sequences: Biology: Biology 325 or 325H, 320, 344, 350, and 370",
-        "title": "Three additional majors-level courses selected from one of the following sequenc",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
-         "quote": "Three additional majors-level courses selected from one of the following sequences: Biology: Biology 325 or 325H, 320, 344, 350, and 370"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "Chemistry: Chemistry 328M and 128K, 328N and 128L, 353 or 353M, and Biochemistry 369",
-        "title": "Chemistry: Chemistry 328M and 128K, 328N and 128L, 353 or 353M, and Biochemistry",
+        "type": "all",
+        "title": "Chemistry: Chemistry 328M and 128K, 328N and 128L, 353 or 353M, and Biochemistry 369",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 328M"
+         },
+         {
+          "type": "course",
+          "course": "CH 128K"
+         },
+         {
+          "type": "course",
+          "course": "CH 328N"
+         },
+         {
+          "type": "course",
+          "course": "CH 128L"
+         },
+         {
+          "type": "course",
+          "course": "CH 353"
+         },
+         {
+          "type": "course",
+          "course": "CH 353M"
+         },
+         {
+          "type": "course",
+          "course": "BCH 369"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Chemistry: Chemistry 328M and 128K, 328N and 128L, 353 or 353M, and Biochemistry 369"
@@ -180,9 +270,54 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Mathematics: Mathematics 427J or 427K, 427L, 340L or 341, 362K, 378K, Statistics and Data Sciences 321 or 329C; Mathematics 362K and Statistics and Data Sciences 321 may not both count.",
-        "title": "Mathematics: Mathematics 427J or 427K, 427L, 340L or 341, 362K, 378K, Statistics",
+        "type": "all",
+        "title": "Mathematics: Mathematics 427J or 427K, 427L, 340L or 341, 362K, 378K, Statistics and Data ",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 427J"
+         },
+         {
+          "type": "course",
+          "course": "M 427K"
+         },
+         {
+          "type": "course",
+          "course": "M 427L"
+         },
+         {
+          "type": "course",
+          "course": "M 340L"
+         },
+         {
+          "type": "course",
+          "course": "M 341"
+         },
+         {
+          "type": "course",
+          "course": "M 362K"
+         },
+         {
+          "type": "course",
+          "course": "M 378K"
+         },
+         {
+          "type": "course",
+          "course": "SDS 321"
+         },
+         {
+          "type": "course",
+          "course": "SDS 329C"
+         },
+         {
+          "type": "course",
+          "course": "M 362K"
+         },
+         {
+          "type": "course",
+          "course": "SDS 321"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Mathematics: Mathematics 427J or 427K, 427L, 340L or 341, 362K, 378K, Statistics and Data Sciences 321 or 329C; Mathematics 362K and Statistics and Data Sciences 321 may not both count."
@@ -261,40 +396,86 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Twelve semester hours of laboratory courses chosen from the following: Neuroscience 365L, 366E, 366L, 366N, 366P, 366S, 367W, 377, 466G, and 466M. Neuroscience 377 may only be taken once for credit.",
-        "title": "Twelve semester hours of laboratory courses chosen from the following: Neuroscie",
+        "type": "hours",
+        "hours": 12.0,
+        "title": "Twelve semester hours of laboratory courses chosen from the following: Neuroscience 365L, ",
+        "filter": {
+         "label": "Twelve semester hours of laboratory courses chosen from the following: Neuroscie",
+         "courses": [
+          "NEU 365L",
+          "NEU 366E",
+          "NEU 366L",
+          "NEU 366N",
+          "NEU 366P",
+          "NEU 366S",
+          "NEU 367W",
+          "NEU 377",
+          "NEU 466G",
+          "NEU 466M",
+          "NEU 377"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Twelve semester hours of laboratory courses chosen from the following: Neuroscience 365L, 366E, 366L, 366N, 366P, 366S, 367W, 377, 466G, and 466M. Neuroscience 377 may only be taken once for credit."
         }
        },
        {
-        "type": "manual",
-        "text": "Nine semester hours of upper-division neuroscience to be chosen from: Biology 325, 353S, 359K, 367C, Neuroscience 170C, 270C, 337, 365D, 365N, 365P, 365T, 365V, 365W, 366C, 366D, 367F, 367S, 367V, and 371M; Biology 325 or 325H may count toward either requirement 8a or requirement 12",
-        "title": "Nine semester hours of upper-division neuroscience to be chosen from: Biology 32",
+        "type": "hours",
+        "hours": 9.0,
+        "title": "Nine semester hours of upper-division neuroscience to be chosen from: Biology 325, 353S, 3",
+        "filter": {
+         "label": "Nine semester hours of upper-division neuroscience to be chosen from: Biology 32",
+         "courses": [
+          "BIO 325",
+          "BIO 353S",
+          "BIO 359K",
+          "BIO 367C",
+          "NEU 170C",
+          "NEU 270C",
+          "NEU 337",
+          "NEU 365D",
+          "NEU 365N",
+          "NEU 365P",
+          "NEU 365T",
+          "NEU 365V",
+          "NEU 365W",
+          "NEU 366C",
+          "NEU 366D",
+          "NEU 367F",
+          "NEU 367S",
+          "NEU 367V",
+          "NEU 371M",
+          "BIO 325",
+          "BIO 325H"
+         ],
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
-         "quote": "Nine semester hours of upper-division neuroscience to be chosen from: Biology 325, 353S, 359K, 367C, Neuroscience 170C, 270C, 337, 365D, 365N, 365P, 365T, 365V, 365W, 366C, 366D, 367F, 367S, 367V, and"
+         "quote": "Nine semester hours of upper-division neuroscience to be chosen from: Biology 325, 353S, 359K, 367C, Neuroscience 170C, 270C, 337, 365D, 365N, 365P, 365T, 365V, 365W, 366C, 366D, 367F, 367S, 367V, and 371M; Biology 325 o"
         }
        },
        {
-        "type": "manual",
-        "text": "Three semester hours of Neuroscience 379H, Honors Tutorial Course; the research topic in 379H must relate to neuroscience and be approved in advance by the faculty advisor",
-        "title": "Three semester hours of Neuroscience 379H, Honors Tutorial Course; the research ",
+        "type": "hours",
+        "hours": 3.0,
+        "title": "Three semester hours of Neuroscience 379H, Honors Tutorial Course; the research topic in 3",
+        "filter": {
+         "label": "Three semester hours of Neuroscience 379H, Honors Tutorial Course; the research ",
+         "courses": [
+          "NEU 379H",
+          "NEU 379H"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Three semester hours of Neuroscience 379H, Honors Tutorial Course; the research topic in 379H must relate to neuroscience and be approved in advance by the faculty advisor"
         }
        },
        {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 120 semester hours",
+        "title": "Enough additional coursework to make a total of 120 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Enough additional coursework to make a total of 120 semester hours"
@@ -307,18 +488,43 @@
       "title": "Option II: Neuroscience Honors",
       "of": [
        {
-        "type": "manual",
-        "text": "Breadth requirement: An honors mathematics course; Biology 315H and 325H; Chemistry 301C and 302C; and an additional three-hour honors-designated course from a department in the College of Natural Sciences; credit earned by examination may not be counted toward this requirement.",
-        "title": "Breadth requirement: An honors mathematics course; Biology 315H and 325H; Chemis",
+        "type": "all",
+        "title": "Breadth requirement: An honors mathematics course; Biology 315H and 325H; Chemistry 301C a",
+        "of": [
+         {
+          "type": "course",
+          "course": "BIO 315H"
+         },
+         {
+          "type": "course",
+          "course": "BIO 325H"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
-         "quote": "Breadth requirement: An honors mathematics course; Biology 315H and 325H; Chemistry 301C and 302C; and an additional three-hour honors-designated course from a department in the College of Natural Sci"
+         "quote": "Breadth requirement: An honors mathematics course; Biology 315H and 325H; Chemistry 301C and 302C; and an additional three-hour honors-designated course from a department in the College of Natural Sciences; credit earned"
         }
        },
        {
-        "type": "manual",
-        "text": "Three hours of statistics chosen from the following: Statistics and Data Sciences 321, 325H, or 320E; other statistics courses may be approved by the departmental honors advisor.",
-        "title": "Three hours of statistics chosen from the following: Statistics and Data Science",
+        "type": "hours",
+        "hours": 3.0,
+        "title": "Three hours of statistics chosen from the following: Statistics and Data Sciences 321, 325",
+        "filter": {
+         "label": "Three hours of statistics chosen from the following: Statistics and Data Science",
+         "courses": [
+          "SDS 321",
+          "SDS 325H",
+          "SDS 320E"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Three hours of statistics chosen from the following: Statistics and Data Sciences 321, 325H, or 320E; other statistics courses may be approved by the departmental honors advisor."
@@ -369,18 +575,38 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Three additional majors-level courses selected from one of the following sequences: Biology: Biology 320, 344, 350, and 370",
-        "title": "Three additional majors-level courses selected from one of the following sequenc",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
-         "quote": "Three additional majors-level courses selected from one of the following sequences: Biology: Biology 320, 344, 350, and 370"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "Chemistry: Chemistry 328M and 128K, 328N and 128L 353 or 353M, and Biochemistry 369",
-        "title": "Chemistry: Chemistry 328M and 128K, 328N and 128L 353 or 353M, and Biochemistry ",
+        "type": "all",
+        "title": "Chemistry: Chemistry 328M and 128K, 328N and 128L 353 or 353M, and Biochemistry 369",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 328M"
+         },
+         {
+          "type": "course",
+          "course": "CH 128K"
+         },
+         {
+          "type": "course",
+          "course": "CH 328N"
+         },
+         {
+          "type": "course",
+          "course": "CH 128L"
+         },
+         {
+          "type": "course",
+          "course": "CH 353"
+         },
+         {
+          "type": "course",
+          "course": "CH 353M"
+         },
+         {
+          "type": "course",
+          "course": "BCH 369"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Chemistry: Chemistry 328M and 128K, 328N and 128L 353 or 353M, and Biochemistry 369"
@@ -435,9 +661,54 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Mathematics: Mathematics 427J or 427K, 427L, 340L or 341, 362K, 378K, 321 or 329C; Mathematics 362K and Statistics and Data Sciences 321 may not both count.",
-        "title": "Mathematics: Mathematics 427J or 427K, 427L, 340L or 341, 362K, 378K, 321 or 329",
+        "type": "all",
+        "title": "Mathematics: Mathematics 427J or 427K, 427L, 340L or 341, 362K, 378K, 321 or 329C; Mathema",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 427J"
+         },
+         {
+          "type": "course",
+          "course": "M 427K"
+         },
+         {
+          "type": "course",
+          "course": "M 427L"
+         },
+         {
+          "type": "course",
+          "course": "M 340L"
+         },
+         {
+          "type": "course",
+          "course": "M 341"
+         },
+         {
+          "type": "course",
+          "course": "M 362K"
+         },
+         {
+          "type": "course",
+          "course": "M 378K"
+         },
+         {
+          "type": "course",
+          "course": "SDS 321"
+         },
+         {
+          "type": "course",
+          "course": "SDS 329C"
+         },
+         {
+          "type": "course",
+          "course": "M 362K"
+         },
+         {
+          "type": "course",
+          "course": "SDS 321"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Mathematics: Mathematics 427J or 427K, 427L, 340L or 341, 362K, 378K, 321 or 329C; Mathematics 362K and Statistics and Data Sciences 321 may not both count."
@@ -468,36 +739,84 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Six hours of laboratory courses chosen from: Neuroscience 365L, 366E, 366L, 366N, 366P, 366S, 367W, 466G, 466M",
-        "title": "Six hours of laboratory courses chosen from: Neuroscience 365L, 366E, 366L, 366N",
+        "type": "hours",
+        "hours": 6.0,
+        "title": "Six hours of laboratory courses chosen from: Neuroscience 365L, 366E, 366L, 366N, 366P, 36",
+        "filter": {
+         "label": "Six hours of laboratory courses chosen from: Neuroscience 365L, 366E, 366L, 366N",
+         "courses": [
+          "NEU 365L",
+          "NEU 366E",
+          "NEU 366L",
+          "NEU 366N",
+          "NEU 366P",
+          "NEU 366S",
+          "NEU 367W",
+          "NEU 466G",
+          "NEU 466M"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Six hours of laboratory courses chosen from: Neuroscience 365L, 366E, 366L, 366N, 366P, 366S, 367W, 466G, 466M"
         }
        },
        {
-        "type": "manual",
-        "text": "Six hours of upper-division neuroscience chosen from: Biology 353S, 359K, 367C, Neuroscience 170C, 270C, 337, 365D, 365N, 365P, 365T, 365V, 365W, 366C, 366D, 367F, 367S, 367V, 371M, 377",
-        "title": "Six hours of upper-division neuroscience chosen from: Biology 353S, 359K, 367C, ",
+        "type": "hours",
+        "hours": 6.0,
+        "title": "Six hours of upper-division neuroscience chosen from: Biology 353S, 359K, 367C, Neuroscien",
+        "filter": {
+         "label": "Six hours of upper-division neuroscience chosen from: Biology 353S, 359K, 367C, ",
+         "courses": [
+          "BIO 353S",
+          "BIO 359K",
+          "BIO 367C",
+          "NEU 170C",
+          "NEU 270C",
+          "NEU 337",
+          "NEU 365D",
+          "NEU 365N",
+          "NEU 365P",
+          "NEU 365T",
+          "NEU 365V",
+          "NEU 365W",
+          "NEU 366C",
+          "NEU 366D",
+          "NEU 367F",
+          "NEU 367S",
+          "NEU 367V",
+          "NEU 371M",
+          "NEU 377"
+         ],
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Six hours of upper-division neuroscience chosen from: Biology 353S, 359K, 367C, Neuroscience 170C, 270C, 337, 365D, 365N, 365P, 365T, 365V, 365W, 366C, 366D, 367F, 367S, 367V, 371M, 377"
         }
        },
        {
-        "type": "manual",
-        "text": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor",
-        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the department",
+        "type": "anyN",
+        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors ",
+        "of": [
+         {
+          "type": "course",
+          "course": "UGS 302"
+         },
+         {
+          "type": "course",
+          "course": "UGS 303"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean's Scholars Honors Program",
-        "title": "A section of Rhetoric and Writing 309S that is restricted to students in the Dea",
+        "type": "course",
+        "course": "RHE 309S",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean's Scholars Honors Program"
@@ -512,7 +831,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Fifteen additional semester hours of coursework approved by the departmental honors advisor",
         "title": "Fifteen additional semester hours of coursework approved by the departmental hon",
         "source": {
@@ -521,7 +840,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Six semester hours of coursework from the College of Liberal Arts and/or the College of Fine Arts",
         "title": "Six semester hours of coursework from the College of Liberal Arts and/or the Col",
         "source": {
@@ -530,13 +849,9 @@
         }
        },
        {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 120 semester hours",
+        "title": "Enough additional coursework to make a total of 120 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Enough additional coursework to make a total of 120 semester hours"
@@ -549,21 +864,33 @@
       "title": "Option III: Neuroscience",
       "of": [
        {
-        "type": "manual",
-        "text": "Mathematics 408C, or 408N or 408R and 408S; and Statistics and Data Sciences 320E",
-        "title": "Mathematics 408C, or 408N or 408R and 408S; and Statistics and Data Sciences 320",
+        "type": "all",
+        "title": "Mathematics 408C, or 408N or 408R and 408S; and Statistics and Data Sciences 320E",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408C"
+         },
+         {
+          "type": "course",
+          "course": "M 408N"
+         },
+         {
+          "type": "course",
+          "course": "M 408R"
+         },
+         {
+          "type": "course",
+          "course": "M 408S"
+         },
+         {
+          "type": "course",
+          "course": "SDS 320E"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Mathematics 408C, or 408N or 408R and 408S; and Statistics and Data Sciences 320E"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "An eight-hour physics sequence chosen from the following: Physics 317K, 105M, 317L, and 105N",
-        "title": "An eight-hour physics sequence chosen from the following: Physics 317K, 105M, 31",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
-         "quote": "An eight-hour physics sequence chosen from the following: Physics 317K, 105M, 317L, and 105N"
         }
        },
        {
@@ -619,18 +946,60 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Chemistry 301 or 301C, 302 or 302C, and 204",
+        "type": "all",
         "title": "Chemistry 301 or 301C, 302 or 302C, and 204",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 301"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "CH 302"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         },
+         {
+          "type": "course",
+          "course": "CH 204"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Chemistry 301 or 301C, 302 or 302C, and 204"
         }
        },
        {
-        "type": "manual",
-        "text": "Biology 311C, 311D, and 325 or 315H and 325H",
+        "type": "all",
         "title": "Biology 311C, 311D, and 325 or 315H and 325H",
+        "of": [
+         {
+          "type": "course",
+          "course": "BIO 311C"
+         },
+         {
+          "type": "course",
+          "course": "BIO 311D"
+         },
+         {
+          "type": "course",
+          "course": "BIO 325"
+         },
+         {
+          "type": "course",
+          "course": "BIO 315H"
+         },
+         {
+          "type": "course",
+          "course": "BIO 325H"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Biology 311C, 311D, and 325 or 315H and 325H"
@@ -667,34 +1036,109 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Fifteen hours of upper-division neuroscience chosen from: Biology 353S, 359K, 367C, Neuroscience 170C, 270C, 337, 365D, 365L, 365N, 365P, 365T, 365V, 365W, 366C, 366D, 366E, 366L, 366N, 366P, 366S, 367F, 367S, 367V, 367W, 371M, 377, 379H, 466G, 466M. Neuroscience 377 may be repeated once for credit. The research topic in 379H must relate to neuroscience and be approved in advance by the faculty advisor.",
-        "title": "Fifteen hours of upper-division neuroscience chosen from: Biology 353S, 359K, 36",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
-         "quote": "Fifteen hours of upper-division neuroscience chosen from: Biology 353S, 359K, 367C, Neuroscience 170C, 270C, 337, 365D, 365L, 365N, 365P, 365T, 365V, 365W, 366C, 366D, 366E, 366L, 366N, 366P, 366S, 36"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "Six additional hours of upper-division laboratory course work chosen from the following: Neuroscience 365L, 366E, 366L, 366N, 366P, 366S, 367W, 466G, 466M. Neuroscience 365L, 366E, 366L, 366N, 366P, 366S, 367W, 466G, and 466M may count toward requirement 10 or requirement 11.",
-        "title": "Six additional hours of upper-division laboratory course work chosen from the fo",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
-         "quote": "Six additional hours of upper-division laboratory course work chosen from the following: Neuroscience 365L, 366E, 366L, 366N, 366P, 366S, 367W, 466G, 466M. Neuroscience 365L, 366E, 366L, 366N, 366P, 3"
-        }
-       },
-       {
         "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
+        "hours": 15.0,
+        "title": "Fifteen hours of upper-division neuroscience chosen from: Biology 353S, 359K, 367C, Neuros",
         "filter": {
-         "label": "Any coursework"
+         "label": "Fifteen hours of upper-division neuroscience chosen from: Biology 353S, 359K, 36",
+         "courses": [
+          "BIO 353S",
+          "BIO 359K",
+          "BIO 367C",
+          "NEU 170C",
+          "NEU 270C",
+          "NEU 337",
+          "NEU 365D",
+          "NEU 365L",
+          "NEU 365N",
+          "NEU 365P",
+          "NEU 365T",
+          "NEU 365V",
+          "NEU 365W",
+          "NEU 366C",
+          "NEU 366D",
+          "NEU 366E",
+          "NEU 366L",
+          "NEU 366N",
+          "NEU 366P",
+          "NEU 366S",
+          "NEU 367F",
+          "NEU 367S",
+          "NEU 367V",
+          "NEU 367W",
+          "NEU 371M",
+          "NEU 377",
+          "NEU 379H",
+          "NEU 466G",
+          "NEU 466M",
+          "NEU 377"
+         ],
+         "division": "upper"
         },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
+         "quote": "Fifteen hours of upper-division neuroscience chosen from: Biology 353S, 359K, 367C, Neuroscience 170C, 270C, 337, 365D, 365L, 365N, 365P, 365T, 365V, 365W, 366C, 366D, 366E, 366L, 366N, 366P, 366S, 367F, 367S, 367V, 367W"
+        },
+        "umbrella": true
+       },
+       {
+        "type": "hours",
+        "hours": 6.0,
+        "title": "Six additional hours of upper-division laboratory course work chosen from the following: N",
+        "filter": {
+         "label": "Six additional hours of upper-division laboratory course work chosen from the fo",
+         "courses": [
+          "NEU 365L",
+          "NEU 366E",
+          "NEU 366L",
+          "NEU 366N",
+          "NEU 366P",
+          "NEU 366S",
+          "NEU 367W",
+          "NEU 466G",
+          "NEU 466M",
+          "NEU 365L",
+          "NEU 366E",
+          "NEU 366L",
+          "NEU 366N",
+          "NEU 366P",
+          "NEU 366S",
+          "NEU 367W",
+          "NEU 466G",
+          "NEU 466M"
+         ],
+         "division": "upper"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
+         "quote": "Six additional hours of upper-division laboratory course work chosen from the following: Neuroscience 365L, 366E, 366L, 366N, 366P, 366S, 367W, 466G, 466M. Neuroscience 365L, 366E, 366L, 366N, 366P, 366S, 367W, 466G, and"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 120 semester hours",
+        "title": "Enough additional coursework to make a total of 120 semester hours",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Enough additional coursework to make a total of 120 semester hours"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Students must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for the degree, and a grade point average in these courses of at least 2.00. More information about grades and the grade point average is given in the General Information Catalog.",
+        "title": "Students must fulfill both the University's General Requirements for graduation ",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
+         "quote": "Students must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for the degree, and"
+        }
+       },
+       {
+        "type": "note",
+        "text": "To graduate under Option II, students must remain in good standing in the Dean's Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor, and must present their research in an approved public forum, such as the college's annual Undergraduate Research Forum. More information about the Undergraduate Research Forum is available at https://cns.utexas.edu/innov",
+        "title": "To graduate under Option II, students must remain in good standing in the Dean's",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
+         "quote": "To graduate under Option II, students must remain in good standing in the Dean's Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor, and must present their research in an ap"
         }
        }
       ]
@@ -710,6 +1154,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BS",
  "majorSubjects": [
-  "PHY"
+  "NEU"
  ]
 }

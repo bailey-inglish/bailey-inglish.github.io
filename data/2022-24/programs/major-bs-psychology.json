@@ -14,29 +14,60 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "hours",
-    "hours": 120.0,
-    "umbrella": true,
-    "title": "120 total hours",
-    "filter": {
-     "label": "Any coursework"
-    },
+    "type": "note",
+    "text": "A total of 120 semester hours is required. Thirty-nine hours must be in upper-division courses. At least 60 hours, including 24 hours of upper-division coursework, must be completed in residence at the University. Provided these residence rules are met, credit may be earned by examination, by extension, by correspondence (up to 30 percent of the hours required for the degree), or, with the approva",
+    "title": "A total of 120 semester hours is required. Thirty-nine hours must be in upper-di",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
-     "quote": "A total of 120 semester hours is required. Thirty-nine hours must be in upper-division courses. At least 60 hours, including 24 hours of upper-division coursework, must be completed in residence at th"
+     "quote": "A total of 120 semester hours is required. Thirty-nine hours must be in upper-division courses. At least 60 hours, including 24 hours of upper-division coursework, must be completed in residence at the University. Provid"
     }
    },
    {
-    "type": "manual",
-    "text": "Writing: three flagged courses beyond Rhetoric and Writing 306 or its equivalent",
-    "title": "Writing: three flagged courses beyond Rhetoric and Writing 306 or its equivalent",
+    "type": "note",
+    "text": "All students must complete the University’s Core Curriculum. In the process of fulfilling the core curriculum and other degree requirements, all students are expected to complete the Skills and Experience flags:",
+    "title": "All students must complete the University’s Core Curriculum. In the process of f",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
+     "quote": "All students must complete the University’s Core Curriculum. In the process of fulfilling the core curriculum and other degree requirements, all students are expected to complete the Skills and Experience flags:"
+    }
+   },
+   {
+    "type": "course",
+    "course": "RHE 306",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
      "quote": "Writing: three flagged courses beyond Rhetoric and Writing 306 or its equivalent"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
+    "text": "Courses that may be used to fulfill core curriculum and flag requirements are identified in the Course Schedule. They may be used simultaneously to fulfill other requirements, unless otherwise specified. Please note, students may not earn the cultural diversity and global cultures flags from the same course. Students are encouraged to discuss options with a departmental academic advisor.",
+    "title": "Courses that may be used to fulfill core curriculum and flag requirements are id",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
+     "quote": "Courses that may be used to fulfill core curriculum and flag requirements are identified in the Course Schedule. They may be used simultaneously to fulfill other requirements, unless otherwise specified. Please note, stu"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Up to three hours of coursework counted toward the prescribed work or toward the core curriculum may also be counted toward the minor.",
+    "title": "Up to three hours of coursework counted toward the prescribed work or toward the",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
+     "quote": "Up to three hours of coursework counted toward the prescribed work or toward the core curriculum may also be counted toward the minor."
+    }
+   },
+   {
+    "type": "note",
+    "text": "The student must fulfill the University's General Requirements for graduation and the requirements given in the sections Special Requirements of the College of Liberal Arts and Applicability of Certain Courses. University graduation requirements include a grade point average of at least 2.00 in all courses taken at the University (including credit by examination, correspondence, and extension) for",
+    "title": "The student must fulfill the University's General Requirements for graduation an",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
+     "quote": "The student must fulfill the University's General Requirements for graduation and the requirements given in the sections Special Requirements of the College of Liberal Arts and Applicability of Certain Courses. Universit"
+    }
+   },
+   {
+    "type": "note",
     "text": "More information about grades and the grade point average is given in the General Information Catalog.",
     "title": "More information about grades and the grade point average is given in the Genera",
     "source": {
@@ -45,16 +76,37 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Writing and Literature: English 316L, 316M, 316N, or 316P, and two courses beyond Rhetoric and Writing 306 or the equivalent that carry a writing flag. One of these courses must be upper-division. Courses that carry a writing flag are identified in the Course Schedule. They may be used simultaneously to fulfill other requirements, unless otherwise specified.",
-    "title": "Writing and Literature: English 316L, 316M, 316N, or 316P, and two courses beyon",
+    "type": "all",
+    "title": "Writing and Literature: English 316L, 316M, 316N, or 316P, and two courses beyond Rhetoric",
+    "of": [
+     {
+      "type": "course",
+      "course": "E 316L"
+     },
+     {
+      "type": "course",
+      "course": "E 316M"
+     },
+     {
+      "type": "course",
+      "course": "E 316N"
+     },
+     {
+      "type": "course",
+      "course": "E 316P"
+     },
+     {
+      "type": "course",
+      "course": "RHE 306"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
-     "quote": "Writing and Literature: English 316L, 316M, 316N, or 316P, and two courses beyond Rhetoric and Writing 306 or the equivalent that carry a writing flag. One of these courses must be upper-division. Cou"
+     "quote": "Writing and Literature: English 316L, 316M, 316N, or 316P, and two courses beyond Rhetoric and Writing 306 or the equivalent that carry a writing flag. One of these courses must be upper-division. Courses that carry a wr"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Foreign language/culture: Students must complete one of the following options: Second-semester-level proficiency, or the equivalent, in a foreign language.",
     "title": "Foreign language/culture: Students must complete one of the following options: S",
     "source": {
@@ -63,12 +115,39 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Two three-hour foreign culture courses chosen from a list available in the college’s Student Division and the Department of Psychology. Courses taken to attain the required level of proficiency in a foreign language are not electives and may not be taken on the pass/fail basis.",
     "title": "Two three-hour foreign culture courses chosen from a list available in the colle",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
-     "quote": "Two three-hour foreign culture courses chosen from a list available in the college’s Student Division and the Department of Psychology. Courses taken to attain the required level of proficiency in a f"
+     "quote": "Two three-hour foreign culture courses chosen from a list available in the college’s Student Division and the Department of Psychology. Courses taken to attain the required level of proficiency in a foreign language are "
+    }
+   },
+   {
+    "type": "note",
+    "text": "Social science: Three semester credit hours in a social science field, in addition to the course taken to satisfy the Social and Behavioral Science requirement of the Core Curriculum. Courses that are approved to count toward any core curriculum area other than social and behavioral sciences may not be counted toward this requirement. A list of approved courses is available each semester in the St",
+    "title": "Social science: Three semester credit hours in a social science field, in additi",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
+     "quote": "Social science: Three semester credit hours in a social science field, in addition to the course taken to satisfy the Social and Behavioral Science requirement of the Core Curriculum. Courses that are approved to count t"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Mathematics and natural science: At least 25 semester hours of coursework as outlined belo",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 408C"
+     },
+     {
+      "type": "course",
+      "course": "M 408K"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
+     "quote": "Mathematics and natural science: At least 25 semester hours of coursework as outlined below. Some of the courses that fulfill this requirement may also be counted toward the requirements of the core curriculum. No course"
     }
    },
    {
@@ -80,9 +159,22 @@
     }
    },
    {
-    "type": "manual",
-    "text": "16 to 18 hours, consisting of two of the following sequences: Biology 311C, 311D, and 325",
-    "title": "16 to 18 hours, consisting of two of the following sequences: Biology 311C, 311D",
+    "type": "all",
+    "title": "16 to 18 hours, consisting of two of the following sequences: Biology 311C, 311D, and 325",
+    "of": [
+     {
+      "type": "course",
+      "course": "BIO 311C"
+     },
+     {
+      "type": "course",
+      "course": "BIO 311D"
+     },
+     {
+      "type": "course",
+      "course": "BIO 325"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
      "quote": "16 to 18 hours, consisting of two of the following sequences: Biology 311C, 311D, and 325"
@@ -111,16 +203,81 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Physics 317K, 105M, 317L, and 105N; or 301, 101L, 316, and 116L; or 303K, 105M, 303L, and 105N; or 302K, 105M, 302L, and 105N",
-    "title": "Physics 317K, 105M, 317L, and 105N; or 301, 101L, 316, and 116L; or 303K, 105M, ",
+    "type": "all",
+    "title": "Physics 317K, 105M, 317L, and 105N; or 301, 101L, 316, and 116L; or 303K, 105M, 303L, and ",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHY 317K"
+     },
+     {
+      "type": "course",
+      "course": "PHY 105M"
+     },
+     {
+      "type": "course",
+      "course": "PHY 317L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 105N"
+     },
+     {
+      "type": "course",
+      "course": "PHY 301"
+     },
+     {
+      "type": "course",
+      "course": "PHY 101L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 316"
+     },
+     {
+      "type": "course",
+      "course": "PHY 116L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 303K"
+     },
+     {
+      "type": "course",
+      "course": "PHY 105M"
+     },
+     {
+      "type": "course",
+      "course": "PHY 303L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 105N"
+     },
+     {
+      "type": "course",
+      "course": "PHY 302K"
+     },
+     {
+      "type": "course",
+      "course": "PHY 105M"
+     },
+     {
+      "type": "course",
+      "course": "PHY 302L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 105N"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
      "quote": "Physics 317K, 105M, 317L, and 105N; or 301, 101L, 316, and 116L; or 303K, 105M, 303L, and 105N; or 302K, 105M, 302L, and 105N"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "One of the following: Three additional hours in mathematics. Mathematics 301, 302, 303D, 303F, 316K, and 316L may not be used to fulfill this requirement.",
     "title": "One of the following: Three additional hours in mathematics. Mathematics 301, 30",
     "source": {
@@ -129,81 +286,254 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Three hours in biology, chemistry, or physics. Only the courses listed in requirement 4c above and more advanced courses may be used to fulfill this requirement.",
-    "title": "Three hours in biology, chemistry, or physics. Only the courses listed in requir",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three hours in biology, chemistry, or physics. Only the courses listed in requirement 4c a",
+    "filter": {
+     "label": "Three hours in biology, chemistry, or physics. Only the courses listed in requir",
+     "subjects": [
+      "BIO"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
      "quote": "Three hours in biology, chemistry, or physics. Only the courses listed in requirement 4c above and more advanced courses may be used to fulfill this requirement."
     }
    },
    {
+    "type": "note",
+    "text": "Cultural expression, human experience, and thought: Three semester hours of approved coursework. The course must be in a field of study taught in the College of Liberal Arts. A course counted toward any requirement of the core curriculum may not also be counted toward this requirement. A course counted toward the foreign language/culture requirement, above, may not also be counted toward this requ",
+    "title": "Cultural expression, human experience, and thought: Three semester hours of appr",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
+     "quote": "Cultural expression, human experience, and thought: Three semester hours of approved coursework. The course must be in a field of study taught in the College of Liberal Arts. A course counted toward any requirement of th"
+    }
+   },
+   {
     "type": "hours",
     "hours": 28.0,
-    "umbrella": true,
-    "title": "28 hours of psychology",
+    "title": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-division, in",
     "filter": {
-     "subjects": [
-      "PSY"
+     "label": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-di",
+     "courses": [
+      "PSY 301",
+      "PSY 317L",
+      "PSY 420M",
+      "PSY 317L",
+      "PSY 120R",
+      "PSY 420M",
+      "PSY 301",
+      "PSY 317L",
+      "PSY 420M"
      ],
-     "label": "Psychology coursework"
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
-     "quote": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-division, including Psychology 301, 317L and 420M with a grade of at least C in each. (Students with credit for Psychology"
-    }
-   },
-   {
-    "type": "hours",
-    "hours": 19.0,
-    "umbrella": true,
-    "title": "19 upper-division hours of psychology",
-    "filter": {
-     "subjects": [
-      "PSY"
-     ],
-     "division": "upper",
-     "label": "Upper-division psychology"
+     "quote": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-division, including Psychology 301, 317L and 420M with a grade of at least C in each. (Students with credit for Psychology 317L must complete "
     },
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
-     "quote": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-division, including Psychology 301, 317L and 420M with a grade of at least C in each. (Students with credit for Psychology"
-    }
+    "minGrade": "C",
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-division, including Psychology 301, 317L and 420M with a grade of at least C in each. (Students with credit for Psychology 317L must complete Psychology 120R with a grade of at least C prior to advancing to Psychology 420M). No more that three hours of lower-division psychology may be taken in addition to Psychology 301 and 317L, and no less than 15 hours of upper-division beyond Psychology 420M. Also included in these 28 hours must be at least three hours in each of the following three areas.",
-    "title": "Specific courses within: 28 hours of psychology",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
-     "quote": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-division, including Psychology 301, 317L and 420M with a grade of at least C in each. (Students with credit for Psychology"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Clinical/social/developmental/evolutionary psychology: Psychology 333C, 333D, 333E, 333F, 333M, 333R, 333T, 333W, 334D, 334E, 339, 343K, 346K, 352P, 364, 365G",
-    "title": "Clinical/social/developmental/evolutionary psychology: Psychology 333C, 333D, 33",
+    "type": "all",
+    "title": "Clinical/social/developmental/evolutionary psychology: Psychology 333C, 333D, 333E, 333F, ",
+    "of": [
+     {
+      "type": "course",
+      "course": "PSY 333C"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333D"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333E"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333F"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333M"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333R"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333T"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333W"
+     },
+     {
+      "type": "course",
+      "course": "PSY 334D"
+     },
+     {
+      "type": "course",
+      "course": "PSY 334E"
+     },
+     {
+      "type": "course",
+      "course": "PSY 339"
+     },
+     {
+      "type": "course",
+      "course": "PSY 343K"
+     },
+     {
+      "type": "course",
+      "course": "PSY 346K"
+     },
+     {
+      "type": "course",
+      "course": "PSY 352P"
+     },
+     {
+      "type": "course",
+      "course": "PSY 364"
+     },
+     {
+      "type": "course",
+      "course": "PSY 365G"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
      "quote": "Clinical/social/developmental/evolutionary psychology: Psychology 333C, 333D, 333E, 333F, 333M, 333R, 333T, 333W, 334D, 334E, 339, 343K, 346K, 352P, 364, 365G"
     }
    },
    {
-    "type": "manual",
-    "text": "Cognition/language/neuroscience/perception: Psychology 323, 323P, 323S, 326K, 332, 332C, 333N, 333P, 337, 338K, 345, 353K, 355, 355D, 355R, 371",
-    "title": "Cognition/language/neuroscience/perception: Psychology 323, 323P, 323S, 326K, 33",
+    "type": "all",
+    "title": "Cognition/language/neuroscience/perception: Psychology 323, 323P, 323S, 326K, 332, 332C, 3",
+    "of": [
+     {
+      "type": "course",
+      "course": "PSY 323"
+     },
+     {
+      "type": "course",
+      "course": "PSY 323P"
+     },
+     {
+      "type": "course",
+      "course": "PSY 323S"
+     },
+     {
+      "type": "course",
+      "course": "PSY 326K"
+     },
+     {
+      "type": "course",
+      "course": "PSY 332"
+     },
+     {
+      "type": "course",
+      "course": "PSY 332C"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333N"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333P"
+     },
+     {
+      "type": "course",
+      "course": "PSY 337"
+     },
+     {
+      "type": "course",
+      "course": "PSY 338K"
+     },
+     {
+      "type": "course",
+      "course": "PSY 345"
+     },
+     {
+      "type": "course",
+      "course": "PSY 353K"
+     },
+     {
+      "type": "course",
+      "course": "PSY 355"
+     },
+     {
+      "type": "course",
+      "course": "PSY 355D"
+     },
+     {
+      "type": "course",
+      "course": "PSY 355R"
+     },
+     {
+      "type": "course",
+      "course": "PSY 371"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
      "quote": "Cognition/language/neuroscience/perception: Psychology 323, 323P, 323S, 326K, 332, 332C, 333N, 333P, 337, 338K, 345, 353K, 355, 355D, 355R, 371"
     }
    },
    {
-    "type": "manual",
-    "text": "Psychology 420M and at least six hours of upper-division coursework must be completed in residence at the University. Psychology PS majors must earn a grade of at least C in Psychology 317L (120R) and Psychology 420M to register for upper-division psychology courses. Students may not enroll in",
-    "title": "Psychology 420M and at least six hours of upper-division coursework must be comp",
+    "type": "anyN",
+    "title": "Multicultural/diversity/inclusion in the behavioral sciences: Psychology 332U, 364T, 365D,",
+    "of": [
+     {
+      "type": "course",
+      "course": "PSY 332U"
+     },
+     {
+      "type": "course",
+      "course": "PSY 364T"
+     },
+     {
+      "type": "course",
+      "course": "PSY 365D"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
-     "quote": "Psychology 420M and at least six hours of upper-division coursework must be completed in residence at the University. Psychology PS majors must earn a grade of at least C in Psychology 317L (120R) and"
+     "quote": "Multicultural/diversity/inclusion in the behavioral sciences: Psychology 332U, 364T, 365D, or a course chosen from an approved list available at https://liberalarts.utexas.edu/psychology/"
+    },
+    "n": 1
+   },
+   {
+    "type": "all",
+    "title": "Psychology 420M and at least six hours of upper-division coursework must be completed in r",
+    "of": [
+     {
+      "type": "course",
+      "course": "PSY 420M",
+      "minGrade": "C"
+     },
+     {
+      "type": "course",
+      "course": "PSY 317L",
+      "minGrade": "C"
+     },
+     {
+      "type": "course",
+      "course": "PSY 120R",
+      "minGrade": "C"
+     },
+     {
+      "type": "course",
+      "course": "PSY 420M",
+      "minGrade": "C"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
+     "quote": "Psychology 420M and at least six hours of upper-division coursework must be completed in residence at the University. Psychology PS majors must earn a grade of at least C in Psychology 317L (120R) and Psychology 420M to "
     }
    },
    {
@@ -229,16 +559,34 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Psychology 357 and 359 may not be counted toward the 28 hours in psychology required for the major.",
-    "title": "Psychology 357 and 359 may not be counted toward the 28 hours in psychology requ",
+    "type": "all",
+    "title": "Psychology 357 and 359 may not be counted toward the 28 hours in psychology required for t",
+    "of": [
+     {
+      "type": "course",
+      "course": "PSY 357"
+     },
+     {
+      "type": "course",
+      "course": "PSY 359"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
      "quote": "Psychology 357 and 359 may not be counted toward the 28 hours in psychology required for the major."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
+    "text": "No student may register for more than 10 semester hours of psychology in any one semester without approval of an undergraduate advisor in the Department of Psychology.",
+    "title": "No student may register for more than 10 semester hours of psychology in any one",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
+     "quote": "No student may register for more than 10 semester hours of psychology in any one semester without approval of an undergraduate advisor in the Department of Psychology."
+    }
+   },
+   {
+    "type": "note",
     "text": "Students must also fulfill the requirements of a minor.",
     "title": "Students must also fulfill the requirements of a minor.",
     "source": {
@@ -247,12 +595,39 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
+    "text": "A student who wishes to pursue more than one transcript-recognized minor per major, or more than one transcript-recognized certificate fulfilling the requirements of the minor per major, must consult with his or her academic advisor to get permission from the College. When considering whether to grant an exception and allow pursuit of another transcript-recognized credential, the academic advisor ",
+    "title": "A student who wishes to pursue more than one transcript-recognized minor per maj",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
+     "quote": "A student who wishes to pursue more than one transcript-recognized minor per major, or more than one transcript-recognized certificate fulfilling the requirements of the minor per major, must consult with his or her acad"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Before planning to use a course to fulfill the minor requirement, the student should consult the department that offers the course.",
+    "title": "Before planning to use a course to fulfill the minor requirement, the student sh",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
+     "quote": "Before planning to use a course to fulfill the minor requirement, the student should consult the department that offers the course."
+    }
+   },
+   {
+    "type": "note",
     "text": "At least nine of the hours required for the minor must include coursework not used to satisfy the requirements of the student's major. Courses used to fulfill the requirements for a minor must be taken on a letter-grade basis, and half of the required semester hours must be taken in residence.",
     "title": "At least nine of the hours required for the minor must include coursework not us",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
-     "quote": "At least nine of the hours required for the minor must include coursework not used to satisfy the requirements of the student's major. Courses used to fulfill the requirements for a minor must be take"
+     "quote": "At least nine of the hours required for the minor must include coursework not used to satisfy the requirements of the student's major. Courses used to fulfill the requirements for a minor must be taken on a letter-grade "
+    }
+   },
+   {
+    "type": "note",
+    "text": "In addition to the core curriculum, prescribed work, major, and minor, the student must complete enough elective coursework to provide the 120 semester hours required for the degree. These 120 hours may include no more than 12 hours of conference courses and internship courses combined as described in Conference Courses and Internship Courses; 12 hours of Bible courses; nine hours of designated co",
+    "title": "In addition to the core curriculum, prescribed work, major, and minor, the stude",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bs-psychology/",
+     "quote": "In addition to the core curriculum, prescribed work, major, and minor, the student must complete enough elective coursework to provide the 120 semester hours required for the degree. These 120 hours may include no more t"
     }
    }
   ]
@@ -261,6 +636,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BS",
  "majorSubjects": [
-  "PSY"
+  "BIO"
  ]
 }

@@ -28,7 +28,7 @@ errors: list[str] = []
 warnings: list[str] = []
 
 COURSE_ID = re.compile(r"^[A-Z][A-Z &\-']{0,5} \d[0-9A-Z]*$")
-NODE_TYPES = {"all", "anyN", "course", "hours", "gpa", "concentration", "manual"}
+NODE_TYPES = {"all", "anyN", "course", "hours", "gpa", "concentration", "manual", "note"}
 
 
 def err(msg: str) -> None:
@@ -137,9 +137,9 @@ def check_program(path: Path, ids: set[str], program_ids: set[str]) -> None:
         elif t == "concentration":
             if not isinstance(node.get("hours"), (int, float)) or node["hours"] <= 0:
                 err(f"{ctx}: bad concentration hours")
-        elif t == "manual":
+        elif t in ("manual", "note"):
             if not node.get("text"):
-                err(f"{ctx}: manual node without text")
+                err(f"{ctx}: {t} node without text")
         if t in ("all", "anyN") and not node.get("of"):
             err(f"{ctx}: empty children")
         quote = (node.get("source") or {}).get("quote")

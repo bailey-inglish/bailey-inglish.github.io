@@ -96,9 +96,11 @@ function evalNode(node: RuleNode, ctx: Ctx): NodeResult {
   switch (node.type) {
     case 'all': {
       const children = node.of.map((ch) => evalNode(ch, ctx))
-      const statuses = children.map((r) => r.status)
+      // notes are inert context — they never make a parent unmet
+      const statuses = children.filter((r) => r.status !== 'note').map((r) => r.status)
       let status: NodeStatus
-      if (statuses.every((s) => s === 'met')) status = 'met'
+      if (statuses.length === 0) status = 'note'
+      else if (statuses.every((s) => s === 'met')) status = 'met'
       else if (statuses.every((s) => s === 'manual')) status = 'manual'
       else if (statuses.some((s) => s === 'met' || s === 'partial')) status = 'partial'
       else status = 'unmet'
@@ -110,6 +112,8 @@ function evalNode(node: RuleNode, ctx: Ctx): NodeResult {
         children,
       }
     }
+    case 'note':
+      return { node, status: 'note', matched: [], deficitHours: 0 }
     case 'anyN': {
       const children = node.of.map((ch) => evalNode(ch, ctx))
       const metCount = children.filter((r) => r.status === 'met').length
@@ -275,7 +279,7 @@ interface Unit {
  */
 function collectUnits(r: NodeResult, out: Unit[]): void {
   const t = r.node.type
-  if (r.node.umbrella) return
+  if (r.node.umbrella || t === 'note') return
   if (t === 'anyN' || t === 'course' || t === 'hours' || t === 'gpa' || t === 'concentration' || t === 'manual') {
     out.push({ status: r.status })
     return

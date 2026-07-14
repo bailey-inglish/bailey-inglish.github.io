@@ -15,37 +15,60 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students seeking the Bachelor of Science in Mathematics select one of the following Options: Actuarial Science, Mathematics for Secondary Teaching, Mathematics Honors, or Mathematics. Students who plan to follow Option VI, mathematics Honors, must be admitted to the Dean’s Scholars Honors Program.",
     "title": "Students seeking the Bachelor of Science in Mathematics select one of the follow",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-     "quote": "Students seeking the Bachelor of Science in Mathematics select one of the following Options: Actuarial Science, Mathematics for Secondary Teaching, Mathematics Honors, or Mathematics. Students who pla"
+     "quote": "Students seeking the Bachelor of Science in Mathematics select one of the following Options: Actuarial Science, Mathematics for Secondary Teaching, Mathematics Honors, or Mathematics. Students who plan to follow Option V"
+    }
+   },
+   {
+    "type": "course",
+    "course": "RHE 306",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
+     "quote": "Skills and experience flags: Writing: two flagged courses beyond Rhetoric and Writing 306 or its equivalent, including one at the upper-division level"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Courses that may be used to fulfill flag requirements are identified in the Course Schedule. They may be used simultaneously to fulfill other requirements, unless otherwise specified. Please note, students may not earn the cultural diversity in the United States and the global culture flags from the same course. Students are encouraged to discuss options with their academic advisors.",
+    "title": "Courses that may be used to fulfill flag requirements are identified in the Cour",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
+     "quote": "Courses that may be used to fulfill flag requirements are identified in the Course Schedule. They may be used simultaneously to fulfill other requirements, unless otherwise specified. Please note, students may not earn t"
     }
    },
    {
     "type": "hours",
     "hours": 42.0,
-    "umbrella": true,
-    "title": "42 upper-division hours",
+    "title": "Forty-two semester hours of upper-division coursework. At least 21 semester hours of upper",
     "filter": {
-     "division": "upper",
-     "label": "Upper-division coursework"
+     "label": "Forty-two semester hours of upper-division coursework. At least 21 semester hour",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
      "quote": "Forty-two semester hours of upper-division coursework. At least 21 semester hours of upper-division coursework must be completed in residence at the University."
     },
-    "inResidence": true
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "Eighteen semester hours in mathematics must be completed in residence at the University.",
-    "title": "Eighteen semester hours in mathematics must be completed in residence at the Uni",
+    "type": "hours",
+    "hours": 18.0,
+    "title": "Eighteen semester hours in mathematics must be completed in residence at the University.",
+    "filter": {
+     "label": "Eighteen semester hours in mathematics must be completed in residence at the Uni",
+     "subjects": [
+      "M"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
      "quote": "Eighteen semester hours in mathematics must be completed in residence at the University."
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "anyN",
@@ -57,7 +80,7 @@
       "title": "Option I: Actuarial Science",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Eight semester hours of majors-level coursework in one of the following areas: astronomy, biology, chemistry, geological sciences, and physics.",
         "title": "Eight semester hours of majors-level coursework in one of the following areas: a",
         "source": {
@@ -66,18 +89,9 @@
         }
        },
        {
-        "type": "all",
+        "type": "note",
+        "text": "Complete one of the following: Mathematics 408C* and 408D",
         "title": "Complete one of the following: Mathematics 408C* and 408D",
-        "of": [
-         {
-          "type": "course",
-          "course": "M 408C"
-         },
-         {
-          "type": "course",
-          "course": "M 408D"
-         }
-        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Complete one of the following: Mathematics 408C* and 408D"
@@ -102,9 +116,38 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Mathematics 408K and 408L *Mathematics 408N, and 408S, or 408K and 408L, may substitute for 408C",
-        "title": "Mathematics 408K and 408L *Mathematics 408N, and 408S, or 408K and 408L, may sub",
+        "type": "all",
+        "title": "Mathematics 408K and 408L *Mathematics 408N, and 408S, or 408K and 408L, may substitute fo",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408K"
+         },
+         {
+          "type": "course",
+          "course": "M 408L"
+         },
+         {
+          "type": "course",
+          "course": "M 408N"
+         },
+         {
+          "type": "course",
+          "course": "M 408S"
+         },
+         {
+          "type": "course",
+          "course": "M 408K"
+         },
+         {
+          "type": "course",
+          "course": "M 408L"
+         },
+         {
+          "type": "course",
+          "course": "M 408C"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Mathematics 408K and 408L *Mathematics 408N, and 408S, or 408K and 408L, may substitute for 408C"
@@ -129,9 +172,22 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Accounting 310F or both 311 and 312",
+        "type": "all",
         "title": "Accounting 310F or both 311 and 312",
+        "of": [
+         {
+          "type": "course",
+          "course": "ACC 310F"
+         },
+         {
+          "type": "course",
+          "course": "ACC 311"
+         },
+         {
+          "type": "course",
+          "course": "ACC 312"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Accounting 310F or both 311 and 312"
@@ -146,18 +202,41 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Upper-division mathematics courses, including: Mathematics 325K or 328K. Mathematics 328K is recommended for students with substantial experience in writing proofs.",
-        "title": "Upper-division mathematics courses, including: Mathematics 325K or 328K. Mathema",
+        "type": "anyN",
+        "title": "Upper-division mathematics courses, including: Mathematics 325K or 328K. Mathematics 328K ",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 328K"
+         },
+         {
+          "type": "course",
+          "course": "M 328K"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Upper-division mathematics courses, including: Mathematics 325K or 328K. Mathematics 328K is recommended for students with substantial experience in writing proofs."
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "Mathematics 341. Mathematics 340L may be substituted for 341 if the course was completed prior to entry into the mathematics entry-level major.",
-        "title": "Mathematics 341. Mathematics 340L may be substituted for 341 if the course was c",
+        "type": "all",
+        "title": "Mathematics 341. Mathematics 340L may be substituted for 341 if the course was completed p",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 341"
+         },
+         {
+          "type": "course",
+          "course": "M 340L"
+         },
+         {
+          "type": "course",
+          "course": "M 341"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Mathematics 341. Mathematics 340L may be substituted for 341 if the course was completed prior to entry into the mathematics entry-level major."
@@ -212,54 +291,31 @@
         }
        },
        {
-        "type": "all",
-        "title": "Two courses from the following: Mathematics 339V, M 339W, 349P",
-        "of": [
-         {
-          "type": "course",
-          "course": "M 339V"
-         },
-         {
-          "type": "course",
-          "course": "M 349P"
-         }
-        ],
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "Two courses from the following: Mathematics 339V, M 339W, 349P"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "One additional course chosen from the following: Mathematics 339C, 339V, M 339W, 349P, 349R, 378K One of the courses fulfilling requirement 11a through 11f must be taught in the inquiry based learning (IBL) format or with an independent inquiry flag. IBL courses are identified each semester through a notation under the unique number in the course schedule and through a list maintained in the mathematics advising office in Robert Lee Moore Hall, room 4.101. Courses with an independent inquiry flag are identified in the Course Schedule.",
+        "type": "note",
+        "text": "One additional course chosen from the following: Mathematics 339C, 339V, M 339W, 349P, 349R, 378K One of the courses fulfilling requirement 11a through 11f must be taught in the inquiry based learning (IBL) format or with an independent inquiry flag. IBL courses are identified each semester through a notation under the unique number in the course schedule and through a list maintained in the mathe",
         "title": "One additional course chosen from the following: Mathematics 339C, 339V, M 339W,",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "One additional course chosen from the following: Mathematics 339C, 339V, M 339W, 349P, 349R, 378K One of the courses fulfilling requirement 11a through 11f must be taught in the inquiry based learning"
+         "quote": "One additional course chosen from the following: Mathematics 339C, 339V, M 339W, 349P, 349R, 378K One of the courses fulfilling requirement 11a through 11f must be taught in the inquiry based learning (IBL) format or wit"
         }
        },
        {
         "type": "hours",
         "hours": 6.0,
-        "umbrella": true,
-        "title": "6 upper-division hours",
+        "title": "At least six semester hours of upper-division coursework must be outside both mathematics ",
         "filter": {
-         "division": "upper",
-         "label": "Upper-division coursework"
+         "label": "At least six semester hours of upper-division coursework must be outside both ma",
+         "division": "upper"
         },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "At least six semester hours of upper-division coursework must be outside both mathematics and the fields of study listed in requirement 1. Philosophy courses in logic, computer science courses in disc"
+         "quote": "At least six semester hours of upper-division coursework must be outside both mathematics and the fields of study listed in requirement 1. Philosophy courses in logic, computer science courses in discrete mathematics, en"
         }
        },
        {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 120 semester hours.",
+        "title": "Enough additional coursework to make a total of 120 semester hours.",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Enough additional coursework to make a total of 120 semester hours."
@@ -272,17 +328,25 @@
       "title": "Option V: Teaching",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
+        "text": "This option is designed to fulfill the course requirements for certification as a middle grades or secondary school mathematics teacher in Texas; the student chooses mathematics certification or mathematics, physical science, and engineering certification. However, completion of the course requirements does not guarantee the student’s certification. For information about additional certification r",
+        "title": "This option is designed to fulfill the course requirements for certification as ",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
+         "quote": "This option is designed to fulfill the course requirements for certification as a middle grades or secondary school mathematics teacher in Texas; the student chooses mathematics certification or mathematics, physical sci"
+        }
+       },
+       {
+        "type": "note",
         "text": "Students are encouraged to become familiar with a variety of mathematical software relevant to middle grades or secondary teaching, such as computer geometry systems, spreadsheets, and statistical software. Whenever possible, the student should take courses and sections of courses that use these types of software.",
         "title": "Students are encouraged to become familiar with a variety of mathematical softwa",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "Students are encouraged to become familiar with a variety of mathematical software relevant to middle grades or secondary teaching, such as computer geometry systems, spreadsheets, and statistical sof"
+         "quote": "Students are encouraged to become familiar with a variety of mathematical software relevant to middle grades or secondary teaching, such as computer geometry systems, spreadsheets, and statistical software. Whenever poss"
         }
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "History 329U or Philosophy 329U",
         "of": [
          {
@@ -297,25 +361,8 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "History 329U or Philosophy 329U"
-        }
-       },
-       {
-        "type": "all",
-        "title": "One of the following sequences: Mathematics 408C* and 408D",
-        "of": [
-         {
-          "type": "course",
-          "course": "M 408C"
-         },
-         {
-          "type": "course",
-          "course": "M 408D"
-         }
-        ],
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "One of the following sequences: Mathematics 408C* and 408D"
-        }
+        },
+        "n": 1
        },
        {
         "type": "all",
@@ -354,9 +401,30 @@
         }
        },
        {
-        "type": "manual",
-        "text": "*Mathematics 408N and 408S, or 408K and 408L, may substitute for 408C",
+        "type": "all",
         "title": "*Mathematics 408N and 408S, or 408K and 408L, may substitute for 408C",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408N"
+         },
+         {
+          "type": "course",
+          "course": "M 408S"
+         },
+         {
+          "type": "course",
+          "course": "M 408K"
+         },
+         {
+          "type": "course",
+          "course": "M 408L"
+         },
+         {
+          "type": "course",
+          "course": "M 408C"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "*Mathematics 408N and 408S, or 408K and 408L, may substitute for 408C"
@@ -372,7 +440,6 @@
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "Biology 337 (Topic 2: Research Methods: UTeach), Chemistry 368 (Topic 1: Research Methods:",
         "of": [
          {
@@ -391,21 +458,53 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Biology 337 (Topic 2: Research Methods: UTeach), Chemistry 368 (Topic 1: Research Methods: UTeach) or Physics 341 (Topic 7: Research Methods: UTeach)"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "The requirements of one of the following certification areas: For mathematics certification: Mathematics 340L or 341",
-        "title": "The requirements of one of the following certification areas: For mathematics ce",
+        "type": "anyN",
+        "title": "The requirements of one of the following certification areas: For mathematics certificatio",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 340L"
+         },
+         {
+          "type": "course",
+          "course": "M 341"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "The requirements of one of the following certification areas: For mathematics certification: Mathematics 340L or 341"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "Mathematics 325K or 328K, 333L, 358K, and 362K. Mathematics 328K is recommended for students with substantial experience in writing proofs.",
-        "title": "Mathematics 325K or 328K, 333L, 358K, and 362K. Mathematics 328K is recommended ",
+        "type": "all",
+        "title": "Mathematics 325K or 328K, 333L, 358K, and 362K. Mathematics 328K is recommended for studen",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 328K"
+         },
+         {
+          "type": "course",
+          "course": "M 333L"
+         },
+         {
+          "type": "course",
+          "course": "M 358K"
+         },
+         {
+          "type": "course",
+          "course": "M 362K"
+         },
+         {
+          "type": "course",
+          "course": "M 328K"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Mathematics 325K or 328K, 333L, 358K, and 362K. Mathematics 328K is recommended for students with substantial experience in writing proofs."
@@ -421,7 +520,6 @@
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "Mathematics 361K or 365C",
         "of": [
          {
@@ -436,11 +534,11 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Mathematics 361K or 365C"
-        }
+        },
+        "n": 1
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "Mathematics 343K or 373K",
         "of": [
          {
@@ -455,7 +553,8 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Mathematics 343K or 373K"
-        }
+        },
+        "n": 1
        },
        {
         "type": "course",
@@ -466,35 +565,45 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Two courses chosen from: Mathematics 328K, 339J, 339U, 343K, 343L, 348, 361, 365C, 365D, 368K, 373K, 373L, 378K. A course used to fulfill requirements 9ai through 9avi may not also be counted toward requirement 9avii",
-        "title": "Two courses chosen from: Mathematics 328K, 339J, 339U, 343K, 343L, 348, 361, 365",
+        "type": "all",
+        "title": "For mathematics, physical science, and engineering certification: Mathematics 325K or 328K",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 328K"
+         },
+         {
+          "type": "course",
+          "course": "M 427J"
+         },
+         {
+          "type": "course",
+          "course": "M 333L"
+         },
+         {
+          "type": "course",
+          "course": "M 341"
+         },
+         {
+          "type": "course",
+          "course": "M 358K"
+         },
+         {
+          "type": "course",
+          "course": "M 362K"
+         },
+         {
+          "type": "course",
+          "course": "M 328K"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "Two courses chosen from: Mathematics 328K, 339J, 339U, 343K, 343L, 348, 361, 365C, 365D, 368K, 373K, 373L, 378K. A course used to fulfill requirements 9ai through 9avi may not also be counted toward r"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "A three-semester-hour supporting course that uses mathematics but is in a field other than mathematics. The following courses may be used to fulfill this requirement: Accounting 310F or 311, Architectural Engineering 323K, Astronomy 307, 352K, 352L, 358, 367M, Chemistry 301 or CH 301H, 303, Civil Engineering 321, 341, Computer Science 303E, 313E, Economics 420K, Electrical and Computer Engineering 302, 366, 366L, Geological Sciences 346C, 354, 476K, GRG 360L, Government 341M, Human Development and Family Sciences 322, Mechanical Engineering 320, 326, 366L, 366Q, 366R, Petroleum and Geosystems Engineering 311, Physics 301, 303K, 303L, Psychology 325K, 332",
-        "title": "A three-semester-hour supporting course that uses mathematics but is in a field ",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "A three-semester-hour supporting course that uses mathematics but is in a field other than mathematics. The following courses may be used to fulfill this requirement: Accounting 310F or 311, Architect"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "For mathematics, physical science, and engineering certification: Mathematics 325K or 328K, 427J, 333L, 341, 358K, and 362K. Mathematics 328K is recommended for students with substantial experience in writing proofs",
-        "title": "For mathematics, physical science, and engineering certification: Mathematics 32",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "For mathematics, physical science, and engineering certification: Mathematics 325K or 328K, 427J, 333L, 341, 358K, and 362K. Mathematics 328K is recommended for students with substantial experience in"
+         "quote": "For mathematics, physical science, and engineering certification: Mathematics 325K or 328K, 427J, 333L, 341, 358K, and 362K. Mathematics 328K is recommended for students with substantial experience in writing proofs"
         }
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "Mathematics 361K or 365C",
         "of": [
          {
@@ -509,7 +618,8 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Mathematics 361K or 365C"
-        }
+        },
+        "n": 1
        },
        {
         "type": "course",
@@ -554,43 +664,80 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Chemistry 301 or CH 301H, 302 or CH 302H, and 204",
+        "type": "all",
         "title": "Chemistry 301 or CH 301H, 302 or CH 302H, and 204",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 301"
+         },
+         {
+          "type": "course",
+          "course": "CH 302"
+         },
+         {
+          "type": "course",
+          "course": "CH 204"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Chemistry 301 or CH 301H, 302 or CH 302H, and 204"
         }
        },
        {
-        "type": "manual",
-        "text": "Engineering Studies 301; and Mechanical Engineering 377K upon approval of the projects by the UTeach Program.",
-        "title": "Engineering Studies 301; and Mechanical Engineering 377K upon approval of the pr",
+        "type": "all",
+        "title": "Engineering Studies 301; and Mechanical Engineering 377K upon approval of the projects by ",
+        "of": [
+         {
+          "type": "course",
+          "course": "E S 301"
+         },
+         {
+          "type": "course",
+          "course": "M E 377K"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Engineering Studies 301; and Mechanical Engineering 377K upon approval of the projects by the UTeach Program."
         }
        },
        {
-        "type": "manual",
-        "text": "Eighteen semester hours of professional development coursework consisting of: a. Curriculum and Instruction 651S (Topic 3: Secondary School Teaching Practicum: Math) b. Curriculum and Instruction 365C or UTeach-Natural Sciences 350 c. Curriculum and Instruction 365D or UTeach-Natural Sciences 355 d. Curriculum and Instruction 365E or UTeach-Natural Sciences 360 e. UTeach-Natural Sciences 101, 110, and 170",
-        "title": "Eighteen semester hours of professional development coursework consisting of: a.",
+        "type": "hours",
+        "hours": 18.0,
+        "title": "Eighteen semester hours of professional development coursework consisting of: a. Curriculu",
+        "filter": {
+         "label": "Eighteen semester hours of professional development coursework consisting of: a.",
+         "courses": [
+          "EDC 651S",
+          "EDC 365C",
+          "UTS 350",
+          "EDC 365D",
+          "UTS 355",
+          "EDC 365E",
+          "UTS 360",
+          "UTS 101",
+          "UTS 110",
+          "UTS 170"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "Eighteen semester hours of professional development coursework consisting of: a. Curriculum and Instruction 651S (Topic 3: Secondary School Teaching Practicum: Math) b. Curriculum and Instruction 365C"
+         "quote": "Eighteen semester hours of professional development coursework consisting of: a. Curriculum and Instruction 651S (Topic 3: Secondary School Teaching Practicum: Math) b. Curriculum and Instruction 365C or UTeach-Natural S"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Students seeking middle grades certification must complete the following courses: Educational Psychology 350G, or Psychology 301 and 304; and Curriculum and Instruction 339E. Students seeking mathematics, physical science, and engineering certification may not seek middle grade certification.",
         "title": "Students seeking middle grades certification must complete the following courses",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "Students seeking middle grades certification must complete the following courses: Educational Psychology 350G, or Psychology 301 and 304; and Curriculum and Instruction 339E. Students seeking mathemat"
+         "quote": "Students seeking middle grades certification must complete the following courses: Educational Psychology 350G, or Psychology 301 and 304; and Curriculum and Instruction 339E. Students seeking mathematics, physical scienc"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Enough additional coursework to make a total of at least 120 semester hours",
         "title": "Enough additional coursework to make a total of at least 120 semester hours",
         "source": {
@@ -605,62 +752,59 @@
       "title": "Option VI: Mathematics Honors",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Breadth requirement: An honors mathematics course; one of the following two-semester sequences: Biology 315H and 325H, CH 301H and CH 302H, or Physics 301, 101L, 316, and 116L; and nine additional semester hours chosen from the preceding courses, Physics 315 and 115L. Credit earned by examination may not be counted toward this requirement",
         "title": "Breadth requirement: An honors mathematics course; one of the following two-seme",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "Breadth requirement: An honors mathematics course; one of the following two-semester sequences: Biology 315H and 325H, CH 301H and CH 302H, or Physics 301, 101L, 316, and 116L; and nine additional sem"
+         "quote": "Breadth requirement: An honors mathematics course; one of the following two-semester sequences: Biology 315H and 325H, CH 301H and CH 302H, or Physics 301, 101L, 316, and 116L; and nine additional semester hours chosen f"
         }
        },
        {
-        "type": "all",
-        "title": "An honors section of Mathematics 427J, and six semester hours of coursework chosen from Ma",
-        "of": [
-         {
-          "type": "course",
-          "course": "M 427J"
-         },
-         {
-          "type": "course",
-          "course": "M 365C"
-         },
-         {
-          "type": "course",
-          "course": "M 367K"
-         },
-         {
-          "type": "course",
-          "course": "M 373K"
-         }
-        ],
+        "type": "note",
+        "text": "An honors section of Mathematics 427J, and six semester hours of coursework chosen from Mathematics 365C, 367K, and 373K",
+        "title": "An honors section of Mathematics 427J, and six semester hours of coursework chos",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "An honors section of Mathematics 427J, and six semester hours of coursework chosen from Mathematics 365C, 367K, and 373K"
         }
        },
        {
-        "type": "manual",
-        "text": "Twenty additional semester hours of upper-division coursework in mathematics approved by the departmental faculty advisor",
-        "title": "Twenty additional semester hours of upper-division coursework in mathematics app",
+        "type": "hours",
+        "hours": 20.0,
+        "title": "Twenty additional semester hours of upper-division coursework in mathematics approved by t",
+        "filter": {
+         "label": "Twenty additional semester hours of upper-division coursework in mathematics app",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Twenty additional semester hours of upper-division coursework in mathematics approved by the departmental faculty advisor"
-        }
+        },
+        "umbrella": true
        },
        {
-        "type": "manual",
-        "text": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor",
-        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the department",
+        "type": "anyN",
+        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors ",
+        "of": [
+         {
+          "type": "course",
+          "course": "UGS 302"
+         },
+         {
+          "type": "course",
+          "course": "UGS 303"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean Scholars Honors Program",
-        "title": "A section of Rhetoric and Writing 309S that is restricted to students in the Dea",
+        "type": "course",
+        "course": "RHE 309S",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean Scholars Honors Program"
@@ -675,7 +819,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Thirty additional semester hours of coursework approved by the departmental honors advisor",
         "title": "Thirty additional semester hours of coursework approved by the departmental hono",
         "source": {
@@ -684,7 +828,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Six semester hours of coursework from the College of Liberal Arts and/or the College of Fine Arts",
         "title": "Six semester hours of coursework from the College of Liberal Arts and/or the Col",
         "source": {
@@ -693,13 +837,9 @@
         }
        },
        {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 120 semester hours.",
+        "title": "Enough additional coursework to make a total of 120 semester hours.",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Enough additional coursework to make a total of 120 semester hours."
@@ -712,7 +852,7 @@
       "title": "Option VII: Mathematics",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Eight semester hours of majors-level coursework in one of the following areas: astronomy, biology, chemistry, geological sciences, and physics",
         "title": "Eight semester hours of majors-level coursework in one of the following areas: a",
         "source": {
@@ -726,24 +866,6 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Computer Science 303E"
-        }
-       },
-       {
-        "type": "all",
-        "title": "One of the following sequences: Mathematics 408C* and 408D",
-        "of": [
-         {
-          "type": "course",
-          "course": "M 408C"
-         },
-         {
-          "type": "course",
-          "course": "M 408D"
-         }
-        ],
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "One of the following sequences: Mathematics 408C* and 408D"
         }
        },
        {
@@ -783,114 +905,198 @@
         }
        },
        {
-        "type": "manual",
-        "text": "*Mathematics 408N and 408S, or 408K and 408L, may substitute for 408C",
+        "type": "all",
         "title": "*Mathematics 408N and 408S, or 408K and 408L, may substitute for 408C",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408N"
+         },
+         {
+          "type": "course",
+          "course": "M 408S"
+         },
+         {
+          "type": "course",
+          "course": "M 408K"
+         },
+         {
+          "type": "course",
+          "course": "M 408L"
+         },
+         {
+          "type": "course",
+          "course": "M 408C"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "*Mathematics 408N and 408S, or 408K and 408L, may substitute for 408C"
         }
        },
        {
-        "type": "manual",
-        "text": "Three of the following: Mathematics 408M or 427L, 427J, 341, 362K. Mathematics 340L may be substituted for 341 if the course was taken prior to entry into the mathematics entry-level major",
-        "title": "Three of the following: Mathematics 408M or 427L, 427J, 341, 362K. Mathematics 3",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "Three of the following: Mathematics 408M or 427L, 427J, 341, 362K. Mathematics 340L may be substituted for 341 if the course was taken prior to entry into the mathematics entry-level major"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "Mathematics 325K or 328K. Mathematics 328K is recommended for students with substantial experience in writing proofs",
-        "title": "Mathematics 325K or 328K. Mathematics 328K is recommended for students with subs",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "Mathematics 325K or 328K. Mathematics 328K is recommended for students with substantial experience in writing proofs"
-        }
-       },
-       {
-        "type": "all",
-        "title": "One of the following: Mathematics 343K, 361K, 365C, 367K, 373K.",
+        "type": "anyN",
+        "title": "Three of the following: Mathematics 408M or 427L, 427J, 341, 362K. Mathematics 340L may be",
         "of": [
          {
           "type": "course",
-          "course": "M 343K"
+          "course": "M 408M"
          },
          {
           "type": "course",
-          "course": "M 361K"
+          "course": "M 427L"
          },
          {
           "type": "course",
-          "course": "M 365C"
+          "course": "M 427J"
          },
          {
           "type": "course",
-          "course": "M 367K"
+          "course": "M 341"
          },
          {
           "type": "course",
-          "course": "M 373K"
+          "course": "M 362K"
+         },
+         {
+          "type": "course",
+          "course": "M 340L"
+         },
+         {
+          "type": "course",
+          "course": "M 341"
          }
         ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "One of the following: Mathematics 343K, 361K, 365C, 367K, 373K."
-        }
+         "quote": "Three of the following: Mathematics 408M or 427L, 427J, 341, 362K. Mathematics 340L may be substituted for 341 if the course was taken prior to entry into the mathematics entry-level major"
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "Complete 33 hours of upper-division mathematics, from requirements 8, 9, 10, and the following: Mathematics 325K, 427J or 427K, 427L, 328K, 329F, 333L, 339C, 339D, 339J, 339U, 339V, M 339W, 340L or 341, 343K, 343L, 344K, 346, 348, 349P, 349R, 358K, 361, 361K, 362K, 362M, 365C, 365D, 365G, 367K, 367L, 368K, 371E, 372K, 373K, 373L, 374G, 374M, 375D, 375T, 378K, and 379H. Mathematics 374M may not count toward both requirement 11 and 13.",
-        "title": "Complete 33 hours of upper-division mathematics, from requirements 8, 9, 10, and",
+        "type": "anyN",
+        "title": "Mathematics 325K or 328K. Mathematics 328K is recommended for students with substantial ex",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 328K"
+         },
+         {
+          "type": "course",
+          "course": "M 328K"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "Complete 33 hours of upper-division mathematics, from requirements 8, 9, 10, and the following: Mathematics 325K, 427J or 427K, 427L, 328K, 329F, 333L, 339C, 339D, 339J, 339U, 339V, M 339W, 340L or 34"
-        }
+         "quote": "Mathematics 325K or 328K. Mathematics 328K is recommended for students with substantial experience in writing proofs"
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "Mathematics in context. One course chosen from: a. Mathematics 374M b. Chemistry 353, 354 c. Computer Science 341, 342, 345, 346, 353, 367 d. Electrical and Computer Engineering 411, 325, 360C, 362K e. Physics 329, 336K, 352K Courses in requirements 13b through 13e may require additional prerequisites. Mathematics 374M may not count toward both requirement 11 and 13.",
-        "title": "Mathematics in context. One course chosen from: a. Mathematics 374M b. Chemistry",
+        "type": "hours",
+        "hours": 33.0,
+        "title": "Complete 33 hours of upper-division mathematics, from requirements 8, 9, 10, and the follo",
+        "filter": {
+         "label": "Complete 33 hours of upper-division mathematics, from requirements 8, 9, 10, and",
+         "courses": [
+          "M 427J",
+          "M 427K",
+          "M 427L",
+          "M 328K",
+          "M 329F",
+          "M 333L",
+          "M 339C",
+          "M 339D",
+          "M 339J",
+          "M 339U",
+          "M 339V",
+          "M 340L",
+          "M 341",
+          "M 343K",
+          "M 343L",
+          "M 344K",
+          "M 346",
+          "M 348",
+          "M 349P",
+          "M 349R",
+          "M 358K",
+          "M 361",
+          "M 361K",
+          "M 362K",
+          "M 362M",
+          "M 365C",
+          "M 365D",
+          "M 365G",
+          "M 367K",
+          "M 367L",
+          "M 368K",
+          "M 371E",
+          "M 372K",
+          "M 373K",
+          "M 373L",
+          "M 374G",
+          "M 374M",
+          "M 375D",
+          "M 375T",
+          "M 378K",
+          "M 379H",
+          "M 374M"
+         ],
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "Mathematics in context. One course chosen from: a. Mathematics 374M b. Chemistry 353, 354 c. Computer Science 341, 342, 345, 346, 353, 367 d. Electrical and Computer Engineering 411, 325, 360C, 362K e"
-        }
+         "quote": "Complete 33 hours of upper-division mathematics, from requirements 8, 9, 10, and the following: Mathematics 325K, 427J or 427K, 427L, 328K, 329F, 333L, 339C, 339D, 339J, 339U, 339V, M 339W, 340L or 341, 343K, 343L, 344K,"
+        },
+        "umbrella": true
        },
        {
         "type": "hours",
         "hours": 6.0,
-        "umbrella": true,
-        "title": "6 upper-division hours",
+        "title": "At least six semester hours of upper-division coursework must be outside both mathematics ",
         "filter": {
-         "division": "upper",
-         "label": "Upper-division coursework"
+         "label": "At least six semester hours of upper-division coursework must be outside both ma",
+         "division": "upper"
         },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "At least six semester hours of upper-division coursework must be outside both mathematics and the fields of study listed in requirement 5. Philosophy courses in logic, computer science courses in disc"
+         "quote": "At least six semester hours of upper-division coursework must be outside both mathematics and the fields of study listed in requirement 5. Philosophy courses in logic, computer science courses in discrete mathematics, en"
         }
        },
        {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 120 semester hours",
+        "title": "Enough additional coursework to make a total of 120 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Enough additional coursework to make a total of 120 semester hours"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
+        "text": "Students in all Options must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for the degree, and a grade point average in these courses of at least 2.00. More information about grades and the grade point average is given in the General Information Catalog.",
+        "title": "Students in all Options must fulfill both the University's General Requirements ",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
+         "quote": "Students in all Options must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for "
+        }
+       },
+       {
+        "type": "note",
+        "text": "To graduate and be recommended for certification, students who follow the Teaching Option must have a University grade point average of at least 2.50. They must earn a grade of at least C- in the supporting course in requirement 5 and 8 and in each of the professional development courses listed in requirement 10 and must pass the final teaching portfolio review; those seeking middle grades certifi",
+        "title": "To graduate and be recommended for certification, students who follow the Teachi",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
+         "quote": "To graduate and be recommended for certification, students who follow the Teaching Option must have a University grade point average of at least 2.50. They must earn a grade of at least C- in the supporting course in req"
+        }
+       },
+       {
+        "type": "note",
         "text": "To graduate under Option VI, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor, and must present their research in an approved public forum, such as the college’s annual Undergraduate Research Forum.",
         "title": "To graduate under Option VI, students must remain in good standing in the Dean’s",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
-         "quote": "To graduate under Option VI, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor, and must present the"
+         "quote": "To graduate under Option VI, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor, and must present their research in an ap"
         }
        }
       ]

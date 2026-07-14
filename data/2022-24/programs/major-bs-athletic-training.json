@@ -14,36 +14,49 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "note",
+    "text": "Students who plan to major in athletic training must be admitted to the Athletic Training Program (ATP). Admission is based on a competitive application process. The student’s grade point average and completion of prescribed coursework are factors in the admission decision. Applicants must also participate in the Directed Observation Program, meet a set of technical standards, pass a health assess",
+    "title": "Students who plan to major in athletic training must be admitted to the Athletic",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
+     "quote": "Students who plan to major in athletic training must be admitted to the Athletic Training Program (ATP). Admission is based on a competitive application process. The student’s grade point average and completion of prescr"
+    }
+   },
+   {
+    "type": "note",
     "text": "In addition to completing the coursework associated with the athletic training major, students in the ATP must participate in clinical rotations and become adept in a set of educational competencies and clinical proficiencies. Students who plan to take the state licensure examination for athletic trainers must complete the ATP.",
     "title": "In addition to completing the coursework associated with the athletic training m",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
-     "quote": "In addition to completing the coursework associated with the athletic training major, students in the ATP must participate in clinical rotations and become adept in a set of educational competencies a"
+     "quote": "In addition to completing the coursework associated with the athletic training major, students in the ATP must participate in clinical rotations and become adept in a set of educational competencies and clinical proficie"
     }
    },
    {
-    "type": "manual",
-    "text": "Writing: three flagged courses beyond Rhetoric and Writing 306 or its equivalent. Kinesiology 346 carries a writing flag.",
-    "title": "Writing: three flagged courses beyond Rhetoric and Writing 306 or its equivalent",
+    "type": "note",
+    "text": "The curriculum for the degree has four components: (a) the University-wide core curriculum; (b) prescribed work; (c) major requirements; and (d) electives. A total of at least 120 semester hours of coursework is required; at least 36 hours must be in upper-division courses.",
+    "title": "The curriculum for the degree has four components: (a) the University-wide core ",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
-     "quote": "Writing: three flagged courses beyond Rhetoric and Writing 306 or its equivalent. Kinesiology 346 carries a writing flag."
+     "quote": "The curriculum for the degree has four components: (a) the University-wide core curriculum; (b) prescribed work; (c) major requirements; and (d) electives. A total of at least 120 semester hours of coursework is required"
     }
    },
    {
-    "type": "manual",
-    "text": "Quantitative Reasoning: one flagged course. Kinesiology 320 carries a quantitative reasoning flag.",
-    "title": "Quantitative Reasoning: one flagged course. Kinesiology 320 carries a quantitati",
+    "type": "note",
+    "text": "All students must complete the University’s Core Curriculum. In the process of fulfilling the core curriculum and other degree requirements, all students are expected to complete the Skills and Experience flags.",
+    "title": "All students must complete the University’s Core Curriculum. In the process of f",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
-     "quote": "Quantitative Reasoning: one flagged course. Kinesiology 320 carries a quantitative reasoning flag."
+     "quote": "All students must complete the University’s Core Curriculum. In the process of fulfilling the core curriculum and other degree requirements, all students are expected to complete the Skills and Experience flags."
     }
    },
    {
-    "type": "all",
-    "title": "Ethics: one flagged course. Kinesiology 346 carries an ethics flag",
+    "type": "anyN",
+    "title": "Writing: three flagged courses beyond Rhetoric and Writing 306 or its equivalent. Kinesiol",
     "of": [
+     {
+      "type": "course",
+      "course": "RHE 306"
+     },
      {
       "type": "course",
       "course": "KIN 346"
@@ -51,22 +64,126 @@
     ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
+     "quote": "Writing: three flagged courses beyond Rhetoric and Writing 306 or its equivalent. Kinesiology 346 carries a writing flag."
+    },
+    "n": 1
+   },
+   {
+    "type": "course",
+    "course": "KIN 320",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
+     "quote": "Quantitative Reasoning: one flagged course. Kinesiology 320 carries a quantitative reasoning flag."
+    }
+   },
+   {
+    "type": "course",
+    "course": "KIN 346",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "Ethics: one flagged course. Kinesiology 346 carries an ethics flag"
     }
    },
    {
-    "type": "manual",
-    "text": "Six hours of coursework in chemistry (301N and 302N , or 301 and 302), physics (302K and 302L, or 309K and 309L, or 317K and 317L), or physical science (303 and 304).",
-    "title": "Six hours of coursework in chemistry (301N and 302N , or 301 and 302), physics (",
+    "type": "note",
+    "text": "In some cases, a course that is required for the Bachelor of Science in Athletic Training may also be counted toward the core curriculum; these courses are identified below. Courses used to fulfill flag requirements may also be used to fulfill other requirements.",
+    "title": "In some cases, a course that is required for the Bachelor of Science in Athletic",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
+     "quote": "In some cases, a course that is required for the Bachelor of Science in Athletic Training may also be counted toward the core curriculum; these courses are identified below. Courses used to fulfill flag requirements may "
+    }
+   },
+   {
+    "type": "course",
+    "course": "PSY 301",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
+     "quote": "Social science Psychology 301, which may also be counted toward the social and behavioral sciences requirement of the core curriculum."
+    }
+   },
+   {
+    "type": "all",
+    "title": "Mathematics: Mathematics 305G or calculus. Mathematics 305G and several calculus courses m",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 305G"
+     },
+     {
+      "type": "course",
+      "course": "M 305G"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
+     "quote": "Mathematics: Mathematics 305G or calculus. Mathematics 305G and several calculus courses may also be counted toward the mathematics requirement of the core curriculum."
+    }
+   },
+   {
+    "type": "all",
+    "title": "Natural science: Many courses that fulfill this natural science requirement may also be co",
+    "of": [
+     {
+      "type": "course",
+      "course": "BIO 302F"
+     },
+     {
+      "type": "course",
+      "course": "BIO 311C"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
+     "quote": "Natural science: Many courses that fulfill this natural science requirement may also be counted toward the science and technology requirements of the core curriculum. Biology 302F or 311C"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours of coursework in chemistry (301N and 302N , or 301 and 302), physics (302K and 3",
+    "filter": {
+     "label": "Six hours of coursework in chemistry (301N and 302N , or 301 and 302), physics (",
+     "courses": [
+      "CH 301N",
+      "CH 302N",
+      "CH 301",
+      "CH 302",
+      "PHY 302K",
+      "PHY 302L",
+      "PHY 309K",
+      "PHY 309L",
+      "PHY 317K",
+      "PHY 317L",
+      "P S 303",
+      "P S 304"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "Six hours of coursework in chemistry (301N and 302N , or 301 and 302), physics (302K and 302L, or 309K and 309L, or 317K and 317L), or physical science (303 and 304)."
     }
    },
    {
-    "type": "manual",
-    "text": "Kinesiology 330E, Kinesiology 352K (Topic 33: Nutrition: Exercise, Health, and Sport), Nutrition 306 or 312",
-    "title": "Kinesiology 330E, Kinesiology 352K (Topic 33: Nutrition: Exercise, Health, and S",
+    "type": "all",
+    "title": "Kinesiology 330E, Kinesiology 352K (Topic 33: Nutrition: Exercise, Health, and Sport), Nut",
+    "of": [
+     {
+      "type": "course",
+      "course": "KIN 330E"
+     },
+     {
+      "type": "course",
+      "course": "KIN 352K"
+     },
+     {
+      "type": "course",
+      "course": "NTR 306"
+     },
+     {
+      "type": "course",
+      "course": "NTR 312"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "Kinesiology 330E, Kinesiology 352K (Topic 33: Nutrition: Exercise, Health, and Sport), Nutrition 306 or 312"
@@ -81,28 +198,25 @@
     }
    },
    {
-    "type": "all",
-    "title": "The following courses: Kinesiology 312 (Topic 2: Care and Prevention of Athletic Injuries)",
-    "of": [
-     {
-      "type": "course",
-      "course": "KIN 312"
-     }
-    ],
+    "type": "note",
+    "text": "Foreign language: In addition to the core curriculum requirements above, undergraduates are expected to have completed two years in a single foreign language in high school. Students without two years of high school foreign language coursework must earn credit for the second college-level course in a foreign language; this credit does not count toward the student’s degree. Students can consult wit",
+    "title": "Foreign language: In addition to the core curriculum requirements above, undergr",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
+     "quote": "Foreign language: In addition to the core curriculum requirements above, undergraduates are expected to have completed two years in a single foreign language in high school. Students without two years of high school fore"
+    }
+   },
+   {
+    "type": "course",
+    "course": "KIN 312",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "The following courses: Kinesiology 312 (Topic 2: Care and Prevention of Athletic Injuries)"
     }
    },
    {
-    "type": "all",
-    "title": "Kinesiology 219K (Topic 3: Introduction to Athletic Training)",
-    "of": [
-     {
-      "type": "course",
-      "course": "KIN 219K"
-     }
-    ],
+    "type": "course",
+    "course": "KIN 219K",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "Kinesiology 219K (Topic 3: Introduction to Athletic Training)"
@@ -125,117 +239,98 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Kinesiology 320, Applied Biomechanics of Human Movement; or Kinesiology 326K, Biomechanical Analysis of Movement",
-    "title": "Kinesiology 320, Applied Biomechanics of Human Movement; or Kinesiology 326K, Bi",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
-     "quote": "Kinesiology 320, Applied Biomechanics of Human Movement; or Kinesiology 326K, Biomechanical Analysis of Movement"
-    }
-   },
-   {
-    "type": "all",
-    "title": "Kinesiology 341, Therapeutic Modalities in Athletic Training",
+    "type": "anyN",
+    "title": "Kinesiology 320, Applied Biomechanics of Human Movement; or Kinesiology 326K, Biomechanica",
     "of": [
      {
       "type": "course",
-      "course": "KIN 341"
+      "course": "KIN 320"
+     },
+     {
+      "type": "course",
+      "course": "KIN 326K"
      }
     ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
+     "quote": "Kinesiology 320, Applied Biomechanics of Human Movement; or Kinesiology 326K, Biomechanical Analysis of Movement"
+    },
+    "n": 1
+   },
+   {
+    "type": "course",
+    "course": "KIN 341",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "Kinesiology 341, Therapeutic Modalities in Athletic Training"
     }
    },
    {
-    "type": "manual",
-    "text": "Kinesiology 342, Clinical Evaluation of Athletic Injuries in the Lower Body",
-    "title": "Kinesiology 342, Clinical Evaluation of Athletic Injuries in the Lower Body",
+    "type": "course",
+    "course": "KIN 342",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "Kinesiology 342, Clinical Evaluation of Athletic Injuries in the Lower Body"
     }
    },
    {
-    "type": "manual",
-    "text": "Kinesiology 343, Clinical Evaluation of Athletic Injuries in the Upper Body",
-    "title": "Kinesiology 343, Clinical Evaluation of Athletic Injuries in the Upper Body",
+    "type": "course",
+    "course": "KIN 343",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "Kinesiology 343, Clinical Evaluation of Athletic Injuries in the Upper Body"
     }
    },
    {
-    "type": "manual",
-    "text": "Kinesiology 344, Therapeutic Exercise and Rehabilitation Techniques: Lower Body",
-    "title": "Kinesiology 344, Therapeutic Exercise and Rehabilitation Techniques: Lower Body",
+    "type": "course",
+    "course": "KIN 344",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "Kinesiology 344, Therapeutic Exercise and Rehabilitation Techniques: Lower Body"
     }
    },
    {
-    "type": "manual",
-    "text": "Kinesiology 344U, Therapeutic Exercise and Rehabilitation: Upper Body",
-    "title": "Kinesiology 344U, Therapeutic Exercise and Rehabilitation: Upper Body",
+    "type": "course",
+    "course": "KIN 344U",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "Kinesiology 344U, Therapeutic Exercise and Rehabilitation: Upper Body"
     }
    },
    {
-    "type": "manual",
-    "text": "Kinesiology 345, General Medical Conditions in Athletic Training",
-    "title": "Kinesiology 345, General Medical Conditions in Athletic Training",
+    "type": "course",
+    "course": "KIN 345",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "Kinesiology 345, General Medical Conditions in Athletic Training"
     }
    },
    {
-    "type": "all",
-    "title": "Kinesiology 346, Athletic Training Program Administration",
-    "of": [
-     {
-      "type": "course",
-      "course": "KIN 346"
-     }
-    ],
+    "type": "course",
+    "course": "KIN 346",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "Kinesiology 346, Athletic Training Program Administration"
     }
    },
    {
-    "type": "all",
-    "title": "Kinesiology 363, Theory and Practice in Strength Coaching",
-    "of": [
-     {
-      "type": "course",
-      "course": "KIN 363"
-     }
-    ],
+    "type": "course",
+    "course": "KIN 363",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "Kinesiology 363, Theory and Practice in Strength Coaching"
     }
    },
    {
-    "type": "all",
-    "title": "Kinesiology 140S, Senior Seminar in Athletic Training",
-    "of": [
-     {
-      "type": "course",
-      "course": "KIN 140S"
-     }
-    ],
+    "type": "course",
+    "course": "KIN 140S",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
      "quote": "Kinesiology 140S, Senior Seminar in Athletic Training"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students enrolled in the Athletic Training Program must complete a practicum course, determined by the faculty advisor, for each semester of their clinical rotations.",
     "title": "Students enrolled in the Athletic Training Program must complete a practicum cou",
     "source": {
@@ -244,7 +339,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Nine hours of coursework in kinesiology, health education, or allied health profession prerequisites.",
     "title": "Nine hours of coursework in kinesiology, health education, or allied health prof",
     "source": {
@@ -253,12 +348,12 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Additional elective coursework may be required to provide the 120 semester hours required for the degree. Up to six hours of fieldwork may be counted toward the degree as electives. Up to three hours in physical education activity coursework (PED) may be counted as electives.",
     "title": "Additional elective coursework may be required to provide the 120 semester hours",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-athletic-training/",
-     "quote": "Additional elective coursework may be required to provide the 120 semester hours required for the degree. Up to six hours of fieldwork may be counted toward the degree as electives. Up to three hours "
+     "quote": "Additional elective coursework may be required to provide the 120 semester hours required for the degree. Up to six hours of fieldwork may be counted toward the degree as electives. Up to three hours in physical educatio"
     }
    }
   ]

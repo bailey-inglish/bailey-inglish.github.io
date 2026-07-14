@@ -17,37 +17,28 @@
    {
     "type": "hours",
     "hours": 27.0,
-    "umbrella": true,
-    "title": "27 hours of american studies",
+    "title": "Twenty-seven semester hours of coursework in American studies, including at least 15 hours",
     "filter": {
-     "subjects": [
-      "AMS"
-     ],
-     "label": "American Studies coursework"
+     "label": "Twenty-seven semester hours of coursework in American studies, including at leas",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/american-studies/",
      "quote": "Twenty-seven semester hours of coursework in American studies, including at least 15 hours of upper-division coursework. The following courses are required:"
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "all",
-    "title": "American Studies 310, Introduction to American Studies",
-    "of": [
-     {
-      "type": "course",
-      "course": "AMS 310"
-     }
-    ],
+    "type": "course",
+    "course": "AMS 310",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/american-studies/",
      "quote": "American Studies 310, Introduction to American Studies"
     }
    },
    {
-    "type": "manual",
-    "text": "American Studies 311S, Topics in Introductory Seminar in American Studies",
-    "title": "American Studies 311S, Topics in Introductory Seminar in American Studies",
+    "type": "course",
+    "course": "AMS 311S",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/american-studies/",
      "quote": "American Studies 311S, Topics in Introductory Seminar in American Studies"
@@ -72,21 +63,22 @@
     }
    },
    {
-    "type": "all",
+    "type": "hours",
+    "hours": 9.0,
     "title": "Nine semester hours chosen from topics of American Studies 370, Topics in Seminar in Ameri",
-    "of": [
-     {
-      "type": "course",
-      "course": "AMS 370"
-     }
-    ],
+    "filter": {
+     "label": "Nine semester hours chosen from topics of American Studies 370, Topics in Semina",
+     "courses": [
+      "AMS 370"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/american-studies/",
      "quote": "Nine semester hours chosen from topics of American Studies 370, Topics in Seminar in American Culture"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Three additional hours of American studies coursework",
     "title": "Three additional hours of American studies coursework",
     "source": {
@@ -95,9 +87,8 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Liberal Arts 320 or three additional hours of American studies coursework.",
-    "title": "Liberal Arts 320 or three additional hours of American studies coursework.",
+    "type": "course",
+    "course": "L A 320",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/american-studies/",
      "quote": "Liberal Arts 320 or three additional hours of American studies coursework."

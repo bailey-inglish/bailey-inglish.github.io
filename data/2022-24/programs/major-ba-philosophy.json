@@ -17,111 +17,103 @@
    {
     "type": "hours",
     "hours": 30.0,
-    "umbrella": true,
-    "title": "30 hours of philosophy",
+    "title": "Thirty semester hours of philosophy, at least 18 of which must be upper-division, includin",
     "filter": {
+     "label": "Thirty semester hours of philosophy, at least 18 of which must be upper-division",
      "subjects": [
       "PHL"
      ],
-     "label": "Philosophy coursework"
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
      "quote": "Thirty semester hours of philosophy, at least 18 of which must be upper-division, including"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "hours",
-    "hours": 18.0,
-    "umbrella": true,
-    "title": "18 upper-division hours of philosophy",
-    "filter": {
-     "subjects": [
-      "PHL"
-     ],
-     "division": "upper",
-     "label": "Upper-division philosophy"
-    },
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
-     "quote": "Thirty semester hours of philosophy, at least 18 of which must be upper-division, including"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Three hours of symbolic logic: Philosophy 313, 313K, or 313Q",
+    "hours": 3.0,
     "title": "Three hours of symbolic logic: Philosophy 313, 313K, or 313Q",
+    "filter": {
+     "label": "Three hours of symbolic logic: Philosophy 313, 313K, or 313Q",
+     "courses": [
+      "PHL 313",
+      "PHL 313K",
+      "PHL 313Q"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
      "quote": "Three hours of symbolic logic: Philosophy 313, 313K, or 313Q"
     }
    },
    {
-    "type": "manual",
-    "text": "Philosophy 329K or 329L, which may also be counted toward requirement 3 or 4 below",
-    "title": "Philosophy 329K or 329L, which may also be counted toward requirement 3 or 4 bel",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
-     "quote": "Philosophy 329K or 329L, which may also be counted toward requirement 3 or 4 below"
-    }
-   },
-   {
     "type": "anyN",
-    "n": 1,
-    "title": "Three hours of ancient philosophy: Philosophy 301K or 329K",
+    "title": "Philosophy 329K or 329L, which may also be counted toward requirement 3 or 4 below",
     "of": [
      {
       "type": "course",
-      "course": "PHL 301K"
+      "course": "PHL 329K"
      },
      {
       "type": "course",
-      "course": "PHL 329K"
+      "course": "PHL 329L"
      }
     ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
+     "quote": "Philosophy 329K or 329L, which may also be counted toward requirement 3 or 4 below"
+    },
+    "n": 1
+   },
+   {
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three hours of ancient philosophy: Philosophy 301K or 329K",
+    "filter": {
+     "label": "Three hours of ancient philosophy: Philosophy 301K or 329K",
+     "courses": [
+      "PHL 301K",
+      "PHL 329K"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
      "quote": "Three hours of ancient philosophy: Philosophy 301K or 329K"
     }
    },
    {
-    "type": "manual",
-    "text": "Three hours of early modern philosophy: Philosophy 301L or 329L",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three hours of early modern philosophy: Philosophy 301L or 329L",
+    "filter": {
+     "label": "Three hours of early modern philosophy: Philosophy 301L or 329L",
+     "courses": [
+      "PHL 301L",
+      "PHL 329L"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
      "quote": "Three hours of early modern philosophy: Philosophy 301L or 329L"
     }
    },
    {
-    "type": "all",
+    "type": "hours",
+    "hours": 6.0,
     "title": "Six hours chosen from Philosophy 321K, 323K, 323M, 323S, 325K, and 332",
-    "of": [
-     {
-      "type": "course",
-      "course": "PHL 321K"
-     },
-     {
-      "type": "course",
-      "course": "PHL 323K"
-     },
-     {
-      "type": "course",
-      "course": "PHL 323M"
-     },
-     {
-      "type": "course",
-      "course": "PHL 323S"
-     },
-     {
-      "type": "course",
-      "course": "PHL 325K"
-     },
-     {
-      "type": "course",
-      "course": "PHL 332"
-     }
-    ],
+    "filter": {
+     "label": "Six hours chosen from Philosophy 321K, 323K, 323M, 323S, 325K, and 332",
+     "courses": [
+      "PHL 321K",
+      "PHL 323K",
+      "PHL 323M",
+      "PHL 323S",
+      "PHL 325K",
+      "PHL 332"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
      "quote": "Six hours chosen from Philosophy 321K, 323K, 323M, 323S, 325K, and 332"

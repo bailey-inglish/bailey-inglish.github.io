@@ -15,17 +15,21 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Thirty-nine semester credit hours, including 18 upper division, consisting of the following:",
-    "title": "Thirty-nine semester credit hours, including 18 upper division, consisting of th",
+    "type": "hours",
+    "hours": 39.0,
+    "title": "Thirty-nine semester credit hours, including 18 upper division, consisting of the followin",
+    "filter": {
+     "label": "Thirty-nine semester credit hours, including 18 upper division, consisting of th",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sustainability-studies/",
      "quote": "Thirty-nine semester credit hours, including 18 upper division, consisting of the following:"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Geography 404E, 309C, or Sustainability Studies 301.",
     "of": [
      {
@@ -44,170 +48,143 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sustainability-studies/",
      "quote": "Geography 404E, 309C, or Sustainability Studies 301."
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
-    "text": "Nine hours of sustainability foundations, consisting of: Three hours in humanities and social science, chosen from Anthropology 302, Geography 305, 319, Social Science 302E, Sociology 302, and Urban Studies 301",
-    "title": "Nine hours of sustainability foundations, consisting of: Three hours in humaniti",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine hours of sustainability foundations, consisting of: Three hours in humanities and soc",
+    "filter": {
+     "label": "Nine hours of sustainability foundations, consisting of: Three hours in humaniti",
+     "courses": [
+      "ANT 302",
+      "GRG 305",
+      "GRG 319",
+      "S S 302E",
+      "SOC 302",
+      "URB 301"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sustainability-studies/",
-     "quote": "Nine hours of sustainability foundations, consisting of: Three hours in humanities and social science, chosen from Anthropology 302, Geography 305, 319, Social Science 302E, Sociology 302, and Urban S"
+     "quote": "Nine hours of sustainability foundations, consisting of: Three hours in humanities and social science, chosen from Anthropology 302, Geography 305, 319, Social Science 302E, Sociology 302, and Urban Studies 301"
     }
    },
    {
-    "type": "manual",
-    "text": "Three hours in environment and earth sciences, chosen from Geography 401C, 301K, and Geological Sciences 302C",
-    "title": "Three hours in environment and earth sciences, chosen from Geography 401C, 301K,",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three hours in environment and earth sciences, chosen from Geography 401C, 301K, and Geolo",
+    "filter": {
+     "label": "Three hours in environment and earth sciences, chosen from Geography 401C, 301K,",
+     "courses": [
+      "GRG 401C",
+      "GRG 301K",
+      "GEO 302C"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sustainability-studies/",
      "quote": "Three hours in environment and earth sciences, chosen from Geography 401C, 301K, and Geological Sciences 302C"
     }
    },
    {
-    "type": "manual",
-    "text": "Three hours in economics and development, chosen from Economics 301, 304K, 304L, Geography 350K , 342C, and Social Science 302E",
-    "title": "Three hours in economics and development, chosen from Economics 301, 304K, 304L,",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three hours in economics and development, chosen from Economics 301, 304K, 304L, Geography",
+    "filter": {
+     "label": "Three hours in economics and development, chosen from Economics 301, 304K, 304L,",
+     "courses": [
+      "ECO 301",
+      "ECO 304K",
+      "ECO 304L",
+      "GRG 350K",
+      "GRG 342C",
+      "S S 302E"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sustainability-studies/",
      "quote": "Three hours in economics and development, chosen from Economics 301, 304K, 304L, Geography 350K , 342C, and Social Science 302E"
     }
    },
    {
-    "type": "manual",
-    "text": "Nine hours of sustainability theories and context, consisting of: Three hours in research design and methods, chosen from Anthropology 340C, Geography 410C, 324E, 460G, 373F, Sociology 317L, and Urban Studies 315",
-    "title": "Nine hours of sustainability theories and context, consisting of: Three hours in",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine hours of sustainability theories and context, consisting of: Three hours in research ",
+    "filter": {
+     "label": "Nine hours of sustainability theories and context, consisting of: Three hours in",
+     "courses": [
+      "ANT 340C",
+      "GRG 410C",
+      "GRG 324E",
+      "GRG 460G",
+      "GRG 373F",
+      "SOC 317L",
+      "URB 315"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sustainability-studies/",
-     "quote": "Nine hours of sustainability theories and context, consisting of: Three hours in research design and methods, chosen from Anthropology 340C, Geography 410C, 324E, 460G, 373F, Sociology 317L, and Urban"
+     "quote": "Nine hours of sustainability theories and context, consisting of: Three hours in research design and methods, chosen from Anthropology 340C, Geography 410C, 324E, 460G, 373F, Sociology 317L, and Urban Studies 315"
     }
    },
    {
-    "type": "all",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three hours communication, chosen from Advertising 324, Anthropology 307, Business Adminis",
-    "of": [
-     {
-      "type": "course",
-      "course": "ADV 324"
-     },
-     {
-      "type": "course",
-      "course": "ANT 307"
-     },
-     {
-      "type": "course",
-      "course": "B A 324"
-     },
-     {
-      "type": "course",
-      "course": "CMS 306M"
-     },
-     {
-      "type": "course",
-      "course": "CMS 310K"
-     },
-     {
-      "type": "course",
-      "course": "CMS 315M"
-     },
-     {
-      "type": "course",
-      "course": "CMS 332K"
-     },
-     {
-      "type": "course",
-      "course": "CMS 334K"
-     },
-     {
-      "type": "course",
-      "course": "GRG 320M"
-     },
-     {
-      "type": "course",
-      "course": "J 346F"
-     }
-    ],
+    "filter": {
+     "label": "Three hours communication, chosen from Advertising 324, Anthropology 307, Busine",
+     "courses": [
+      "ADV 324",
+      "ANT 307",
+      "B A 324",
+      "CMS 306M",
+      "CMS 310K",
+      "CMS 315M",
+      "CMS 332K",
+      "CMS 334K",
+      "GRG 320M",
+      "J 346F"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sustainability-studies/",
      "quote": "Three hours communication, chosen from Advertising 324, Anthropology 307, Business Administration 324, Communication Studies 306M, 310K, 315M, 332K, 334K, Geography 320M, and Journalism 346F."
     }
    },
    {
-    "type": "manual",
-    "text": "Three hours in politics and policy, chosen from Business, Government, and Society 370 (Topic 1: Energy Technology and Policy), Communication Studies 322E, 332, 333, 338, 340K, 342K, 345, 345P, Geography 306C, and 340D",
-    "title": "Three hours in politics and policy, chosen from Business, Government, and Societ",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three hours in politics and policy, chosen from Business, Government, and Society 370 (Top",
+    "filter": {
+     "label": "Three hours in politics and policy, chosen from Business, Government, and Societ",
+     "courses": [
+      "BGS 370",
+      "CMS 322E",
+      "CMS 332",
+      "CMS 333",
+      "CMS 338",
+      "CMS 340K",
+      "CMS 342K",
+      "CMS 345",
+      "CMS 345P",
+      "GRG 306C",
+      "GRG 340D"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sustainability-studies/",
-     "quote": "Three hours in politics and policy, chosen from Business, Government, and Society 370 (Topic 1: Energy Technology and Policy), Communication Studies 322E, 332, 333, 338, 340K, 342K, 345, 345P, Geograp"
+     "quote": "Three hours in politics and policy, chosen from Business, Government, and Society 370 (Topic 1: Energy Technology and Policy), Communication Studies 322E, 332, 333, 338, 340K, 342K, 345, 345P, Geography 306C, and 340D"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Twelve hours in a thematic concentration, chosen from an approved list: Trajectories to sustainability",
     "title": "Twelve hours in a thematic concentration, chosen from an approved list: Trajecto",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sustainability-studies/",
      "quote": "Twelve hours in a thematic concentration, chosen from an approved list: Trajectories to sustainability"
-    }
-   },
-   {
-    "type": "all",
-    "title": "One course in experiential learning, chosen from Bridging Disciplines 325K, Sustainability",
-    "of": [
-     {
-      "type": "course",
-      "course": "BDP 325K"
-     },
-     {
-      "type": "course",
-      "course": "SUS 379L"
-     },
-     {
-      "type": "course",
-      "course": "URB 360"
-     }
-    ],
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sustainability-studies/",
-     "quote": "One course in experiential learning, chosen from Bridging Disciplines 325K, Sustainability Studies 379L, and Urban Studies 360"
-    }
-   },
-   {
-    "type": "all",
-    "title": "At least one capstone experience course chosen from Anthropology 662, Bridging Disciplines",
-    "of": [
-     {
-      "type": "course",
-      "course": "ANT 662"
-     },
-     {
-      "type": "course",
-      "course": "BDP 320K"
-     },
-     {
-      "type": "course",
-      "course": "GRG 323K"
-     },
-     {
-      "type": "course",
-      "course": "GRG 367D"
-     },
-     {
-      "type": "course",
-      "course": "GRG 368D"
-     },
-     {
-      "type": "course",
-      "course": "SUS 374"
-     },
-     {
-      "type": "course",
-      "course": "URB 370"
-     }
-    ],
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sustainability-studies/",
-     "quote": "At least one capstone experience course chosen from Anthropology 662, Bridging Disciplines 320K, Geography 323K, 367D, 368D, Sustainability Studies 374, and Urban Studies 370"
     }
    }
   ]

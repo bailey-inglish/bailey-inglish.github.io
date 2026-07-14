@@ -196,7 +196,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Six semester hours of non-United States history in the same geographic area.",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/"
@@ -213,7 +213,7 @@
       "course": "M 310P"
      },
      {
-      "type": "manual",
+      "type": "note",
       "text": "Substitutions do exist for some of the requirements outlined below; Plan II students should each meet with a Plan II academic advisor to discuss their individual academic plan.",
       "title": "Approved calculus/math substitution"
      }
@@ -237,7 +237,7 @@
       "course": "PHL 313Q"
      },
      {
-      "type": "manual",
+      "type": "note",
       "text": "Approved substitution for the logic requirement (consult a Plan II advisor).",
       "title": "Approved substitution"
      }
@@ -279,7 +279,7 @@
         "course": "BIO 301E"
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Approved substitution for Biology 301E (consult a Plan II advisor).",
         "title": "Approved substitution"
        }
@@ -299,7 +299,7 @@
         "course": "PHY 321"
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Physics 321 or an approved alternative natural science course as designated by Plan II.",
         "title": "Approved alternative"
        }
@@ -403,7 +403,7 @@
       "title": "Intermediate language course"
      },
      {
-      "type": "manual",
+      "type": "note",
       "text": "Certified proficiency on a placement or credit-by-exam test.",
       "title": "Certified proficiency by placement/exam"
      }
@@ -414,10 +414,25 @@
     }
    },
    {
-    "type": "manual",
-    "text": "An approved three-hour course in art history, music history, or history of theatre and dance; or a three-hour upper-division course in classical civilization, humanities, literature, or philosophy.",
+    "type": "hours",
+    "hours": 3,
+    "filter": {
+     "subjects": [
+      "ARH",
+      "MUS",
+      "T D",
+      "AHC",
+      "C C",
+      "CL",
+      "HMN",
+      "PHL",
+      "E"
+     ],
+     "label": "Art/music/theatre history or classical civ/humanities/literature/philosophy"
+    },
     "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/"
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/",
+     "quote": "An approved three-hour course in art history, music history, or history of theatre and dance"
     },
     "title": "Fine arts / humanities"
    }

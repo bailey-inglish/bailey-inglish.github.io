@@ -39,7 +39,7 @@ export function ProgramDetail() {
         </div>
         <div className="muted" style={{ marginTop: '0.3rem' }}>
           {audit.metLeaves}/{audit.totalLeaves} requirements met · ≈{audit.remainingHours}{' '}
-          hours remaining{audit.manualLeaves > 0 && <> · {audit.manualLeaves} manual checks below</>}
+          hours remaining
         </div>
         <div style={{ marginTop: '0.5rem' }}>
           <button className={`btn small${mine ? ' primary' : ''}`} onClick={() => toggleMyProgram(audit.programId)}>

@@ -15,18 +15,9 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "all",
+    "type": "note",
+    "text": "Mathematics Complete one of the following: Mathematics 408C and 408D",
     "title": "Mathematics Complete one of the following: Mathematics 408C and 408D",
-    "of": [
-     {
-      "type": "course",
-      "course": "M 408C"
-     },
-     {
-      "type": "course",
-      "course": "M 408D"
-     }
-    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/mathematics/",
      "quote": "Mathematics Complete one of the following: Mathematics 408C and 408D"
@@ -78,7 +69,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Mathematics 328K, 343K, or 373K",
     "of": [
      {
@@ -97,7 +87,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/mathematics/",
      "quote": "Mathematics 328K, 343K, or 373K"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -109,7 +100,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Mathematics 361K or 365C",
     "of": [
      {
@@ -124,15 +114,39 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/mathematics/",
      "quote": "Mathematics 361K or 365C"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
-    "text": "Twelve additional semester hours of approved upper-division mathematics",
+    "type": "hours",
+    "hours": 12.0,
     "title": "Twelve additional semester hours of approved upper-division mathematics",
+    "filter": {
+     "label": "Twelve additional semester hours of approved upper-division mathematics",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/mathematics/",
      "quote": "Twelve additional semester hours of approved upper-division mathematics"
+    },
+    "umbrella": true
+   },
+   {
+    "type": "note",
+    "text": "Secondary science: Six semester hours of majors-level coursework chosen from a single field of study: astronomy, biology, chemistry, geological sciences, marine science, or physics. It is recommended that students select courses that will also fulfill the Natural Science and Technology Part I core curriculum requirement.",
+    "title": "Secondary science: Six semester hours of majors-level coursework chosen from a s",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/mathematics/",
+     "quote": "Secondary science: Six semester hours of majors-level coursework chosen from a single field of study: astronomy, biology, chemistry, geological sciences, marine science, or physics. It is recommended that students select"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Three semester hours of majors-level coursework chosen from a different field of study: astronomy, biology, chemistry, computer science, geological sciences, marine science, or physics. It is recommended that students select a course that will also fulfill the Natural Science and Technology Part II core curriculum requirement.",
+    "title": "Three semester hours of majors-level coursework chosen from a different field of",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/mathematics/",
+     "quote": "Three semester hours of majors-level coursework chosen from a different field of study: astronomy, biology, chemistry, computer science, geological sciences, marine science, or physics. It is recommended that students se"
     }
    }
   ]

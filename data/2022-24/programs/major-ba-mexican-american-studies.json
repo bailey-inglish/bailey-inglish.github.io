@@ -15,18 +15,22 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Twenty-seven semester credit hours in Mexican American and Latina/o Studies, including 18 hours upper-division and 18 hours in residence. The following courses are required:",
-    "title": "Twenty-seven semester credit hours in Mexican American and Latina/o Studies, inc",
+    "type": "hours",
+    "hours": 27.0,
+    "title": "Twenty-seven semester credit hours in Mexican American and Latina/o Studies, including 18 ",
+    "filter": {
+     "label": "Twenty-seven semester credit hours in Mexican American and Latina/o Studies, inc",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/",
      "quote": "Twenty-seven semester credit hours in Mexican American and Latina/o Studies, including 18 hours upper-division and 18 hours in residence. The following courses are required:"
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "Mexican American Studies 301, Introduction to Mexican American and Latina/o Studies",
-    "title": "Mexican American Studies 301, Introduction to Mexican American and Latina/o Stud",
+    "type": "course",
+    "course": "MAS 301",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/",
      "quote": "Mexican American Studies 301, Introduction to Mexican American and Latina/o Studies"
@@ -41,21 +45,15 @@
     }
    },
    {
-    "type": "all",
-    "title": "Completion of one of the following is required. Mexican American Studies 375, Internship",
-    "of": [
-     {
-      "type": "course",
-      "course": "MAS 375"
-     }
-    ],
+    "type": "course",
+    "course": "MAS 375",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/mexican-american-studies/",
      "quote": "Completion of one of the following is required. Mexican American Studies 375, Internship"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students majoring in Mexican American and Latina/o Studies must achieve, at a minimum, an intermediate level of proficiency in Spanish, Portuguese, or a relevant Indigenous language.",
     "title": "Students majoring in Mexican American and Latina/o Studies must achieve, at a mi",
     "source": {

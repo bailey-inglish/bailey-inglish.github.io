@@ -24,7 +24,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 324E",
     "of": [
      {
@@ -47,29 +46,19 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
      "quote": "Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 324E"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
-    "text": "Primary science: School of Human Ecology coursework, including: Public Health 317",
-    "title": "Primary science: School of Human Ecology coursework, including: Public Health 31",
+    "type": "course",
+    "course": "PBH 317",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
      "quote": "Primary science: School of Human Ecology coursework, including: Public Health 317"
     }
    },
    {
-    "type": "manual",
-    "text": "One of the following: Human Development and Family Sciences 304, 304H, 313 and 113L, or 313H and 113L",
-    "title": "One of the following: Human Development and Family Sciences 304, 304H, 313 and 1",
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
-     "quote": "One of the following: Human Development and Family Sciences 304, 304H, 313 and 113L, or 313H and 113L"
-    }
-   },
-   {
     "type": "anyN",
-    "n": 1,
     "title": "Nutrition 306, 312, or 312H",
     "of": [
      {
@@ -88,11 +77,11 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
      "quote": "Nutrition 306, 312, or 312H"
-    }
+    },
+    "n": 1
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Textiles and Apparel 301C or 305",
     "of": [
      {
@@ -107,20 +96,25 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
      "quote": "Textiles and Apparel 301C or 305"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
-    "text": "Fifteen semester hours of upper-division chosen from Human Development and Family Sciences, Human Ecology, Nutrition, Public Health, and Textiles and Apparel",
-    "title": "Fifteen semester hours of upper-division chosen from Human Development and Famil",
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Fifteen semester hours of upper-division chosen from Human Development and Family Sciences",
+    "filter": {
+     "label": "Fifteen semester hours of upper-division chosen from Human Development and Famil",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
      "quote": "Fifteen semester hours of upper-division chosen from Human Development and Family Sciences, Human Ecology, Nutrition, Public Health, and Textiles and Apparel"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Secondary science: Chemistry 301 or 301C",
     "of": [
      {
@@ -135,7 +129,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
      "quote": "Secondary science: Chemistry 301 or 301C"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -147,7 +142,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "One of the following: Biology 311D, Chemistry 302, or 302C",
     "of": [
      {
@@ -166,7 +160,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
      "quote": "One of the following: Biology 311D, Chemistry 302, or 302C"
-    }
+    },
+    "n": 1
    }
   ]
  },
