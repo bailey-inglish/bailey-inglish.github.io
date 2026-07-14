@@ -30,12 +30,18 @@
     "inResidence": true
    },
    {
-    "type": "manual",
-    "text": "At least six semester hours of advanced coursework in the major must be completed in residence.",
+    "type": "hours",
+    "hours": 6,
+    "filter": {
+     "majorField": true,
+     "division": "upper",
+     "label": "Upper-division coursework in the major, in residence"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/the-university/graduation/general-requirements/"
     },
-    "title": "Six advanced in-residence hours in major"
+    "title": "Six advanced in-residence hours in major",
+    "inResidence": true
    }
   ]
  }

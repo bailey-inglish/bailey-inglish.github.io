@@ -65,6 +65,12 @@ export interface CourseFilter {
   /** course ids that never match */
   excludeCourses?: string[]
   division?: 'lower' | 'upper'
+  /**
+   * matches courses in the audited program's major field — resolved from
+   * Program.majorSubjects at evaluation time, so shared layers can say
+   * "advanced coursework in the major" generically
+   */
+  majorField?: boolean
   /** human description shown in the UI for placeholder slots */
   label?: string
 }
@@ -115,6 +121,17 @@ export type RuleNode =
       /** omitted scope = overall UT GPA */
       scope?: CourseFilter
     })
+  /**
+   * "N hours, including M upper-division, in a single field of study
+   * (other than X)" — evaluated by finding the best-progress subject
+   */
+  | (NodeBase & {
+      type: 'concentration'
+      hours: number
+      upperHours?: number
+      excludeSubjects?: string[]
+      minGrade?: string
+    })
   | (NodeBase & { type: 'manual'; text: string })
 
 // ---------- Programs ----------
@@ -131,6 +148,11 @@ export interface Program {
   /** BA, BS, BSA, BBA, ... absent for minors/certificates/layers */
   degreeType?: string
   totalHours?: number
+  /**
+   * subject codes that constitute "the major field" for this program —
+   * resolves majorField filters in this program's rules and its layers
+   */
+  majorSubjects?: string[]
   /**
    * Shared requirement layers this program builds on, by program id —
    * e.g. the university core curriculum, or "BA Plan I degree requirements".

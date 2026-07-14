@@ -108,6 +108,66 @@ describe('auditProgram on Plan II (2022-24)', () => {
   })
 })
 
+describe('concentration and majorField nodes', () => {
+  const prog: Program = {
+    id: 't/major/y', edition: 't', type: 'major', name: 'Y', college: 'T',
+    sourceUrl: 'https://example.com',
+    majorSubjects: ['SDS'],
+    rules: {
+      type: 'all',
+      of: [
+        { type: 'concentration', hours: 12, upperHours: 6, excludeSubjects: ['SDS'],
+          title: 'Breadth' },
+        { type: 'hours', hours: 6, inResidence: true,
+          filter: { majorField: true, division: 'upper' },
+          title: 'Advanced in-residence major hours' },
+      ],
+    },
+  }
+  const mk = (id: string, hours: number, creditType: 'in-residence' | 'transfer' = 'in-residence'): RecordCourse => ({
+    id, term: 'Fall 2024', hours, grade: 'A', creditType,
+  })
+
+  it('finds the best single field for breadth (excluding the major)', () => {
+    const record: StudentRecord = {
+      majors: [], schools: [],
+      courses: [
+        mk('SDS 375', 12), // excluded subject — cannot satisfy breadth
+        mk('C S 303E', 3), mk('C S 313E', 3), mk('C S 327E', 3), mk('C S 331', 3),
+      ],
+    }
+    const audit = auditProgram(prog, [], record)
+    const breadth = audit.root.children![0]
+    expect(breadth.status).toBe('met') // 12 CS hours, 9 upper-division
+    expect(breadth.matched.every((c) => c.id.startsWith('C S'))).toBe(true)
+  })
+
+  it('reports the max of total/upper shortfalls as the deficit', () => {
+    const record: StudentRecord = {
+      majors: [], schools: [],
+      courses: [mk('BIO 311C', 3), mk('BIO 311D', 3), mk('BIO 206L', 2), mk('BIO 315H', 3)],
+    }
+    const audit = auditProgram(prog, [], record)
+    const breadth = audit.root.children![0]
+    expect(breadth.status).toBe('partial')
+    expect(breadth.deficitHours).toBe(6) // 11/12 total but 0/6 upper → max(1, 6)
+  })
+
+  it('resolves majorField filters from the program majorSubjects', () => {
+    const record: StudentRecord = {
+      majors: [], schools: [],
+      courses: [
+        mk('SDS 334', 3), mk('SDS 336', 3), // upper-division SDS in residence
+        mk('SDS 375', 3, 'transfer'), // transfer — doesn't count
+      ],
+    }
+    const audit = auditProgram(prog, [], record)
+    const adv = audit.root.children![1]
+    expect(adv.status).toBe('met')
+    expect(adv.matched.map((c) => c.id).sort()).toEqual(['SDS 334', 'SDS 336'])
+  })
+})
+
 describe('synthetic edge cases', () => {
   const prog: Program = {
     id: 't/major/x', edition: 't', type: 'major', name: 'X', college: 'T',

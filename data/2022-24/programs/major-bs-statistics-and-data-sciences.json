@@ -5,6 +5,9 @@
  "name": "Statistics and Data Science",
  "college": "Natural Sciences",
  "degreeType": "BS",
+ "majorSubjects": [
+  "SDS"
+ ],
  "totalHours": 120,
  "includes": [
   "2022-24/layer/core-curriculum",
@@ -218,12 +221,17 @@
     "title": "Six hours from the SDS approved list"
    },
    {
-    "type": "manual",
-    "text": "Breadth Requirement: At least 12 hours, including at least six upper-division hours, in a single field of study other than Statistics and Data Sciences.",
+    "type": "concentration",
+    "hours": 12,
+    "upperHours": 6,
+    "excludeSubjects": [
+     "SDS"
+    ],
+    "title": "Breadth: 12 hours in one other field (6 upper-division)",
     "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-statistics-and-data-sciences/"
-    },
-    "title": "Breadth: 12 hours in one other field (6 upper-division)"
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-statistics-and-data-sciences/",
+     "quote": "At least 12 hours, including at least six upper-division hours, in a single field of study other than Statistics and Data Sciences."
+    }
    },
    {
     "type": "gpa",

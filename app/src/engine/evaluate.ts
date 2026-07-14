@@ -54,7 +54,11 @@ export function subjectOf(courseId: string): string {
   return courseId.replace(/ \d[0-9A-Z]*$/, '')
 }
 
-export function courseMatchesFilter(c: RecordCourse, f: CourseFilter): boolean {
+export function courseMatchesFilter(
+  c: RecordCourse,
+  f: CourseFilter,
+  majorSubjects: string[] = [],
+): boolean {
   if (f.excludeCourses?.includes(c.id)) return false
   if (f.courses && !f.courses.includes(c.id)) {
     // two-semester halves: "PHL 610QA" matches a filter listing "PHL 610Q"
@@ -62,6 +66,7 @@ export function courseMatchesFilter(c: RecordCourse, f: CourseFilter): boolean {
     if (!(base !== c.id && f.courses.includes(base))) return false
   }
   if (f.subjects && !f.subjects.includes(subjectOf(c.id))) return false
+  if (f.majorField && !majorSubjects.includes(subjectOf(c.id))) return false
   if (f.division && divisionOf(c.id) !== f.division) return false
   return true
 }
@@ -84,6 +89,7 @@ export interface EvalOptions {
 interface Ctx {
   courses: RecordCourse[]
   manualChecks: Set<string>
+  majorSubjects: string[]
 }
 
 function evalNode(node: RuleNode, ctx: Ctx): NodeResult {
@@ -139,7 +145,7 @@ function evalNode(node: RuleNode, ctx: Ctx): NodeResult {
     case 'hours': {
       const eligible = ctx.courses.filter(
         (c) =>
-          courseMatchesFilter(c, node.filter) &&
+          courseMatchesFilter(c, node.filter, ctx.majorSubjects) &&
           gradeSatisfies(c.grade, node.minGrade) &&
           (!node.inResidence || c.creditType === 'in-residence'),
       )
@@ -150,7 +156,7 @@ function evalNode(node: RuleNode, ctx: Ctx): NodeResult {
         let hours = c.hours
         let capped = false
         node.caps?.forEach((cap, i) => {
-          if (courseMatchesFilter(c, cap.filter)) {
+          if (courseMatchesFilter(c, cap.filter, ctx.majorSubjects)) {
             const room = cap.maxHours - capUsed[i]
             if (room <= 0) capped = true
             else {
@@ -176,7 +182,7 @@ function evalNode(node: RuleNode, ctx: Ctx): NodeResult {
       let hours = 0
       for (const c of ctx.courses) {
         if (c.grade === undefined || !(c.grade in GRADE_POINTS)) continue
-        if (node.scope && !courseMatchesFilter(c, node.scope)) continue
+        if (node.scope && !courseMatchesFilter(c, node.scope, ctx.majorSubjects)) continue
         points += GRADE_POINTS[c.grade] * c.hours
         hours += c.hours
       }
@@ -187,6 +193,41 @@ function evalNode(node: RuleNode, ctx: Ctx): NodeResult {
         status: met ? 'met' : 'unmet',
         matched: [],
         deficitHours: 0,
+      }
+    }
+    case 'concentration': {
+      // best single field of study: for each subject, progress toward
+      // "hours total, upperHours upper-division"; deficit is the max of
+      // the two shortfalls (an upper-division course fills both at once)
+      const bySubject = new Map<string, RecordCourse[]>()
+      for (const c of ctx.courses) {
+        if (!gradeSatisfies(c.grade, node.minGrade)) continue
+        const subj = subjectOf(c.id)
+        if (node.excludeSubjects?.includes(subj)) continue
+        if (!bySubject.has(subj)) bySubject.set(subj, [])
+        bySubject.get(subj)!.push(c)
+      }
+      let best: { deficit: number; matched: RecordCourse[] } = {
+        deficit: Math.max(node.hours, node.upperHours ?? 0),
+        matched: [],
+      }
+      for (const courses of bySubject.values()) {
+        const total = courses.reduce((a, c) => a + c.hours, 0)
+        const upper = courses
+          .filter((c) => divisionOf(c.id) === 'upper')
+          .reduce((a, c) => a + c.hours, 0)
+        const deficit = Math.max(
+          node.hours - total,
+          (node.upperHours ?? 0) - upper,
+          0,
+        )
+        if (deficit < best.deficit) best = { deficit, matched: courses }
+      }
+      return {
+        node,
+        status: best.deficit === 0 ? 'met' : best.matched.length > 0 ? 'partial' : 'unmet',
+        matched: best.matched,
+        deficitHours: best.deficit,
       }
     }
     case 'manual': {
@@ -229,7 +270,7 @@ interface Unit {
 /** scorable units: course/hours/gpa leaves, each anyN as a single unit */
 function collectUnits(r: NodeResult, out: Unit[]): void {
   const t = r.node.type
-  if (t === 'anyN' || t === 'course' || t === 'hours' || t === 'gpa' || t === 'manual') {
+  if (t === 'anyN' || t === 'course' || t === 'hours' || t === 'gpa' || t === 'concentration' || t === 'manual') {
     out.push({ status: r.status })
     return
   }
@@ -245,6 +286,7 @@ export function auditProgram(
   const ctx: Ctx = {
     courses: countableCourses(record, options.includePlanned ?? true),
     manualChecks: options.manualChecks ?? new Set(),
+    majorSubjects: program.majorSubjects ?? [],
   }
   const root = evalNode(program.rules, ctx)
   const layerResults = layers.map((layer) => ({

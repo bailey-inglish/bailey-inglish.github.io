@@ -115,9 +115,10 @@ def university_general(edition):
             HRS(60, "60 hours in residence", inResidence=True,
                 filter={"label": "Any coursework in residence"},
                 source=SRC(edition, page)),
-            MAN("At least six semester hours of advanced coursework in the "
-                "major must be completed in residence.",
-                title="Six advanced in-residence hours in major",
+            HRS(6, "Six advanced in-residence hours in major",
+                inResidence=True,
+                filter={"majorField": True, "division": "upper",
+                        "label": "Upper-division coursework in the major, in residence"},
                 source=SRC(edition, page)),
         ]),
     }
@@ -165,6 +166,7 @@ def cola_ba_plan_i(edition):
                 title="Cultural expression, human experience, and thought",
                 source=SRC(edition, page)),
             GPA(2.0, "GPA of at least 2.00 in the major",
+                scope={"majorField": True, "label": "Coursework in the major"},
                 source=SRC(edition, page)),
             MAN("All students pursuing a major under the BA Plan I, with the "
                 "exception of International Relations and Global Studies "
@@ -186,9 +188,10 @@ def cns_college(edition):
             HRS(60, "60 hours in residence", inResidence=True,
                 filter={"label": "Any coursework in residence"},
                 source=SRC(edition, page)),
-            MAN("At least six semester hours of advanced coursework in the "
-                "major be completed in residence.",
-                title="Six advanced in-residence hours in major",
+            HRS(6, "Six advanced in-residence hours in major",
+                inResidence=True,
+                filter={"majorField": True, "division": "upper",
+                        "label": "Upper-division coursework in the major, in residence"},
                 source=SRC(edition, page)),
         ]),
     }
@@ -204,6 +207,7 @@ def bs_sds(edition):
         "edition": edition, "type": "major",
         "name": "Statistics and Data Science",
         "college": "Natural Sciences", "degreeType": "BS",
+        "majorSubjects": ["SDS"],
         "totalHours": 120,
         "includes": [f"{edition}/layer/core-curriculum",
                      f"{edition}/layer/university-general",
@@ -240,11 +244,10 @@ def bs_sds(edition):
             ], source=src()),
             MAN("Six additional credit hours from an approved list of courses",
                 title="Six hours from the SDS approved list", source=src()),
-            MAN("Breadth Requirement: At least 12 hours, including at least "
-                "six upper-division hours, in a single field of study other "
-                "than Statistics and Data Sciences.",
-                title="Breadth: 12 hours in one other field (6 upper-division)",
-                source=src()),
+            {"type": "concentration", "hours": 12, "upperHours": 6,
+             "excludeSubjects": ["SDS"],
+             "title": "Breadth: 12 hours in one other field (6 upper-division)",
+             "source": src("At least 12 hours, including at least six upper-division hours, in a single field of study other than Statistics and Data Sciences.")},
             GPA(2.0, "GPA of at least 2.00 in major courses",
                 scope={"subjects": ["SDS"], "label": "SDS coursework"},
                 source=src()),
@@ -260,6 +263,7 @@ def ba_plan_ii(edition):
         "edition": edition, "type": "major",
         "name": "Plan II Honors Program",
         "college": "Liberal Arts", "degreeType": "BA (Plan II)",
+        "majorSubjects": ["T C"],
         "totalHours": 120,
         "includes": [f"{edition}/layer/core-curriculum",
                      f"{edition}/layer/university-general"],
@@ -353,6 +357,7 @@ def ba_economics(edition):
         "edition": edition, "type": "major",
         "name": "Economics",
         "college": "Liberal Arts", "degreeType": "BA",
+        "majorSubjects": ["ECO"],
         "includes": [f"{edition}/layer/core-curriculum",
                      f"{edition}/layer/university-general",
                      f"{edition}/layer/cola-ba-plan-i"],
@@ -409,6 +414,7 @@ def ba_government(edition):
         "edition": edition, "type": "major",
         "name": "Government",
         "college": "Liberal Arts", "degreeType": "BA",
+        "majorSubjects": ["GOV"],
         "includes": [f"{edition}/layer/core-curriculum",
                      f"{edition}/layer/university-general",
                      f"{edition}/layer/cola-ba-plan-i"],

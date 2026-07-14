@@ -112,6 +112,17 @@ export function suggestionsFromAudit(results: NodeResult[]): PlanItem[] {
         }
         break
       }
+      case 'concentration': {
+        const label = node.title ?? 'Field-of-study concentration'
+        const slots = Math.ceil(r.deficitHours / 3)
+        for (let i = 0; i < slots; i++) {
+          const key = `slot:${label}:${i}`
+          if (seen.has(key)) continue
+          seen.add(key)
+          items.push({ key, label, hours: 3, termId: null })
+        }
+        break
+      }
       default:
         break
     }

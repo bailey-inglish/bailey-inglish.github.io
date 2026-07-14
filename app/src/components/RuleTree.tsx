@@ -36,11 +36,13 @@ function Node({
         ? `${node.hours} hours: ${node.filter.label ?? ''}`
         : node.type === 'gpa'
           ? `GPA ≥ ${node.min.toFixed(2)}`
-          : node.type === 'anyN'
-            ? `Any ${node.n} of:`
-            : node.type === 'manual'
-              ? 'Manual check'
-              : 'All of:')
+          : node.type === 'concentration'
+            ? `${node.hours} hours in a single field${node.upperHours ? ` (${node.upperHours} upper-division)` : ''}`
+            : node.type === 'anyN'
+              ? `Any ${node.n} of:`
+              : node.type === 'manual'
+                ? 'Manual check'
+                : 'All of:')
 
   const matched = result.matched.slice(0, 8)
   const isManual = node.type === 'manual'
