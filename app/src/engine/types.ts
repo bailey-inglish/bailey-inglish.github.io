@@ -133,6 +133,12 @@ export type RuleNode =
       minGrade?: string
     })
   | (NodeBase & { type: 'manual'; text: string })
+  /**
+   * Informational catalog prose that is NOT a checkable requirement —
+   * advisor-approval steps, enrollment policies, dates, and the like.
+   * Rendered as muted context; never scored, never a manual check.
+   */
+  | (NodeBase & { type: 'note'; text: string })
 
 // ---------- Programs ----------
 
