@@ -1,6 +1,13 @@
 /** Dataset access: fetches the JSON committed under /data (served from the
  * app's public dir), with in-memory caching. */
-import type { Course, CoursesIndex, Program, ProgramsIndex, SubjectFile } from '../engine/types'
+import type {
+  Course,
+  CoursesIndex,
+  Program,
+  ProgramsIndex,
+  RuleNode,
+  SubjectFile,
+} from '../engine/types'
 
 const base = `${import.meta.env.BASE_URL}data`
 
@@ -33,8 +40,37 @@ export function loadProgramsIndex(edition: string): Promise<ProgramsIndex> {
   return fetchJson(`${edition}/programs-index.json`)
 }
 
-export function loadProgram(edition: string, file: string): Promise<Program> {
-  return fetchJson(`${edition}/${file}`)
+interface ListsFile {
+  lists: Record<string, string[]>
+}
+
+/** named approved-course lists for an edition (missing file → empty). */
+async function loadLists(edition: string): Promise<Record<string, string[]>> {
+  try {
+    const doc = await fetchJson<ListsFile>(`${edition}/lists.json`)
+    return doc.lists
+  } catch {
+    return {}
+  }
+}
+
+/** expand every filter.list reference into filter.courses, in place. */
+function expandLists(node: RuleNode, lists: Record<string, string[]>): void {
+  const n = node as { filter?: { list?: string; courses?: string[] }; of?: RuleNode[] }
+  const f = n.filter
+  if (f?.list && lists[f.list]) {
+    f.courses = [...new Set([...(f.courses ?? []), ...lists[f.list]])]
+  }
+  n.of?.forEach((child) => expandLists(child, lists))
+}
+
+export async function loadProgram(edition: string, file: string): Promise<Program> {
+  const [program, lists] = await Promise.all([
+    fetchJson<Program>(`${edition}/${file}`),
+    loadLists(edition),
+  ])
+  expandLists(program.rules, lists)
+  return program
 }
 
 export function loadCoursesIndex(edition: string): Promise<CoursesIndex> {

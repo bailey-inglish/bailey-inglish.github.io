@@ -71,6 +71,13 @@ export interface CourseFilter {
    * "advanced coursework in the major" generically
    */
   majorField?: boolean
+  /**
+   * named approved-course list (see data/<edition>/lists.json) — e.g. the
+   * College of Liberal Arts "social science field" list. Expanded into
+   * `courses` when the program is loaded, so many programs can share one
+   * authoritative list without duplicating it.
+   */
+  list?: string
   /** human description shown in the UI for placeholder slots */
   label?: string
 }
