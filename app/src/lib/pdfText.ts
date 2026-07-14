@@ -137,16 +137,19 @@ export function itemsToLines(rawItems: Item[]): string[] {
 }
 
 export async function extractPdfLines(data: ArrayBuffer): Promise<string[]> {
-  // the legacy build works in Node (tests); the standard build in browsers
-  const pdfjs =
-    typeof window === 'undefined'
-      ? await import('pdfjs-dist/legacy/build/pdf.mjs')
-      : await import('pdfjs-dist')
+  // Always the legacy build (transpiled for older browsers), and run pdf.js
+  // on the MAIN THREAD — no dedicated Web Worker.
+  //
+  // Why: pdf.js does its parsing in a worker, which is a separate JS context
+  // our polyfills (Promise.withResolvers, needed by Safari < 17.4) can't
+  // reach — that's why the earlier fix didn't help. Importing the worker
+  // MODULE registers globalThis.pdfjsWorker, which makes pdf.js use its
+  // main-thread message handler (see PDFWorker.#initialize), so the same
+  // polyfilled global scope covers both pdf.mjs and the worker code. It also
+  // sidesteps ES-module-worker support entirely.
+  const pdfjs = await import('pdfjs-dist/legacy/build/pdf.mjs')
   if (typeof window !== 'undefined') {
-    pdfjs.GlobalWorkerOptions.workerSrc = new URL(
-      'pdfjs-dist/build/pdf.worker.min.mjs',
-      import.meta.url,
-    ).toString()
+    await import('pdfjs-dist/legacy/build/pdf.worker.min.mjs')
   }
   const doc = await pdfjs.getDocument({ data }).promise
   const all: string[] = []
