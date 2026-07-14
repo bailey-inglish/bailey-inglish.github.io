@@ -1,0 +1,72 @@
+{
+ "id": "2024-26/minor/uteach-liberal-arts",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "UTeach-Liberal Arts",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "UTeach-Liberal Arts Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "UTL 101",
+    "title": "UTL 101",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "UTL 202",
+    "title": "UTL 202",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "EDP 350G",
+    "title": "EDP 350G",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours chosen from:",
+    "filter": {
+     "courses": [
+      "UTL 640",
+      "UTL 640",
+      "UTL 640"
+     ],
+     "label": "Six hours chosen from:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Six hours chosen from:"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three hours chosen from:",
+    "filter": {
+     "courses": [
+      "SED 322C"
+     ],
+     "label": "Three hours chosen from:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Three hours chosen from:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

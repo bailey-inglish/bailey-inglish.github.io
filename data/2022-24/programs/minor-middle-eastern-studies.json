@@ -1,0 +1,48 @@
+{
+ "id": "2022-24/minor/middle-eastern-studies",
+ "edition": "2022-24",
+ "type": "minor",
+ "name": "Middle Eastern Studies",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Middle Eastern Studies Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "MES 301K",
+    "title": "MES 301K",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "MES 301L",
+    "title": "MES 301L",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine hours of upper-division MES coursework chosen from:",
+    "filter": {
+     "courses": [
+      "MES 341",
+      "MES 342",
+      "MES 343"
+     ],
+     "label": "Nine hours of upper-division MES coursework chosen from:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Nine hours of upper-division MES coursework chosen from:"
+    }
+   }
+  ]
+ },
+ "auto": true
+}

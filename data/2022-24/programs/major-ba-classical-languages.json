@@ -1,0 +1,153 @@
+{
+ "id": "2022-24/major/ba-classical-languages",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "Classical Languages",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-languages/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "manual",
+    "text": "Twenty-four semester hours in the languages and cultures of one of the following areas of specialization: Classics, Greek, or Latin.",
+    "title": "Twenty-four semester hours in the languages and cultures of one of the following",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-languages/",
+     "quote": "Twenty-four semester hours in the languages and cultures of one of the following areas of specialization: Classics, Greek, or Latin."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Classics Six hours of upper-division Greek",
+    "title": "Classics Six hours of upper-division Greek",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-languages/",
+     "quote": "Classics Six hours of upper-division Greek"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Six hours of upper-division Latin",
+    "title": "Six hours of upper-division Latin",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-languages/",
+     "quote": "Six hours of upper-division Latin"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Classical Civilization 375, Greek 365, or Latin 365",
+    "of": [
+     {
+      "type": "course",
+      "course": "C C 375"
+     },
+     {
+      "type": "course",
+      "course": "GK 365"
+     },
+     {
+      "type": "course",
+      "course": "LAT 365"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-languages/",
+     "quote": "Classical Civilization 375, Greek 365, or Latin 365"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Nine additional hours of Greek, Latin, classical civilization, and Ancient History and Classical Civilization 325 or 378, including at least three upper-division hours",
+    "title": "Nine additional hours of Greek, Latin, classical civilization, and Ancient Histo",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-languages/",
+     "quote": "Nine additional hours of Greek, Latin, classical civilization, and Ancient History and Classical Civilization 325 or 378, including at least three upper-division hours"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Greek Twelve hours of upper-division Greek, including Greek 365",
+    "title": "Greek Twelve hours of upper-division Greek, including Greek 365",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-languages/",
+     "quote": "Greek Twelve hours of upper-division Greek, including Greek 365"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 12.0,
+    "umbrella": true,
+    "title": "12 hours of latin",
+    "filter": {
+     "subjects": [
+      "LAT"
+     ],
+     "label": "Latin coursework"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-languages/",
+     "quote": "Twelve hours of Latin, classical civilization, and Ancient History and Classical Civilization 325 or 378, including at least nine in upper-division coursework"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 9.0,
+    "umbrella": true,
+    "title": "9 upper-division hours of latin",
+    "filter": {
+     "subjects": [
+      "LAT"
+     ],
+     "division": "upper",
+     "label": "Upper-division latin"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-languages/",
+     "quote": "Twelve hours of Latin, classical civilization, and Ancient History and Classical Civilization 325 or 378, including at least nine in upper-division coursework"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Twelve hours of Latin, classical civilization, and Ancient History and Classical Civilization 325 or 378, including at least nine in upper-division coursework",
+    "title": "Specific courses within: 12 hours of latin",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-languages/",
+     "quote": "Twelve hours of Latin, classical civilization, and Ancient History and Classical Civilization 325 or 378, including at least nine in upper-division coursework"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Latin Fifteen hours of upper-division Latin, including Latin 365",
+    "title": "Latin Fifteen hours of upper-division Latin, including Latin 365",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-languages/",
+     "quote": "Latin Fifteen hours of upper-division Latin, including Latin 365"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Nine hours of Greek, classical civilization, and Ancient History and Classical Civilization 325 or 378, including at least six in upper-division coursework",
+    "title": "Nine hours of Greek, classical civilization, and Ancient History and Classical C",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-languages/",
+     "quote": "Nine hours of Greek, classical civilization, and Ancient History and Classical Civilization 325 or 378, including at least six in upper-division coursework"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "LAT"
+ ]
+}

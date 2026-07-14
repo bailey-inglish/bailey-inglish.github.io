@@ -1,0 +1,166 @@
+{
+ "id": "2022-24/major/ba-astronomy",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "Astronomy",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cns-college"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "all",
+    "title": "Physics 301 and 101L",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHY 301"
+     },
+     {
+      "type": "course",
+      "course": "PHY 101L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
+     "quote": "Physics 301 and 101L"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Physics 316 and 116L (Prerequisites: Physics 301 and 101L)",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHY 316"
+     },
+     {
+      "type": "course",
+      "course": "PHY 116L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 301"
+     },
+     {
+      "type": "course",
+      "course": "PHY 101L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
+     "quote": "Physics 316 and 116L (Prerequisites: Physics 301 and 101L)"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Physics 315 and 115L (Prerequisites: Physics 316 and 116L)",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHY 315"
+     },
+     {
+      "type": "course",
+      "course": "PHY 115L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 316"
+     },
+     {
+      "type": "course",
+      "course": "PHY 116L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
+     "quote": "Physics 315 and 115L (Prerequisites: Physics 316 and 116L)"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 9.0,
+    "umbrella": true,
+    "title": "9 upper-division hours of astronomy",
+    "filter": {
+     "division": "upper",
+     "subjects": [
+      "AST"
+     ],
+     "label": "Upper-division astronomy"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
+     "quote": "Nine semester hours of upper-division coursework in astronomy, including at least two of the following courses: Astronomy 352K, 352L, 353, 358, 364P."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Nine semester hours of upper-division coursework in astronomy, including at least two of the following courses: Astronomy 352K, 352L, 353, 358, 364P.",
+    "title": "Specific courses within: 9 upper-division hours of astronomy",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
+     "quote": "Nine semester hours of upper-division coursework in astronomy, including at least two of the following courses: Astronomy 352K, 352L, 353, 358, 364P."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Six additional upper-division hours in astronomy and/or physics",
+    "title": "Six additional upper-division hours in astronomy and/or physics",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
+     "quote": "Six additional upper-division hours in astronomy and/or physics"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Six hours of coursework (other than astronomy, lower-division physics, lower-division mathematics, and Mathematics 427J or 427K) approved by the undergraduate advisor;",
+    "title": "Six hours of coursework (other than astronomy, lower-division physics, lower-div",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
+     "quote": "Six hours of coursework (other than astronomy, lower-division physics, lower-division mathematics, and Mathematics 427J or 427K) approved by the undergraduate advisor;"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Six additional hours of upper-division physics, or six hours of upper-division coursework approved by the undergraduate advisor.",
+    "title": "Six additional hours of upper-division physics, or six hours of upper-division c",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
+     "quote": "Six additional hours of upper-division physics, or six hours of upper-division coursework approved by the undergraduate advisor."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Students must earn a grade of at least C- in each mathematics and science course required for the degree, and a grade point average in these courses of at least 2.00.",
+    "title": "Students must earn a grade of at least C- in each mathematics and science course",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
+     "quote": "Students must earn a grade of at least C- in each mathematics and science course required for the degree, and a grade point average in these courses of at least 2.00."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "All astronomy majors should consult the astronomy undergraduate advisor regularly about the choice of appropriate courses in both the major and the additional coursework. Qualified students are encouraged to carry out a supervised research project by taking a conference course, such as Astronomy 375 or 379H. No more than six of the hours counted toward the major requirement may be earned in conference courses.",
+    "title": "All astronomy majors should consult the astronomy undergraduate advisor regularl",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
+     "quote": "All astronomy majors should consult the astronomy undergraduate advisor regularly about the choice of appropriate courses in both the major and the additional coursework. Qualified students are encour"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "AST"
+ ]
+}

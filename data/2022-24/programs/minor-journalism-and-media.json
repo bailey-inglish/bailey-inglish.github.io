@@ -1,0 +1,95 @@
+{
+ "id": "2022-24/minor/journalism-and-media",
+ "edition": "2022-24",
+ "type": "minor",
+ "name": "Journalism and Media",
+ "college": "Communication",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Journalism and Media Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "J 301F",
+    "title": "J 301F",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "J 302F",
+    "of": [
+     {
+      "type": "course",
+      "course": "J 302F",
+      "title": "J 302F",
+      "source": {
+       "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "J 313P"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine additional hours from the following:",
+    "filter": {
+     "courses": [
+      "J 308D",
+      "J 308F",
+      "J 330J",
+      "J 330L",
+      "J 330S",
+      "J 331M",
+      "J 334N",
+      "J 334S",
+      "J 336F",
+      "J 341J",
+      "J 341M",
+      "J 348M",
+      "J 349E",
+      "J 349L",
+      "J 349N",
+      "J 350M",
+      "J 350N",
+      "J 351C",
+      "J 351G",
+      "J 351J",
+      "J 351P",
+      "J 351S",
+      "J 351T",
+      "J 354M",
+      "J 355G",
+      "J 355M",
+      "J 355P",
+      "J 356C",
+      "J 356G",
+      "J 356M",
+      "J 356R",
+      "J 358C",
+      "J 358S",
+      "J 359M",
+      "J 359S"
+     ],
+     "label": "Nine additional hours from the following:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/minor-and-certificate-programs/",
+     "quote": "Nine additional hours from the following:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

@@ -1,0 +1,57 @@
+{
+ "id": "2024-26/certificate/evidence-and-inquiry",
+ "edition": "2024-26",
+ "type": "certificate",
+ "name": "Evidence and Inquiry",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Evidence and Inquiry Certificate",
+  "of": [
+   {
+    "type": "course",
+    "course": "UGS 303",
+    "title": "UGS 303",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "NSC 109",
+    "title": "NSC 109",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Four additional courses, including at least six semester hours of upper-division coursework, from the student's approved evidence and inquiry area of study",
+    "title": "Four additional courses, including at least six semester hours of upper-division",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/",
+     "quote": "Four additional courses, including at least six semester hours of upper-division coursework, from the student's approved evidence and inquiry area of study"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Senior Capstone Sequence",
+    "filter": {
+     "courses": [
+      "NSC 323",
+      "NSC 371"
+     ],
+     "label": "Senior Capstone Sequence"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/",
+     "quote": "Senior Capstone Sequence"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 22.0
+}

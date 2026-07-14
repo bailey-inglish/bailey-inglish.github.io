@@ -18,8 +18,18 @@ function AuditCard({ audit }: { audit: ProgramAudit }) {
             {audit.program.name}
           </Link>
         </strong>
-        <span className="pill type">
-          {audit.program.degreeType ?? audit.program.type}
+        <span style={{ display: 'flex', gap: '0.3rem' }}>
+          {audit.program.auto && (
+            <span
+              className="pill manual"
+              title="Requirements auto-extracted from the catalog page — some rules appear as manual checks; verify against the catalog"
+            >
+              auto
+            </span>
+          )}
+          <span className="pill type">
+            {audit.program.degreeType ?? audit.program.type}
+          </span>
         </span>
       </div>
       <div className="muted">{audit.program.college}</div>
@@ -83,9 +93,10 @@ export function Rankings() {
         )
       })}
       <p className="warnbox" style={{ marginTop: '1.2rem' }}>
-        Coverage note: this build includes a first batch of programs (Natural Sciences and
-        Liberal Arts focus). The pipeline can encode any catalog program — more batches are
-        on the roadmap.
+        Coverage note: programs marked “auto” were extracted automatically from their
+        catalog pages — structured requirements are audited for you, while prose that
+        couldn’t be formalized shows up as manual checks. Hand-verified encodings replace
+        them over time. Always confirm against the linked catalog page and your advisor.
       </p>
     </>
   )

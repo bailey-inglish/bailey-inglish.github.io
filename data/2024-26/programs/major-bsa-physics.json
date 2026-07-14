@@ -1,0 +1,128 @@
+{
+ "id": "2024-26/major/bsa-physics",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Physics",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/physics/",
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general",
+  "2024-26/layer/cns-college"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "all",
+    "title": "Mathematics: Mathematics 408C, 408D, 427K or 427J, and 427L",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 408C"
+     },
+     {
+      "type": "course",
+      "course": "M 408D"
+     },
+     {
+      "type": "course",
+      "course": "M 427K"
+     },
+     {
+      "type": "course",
+      "course": "M 427J"
+     },
+     {
+      "type": "course",
+      "course": "M 427L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/physics/",
+     "quote": "Mathematics: Mathematics 408C, 408D, 427K or 427J, and 427L"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Primary science: Physics 301, 101L, 315, 115L, 316, and 116L",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHY 301"
+     },
+     {
+      "type": "course",
+      "course": "PHY 101L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 315"
+     },
+     {
+      "type": "course",
+      "course": "PHY 115L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 316"
+     },
+     {
+      "type": "course",
+      "course": "PHY 116L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/physics/",
+     "quote": "Primary science: Physics 301, 101L, 315, 115L, 316, and 116L"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Physics 336K, 352K, 355, 369, and 373",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHY 336K"
+     },
+     {
+      "type": "course",
+      "course": "PHY 352K"
+     },
+     {
+      "type": "course",
+      "course": "PHY 355"
+     },
+     {
+      "type": "course",
+      "course": "PHY 369"
+     },
+     {
+      "type": "course",
+      "course": "PHY 373"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/physics/",
+     "quote": "Physics 336K, 352K, 355, 369, and 373"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "One course chosen from the following: Mathematics 340L; and Physics 329, 333, 345, 353L, 362K, 362L, 474, 375S, 375R, or 375P",
+    "title": "One course chosen from the following: Mathematics 340L; and Physics 329, 333, 34",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/physics/",
+     "quote": "One course chosen from the following: Mathematics 340L; and Physics 329, 333, 345, 353L, 362K, 362L, 474, 375S, 375R, or 375P"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BSA",
+ "majorSubjects": [
+  "PHY"
+ ]
+}

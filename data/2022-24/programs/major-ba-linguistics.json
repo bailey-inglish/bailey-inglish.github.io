@@ -1,0 +1,50 @@
+{
+ "id": "2022-24/major/ba-linguistics",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "Linguistics",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/linguistics/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 27.0,
+    "umbrella": true,
+    "title": "27 hours of linguistics",
+    "filter": {
+     "subjects": [
+      "LIN"
+     ],
+     "label": "Linguistics coursework"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/linguistics/",
+     "quote": "Twenty-seven semester hours of coursework in linguistics, consisting of Linguistics 306, 344K, 345, 372K, 372L, and 12 additional hours of coursework in linguistics, nine hours of which must be upper-"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Twenty-seven semester hours of coursework in linguistics, consisting of Linguistics 306, 344K, 345, 372K, 372L, and 12 additional hours of coursework in linguistics, nine hours of which must be upper-division. Students should consult the undergraduate advisor for information about counting other courses toward the major requirements.",
+    "title": "Specific courses within: 27 hours of linguistics",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/linguistics/",
+     "quote": "Twenty-seven semester hours of coursework in linguistics, consisting of Linguistics 306, 344K, 345, 372K, 372L, and 12 additional hours of coursework in linguistics, nine hours of which must be upper-"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "LIN"
+ ]
+}

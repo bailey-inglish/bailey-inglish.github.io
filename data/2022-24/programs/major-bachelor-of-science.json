@@ -1,0 +1,547 @@
+{
+ "id": "2022-24/major/bachelor-of-science",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "Bachelor of Science in Informatics",
+ "college": "Information",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 120.0,
+    "umbrella": true,
+    "title": "120 total hours",
+    "filter": {
+     "label": "Any coursework"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+     "quote": "A total of 120 semester hours is required. Thirty-six hours must be in upper-division courses. At least 60 hours, including 21 hours of upper-division coursework, must be completed in resident at the "
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Writing: two flagged courses beyond Rhetoric and Writing 306 or its equivalent",
+    "title": "Writing: two flagged courses beyond Rhetoric and Writing 306 or its equivalent",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+     "quote": "Writing: two flagged courses beyond Rhetoric and Writing 306 or its equivalent"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Informatics 302, Academic Success in the Digital University.",
+    "of": [
+     {
+      "type": "course",
+      "course": "I 302"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+     "quote": "Informatics 302, Academic Success in the Digital University."
+    }
+   },
+   {
+    "type": "all",
+    "title": "Informatics 303, Ethical Foundations for Informatics.",
+    "of": [
+     {
+      "type": "course",
+      "course": "I 303"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+     "quote": "Informatics 303, Ethical Foundations for Informatics."
+    }
+   },
+   {
+    "type": "course",
+    "course": "I 304",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+     "quote": "Informatics 304, Programming for Informatics."
+    }
+   },
+   {
+    "type": "all",
+    "title": "Informatics 305, Research Methods for Informatics.",
+    "of": [
+     {
+      "type": "course",
+      "course": "I 305"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+     "quote": "Informatics 305, Research Methods for Informatics."
+    }
+   },
+   {
+    "type": "course",
+    "course": "I 306",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+     "quote": "Informatics 306, Statistics for Informatics."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Six additional credit hours in science, technology, engineering, and math from an approved course list.",
+    "title": "Six additional credit hours in science, technology, engineering, and math from a",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+     "quote": "Six additional credit hours in science, technology, engineering, and math from an approved course list."
+    }
+   },
+   {
+    "type": "all",
+    "title": "Informatics 372, Career Success in the Digital Organization.",
+    "of": [
+     {
+      "type": "course",
+      "course": "I 372"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+     "quote": "Informatics 372, Career Success in the Digital Organization."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Students may choose to pursue a minor and/or certificate to offset elective credit. The minor or certificate consists of a specific number of semester hours of coursework completed outside the student’s major field. The requirements of the minor or certificate are established by the offering department. Only one minor may be declared per major. Before planning to use a course to fulfill the minor or certificate requirement, the student should consult the department that offers the course.",
+    "title": "Students may choose to pursue a minor and/or certificate to offset elective cred",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+     "quote": "Students may choose to pursue a minor and/or certificate to offset elective credit. The minor or certificate consists of a specific number of semester hours of coursework completed outside the student"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following options",
+    "of": [
+     {
+      "type": "all",
+      "title": "Cultural Heritage Informatics Concentration",
+      "of": [
+       {
+        "type": "course",
+        "course": "I 301",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics 301, Introduction to Informatics."
+        }
+       },
+       {
+        "type": "course",
+        "course": "I 310C",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Introductory concentration course: Informatics 310C."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Additional introductory concentration course: Informatics 310D, 310J, 310M, 310S, or 310U.",
+        "title": "Additional introductory concentration course: Informatics 310D, 310J, 310M, 310S",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Additional introductory concentration course: Informatics 310D, 310J, 310M, 310S, or 310U."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Advanced concentration coursework: Nine credit hours of advanced topics coursework in Informatics 320C, Topics in Cultural Heritage Informatics.",
+        "title": "Advanced concentration coursework: Nine credit hours of advanced topics coursewo",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Advanced concentration coursework: Nine credit hours of advanced topics coursework in Informatics 320C, Topics in Cultural Heritage Informatics."
+        }
+       },
+       {
+        "type": "all",
+        "title": "Informatics 379C, Capstone (Students pursuing the School of Information Honors distinction",
+        "of": [
+         {
+          "type": "course",
+          "course": "I 379C"
+         },
+         {
+          "type": "course",
+          "course": "I 679H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics 379C, Capstone (Students pursuing the School of Information Honors distinction may substitute Informatics 679H, Honors Thesis)."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Informatics elective: Three hours of Informatics elective coursework in the School of Information.",
+        "title": "Informatics elective: Three hours of Informatics elective coursework in the Scho",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics elective: Three hours of Informatics elective coursework in the School of Information."
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Human-Centered Data Science Concentration",
+      "of": [
+       {
+        "type": "course",
+        "course": "I 301",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics 301, Introduction to Informatics."
+        }
+       },
+       {
+        "type": "course",
+        "course": "I 310D",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Introductory concentration course: Informatics 310D."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Additional introductory concentration course: Informatics 310C, 310J, 310M, 310S, or 310U.",
+        "title": "Additional introductory concentration course: Informatics 310C, 310J, 310M, 310S",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Additional introductory concentration course: Informatics 310C, 310J, 310M, 310S, or 310U."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Advanced concentration coursework: Nine credit hours of advanced topics coursework in Informatics 320D, Topics in Human-Centered Data Science.",
+        "title": "Advanced concentration coursework: Nine credit hours of advanced topics coursewo",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Advanced concentration coursework: Nine credit hours of advanced topics coursework in Informatics 320D, Topics in Human-Centered Data Science."
+        }
+       },
+       {
+        "type": "all",
+        "title": "Informatics 379C, Capstone (Students pursuing the School of Information Honors distinction",
+        "of": [
+         {
+          "type": "course",
+          "course": "I 379C"
+         },
+         {
+          "type": "course",
+          "course": "I 679H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics 379C, Capstone (Students pursuing the School of Information Honors distinction may substitute Informatics 679H, Honors Thesis)."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Informatics elective: Three hours of Informatics elective coursework in the School of Information.",
+        "title": "Informatics elective: Three hours of Informatics elective coursework in the Scho",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics elective: Three hours of Informatics elective coursework in the School of Information."
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Social Justice Informatics Concentration",
+      "of": [
+       {
+        "type": "course",
+        "course": "I 301",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics 301, Introduction to Informatics."
+        }
+       },
+       {
+        "type": "course",
+        "course": "I 310J",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Introductory concentration course: Informatics 310J."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Additional introductory concentration course: 310C, 310D, 310M, 310S, or 310U.",
+        "title": "Additional introductory concentration course: 310C, 310D, 310M, 310S, or 310U.",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Additional introductory concentration course: 310C, 310D, 310M, 310S, or 310U."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Advanced concentration coursework: Nine credit hours of advanced topics coursework in Informatics 320J, Topics in Social Justice Informatics.",
+        "title": "Advanced concentration coursework: Nine credit hours of advanced topics coursewo",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Advanced concentration coursework: Nine credit hours of advanced topics coursework in Informatics 320J, Topics in Social Justice Informatics."
+        }
+       },
+       {
+        "type": "all",
+        "title": "Informatics 379C, Capstone (Students pursuing the School of Information Honors distinction",
+        "of": [
+         {
+          "type": "course",
+          "course": "I 379C"
+         },
+         {
+          "type": "course",
+          "course": "I 679H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics 379C, Capstone (Students pursuing the School of Information Honors distinction may substitute Informatics 679H, Honors Thesis)."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Informatics elective: Three hours of Informatics elective coursework in the School of Information.",
+        "title": "Informatics elective: Three hours of Informatics elective coursework in the Scho",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics elective: Three hours of Informatics elective coursework in the School of Information."
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Health Informatics Concentration",
+      "of": [
+       {
+        "type": "course",
+        "course": "I 301",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics 301, Introduction to Informatics."
+        }
+       },
+       {
+        "type": "course",
+        "course": "I 310M",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Introductory concentration course: Informatics 310M."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Additional introductory concentration course: Informatics 310C, 310D, 310J, 310S, or 310U.",
+        "title": "Additional introductory concentration course: Informatics 310C, 310D, 310J, 310S",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Additional introductory concentration course: Informatics 310C, 310D, 310J, 310S, or 310U."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Advanced concentration coursework: Nine credit hours of advanced topics coursework in Informatics 320M, Topics in Health Informatics.",
+        "title": "Advanced concentration coursework: Nine credit hours of advanced topics coursewo",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Advanced concentration coursework: Nine credit hours of advanced topics coursework in Informatics 320M, Topics in Health Informatics."
+        }
+       },
+       {
+        "type": "all",
+        "title": "Informatics 379C, Capstone (Students pursuing the School of Information Honors distinction",
+        "of": [
+         {
+          "type": "course",
+          "course": "I 379C"
+         },
+         {
+          "type": "course",
+          "course": "I 679H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics 379C, Capstone (Students pursuing the School of Information Honors distinction may substitute Informatics 679H, Honors Thesis)."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Informatics elective: Three hours of Informatics elective coursework in the School of Information.",
+        "title": "Informatics elective: Three hours of Informatics elective coursework in the Scho",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics elective: Three hours of Informatics elective coursework in the School of Information."
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Social Informatics Concentration",
+      "of": [
+       {
+        "type": "course",
+        "course": "I 301",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics 301, Introduction to Informatics."
+        }
+       },
+       {
+        "type": "course",
+        "course": "I 310S",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Introductory concentration course: Informatics 310S."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Additional introductory concentration course: Informatics 310C, 310D, 310J, 310M, or 310U.",
+        "title": "Additional introductory concentration course: Informatics 310C, 310D, 310J, 310M",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Additional introductory concentration course: Informatics 310C, 310D, 310J, 310M, or 310U."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Advanced concentration coursework: Nine credit hours of advanced topics coursework in Informatics 320S, Topics in Social Informatics.",
+        "title": "Advanced concentration coursework: Nine credit hours of advanced topics coursewo",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Advanced concentration coursework: Nine credit hours of advanced topics coursework in Informatics 320S, Topics in Social Informatics."
+        }
+       },
+       {
+        "type": "all",
+        "title": "Informatics 379C, Capstone (Students pursuing the School of Information Honors distinction",
+        "of": [
+         {
+          "type": "course",
+          "course": "I 379C"
+         },
+         {
+          "type": "course",
+          "course": "I 679H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics 379C, Capstone (Students pursuing the School of Information Honors distinction may substitute Informatics 679H, Honors Thesis)."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Informatics elective: Three hours of Informatics elective coursework in the School of Information.",
+        "title": "Informatics elective: Three hours of Informatics elective coursework in the Scho",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics elective: Three hours of Informatics elective coursework in the School of Information."
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "User Experience Design Concentration",
+      "of": [
+       {
+        "type": "course",
+        "course": "I 301",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics 301, Introduction to Informatics."
+        }
+       },
+       {
+        "type": "course",
+        "course": "I 310U",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Introductory concentration course: Informatics 310U."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Additional introductory concentration course: Informatics 310C, 310D, 310J, 310M or 310S.",
+        "title": "Additional introductory concentration course: Informatics 310C, 310D, 310J, 310M",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Additional introductory concentration course: Informatics 310C, 310D, 310J, 310M or 310S."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Advanced concentration coursework: Nine credit hours of advanced topics coursework in Informatics 320U, Topics in User Experience Design.",
+        "title": "Advanced concentration coursework: Nine credit hours of advanced topics coursewo",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Advanced concentration coursework: Nine credit hours of advanced topics coursework in Informatics 320U, Topics in User Experience Design."
+        }
+       },
+       {
+        "type": "all",
+        "title": "Informatics 379C, Capstone, (Students pursuing the School of Information Honors distinctio",
+        "of": [
+         {
+          "type": "course",
+          "course": "I 379C"
+         },
+         {
+          "type": "course",
+          "course": "I 679H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics 379C, Capstone, (Students pursuing the School of Information Honors distinction may substitute Informatics 679H, Honors Thesis)."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Informatics elective: Three hours of Informatics elective coursework in the School of Information.",
+        "title": "Informatics elective: Three hours of Informatics elective coursework in the Scho",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/",
+         "quote": "Informatics elective: Three hours of Informatics elective coursework in the School of Information."
+        }
+       }
+      ]
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/information/degrees-and-programs/bachelor-of-science/"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "majorSubjects": [
+  "I"
+ ]
+}

@@ -163,6 +163,8 @@ export interface Program {
   /** catalog page this program was extracted from */
   sourceUrl: string
   notes?: string
+  /** produced by the automatic extractor (vs hand-curated) */
+  auto?: boolean
 }
 
 export interface ProgramsIndex {

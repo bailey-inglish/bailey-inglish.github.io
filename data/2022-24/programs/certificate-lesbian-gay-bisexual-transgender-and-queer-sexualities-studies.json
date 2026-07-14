@@ -1,0 +1,68 @@
+{
+ "id": "2022-24/certificate/lesbian-gay-bisexual-transgender-and-queer-sexualities-studies",
+ "edition": "2022-24",
+ "type": "certificate",
+ "name": "Lesbian, Gay, Bisexual, Transgender, and Queer/Sexualities Studies",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Lesbian, Gay, Bisexual, Transgender, and Queer/Sexualities Studies Certificate",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "WGS 303",
+    "of": [
+     {
+      "type": "course",
+      "course": "WGS 303",
+      "title": "WGS 303",
+      "source": {
+       "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "WGS 305"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours in the following course:",
+    "filter": {
+     "courses": [
+      "WGS 335"
+     ],
+     "label": "Six hours in the following course:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Six hours in the following course:"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine additional upper-division semester hours chosen from the following courses:",
+    "filter": {
+     "courses": [
+      "WGS 335"
+     ],
+     "label": "Nine additional upper-division semester hours chosen from the following courses:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Nine additional upper-division semester hours chosen from the following courses:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 18.0
+}

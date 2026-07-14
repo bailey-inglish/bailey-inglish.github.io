@@ -1,0 +1,70 @@
+{
+ "id": "2022-24/minor/greek",
+ "edition": "2022-24",
+ "type": "minor",
+ "name": "Greek",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Greek Minor",
+  "of": [
+   {
+    "type": "all",
+    "title": "GK 506 / GK 507",
+    "of": [
+     {
+      "type": "course",
+      "course": "GK 506"
+     },
+     {
+      "type": "course",
+      "course": "GK 507"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "GK 311",
+    "title": "GK 311",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "GK 312K",
+    "of": [
+     {
+      "type": "course",
+      "course": "GK 312K",
+      "title": "GK 312K",
+      "source": {
+       "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "GK 312L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "GK 324",
+    "title": "GK 324",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   }
+  ]
+ },
+ "auto": true
+}

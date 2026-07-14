@@ -1,0 +1,251 @@
+{
+ "id": "2024-26/major/ba-italian",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Italian Studies",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general",
+  "2024-26/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Three hours in Italian courses chosen from Italian 321 or 325C or 328",
+    "of": [
+     {
+      "type": "course",
+      "course": "ITL 321"
+     },
+     {
+      "type": "course",
+      "course": "ITL 325C"
+     },
+     {
+      "type": "course",
+      "course": "ITL 328"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+     "quote": "Three hours in Italian courses chosen from Italian 321 or 325C or 328"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three hours in Italian Civilization",
+    "title": "Three hours in Italian Civilization",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+     "quote": "Three hours in Italian Civilization"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Fifteen hours in additional Italian upper-division. Up to three hours of Italian Civilization may be counted for three hours of additional Italian upper-division. Up to three hours of Liberal Arts 320 may be counted for three hours of additional Italian Civilization",
+    "title": "Fifteen hours in additional Italian upper-division. Up to three hours of Italian",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+     "quote": "Fifteen hours in additional Italian upper-division. Up to three hours of Italian Civilization may be counted for three hours of additional Italian upper-division. Up to three hours of Liberal Arts 320"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Only one may be counted for the Major: Liberal Arts 321J, three hours of additional Italian Civilization, Italian 349P, Italian 358Q.",
+    "title": "Only one may be counted for the Major: Liberal Arts 321J, three hours of additio",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+     "quote": "Only one may be counted for the Major: Liberal Arts 321J, three hours of additional Italian Civilization, Italian 349P, Italian 358Q."
+    }
+   },
+   {
+    "type": "all",
+    "title": "Curriculum (from suggested course arrangement)",
+    "of": [
+     {
+      "type": "course",
+      "course": "ITL 601C",
+      "title": "ITL 601C",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/"
+      }
+     },
+     {
+      "type": "anyN",
+      "n": 1,
+      "title": "UGS 302",
+      "of": [
+       {
+        "type": "course",
+        "course": "UGS 302",
+        "title": "UGS 302",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/"
+        }
+       },
+       {
+        "type": "course",
+        "course": "UGS 303"
+       }
+      ],
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "RHE 306",
+      "title": "RHE 306",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "ITL 611C",
+      "title": "ITL 611C",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "ITL 320",
+      "title": "ITL 320",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/"
+      }
+     },
+     {
+      "type": "anyN",
+      "n": 1,
+      "title": "E 316L",
+      "of": [
+       {
+        "type": "course",
+        "course": "E 316L",
+        "title": "E 316L",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/"
+        }
+       },
+       {
+        "type": "course",
+        "course": "E 316M"
+       },
+       {
+        "type": "course",
+        "course": "E 316N"
+       },
+       {
+        "type": "course",
+        "course": "E 316P"
+       }
+      ],
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/"
+      }
+     },
+     {
+      "type": "anyN",
+      "n": 1,
+      "title": "ITL 321",
+      "of": [
+       {
+        "type": "course",
+        "course": "ITL 321",
+        "title": "ITL 321",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/"
+        }
+       },
+       {
+        "type": "course",
+        "course": "ITL 328"
+       }
+      ],
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "GOV 310L",
+      "title": "GOV 310L",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "GOV 312L",
+      "title": "GOV 312L",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Free elective (Elective)",
+      "title": "Free elective (Elective)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+       "quote": "Free elective (Elective)"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Free elective (Elective)",
+      "title": "Free elective (Elective)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+       "quote": "Free elective (Elective)"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Free elective (Elective)",
+      "title": "Free elective (Elective)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+       "quote": "Free elective (Elective)"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Free electives (Elective)",
+      "title": "Free electives (Elective)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+       "quote": "Free electives (Elective)"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Free electives (Elective)",
+      "title": "Free electives (Elective)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+       "quote": "Free electives (Elective)"
+      }
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "ITL"
+ ]
+}

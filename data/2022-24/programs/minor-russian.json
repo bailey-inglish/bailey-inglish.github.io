@@ -1,0 +1,74 @@
+{
+ "id": "2022-24/minor/russian",
+ "edition": "2022-24",
+ "type": "minor",
+ "name": "Russian",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Russian Minor",
+  "of": [
+   {
+    "type": "all",
+    "title": "RUS 506 / RUS 507",
+    "of": [
+     {
+      "type": "course",
+      "course": "RUS 506"
+     },
+     {
+      "type": "course",
+      "course": "RUS 507"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "RUS 601C",
+    "title": "RUS 601C",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "all",
+    "title": "RUS 412K / RUS 412L",
+    "of": [
+     {
+      "type": "course",
+      "course": "RUS 412K"
+     },
+     {
+      "type": "course",
+      "course": "RUS 412L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "RUS 611C",
+    "title": "RUS 611C",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Must include three hours of upper-division coursework.",
+    "title": "Must include three hours of upper-division coursework.",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Must include three hours of upper-division coursework."
+    }
+   }
+  ]
+ },
+ "auto": true
+}

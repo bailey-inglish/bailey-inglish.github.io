@@ -1,0 +1,112 @@
+{
+ "id": "2022-24/major/bba-business-analytics",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "Business Analytics",
+ "college": "Business",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-analytics/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "all",
+    "title": "Business Analytics 305, Programming for Data Analytics,",
+    "of": [
+     {
+      "type": "course",
+      "course": "BAX 305"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-analytics/",
+     "quote": "Business Analytics 305, Programming for Data Analytics,"
+    }
+   },
+   {
+    "type": "course",
+    "course": "BAX 327",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-analytics/",
+     "quote": "Business Analytics 327, Data Management,"
+    }
+   },
+   {
+    "type": "course",
+    "course": "BAX 357",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-analytics/",
+     "quote": "Business Analytics 357, Predictive Analytics,"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Business Analytics 358, Optimization Methods and Decision Making,",
+    "of": [
+     {
+      "type": "course",
+      "course": "BAX 358"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-analytics/",
+     "quote": "Business Analytics 358, Optimization Methods and Decision Making,"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Business Analytics 375, Business Analytics in Practice (may fulfill the writing and independent inquiry flags)",
+    "title": "Business Analytics 375, Business Analytics in Practice (may fulfill the writing ",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-analytics/",
+     "quote": "Business Analytics 375, Business Analytics in Practice (may fulfill the writing and independent inquiry flags)"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "umbrella": true,
+    "title": "6 upper-division hours of business analytics",
+    "filter": {
+     "division": "upper",
+     "subjects": [
+      "BAX"
+     ],
+     "label": "Upper-division business analytics"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-analytics/",
+     "quote": "Six additional semester hours of upper-division coursework in business analytics chosen from the following courses: Business Analytics 365, 366, 367, 368, 338, 360, 362, 372 (Topic 2: Predictive Analy"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Six additional semester hours of upper-division coursework in business analytics chosen from the following courses: Business Analytics 365, 366, 367, 368, 338, 360, 362, 372 (Topic 2: Predictive Analytics and Data Mining), 372 (Topic 4: User Generated Content Analytics), 372 (Topic 5: Financial Technology),372 (Topic 6:Optimization Methods in Finance), 372 (Topic 7: People Analytics), 372 (Topics 8: Pricing and Channels), 372 (Topic 9: Data Analytics for Marketing), 372 (Topic 10: Data Driven Marketing), 372 (Topic 16: Supply Chain Analytics), 372 (Topic 17: Health Care Analytics), 372 (Topic 21: Time Series Forecasting), 372 (Topic 23: Social Media Analytics).",
+    "title": "Specific courses within: 6 upper-division hours of business analytics",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-analytics/",
+     "quote": "Six additional semester hours of upper-division coursework in business analytics chosen from the following courses: Business Analytics 365, 366, 367, 368, 338, 360, 362, 372 (Topic 2: Predictive Analy"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Additional elective coursework, if necessary, to provide a total of at least 120 semester hours",
+    "title": "Additional elective coursework, if necessary, to provide a total of at least 120",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-analytics/",
+     "quote": "Additional elective coursework, if necessary, to provide a total of at least 120 semester hours"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BBA",
+ "majorSubjects": [
+  "BAX"
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "id": "2024-26/major/bsa-human-ecology",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Human Ecology",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general",
+  "2024-26/layer/cns-college"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "course",
+    "course": "SDS 302F",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
+     "quote": "Mathematics: Statistics and Data Sciences 302F"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 324E",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 408C"
+     },
+     {
+      "type": "course",
+      "course": "M 408N"
+     },
+     {
+      "type": "course",
+      "course": "M 408R"
+     },
+     {
+      "type": "course",
+      "course": "SDS 324E"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
+     "quote": "Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 324E"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Primary science: School of Human Ecology coursework, including: Public Health 317",
+    "title": "Primary science: School of Human Ecology coursework, including: Public Health 31",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
+     "quote": "Primary science: School of Human Ecology coursework, including: Public Health 317"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "One of the following: Human Development and Family Sciences 304, 304H, 313 and 113L, or 313H and 113L",
+    "title": "One of the following: Human Development and Family Sciences 304, 304H, 313 and 1",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
+     "quote": "One of the following: Human Development and Family Sciences 304, 304H, 313 and 113L, or 313H and 113L"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Nutrition 306, 312, or 312H",
+    "of": [
+     {
+      "type": "course",
+      "course": "NTR 306"
+     },
+     {
+      "type": "course",
+      "course": "NTR 312"
+     },
+     {
+      "type": "course",
+      "course": "NTR 312H"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
+     "quote": "Nutrition 306, 312, or 312H"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Textiles and Apparel 301C or 305",
+    "of": [
+     {
+      "type": "course",
+      "course": "TXA 301C"
+     },
+     {
+      "type": "course",
+      "course": "TXA 305"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
+     "quote": "Textiles and Apparel 301C or 305"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Fifteen semester hours of upper-division chosen from Human Development and Family Sciences, Human Ecology, Nutrition, Public Health, and Textiles and Apparel",
+    "title": "Fifteen semester hours of upper-division chosen from Human Development and Famil",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
+     "quote": "Fifteen semester hours of upper-division chosen from Human Development and Family Sciences, Human Ecology, Nutrition, Public Health, and Textiles and Apparel"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Secondary science: Chemistry 301 or 301C",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 301"
+     },
+     {
+      "type": "course",
+      "course": "CH 301C"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
+     "quote": "Secondary science: Chemistry 301 or 301C"
+    }
+   },
+   {
+    "type": "course",
+    "course": "BIO 311C",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
+     "quote": "Biology 311C"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following: Biology 311D, Chemistry 302, or 302C",
+    "of": [
+     {
+      "type": "course",
+      "course": "BIO 311D"
+     },
+     {
+      "type": "course",
+      "course": "CH 302"
+     },
+     {
+      "type": "course",
+      "course": "CH 302C"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-ecology/",
+     "quote": "One of the following: Biology 311D, Chemistry 302, or 302C"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BSA",
+ "majorSubjects": [
+  "CH"
+ ]
+}

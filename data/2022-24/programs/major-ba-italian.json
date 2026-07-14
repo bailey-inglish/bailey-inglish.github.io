@@ -1,0 +1,75 @@
+{
+ "id": "2022-24/major/ba-italian",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "Italian Studies",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Three hours in Italian courses chosen from Italian 321 or 325C or 328",
+    "of": [
+     {
+      "type": "course",
+      "course": "ITL 321"
+     },
+     {
+      "type": "course",
+      "course": "ITL 325C"
+     },
+     {
+      "type": "course",
+      "course": "ITL 328"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+     "quote": "Three hours in Italian courses chosen from Italian 321 or 325C or 328"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three hours in Italian Civilization",
+    "title": "Three hours in Italian Civilization",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+     "quote": "Three hours in Italian Civilization"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Fifteen hours in additional Italian upper-division. Up to three hours of Italian Civilization may be counted for three hours of additional Italian upper-division. Up to three hours of Liberal Arts 320 may be counted for three hours of additional Italian Civilization",
+    "title": "Fifteen hours in additional Italian upper-division. Up to three hours of Italian",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+     "quote": "Fifteen hours in additional Italian upper-division. Up to three hours of Italian Civilization may be counted for three hours of additional Italian upper-division. Up to three hours of Liberal Arts 320"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Only one may be counted for the Major: Liberal Arts 321J, three hours of additional Italian Civilization, Italian 349P, Italian 358Q.",
+    "title": "Only one may be counted for the Major: Liberal Arts 321J, three hours of additio",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
+     "quote": "Only one may be counted for the Major: Liberal Arts 321J, three hours of additional Italian Civilization, Italian 349P, Italian 358Q."
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "ITL"
+ ]
+}

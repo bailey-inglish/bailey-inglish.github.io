@@ -1,0 +1,301 @@
+{
+ "id": "2024-26/major/ba-sociology",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Sociology",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general",
+  "2024-26/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 30.0,
+    "umbrella": true,
+    "title": "30 hours of sociology",
+    "filter": {
+     "subjects": [
+      "SOC"
+     ],
+     "label": "Sociology coursework"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+     "quote": "At least 30 semester hours of coursework in sociology, including Sociology 302, 317L (or approved substitution), 327M, and 379M. At least 18 semester hours must be in upper-division courses. Sociology"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 18.0,
+    "umbrella": true,
+    "title": "18 upper-division hours of sociology",
+    "filter": {
+     "subjects": [
+      "SOC"
+     ],
+     "division": "upper",
+     "label": "Upper-division sociology"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+     "quote": "At least 30 semester hours of coursework in sociology, including Sociology 302, 317L (or approved substitution), 327M, and 379M. At least 18 semester hours must be in upper-division courses. Sociology"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "At least 30 semester hours of coursework in sociology, including Sociology 302, 317L (or approved substitution), 327M, and 379M. At least 18 semester hours must be in upper-division courses. Sociology majors must earn grades of at least C in Sociology 302, 317L (or approved substitution), and 327M. To enroll in Sociology 327M for a second time, a student must have the consent of a sociology undergraduate advisor. Students may not enroll in Sociology 327M more than twice. Sociology 327M and 379M must be taken in-residence.",
+    "title": "Specific courses within: 30 hours of sociology",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+     "quote": "At least 30 semester hours of coursework in sociology, including Sociology 302, 317L (or approved substitution), 327M, and 379M. At least 18 semester hours must be in upper-division courses. Sociology"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "If the student completes an approved substitute course instead of Sociology 317L, that course is counted toward the 30 hours required for the major and is included in the major grade point average.",
+    "title": "If the student completes an approved substitute course instead of Sociology 317L",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+     "quote": "If the student completes an approved substitute course instead of Sociology 317L, that course is counted toward the 30 hours required for the major and is included in the major grade point average."
+    }
+   },
+   {
+    "type": "all",
+    "title": "Curriculum (from suggested course arrangement)",
+    "of": [
+     {
+      "type": "course",
+      "course": "SOC 302",
+      "title": "SOC 302",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "RHE 306",
+      "title": "RHE 306",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/"
+      }
+     },
+     {
+      "type": "anyN",
+      "n": 1,
+      "title": "UGS 302",
+      "of": [
+       {
+        "type": "course",
+        "course": "UGS 302",
+        "title": "UGS 302",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/"
+        }
+       },
+       {
+        "type": "course",
+        "course": "UGS 303"
+       }
+      ],
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "SOC 317L",
+      "title": "SOC 317L",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "GOV 310L",
+      "title": "GOV 310L",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Free elective (Elective)",
+      "title": "Free elective (Elective)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+       "quote": "Free elective (Elective)"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "SOC elective (Major)",
+      "title": "SOC elective (Major)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+       "quote": "SOC elective (Major)"
+      }
+     },
+     {
+      "type": "course",
+      "course": "GOV 312L",
+      "title": "GOV 312L",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Free elective (Elective)",
+      "title": "Free elective (Elective)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+       "quote": "Free elective (Elective)"
+      }
+     },
+     {
+      "type": "course",
+      "course": "SOC 327M",
+      "title": "SOC 327M",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Free elective (Elective)",
+      "title": "Free elective (Elective)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+       "quote": "Free elective (Elective)"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Free elective (Elective)",
+      "title": "Free elective (Elective)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+       "quote": "Free elective (Elective)"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Upper-division SOC elective (Major)",
+      "title": "Upper-division SOC elective (Major)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+       "quote": "Upper-division SOC elective (Major)"
+      }
+     },
+     {
+      "type": "course",
+      "course": "SOC 379M",
+      "title": "SOC 379M",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/"
+      }
+     },
+     {
+      "type": "anyN",
+      "n": 1,
+      "title": "E 316L",
+      "of": [
+       {
+        "type": "course",
+        "course": "E 316L",
+        "title": "E 316L",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/"
+        }
+       },
+       {
+        "type": "course",
+        "course": "E 316M"
+       },
+       {
+        "type": "course",
+        "course": "E 316N"
+       },
+       {
+        "type": "course",
+        "course": "E 316P"
+       }
+      ],
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "SOC elective (Major)",
+      "title": "SOC elective (Major)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+       "quote": "SOC elective (Major)"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Upper-division SOC elective (Major)",
+      "title": "Upper-division SOC elective (Major)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+       "quote": "Upper-division SOC elective (Major)"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Upper-division elective (Elective)",
+      "title": "Upper-division elective (Elective)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+       "quote": "Upper-division elective (Elective)"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Upper-division elective (Elective)",
+      "title": "Upper-division elective (Elective)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+       "quote": "Upper-division elective (Elective)"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Upper-division elective (Elective)",
+      "title": "Upper-division elective (Elective)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+       "quote": "Upper-division elective (Elective)"
+      }
+     },
+     {
+      "type": "manual",
+      "text": "Upper-division elective (Elective)",
+      "title": "Upper-division elective (Elective)",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+       "quote": "Upper-division elective (Elective)"
+      }
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "SOC"
+ ]
+}

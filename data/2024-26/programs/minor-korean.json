@@ -1,0 +1,59 @@
+{
+ "id": "2024-26/minor/korean",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Korean",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Korean Minor",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "First-Year Korean Requirement",
+    "filter": {
+     "courses": [
+      "KOR 606",
+      "KOR 607",
+      "KOR 604"
+     ],
+     "label": "First-Year Korean Requirement"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "First-Year Korean Requirement"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Second-Year Korean Requirement",
+    "filter": {
+     "courses": [
+      "KOR 312K",
+      "KOR 312L",
+      "KOR 612"
+     ],
+     "label": "Second-Year Korean Requirement"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Second-Year Korean Requirement"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three hours upper-division Korean",
+    "title": "Three hours upper-division Korean",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Three hours upper-division Korean"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

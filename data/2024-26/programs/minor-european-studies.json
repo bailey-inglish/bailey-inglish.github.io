@@ -1,0 +1,78 @@
+{
+ "id": "2024-26/minor/european-studies",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "European Studies",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "European Studies Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "EUS 305",
+    "title": "EUS 305",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "EUS 350",
+    "of": [
+     {
+      "type": "course",
+      "course": "EUS 350",
+      "title": "EUS 350",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "GOV 351D"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following courses:",
+    "of": [
+     {
+      "type": "course",
+      "course": "EUS 346"
+     },
+     {
+      "type": "course",
+      "course": "EUS 347"
+     },
+     {
+      "type": "course",
+      "course": "EUS 348"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "One of the following courses:"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Six additional hours of upper-division European Studies Courses",
+    "title": "Six additional hours of upper-division European Studies Courses",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Six additional hours of upper-division European Studies Courses"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

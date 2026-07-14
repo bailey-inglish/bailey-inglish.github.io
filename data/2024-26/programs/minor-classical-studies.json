@@ -1,0 +1,54 @@
+{
+ "id": "2024-26/minor/classical-studies",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Classical Studies",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Classical Studies Minor",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "GK 506",
+    "of": [
+     {
+      "type": "course",
+      "course": "GK 506",
+      "title": "GK 506",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "LAT 506"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve hours from the following:",
+    "filter": {
+     "courses": [
+      "AHC 325",
+      "AHC 378"
+     ],
+     "label": "Twelve hours from the following:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Twelve hours from the following:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 17.0
+}

@@ -1,0 +1,56 @@
+{
+ "id": "2022-24/certificate/the-elements-of-computing-program",
+ "edition": "2022-24",
+ "type": "certificate",
+ "name": "The Elements of Computing Program",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "The Elements of Computing Program Certificate",
+  "of": [
+   {
+    "type": "course",
+    "course": "C S 303E",
+    "minGrade": "C-",
+    "title": "C S 303E",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "C S 313E",
+    "minGrade": "C-",
+    "title": "C S 313E",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Four of the following courses:",
+    "filter": {
+     "courses": [
+      "C S 323E",
+      "C S 324E",
+      "C S 326E",
+      "C S 327E",
+      "C S 328E",
+      "C S 329E",
+      "C S 330E",
+      "C S 331E"
+     ],
+     "label": "Four of the following courses:"
+    },
+    "minGrade": "C-",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/",
+     "quote": "Four of the following courses:"
+    }
+   }
+  ]
+ },
+ "auto": true
+}

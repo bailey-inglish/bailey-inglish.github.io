@@ -1,0 +1,138 @@
+{
+ "id": "2024-26/major/ba-philosophy",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Philosophy",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general",
+  "2024-26/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 30.0,
+    "umbrella": true,
+    "title": "30 hours of philosophy",
+    "filter": {
+     "subjects": [
+      "PHL"
+     ],
+     "label": "Philosophy coursework"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
+     "quote": "Thirty semester hours of philosophy, at least 18 of which must be upper-division, including"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 18.0,
+    "umbrella": true,
+    "title": "18 upper-division hours of philosophy",
+    "filter": {
+     "subjects": [
+      "PHL"
+     ],
+     "division": "upper",
+     "label": "Upper-division philosophy"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
+     "quote": "Thirty semester hours of philosophy, at least 18 of which must be upper-division, including"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three hours of symbolic logic: Philosophy 313, 313K, or 313Q",
+    "title": "Three hours of symbolic logic: Philosophy 313, 313K, or 313Q",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
+     "quote": "Three hours of symbolic logic: Philosophy 313, 313K, or 313Q"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Philosophy 329K or 329L, which may also be counted toward requirement 3 or 4 below",
+    "title": "Philosophy 329K or 329L, which may also be counted toward requirement 3 or 4 bel",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
+     "quote": "Philosophy 329K or 329L, which may also be counted toward requirement 3 or 4 below"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Three hours of ancient philosophy: Philosophy 301K or 329K",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHL 301K"
+     },
+     {
+      "type": "course",
+      "course": "PHL 329K"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
+     "quote": "Three hours of ancient philosophy: Philosophy 301K or 329K"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three hours of early modern philosophy: Philosophy 301L or 329L",
+    "title": "Three hours of early modern philosophy: Philosophy 301L or 329L",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
+     "quote": "Three hours of early modern philosophy: Philosophy 301L or 329L"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Six hours chosen from Philosophy 321K, 323K, 323M, 323S, 325K, and 332",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHL 321K"
+     },
+     {
+      "type": "course",
+      "course": "PHL 323K"
+     },
+     {
+      "type": "course",
+      "course": "PHL 323M"
+     },
+     {
+      "type": "course",
+      "course": "PHL 323S"
+     },
+     {
+      "type": "course",
+      "course": "PHL 325K"
+     },
+     {
+      "type": "course",
+      "course": "PHL 332"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/philosophy/",
+     "quote": "Six hours chosen from Philosophy 321K, 323K, 323M, 323S, 325K, and 332"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "PHL"
+ ]
+}

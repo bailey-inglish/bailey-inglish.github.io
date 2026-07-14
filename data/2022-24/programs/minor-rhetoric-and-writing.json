@@ -1,0 +1,105 @@
+{
+ "id": "2022-24/minor/rhetoric-and-writing",
+ "edition": "2022-24",
+ "type": "minor",
+ "name": "Rhetoric and Writing",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Rhetoric and Writing Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "RHE 321",
+    "title": "RHE 321",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following courses:",
+    "of": [
+     {
+      "type": "course",
+      "course": "RHE 330C"
+     },
+     {
+      "type": "course",
+      "course": "RHE 330D"
+     },
+     {
+      "type": "course",
+      "course": "RHE 330E"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "One of the following courses:"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following upper-division courses:",
+    "of": [
+     {
+      "type": "course",
+      "course": "RHE 330C"
+     },
+     {
+      "type": "course",
+      "course": "RHE 330D"
+     },
+     {
+      "type": "course",
+      "course": "RHE 330E"
+     },
+     {
+      "type": "course",
+      "course": "RHE 325M"
+     },
+     {
+      "type": "course",
+      "course": "RHE 328"
+     },
+     {
+      "type": "course",
+      "course": "RHE 360M"
+     },
+     {
+      "type": "course",
+      "course": "RHE 368E"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "One of the following upper-division courses:"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Two additional courses, either upper-division (see list above) or lower-division",
+    "filter": {
+     "courses": [
+      "RHE 309J",
+      "RHE 309S",
+      "RHE 310",
+      "RHE 312",
+      "RHE 315",
+      "RHE 317"
+     ],
+     "label": "Two additional courses, either upper-division (see list above) or lower-division"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Two additional courses, either upper-division (see list above) or lower-division (see list below):"
+    }
+   }
+  ]
+ },
+ "auto": true
+}

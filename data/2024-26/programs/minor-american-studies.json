@@ -1,0 +1,71 @@
+{
+ "id": "2024-26/minor/american-studies",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "American Studies",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "American Studies Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "AMS 310",
+    "title": "AMS 310",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "AMS 311S",
+    "title": "AMS 311S",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "AMS 355",
+    "of": [
+     {
+      "type": "course",
+      "course": "AMS 355",
+      "title": "AMS 355",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "AMS 356"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "AMS 370",
+    "title": "AMS 370",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three additional semester credit hours of American studies",
+    "title": "Three additional semester credit hours of American studies",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Three additional semester credit hours of American studies"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

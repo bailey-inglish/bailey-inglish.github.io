@@ -1,0 +1,75 @@
+{
+ "id": "2024-26/minor/turkish",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Turkish",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Turkish Minor",
+  "of": [
+   {
+    "type": "all",
+    "title": "TUR 506 / TUR 507",
+    "of": [
+     {
+      "type": "course",
+      "course": "TUR 506"
+     },
+     {
+      "type": "course",
+      "course": "TUR 507"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "TUR 601C",
+    "title": "TUR 601C",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "all",
+    "title": "TUR 412K / TUR 412L",
+    "of": [
+     {
+      "type": "course",
+      "course": "TUR 412K"
+     },
+     {
+      "type": "course",
+      "course": "TUR 412L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "TUR 611C",
+    "title": "TUR 611C",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three hours upper-division Turkish",
+    "title": "Three hours upper-division Turkish",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Three hours upper-division Turkish"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

@@ -1,0 +1,59 @@
+{
+ "id": "2024-26/minor/chinese",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Chinese",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Chinese Minor",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "First-Year Chinese Requirement",
+    "filter": {
+     "courses": [
+      "CHI 606",
+      "CHI 607",
+      "CHI 604"
+     ],
+     "label": "First-Year Chinese Requirement"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "First-Year Chinese Requirement"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Second-Year Chinese Requirement",
+    "filter": {
+     "courses": [
+      "CHI 312K",
+      "CHI 312L",
+      "CHI 612"
+     ],
+     "label": "Second-Year Chinese Requirement"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Second-Year Chinese Requirement"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three hours upper-division Chinese",
+    "title": "Three hours upper-division Chinese",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Three hours upper-division Chinese"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

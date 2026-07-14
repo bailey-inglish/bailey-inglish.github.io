@@ -267,9 +267,15 @@ interface Unit {
   status: NodeStatus
 }
 
-/** scorable units: course/hours/gpa leaves, each anyN as a single unit */
+/**
+ * Scorable units: course/hours/gpa/concentration leaves, each anyN as a
+ * single unit. Umbrella aggregates ("120 total hours") are excluded —
+ * they'd hand free "met/partial" units to programs whose specific rules
+ * didn't extract, and their information lives in remainingHours instead.
+ */
 function collectUnits(r: NodeResult, out: Unit[]): void {
   const t = r.node.type
+  if (r.node.umbrella) return
   if (t === 'anyN' || t === 'course' || t === 'hours' || t === 'gpa' || t === 'concentration' || t === 'manual') {
     out.push({ status: r.status })
     return
@@ -308,6 +314,9 @@ export function auditProgram(
   const totalFloor = program.totalHours ? Math.max(0, program.totalHours - earned) : 0
   const remainingHours = Math.max(specific, totalFloor)
 
+  // manual checks count against completeness until the user ticks them —
+  // otherwise thinly-extracted programs would rank artificially high
+  const denominator = scorable.length + manualLeaves
   return {
     programId: program.id,
     program,
@@ -317,6 +326,6 @@ export function auditProgram(
     totalLeaves: scorable.length,
     manualLeaves,
     remainingHours,
-    percentComplete: scorable.length > 0 ? metLeaves / scorable.length : 0,
+    percentComplete: denominator > 0 ? metLeaves / denominator : 0,
   }
 }

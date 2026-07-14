@@ -1,0 +1,56 @@
+{
+ "id": "2024-26/minor/asian-american-studies",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Asian American Studies",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Asian American Studies Minor",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "AAS 301",
+    "of": [
+     {
+      "type": "course",
+      "course": "AAS 301",
+      "title": "AAS 301",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "AAS 312"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Nine hours of upper-division coursework",
+    "title": "Nine hours of upper-division coursework",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Nine hours of upper-division coursework"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three additional semester credit hours of Asian American studies",
+    "title": "Three additional semester credit hours of Asian American studies",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Three additional semester credit hours of Asian American studies"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

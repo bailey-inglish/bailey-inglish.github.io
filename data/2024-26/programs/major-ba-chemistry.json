@@ -1,0 +1,296 @@
+{
+ "id": "2024-26/major/ba-chemistry",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Chemistry",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general",
+  "2024-26/layer/cns-college"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Chemistry 301 or 301C",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 301"
+     },
+     {
+      "type": "course",
+      "course": "CH 301C"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Chemistry 301 or 301C"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Chemistry 302 or 302C",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 302"
+     },
+     {
+      "type": "course",
+      "course": "CH 302C"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Chemistry 302 or 302C"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Chemistry 204 or 317",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 204"
+     },
+     {
+      "type": "course",
+      "course": "CH 317"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Chemistry 204 or 317"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following sequences: Chemistry 220C, 320M, 320N; or",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 220C"
+     },
+     {
+      "type": "course",
+      "course": "CH 320M"
+     },
+     {
+      "type": "course",
+      "course": "CH 320N"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "One of the following sequences: Chemistry 220C, 320M, 320N; or"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Chemistry 128K, 128L, 328M, and 328N",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 128K"
+     },
+     {
+      "type": "course",
+      "course": "CH 128L"
+     },
+     {
+      "type": "course",
+      "course": "CH 328M"
+     },
+     {
+      "type": "course",
+      "course": "CH 328N"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Chemistry 128K, 128L, 328M, and 328N"
+    }
+   },
+   {
+    "type": "course",
+    "course": "CH 353",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Chemistry 353"
+    }
+   },
+   {
+    "type": "course",
+    "course": "CH 153K",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Chemistry 153K"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Chemistry 354 or 354L",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 354"
+     },
+     {
+      "type": "course",
+      "course": "CH 354L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Chemistry 354 or 354L"
+    }
+   },
+   {
+    "type": "course",
+    "course": "CH 154K",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Chemistry 154K"
+    }
+   },
+   {
+    "type": "course",
+    "course": "CH 456",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Chemistry 456"
+    }
+   },
+   {
+    "type": "course",
+    "course": "CH 376K",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Chemistry 376K"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Mathematics 408C and 408D, or Mathematics 408N, 408S, and 408M",
+    "title": "Mathematics 408C and 408D, or Mathematics 408N, 408S, and 408M",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Mathematics 408C and 408D, or Mathematics 408N, 408S, and 408M"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Eight semester hours of physics chosen from one of the following sequences: Physics 303K, 103M, 303L, and 103N",
+    "title": "Eight semester hours of physics chosen from one of the following sequences: Phys",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Eight semester hours of physics chosen from one of the following sequences: Physics 303K, 103M, 303L, and 103N"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Physics 301, 101L, 316, and 116L",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHY 301"
+     },
+     {
+      "type": "course",
+      "course": "PHY 101L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 316"
+     },
+     {
+      "type": "course",
+      "course": "PHY 116L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Physics 301, 101L, 316, and 116L"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Physics 317K, 117M, 317L, and 117N",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHY 317K"
+     },
+     {
+      "type": "course",
+      "course": "PHY 117M"
+     },
+     {
+      "type": "course",
+      "course": "PHY 317L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 117N"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Physics 317K, 117M, 317L, and 117N"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Completion of one of the following sequences: Twelve semester hours of majors-level coursework in biology, mathematics, or physics. Mathematics in requirement one or physics in requirement two may count toward the 12-hour total",
+    "title": "Completion of one of the following sequences: Twelve semester hours of majors-le",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Completion of one of the following sequences: Twelve semester hours of majors-level coursework in biology, mathematics, or physics. Mathematics in requirement one or physics in requirement two may cou"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Computer Science 303E, 313E, and six hours chosen from Computer Science 323E, 324E, 326E, 327E, and 329E. Students choosing this option may simultaneously fulfill some of the requirements of the Elements of Computing Certificate",
+    "title": "Computer Science 303E, 313E, and six hours chosen from Computer Science 323E, 32",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Computer Science 303E, 313E, and six hours chosen from Computer Science 323E, 324E, 326E, 327E, and 329E. Students choosing this option may simultaneously fulfill some of the requirements of the Eleme"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "With written consent of the department chair and approval of the dean, 12 semester hours in a field of study outside the College of Natural Sciences",
+    "title": "With written consent of the department chair and approval of the dean, 12 semest",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "With written consent of the department chair and approval of the dean, 12 semester hours in a field of study outside the College of Natural Sciences"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Students must earn a grade of at least C- in each mathematics and science course required for the degree, and a grade point average in these courses of at least 2.00.",
+    "title": "Students must earn a grade of at least C- in each mathematics and science course",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
+     "quote": "Students must earn a grade of at least C- in each mathematics and science course required for the degree, and a grade point average in these courses of at least 2.00."
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "CH"
+ ]
+}

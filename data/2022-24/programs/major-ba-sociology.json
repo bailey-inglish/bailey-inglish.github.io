@@ -1,0 +1,76 @@
+{
+ "id": "2022-24/major/ba-sociology",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "Sociology",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 30.0,
+    "umbrella": true,
+    "title": "30 hours of sociology",
+    "filter": {
+     "subjects": [
+      "SOC"
+     ],
+     "label": "Sociology coursework"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+     "quote": "At least 30 semester hours of coursework in sociology, including Sociology 302, 317L (or approved substitution), 327M, and 379M. At least 18 semester hours must be in upper-division courses. Sociology"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 18.0,
+    "umbrella": true,
+    "title": "18 upper-division hours of sociology",
+    "filter": {
+     "subjects": [
+      "SOC"
+     ],
+     "division": "upper",
+     "label": "Upper-division sociology"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+     "quote": "At least 30 semester hours of coursework in sociology, including Sociology 302, 317L (or approved substitution), 327M, and 379M. At least 18 semester hours must be in upper-division courses. Sociology"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "At least 30 semester hours of coursework in sociology, including Sociology 302, 317L (or approved substitution), 327M, and 379M. At least 18 semester hours must be in upper-division courses. Sociology majors must earn grades of at least C in Sociology 302, 317L (or approved substitution), and 327M. To enroll in Sociology 327M for a second time, a student must have the consent of a sociology undergraduate advisor. Students may not enroll in Sociology 327M more than twice. Sociology 327M and 379M must be taken in-residence.",
+    "title": "Specific courses within: 30 hours of sociology",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+     "quote": "At least 30 semester hours of coursework in sociology, including Sociology 302, 317L (or approved substitution), 327M, and 379M. At least 18 semester hours must be in upper-division courses. Sociology"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "If the student completes an approved substitute course instead of Sociology 317L, that course is counted toward the 30 hours required for the major and is included in the major grade point average.",
+    "title": "If the student completes an approved substitute course instead of Sociology 317L",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/sociology/",
+     "quote": "If the student completes an approved substitute course instead of Sociology 317L, that course is counted toward the 30 hours required for the major and is included in the major grade point average."
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "SOC"
+ ]
+}

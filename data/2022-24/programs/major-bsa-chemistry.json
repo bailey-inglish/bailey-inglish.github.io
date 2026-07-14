@@ -1,0 +1,161 @@
+{
+ "id": "2022-24/major/bsa-chemistry",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "Chemistry",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cns-college"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "manual",
+    "text": "Mathematics: Mathematics 408C and 408D, or 408N and 408S",
+    "title": "Mathematics: Mathematics 408C and 408D, or 408N and 408S",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
+     "quote": "Mathematics: Mathematics 408C and 408D, or 408N and 408S"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Primary science: Chemistry 301 or CH 301H, 302 or CH 302H, and 204 or 317",
+    "title": "Primary science: Chemistry 301 or CH 301H, 302 or CH 302H, and 204 or 317",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
+     "quote": "Primary science: Chemistry 301 or CH 301H, 302 or CH 302H, and 204 or 317"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Chemistry 320M, 320N and 220C, or 328M, 328N, 128K and 128L",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 320M"
+     },
+     {
+      "type": "course",
+      "course": "CH 320N"
+     },
+     {
+      "type": "course",
+      "course": "CH 220C"
+     },
+     {
+      "type": "course",
+      "course": "CH 328M"
+     },
+     {
+      "type": "course",
+      "course": "CH 328N"
+     },
+     {
+      "type": "course",
+      "course": "CH 128K"
+     },
+     {
+      "type": "course",
+      "course": "CH 128L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
+     "quote": "Chemistry 320M, 320N and 220C, or 328M, 328N, 128K and 128L"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Chemistry 353 or 353M, and 153K",
+    "title": "Chemistry 353 or 353M, and 153K",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
+     "quote": "Chemistry 353 or 353M, and 153K"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Chemistry 431; 455 or 456; and Biochemistry 369",
+    "title": "Chemistry 431; 455 or 456; and Biochemistry 369",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
+     "quote": "Chemistry 431; 455 or 456; and Biochemistry 369"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Secondary science: One of the following physics sequences: Physics 301, 101L, 316, and 116L",
+    "title": "Secondary science: One of the following physics sequences: Physics 301, 101L, 31",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
+     "quote": "Secondary science: One of the following physics sequences: Physics 301, 101L, 316, and 116L"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Physics 303K, 103M, 303L, and 103N",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHY 303K"
+     },
+     {
+      "type": "course",
+      "course": "PHY 103M"
+     },
+     {
+      "type": "course",
+      "course": "PHY 303L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 103N"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
+     "quote": "Physics 303K, 103M, 303L, and 103N"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Physics 317K, 117M, 317L, and 117N",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHY 317K"
+     },
+     {
+      "type": "course",
+      "course": "PHY 117M"
+     },
+     {
+      "type": "course",
+      "course": "PHY 317L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 117N"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
+     "quote": "Physics 317K, 117M, 317L, and 117N"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BSA",
+ "majorSubjects": [
+  "PHY"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "2024-26/certificate/security-studies",
+ "edition": "2024-26",
+ "type": "certificate",
+ "name": "Security Studies",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Security Studies Certificate",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester credit hours, chosen from:",
+    "filter": {
+     "courses": [
+      "GOV 360D"
+     ],
+     "label": "Three semester credit hours, chosen from:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Three semester credit hours, chosen from:"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Fifteen additional credit hours total chosen from at least two different departm",
+    "filter": {
+     "courses": [
+      "ANS 322M",
+      "GOV 337C",
+      "GOV 347K",
+      "GOV 360D",
+      "GRG 327",
+      "HIS 343M",
+      "HIS 350L",
+      "IRG 320F",
+      "M E 337G"
+     ],
+     "label": "Fifteen additional credit hours total chosen from at least two different departm"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Fifteen additional credit hours total chosen from at least two different departments, drawn from:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 18.0
+}

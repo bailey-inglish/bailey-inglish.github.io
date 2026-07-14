@@ -2,18 +2,235 @@
  "edition": "2022-24",
  "programs": [
   {
-   "id": "2022-24/layer/university-general",
-   "type": "layer",
-   "name": "University General Requirements",
-   "college": "The University",
-   "file": "programs/layer-university-general.json"
+   "id": "2022-24/certificate/african-studies",
+   "type": "certificate",
+   "name": "African Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/certificate-african-studies.json"
   },
   {
-   "id": "2022-24/layer/cola-ba-plan-i",
-   "type": "layer",
-   "name": "Bachelor of Arts, Plan I — degree requirements",
+   "id": "2022-24/certificate/applied-statistical-modeling",
+   "type": "certificate",
+   "name": "Applied Statistical Modeling",
+   "college": "Natural Sciences",
+   "auto": true,
+   "file": "programs/certificate-applied-statistical-modeling.json"
+  },
+  {
+   "id": "2022-24/certificate/business-spanish",
+   "type": "certificate",
+   "name": "Business Spanish",
    "college": "Liberal Arts",
-   "file": "programs/layer-cola-ba-plan-i.json"
+   "auto": true,
+   "file": "programs/certificate-business-spanish.json"
+  },
+  {
+   "id": "2022-24/certificate/computational-science-and-engineering",
+   "type": "certificate",
+   "name": "Computational Science and Engineering",
+   "college": "Engineering",
+   "auto": true,
+   "file": "programs/certificate-computational-science-and-engineering.json"
+  },
+  {
+   "id": "2022-24/certificate/core-texts-and-ideas",
+   "type": "certificate",
+   "name": "Core Texts and Ideas",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/certificate-core-texts-and-ideas.json"
+  },
+  {
+   "id": "2022-24/certificate/creative-writing",
+   "type": "certificate",
+   "name": "Creative Writing",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/certificate-creative-writing.json"
+  },
+  {
+   "id": "2022-24/certificate/digital-humanities",
+   "type": "certificate",
+   "name": "Digital Humanities",
+   "college": "Information",
+   "auto": true,
+   "file": "programs/certificate-digital-humanities.json"
+  },
+  {
+   "id": "2022-24/certificate/evidence-and-inquiry",
+   "type": "certificate",
+   "name": "Evidence and Inquiry",
+   "college": "Natural Sciences",
+   "auto": true,
+   "file": "programs/certificate-evidence-and-inquiry.json"
+  },
+  {
+   "id": "2022-24/certificate/food-and-society",
+   "type": "certificate",
+   "name": "Food and Society",
+   "college": "Natural Sciences",
+   "auto": true,
+   "file": "programs/certificate-food-and-society.json"
+  },
+  {
+   "id": "2022-24/certificate/forensic-science",
+   "type": "certificate",
+   "name": "Forensic Science",
+   "college": "Natural Sciences",
+   "auto": true,
+   "file": "programs/certificate-forensic-science.json"
+  },
+  {
+   "id": "2022-24/certificate/german",
+   "type": "certificate",
+   "name": "German",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/certificate-german.json"
+  },
+  {
+   "id": "2022-24/certificate/history-and-philosophy-of-science",
+   "type": "certificate",
+   "name": "History and Philosophy of Science",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/certificate-history-and-philosophy-of-science.json"
+  },
+  {
+   "id": "2022-24/certificate/humanitarian-engineering",
+   "type": "certificate",
+   "name": "Humanitarian Engineering",
+   "college": "Engineering",
+   "auto": true,
+   "file": "programs/certificate-humanitarian-engineering.json"
+  },
+  {
+   "id": "2022-24/certificate/ibero-american-cultural-diversity",
+   "type": "certificate",
+   "name": "Ibero-American Cultural Diversity",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/certificate-ibero-american-cultural-diversity.json"
+  },
+  {
+   "id": "2022-24/certificate/indigenous-studies",
+   "type": "certificate",
+   "name": "Indigenous Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/certificate-indigenous-studies.json"
+  },
+  {
+   "id": "2022-24/certificate/japanese",
+   "type": "certificate",
+   "name": "Japanese",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/certificate-japanese.json"
+  },
+  {
+   "id": "2022-24/certificate/lesbian-gay-bisexual-transgender-and-queer-sexualities-studies",
+   "type": "certificate",
+   "name": "Lesbian, Gay, Bisexual, Transgender, and Queer/Sexualities Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/certificate-lesbian-gay-bisexual-transgender-and-queer-sexualities-studies.json"
+  },
+  {
+   "id": "2022-24/certificate/marine-science",
+   "type": "certificate",
+   "name": "Marine Science",
+   "college": "Natural Sciences",
+   "auto": true,
+   "file": "programs/certificate-marine-science.json"
+  },
+  {
+   "id": "2022-24/certificate/national-academy-of-engineering-grand-challenges-scholars-program",
+   "type": "certificate",
+   "name": "National Academy of Engineering Grand Challenges Scholars Program",
+   "college": "Engineering",
+   "auto": true,
+   "file": "programs/certificate-national-academy-of-engineering-grand-challenges-scholars-program.json"
+  },
+  {
+   "id": "2022-24/certificate/pre-health-professions",
+   "type": "certificate",
+   "name": "Pre-Health Professions",
+   "college": "Natural Sciences",
+   "auto": true,
+   "file": "programs/certificate-pre-health-professions.json"
+  },
+  {
+   "id": "2022-24/certificate/public-safety",
+   "type": "certificate",
+   "name": "Public Safety",
+   "college": "Social Work",
+   "auto": true,
+   "file": "programs/certificate-public-safety.json"
+  },
+  {
+   "id": "2022-24/certificate/quantum-information-science",
+   "type": "certificate",
+   "name": "Quantum Information Science",
+   "college": "Natural Sciences",
+   "auto": true,
+   "file": "programs/certificate-quantum-information-science.json"
+  },
+  {
+   "id": "2022-24/certificate/scientific-computation-and-data-sciences",
+   "type": "certificate",
+   "name": "Scientific Computation and Data Sciences",
+   "college": "Natural Sciences",
+   "auto": true,
+   "file": "programs/certificate-scientific-computation-and-data-sciences.json"
+  },
+  {
+   "id": "2022-24/certificate/security-studies",
+   "type": "certificate",
+   "name": "Security Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/certificate-security-studies.json"
+  },
+  {
+   "id": "2022-24/certificate/spanish-for-medical-professions",
+   "type": "certificate",
+   "name": "Spanish for Medical Professions",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/certificate-spanish-for-medical-professions.json"
+  },
+  {
+   "id": "2022-24/certificate/textile-conservation-and-museum-studies",
+   "type": "certificate",
+   "name": "Textile Conservation and Museum Studies",
+   "college": "Natural Sciences",
+   "auto": true,
+   "file": "programs/certificate-textile-conservation-and-museum-studies.json"
+  },
+  {
+   "id": "2022-24/certificate/the-elements-of-computing-program",
+   "type": "certificate",
+   "name": "The Elements of Computing Program",
+   "college": "Natural Sciences",
+   "auto": true,
+   "file": "programs/certificate-the-elements-of-computing-program.json"
+  },
+  {
+   "id": "2022-24/certificate/uteach-natural-sciences-secondary-teaching-option",
+   "type": "certificate",
+   "name": "UTeach-Natural Sciences Secondary Teaching Option",
+   "college": "Natural Sciences",
+   "auto": true,
+   "file": "programs/certificate-uteach-natural-sciences-secondary-teaching-option.json"
+  },
+  {
+   "id": "2022-24/layer/core-curriculum",
+   "type": "layer",
+   "name": "University Core Curriculum",
+   "college": "The University",
+   "file": "programs/core-curriculum.json"
   },
   {
    "id": "2022-24/layer/cns-college",
@@ -23,20 +240,117 @@
    "file": "programs/layer-cns-college.json"
   },
   {
-   "id": "2022-24/major/bs-statistics-and-data-sciences",
-   "type": "major",
-   "name": "Statistics and Data Science",
-   "college": "Natural Sciences",
-   "degreeType": "BS",
-   "file": "programs/major-bs-statistics-and-data-sciences.json"
+   "id": "2022-24/layer/cola-ba-plan-i",
+   "type": "layer",
+   "name": "Bachelor of Arts, Plan I — degree requirements",
+   "college": "Liberal Arts",
+   "file": "programs/layer-cola-ba-plan-i.json"
   },
   {
-   "id": "2022-24/major/ba-plan-ii",
+   "id": "2022-24/layer/university-general",
+   "type": "layer",
+   "name": "University General Requirements",
+   "college": "The University",
+   "file": "programs/layer-university-general.json"
+  },
+  {
+   "id": "2022-24/major/ba-african-and-african-diaspora-studies",
    "type": "major",
-   "name": "Plan II Honors Program",
+   "name": "African and African Diaspora Studies",
    "college": "Liberal Arts",
-   "degreeType": "BA (Plan II)",
-   "file": "programs/major-ba-plan-ii.json"
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-african-and-african-diaspora-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-american-studies",
+   "type": "major",
+   "name": "American Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-american-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-anthropology",
+   "type": "major",
+   "name": "Anthropology",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-anthropology.json"
+  },
+  {
+   "id": "2022-24/major/ba-art",
+   "type": "major",
+   "name": "Bachelor of Arts",
+   "college": "Fine Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-art.json"
+  },
+  {
+   "id": "2022-24/major/ba-asian-american-studies",
+   "type": "major",
+   "name": "Asian American Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-asian-american-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-asian-cultures-and-languages",
+   "type": "major",
+   "name": "Asian Cultures and Languages",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-asian-cultures-and-languages.json"
+  },
+  {
+   "id": "2022-24/major/ba-asian-studies",
+   "type": "major",
+   "name": "Asian Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-asian-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-astronomy",
+   "type": "major",
+   "name": "Astronomy",
+   "college": "Natural Sciences",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-astronomy.json"
+  },
+  {
+   "id": "2022-24/major/ba-chemistry",
+   "type": "major",
+   "name": "Chemistry",
+   "college": "Natural Sciences",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-chemistry.json"
+  },
+  {
+   "id": "2022-24/major/ba-classical-languages",
+   "type": "major",
+   "name": "Classical Languages",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-classical-languages.json"
+  },
+  {
+   "id": "2022-24/major/ba-classical-studies",
+   "type": "major",
+   "name": "Classical Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-classical-studies.json"
   },
   {
    "id": "2022-24/major/ba-economics",
@@ -47,6 +361,69 @@
    "file": "programs/major-ba-economics.json"
   },
   {
+   "id": "2022-24/major/ba-english",
+   "type": "major",
+   "name": "English",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-english.json"
+  },
+  {
+   "id": "2022-24/major/ba-ethnic-studies",
+   "type": "major",
+   "name": "Ethnic Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-ethnic-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-european-studies",
+   "type": "major",
+   "name": "European Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-european-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-french",
+   "type": "major",
+   "name": "French Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-french.json"
+  },
+  {
+   "id": "2022-24/major/ba-geography",
+   "type": "major",
+   "name": "Geography",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-geography.json"
+  },
+  {
+   "id": "2022-24/major/ba-geological-sciences",
+   "type": "major",
+   "name": "Bachelor of Arts in Geological Sciences",
+   "college": "Geosciences",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-geological-sciences.json"
+  },
+  {
+   "id": "2022-24/major/ba-german",
+   "type": "major",
+   "name": "German",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-german.json"
+  },
+  {
    "id": "2022-24/major/ba-government",
    "type": "major",
    "name": "Government",
@@ -55,11 +432,1546 @@
    "file": "programs/major-ba-government.json"
   },
   {
-   "id": "2022-24/layer/core-curriculum",
-   "type": "layer",
-   "name": "University Core Curriculum",
-   "college": "The University",
-   "file": "programs/core-curriculum.json"
+   "id": "2022-24/major/ba-health-and-society",
+   "type": "major",
+   "name": "Health and Society",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-health-and-society.json"
+  },
+  {
+   "id": "2022-24/major/ba-history",
+   "type": "major",
+   "name": "History",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-history.json"
+  },
+  {
+   "id": "2022-24/major/ba-human-dimensions-of-organizations",
+   "type": "major",
+   "name": "Human Dimensions of Organizations",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-human-dimensions-of-organizations.json"
+  },
+  {
+   "id": "2022-24/major/ba-humanities",
+   "type": "major",
+   "name": "Humanities",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-humanities.json"
+  },
+  {
+   "id": "2022-24/major/ba-international-relations-and-global-studies",
+   "type": "major",
+   "name": "International Relations and Global Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-international-relations-and-global-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-italian",
+   "type": "major",
+   "name": "Italian Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-italian.json"
+  },
+  {
+   "id": "2022-24/major/ba-jewish-studies",
+   "type": "major",
+   "name": "Jewish Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-jewish-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-latin-american-studies",
+   "type": "major",
+   "name": "Latin American Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-latin-american-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-linguistics",
+   "type": "major",
+   "name": "Linguistics",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-linguistics.json"
+  },
+  {
+   "id": "2022-24/major/ba-mathematics",
+   "type": "major",
+   "name": "Mathematics",
+   "college": "Natural Sciences",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-mathematics.json"
+  },
+  {
+   "id": "2022-24/major/ba-mexican-american-studies",
+   "type": "major",
+   "name": "Mexican American and Latina/o Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-mexican-american-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-middle-eastern-studies",
+   "type": "major",
+   "name": "Middle Eastern Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-middle-eastern-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-music",
+   "type": "major",
+   "name": "Bachelor of Arts in Music",
+   "college": "Fine Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-music.json"
+  },
+  {
+   "id": "2022-24/major/ba-philosophy",
+   "type": "major",
+   "name": "Philosophy",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-philosophy.json"
+  },
+  {
+   "id": "2022-24/major/ba-physics",
+   "type": "major",
+   "name": "Physics",
+   "college": "Natural Sciences",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-physics.json"
+  },
+  {
+   "id": "2022-24/major/ba-plan-ii",
+   "type": "major",
+   "name": "Plan II Honors Program",
+   "college": "Liberal Arts",
+   "degreeType": "BA (Plan II)",
+   "file": "programs/major-ba-plan-ii.json"
+  },
+  {
+   "id": "2022-24/major/ba-portuguese",
+   "type": "major",
+   "name": "Portuguese",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-portuguese.json"
+  },
+  {
+   "id": "2022-24/major/ba-psychology",
+   "type": "major",
+   "name": "Psychology",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-psychology.json"
+  },
+  {
+   "id": "2022-24/major/ba-race-indigeneity-and-migration",
+   "type": "major",
+   "name": "Race, Indigeneity, and Migration",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-race-indigeneity-and-migration.json"
+  },
+  {
+   "id": "2022-24/major/ba-religious-studies",
+   "type": "major",
+   "name": "Religious Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-religious-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-rhetoric-and-writing",
+   "type": "major",
+   "name": "Rhetoric and Writing",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-rhetoric-and-writing.json"
+  },
+  {
+   "id": "2022-24/major/ba-russian-east-european-and-eurasian-studies",
+   "type": "major",
+   "name": "Russian, East European, and Eurasian Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-russian-east-european-and-eurasian-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-sociology",
+   "type": "major",
+   "name": "Sociology",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-sociology.json"
+  },
+  {
+   "id": "2022-24/major/ba-spanish",
+   "type": "major",
+   "name": "Spanish",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-spanish.json"
+  },
+  {
+   "id": "2022-24/major/ba-sustainability-studies",
+   "type": "major",
+   "name": "Sustainability Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-sustainability-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-theatre-and-dance",
+   "type": "major",
+   "name": "Bachelor of Arts in Theatre and Dance",
+   "college": "Fine Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-theatre-and-dance.json"
+  },
+  {
+   "id": "2022-24/major/ba-urban-studies",
+   "type": "major",
+   "name": "Urban Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-urban-studies.json"
+  },
+  {
+   "id": "2022-24/major/ba-womens-and-gender-studies",
+   "type": "major",
+   "name": "Women’s and Gender Studies",
+   "college": "Liberal Arts",
+   "degreeType": "BA",
+   "auto": true,
+   "file": "programs/major-ba-womens-and-gender-studies.json"
+  },
+  {
+   "id": "2022-24/major/bachelor-of-architecture-ba-arch-plan-ii-ddp",
+   "type": "major",
+   "name": "Bachelor of Architecture/Bachelor of Arts, Plan II Dual Degree Program",
+   "college": "Architecture",
+   "auto": true,
+   "file": "programs/major-bachelor-of-architecture-ba-arch-plan-ii-ddp.json"
+  },
+  {
+   "id": "2022-24/major/bachelor-of-architecture-bs-arch-engr-ddp",
+   "type": "major",
+   "name": "Bachelor of Architecture/Bachelor of Science in Architectural Engineering Dual Degree Program",
+   "college": "Architecture",
+   "auto": true,
+   "file": "programs/major-bachelor-of-architecture-bs-arch-engr-ddp.json"
+  },
+  {
+   "id": "2022-24/major/bachelor-of-architecture",
+   "type": "major",
+   "name": "Bachelor of Architecture",
+   "college": "Architecture",
+   "auto": true,
+   "file": "programs/major-bachelor-of-architecture.json"
+  },
+  {
+   "id": "2022-24/major/bachelor-of-arts-plan-ii",
+   "type": "major",
+   "name": "Bachelor of Arts, Plan II",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/major-bachelor-of-arts-plan-ii.json"
+  },
+  {
+   "id": "2022-24/major/bachelor-of-arts",
+   "type": "major",
+   "name": "Bachelor of Arts",
+   "college": "Information",
+   "auto": true,
+   "file": "programs/major-bachelor-of-arts.json"
+  },
+  {
+   "id": "2022-24/major/bachelor-of-fine-arts",
+   "type": "major",
+   "name": "Bachelor of Fine Arts",
+   "college": "Fine Arts",
+   "auto": true,
+   "file": "programs/major-bachelor-of-fine-arts.json"
+  },
+  {
+   "id": "2022-24/major/bachelor-of-journalism",
+   "type": "major",
+   "name": "Bachelor of Journalism",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/major-bachelor-of-journalism.json"
+  },
+  {
+   "id": "2022-24/major/bachelor-of-music",
+   "type": "major",
+   "name": "Bachelor of Music",
+   "college": "Fine Arts",
+   "auto": true,
+   "file": "programs/major-bachelor-of-music.json"
+  },
+  {
+   "id": "2022-24/major/bachelor-of-science",
+   "type": "major",
+   "name": "Bachelor of Science in Informatics",
+   "college": "Information",
+   "auto": true,
+   "file": "programs/major-bachelor-of-science.json"
+  },
+  {
+   "id": "2022-24/major/bachelor-of-social-work",
+   "type": "major",
+   "name": "Bachelor of Social Work",
+   "college": "Social Work",
+   "auto": true,
+   "file": "programs/major-bachelor-of-social-work.json"
+  },
+  {
+   "id": "2022-24/major/bba-accounting",
+   "type": "major",
+   "name": "Accounting",
+   "college": "Business",
+   "degreeType": "BBA",
+   "auto": true,
+   "file": "programs/major-bba-accounting.json"
+  },
+  {
+   "id": "2022-24/major/bba-business-analytics",
+   "type": "major",
+   "name": "Business Analytics",
+   "college": "Business",
+   "degreeType": "BBA",
+   "auto": true,
+   "file": "programs/major-bba-business-analytics.json"
+  },
+  {
+   "id": "2022-24/major/bba-business-honors-program",
+   "type": "major",
+   "name": "Canfield Business Honors Program",
+   "college": "Business",
+   "degreeType": "BBA",
+   "auto": true,
+   "file": "programs/major-bba-business-honors-program.json"
+  },
+  {
+   "id": "2022-24/major/bba-finance",
+   "type": "major",
+   "name": "Finance",
+   "college": "Business",
+   "degreeType": "BBA",
+   "auto": true,
+   "file": "programs/major-bba-finance.json"
+  },
+  {
+   "id": "2022-24/major/bba-international-business",
+   "type": "major",
+   "name": "International Business",
+   "college": "Business",
+   "degreeType": "BBA",
+   "auto": true,
+   "file": "programs/major-bba-international-business.json"
+  },
+  {
+   "id": "2022-24/major/bba-management-information-systems",
+   "type": "major",
+   "name": "Management Information Systems",
+   "college": "Business",
+   "degreeType": "BBA",
+   "auto": true,
+   "file": "programs/major-bba-management-information-systems.json"
+  },
+  {
+   "id": "2022-24/major/bba-management",
+   "type": "major",
+   "name": "Management",
+   "college": "Business",
+   "degreeType": "BBA",
+   "auto": true,
+   "file": "programs/major-bba-management.json"
+  },
+  {
+   "id": "2022-24/major/bba-marketing",
+   "type": "major",
+   "name": "Marketing",
+   "college": "Business",
+   "degreeType": "BBA",
+   "auto": true,
+   "file": "programs/major-bba-marketing.json"
+  },
+  {
+   "id": "2022-24/major/bba-supply-chain-management",
+   "type": "major",
+   "name": "Supply Chain Management",
+   "college": "Business",
+   "degreeType": "BBA",
+   "auto": true,
+   "file": "programs/major-bba-supply-chain-management.json"
+  },
+  {
+   "id": "2022-24/major/bs-advertising",
+   "type": "major",
+   "name": "Bachelor of Science in Advertising",
+   "college": "Communication",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-advertising.json"
+  },
+  {
+   "id": "2022-24/major/bs-aerospace-engineering",
+   "type": "major",
+   "name": "Bachelor of Science in Aerospace Engineering",
+   "college": "Engineering",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-aerospace-engineering.json"
+  },
+  {
+   "id": "2022-24/major/bs-architectural-engineering",
+   "type": "major",
+   "name": "Bachelor of Science in Architectural Engineering",
+   "college": "Engineering",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-architectural-engineering.json"
+  },
+  {
+   "id": "2022-24/major/bs-architectural-studies",
+   "type": "major",
+   "name": "Bachelor of Science in Architectural Studies",
+   "college": "Architecture",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-architectural-studies.json"
+  },
+  {
+   "id": "2022-24/major/bs-arts-and-entertainment-technologies",
+   "type": "major",
+   "name": "Bachelor of Science in Arts and Entertainment Technologies",
+   "college": "Fine Arts",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-arts-and-entertainment-technologies.json"
+  },
+  {
+   "id": "2022-24/major/bs-astronomy",
+   "type": "major",
+   "name": "Bachelor of Science in Astronomy",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-astronomy.json"
+  },
+  {
+   "id": "2022-24/major/bs-athletic-training",
+   "type": "major",
+   "name": "Bachelor of Science in Athletic Training",
+   "college": "Education",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-athletic-training.json"
+  },
+  {
+   "id": "2022-24/major/bs-biochemistry",
+   "type": "major",
+   "name": "Bachelor of Science in Biochemistry",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-biochemistry.json"
+  },
+  {
+   "id": "2022-24/major/bs-biology",
+   "type": "major",
+   "name": "Bachelor of Science in Biology",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-biology.json"
+  },
+  {
+   "id": "2022-24/major/bs-biomedical-engineering",
+   "type": "major",
+   "name": "Bachelor of Science in Biomedical Engineering",
+   "college": "Engineering",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-biomedical-engineering.json"
+  },
+  {
+   "id": "2022-24/major/bs-chemical-engineering",
+   "type": "major",
+   "name": "Bachelor of Science in Chemical Engineering",
+   "college": "Engineering",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-chemical-engineering.json"
+  },
+  {
+   "id": "2022-24/major/bs-chemistry",
+   "type": "major",
+   "name": "Bachelor of Science in Chemistry",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-chemistry.json"
+  },
+  {
+   "id": "2022-24/major/bs-civil-engineering",
+   "type": "major",
+   "name": "Bachelor of Science in Civil Engineering",
+   "college": "Engineering",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-civil-engineering.json"
+  },
+  {
+   "id": "2022-24/major/bs-communication-and-leadership",
+   "type": "major",
+   "name": "Bachelor of Science in Communication and Leadership",
+   "college": "Communication",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-communication-and-leadership.json"
+  },
+  {
+   "id": "2022-24/major/bs-communication-studies",
+   "type": "major",
+   "name": "Bachelor of Science in Communication Studies",
+   "college": "Communication",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-communication-studies.json"
+  },
+  {
+   "id": "2022-24/major/bs-computational-engineering",
+   "type": "major",
+   "name": "Bachelor of Science in Computational Engineering",
+   "college": "Engineering",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-computational-engineering.json"
+  },
+  {
+   "id": "2022-24/major/bs-computer-science",
+   "type": "major",
+   "name": "Bachelor of Science in Computer Science",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-computer-science.json"
+  },
+  {
+   "id": "2022-24/major/bs-economics",
+   "type": "major",
+   "name": "Bachelor of Science in Economics",
+   "college": "Liberal Arts",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-economics.json"
+  },
+  {
+   "id": "2022-24/major/bs-education",
+   "type": "major",
+   "name": "Bachelor of Science in Education",
+   "college": "Education",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-education.json"
+  },
+  {
+   "id": "2022-24/major/bs-electrical-engineering",
+   "type": "major",
+   "name": "Bachelor of Science in Electrical and Computer Engineering",
+   "college": "Engineering",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-electrical-engineering.json"
+  },
+  {
+   "id": "2022-24/major/bs-environmental-engineering",
+   "type": "major",
+   "name": "Bachelor of Science in Environmental Engineering",
+   "college": "Engineering",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-environmental-engineering.json"
+  },
+  {
+   "id": "2022-24/major/bs-environmental-science",
+   "type": "major",
+   "name": "Bachelor of Science in Environmental Science",
+   "college": "Geosciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-environmental-science.json"
+  },
+  {
+   "id": "2022-24/major/bs-geological-sciences",
+   "type": "major",
+   "name": "Bachelor of Science in Geological Sciences",
+   "college": "Geosciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-geological-sciences.json"
+  },
+  {
+   "id": "2022-24/major/bs-geosystems-engineering-and-hydrogeology",
+   "type": "major",
+   "name": "Bachelor of Science in Geosystems Engineering and Hydrogeology",
+   "college": "Engineering",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-geosystems-engineering-and-hydrogeology.json"
+  },
+  {
+   "id": "2022-24/major/bs-human-development-and-family-sciences",
+   "type": "major",
+   "name": "Bachelor of Science in Human Development and Family Sciences",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-human-development-and-family-sciences.json"
+  },
+  {
+   "id": "2022-24/major/bs-interior-design",
+   "type": "major",
+   "name": "Bachelor of Science in Interior Design",
+   "college": "Architecture",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-interior-design.json"
+  },
+  {
+   "id": "2022-24/major/bs-kinesiology-and-health",
+   "type": "major",
+   "name": "Bachelor of Science in Kinesiology and Health",
+   "college": "Education",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-kinesiology-and-health.json"
+  },
+  {
+   "id": "2022-24/major/bs-mathematics",
+   "type": "major",
+   "name": "Bachelor of Science in Mathematics",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-mathematics.json"
+  },
+  {
+   "id": "2022-24/major/bs-mechanical-engineering",
+   "type": "major",
+   "name": "Bachelor of Science in Mechanical Engineering",
+   "college": "Engineering",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-mechanical-engineering.json"
+  },
+  {
+   "id": "2022-24/major/bs-medical-laboratory-science",
+   "type": "major",
+   "name": "Bachelor of Science in Medical Laboratory Science",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-medical-laboratory-science.json"
+  },
+  {
+   "id": "2022-24/major/bs-neuroscience",
+   "type": "major",
+   "name": "Bachelor of Science in Neuroscience",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-neuroscience.json"
+  },
+  {
+   "id": "2022-24/major/bs-nutrition",
+   "type": "major",
+   "name": "Bachelor of Science in Nutrition",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-nutrition.json"
+  },
+  {
+   "id": "2022-24/major/bs-petroleum-engineering",
+   "type": "major",
+   "name": "Bachelor of Science in Petroleum Engineering",
+   "college": "Engineering",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-petroleum-engineering.json"
+  },
+  {
+   "id": "2022-24/major/bs-physics",
+   "type": "major",
+   "name": "Bachelor of Science in Physics",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-physics.json"
+  },
+  {
+   "id": "2022-24/major/bs-psychology",
+   "type": "major",
+   "name": "Bachelor of Science in Psychology",
+   "college": "Liberal Arts",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-psychology.json"
+  },
+  {
+   "id": "2022-24/major/bs-public-health",
+   "type": "major",
+   "name": "Bachelor of Science in Public Health",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-public-health.json"
+  },
+  {
+   "id": "2022-24/major/bs-public-relations",
+   "type": "major",
+   "name": "Bachelor of Science in Public Relations",
+   "college": "Communication",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-public-relations.json"
+  },
+  {
+   "id": "2022-24/major/bs-radio-television-film",
+   "type": "major",
+   "name": "Bachelor of Science in Radio-Television-Film",
+   "college": "Communication",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-radio-television-film.json"
+  },
+  {
+   "id": "2022-24/major/bs-speech-language-and-hearing-sciences",
+   "type": "major",
+   "name": "Bachelor of Science in Speech, Language, and Hearing Sciences",
+   "college": "Communication",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-speech-language-and-hearing-sciences.json"
+  },
+  {
+   "id": "2022-24/major/bs-statistics-and-data-sciences",
+   "type": "major",
+   "name": "Statistics and Data Science",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "file": "programs/major-bs-statistics-and-data-sciences.json"
+  },
+  {
+   "id": "2022-24/major/bs-textiles-and-apparel",
+   "type": "major",
+   "name": "Bachelor of Science in Textiles and Apparel",
+   "college": "Natural Sciences",
+   "degreeType": "BS",
+   "auto": true,
+   "file": "programs/major-bs-textiles-and-apparel.json"
+  },
+  {
+   "id": "2022-24/major/bsa-astronomy",
+   "type": "major",
+   "name": "Astronomy",
+   "college": "Natural Sciences",
+   "degreeType": "BSA",
+   "auto": true,
+   "file": "programs/major-bsa-astronomy.json"
+  },
+  {
+   "id": "2022-24/major/bsa-biology",
+   "type": "major",
+   "name": "Biology",
+   "college": "Natural Sciences",
+   "degreeType": "BSA",
+   "auto": true,
+   "file": "programs/major-bsa-biology.json"
+  },
+  {
+   "id": "2022-24/major/bsa-chemistry",
+   "type": "major",
+   "name": "Chemistry",
+   "college": "Natural Sciences",
+   "degreeType": "BSA",
+   "auto": true,
+   "file": "programs/major-bsa-chemistry.json"
+  },
+  {
+   "id": "2022-24/major/bsa-computer-science",
+   "type": "major",
+   "name": "Computer Science",
+   "college": "Natural Sciences",
+   "degreeType": "BSA",
+   "auto": true,
+   "file": "programs/major-bsa-computer-science.json"
+  },
+  {
+   "id": "2022-24/major/bsa-human-development-and-family-studies",
+   "type": "major",
+   "name": "Human Development and Family Sciences",
+   "college": "Natural Sciences",
+   "degreeType": "BSA",
+   "auto": true,
+   "file": "programs/major-bsa-human-development-and-family-studies.json"
+  },
+  {
+   "id": "2022-24/major/bsa-human-ecology",
+   "type": "major",
+   "name": "Human Ecology",
+   "college": "Natural Sciences",
+   "degreeType": "BSA",
+   "auto": true,
+   "file": "programs/major-bsa-human-ecology.json"
+  },
+  {
+   "id": "2022-24/major/bsa-mathematics",
+   "type": "major",
+   "name": "Mathematics",
+   "college": "Natural Sciences",
+   "degreeType": "BSA",
+   "auto": true,
+   "file": "programs/major-bsa-mathematics.json"
+  },
+  {
+   "id": "2022-24/major/bsa-neuroscience",
+   "type": "major",
+   "name": "Neuroscience",
+   "college": "Natural Sciences",
+   "degreeType": "BSA",
+   "auto": true,
+   "file": "programs/major-bsa-neuroscience.json"
+  },
+  {
+   "id": "2022-24/major/bsa-nutrition",
+   "type": "major",
+   "name": "Nutrition",
+   "college": "Natural Sciences",
+   "degreeType": "BSA",
+   "auto": true,
+   "file": "programs/major-bsa-nutrition.json"
+  },
+  {
+   "id": "2022-24/major/bsa-physics",
+   "type": "major",
+   "name": "Physics",
+   "college": "Natural Sciences",
+   "degreeType": "BSA",
+   "auto": true,
+   "file": "programs/major-bsa-physics.json"
+  },
+  {
+   "id": "2022-24/minor/african-and-african-diaspora-studies",
+   "type": "minor",
+   "name": "African and African Diaspora Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-african-and-african-diaspora-studies.json"
+  },
+  {
+   "id": "2022-24/minor/american-sign-language",
+   "type": "minor",
+   "name": "American Sign Language",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-american-sign-language.json"
+  },
+  {
+   "id": "2022-24/minor/american-studies",
+   "type": "minor",
+   "name": "American Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-american-studies.json"
+  },
+  {
+   "id": "2022-24/minor/anthropology",
+   "type": "minor",
+   "name": "Anthropology",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-anthropology.json"
+  },
+  {
+   "id": "2022-24/minor/applied-economics",
+   "type": "minor",
+   "name": "Applied Economics",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-applied-economics.json"
+  },
+  {
+   "id": "2022-24/minor/arabic",
+   "type": "minor",
+   "name": "Arabic",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-arabic.json"
+  },
+  {
+   "id": "2022-24/minor/archaeology",
+   "type": "minor",
+   "name": "Archaeology",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-archaeology.json"
+  },
+  {
+   "id": "2022-24/minor/architectural-history",
+   "type": "minor",
+   "name": "Architectural History",
+   "college": "Architecture",
+   "auto": true,
+   "file": "programs/minor-architectural-history.json"
+  },
+  {
+   "id": "2022-24/minor/architectural-studies",
+   "type": "minor",
+   "name": "Architectural Studies",
+   "college": "Architecture",
+   "auto": true,
+   "file": "programs/minor-architectural-studies.json"
+  },
+  {
+   "id": "2022-24/minor/asian-american-studies",
+   "type": "minor",
+   "name": "Asian American Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-asian-american-studies.json"
+  },
+  {
+   "id": "2022-24/minor/asian-religions",
+   "type": "minor",
+   "name": "Asian Religions",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-asian-religions.json"
+  },
+  {
+   "id": "2022-24/minor/chinese",
+   "type": "minor",
+   "name": "Chinese",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-chinese.json"
+  },
+  {
+   "id": "2022-24/minor/classical-studies",
+   "type": "minor",
+   "name": "Classical Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-classical-studies.json"
+  },
+  {
+   "id": "2022-24/minor/communicating-for-development-and-philanthropy",
+   "type": "minor",
+   "name": "Communicating for Development and Philanthropy",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/minor-communicating-for-development-and-philanthropy.json"
+  },
+  {
+   "id": "2022-24/minor/communicating-social-issues",
+   "type": "minor",
+   "name": "Communicating Social Issues",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/minor-communicating-social-issues.json"
+  },
+  {
+   "id": "2022-24/minor/communication-studies",
+   "type": "minor",
+   "name": "Communication Studies",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/minor-communication-studies.json"
+  },
+  {
+   "id": "2022-24/minor/comparative-literature",
+   "type": "minor",
+   "name": "Comparative Literature",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-comparative-literature.json"
+  },
+  {
+   "id": "2022-24/minor/core-texts-and-ideas",
+   "type": "minor",
+   "name": "Core Texts and Ideas",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-core-texts-and-ideas.json"
+  },
+  {
+   "id": "2022-24/minor/creative-writing-in-spanish",
+   "type": "minor",
+   "name": "Creative Writing in Spanish",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-creative-writing-in-spanish.json"
+  },
+  {
+   "id": "2022-24/minor/critical-disability-studies",
+   "type": "minor",
+   "name": "Critical Disability Studies",
+   "college": "Social Work",
+   "auto": true,
+   "file": "programs/minor-critical-disability-studies.json"
+  },
+  {
+   "id": "2022-24/minor/cultural-anthropology",
+   "type": "minor",
+   "name": "Cultural Anthropology",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-cultural-anthropology.json"
+  },
+  {
+   "id": "2022-24/minor/cultural-expression-human-experience-and-thought",
+   "type": "minor",
+   "name": "Cultural Expression, Human Experience, and Thought",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-cultural-expression-human-experience-and-thought.json"
+  },
+  {
+   "id": "2022-24/minor/economics",
+   "type": "minor",
+   "name": "Economics",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-economics.json"
+  },
+  {
+   "id": "2022-24/minor/educational-psychology",
+   "type": "minor",
+   "name": "Educational Psychology",
+   "college": "Education",
+   "auto": true,
+   "file": "programs/minor-educational-psychology.json"
+  },
+  {
+   "id": "2022-24/minor/english",
+   "type": "minor",
+   "name": "English",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-english.json"
+  },
+  {
+   "id": "2022-24/minor/european-studies",
+   "type": "minor",
+   "name": "European Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-european-studies.json"
+  },
+  {
+   "id": "2022-24/minor/evolutionary-and-functional-anatomy",
+   "type": "minor",
+   "name": "Evolutionary and Functional Anatomy",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-evolutionary-and-functional-anatomy.json"
+  },
+  {
+   "id": "2022-24/minor/french-studies",
+   "type": "minor",
+   "name": "French Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-french-studies.json"
+  },
+  {
+   "id": "2022-24/minor/german-scandinavian-and-dutch-studies",
+   "type": "minor",
+   "name": "German, Scandinavian and Dutch Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-german-scandinavian-and-dutch-studies.json"
+  },
+  {
+   "id": "2022-24/minor/global-communication",
+   "type": "minor",
+   "name": "Global Communication",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/minor-global-communication.json"
+  },
+  {
+   "id": "2022-24/minor/global-interreligious-dynamics",
+   "type": "minor",
+   "name": "Global Interreligious Dynamics",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-global-interreligious-dynamics.json"
+  },
+  {
+   "id": "2022-24/minor/government",
+   "type": "minor",
+   "name": "Government",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-government.json"
+  },
+  {
+   "id": "2022-24/minor/greek",
+   "type": "minor",
+   "name": "Greek",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-greek.json"
+  },
+  {
+   "id": "2022-24/minor/health-communication",
+   "type": "minor",
+   "name": "Health Communication",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/minor-health-communication.json"
+  },
+  {
+   "id": "2022-24/minor/hebrew",
+   "type": "minor",
+   "name": "Hebrew",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-hebrew.json"
+  },
+  {
+   "id": "2022-24/minor/history",
+   "type": "minor",
+   "name": "History",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-history.json"
+  },
+  {
+   "id": "2022-24/minor/holocaust-and-genocide-studies",
+   "type": "minor",
+   "name": "Holocaust and Genocide Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-holocaust-and-genocide-studies.json"
+  },
+  {
+   "id": "2022-24/minor/informatics",
+   "type": "minor",
+   "name": "Informatics",
+   "college": "Information",
+   "auto": true,
+   "file": "programs/minor-informatics.json"
+  },
+  {
+   "id": "2022-24/minor/interior-design",
+   "type": "minor",
+   "name": "Interior Design",
+   "college": "Architecture",
+   "auto": true,
+   "file": "programs/minor-interior-design.json"
+  },
+  {
+   "id": "2022-24/minor/italian-studies",
+   "type": "minor",
+   "name": "Italian Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-italian-studies.json"
+  },
+  {
+   "id": "2022-24/minor/jewish-studies",
+   "type": "minor",
+   "name": "Jewish Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-jewish-studies.json"
+  },
+  {
+   "id": "2022-24/minor/journalism-and-media",
+   "type": "minor",
+   "name": "Journalism and Media",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/minor-journalism-and-media.json"
+  },
+  {
+   "id": "2022-24/minor/kinesiology-and-health-education",
+   "type": "minor",
+   "name": "Kinesiology and Health Education",
+   "college": "Education",
+   "auto": true,
+   "file": "programs/minor-kinesiology-and-health-education.json"
+  },
+  {
+   "id": "2022-24/minor/korean",
+   "type": "minor",
+   "name": "Korean",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-korean.json"
+  },
+  {
+   "id": "2022-24/minor/landscape-studies",
+   "type": "minor",
+   "name": "Landscape Studies",
+   "college": "Architecture",
+   "auto": true,
+   "file": "programs/minor-landscape-studies.json"
+  },
+  {
+   "id": "2022-24/minor/language-culture-and-communication",
+   "type": "minor",
+   "name": "Language, Culture, and Communication",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-language-culture-and-communication.json"
+  },
+  {
+   "id": "2022-24/minor/latin",
+   "type": "minor",
+   "name": "Latin",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-latin.json"
+  },
+  {
+   "id": "2022-24/minor/latino-media-arts-studies",
+   "type": "minor",
+   "name": "Latino Media Arts & Studies",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/minor-latino-media-arts-studies.json"
+  },
+  {
+   "id": "2022-24/minor/law-justice-and-society",
+   "type": "minor",
+   "name": "Law, Justice, and Society",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-law-justice-and-society.json"
+  },
+  {
+   "id": "2022-24/minor/leadership-in-global-sustainability",
+   "type": "minor",
+   "name": "Leadership in Global Sustainability",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/minor-leadership-in-global-sustainability.json"
+  },
+  {
+   "id": "2022-24/minor/lesbian-gay-bisexual-transgender-and-queer-sexualities-studies",
+   "type": "minor",
+   "name": "Lesbian, Gay, Bisexual, Transgender, and Queer/Sexualities Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-lesbian-gay-bisexual-transgender-and-queer-sexualities-studies.json"
+  },
+  {
+   "id": "2022-24/minor/materials-science-and-engineering",
+   "type": "minor",
+   "name": "Materials Science and Engineering",
+   "college": "Engineering",
+   "auto": true,
+   "file": "programs/minor-materials-science-and-engineering.json"
+  },
+  {
+   "id": "2022-24/minor/media-and-entertainment-industries",
+   "type": "minor",
+   "name": "Media and Entertainment Industries",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/minor-media-and-entertainment-industries.json"
+  },
+  {
+   "id": "2022-24/minor/media-studies",
+   "type": "minor",
+   "name": "Media Studies",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/minor-media-studies.json"
+  },
+  {
+   "id": "2022-24/minor/medieval-studies",
+   "type": "minor",
+   "name": "Medieval Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-medieval-studies.json"
+  },
+  {
+   "id": "2022-24/minor/mexican-american-and-latina-o-studies",
+   "type": "minor",
+   "name": "Mexican American and Latina/o Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-mexican-american-and-latina-o-studies.json"
+  },
+  {
+   "id": "2022-24/minor/middle-eastern-studies",
+   "type": "minor",
+   "name": "Middle Eastern Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-middle-eastern-studies.json"
+  },
+  {
+   "id": "2022-24/minor/military-leadership",
+   "type": "minor",
+   "name": "Military Leadership",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-military-leadership.json"
+  },
+  {
+   "id": "2022-24/minor/persian",
+   "type": "minor",
+   "name": "Persian",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-persian.json"
+  },
+  {
+   "id": "2022-24/minor/philosophy-of-law",
+   "type": "minor",
+   "name": "Philosophy of Law",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-philosophy-of-law.json"
+  },
+  {
+   "id": "2022-24/minor/philosophy-of-mind-and-language",
+   "type": "minor",
+   "name": "Philosophy of Mind and Language",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-philosophy-of-mind-and-language.json"
+  },
+  {
+   "id": "2022-24/minor/philosophy",
+   "type": "minor",
+   "name": "Philosophy",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-philosophy.json"
+  },
+  {
+   "id": "2022-24/minor/portuguese",
+   "type": "minor",
+   "name": "Portuguese",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-portuguese.json"
+  },
+  {
+   "id": "2022-24/minor/primatology",
+   "type": "minor",
+   "name": "Primatology",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-primatology.json"
+  },
+  {
+   "id": "2022-24/minor/professional-sales-and-business-development",
+   "type": "minor",
+   "name": "Professional Sales and Business Development",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/minor-professional-sales-and-business-development.json"
+  },
+  {
+   "id": "2022-24/minor/religious-studies",
+   "type": "minor",
+   "name": "Religious Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-religious-studies.json"
+  },
+  {
+   "id": "2022-24/minor/rhetoric-and-writing",
+   "type": "minor",
+   "name": "Rhetoric and Writing",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-rhetoric-and-writing.json"
+  },
+  {
+   "id": "2022-24/minor/russian-east-european-and-eurasian-studies",
+   "type": "minor",
+   "name": "Russian, East European, and Eurasian Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-russian-east-european-and-eurasian-studies.json"
+  },
+  {
+   "id": "2022-24/minor/russian",
+   "type": "minor",
+   "name": "Russian",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-russian.json"
+  },
+  {
+   "id": "2022-24/minor/sanskrit",
+   "type": "minor",
+   "name": "Sanskrit",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-sanskrit.json"
+  },
+  {
+   "id": "2022-24/minor/science-communication",
+   "type": "minor",
+   "name": "Science Communication",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/minor-science-communication.json"
+  },
+  {
+   "id": "2022-24/minor/slavic-and-eurasian-languages",
+   "type": "minor",
+   "name": "Slavic and Eurasian Languages",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-slavic-and-eurasian-languages.json"
+  },
+  {
+   "id": "2022-24/minor/social-and-behavioral-sciences",
+   "type": "minor",
+   "name": "Social and Behavioral Sciences",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-social-and-behavioral-sciences.json"
+  },
+  {
+   "id": "2022-24/minor/social-work",
+   "type": "minor",
+   "name": "Social Work",
+   "college": "Social Work",
+   "auto": true,
+   "file": "programs/minor-social-work.json"
+  },
+  {
+   "id": "2022-24/minor/sociology",
+   "type": "minor",
+   "name": "Sociology",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-sociology.json"
+  },
+  {
+   "id": "2022-24/minor/spanish",
+   "type": "minor",
+   "name": "Spanish",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-spanish.json"
+  },
+  {
+   "id": "2022-24/minor/sports-media",
+   "type": "minor",
+   "name": "Sports Media",
+   "college": "Communication",
+   "auto": true,
+   "file": "programs/minor-sports-media.json"
+  },
+  {
+   "id": "2022-24/minor/sustainable-energy",
+   "type": "minor",
+   "name": "Sustainable Energy",
+   "college": "Engineering",
+   "auto": true,
+   "file": "programs/minor-sustainable-energy.json"
+  },
+  {
+   "id": "2022-24/minor/tamil",
+   "type": "minor",
+   "name": "Tamil",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-tamil.json"
+  },
+  {
+   "id": "2022-24/minor/turkish",
+   "type": "minor",
+   "name": "Turkish",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-turkish.json"
+  },
+  {
+   "id": "2022-24/minor/urban-teachers",
+   "type": "minor",
+   "name": "Urban Teachers",
+   "college": "Education",
+   "auto": true,
+   "file": "programs/minor-urban-teachers.json"
+  },
+  {
+   "id": "2022-24/minor/urdu",
+   "type": "minor",
+   "name": "Urdu",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-urdu.json"
+  },
+  {
+   "id": "2022-24/minor/uteach-liberal-arts",
+   "type": "minor",
+   "name": "UTeach-Liberal Arts",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-uteach-liberal-arts.json"
+  },
+  {
+   "id": "2022-24/minor/women-s-and-gender-studies",
+   "type": "minor",
+   "name": "Women's and Gender Studies",
+   "college": "Liberal Arts",
+   "auto": true,
+   "file": "programs/minor-women-s-and-gender-studies.json"
   }
  ]
 }

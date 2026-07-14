@@ -1,0 +1,113 @@
+{
+ "id": "2022-24/major/ba-american-studies",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "American Studies",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/american-studies/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 27.0,
+    "umbrella": true,
+    "title": "27 hours of american studies",
+    "filter": {
+     "subjects": [
+      "AMS"
+     ],
+     "label": "American Studies coursework"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/american-studies/",
+     "quote": "Twenty-seven semester hours of coursework in American studies, including at least 15 hours of upper-division coursework. The following courses are required:"
+    }
+   },
+   {
+    "type": "all",
+    "title": "American Studies 310, Introduction to American Studies",
+    "of": [
+     {
+      "type": "course",
+      "course": "AMS 310"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/american-studies/",
+     "quote": "American Studies 310, Introduction to American Studies"
+    }
+   },
+   {
+    "type": "all",
+    "title": "American Studies 311S, Introductory Seminar in American Studies",
+    "of": [
+     {
+      "type": "course",
+      "course": "AMS 311S"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/american-studies/",
+     "quote": "American Studies 311S, Introductory Seminar in American Studies"
+    }
+   },
+   {
+    "type": "all",
+    "title": "American Studies 355, Main Currents of American Culture to 1865 and American Studies 356, ",
+    "of": [
+     {
+      "type": "course",
+      "course": "AMS 355"
+     },
+     {
+      "type": "course",
+      "course": "AMS 356"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/american-studies/",
+     "quote": "American Studies 355, Main Currents of American Culture to 1865 and American Studies 356, Main Currents of American Culture since 1865"
+    }
+   },
+   {
+    "type": "course",
+    "course": "AMS 370",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/american-studies/",
+     "quote": "Nine semester hours chosen from topics of American Studies 370, Seminar in American Culture"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three additional hours of American studies coursework",
+    "title": "Three additional hours of American studies coursework",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/american-studies/",
+     "quote": "Three additional hours of American studies coursework"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Liberal Arts 320 or three additional hours of American studies coursework.",
+    "title": "Liberal Arts 320 or three additional hours of American studies coursework.",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/american-studies/",
+     "quote": "Liberal Arts 320 or three additional hours of American studies coursework."
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "AMS"
+ ]
+}

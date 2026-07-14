@@ -1,0 +1,46 @@
+{
+ "id": "2024-26/minor/primatology",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Primatology",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Primatology Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "ANT 301",
+    "title": "ANT 301",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve hours from the following courses:",
+    "filter": {
+     "courses": [
+      "ANT 310L",
+      "ANT 432L",
+      "ANT 346L",
+      "ANT 346M",
+      "ANT 347C",
+      "ANT 348K",
+      "ANT 350C",
+      "ANT 351E"
+     ],
+     "label": "Twelve hours from the following courses:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Twelve hours from the following courses:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

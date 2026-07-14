@@ -58,10 +58,13 @@ Pages → Source must be **GitHub Actions**.
 
 ### Status / coverage
 
-Course DBs cover all subjects for the 2024-2026 and 2022-2024 catalogs. The
-program batch currently encoded: BS Statistics & Data Science, Plan II Honors,
-BA Economics, BA Government (+ university/core/college requirement layers,
-SDS minor, Pre-Health certificate). The pipeline is built to scale to every
-program in every active catalog — see `docs/PLAN.md` for the roadmap.
+Course DBs cover all subjects for the 2024-2026 and 2022-2024 catalogs.
+Programs: ~250 per edition — every college's majors, minors, and
+transcript-recognized certificates via the automatic extractor
+(`pipeline/extract_auto.py`, ~70% of rule nodes machine-evaluable; the rest
+surface as manual checks), plus hand-curated encodings for BS Statistics &
+Data Science, Plan II Honors, BA Economics, BA Government, the shared
+university/core/college layers, the SDS minor, and the Pre-Health
+certificate. Curated encodings always override auto ones.
 
 **Not affiliated with UT Austin. IDA and academic advisors are authoritative.**

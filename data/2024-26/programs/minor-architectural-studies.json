@@ -1,0 +1,88 @@
+{
+ "id": "2024-26/minor/architectural-studies",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Architectural Studies",
+ "college": "Architecture",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/architecture/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Architectural Studies Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "ARC 308",
+    "title": "ARC 308",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/architecture/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "ARC 318K",
+    "title": "ARC 318K",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/architecture/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "ARC 318L",
+    "title": "ARC 318L",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/architecture/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Architecture 327C through 327W courses",
+    "title": "Architecture 327C through 327W courses",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/architecture/minor-and-certificate-programs/",
+     "quote": "Architecture 327C through 327W courses"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Architecture 342C through 342W courses",
+    "title": "Architecture 342C through 342W courses",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/architecture/minor-and-certificate-programs/",
+     "quote": "Architecture 342C through 342W courses"
+    }
+   },
+   {
+    "type": "course",
+    "course": "ARC 350R",
+    "title": "ARC 350R",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/architecture/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "ARC 369J",
+    "of": [
+     {
+      "type": "course",
+      "course": "ARC 369J",
+      "title": "ARC 369J",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/architecture/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "CRP 369K"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/architecture/minor-and-certificate-programs/"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

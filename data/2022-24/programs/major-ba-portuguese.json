@@ -1,0 +1,70 @@
+{
+ "id": "2022-24/major/ba-portuguese",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "Portuguese",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/portuguese/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "all",
+    "title": "1. Three semester hours of advanced grammar and writing: Portuguese 327C",
+    "of": [
+     {
+      "type": "course",
+      "course": "POR 327C"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/portuguese/",
+     "quote": "1. Three semester hours of advanced grammar and writing: Portuguese 327C"
+    }
+   },
+   {
+    "type": "all",
+    "title": "2. One introductory course in language and linguistics in society: Portuguese 330L",
+    "of": [
+     {
+      "type": "course",
+      "course": "POR 330L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/portuguese/",
+     "quote": "2. One introductory course in language and linguistics in society: Portuguese 330L"
+    }
+   },
+   {
+    "type": "course",
+    "course": "POR 328C",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/portuguese/",
+     "quote": "3. One introductory course in literatures and cultures: Portuguese 328C"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "5. Fifteen additional semester hours of coursework in upper-division Portuguese",
+    "title": "5. Fifteen additional semester hours of coursework in upper-division Portuguese",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/portuguese/",
+     "quote": "5. Fifteen additional semester hours of coursework in upper-division Portuguese"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "POR"
+ ]
+}

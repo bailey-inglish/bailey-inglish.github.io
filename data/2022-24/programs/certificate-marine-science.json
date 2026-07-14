@@ -1,0 +1,100 @@
+{
+ "id": "2022-24/certificate/marine-science",
+ "edition": "2022-24",
+ "type": "certificate",
+ "name": "Marine Science",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Marine Science Certificate",
+  "of": [
+   {
+    "type": "course",
+    "course": "MNS 310",
+    "title": "MNS 310",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "MNS 320",
+    "title": "MNS 320",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "MNS 120L",
+    "title": "MNS 120L",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three hours chosen from:",
+    "filter": {
+     "courses": [
+      "BIO 311C",
+      "BIO 311D",
+      "BIO 315H",
+      "CH 301",
+      "CH 302"
+     ],
+     "label": "Three hours chosen from:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/",
+     "quote": "Three hours chosen from:"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine hours from the following, including at least six hours at the Marine Scienc",
+    "filter": {
+     "courses": [
+      "MNS 440",
+      "MNS 152L",
+      "MNS 252L",
+      "MNS 152S",
+      "MNS 252S",
+      "MNS 152T",
+      "MNS 252T",
+      "MNS 348",
+      "MNS 352",
+      "MNS 352C",
+      "MNS 352D",
+      "MNS 352E",
+      "MNS 353",
+      "MNS 354",
+      "MNS 354C",
+      "MNS 354E",
+      "MNS 354J",
+      "MNS 354Q",
+      "MNS 354T",
+      "MNS 354U",
+      "MNS 355C",
+      "MNS 356",
+      "MNS 357",
+      "MNS 367K",
+      "MNS 170",
+      "MNS 270",
+      "MNS 370"
+     ],
+     "label": "Nine hours from the following, including at least six hours at the Marine Scienc"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/",
+     "quote": "Nine hours from the following, including at least six hours at the Marine Science Institute in Port Aransas, Texas:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 19.0
+}

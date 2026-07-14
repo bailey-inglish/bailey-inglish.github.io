@@ -1,0 +1,102 @@
+{
+ "id": "2022-24/major/ba-history",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "History",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/history/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 30.0,
+    "umbrella": true,
+    "title": "30 hours of history",
+    "filter": {
+     "subjects": [
+      "HIS"
+     ],
+     "label": "History coursework"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/history/",
+     "quote": "Thirty semester hours of history, at least 15 hours of which must be upper-division and 21 hours of which must be in residence, including"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 15.0,
+    "umbrella": true,
+    "title": "15 upper-division hours of history",
+    "filter": {
+     "subjects": [
+      "HIS"
+     ],
+     "division": "upper",
+     "label": "Upper-division history"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/history/",
+     "quote": "Thirty semester hours of history, at least 15 hours of which must be upper-division and 21 hours of which must be in residence, including"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "History 320W, Thinking Like a Historian. History methods course",
+    "title": "History 320W, Thinking Like a Historian. History methods course",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/history/",
+     "quote": "History 320W, Thinking Like a Historian. History methods course"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "At least six semester hours in United States history, of which at least three hours must be completed in residence",
+    "title": "At least six semester hours in United States history, of which at least three ho",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/history/",
+     "quote": "At least six semester hours in United States history, of which at least three hours must be completed in residence"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "At least 12 semester hours of history chosen from each of four of the following specific geographic areas: Africa; Asia; Europe; Latin America; Middle East; or Transnational",
+    "title": "At least 12 semester hours of history chosen from each of four of the following ",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/history/",
+     "quote": "At least 12 semester hours of history chosen from each of four of the following specific geographic areas: Africa; Asia; Europe; Latin America; Middle East; or Transnational"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "At least six semester hours must be designated as Pre-1800 history",
+    "title": "At least six semester hours must be designated as Pre-1800 history",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/history/",
+     "quote": "At least six semester hours must be designated as Pre-1800 history"
+    }
+   },
+   {
+    "type": "course",
+    "course": "HIS 378W",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/history/",
+     "quote": "History 378W, Capstone in History"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "HIS"
+ ]
+}

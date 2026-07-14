@@ -1,0 +1,73 @@
+{
+ "id": "2024-26/minor/informatics",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Informatics",
+ "college": "Information",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/information/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Informatics Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "I 301",
+    "title": "I 301",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/information/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Choose one of the following introduction courses",
+    "filter": {
+     "courses": [
+      "I 310C",
+      "I 310D",
+      "I 310J",
+      "I 310M",
+      "I 310S",
+      "I 310U"
+     ],
+     "label": "Choose one of the following introduction courses"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/information/minor-and-certificate-programs/",
+     "quote": "Choose one of the following introduction courses"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Two different topics within the Topics course for the same concentration as the ",
+    "filter": {
+     "courses": [
+      "I 320C",
+      "I 320D",
+      "I 320J",
+      "I 320M",
+      "I 320S",
+      "I 320U"
+     ],
+     "label": "Two different topics within the Topics course for the same concentration as the "
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/information/minor-and-certificate-programs/",
+     "quote": "Two different topics within the Topics course for the same concentration as the Introduction course taken above"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three additional credit hours in Informatics",
+    "title": "Three additional credit hours in Informatics",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/information/minor-and-certificate-programs/",
+     "quote": "Three additional credit hours in Informatics"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}
