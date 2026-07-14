@@ -1,0 +1,1078 @@
+{
+ "id": "2022-24/major/bs-computer-science",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "Bachelor of Science in Computer Science",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cns-college"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 42.0,
+    "umbrella": true,
+    "title": "42 upper-division hours",
+    "filter": {
+     "division": "upper",
+     "label": "Upper-division coursework"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+     "quote": "At least 42 semester hours of upper-division coursework."
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 21.0,
+    "umbrella": true,
+    "title": "21 upper-division hours of computer science",
+    "filter": {
+     "division": "upper",
+     "subjects": [
+      "C S"
+     ],
+     "label": "Upper-division computer science"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+     "quote": "At least 21 semester hours of upper-division coursework in computer science must be completed in residence at the University."
+    },
+    "inResidence": true
+   },
+   {
+    "type": "manual",
+    "text": "To receive the Bachelor of Science in Computer Science and Master of Science in Computer Science, Master of Science in Information Studies, or Master of Science in Computational Science, Engineering, and Mathematics degrees through the Integrated Program, a student must have a University grade point average of at least 3.00 in the coursework in the Master of Science Program of Work. He or she must also have a grade point average in graduate computer science and information studies, or computational science, engineering, and mathematics coursework of at least 3.00.",
+    "title": "To receive the Bachelor of Science in Computer Science and Master of Science in ",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+     "quote": "To receive the Bachelor of Science in Computer Science and Master of Science in Computer Science, Master of Science in Information Studies, or Master of Science in Computational Science, Engineering, "
+    }
+   },
+   {
+    "type": "manual",
+    "text": "To graduate under the CSB Honors Program, the student must earn a University grade point average of at least 3.25 and a grade point average of at least 3.25 in business courses and a grade point average of at least 3.25 in computer science courses. A candidate for any degree must be enrolled at The University of Texas at Austin in the semester or summer session in which the degree is awarded.",
+    "title": "To graduate under the CSB Honors Program, the student must earn a University gra",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+     "quote": "To graduate under the CSB Honors Program, the student must earn a University grade point average of at least 3.25 and a grade point average of at least 3.25 in business courses and a grade point avera"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following options",
+    "of": [
+     {
+      "type": "all",
+      "title": "Computer Science",
+      "of": [
+       {
+        "type": "manual",
+        "text": "Mathematics 408C and 408D, or 408N, 408S, and 408M; either 340L or 341 or Statistics and Data Sciences 329C; and Mathematics 362K or Statistics and Data Sciences 321",
+        "title": "Mathematics 408C and 408D, or 408N, 408S, and 408M; either 340L or 341 or Statis",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Mathematics 408C and 408D, or 408N, 408S, and 408M; either 340L or 341 or Statistics and Data Sciences 329C; and Mathematics 362K or Statistics and Data Sciences 321"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "One of the following sequences of coursework: Either Biology 311C and 311D, or Biology 315H and 325H",
+        "title": "One of the following sequences of coursework: Either Biology 311C and 311D, or B",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "One of the following sequences of coursework: Either Biology 311C and 311D, or Biology 315H and 325H"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Chemistry 301 or 301C, and 302 or 302C",
+        "title": "Chemistry 301 or 301C, and 302 or 302C",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Chemistry 301 or 301C, and 302 or 302C"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Physics 303K and 105M, 301 and 101L, or 317K and 105M; and 303L and 105N, 316 and 116L, or 317L and 105N",
+        "title": "Physics 303K and 105M, 301 and 101L, or 317K and 105M; and 303L and 105N, 316 an",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Physics 303K and 105M, 301 and 101L, or 317K and 105M; and 303L and 105N, 316 and 116L, or 317L and 105N"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Three to four additional hours of majors-level coursework chosen from: a different sequence listed in requirement 7",
+        "title": "Three to four additional hours of majors-level coursework chosen from: a differe",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Three to four additional hours of majors-level coursework chosen from: a different sequence listed in requirement 7"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Geological Sciences 303 or Geological Sciences 401",
+        "of": [
+         {
+          "type": "course",
+          "course": "GEO 303"
+         },
+         {
+          "type": "course",
+          "course": "GEO 401"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Geological Sciences 303 or Geological Sciences 401"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "upper-division mathematics, excluding Mathematics 325K, 340L, 341, and 362K",
+        "title": "upper-division mathematics, excluding Mathematics 325K, 340L, 341, and 362K",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "upper-division mathematics, excluding Mathematics 325K, 340L, 341, and 362K"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "The following courses in computer science: Theory: Computer Science 311 or 311H, 331 or 33",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 311"
+         },
+         {
+          "type": "course",
+          "course": "C S 311H"
+         },
+         {
+          "type": "course",
+          "course": "C S 331"
+         },
+         {
+          "type": "course",
+          "course": "C S 331H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "The following courses in computer science: Theory: Computer Science 311 or 311H, 331 or 331H"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Programming: Computer Science 312, 314 or 314H",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 312"
+         },
+         {
+          "type": "course",
+          "course": "C S 314"
+         },
+         {
+          "type": "course",
+          "course": "C S 314H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Programming: Computer Science 312, 314 or 314H"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Systems: Computer Science 429 or 429H, 439 or 439H",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 429"
+         },
+         {
+          "type": "course",
+          "course": "C S 429H"
+         },
+         {
+          "type": "course",
+          "course": "C S 439"
+         },
+         {
+          "type": "course",
+          "course": "C S 439H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Systems: Computer Science 429 or 429H, 439 or 439H"
+        }
+       },
+       {
+        "type": "hours",
+        "hours": 24.0,
+        "umbrella": true,
+        "title": "24 upper-division hours of computer science",
+        "filter": {
+         "division": "upper",
+         "subjects": [
+          "C S"
+         ],
+         "label": "Upper-division computer science"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Twenty-four additional hours of upper-division courses in computer science"
+        }
+       },
+       {
+        "type": "hours",
+        "hours": 120.0,
+        "umbrella": true,
+        "title": "120 total hours",
+        "filter": {
+         "label": "Any coursework"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Enough additional coursework to make a total of 120 semester hours."
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Turing Scholars Honors",
+      "of": [
+       {
+        "type": "manual",
+        "text": "Mathematics 408C and 408D, or 408N, 408S, and 408M; either 340L or 341 or Statistics and Data Sciences 329C; and Mathematics 362K or Statistics and Data Sciences 321",
+        "title": "Mathematics 408C and 408D, or 408N, 408S, and 408M; either 340L or 341 or Statis",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Mathematics 408C and 408D, or 408N, 408S, and 408M; either 340L or 341 or Statistics and Data Sciences 329C; and Mathematics 362K or Statistics and Data Sciences 321"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "One of the following sequences of coursework: Either Biology 311C and 311D, or 315H and 325H",
+        "title": "One of the following sequences of coursework: Either Biology 311C and 311D, or 3",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "One of the following sequences of coursework: Either Biology 311C and 311D, or 315H and 325H"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Chemistry 301 or 301C, and 302 or 302C",
+        "title": "Chemistry 301 or 301C, and 302 or 302C",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Chemistry 301 or 301C, and 302 or 302C"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Physics 303K and 105M, 301 and 101L, or 317K and 105M; and 303L and 105N, 316 and 116L, or 317L and 105N.",
+        "title": "Physics 303K and 105M, 301 and 101L, or 317K and 105M; and 303L and 105N, 316 an",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Physics 303K and 105M, 301 and 101L, or 317K and 105M; and 303L and 105N, 316 and 116L, or 317L and 105N."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Three or four additional hours of majors-level coursework chosen from: a different sequence listed in requirement 7",
+        "title": "Three or four additional hours of majors-level coursework chosen from: a differe",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Three or four additional hours of majors-level coursework chosen from: a different sequence listed in requirement 7"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Geological Sciences 303 or Geological Sciences 401",
+        "of": [
+         {
+          "type": "course",
+          "course": "GEO 303"
+         },
+         {
+          "type": "course",
+          "course": "GEO 401"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Geological Sciences 303 or Geological Sciences 401"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "upper-division mathematics, excluding Mathematics 325K, 340L, 341, and 362K",
+        "title": "upper-division mathematics, excluding Mathematics 325K, 340L, 341, and 362K",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "upper-division mathematics, excluding Mathematics 325K, 340L, 341, and 362K"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "The following courses in computer science: Theory: Computer Science 311 or 311H, 331 or 33",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 311"
+         },
+         {
+          "type": "course",
+          "course": "C S 311H"
+         },
+         {
+          "type": "course",
+          "course": "C S 331"
+         },
+         {
+          "type": "course",
+          "course": "C S 331H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "The following courses in computer science: Theory: Computer Science 311 or 311H, 331 or 331H"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Programming: Computer Science 314 or 314H",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 314"
+         },
+         {
+          "type": "course",
+          "course": "C S 314H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Programming: Computer Science 314 or 314H"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Systems: Computer Science 429 or 429H, 439 or 439H",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 429"
+         },
+         {
+          "type": "course",
+          "course": "C S 429H"
+         },
+         {
+          "type": "course",
+          "course": "C S 439"
+         },
+         {
+          "type": "course",
+          "course": "C S 439H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Systems: Computer Science 429 or 429H, 439 or 439H"
+        }
+       },
+       {
+        "type": "all",
+        "title": "Computer Science 178H and 379H",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 178H"
+         },
+         {
+          "type": "course",
+          "course": "C S 379H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Computer Science 178H and 379H"
+        }
+       },
+       {
+        "type": "hours",
+        "hours": 21.0,
+        "umbrella": true,
+        "title": "21 upper-division hours of computer science",
+        "filter": {
+         "division": "upper",
+         "subjects": [
+          "C S"
+         ],
+         "label": "Upper-division computer science"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Twenty-one hours of upper-division courses in computer science"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "The courses the student chooses to fulfill requirements a through c must be approved by the Turing Scholars program director. In addition to Computer Science 429H, 178H and 379H, at least five upper-division courses chosen to fulfill requirements a through e must be honors courses. The honors thesis the student completes in Computer Science 379H must be approved by the program director.",
+        "title": "The courses the student chooses to fulfill requirements a through c must be appr",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "The courses the student chooses to fulfill requirements a through c must be approved by the Turing Scholars program director. In addition to Computer Science 429H, 178H and 379H, at least five upper-d"
+        }
+       },
+       {
+        "type": "hours",
+        "hours": 120.0,
+        "umbrella": true,
+        "title": "120 total hours",
+        "filter": {
+         "label": "Any coursework"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Enough additional coursework to make a total of 120 semester hours"
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Computer Science Honors",
+      "of": [
+       {
+        "type": "manual",
+        "text": "Breadth requirement: An honors mathematics course; Computer Science 311H and 314H; one of the following two-semester sequences: Biology 315H and 325H, Chemistry 301C and 302C, Physics 301, 101L, 316, and 116L; and either an additional three hours chosen from these courses or Physics 315 and 115L. Credit earned by examination may not be counted toward this requirement.",
+        "title": "Breadth requirement: An honors mathematics course; Computer Science 311H and 314",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Breadth requirement: An honors mathematics course; Computer Science 311H and 314H; one of the following two-semester sequences: Biology 315H and 325H, Chemistry 301C and 302C, Physics 301, 101L, 316, "
+        }
+       },
+       {
+        "type": "hours",
+        "hours": 6.0,
+        "umbrella": true,
+        "title": "6 upper-division hours of mathematics",
+        "filter": {
+         "division": "upper",
+         "subjects": [
+          "M"
+         ],
+         "label": "Upper-division mathematics"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "At least six semester hours of upper-division coursework in mathematics"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Computer Science 429H, 331H, 439H, and 12 additional hours of upper-division coursework in computer science",
+        "title": "Computer Science 429H, 331H, 439H, and 12 additional hours of upper-division cou",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Computer Science 429H, 331H, 439H, and 12 additional hours of upper-division coursework in computer science"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor",
+        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the department",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean's Scholars Honors Program",
+        "title": "A section of Rhetoric and Writing 309S that is restricted to students in the Dea",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean's Scholars Honors Program"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Computer Science 379H and a three-semester-hour upper-division research course approved by the departmental honors advisor",
+        "title": "Computer Science 379H and a three-semester-hour upper-division research course a",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Computer Science 379H and a three-semester-hour upper-division research course approved by the departmental honors advisor"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Twenty-five additional semester hours of coursework approved by the departmental honors advisor",
+        "title": "Twenty-five additional semester hours of coursework approved by the departmental",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Twenty-five additional semester hours of coursework approved by the departmental honors advisor"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Six semester hours of coursework from the College of Liberal Arts and/or the College of Fine Arts",
+        "title": "Six semester hours of coursework from the College of Liberal Arts and/or the Col",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Six semester hours of coursework from the College of Liberal Arts and/or the College of Fine Arts"
+        }
+       },
+       {
+        "type": "hours",
+        "hours": 120.0,
+        "umbrella": true,
+        "title": "120 total hours",
+        "filter": {
+         "label": "Any coursework"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Enough additional coursework to make a total of 120 semester hours"
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Integrated Program",
+      "of": [
+       {
+        "type": "manual",
+        "text": "Mathematics 408C and 408D, or 408N, 408S, and 408M; either 340L or 341 or Statistics and Data Sciences 329C; and Mathematics 362K or Statistics and Data Sciences 321",
+        "title": "Mathematics 408C and 408D, or 408N, 408S, and 408M; either 340L or 341 or Statis",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Mathematics 408C and 408D, or 408N, 408S, and 408M; either 340L or 341 or Statistics and Data Sciences 329C; and Mathematics 362K or Statistics and Data Sciences 321"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Either Biology 311C and 311D, or Biology 315H and 325H",
+        "title": "Either Biology 311C and 311D, or Biology 315H and 325H",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Either Biology 311C and 311D, or Biology 315H and 325H"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Chemistry 301 or 301C, and 302 or 302C",
+        "title": "Chemistry 301 or 301C, and 302 or 302C",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Chemistry 301 or 301C, and 302 or 302C"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Physics 303K and 105M, 301 and 101L, or 317K and 105M; and 303L and 105N, 316 and 116L, or 317L and 105N",
+        "title": "Physics 303K and 105M, 301 and 101L, or 317K and 105M; and 303L and 105N, 316 an",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Physics 303K and 105M, 301 and 101L, or 317K and 105M; and 303L and 105N, 316 and 116L, or 317L and 105N"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Geological Sciences 303 or Geological Sciences 401",
+        "of": [
+         {
+          "type": "course",
+          "course": "GEO 303"
+         },
+         {
+          "type": "course",
+          "course": "GEO 401"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Geological Sciences 303 or Geological Sciences 401"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "upper-division mathematics, excluding Mathematics 325K, 340L, 341, and 362K",
+        "title": "upper-division mathematics, excluding Mathematics 325K, 340L, 341, and 362K",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "upper-division mathematics, excluding Mathematics 325K, 340L, 341, and 362K"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Theory: Computer Science 311 or 311H, 331, or 331H",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 311"
+         },
+         {
+          "type": "course",
+          "course": "C S 311H"
+         },
+         {
+          "type": "course",
+          "course": "C S 331"
+         },
+         {
+          "type": "course",
+          "course": "C S 331H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Theory: Computer Science 311 or 311H, 331, or 331H"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Programming: Computer Science 312 , 314 or 314H",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 312"
+         },
+         {
+          "type": "course",
+          "course": "C S 314"
+         },
+         {
+          "type": "course",
+          "course": "C S 314H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Programming: Computer Science 312 , 314 or 314H"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Systems: Computer Science 429 or 429H, 439 or 439H",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 429"
+         },
+         {
+          "type": "course",
+          "course": "C S 429H"
+         },
+         {
+          "type": "course",
+          "course": "C S 439"
+         },
+         {
+          "type": "course",
+          "course": "C S 439H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Systems: Computer Science 429 or 429H, 439 or 439H"
+        }
+       },
+       {
+        "type": "hours",
+        "hours": 18.0,
+        "umbrella": true,
+        "title": "18 upper-division hours of computer science",
+        "filter": {
+         "division": "upper",
+         "subjects": [
+          "C S"
+         ],
+         "label": "Upper-division computer science"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Eighteen additional hours of upper-division courses in computer science"
+        }
+       },
+       {
+        "type": "hours",
+        "hours": 120.0,
+        "umbrella": true,
+        "title": "120 total hours",
+        "filter": {
+         "label": "Any coursework"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Enough additional coursework to make a total of 120 semester hours"
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Honors Computer Science and Business",
+      "of": [
+       {
+        "type": "manual",
+        "text": "6. Mathematics 408C and 408D, or 408N, 408S, and 408M; either Mathematics 340L or 341 or Statistics and Data Sciences 329C; and Statistics and Data Sciences 321",
+        "title": "6. Mathematics 408C and 408D, or 408N, 408S, and 408M; either Mathematics 340L o",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "6. Mathematics 408C and 408D, or 408N, 408S, and 408M; either Mathematics 340L or 341 or Statistics and Data Sciences 329C; and Statistics and Data Sciences 321"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "a. Either Biology 311C and 311D, or 315H and 325H",
+        "title": "a. Either Biology 311C and 311D, or 315H and 325H",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "a. Either Biology 311C and 311D, or 315H and 325H"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "b. Chemistry 301 or 301C, and Chemistry 302 or 302C",
+        "title": "b. Chemistry 301 or 301C, and Chemistry 302 or 302C",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "b. Chemistry 301 or 301C, and Chemistry 302 or 302C"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "c. Physics 303K and 105M, 301 and 101L, or 317K and 105M; and 303L and 105N, 316 and 116L, or 317L and 105N",
+        "title": "c. Physics 303K and 105M, 301 and 101L, or 317K and 105M; and 303L and 105N, 316",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "c. Physics 303K and 105M, 301 and 101L, or 317K and 105M; and 303L and 105N, 316 and 116L, or 317L and 105N"
+        }
+       },
+       {
+        "type": "all",
+        "title": "8. Economics 304K and 304L",
+        "of": [
+         {
+          "type": "course",
+          "course": "ECO 304K"
+         },
+         {
+          "type": "course",
+          "course": "ECO 304L"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "8. Economics 304K and 304L"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "9. Three semester hours of coursework in anthropology, psychology, educational psychology, or sociology with a primary focus other than statistics or data processing. Courses dealing primarily with statistics or data processing may not be used to fulfill this requirement. Social Science 302C, 302D, 302E, and 302F (for Plan II dual majors only) are also accepted. A list of coursework can be found in the Canfield Business Honors academic advising office.",
+        "title": "9. Three semester hours of coursework in anthropology, psychology, educational p",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "9. Three semester hours of coursework in anthropology, psychology, educational psychology, or sociology with a primary focus other than statistics or data processing. Courses dealing primarily with st"
+        }
+       },
+       {
+        "type": "all",
+        "title": "a.Theory: Computer Science 311H, 331H",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 311H"
+         },
+         {
+          "type": "course",
+          "course": "C S 331H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "a.Theory: Computer Science 311H, 331H"
+        }
+       },
+       {
+        "type": "course",
+        "course": "C S 314H",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "b. Programming: Computer Science 314H"
+        }
+       },
+       {
+        "type": "all",
+        "title": "c. Systems: Computer Science 429H, 439H",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 429H"
+         },
+         {
+          "type": "course",
+          "course": "C S 439H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "c. Systems: Computer Science 429H, 439H"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "d. Twelve additional hours of upper-division courses in computer science of which six hours must carry the honors designation.",
+        "title": "d. Twelve additional hours of upper-division courses in computer science of whic",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "d. Twelve additional hours of upper-division courses in computer science of which six hours must carry the honors designation."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "a. Accounting 311H (may fulfill the quantitative reasoning flag)",
+        "title": "a. Accounting 311H (may fulfill the quantitative reasoning flag)",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "a. Accounting 311H (may fulfill the quantitative reasoning flag)"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "b. Accounting 312H (may fulfill the quantitative reasoning flag)",
+        "title": "b. Accounting 312H (may fulfill the quantitative reasoning flag)",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "b. Accounting 312H (may fulfill the quantitative reasoning flag)"
+        }
+       },
+       {
+        "type": "course",
+        "course": "B A 101H",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "c. Business Administration 101H"
+        }
+       },
+       {
+        "type": "course",
+        "course": "B A 151H",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "d. Business Administration 151H"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "e. A professional, business-related experiential learning course chosen from the following: Accounting 366P, Business Administration 353, 653, Finance 366P, Management 347P, 366P, 367P, 369P, Management Information Systems 366P, Marketing 366P, Operations Management 366P; only one of the following courses may be counted toward the degree: Business Administration 353, and Business Administration 653.",
+        "title": "e. A professional, business-related experiential learning course chosen from the",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "e. A professional, business-related experiential learning course chosen from the following: Accounting 366P, Business Administration 353, 653, Finance 366P, Management 347P, 366P, 367P, 369P, Manageme"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "f. Business Administration 324 or Communication 324H (may fulfill the writing flag)",
+        "title": "f. Business Administration 324 or Communication 324H (may fulfill the writing fl",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "f. Business Administration 324 or Communication 324H (may fulfill the writing flag)"
+        }
+       },
+       {
+        "type": "course",
+        "course": "D S 235H",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "g. Decision Science 235H"
+        }
+       },
+       {
+        "type": "course",
+        "course": "FIN 357H",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "h. Finance 357H"
+        }
+       },
+       {
+        "type": "course",
+        "course": "LEB 323H",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "i. Legal Environment of Business 323H"
+        }
+       },
+       {
+        "type": "course",
+        "course": "MAN 101H",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "j. Management 101H"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "k. Management 336H (may fulfill the ethics flag)",
+        "title": "k. Management 336H (may fulfill the ethics flag)",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "k. Management 336H (may fulfill the ethics flag)"
+        }
+       },
+       {
+        "type": "course",
+        "course": "MAN 327H",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "l. Management 327H"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "m. Management 374H (may fulfill the writing and independent inquiry flags)",
+        "title": "m. Management 374H (may fulfill the writing and independent inquiry flags)",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "m. Management 374H (may fulfill the writing and independent inquiry flags)"
+        }
+       },
+       {
+        "type": "course",
+        "course": "MIS 301H",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "n. Management Information Systems 301H"
+        }
+       },
+       {
+        "type": "course",
+        "course": "MKT 337H",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "o. Marketing 337H"
+        }
+       },
+       {
+        "type": "course",
+        "course": "O M 235H",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "p. Operations Management 235H"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "q. Statistics 235H (may fulfill the quantitative reasoning flag)",
+        "title": "q. Statistics 235H (may fulfill the quantitative reasoning flag)",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "q. Statistics 235H (may fulfill the quantitative reasoning flag)"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "This dual major requires 124 hours for completion of both degrees",
+        "title": "This dual major requires 124 hours for completion of both degrees",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "This dual major requires 124 hours for completion of both degrees"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Enrollment in Computer Science 312 , 311 or 311H, and 314 or 314H is restricted to computer science entry-level majors. All other computer science courses that may be counted toward a degree in computer science are restricted to students who have been admitted to the computer science major or have the consent of the undergraduate faculty advisor.",
+        "title": "Enrollment in Computer Science 312 , 311 or 311H, and 314 or 314H is restricted ",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "Enrollment in Computer Science 312 , 311 or 311H, and 314 or 314H is restricted to computer science entry-level majors. All other computer science courses that may be counted toward a degree in comput"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "An undergraduate may not enroll in any computer science course more than once without written consent of an undergraduate advisor in computer science. No student may enroll in any computer science course more than twice. No student may take more than three upper-division computer science courses in a semester without written consent of an undergraduate advisor in computer science. All transfer coursework must be approved by faculty before it can count towards a computer science degree, except where equivalency is specified by state regulation.",
+        "title": "An undergraduate may not enroll in any computer science course more than once wi",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "An undergraduate may not enroll in any computer science course more than once without written consent of an undergraduate advisor in computer science. No student may enroll in any computer science cou"
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Probation",
+      "of": [
+       {
+        "type": "manual",
+        "text": "The student is placed on probation if his or her grade point average in required undergraduate computer science courses falls below 3.00. Except with the consent of the undergraduate advisor or the graduate advisor, a student on probation may not take graduate computer science courses.",
+        "title": "The student is placed on probation if his or her grade point average in required",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "The student is placed on probation if his or her grade point average in required undergraduate computer science courses falls below 3.00. Except with the consent of the undergraduate advisor or the gr"
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Order and Choice of Work",
+      "of": [
+       {
+        "type": "manual",
+        "text": "The student must consult the faculty advisor each semester regarding order and choice of work.",
+        "title": "The student must consult the faculty advisor each semester regarding order and c",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/",
+         "quote": "The student must consult the faculty advisor each semester regarding order and choice of work."
+        }
+       }
+      ]
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-computer-science/"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BS",
+ "majorSubjects": [
+  "C S"
+ ]
+}

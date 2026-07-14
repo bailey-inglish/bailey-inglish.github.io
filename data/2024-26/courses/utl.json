@@ -1,0 +1,259 @@
+{
+"code": "UTL",
+"name": "UTeach-Liberal Arts",
+"courses": [
+{
+"id": "UTL 101",
+"subject": "UTL",
+"number": "101",
+"title": "Introduction to the Teaching Profession",
+"hours": 1.0,
+"division": "lower",
+"description": "Weekly seminar with a University faculty member plus a field experience in an area elementary school under the supervision of a cooperating teacher. Course readings and instruction complement the field experience. Seminar topics include basic classroom management, lesson design, assessment, technology, diversity, and special student populations. One class hour a week for one semester; at least ten hours of fieldwork a semester are also required. Offered on the letter-grade basis only. Prerequisite: Successful admission into the UTeach-Liberal Arts program and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "Successful admission into the UTeach-Liberal Arts program and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "UTL 202",
+"subject": "UTL",
+"number": "202",
+"title": "Introduction to Teaching in the Middle School",
+"hours": 2.0,
+"division": "lower",
+"description": "Weekly seminar with a University faculty member plus a field experience in an area middle school under the supervision of a cooperating teacher. Course readings and instruction complement field experience. Seminar topics include classroom management, lesson design, assessment, technology, diversity, special student populations, conferencing techniques, and school organization. Two class hours a week for one semester; at least twenty hours of fieldwork a semester are also required. Offered on the letter-grade basis only. Prerequisite: UTeach-Liberal Arts 101 with a grade of at least B, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "UTeach-Liberal Arts 101 with a grade of at least B, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereq": {
+"type": "course",
+"id": "UTL 101",
+"minGrade": "B"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "UTL 303E",
+"subject": "UTL",
+"number": "303E",
+"title": "Teaching English in the High School",
+"hours": 3.0,
+"division": "lower",
+"description": "Weekly seminar with a University faculty member, plus field experience in an area high school under the supervision of a cooperating teacher. Course readings and instruction complement field experience. Seminar topics include state and national standards, curriculum design and implementation, the role of technology in education, and teaching strategies with a special focus on innovative strategies for teaching literature and writing. Three lecture hours a week for one semester; at least forty-five hours of fieldwork a semester are also required. Offered on the letter-grade basis only. Prerequisite: UTeach-Liberal Arts 101 and 202 with a grade of at least B in each; concurrent enrollment in Curriculum and Instruction 370S (Topic 1: Advanced Methods in English, Language Arts, and Reading); and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "UTeach-Liberal Arts 101 and 202 with a grade of at least B in each; concurrent enrollment in Curriculum and Instruction 370S (Topic 1: Advanced Methods in English, Language Arts, and Reading); and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "UTL 303L",
+"subject": "UTL",
+"number": "303L",
+"title": "Teaching Languages Other Than English in the High School",
+"hours": 3.0,
+"division": "lower",
+"description": "Weekly seminar with a University faculty member, plus field experience in an area high school under the supervision of a cooperating teacher. Course readings and instruction complement the field experience. Seminar topics include state and national standards and their implementation, teaching for proficiency, curriculum design, assessment, best practices, the instructional environment, and the role of technology in teaching languages other than English. Three lecture hours a week for one semester; at least forty-five hours of fieldwork a semester are also required. Offered on the letter-grade basis only. Prerequisite: UTeach-Liberal Arts 101 and 202 with a grade of at least B in each; concurrent enrollment in Curriculum and Instruction 370S (Topic 5: Advanced Methods in Foreign Language); and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "UTeach-Liberal Arts 101 and 202 with a grade of at least B in each; concurrent enrollment in Curriculum and Instruction 370S (Topic 5: Advanced Methods in Foreign Language); and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "UTL 303S",
+"subject": "UTL",
+"number": "303S",
+"title": "Teaching Social Studies in the High School",
+"hours": 3.0,
+"division": "lower",
+"description": "Weekly seminar with a University faculty member, plus field experience in an area high school under the supervision of a cooperating teacher. Course readings and instruction complement the field experience. Seminar topics include social studies topics, standards, curriculum design and implementation, teaching strategies, technology, and vertical and horizontal teaming in social studies. Three lecture hours a week for one semester; at least forty-five hours of fieldwork a semester are also required. Offered on the letter-grade basis only. Prerequisite: UTeach-Liberal Arts 101 and 202 with a grade of at least B in each; concurrent enrollment in Curriculum and Instruction 370S (Topic 3: Advanced Methods in Social Studies); and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "UTeach-Liberal Arts 101 and 202 with a grade of at least B in each; concurrent enrollment in Curriculum and Instruction 370S (Topic 3: Advanced Methods in Social Studies); and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "UTL 304",
+"subject": "UTL",
+"number": "304",
+"title": "Middle School Teaching for Postbaccalaureate Certification",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed for college graduates seeking teacher certification. Students observe and teach in a middle school under the supervision of a mentor teacher, and participate in a weekly seminar. Seminar topics may include classroom management, lesson design, assessment, technology, diversity, special student populations, conference techniques, and professional development. Three lecture hours and two hours of fieldwork a week for one semester. May not be counted toward any degree. Prerequisite: Consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "Consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqConfidence": "none",
+"excluded": "any degree"
+},
+{
+"id": "UTL 320",
+"subject": "UTL",
+"number": "320",
+"title": "Topics in Teaching the Liberal Arts",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to various topics related to middle grades, secondary, and all-level teaching certification. Topics may include history, social studies, English language arts, and languages other than English. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "Consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqConfidence": "none"
+},
+{
+"id": "UTL 640",
+"subject": "UTL",
+"number": "640",
+"title": "Teaching in Secondary Schools",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to students entering the professional development sequence of the UTeach-Liberal Arts program. Course readings and instruction complement the field experience. Seminar topics include theoretical foundations for subject-specific methods, state and national standards and their implementation, teaching for proficiency, curriculum design, assessment, best practices, the instructional environment, and the role of technology in teaching. The equivalent of six lecture hours and four fieldwork hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: UTeach-Liberal Arts 101 and 202 with a grade of at least B in each, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "UTeach-Liberal Arts 101 and 202 with a grade of at least B in each, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "UTL 101",
+"minGrade": "B"
+},
+{
+"type": "course",
+"id": "UTL 202",
+"minGrade": "B"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students entering the professional development sequence of the UTeach-Liberal Arts program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "UTL 640A",
+"subject": "UTL",
+"number": "640A",
+"title": "Teaching in Secondary Schools",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to students entering the professional development sequence of the UTeach-Liberal Arts program. Course readings and instruction complement the field experience. Seminar topics include theoretical foundations for subject-specific methods, state and national standards and their implementation, teaching for proficiency, curriculum design, assessment, best practices, the instructional environment, and the role of technology in teaching. The equivalent of six lecture hours and four fieldwork hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: UTeach-Liberal Arts 101 and 202 with a grade of at least B in each, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "UTeach-Liberal Arts 101 and 202 with a grade of at least B in each, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "UTL 101",
+"minGrade": "B"
+},
+{
+"type": "course",
+"id": "UTL 202",
+"minGrade": "B"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students entering the professional development sequence of the UTeach-Liberal Arts program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "UTL 640B",
+"subject": "UTL",
+"number": "640B",
+"title": "Teaching in Secondary Schools",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to students entering the professional development sequence of the UTeach-Liberal Arts program. Course readings and instruction complement the field experience. Seminar topics include theoretical foundations for subject-specific methods, state and national standards and their implementation, teaching for proficiency, curriculum design, assessment, best practices, the instructional environment, and the role of technology in teaching. The equivalent of six lecture hours and four fieldwork hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: UTeach-Liberal Arts 101 and 202 with a grade of at least B in each, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "UTeach-Liberal Arts 101 and 202 with a grade of at least B in each, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "UTL 101",
+"minGrade": "B"
+},
+{
+"type": "course",
+"id": "UTL 202",
+"minGrade": "B"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students entering the professional development sequence of the UTeach-Liberal Arts program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "UTL 341R",
+"subject": "UTL",
+"number": "341R",
+"title": "Overcoming Reading Difficulties",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to UTeach-Liberal Arts students. Subjects may include the basic terminology related to special needs students, recognizing differences in learning disabilities, evaluating teaching methods and materials, and teaching strategies that address the needs of special needs students, with a special focus on reading strategies. Three lecture hours a week for one semester. Rhetoric and Writing 379C (Topic: Overcoming Reading Difficulties) and UTeach-Liberal Arts 341R may not both be counted. Offered on the letter-grade basis only. Prerequisite: Applied Learning and Development 322 and consent of instructor.",
+"prereqText": "Applied Learning and Development 322 and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to UTeach-Liberal Arts students.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "UTL 360",
+"subject": "UTL",
+"number": "360",
+"title": "Problems and Principles of Secondary Education",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the final student teaching semester of the UTeach-Liberal Arts program. Draws upon resources found in the directed-teaching environment; considers problems and issues in four broad areas: students in the school, the teacher's professional responsibilities, curriculum understandings, and administrative and organizational problems. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Concurrent enrollment in UTeach-Liberal Arts 670, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "Concurrent enrollment in UTeach-Liberal Arts 670, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereq": {
+"type": "course",
+"id": "UTL 670"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the final student teaching semester of the UTeach-Liberal Arts program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "UTL 670",
+"subject": "UTL",
+"number": "670",
+"title": "Directed Teaching in Secondary Schools",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to students in the final student teaching semester of the UTeach-Liberal Arts program. Observation and teaching in secondary school classrooms as well as an exploration of other roles of the secondary school teacher, under the joint supervision of University and public school personnel. The equivalent of two lecture hours and forty fieldwork hours a week for one semester. Offered on the pass/fail basis only. Prerequisite: Concurrent enrollment in UTeach-Liberal Arts 360, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "Concurrent enrollment in UTeach-Liberal Arts 360, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereq": {
+"type": "course",
+"id": "UTL 360"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the final student teaching semester of the UTeach-Liberal Arts program.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "UTL 670A",
+"subject": "UTL",
+"number": "670A",
+"title": "Directed Teaching in Secondary Schools",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to students in the final student teaching semester of the UTeach-Liberal Arts program. Observation and teaching in secondary school classrooms as well as an exploration of other roles of the secondary school teacher, under the joint supervision of University and public school personnel. The equivalent of two lecture hours and forty fieldwork hours a week for one semester. Offered on the pass/fail basis only. Prerequisite: Concurrent enrollment in UTeach-Liberal Arts 360, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "Concurrent enrollment in UTeach-Liberal Arts 360, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereq": {
+"type": "course",
+"id": "UTL 360"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the final student teaching semester of the UTeach-Liberal Arts program.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "UTL 670B",
+"subject": "UTL",
+"number": "670B",
+"title": "Directed Teaching in Secondary Schools",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to students in the final student teaching semester of the UTeach-Liberal Arts program. Observation and teaching in secondary school classrooms as well as an exploration of other roles of the secondary school teacher, under the joint supervision of University and public school personnel. The equivalent of two lecture hours and forty fieldwork hours a week for one semester. Offered on the pass/fail basis only. Prerequisite: Concurrent enrollment in UTeach-Liberal Arts 360, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereqText": "Concurrent enrollment in UTeach-Liberal Arts 360, and consent of the UTeach adviser in the College of Liberal Arts.",
+"prereq": {
+"type": "course",
+"id": "UTL 360"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the final student teaching semester of the UTeach-Liberal Arts program.",
+"offering": "Offered on the pass/fail basis only."
+}
+]
+}

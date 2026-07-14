@@ -1,0 +1,75 @@
+{
+ "id": "2024-26/minor/spanish",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Spanish",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Spanish Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "SPC 320C",
+    "title": "SPC 320C",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following:",
+    "of": [
+     {
+      "type": "course",
+      "course": "SPN 327C"
+     },
+     {
+      "type": "course",
+      "course": "SPN 327N"
+     },
+     {
+      "type": "course",
+      "course": "SPN 327V"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "One of the following:"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following:",
+    "of": [
+     {
+      "type": "course",
+      "course": "SPN 328C"
+     },
+     {
+      "type": "course",
+      "course": "SPN 330L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "One of the following:"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Nine additional semester credit hours of upper-division coursework in Spanish",
+    "title": "Nine additional semester credit hours of upper-division coursework in Spanish",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Nine additional semester credit hours of upper-division coursework in Spanish"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 18.0
+}

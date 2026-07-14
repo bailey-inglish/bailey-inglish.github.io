@@ -1,0 +1,774 @@
+{
+"code": "RHE",
+"name": "Rhetoric and Writing",
+"courses": [
+{
+"id": "RHE 306",
+"subject": "RHE",
+"number": "306",
+"title": "Rhetoric and Writing",
+"hours": 3.0,
+"division": "lower",
+"description": "An introductory writing course that includes instruction in practical reasoning and the principles of rhetoric. Three lecture hours a week for one semester. Only one of the following may be counted: English 603A, 303C, Rhetoric and Writing 306, 306Q, Tutorial Course 603A, 303C. Prerequisite: A passing score on the writing section of the Texas Higher Education Assessment (THEA) test (or an appropriate assessment test).",
+"tccn": "ENGL 1301",
+"prereqText": "A passing score on the writing section of the Texas Higher Education Assessment (THEA) test (or an appropriate assessment test).",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 306Q",
+"subject": "RHE",
+"number": "306Q",
+"title": "Rhetoric and Writing for Nonnative Speakers of English",
+"hours": 3.0,
+"division": "lower",
+"description": "Enrollment limited to nonnative speakers of English. An introductory writing course that includes instruction in practical reasoning and the principles of rhetoric, as well as grammar and mechanics of standard American English. Five lecture hours a week for one semester. Only one of the following may be counted: English 603A, 303C, Rhetoric and Writing 306, 306Q, Tutorial Course 603A, 303C. Prerequisite: Students must present their scores on the Test of English as a Foreign Language (TOEFL) to the Rhetoric and Writing Office prior to registering.",
+"prereqText": "Students must present their scores on the Test of English as a Foreign Language (TOEFL) to the Rhetoric and Writing Office prior to registering.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 309J",
+"subject": "RHE",
+"number": "309J",
+"title": "Topics in Writing",
+"hours": 3.0,
+"division": "lower",
+"description": "Study and practice methods of rhetorical analysis within the contexts of disputed issues of academic, political, or cultural significance. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Rhetoric and Writing 306 or 306Q.",
+"tccn": "ENGL 1302",
+"prereqText": "Rhetoric and Writing 306 or 306Q.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "RHE 306"
+},
+{
+"type": "course",
+"id": "RHE 306Q"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RHE 309S",
+"subject": "RHE",
+"number": "309S",
+"title": "Critical Reading and Persuasive Writing",
+"hours": 3.0,
+"division": "lower",
+"description": "A writing course designed to teach advanced rhetorical analysis and advocacy on public issues. Three lecture hours a week for one semester. Prerequisite: Rhetoric and Writing 306 or 306Q.",
+"prereqText": "Rhetoric and Writing 306 or 306Q.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "RHE 306"
+},
+{
+"type": "course",
+"id": "RHE 306Q"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RHE 310",
+"subject": "RHE",
+"number": "310",
+"title": "Intermediate Expository Writing",
+"hours": 3.0,
+"division": "lower",
+"description": "An intensive writing workshop, focusing on style and readability. Three lecture hours a week for one semester. Prerequisite: English 603A, Rhetoric and Writing 306, 306Q, or Tutorial Course 603A.",
+"prereqText": "English 603A, Rhetoric and Writing 306, 306Q, or Tutorial Course 603A.",
+"prereqConfidence": "low"
+},
+{
+"id": "RHE 312",
+"subject": "RHE",
+"number": "312",
+"title": "Writing in Digital Environments",
+"hours": 3.0,
+"division": "lower",
+"description": "A writing course focused on using, interpreting, and analyzing traditional and emerging technologies. Taught using networked computers. Three lecture hours a week for one semester. Prerequisite: Rhetoric and Writing 306.",
+"prereqText": "Rhetoric and Writing 306.",
+"prereq": {
+"type": "course",
+"id": "RHE 306"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RHE 314",
+"subject": "RHE",
+"number": "314",
+"title": "Computer Programming for the Humanities",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to the fundamentals of computer programming and practice in computation as a rhetorical activity. Three lecture hours a week for one semester. Liberal Arts 319 (Topic: Computer Programming: Liberal Arts) and Rhetoric and Writing 314 may not both be counted."
+},
+{
+"id": "RHE 315",
+"subject": "RHE",
+"number": "315",
+"title": "Introduction to Visual Rhetoric",
+"hours": 3.0,
+"division": "lower",
+"description": "A writing course designed to teach students to analyze and produce visual and nonverbal forms of rhetoric. Three lecture hours a week for one semester. Prerequisite: Rhetoric and Writing 306.",
+"prereqText": "Rhetoric and Writing 306.",
+"prereq": {
+"type": "course",
+"id": "RHE 306"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RHE 317",
+"subject": "RHE",
+"number": "317",
+"title": "Technical Writing",
+"hours": 3.0,
+"division": "lower",
+"description": "Reading and writing in professional and technological environments. Three lecture hours a week for one semester. Prerequisite: English 603A, Rhetoric and Writing 306, 306Q, or Tutorial Course 603A.",
+"tccn": "ENGL 2311",
+"prereqText": "English 603A, Rhetoric and Writing 306, 306Q, or Tutorial Course 603A.",
+"prereqConfidence": "low"
+},
+{
+"id": "RHE 119S",
+"subject": "RHE",
+"number": "119S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 219S",
+"subject": "RHE",
+"number": "219S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 319S",
+"subject": "RHE",
+"number": "319S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 419S",
+"subject": "RHE",
+"number": "419S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 519S",
+"subject": "RHE",
+"number": "519S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 619S",
+"subject": "RHE",
+"number": "619S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 719S",
+"subject": "RHE",
+"number": "719S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 819S",
+"subject": "RHE",
+"number": "819S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 919S",
+"subject": "RHE",
+"number": "919S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 619SA",
+"subject": "RHE",
+"number": "619SA",
+"title": "Topics in Rhetoric and Writing",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 619SB",
+"subject": "RHE",
+"number": "619SB",
+"title": "Topics in Rhetoric and Writing",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 321",
+"subject": "RHE",
+"number": "321",
+"title": "Principles of Rhetoric",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine major terms, issues, and approaches in the discipline of rhetoric and writing. Practice analysis and application. Three lecture hours a week for one semester. Prerequisite: Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqText": "Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqConfidence": "low"
+},
+{
+"id": "RHE 325M",
+"subject": "RHE",
+"number": "325M",
+"title": "Advanced Writing",
+"hours": 3.0,
+"division": "upper",
+"description": "An advanced course designed to improve and refine writing. Three lecture hours a week for one semester. Prerequisite: Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqText": "Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqConfidence": "low"
+},
+{
+"id": "RHE 328",
+"subject": "RHE",
+"number": "328",
+"title": "Topics in Professional and Technical Writing for Liberal Arts Majors",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine genres, processes, contexts, and practices of technical and professional communication. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqText": "Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqConfidence": "low"
+},
+{
+"id": "RHE 129S",
+"subject": "RHE",
+"number": "129S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 229S",
+"subject": "RHE",
+"number": "229S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 329S",
+"subject": "RHE",
+"number": "329S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 429S",
+"subject": "RHE",
+"number": "429S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 529S",
+"subject": "RHE",
+"number": "529S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 629S",
+"subject": "RHE",
+"number": "629S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 729S",
+"subject": "RHE",
+"number": "729S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 829S",
+"subject": "RHE",
+"number": "829S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 929S",
+"subject": "RHE",
+"number": "929S",
+"title": "Topics in Rhetoric and Writing",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 629SA",
+"subject": "RHE",
+"number": "629SA",
+"title": "Topics in Rhetoric and Writing",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 629SB",
+"subject": "RHE",
+"number": "629SB",
+"title": "Topics in Rhetoric and Writing",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Rhetoric and Writing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RHE 330C",
+"subject": "RHE",
+"number": "330C",
+"title": "Advanced Topics in Digital Rhetoric",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the role of information technologies in communication and culture. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqText": "Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqConfidence": "low"
+},
+{
+"id": "RHE 330D",
+"subject": "RHE",
+"number": "330D",
+"title": "Topics in History of Rhetoric",
+"hours": 3.0,
+"division": "upper",
+"description": "Geographically and historically situate and examine figures, movements, traditions, and productions in rhetoric and public argument. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqText": "Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqConfidence": "low"
+},
+{
+"id": "RHE 330E",
+"subject": "RHE",
+"number": "330E",
+"title": "Topics in Rhetorical Theory and Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Critically explore contemporary rhetorical theories and their analytical applications. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqText": "Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqConfidence": "low"
+},
+{
+"id": "RHE 360M",
+"subject": "RHE",
+"number": "360M",
+"title": "Rhetoric and Writing for Teachers of English",
+"hours": 3.0,
+"division": "upper",
+"description": "Designed for students seeking a secondary school teaching certificate or those in the UTeach-Liberal Arts program. An advanced course that examines theories of writing and writing pedagogy. Three lecture hours a week for one semester. Prerequisite: Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqText": "Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqConfidence": "low"
+},
+{
+"id": "RHE 366",
+"subject": "RHE",
+"number": "366",
+"title": "Internship in Rhetoric and Writing",
+"hours": 3.0,
+"division": "upper",
+"description": "Research and staff experience working in an appropriate nonprofit, public-, or private-sector entity. Ten to twelve hours a week for one semester. May be repeated once for credit when the internships vary. Offered on the pass/fail basis only. Prerequisite: Upper-division standing, twelve semester hours of coursework in rhetoric and writing, and consent of instructor.",
+"prereqText": "Upper-division standing, twelve semester hours of coursework in rhetoric and writing, and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "RHE 367R",
+"subject": "RHE",
+"number": "367R",
+"title": "Conference Course in Rhetoric and Writing",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised work on specific projects in rhetoric and writing. Three conference hours a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing; one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C; and approval of written application by the supervising instructor.",
+"prereqText": "Upper-division standing; one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C; and approval of written application by the supervising instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "RHE 368C",
+"subject": "RHE",
+"number": "368C",
+"title": "Writing Center Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Intensive reading, writing, and discussion in writing center theory and philosophy, tutoring methods, and writing pedagogy, as well as a review of standard American English usage and mechanics; followed by a supervised apprenticeship as a peer consultant in the University Writing Center. Two lecture hours and two apprenticeship hours a week for one semester. Prerequisite: Upper-division standing; one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C; and approval of written application by instructor.",
+"prereqText": "Upper-division standing; one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C; and approval of written application by instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "RHE 368E",
+"subject": "RHE",
+"number": "368E",
+"title": "Topics in Editing for Publication",
+"hours": 3.0,
+"division": "upper",
+"description": "Advanced instruction in revising and editing for publication. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqText": "Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqConfidence": "low"
+},
+{
+"id": "RHE 375",
+"subject": "RHE",
+"number": "375",
+"title": "Topics in Capstone Seminars in Rhetoric",
+"hours": 3.0,
+"division": "upper",
+"description": "Allows the student to integrate the knowledge gained in rhetoric and writing through a major independent project. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing, and Rhetoric and Writing 321, 330C, 330D, and 330E.",
+"prereqText": "Upper-division standing, and Rhetoric and Writing 321, 330C, 330D, and 330E.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "RHE 321"
+},
+{
+"type": "course",
+"id": "RHE 330C"
+},
+{
+"type": "course",
+"id": "RHE 330D"
+},
+{
+"type": "course",
+"id": "RHE 330E"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RHE 379C",
+"subject": "RHE",
+"number": "379C",
+"title": "Advanced Topics in Rhetoric and Writing",
+"hours": 3.0,
+"division": "upper",
+"description": "An advanced course focused on specific theories or practices of rhetoric and writing. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqText": "Upper-division standing and one of the following: English 303C, Rhetoric and Writing 306, 306Q, or Tutorial Course 303C.",
+"prereqConfidence": "low"
+},
+{
+"id": "RHE 679H",
+"subject": "RHE",
+"number": "679H",
+"title": "Honors Tutorial Course",
+"hours": 6.0,
+"division": "upper",
+"description": "Research and development of a thesis/project topic and proposal followed by the writing and defense of an honors thesis or development and defense of an honors project. The equivalent of three lectures hours a week for two semesters. Prerequisite: For 679HA, upper-division standing, completion of at least six hours of upper-division rhetoric and writing courses, admission to the Rhetoric and Writing Honors Program, and consent of the honors adviser; for 679HB, credit for 679HA.",
+"prereqText": "For 679HA, upper-division standing, completion of at least six hours of upper-division rhetoric and writing courses, admission to the Rhetoric and Writing Honors Program, and consent of the honors adviser; for 679HB, credit for 679HA.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 679HA",
+"subject": "RHE",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Research and development of a thesis/project topic and proposal followed by the writing and defense of an honors thesis or development and defense of an honors project. The equivalent of three lectures hours a week for two semesters. Prerequisite: For 679HA, upper-division standing, completion of at least six hours of upper-division rhetoric and writing courses, admission to the Rhetoric and Writing Honors Program, and consent of the honors adviser; for 679HB, credit for 679HA.",
+"prereqText": "For 679HA, upper-division standing, completion of at least six hours of upper-division rhetoric and writing courses, admission to the Rhetoric and Writing Honors Program, and consent of the honors adviser; for 679HB, credit for 679HA.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 679HB",
+"subject": "RHE",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Research and development of a thesis/project topic and proposal followed by the writing and defense of an honors thesis or development and defense of an honors project. The equivalent of three lectures hours a week for two semesters. Prerequisite: For 679HA, upper-division standing, completion of at least six hours of upper-division rhetoric and writing courses, admission to the Rhetoric and Writing Honors Program, and consent of the honors adviser; for 679HB, credit for 679HA.",
+"prereqText": "For 679HA, upper-division standing, completion of at least six hours of upper-division rhetoric and writing courses, admission to the Rhetoric and Writing Honors Program, and consent of the honors adviser; for 679HB, credit for 679HA.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 180",
+"subject": "RHE",
+"number": "180",
+"title": "Conference Course in Rhetoric and Writing",
+"hours": 1.0,
+"division": "graduate",
+"description": "Explore specialized subject areas in rhetoric and writing studies in an individualized format. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 280",
+"subject": "RHE",
+"number": "280",
+"title": "Conference Course in Rhetoric and Writing",
+"hours": 2.0,
+"division": "graduate",
+"description": "Explore specialized subject areas in rhetoric and writing studies in an individualized format. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 380",
+"subject": "RHE",
+"number": "380",
+"title": "Conference Course in Rhetoric and Writing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore specialized subject areas in rhetoric and writing studies in an individualized format. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 381",
+"subject": "RHE",
+"number": "381",
+"title": "Research Methods in Rhetoric and Writing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine fundamental assumptions and procedures for conducting research in rhetoric and writing studies, including the links between theory and methods, qualitative, quantitative, archival, critical approaches, assessment, and research ethics. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 382",
+"subject": "RHE",
+"number": "382",
+"title": "Rhetoric and Writing Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine major theoretical movements in rhetorical studies, writing studies, and related areas. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 383",
+"subject": "RHE",
+"number": "383",
+"title": "Histories of Rhetoric and Writing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore persuasive traditions, disciplinary histories, and historiographic considerations in rhetoric and writing studies. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 384",
+"subject": "RHE",
+"number": "384",
+"title": "Public Rhetorics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine the theory, practice, and study of public rhetorics, including social movement rhetorics, community advocacy, and professional/technical communication. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 385",
+"subject": "RHE",
+"number": "385",
+"title": "Digital Writing and Research Studio",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine and apply the tools, techniques, and theories of digital research and pedagogy in an experiential format. Four-and-one-half laboratory hours a week for one semester. May be taken two times for credit. May be repeated for credit. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 389E",
+"subject": "RHE",
+"number": "389E",
+"title": "Area Exam and Prospectus Hours",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare for required Field and Prospectus examinations under the supervision of a faculty member. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 689E",
+"subject": "RHE",
+"number": "689E",
+"title": "Area Exam and Prospectus Hours",
+"hours": 6.0,
+"division": "graduate",
+"description": "Prepare for required Field and Prospectus examinations under the supervision of a faculty member. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 989E",
+"subject": "RHE",
+"number": "989E",
+"title": "Area Exam and Prospectus Hours",
+"hours": 9.0,
+"division": "graduate",
+"description": "Prepare for required Field and Prospectus examinations under the supervision of a faculty member. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 689EA",
+"subject": "RHE",
+"number": "689EA",
+"title": "Area Exam and Prospectus Hours",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare for required Field and Prospectus examinations under the supervision of a faculty member. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 689EB",
+"subject": "RHE",
+"number": "689EB",
+"title": "Area Exam and Prospectus Hours",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare for required Field and Prospectus examinations under the supervision of a faculty member. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 389R",
+"subject": "RHE",
+"number": "389R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare a report to fulfill the requirement for the master's degree under the report option. Three lecture hours a week for one semester Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "RHE 391",
+"subject": "RHE",
+"number": "391",
+"title": "Topics in Rhetoric and Writing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine specialized topics in rhetoric and writing studies. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RHE 398T",
+"subject": "RHE",
+"number": "398T",
+"title": "Supervised Teaching in Rhetoric and Writing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, consent of instructor, and appointment as an assistant instructor in a lower-division rhetoric and writing course.",
+"prereqText": "Graduate standing, consent of instructor, and appointment as an assistant instructor in a lower-division rhetoric and writing course.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "RHE 399W",
+"subject": "RHE",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "RHE 699W",
+"subject": "RHE",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "RHE 999W",
+"subject": "RHE",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "RHE 699WA",
+"subject": "RHE",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "RHE 699WB",
+"subject": "RHE",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

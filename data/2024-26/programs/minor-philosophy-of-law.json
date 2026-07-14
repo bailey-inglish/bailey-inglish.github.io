@@ -1,0 +1,101 @@
+{
+ "id": "2024-26/minor/philosophy-of-law",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Philosophy of Law",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Philosophy of Law Minor",
+  "of": [
+   {
+    "type": "all",
+    "title": "PHL 304 / PHL 347",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHL 304"
+     },
+     {
+      "type": "course",
+      "course": "PHL 347"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following courses:",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHL 312"
+     },
+     {
+      "type": "course",
+      "course": "PHL 313"
+     },
+     {
+      "type": "course",
+      "course": "PHL 313Q"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "One of the following courses:"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following courses:",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHL 318"
+     },
+     {
+      "type": "course",
+      "course": "PHL 318K"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "One of the following courses:"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours chosen from the following courses:",
+    "filter": {
+     "courses": [
+      "PHL 318",
+      "PHL 318K",
+      "PHL 322K",
+      "PHL 325D",
+      "PHL 325J",
+      "PHL 325K",
+      "PHL 325L",
+      "PHL 325M",
+      "PHL 325N",
+      "PHL 342",
+      "PHL 342L",
+      "PHL 342R"
+     ],
+     "label": "Six hours chosen from the following courses:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Six hours chosen from the following courses:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 18.0
+}

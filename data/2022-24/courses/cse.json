@@ -1,0 +1,678 @@
+{
+"code": "CSE",
+"name": "Computational Science, Engineering, and Mathematics",
+"courses": [
+{
+"id": "CSE 370",
+"subject": "CSE",
+"number": "370",
+"title": "Individual Reading and Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised study or research in a selected area of computational science, engineering, and mathematics by individual arrangement with a supervising instructor. The equivalent of three lecture hours a week for one semester. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Upper-division standing, a University grade point average of at least 3.00, selection of project, and consent of both the faculty member directing the project and the undergraduate adviser.",
+"prereqText": "Upper-division standing, a University grade point average of at least 3.00, selection of project, and consent of both the faculty member directing the project and the undergraduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CSE 380",
+"subject": "CSE",
+"number": "380",
+"title": "Tools and Techniques of Computational Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced introduction to the practical use of high performance computing hardware and software engineering principles for scientific technical computing. Topics include computer architectures, operating systems, programming languages, data structures, interoperability, and software development, management, and performance. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CSE 382G",
+"subject": "CSE",
+"number": "382G",
+"title": "Computer Graphics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computer Science 384G. Advanced material in computer graphics, including in-depth treatments of techniques for realistic image synthesis, advanced geometric modeling methods, animation and dynamic simulation, scientific visualization, and high-performance graphics architectures. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 382G and Computer Science 384G may not both be counted. Prerequisite: Graduate standing; and Computer Science 354 or another introductory course in computer graphics, or equivalent background and consent of instructor.",
+"prereqText": "Graduate standing; and Computer Science 354 or another introductory course in computer graphics, or equivalent background and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "C S 354"
+},
+"prereqConfidence": "high",
+"sameAs": "Computer Science 384G"
+},
+{
+"id": "CSE 382M",
+"subject": "CSE",
+"number": "382M",
+"title": "Foundational Techniques of Machine Learning and Data Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to computational and mathematical tools of data science. Cover statistical estimation and optimization algorithms, neural networks, geometry of high dimensional spaces, randomized methods, sparse approximation, and dimension reduction techniques. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 382M and 383M may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CSE 383C",
+"subject": "CSE",
+"number": "383C",
+"title": "Numerical Analysis: Linear Algebra",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computer Science 383C, Mathematics 383E, and Statistics and Data Sciences 393C. Survey of numerical methods in linear algebra: floating-point computation, solution of linear equations, least squares problems, algebraic eigenvalue problems. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 383C, Computer Science 383C, Mathematics 383E, Statistics and Data Sciences 393C. Prerequisite: Graduate standing; Computer Science 367 or Mathematics 368K; and Mathematics 340L, 341, or consent of instructor.",
+"prereqText": "Graduate standing; Computer Science 367 or Mathematics 368K; and Mathematics 340L, 341, or consent of instructor.",
+"prereqConfidence": "low",
+"sameAs": "Computer Science 383C, Mathematics 383E, and Statistics and Data Sciences 393C"
+},
+{
+"id": "CSE 383D",
+"subject": "CSE",
+"number": "383D",
+"title": "Numerical Analysis: Interpolation, Approximation, Quadrature, and Differential Equations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computer Science 383D, Mathematics 383F, and Statistics and Data Sciences 393D. Survey of numerical methods for interpolation, functional approximation, integration, and solution of differential equations. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 383D, Computer Science 383D, Mathematics 383F, Statistics and Data Sciences 393D. Prerequisite: Graduate standing; Computational Science, Engineering, and Mathematics 383C, Computer Science 383C, Mathematics 383E, or Statistics and Data Sciences 393C; and Mathematics 427K and 365C, or consent of instructor.",
+"prereqText": "Graduate standing; Computational Science, Engineering, and Mathematics 383C, Computer Science 383C, Mathematics 383E, or Statistics and Data Sciences 393C; and Mathematics 427K and 365C, or consent of instructor.",
+"prereqConfidence": "low",
+"sameAs": "Computer Science 383D, Mathematics 383F, and Statistics and Data Sciences 393D"
+},
+{
+"id": "CSE 383K",
+"subject": "CSE",
+"number": "383K",
+"title": "Numerical Analysis: Algebra and Approximation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Mathematics 387C. Advanced introduction to scientific computing, theory and application of numerical linear algebra, solution of nonlinear equations, and numerical approximation of functions. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 383K and Mathematics 387C may not both be counted. Prerequisite: Graduate standing, and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing, and consent of instructor or the graduate adviser.",
+"prereqConfidence": "none",
+"sameAs": "Mathematics 387C"
+},
+{
+"id": "CSE 383L",
+"subject": "CSE",
+"number": "383L",
+"title": "Numerical Analysis: Differential Equations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Mathematics 387D. Advanced introduction to the theory and practice of commonly used numerical algorithms for the solution of ordinary differential equations, and elliptic, parabolic, and hyperbolic partial differential equations. Three lecture hours a week for one semester. Prerequisite: Graduate standing; and Computer Science 383C, Mathematics 387C, or consent of instructor.",
+"prereqText": "Graduate standing; and Computer Science 383C, Mathematics 387C, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "C S 383C"
+},
+{
+"type": "course",
+"id": "M 387C"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Mathematics 387D"
+},
+{
+"id": "CSE 384K",
+"subject": "CSE",
+"number": "384K",
+"title": "Theory of Probability",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Mathematics 385C. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 384K and Mathematics 385C may not both be counted. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"sameAs": "Mathematics 385C"
+},
+{
+"id": "CSE 384L",
+"subject": "CSE",
+"number": "384L",
+"title": "Theory of Probability",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Mathematics 385D. Continuation of Computational Science, Engineering, and Mathematics 384K and Mathematics 385C. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 384L, Mathematics 384L, 385D. Prerequisite: Graduate standing; Computational Science, Engineering, and Mathematics 384K or Mathematics 385C; and consent of instructor.",
+"prereqText": "Graduate standing; Computational Science, Engineering, and Mathematics 384K or Mathematics 385C; and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CSE 384K"
+},
+{
+"type": "course",
+"id": "M 385C"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Mathematics 385D"
+},
+{
+"id": "CSE 384R",
+"subject": "CSE",
+"number": "384R",
+"title": "Mathematical Statistics I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Mathematics 384C and Statistics and Data Sciences 384 (Topic 2). The general theory of mathematical statistics. Includes distributions of functions of random variables, properties of a random sample, principles of data reduction, an overview of hierarchical models, decision theory, Bayesian statistics, and theoretical results relevant to point estimation, interval estimation, and hypothesis testing. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 384R, Mathematics 384C, Statistics and Data Sciences 384 (Topic 2). Prerequisite: Graduate standing; and Mathematics 362K and 378K, or consent of instructor.",
+"prereqText": "Graduate standing; and Mathematics 362K and 378K, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M 362K"
+},
+{
+"type": "course",
+"id": "M 378K"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Mathematics 384C and Statistics and Data Sciences 384 (Topic 2)"
+},
+{
+"id": "CSE 384S",
+"subject": "CSE",
+"number": "384S",
+"title": "Mathematical Statistics II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Mathematics 384D and Statistics and Data Sciences 384 (Topic 3). Continuation of Computational Science, Engineering, and Mathematics 384R and Mathematics 384C. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 384S, Mathematics 384D, Statistics and Data Sciences 384 (Topic 3). Prerequisite: Graduate standing; Computational Science, Engineering, and Mathematics 384R, or Mathematics 384C; and Mathematics 362K and 378K, Statistics and Data Sciences 382, or consent of instructor.",
+"prereqText": "Graduate standing; Computational Science, Engineering, and Mathematics 384R, or Mathematics 384C; and Mathematics 362K and 378K, Statistics and Data Sciences 382, or consent of instructor.",
+"prereqConfidence": "low",
+"sameAs": "Mathematics 384D and Statistics and Data Sciences 384 (Topic 3)"
+},
+{
+"id": "CSE 384T",
+"subject": "CSE",
+"number": "384T",
+"title": "Regression Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Mathematics 384G and Statistics and Data Sciences 384 (Topic 4). Simple and multiple linear regression, inference in regression, prediction of new observations, diagnosis and remedial measures, transformations, and model building. Emphasis on both understanding the theory and applying theory to analyze data. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 384T, Mathematics 384G, Statistics and Data Sciences 384 (Topic 4). Prerequisite: Graduate standing; and Mathematics 362K and 378K, Statistics and Data Sciences 382, or consent of instructor.",
+"prereqText": "Graduate standing; and Mathematics 362K and 378K, Statistics and Data Sciences 382, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M 362K"
+},
+{
+"type": "course",
+"id": "M 378K"
+},
+{
+"type": "course",
+"id": "SDS 382"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Mathematics 384G and Statistics and Data Sciences 384 (Topic 4)"
+},
+{
+"id": "CSE 384U",
+"subject": "CSE",
+"number": "384U",
+"title": "Design and Analysis of Experiments",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Mathematics 384E and Statistics and Data Sciences 384 (Topic 6). Design and analysis of experiments, including one-way and two-way layouts; components of variance; factorial experiments; balanced incomplete block designs; crossed and nested classifications; fixed, random, and mixed models; and split plot designs. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 384U, Mathematics 384E, Statistics and Data Sciences 384 (Topic 6). Prerequisite: Graduate standing; and Mathematics 362K and 378K, Statistics and Data Sciences 382, or consent of instructor.",
+"prereqText": "Graduate standing; and Mathematics 362K and 378K, Statistics and Data Sciences 382, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M 362K"
+},
+{
+"type": "course",
+"id": "M 378K"
+},
+{
+"type": "course",
+"id": "SDS 382"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Mathematics 384E and Statistics and Data Sciences 384 (Topic 6)"
+},
+{
+"id": "CSE 385M",
+"subject": "CSE",
+"number": "385M",
+"title": "Methods of Mathematical Physics I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Physics 381M. Theory of analytic functions; linear algebra and vector spaces; orthogonal functions; ordinary differential equations; partial differential equations; Green's functions; complex variables. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 385M and Physics 381M may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"sameAs": "Physics 381M"
+},
+{
+"id": "CSE 385N",
+"subject": "CSE",
+"number": "385N",
+"title": "Methods of Mathematical Physics II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Physics 381N. Continuation of Computational Science, Engineering, and Mathematics 385M and Physics 381M. Topology, functional analysis, approximation methods, group theory, differential manifolds. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 385N and Physics 381N may not both be counted. Prerequisite: Graduate standing; and Computational Science, Engineering, and Mathematics 385M or Physics 381M.",
+"prereqText": "Graduate standing; and Computational Science, Engineering, and Mathematics 385M or Physics 381M.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CSE 385M"
+},
+{
+"type": "course",
+"id": "PHY 381M"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Physics 381N"
+},
+{
+"id": "CSE 385R",
+"subject": "CSE",
+"number": "385R",
+"title": "Real Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Mathematics 381C. Measure and integration over abstract spaces; Lebesgue's theory of integration and differentiation on the real line. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 385R and Mathematics 381C may not both be counted. Prerequisite: Graduate standing and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor or the graduate adviser.",
+"prereqConfidence": "none",
+"sameAs": "Mathematics 381C"
+},
+{
+"id": "CSE 385S",
+"subject": "CSE",
+"number": "385S",
+"title": "Complex Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Mathematics 381D. Introduction to complex analysis. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 385S and Mathematics 381D may not both be counted. Prerequisite: Graduate standing and consent of instructor or the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor or the graduate adviser.",
+"prereqConfidence": "none",
+"sameAs": "Mathematics 381D"
+},
+{
+"id": "CSE 386C",
+"subject": "CSE",
+"number": "386C",
+"title": "Methods of Applied Mathematics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Mathematics 383C. Topics include basic normed linear space theory; fixed-point theorems and applications to differential and integral equations; Hilbert spaces and the spectral theorem; applications to Sturm-Liouville problems; approximation and computational methods such as the Galerkin, Rayleigh-Ritz, and Newton procedures. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 386C and Mathematics 383C may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"sameAs": "Mathematics 383C"
+},
+{
+"id": "CSE 386D",
+"subject": "CSE",
+"number": "386D",
+"title": "Methods of Applied Mathematics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Mathematics 383D. Topics include distributions, fundamental solutions of partial differential equations, the Schwartz space and tempered distributions, Fourier transform, Plancherel theorem, Green's functions, Sobolev spaces, weak solutions, differential calculus in normed spaces, implicit function theorems, applications to nonlinear equations, smooth variational problems, applications to classical mechanics, constrained variational problems. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 386D and Mathematics 383D may not both be counted. Prerequisite: Graduate standing; and Computational Science, Engineering, and Mathematics 386C or Mathematics 383C.",
+"prereqText": "Graduate standing; and Computational Science, Engineering, and Mathematics 386C or Mathematics 383C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CSE 386C"
+},
+{
+"type": "course",
+"id": "M 383C"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Mathematics 383D"
+},
+{
+"id": "CSE 386L",
+"subject": "CSE",
+"number": "386L",
+"title": "Mathematical Methods in Science and Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore mathematical frameworks for understanding and solving practical problems. Examine basic concepts in multidimensional real analysis, ordinary differential equations and dynamical systems, elementary calculus of variations, Hilbert space theory and duality, Sturm-Liouville theory, Lax-Milgram and Babuska-Necas Theorems, and applications to partial differential equations. Three lecture hours a week for one semester. Only one of the following may be counted: Aerospace Engineering 380P (Topic 2), Computational Science, Engineering, and Mathematics 386L, Engineering Mechanics 386L. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CSE 386M",
+"subject": "CSE",
+"number": "386M",
+"title": "Functional Analysis in Theoretical Mechanics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Engineering Mechanics 386M. An introduction to modern concepts in functional analysis and linear operator theory, with emphasis on their application to problems in theoretical mechanics; topological and metric spaces, norm linear spaces, theory of linear operators on Hilbert spaces, applications to boundary value problems in elasticity and dynamical systems. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 386M and Engineering Mechanics 386M may not both be counted. Prerequisite: Graduate standing, Engineering Mechanics 386L, and Mathematics 365C.",
+"prereqText": "Graduate standing, Engineering Mechanics 386L, and Mathematics 365C.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "E M 386L"
+},
+{
+"type": "course",
+"id": "M 365C"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Engineering Mechanics 386M"
+},
+{
+"id": "CSE 389C",
+"subject": "CSE",
+"number": "389C",
+"title": "Introduction to Mathematical Modeling in Science and Engineering I",
+"hours": 3.0,
+"division": "graduate",
+"description": "First part of a two-part introduction to the elements of classical mechanics, physics, chemistry, and biology needed to begin work in computational engineering and sciences. Develops from first principles the classical mathematical theories underlying many of the models of physical phenomena important in modern applications. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CSE 389D",
+"subject": "CSE",
+"number": "389D",
+"title": "Introduction to Mathematical Modeling in Science and Engineering II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Second part of a two-part introduction to elements of classical mechanics, physics, chemistry, and biology needed to work in computational engineering and sciences. Develops from first principles the classical mathematical theories underlying many of the models of physical phenomena important in modern applications. Three lecture hours a week for one semester. Prerequisite: Graduate standing; and Computational Science, Engineering, and Mathematics 389C or the equivalent.",
+"prereqText": "Graduate standing; and Computational Science, Engineering, and Mathematics 389C or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "CSE 389C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CSE 190",
+"subject": "CSE",
+"number": "190",
+"title": "Individual Research",
+"hours": 1.0,
+"division": "graduate",
+"description": "Individual study or research in computational science, engineering, and mathematics arranged by mutual agreement between student and supervising faculty member. Individual instruction. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 390",
+"subject": "CSE",
+"number": "390",
+"title": "Individual Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Individual study or research in computational science, engineering, and mathematics arranged by mutual agreement between student and supervising faculty member. Individual instruction. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 390T",
+"subject": "CSE",
+"number": "390T",
+"title": "Training in the Teaching of Computational Science, Engineering, and Mathematics",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for one semester, arranged by mutual agreement between student and faculty member. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 392",
+"subject": "CSE",
+"number": "392",
+"title": "Topics in Computer Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced topics in the theory and application of computer science. Recent topics include geometric modeling and visualization, and high-performance and parallel computing. Three lecture hours a week for one semester. Computational and Applied Mathematics 395T and Computational Science, Engineering, and Mathematics 392 may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CSE 393",
+"subject": "CSE",
+"number": "393",
+"title": "Topics in Numerical Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced topics in the theory and application of numerical analysis. Recent topics include numerical methods for partial differential equations, computational problems in linear algebra, iterative methods and fast algorithms, numerical methods in functional approximation, and computational and variational methods for inverse problems. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CSE 393F",
+"subject": "CSE",
+"number": "393F",
+"title": "Finite Element Methods",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Aerospace Engineering 384P (Topic 4) and Engineering Mechanics 394F. Derivation and implementation of the finite element method; basic coding techniques; application to problems of stress and diffusion. Three lecture hours a week for one semester. Only one of the following may be counted: Aerospace Engineering 384P (Topic 4), Computational Science, Engineering, and Mathematics 393F, Engineering Mechanics 394F. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"sameAs": "Aerospace Engineering 384P (Topic 4) and Engineering Mechanics 394F"
+},
+{
+"id": "CSE 393H",
+"subject": "CSE",
+"number": "393H",
+"title": "Advanced Theory of Finite Element Methods",
+"hours": 3.0,
+"division": "graduate",
+"description": "Contemporary topics in the theory and application of finite element methods. Three lecture hours a week for one semester. Prerequisite: Graduate standing; Computational Science, Engineering, and Mathematics 393F or the equivalent; and Engineering Mechanics 386L or the equivalent.",
+"prereqText": "Graduate standing; Computational Science, Engineering, and Mathematics 393F or the equivalent; and Engineering Mechanics 386L or the equivalent.",
+"prereqConfidence": "low"
+},
+{
+"id": "CSE 393N",
+"subject": "CSE",
+"number": "393N",
+"title": "Numerical Methods for Flow and Transport Problems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Approximate solution methods for flow and transport problems in engineering and applied science. Finite element, finite difference, and residual methods for linear and nonlinear problems. Three lecture hours a week for one semester. Computational Science, Engineering and Mathematics 393N and Mathematics 393N may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CSE 393P",
+"subject": "CSE",
+"number": "393P",
+"title": "Computational and Variational Methods for Inverse Problems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine computational and variational methods for inverse problems governed by partial differential equations, including variational formulations, ill-posedness, regularization, adjoint methods for sensitivity analysis, variational discretization, and efficient large-scale optimization algorithms. Explore a brief introduction to the Bayesian formulation and relationship to the deterministic setting. Discuss examples drawn from different areas of science and engineering, including continuum fluid and solid mechanics, geophysics, and image processing. Three lecture hours a week for one semester. Computational Science, Engineering, and Mathematics 397 (Topic: Comput/Var Meths Inverse Probs) and 393P may not both be counted. Prerequisite: Graduate standing; Numerical linear algebra and differential equations, or consent of instructor.",
+"prereqText": "Graduate standing; Numerical linear algebra and differential equations, or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CSE 394",
+"subject": "CSE",
+"number": "394",
+"title": "Topics in Probability and Statistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced topics in the theory and application of probability and statistics. Recent topics include nonparametric statistics and advanced probability. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CSE 396",
+"subject": "CSE",
+"number": "396",
+"title": "Topics in Applied Mathematics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced topics in the theory and application of applied mathematics. Recent topics have included partial differential equations, dynamical systems, kinetic theory, quantum mechanics, ergodic theory, statistical mechanics, Hamiltonian dynamics, nonlinear functional analysis, Euler and Navier-Stokes equations, microlocal calculus and spectral asymptotics, calculus of variations, and nonlinear partial differential equations. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CSE 397",
+"subject": "CSE",
+"number": "397",
+"title": "Topics in Computational Science and Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced topics in the theory and application of computational science and engineering. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CSE 397H",
+"subject": "CSE",
+"number": "397H",
+"title": "Graduate Research Internship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to computational science, engineering, and mathematics majors Practical work experience in a research/industrial setting. Internship to be arranged by student and approved by instructor. The equivalent of three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of supervising faculty member.",
+"prereqText": "Graduate standing and consent of supervising faculty member.",
+"prereqConfidence": "none",
+"restricted": "Restricted to computational science, engineering, and mathematics majors Practical work experience in a research/industrial setting.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 698",
+"subject": "CSE",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in computational science, engineering, and mathematics and consent of the graduate adviser; for 698B, Computational Science, Engineering, and Mathematics 698A.",
+"prereqText": "For 698A, graduate standing in computational science, engineering, and mathematics and consent of the graduate adviser; for 698B, Computational Science, Engineering, and Mathematics 698A.",
+"prereq": {
+"type": "course",
+"id": "CSE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 698A",
+"subject": "CSE",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in computational science, engineering, and mathematics and consent of the graduate adviser; for 698B, Computational Science, Engineering, and Mathematics 698A.",
+"prereqText": "For 698A, graduate standing in computational science, engineering, and mathematics and consent of the graduate adviser; for 698B, Computational Science, Engineering, and Mathematics 698A.",
+"prereq": {
+"type": "course",
+"id": "CSE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 698B",
+"subject": "CSE",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in computational science, engineering, and mathematics and consent of the graduate adviser; for 698B, Computational Science, Engineering, and Mathematics 698A.",
+"prereqText": "For 698A, graduate standing in computational science, engineering, and mathematics and consent of the graduate adviser; for 698B, Computational Science, Engineering, and Mathematics 698A.",
+"prereq": {
+"type": "course",
+"id": "CSE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 398R",
+"subject": "CSE",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. Independent study. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in computational science, engineering, and mathematics and consent of the graduate adviser.",
+"prereqText": "Graduate standing in computational science, engineering, and mathematics and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 399W",
+"subject": "CSE",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 699W",
+"subject": "CSE",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 999W",
+"subject": "CSE",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 699WA",
+"subject": "CSE",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "CSE 699WB",
+"subject": "CSE",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Independent study. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

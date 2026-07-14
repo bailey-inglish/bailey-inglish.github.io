@@ -1,0 +1,917 @@
+{
+"code": "GK",
+"name": "Greek",
+"courses": [
+{
+"id": "GK 601C",
+"subject": "GK",
+"number": "601C",
+"title": "Beginning Greek",
+"hours": 6.0,
+"division": "lower",
+"description": "Studies the fundamentals of grammar and reading in ancient Greek. Six lecture hours a week for one semester. Only one of the following may be counted: Greek 601C; 804; 506 and 507."
+},
+{
+"id": "GK 601CA",
+"subject": "GK",
+"number": "601CA",
+"title": "Beginning Greek",
+"hours": 3.0,
+"division": "lower",
+"description": "Studies the fundamentals of grammar and reading in ancient Greek. Six lecture hours a week for one semester. Only one of the following may be counted: Greek 601C; 804; 506 and 507."
+},
+{
+"id": "GK 601CB",
+"subject": "GK",
+"number": "601CB",
+"title": "Beginning Greek",
+"hours": 3.0,
+"division": "lower",
+"description": "Studies the fundamentals of grammar and reading in ancient Greek. Six lecture hours a week for one semester. Only one of the following may be counted: Greek 601C; 804; 506 and 507."
+},
+{
+"id": "GK 502",
+"subject": "GK",
+"number": "502",
+"title": "First-Year Modern Greek I",
+"hours": 5.0,
+"division": "lower",
+"description": "Introduction to grammar and reading. Five lecture hours a week for one semester. Greek 502 and 602C may not both be counted."
+},
+{
+"id": "GK 602C",
+"subject": "GK",
+"number": "602C",
+"title": "Beginning Modern Greek",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester. Greek 502 and 602C may not both be counted. Greek 602C and 503 may not both be counted."
+},
+{
+"id": "GK 602CA",
+"subject": "GK",
+"number": "602CA",
+"title": "Beginning Modern Greek",
+"hours": 3.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester. Greek 502 and 602C may not both be counted. Greek 602C and 503 may not both be counted."
+},
+{
+"id": "GK 602CB",
+"subject": "GK",
+"number": "602CB",
+"title": "Beginning Modern Greek",
+"hours": 3.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester. Greek 502 and 602C may not both be counted. Greek 602C and 503 may not both be counted."
+},
+{
+"id": "GK 503",
+"subject": "GK",
+"number": "503",
+"title": "First-Year Modern Greek II",
+"hours": 5.0,
+"division": "lower",
+"description": "Continuation of Greek 502. Five lecture hours a week for one semester. Greek 602C and 503 may not both be counted. Prerequisite: Greek 502 with a grade of at least C.",
+"prereqText": "Greek 502 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "GK 502",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 804",
+"subject": "GK",
+"number": "804",
+"title": "Intensive Beginning Greek",
+"hours": 8.0,
+"division": "lower",
+"description": "An accelerated course for highly motivated students that combines the material covered in Greek 506 with that covered in the first part of Greek 507. Offered in the summer session as part of the Intensive Greek Program. The Intensive Greek Program meets for five hours each weekday during the summer session. Only one of the following may be counted: Greek 601C; 804; 506 and 507. The student must complete both Greek 804 and 412 in order to earn credit for either; the same grade will be awarded for both courses. Prerequisite: Concurrent enrollment in Greek 412. Students who enroll in 804 must take Greek 412 in the same summer session.",
+"prereqText": "Concurrent enrollment in Greek 412. Students who enroll in 804 must take Greek 412 in the same summer session.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "GK 412"
+},
+{
+"type": "course",
+"id": "GK 412"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered in the summer session as part of the Intensive Greek Program."
+},
+{
+"id": "GK 506",
+"subject": "GK",
+"number": "506",
+"title": "First-Year Greek I",
+"hours": 5.0,
+"division": "lower",
+"description": "Studies the fundamentals of grammar and reading in ancient Greek. Five lecture hours a week for one semester. Only one of the following may be counted: Greek 601C; 804; 506 and 507."
+},
+{
+"id": "GK 507",
+"subject": "GK",
+"number": "507",
+"title": "First-Year Greek II",
+"hours": 5.0,
+"division": "lower",
+"description": "Continuation of Greek 506. Five lecture hours a week for one semester. Only one of the following may be counted: Greek 601C; 804; 506 and 507. Greek 507 and 412 may not both be counted. Prerequisite: Greek 506 with a grade of at least C.",
+"prereqText": "Greek 506 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "GK 506",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 309K",
+"subject": "GK",
+"number": "309K",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "lower",
+"description": "Supervised individual instruction in second-year ancient or modern Greek reading. Conference course. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GK 310",
+"subject": "GK",
+"number": "310",
+"title": "Second-Year Modern Greek I",
+"hours": 3.0,
+"division": "lower",
+"description": "Culture, language, and literature of present-day Greece. Three lecture hours a week for one semester. Greek 310 and 610C may not both be counted. Prerequisite: Greek 602C or 503 with a grade of at least C.",
+"prereqText": "Greek 602C or 503 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "GK 602C"
+},
+{
+"type": "course",
+"id": "GK 503",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 610C",
+"subject": "GK",
+"number": "610C",
+"title": "Intermediate Modern Greek",
+"hours": 6.0,
+"division": "lower",
+"description": "Continuation of Greek 602C. Six lecture hours a week for one semester. Greek 310 and 610C may not both be counted. Greek 610C and 310K may not both be counted. Prerequisite: Greek 602C or 503 with a grade of at least C.",
+"prereqText": "Greek 602C or 503 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "GK 602C"
+},
+{
+"type": "course",
+"id": "GK 503",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 610CA",
+"subject": "GK",
+"number": "610CA",
+"title": "Intermediate Modern Greek",
+"hours": 3.0,
+"division": "lower",
+"description": "Continuation of Greek 602C. Six lecture hours a week for one semester. Greek 310 and 610C may not both be counted. Greek 610C and 310K may not both be counted. Prerequisite: Greek 602C or 503 with a grade of at least C.",
+"prereqText": "Greek 602C or 503 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "GK 602C"
+},
+{
+"type": "course",
+"id": "GK 503",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 610CB",
+"subject": "GK",
+"number": "610CB",
+"title": "Intermediate Modern Greek",
+"hours": 3.0,
+"division": "lower",
+"description": "Continuation of Greek 602C. Six lecture hours a week for one semester. Greek 310 and 610C may not both be counted. Greek 610C and 310K may not both be counted. Prerequisite: Greek 602C or 503 with a grade of at least C.",
+"prereqText": "Greek 602C or 503 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "GK 602C"
+},
+{
+"type": "course",
+"id": "GK 503",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 310K",
+"subject": "GK",
+"number": "310K",
+"title": "Second-Year Modern Greek II",
+"hours": 3.0,
+"division": "lower",
+"description": "Continuation of Greek 310. Three lecture hours a week for one semester. Greek 610C and 310K may not both be counted. Prerequisite: Greek 310 with a grade of at least C.",
+"prereqText": "Greek 310 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "GK 310",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 311",
+"subject": "GK",
+"number": "311",
+"title": "Intermediate Greek I",
+"hours": 3.0,
+"division": "lower",
+"description": "Continuation of Greek 601C or 507. Introductory readings from classical authors such as Lysias, Plato, and Xenophon. Includes grammar review. Three lecture hours a week for one semester. Prerequisite: Greek 601C or 507 with a grade of at least C, or Greek 804 and 412 with a grade of at least C in each.",
+"prereqText": "Greek 601C or 507 with a grade of at least C, or Greek 804 and 412 with a grade of at least C in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "GK 412",
+"subject": "GK",
+"number": "412",
+"title": "Intensive Greek",
+"hours": 4.0,
+"division": "lower",
+"description": "An accelerated course for highly motivated students. Completion of this course is equivalent to completion of Greek 506 and 507. Students who enroll in 412 must take Greek 804 in the same summer session. A grade of A may allow the student to advance to Greek 324 with consent of the Greek 324 instructor. The Intensive Greek Program meets for five hours each weekday during the summer session. Greek 507 and 412 may not both be counted. Prerequisite: Concurrent enrollment in Greek 804.",
+"prereqText": "Concurrent enrollment in Greek 804.",
+"prereq": {
+"type": "course",
+"id": "GK 804"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 312K",
+"subject": "GK",
+"number": "312K",
+"title": "Intermediate Greek II",
+"hours": 3.0,
+"division": "lower",
+"description": "Continuation of Greek 311. Selected readings from classical and biblical authors. Three lecture hours a week for one semester. Greek 312K and 312L may not both be counted. Prerequisite: Greek 311 with a grade of at least C.",
+"prereqText": "Greek 311 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "GK 311",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 312L",
+"subject": "GK",
+"number": "312L",
+"title": "Intermediate Greek II: Biblical Greek",
+"hours": 3.0,
+"division": "lower",
+"description": "Continuation of Greek 311. A parallel to Greek 312K with a focus on biblical Greek. Three class hours a week for one semester. Greek 312K and 312L may not both be counted. Prerequisite: Greek 311 with a grade of at least C.",
+"prereqText": "Greek 311 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "GK 311",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 119S",
+"subject": "GK",
+"number": "119S",
+"title": "Topics in Greek",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 219S",
+"subject": "GK",
+"number": "219S",
+"title": "Topics in Greek",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 319S",
+"subject": "GK",
+"number": "319S",
+"title": "Topics in Greek",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 419S",
+"subject": "GK",
+"number": "419S",
+"title": "Topics in Greek",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 519S",
+"subject": "GK",
+"number": "519S",
+"title": "Topics in Greek",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 619S",
+"subject": "GK",
+"number": "619S",
+"title": "Topics in Greek",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 719S",
+"subject": "GK",
+"number": "719S",
+"title": "Topics in Greek",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 819S",
+"subject": "GK",
+"number": "819S",
+"title": "Topics in Greek",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 919S",
+"subject": "GK",
+"number": "919S",
+"title": "Topics in Greek",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 619SA",
+"subject": "GK",
+"number": "619SA",
+"title": "Topics in Greek",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 619SB",
+"subject": "GK",
+"number": "619SB",
+"title": "Topics in Greek",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 324",
+"subject": "GK",
+"number": "324",
+"title": "Advanced Greek",
+"hours": 3.0,
+"division": "upper",
+"description": "Reading and analysis of classical authors such as Homer, Herodotus, Euripides, and Plato. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Greek 312K with a grade of at least C.",
+"prereqText": "Greek 312K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "GK 312K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 326",
+"subject": "GK",
+"number": "326",
+"title": "Advanced Greek Grammar and Composition",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of syntax, style, and principles of written composition. Three lecture hours a week for one semester. Prerequisite: Credit or registration for Greek 324.",
+"prereqText": "Credit or registration for Greek 324.",
+"prereq": {
+"type": "course",
+"id": "GK 324"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 328C",
+"subject": "GK",
+"number": "328C",
+"title": "Pauline Epistles",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Greek 328 (Topic 1) and 328C may not both be counted. Prerequisite: Greek 312K or 312L with a grade of at least C-; or Greek 412 with a grade of at least A-.",
+"prereqText": "Greek 312K or 312L with a grade of at least C-; or Greek 412 with a grade of at least A-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "GK 312K"
+},
+{
+"type": "course",
+"id": "GK 312L",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "GK 412",
+"minGrade": "A-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 328D",
+"subject": "GK",
+"number": "328D",
+"title": "The Gospel of John",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Greek 328 (Topic 2) and 328D may not both be counted. Prerequisite: Greek 312K or 312L with a grade of at least C-; or Greek 412 with a grade of at least A-.",
+"prereqText": "Greek 312K or 312L with a grade of at least C-; or Greek 412 with a grade of at least A-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "GK 312K"
+},
+{
+"type": "course",
+"id": "GK 312L",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "GK 412",
+"minGrade": "A-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 328E",
+"subject": "GK",
+"number": "328E",
+"title": "Biblical Greek: Acts",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Only one of the following may be counted: Greek 328 (Topic: Biblical Greek: Acts), 328 (Topic 3), and 328E. Prerequisite: Greek 312K or 312L with a grade of at least C-; or Greek 412 with a grade of at least A-.",
+"prereqText": "Greek 312K or 312L with a grade of at least C-; or Greek 412 with a grade of at least A-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "GK 312K"
+},
+{
+"type": "course",
+"id": "GK 312L",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "GK 412",
+"minGrade": "A-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 129S",
+"subject": "GK",
+"number": "129S",
+"title": "Topics in Greek",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 229S",
+"subject": "GK",
+"number": "229S",
+"title": "Topics in Greek",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 329S",
+"subject": "GK",
+"number": "329S",
+"title": "Topics in Greek",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 429S",
+"subject": "GK",
+"number": "429S",
+"title": "Topics in Greek",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 529S",
+"subject": "GK",
+"number": "529S",
+"title": "Topics in Greek",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 629S",
+"subject": "GK",
+"number": "629S",
+"title": "Topics in Greek",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 729S",
+"subject": "GK",
+"number": "729S",
+"title": "Topics in Greek",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 829S",
+"subject": "GK",
+"number": "829S",
+"title": "Topics in Greek",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 929S",
+"subject": "GK",
+"number": "929S",
+"title": "Topics in Greek",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 629SA",
+"subject": "GK",
+"number": "629SA",
+"title": "Topics in Greek",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 629SB",
+"subject": "GK",
+"number": "629SB",
+"title": "Topics in Greek",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "GK 365",
+"subject": "GK",
+"number": "365",
+"title": "Seminar in Greek",
+"hours": 3.0,
+"division": "upper",
+"description": "Critical study of authors such as Thucydides, Demosthenes, and Aeschylus. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Greek 324 or 328.",
+"prereqText": "Greek 324 or 328.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "GK 324"
+},
+{
+"type": "course",
+"id": "GK 328"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 370",
+"subject": "GK",
+"number": "370",
+"title": "Advanced Conference Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised reading. Conference course. May be repeated for credit. Prerequisite: Greek 310K or 324, and consent of instructor.",
+"prereqText": "Greek 310K or 324, and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "GK 310K"
+},
+{
+"type": "course",
+"id": "GK 324"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 679H",
+"subject": "GK",
+"number": "679H",
+"title": "Honors Tutorial Course",
+"hours": 6.0,
+"division": "upper",
+"description": "Supervised conference course for honors candidates in Greek. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the honors program in Greek; for 679HB, Greek 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the honors program in Greek; for 679HB, Greek 679HA.",
+"prereq": {
+"type": "course",
+"id": "GK 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 679HA",
+"subject": "GK",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised conference course for honors candidates in Greek. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the honors program in Greek; for 679HB, Greek 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the honors program in Greek; for 679HB, Greek 679HA.",
+"prereq": {
+"type": "course",
+"id": "GK 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 679HB",
+"subject": "GK",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised conference course for honors candidates in Greek. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the honors program in Greek; for 679HB, Greek 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the honors program in Greek; for 679HB, Greek 679HA.",
+"prereq": {
+"type": "course",
+"id": "GK 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "GK 380J",
+"subject": "GK",
+"number": "380J",
+"title": "Proseminar in Classical Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Brief survey of the history of classical literature; orientation to the major periods and genres. Three hours a week for one semester. Designed for first-year graduate students. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "GK 180K",
+"subject": "GK",
+"number": "180K",
+"title": "Proseminar",
+"hours": 1.0,
+"division": "graduate",
+"description": "An introduction to the research methodology and the ancillary disciplines used in current classical studies, or to certain disciplines such as meter, textual criticism. One hour a week for one semester. Topics other than those listed below may also be taught. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GK 383",
+"subject": "GK",
+"number": "383",
+"title": "Studies in Classical Greek Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics given in recent years include Greek oratory, Aristophanes, and Homer. Three lecture hours a week for one semester. Topics other than those listed below may also be taught. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "GK 383K",
+"subject": "GK",
+"number": "383K",
+"title": "Current Concepts and Research in Greek",
+"hours": 3.0,
+"division": "graduate",
+"description": "An overview of important theories, issues, and research in classics. Three hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "GK 385",
+"subject": "GK",
+"number": "385",
+"title": "Graduate Reading Course",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics given in recent years include Plato and Greek prose, Sophocles, and Sophists. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "GK 385W",
+"subject": "GK",
+"number": "385W",
+"title": "Graduate Reading Course: Biblical Greek",
+"hours": 3.0,
+"division": "graduate",
+"description": "Graduate level translation and analysis of topics such as the Pauline epistles or the Gospel of John. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "GK 186K",
+"subject": "GK",
+"number": "186K",
+"title": "Conference Course in Greek Literature",
+"hours": 1.0,
+"division": "graduate",
+"description": "Conference course. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GK 386K",
+"subject": "GK",
+"number": "386K",
+"title": "Conference Course in Greek Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Conference course. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "GK 386L",
+"subject": "GK",
+"number": "386L",
+"title": "Conference Course in Greek Language",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students pursuing degrees other than in classics. Conference course. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students pursuing degrees other than in classics.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GK 390",
+"subject": "GK",
+"number": "390",
+"title": "Seminar in Classical Studies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Selected topics in Greek studies. Topics given in recent years include Mycenaean documents, Aristotle's ethics, Archaic poetry, and Plato's Symposium. The equivalent of three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "GK 398R",
+"subject": "GK",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a research report to fulfill the requirement for the master's degree. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in Greek and consent of the graduate adviser.",
+"prereqText": "Graduate standing in Greek and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GK 399W",
+"subject": "GK",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GK 699W",
+"subject": "GK",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GK 999W",
+"subject": "GK",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GK 699WA",
+"subject": "GK",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "GK 699WB",
+"subject": "GK",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

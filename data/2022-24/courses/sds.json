@@ -1,0 +1,960 @@
+{
+"code": "SDS",
+"name": "Statistics and Data Sciences",
+"courses": [
+{
+"id": "SDS 301",
+"subject": "SDS",
+"number": "301",
+"title": "Elementary Statistical Methods",
+"hours": 3.0,
+"division": "lower",
+"description": "Covers the fundamental procedures for data organization and analysis. Subjects include frequency distributions, graphical presentation, sampling, experimental design, inference, and regression. Three lecture hours a week for one semester. Only one of the following may be counted: Educational Psychology 308, Statistics 309, 309H or Statistics and Data Sciences 301.",
+"tccn": "MATH 1342"
+},
+{
+"id": "SDS 302F",
+"subject": "SDS",
+"number": "302F",
+"title": "Foundations of Data Analysis",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to data analysis and statistical methods. Subjects include random sampling; principles of observational study and experimental design; data summaries and graphics; and statistical models and inference, including the simple linear regression model and one-way analysis of variance. Three lecture hours and one laboratory hour a week for one semester. Only one of the following may be counted: Statistics and Data Sciences 302, 302F, 306."
+},
+{
+"id": "SDS 110T",
+"subject": "SDS",
+"number": "110T",
+"title": "Topics in Statistics and Computation",
+"hours": 1.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. Statistics and Data Sciences 110T and Statistics and Scientific Computation 110T may not both be counted. May be repeated for credit when the topics vary."
+},
+{
+"id": "SDS 210T",
+"subject": "SDS",
+"number": "210T",
+"title": "Topics in Statistics and Computation",
+"hours": 2.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. Statistics and Data Sciences 110T and Statistics and Scientific Computation 110T may not both be counted. May be repeated for credit when the topics vary."
+},
+{
+"id": "SDS 310T",
+"subject": "SDS",
+"number": "310T",
+"title": "Topics in Statistics and Computation",
+"hours": 3.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. Statistics and Data Sciences 110T and Statistics and Scientific Computation 110T may not both be counted. May be repeated for credit when the topics vary."
+},
+{
+"id": "SDS 410T",
+"subject": "SDS",
+"number": "410T",
+"title": "Topics in Statistics and Computation",
+"hours": 4.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. Statistics and Data Sciences 110T and Statistics and Scientific Computation 110T may not both be counted. May be repeated for credit when the topics vary."
+},
+{
+"id": "SDS 311C",
+"subject": "SDS",
+"number": "311C",
+"title": "Numbering Race",
+"hours": 3.0,
+"division": "lower",
+"description": "Same as African and African Diaspora Studies 302M. Subjects include conceptualization and operationalization in quantitative measurement, the calculation and interpretation of descriptive statistics and statistical relationships, the application of statistical techniques to understand social phenomenon, and techniques for presenting results from quantitative analysis. Three lecture hours a week for one semester. Only one of the following may be counted: African and African Diaspora Studies 302M, 317D (Topic: Numbering Race), Statistics and Data Sciences 310T (Topic: Numbering Race), 311C.",
+"sameAs": "African and African Diaspora Studies 302M"
+},
+{
+"id": "SDS 313",
+"subject": "SDS",
+"number": "313",
+"title": "Introduction to Data Science",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to the principles and practice of data science. Explore R and reproducible data analysis; summarizing data using descriptive statistics; data visualization and storytelling; data wrangling and relational data; basic prediction and classification using regression models; and programming in R. The equivalent of three lecture hours a week for one semester. Only one of the following may be counted: Statistics and Data Sciences 313, 322E, 348."
+},
+{
+"id": "SDS 315",
+"subject": "SDS",
+"number": "315",
+"title": "Statistical Thinking",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to the fundamental ideas of statistical thinking with R programming. Explore survey, experimental, and observational study design; common sources of random and systematic error in data; the bootstrap as a tool for quantifying uncertainty; hypothesis testing; regression; and the role of statistics in an ethical and just society. The equivalent of three lecture hours a week for one semester. Prerequisite: Statistics and Data Sciences 313 with a grade of at least C-.",
+"prereqText": "Statistics and Data Sciences 313 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "SDS 313",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SDS 318",
+"subject": "SDS",
+"number": "318",
+"title": "Introduction to Statistical and Scientific Computation",
+"hours": 3.0,
+"division": "lower",
+"description": "An introduction to quantitative analysis using fundamental concepts in statistics and scientific computation. Includes probability, distributions, sampling, interpolation, iteration, recursion, and visualization. Three lecture hours and one laboratory hour a week for one semester. Statistics and Data Sciences 318 and Statistics and Scientific Computation 318 may not both be counted."
+},
+{
+"id": "SDS 320E",
+"subject": "SDS",
+"number": "320E",
+"title": "Elements of Statistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to statistics. Subjects include probability; principles of observational study and experimental design; statistical models and inference, including the multiple linear regression model and one-way analysis of variance. R programming is introduced. Three lecture hours and one laboratory hour a week for one semester. Only one of the following may be counted: Statistics and Data Sciences 320E, 320H, and 328M."
+},
+{
+"id": "SDS 320H",
+"subject": "SDS",
+"number": "320H",
+"title": "Elements of Statistics: Honors",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to statistics. Subjects include probability; principles of observational study and experimental design; statistical models and inference, including the multiple linear regression model and one-way analysis of variance. R programming is introduced. Three lecture hours and one laboratory hour a week for one semester. Only one of the following may be counted: Statistics and Data Sciences 320E, 320H, and 328M."
+},
+{
+"id": "SDS 321",
+"subject": "SDS",
+"number": "321",
+"title": "Introduction to Probability and Statistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Covers fundamentals of probability, combinatorics, discrete and continuous random variables, jointly distributed random variables, and limit theorems. Using probability to introduce fundamentals of statistics, including Bayesian and classical inference. The equivalent of four lectures hours a week. Statistics and Data Sciences 321 and 431 may not both be counted. Prerequisite: Mathematics 408C, 408L, 408R, 408S, or 408Q with a grade of at least C-.",
+"prereqText": "Mathematics 408C, 408L, 408R, 408S, or 408Q with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 222",
+"subject": "SDS",
+"number": "222",
+"title": "Introduction to Scientific Programming",
+"hours": 2.0,
+"division": "upper",
+"description": "Introduction to programming using both the C and Fortran (95/2003) languages, with applications to basic scientific problems. Covers common data types and structures, control structures, algorithms, performance measurement, and interoperability. For each semester hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: Statistics and Data Sciences 222, 322, 292, 392, Statistics and Scientific Computation 222, 322, 292, 392. Prerequisite: Credit or registration for Mathematics 408C, 408K, or 408N.",
+"prereqText": "Credit or registration for Mathematics 408C, 408K, or 408N.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 322",
+"subject": "SDS",
+"number": "322",
+"title": "Introduction to Scientific Programming",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to programming using both the C and Fortran (95/2003) languages, with applications to basic scientific problems. Covers common data types and structures, control structures, algorithms, performance measurement, and interoperability. For each semester hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: Statistics and Data Sciences 222, 322, 292, 392, Statistics and Scientific Computation 222, 322, 292, 392. Prerequisite: Credit or registration for Mathematics 408C, 408K, or 408N.",
+"prereqText": "Credit or registration for Mathematics 408C, 408K, or 408N.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 322E",
+"subject": "SDS",
+"number": "322E",
+"title": "Elements of Data Science",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore data science tools and examine data wrangling; exploratory data analysis and data visualization; markdown and data workflow; simulation-based inference; and classification methods. R programming is emphasized and Python programming is introduced. Three lecture hours and one laboratory hour a week for one semester. Only one of the following may be counted: Statistics and Data Sciences 313, 322E, 348. Prerequisite: An introductory statistics course.",
+"prereqText": "An introductory statistics course.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 323",
+"subject": "SDS",
+"number": "323",
+"title": "Statistical Learning and Inference",
+"hours": 3.0,
+"division": "upper",
+"description": "An introduction to statistical influence, broadly construed as the process of drawing conclusions from data, and to quantifying uncertainty about said conclusions. Covers the major schools of thought that influence modern scientific practice, including classical frequentist methods, machine learning, and Bayesian inference. Three lecture hours a week for one semester. Statistics and Data Sciences 323 and Statistics and Scientific Computation 323 may not both be counted. Prerequisite: Statistics and Data Sciences 321 (or Statistical and Scientific Computation 321) or the equivalent.",
+"prereqText": "Statistics and Data Sciences 321 (or Statistical and Scientific Computation 321) or the equivalent.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 324E",
+"subject": "SDS",
+"number": "324E",
+"title": "Elements of Regression Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the use of regression analysis in applied research and learn about multiple linear regression; ANOVA; logistic regression; random and mixed-effects models; and models for dependent data. Engage in the identification of appropriate statistical methods and interpretation of software output. R programming is introduced. Three lecture hours a week for one semester. Statistics and Data Sciences 324E and 332 may not both be counted. Prerequisite: Statistics and Data Sciences 302F or Statistics and Data Sciences 320E (or Statistics and Data Sciences 302, 304, 306, or 328M).",
+"prereqText": "Statistics and Data Sciences 302F or Statistics and Data Sciences 320E (or Statistics and Data Sciences 302, 304, 306, or 328M).",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 325H",
+"subject": "SDS",
+"number": "325H",
+"title": "Honors Statistics",
+"hours": 3.0,
+"division": "upper",
+"description": "An introduction to the fundamental theories, concepts, and methods of statistics. Emphasizes probability models, exploratory data analysis, sampling distributions, confidence intervals, hypothesis testing, correlation and regression, and the use of statistical software. Three lecture hours a week for one semester. Statistics and Data Sciences 325H and Statistics and Scientific Computation 325H may not both be counted. Prerequisite: Admission to the Dean's Scholars Honors Program in the College of Natural Sciences or consent of instructor.",
+"prereqText": "Admission to the Dean's Scholars Honors Program in the College of Natural Sciences or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 329C",
+"subject": "SDS",
+"number": "329C",
+"title": "Practical Linear Algebra I",
+"hours": 3.0,
+"division": "upper",
+"description": "Matrix representations and properties of matrices; linear equations, eigenvalue problems and their physical interpretation; and linear least squares and elementary numerical analysis. Emphasis on physical interpretation, practical numerical algorithms, and proofs of fundamental principles. Three lecture hours a week for one semester. Only one of the following may be counted: Mathematics 340L, 341, Statistics and Data Sciences 329C."
+},
+{
+"id": "SDS 431",
+"subject": "SDS",
+"number": "431",
+"title": "Probability and Statistical Inference",
+"hours": 4.0,
+"division": "upper",
+"description": "Introduction to probability and statistical inference. Examine events and random experiments; basic rules of probability; joint, conditional, and marginal probability and independence; discrete and continuous random variables; random sampling and estimation; large-sample theory results and central limit theorem-based inferential summaries; and maximum likelihood estimation. Three lecture hours and two laboratory hours a week for one semester. Statistics and Data Sciences 321 and 431 may not both be counted. Prerequisite: Statistics and Data Sciences 315 with a grade of at least C-; and credit with a grade of at least C- or registration for Mathematics 408D, 408L, or 408S.",
+"prereqText": "Statistics and Data Sciences 315 with a grade of at least C-; and credit with a grade of at least C- or registration for Mathematics 408D, 408L, or 408S.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 334",
+"subject": "SDS",
+"number": "334",
+"title": "Intermediate Statistical Methods",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to applied regression analysis. Explore estimation and inference in multiple regression models; logistic regression; regression for count data; time-to-event models; and case studies in regression modeling in published work, emphasizing both the use and limitations of regression modeling in advancing scientific knowledge. The equivalent of three lecture hours a week for one semester. Prerequisite: Statistics and Data Sciences 431 with a grade of at least C-; Mathematics 340L or 341 or Statistics and Data Sciences 329C with a grade of at least C-; and Computer Science 303E or 312 with a grade of at least C-.",
+"prereqText": "Statistics and Data Sciences 431 with a grade of at least C-; Mathematics 340L or 341 or Statistics and Data Sciences 329C with a grade of at least C-; and Computer Science 303E or 312 with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 335",
+"subject": "SDS",
+"number": "335",
+"title": "Scientific and Technical Computing",
+"hours": 3.0,
+"division": "upper",
+"description": "A comprehensive introduction to computing techniques and methods applicable to many scientific disciplines and technical applications. Covers computer hardware and operating systems, systems software and tools, code development, numerical methods and math libraries, and basic visualization and data analysis tools. Three lecture hours a week for one semester. Statistics and Data Sciences 335 and Statistics and Scientific Computation 335 may not both be counted. Prerequisite: Mathematics 408D or 408M, and prior programming experience.",
+"prereqText": "Mathematics 408D or 408M, and prior programming experience.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "M 408D"
+},
+{
+"type": "course",
+"id": "M 408M"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SDS 336",
+"subject": "SDS",
+"number": "336",
+"title": "Practical Machine Learning",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to machine learning for data science with an emphasis on Python programming. Explore comparing algorithm performance; decision-tree algorithms; classification algorithms; model averaging; unsupervised learning; and neural network. The equivalent of three lecture hours a week for one semester. Prerequisite: Statistics and Data Sciences 334 with a grade of at least C-; and Computer Science 327E with a grade of at least C-.",
+"prereqText": "Statistics and Data Sciences 334 with a grade of at least C-; and Computer Science 327E with a grade of at least C-.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "SDS 334",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "C S 327E",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SDS 150K",
+"subject": "SDS",
+"number": "150K",
+"title": "Data Analysis Applications",
+"hours": 1.0,
+"division": "upper",
+"description": "Introduction to the use of statistical mathematical applications for data analysis. Two lecture hours a week for eight weeks. Statistics and Data Sciences 150K and Statistics and Scientific Computation 150K may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the pass/fail basis only. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "SDS 352",
+"subject": "SDS",
+"number": "352",
+"title": "Statistical Methods",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of simple and multiple regression, fundamentals of experimental design, and analysis of variance methods. May include logistic regression, Poisson regression, resampling methods, introduction to Bayesian methods, and probability models. Includes substantial use of statistical software. Three lecture hours and one laboratory hour a week for one semester. Statistics and Data Sciences 352 and Statistics and Scientific Computation 352 may not both be counted. Prerequisite: One of the following: Mathematics 316, Statistics and Data Sciences 303 (or Statistics and Scientific Computation 303), 304 (or Statistics and Scientific Computation 304), 305 (or Statistics and Scientific Computation 305), or 306 (or Statistics and Scientific Computation 306).",
+"prereqText": "One of the following: Mathematics 316, Statistics and Data Sciences 303 (or Statistics and Scientific Computation 303), 304 (or Statistics and Scientific Computation 304), 305 (or Statistics and Scientific Computation 305), or 306 (or Statistics and Scientific Computation 306).",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 353",
+"subject": "SDS",
+"number": "353",
+"title": "Advanced Multivariate Modeling",
+"hours": 3.0,
+"division": "upper",
+"description": "Advanced topics in statistical modeling, including models for categorical and count data; spatial and time-series data; and survival, hazard, and hierarchical models. Extensive use of statistical software to build on knowledge of introductory probability and statistics, as well as multiple regression. Three lecture hours a week for one semester Statistics and Data Sciences 353 and Statistics and Scientific Computation 353 may not both be counted. Prerequisite: Mathematics 408D or 408M; and Statistics and Data Sciences 325H (or Statistics and Scientific Computation 325H) or 352 (Statistics and Scientific Computation 352).",
+"prereqText": "Mathematics 408D or 408M; and Statistics and Data Sciences 325H (or Statistics and Scientific Computation 325H) or 352 (Statistics and Scientific Computation 352).",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 354",
+"subject": "SDS",
+"number": "354",
+"title": "Advanced Statistical Methods",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore advanced methods in statistics and data science. Examine modeling data with multilevel (hierarchical) structure and causal inference, including design and analysis strategies. Discuss smoothing methods; spatial and time series models; additive models; and models for network data. The equivalent of three lecture hours a week for one semester. Prerequisite: Statistics and Data Sciences 334 with a grade of at least C-.",
+"prereqText": "Statistics and Data Sciences 334 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "SDS 334",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SDS 357",
+"subject": "SDS",
+"number": "357",
+"title": "Case Studies in Data Science",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore advanced case studies in data science, with an emphasis on the full data analysis pipeline. Examine data collection, identification of data limitations; data privacy; data preparation and exploration; building, using, and evaluating models; creating data products; and communication and persuasion with data. The equivalent of three lecture hours a week for one semester. Prerequisite: Statistics and Data Sciences 334 with a grade of at least C-; credit with a grade of at least C- or registration for Statistics and Data Sciences 336.",
+"prereqText": "Statistics and Data Sciences 334 with a grade of at least C-; credit with a grade of at least C- or registration for Statistics and Data Sciences 336.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "SDS 334",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "SDS 336"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SDS 358",
+"subject": "SDS",
+"number": "358",
+"title": "Special Topics in Statistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Statistics and Data Sciences 358 and Statistics and Scientific Computation 358 may not both be counted unless topics vary. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing; additional prerequisites may vary with the topic.",
+"prereqText": "Upper-division standing; additional prerequisites may vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 364",
+"subject": "SDS",
+"number": "364",
+"title": "Bayesian Statistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the Bayesian approach for statistical inference. Explore prior, posterior, and predictive distributions: conjugate priors; informative and non-informative priors; models for normal, categorical, and count data; Bayesian computation, including MCMC and the Gibbs sampler; hierarchical models; and Bayesian model checking and model selection. The equivalent of three lecture hours a week for one semester. Prerequisite: Statistics and Data Sciences 431 or 321 with a grade of at least C-; Mathematics 340L or 341 or Statistics and Data Sciences 329C with a grade of at least C-; and credit with a grade of at least C- or registration for Statistics and Data Sciences 334.",
+"prereqText": "Statistics and Data Sciences 431 or 321 with a grade of at least C-; Mathematics 340L or 341 or Statistics and Data Sciences 329C with a grade of at least C-; and credit with a grade of at least C- or registration for Statistics and Data Sciences 334.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 368",
+"subject": "SDS",
+"number": "368",
+"title": "Statistical Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the mathematical theory of statistics. Explore maximum likelihood estimation, confidence intervals, hypothesis tests and statistical decision theory, tail and concentration bounds, concentration of measure, and nonparametric statistics. The equivalent of three lecture hours a week for one semester. Prerequisite: Statistics and Data Sciences 431 with a grade of at least C-; Mathematics 340L or 341 or Statistics and Data Sciences 329C with a grade of at least C-; and credit with a grade of at least C- or registration for Statistics and Data Sciences 334; and a solid foundation in calculus, probability theory, and linear algebra.",
+"prereqText": "Statistics and Data Sciences 431 with a grade of at least C-; Mathematics 340L or 341 or Statistics and Data Sciences 329C with a grade of at least C-; and credit with a grade of at least C- or registration for Statistics and Data Sciences 334; and a solid foundation in calculus, probability theory, and linear algebra.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 374C",
+"subject": "SDS",
+"number": "374C",
+"title": "Parallel Computing for Science and Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of parallel computing principles, architectures, and technologies; and parallel application development, performance, and scalability. Designed to help prepare students to formulate and develop parallel algorithms to implement effective applications for parallel computing systems. Three lecture hours a week for one semester. Statistics and Data Sciences 374C and Statistics and Scientific Computation 374C may not both be counted. Prerequisite: Mathematics 408D or 408M, 340L, and prior programming experience using C or Fortran on Linux or Unix systems.",
+"prereqText": "Mathematics 408D or 408M, 340L, and prior programming experience using C or Fortran on Linux or Unix systems.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 374E",
+"subject": "SDS",
+"number": "374E",
+"title": "Visualization and Data Analysis for Science and Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Scientific visualization principles, practices, and technologies, including remote and collaborative visualization. Introduces statistical analysis, data mining, and feature detection. Three lecture hours a week for one semester. Statistics and Data Sciences 374E and Statistics and Scientific Computation 374E may not both be counted. Prerequisite: Mathematics 408D or 408M, 340, and prior programming experience using C or Fortran on Linux or Unix systems.",
+"prereqText": "Mathematics 408D or 408M, 340, and prior programming experience using C or Fortran on Linux or Unix systems.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 375",
+"subject": "SDS",
+"number": "375",
+"title": "Special Topics in Scientific Computation",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Statistics and Data Sciences 375 and Statistics and Scientific Computation 375 may not both be counted unless topics vary. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing; additional prerequisites may vary with the topic.",
+"prereqText": "Upper-division standing; additional prerequisites may vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 378",
+"subject": "SDS",
+"number": "378",
+"title": "Introduction to Mathematical Statistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Mathematics 378K. Sampling distributions of statistics, estimation of parameters (confidence intervals, method of moments, maximum likelihood, comparison of estimators using mean square error and efficiency, sufficient statistics), hypothesis tests (p-values, power, likelihood ratio tests), and other topics. Three lecture hours a week for one semester. Mathematics 378K and Statistics and Data Sciences 378 may not both be counted. Prerequisite: Mathematics 362K with a grade of at least C-.",
+"prereqText": "Mathematics 362K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "M 362K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"sameAs": "Mathematics 378K"
+},
+{
+"id": "SDS 378P",
+"subject": "SDS",
+"number": "378P",
+"title": "Decision Analytics",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine decision theory with utility functions, including the use of probability, optimization, constrained optimization, and linear algebra. Three lecture hours a week for one semester. Only one of the following may be counted: Mathematics 375T (Topic: Decision Analytics), 378P, Statistics and Data Sciences 378P. Prerequisite: Mathematics 362K and Mathematics 378K with a grade of at least C-, or consent of the instructor.",
+"prereqText": "Mathematics 362K and Mathematics 378K with a grade of at least C-, or consent of the instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "M 362K"
+},
+{
+"type": "course",
+"id": "M 378K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SDS 179R",
+"subject": "SDS",
+"number": "179R",
+"title": "Undergraduate Research",
+"hours": 1.0,
+"division": "upper",
+"description": "Students work on an individual research project under the supervision of one or more faculty members. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 279R",
+"subject": "SDS",
+"number": "279R",
+"title": "Undergraduate Research",
+"hours": 2.0,
+"division": "upper",
+"description": "Students work on an individual research project under the supervision of one or more faculty members. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 379R",
+"subject": "SDS",
+"number": "379R",
+"title": "Undergraduate Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Students work on an individual research project under the supervision of one or more faculty members. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 479R",
+"subject": "SDS",
+"number": "479R",
+"title": "Undergraduate Research",
+"hours": 4.0,
+"division": "upper",
+"description": "Students work on an individual research project under the supervision of one or more faculty members. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 380C",
+"subject": "SDS",
+"number": "380C",
+"title": "Statistical Methods I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to the fundamental concepts and methods of statistics. Includes descriptive statistics, sampling distributions, confidence intervals, and hypothesis testing. May include simple and multiple linear regression, analysis of variance, and categorical analysis. Use of statistical software is emphasized. Three lecture hours a week for one semester. Statistics and Data Sciences 380C and Statistics and Scientific Computation 380C may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 380D",
+"subject": "SDS",
+"number": "380D",
+"title": "Statistical Methods II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Continuation of Statistics and Data Sciences 380C (or Statistics and Scientific Computation 380C). Surveys advanced statistical modeling and may include random and mixed effects models, time series analysis, survival analysis, Bayesian methods, and multivariate analysis of variance. Use of statistical software is emphasized. Three lecture hours a week for one semester. Statistics and Data Sciences 380D and Statistics and Scientific Computation 380D may not both be counted. Prerequisite: Graduate standing, and Statistics and Data Sciences 380C (or Statistics and Scientific Computation 380C) or the equivalent.",
+"prereqText": "Graduate standing, and Statistics and Data Sciences 380C (or Statistics and Scientific Computation 380C) or the equivalent.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 381",
+"subject": "SDS",
+"number": "381",
+"title": "Mathematical Methods for Statistical Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to mathematical concepts and methods essential for multivariate statistical analysis. Areas may include basic matrix algebra, eigenvalues and eigenvectors, quadratic forms, vector and matrix differentiation, unconstrained optimization, constrained optimization, and applications in multivariate statistical analysis. Three lecture hours a week for one semester. Statistics and Data Sciences 381 and Statistics and Scientific Computation 381 may not both be counted. Prerequisite: Graduate standing and a course in statistics.",
+"prereqText": "Graduate standing and a course in statistics.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 382",
+"subject": "SDS",
+"number": "382",
+"title": "Introduction to Probability and Statistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Expectation and variance of random variables, conditional probability and independence, sampling distributions, point estimation, confidence intervals, hypothesis tests, and other topics. Three lecture hours a week for one semester. Statistics and Data Sciences 382 and Statistics and Scientific Computation 382 may not both be counted. Prerequisite: Graduate standing and a second-semester calculus class.",
+"prereqText": "Graduate standing and a second-semester calculus class.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 383C",
+"subject": "SDS",
+"number": "383C",
+"title": "Statistical Modeling I",
+"hours": 3.0,
+"division": "graduate",
+"description": "An introduction to core applied statistical modeling ideas from a probabilistic, Bayesian perspective. Topics include exploratory data analysis, programming in R, Bayesian probability models, an introduction to the Gibbs sampler, applied regression analysis, and hierarchical models. Three lecture hours a week for one semester. Statistics and Data Sciences 383C and Statistics and Scientific Computation 383C may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 383D",
+"subject": "SDS",
+"number": "383D",
+"title": "Statistical Modeling II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Use of structured, probabilistic models that incorporate multiple layers of uncertainty to describe real-world systems. Topics include multivariate normal distribution, mixture models, nonparametric Bayesian analysis, advanced hierarchical models and latent-variable models, generalized linear models, and advanced topics in linear and nonlinear regression. Three lecture hours per week for one semester. Statistics and Data Sciences 383D and Statistics and Scientific Computation 383D may not both be counted. Prerequisite: Graduate standing; Economics 392M (Topic 19), Statistics and Data Sciences 384 (or Statistics and Scientific Computation 384), or the equivalent; and 383C (or Statistics and Scientific Computation 383C).",
+"prereqText": "Graduate standing; Economics 392M (Topic 19), Statistics and Data Sciences 384 (or Statistics and Scientific Computation 384), or the equivalent; and 383C (or Statistics and Scientific Computation 383C).",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 183K",
+"subject": "SDS",
+"number": "183K",
+"title": "Data Analysis Applications",
+"hours": 1.0,
+"division": "graduate",
+"description": "Introduction to the use of statistical or mathematical applications for data analysis. Two lecture hours a week for eight weeks. Statistics and Data Sciences 183K and Statistics and Scientific Computation 183K may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SDS 384",
+"subject": "SDS",
+"number": "384",
+"title": "Topics in Statistics and Probability",
+"hours": 3.0,
+"division": "graduate",
+"description": "Concepts of probability and mathematical statistics with applications in data analysis and research. Three lecture hours a week for one semester. Statistics and Data Sciences 384 and Statistics and Scientific Computation 384 may not both be counted unless topics vary. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; and Statistics and Data Sciences 382 (or Statistics and Scientific Computation 382), an introductory probability course and a statistics course, or consent of instructor.",
+"prereqText": "Graduate standing; and Statistics and Data Sciences 382 (or Statistics and Scientific Computation 382), an introductory probability course and a statistics course, or consent of instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 385",
+"subject": "SDS",
+"number": "385",
+"title": "Topics in Applied Statistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Theories, models, and methods for the analysis of quantitative data. Three lecture hours a week for one semester. Statistics and Data Sciences 385 and Statistics and Scientific Computation 385 may not both be counted unless topics vary. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; and Statistics and Data Sciences 380C (or Statistics and Scientific Computation 380C), 382 (or Statistics and Scientific Computation 382), or consent of instructor.",
+"prereqText": "Graduate standing; and Statistics and Data Sciences 380C (or Statistics and Scientific Computation 380C), 382 (or Statistics and Scientific Computation 382), or consent of instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 386C",
+"subject": "SDS",
+"number": "386C",
+"title": "Probabilistic Graphical Models",
+"hours": 3.0,
+"division": "graduate",
+"description": "An introduction to statistical learning methods, exploring both the computational and statistical aspects of data analysis. Topics include numerical linear algebra, convex optimization techniques, basics of stochastic simulation, nonparametric methods, kernel methods, graphical models, decision trees, and data resampling. Three lecture hours a week for one semester. Statistics and Scientific Computation 386C and Statistics and Data Sciences 386C may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 386D",
+"subject": "SDS",
+"number": "386D",
+"title": "Monte Carlo Methods in Statistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Stochastic simulation for Bayesian inference, designed to develop an understanding of Markov chair Monte Carlo methods and their underlying theoretical framework. Topics include Markov chains, Monte Carlo integration, Gibbs sampler, Metropolis-Hastings algorithms, slice sampling, and sequential Monte Carlo. Three lecture hours a week for one semester. Statistics and Data Sciences 386D and Statistics and Scientific Computation 386D may not both be counted. Prerequisite: Graduate standing; and Economics 392M (Topic 19), Statistics and Data Sciences 384 (or Statistics and Scientific Computation 384), or the equivalent.",
+"prereqText": "Graduate standing; and Economics 392M (Topic 19), Statistics and Data Sciences 384 (or Statistics and Scientific Computation 384), or the equivalent.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 387",
+"subject": "SDS",
+"number": "387",
+"title": "Linear Models",
+"hours": 3.0,
+"division": "graduate",
+"description": "An exploration of practical applications of the projection approach to linear models, building from a review of essential linear algebra concepts to the theory of linear models from a projection-based perspective. Introduction to Bayesian ideas. Additional topics include analysis of variance, generalized linear models, and variable selection techniques. Three lecture hours a week for one semester. Statistics and Data Sciences 387 and Statistics and Scientific Computation 387 may not both be counted. Prerequisite: Graduate standing; Economics 392M (Topic 19: Probability and Statistics), Statistics and Data Sciences 384 (or Statistics and Scientific Computation 384), or the equivalent; and basic coding skills in R, Matlab, or Stata.",
+"prereqText": "Graduate standing; Economics 392M (Topic 19: Probability and Statistics), Statistics and Data Sciences 384 (or Statistics and Scientific Computation 384), or the equivalent; and basic coding skills in R, Matlab, or Stata.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 388",
+"subject": "SDS",
+"number": "388",
+"title": "Consulting Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised experience in applying statistical or mathematical methods to real problems. Includes participation in weekly consulting sessions, directed readings in the statistical literature, the ethics of research and consulting, and report writing and presentations. The equivalent of three lecture hours a week for one semester. Statistics and Data Sciences 388 and Statistics and Scientific Computation 388 may not both be counted. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 389",
+"subject": "SDS",
+"number": "389",
+"title": "Time Series and Dynamic Models",
+"hours": 3.0,
+"division": "graduate",
+"description": "Exploration of the general class of state-space models, or dynamic models. Emphasis is placed on the implementation and use of the models presented, with applications focused on the social sciences. Topics include dynamic regression models, the Kalman filter, time series models, multivariate time series models, conditional variance models, Markov chain Monte Carlo algorithms for state-space models, and particle filters. Three lecture hours a week for one semester. Statistics and Data Sciences 389 and Statistics and Scientific Computation 389 may not both be counted. Prerequisite: Graduate standing; Economics 392M (Topic 19), Statistics and Data Sciences 384 (or Statistics and Scientific Computation 384), or the equivalent; and coding skills in R, Matlab, or Stata.",
+"prereqText": "Graduate standing; Economics 392M (Topic 19), Statistics and Data Sciences 384 (or Statistics and Scientific Computation 384), or the equivalent; and coding skills in R, Matlab, or Stata.",
+"prereqConfidence": "low"
+},
+{
+"id": "SDS 189R",
+"subject": "SDS",
+"number": "189R",
+"title": "Graduate Research",
+"hours": 1.0,
+"division": "graduate",
+"description": "Individual research project supervised by one or more faculty members. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 289R",
+"subject": "SDS",
+"number": "289R",
+"title": "Graduate Research",
+"hours": 2.0,
+"division": "graduate",
+"description": "Individual research project supervised by one or more faculty members. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 389R",
+"subject": "SDS",
+"number": "389R",
+"title": "Graduate Research",
+"hours": 3.0,
+"division": "graduate",
+"description": "Individual research project supervised by one or more faculty members. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 489R",
+"subject": "SDS",
+"number": "489R",
+"title": "Graduate Research",
+"hours": 4.0,
+"division": "graduate",
+"description": "Individual research project supervised by one or more faculty members. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 190",
+"subject": "SDS",
+"number": "190",
+"title": "Readings in Statistics",
+"hours": 1.0,
+"division": "graduate",
+"description": "Faculty directed research seminar. Activities may vary, but will include readings of cutting-edge research papers, discussion of on-going student and faculty projects, and consulting projects. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 190C",
+"subject": "SDS",
+"number": "190C",
+"title": "Biomedical Big Data Seminar",
+"hours": 1.0,
+"division": "graduate",
+"description": "Faculty directed research seminar and workshop. Activities may vary but will include literature reviews and group discussion, discussion of faculty and student projects, and presentations. One lecture hour a week for one semester. Statistics and Data Sciences 183K (Topic:Biomedical Big Data Seminar) and 190C may not both be counted. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SDS 391C",
+"subject": "SDS",
+"number": "391C",
+"title": "Statistical Machine Learning",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to statistical machine learning. Subjects include but are not limited to supervised learning (estimation, linear regression, classification, online and margin based classification approaches), unsupervised learning (K-means, mixture of Gaussians, dimensionality reduction PCA/SVD), and non-parametric methods. Three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing; experience in multivariate statistics, probability, linear algebra.",
+"prereqText": "Graduate standing; experience in multivariate statistics, probability, linear algebra.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 391D",
+"subject": "SDS",
+"number": "391D",
+"title": "Data Mining",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of various mathematical and statistical aspects of data mining. Includes supervised learning (regression, classification, and support vector machines) and unsupervised learning (clustering, principal components analysis, and dimensionality reduction). Uses technical tools drawn from linear algebra, multivariate statistics, and optimization. Three lecture hours a week for one semester. Statistics and Data Sciences 391D and Statistics and Scientific Computation 391D may not both be counted. Prerequisite: Graduate standing and a linear algebra course.",
+"prereqText": "Graduate standing and a linear algebra course.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 292",
+"subject": "SDS",
+"number": "292",
+"title": "Introduction to Scientific Programming",
+"hours": 2.0,
+"division": "graduate",
+"description": "Introduction to programming using both the C and Fortran (95/2003) languages, with applications to basic scientific problems. Covers common data types and structures, control structures, algorithms, performance measurement, and interoperability. For each semester hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: Statistics and Data Sciences 222, 322, 292, 392, Statistics and Scientific Computation 222, 322, 292, 392. Prerequisite: Graduate standing and credit or registration for a first-semester calculus course.",
+"prereqText": "Graduate standing and credit or registration for a first-semester calculus course.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 392",
+"subject": "SDS",
+"number": "392",
+"title": "Introduction to Scientific Programming",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to programming using both the C and Fortran (95/2003) languages, with applications to basic scientific problems. Covers common data types and structures, control structures, algorithms, performance measurement, and interoperability. For each semester hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: Statistics and Data Sciences 222, 322, 292, 392, Statistics and Scientific Computation 222, 322, 292, 392. Prerequisite: Graduate standing and credit or registration for a first-semester calculus course.",
+"prereqText": "Graduate standing and credit or registration for a first-semester calculus course.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 392M",
+"subject": "SDS",
+"number": "392M",
+"title": "Computational Economics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to the development and solution of economic models of growth, macroeconomic fluctuations, environmental economics, financial economics, general equilibrium models, game theory, and industrial economics. Includes neural nets, genetic algorithms and agent-based methods, and stochastic control theory applied to a variety of economic topics. Three lecture hours a week for one semester. Statistics and Data Sciences 392M and Statistics and Scientific Computation 392M may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 393C",
+"subject": "SDS",
+"number": "393C",
+"title": "Numerical Analysis: Linear Algebra",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 383C, Computer Science 383C, and Mathematics 383E. Survey of numerical methods in linear algebra: floating-point computation, solution of linear equations, least squares problems, algebraic eigenvalue problems. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 383C, Computer Science 383C, Mathematics 383E, Statistics and Data Sciences 393C. Prerequisite: Graduate standing; Computer Science 367 or Mathematics 368K; and Mathematics 340L, 341, or consent of instructor.",
+"prereqText": "Graduate standing; Computer Science 367 or Mathematics 368K; and Mathematics 340L, 341, or consent of instructor.",
+"prereqConfidence": "low",
+"sameAs": "Computational Science, Engineering, and Mathematics 383C, Computer Science 383C, and Mathematics 383E"
+},
+{
+"id": "SDS 393D",
+"subject": "SDS",
+"number": "393D",
+"title": "Numerical Analysis: Interpolation, Approximation, Quadrature, and Differential Equations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Computational Science, Engineering, and Mathematics 383D, Computer Science 383D, and Mathematics 383F. Survey of numerical methods for interpolation, functional approximation, integration, and solution of differential equations. Three lecture hours a week for one semester. Only one of the following may be counted: Computational Science, Engineering, and Mathematics 383D, Computer Science 383D, Mathematics 383F, Statistics and Data Sciences 393D. Prerequisite: Graduate standing; Computational Science, Engineering, and Mathematics 383C, Computer Science 383C, Mathematics 383E, or Statistics and Data Sciences 393C; and Mathematics 427K and 365C, or consent of instructor.",
+"prereqText": "Graduate standing; Computational Science, Engineering, and Mathematics 383C, Computer Science 383C, Mathematics 383E, or Statistics and Data Sciences 393C; and Mathematics 427K and 365C, or consent of instructor.",
+"prereqConfidence": "low",
+"sameAs": "Computational Science, Engineering, and Mathematics 383D, Computer Science 383D, and Mathematics 383F"
+},
+{
+"id": "SDS 394",
+"subject": "SDS",
+"number": "394",
+"title": "Scientific and Technical Computing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Comprehensive introduction to computing techniques and methods applicable to many scientific disciplines and technical applications. Covers computer hardware and operating systems, systems software and tools, code development, numerical methods and math libraries, and basic visualization and data analysis tools. Three lecture hours a week for one semester. Statistics and Data Sciences 394 and Statistics and Scientific Computation 394 may not both be counted. Prerequisite: Graduate standing, and a third-semester calculus course or the equivalent; prior programming experience is recommended.",
+"prereqText": "Graduate standing, and a third-semester calculus course or the equivalent; prior programming experience is recommended.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 394C",
+"subject": "SDS",
+"number": "394C",
+"title": "Parallel Computing for Science and Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Parallel computing principles, architectures, and technologies. Parallel application development, performance, and scalability. Designed to prepare students to formulate and develop parallel algorithms to implement effective applications for parallel computing systems. Three lecture hours a week for one semester. Statistics and Data Sciences 394C and Statistics and Scientific Computation 394C may not both be counted. Prerequisite: Graduate standing, a third-semester calculus course or the equivalent, a linear algebra course or a matrices course, and prior programming experience using C or Fortran on Linux or Unix systems.",
+"prereqText": "Graduate standing, a third-semester calculus course or the equivalent, a linear algebra course or a matrices course, and prior programming experience using C or Fortran on Linux or Unix systems.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 394D",
+"subject": "SDS",
+"number": "394D",
+"title": "Distributed and Grid Computing for Science and Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Distributed and grid computing principles and technologies. Covers common modes of grid computing for scientific applications, developing grid-enabled applications, and future trends in grid computing. Three lecture hours a week for one semester. Statistics and Data Sciences 394D and Statistics and Scientific Computation 394D may not both be counted. Prerequisite: Graduate standing, a third-semester calculus course or the equivalent, a linear algebra course or a matrices course, and prior programming experience using C or Fortran on Linux or Unix systems.",
+"prereqText": "Graduate standing, a third-semester calculus course or the equivalent, a linear algebra course or a matrices course, and prior programming experience using C or Fortran on Linux or Unix systems.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 394E",
+"subject": "SDS",
+"number": "394E",
+"title": "Visualization and Data Analysis for Science and Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Scientific visualization principles, practices, and technologies, including remote and collaborative visualization. Introduces statistical analysis, data mining, and feature detection. Three lecture hours a week for one semester. Statistics and Data Sciences 394E and Statistics and Scientific Computation 394E may not both be counted. Prerequisite: Graduate standing, a third-semester calculus course or the equivalent, a linear algebra course or a matrices course, and prior programming experience using C or Fortran on Linux or Unix systems.",
+"prereqText": "Graduate standing, a third-semester calculus course or the equivalent, a linear algebra course or a matrices course, and prior programming experience using C or Fortran on Linux or Unix systems.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 395",
+"subject": "SDS",
+"number": "395",
+"title": "Advanced Topics in Scientific Computation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Statistics and Data Sciences 395 and Statistics and Scientific Computation 395 may not both be counted unless topics vary. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "SDS 197R",
+"subject": "SDS",
+"number": "197R",
+"title": "Statistics Internship",
+"hours": 1.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of graduate adviser.",
+"prereqText": "Graduate standing and consent of graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SDS 398R",
+"subject": "SDS",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Statistics and Data Sciences 398R and Statistics and Scientific Computation 398R may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in statistics and data sciences, consent of supervising professor, and consent of graduate adviser.",
+"prereqText": "Graduate standing in statistics and data sciences, consent of supervising professor, and consent of graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SDS 398T",
+"subject": "SDS",
+"number": "398T",
+"title": "Supervised Teaching in Statistics and Data Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised teaching experience; weekly group meetings, individual consultations, and reports. Three lecture hours a week for one semester. Statistics and Data Sciences 398T and Statistics and Scientific Computation 398T may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and appointment as a teaching assistant.",
+"prereqText": "Graduate standing and appointment as a teaching assistant.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SDS 399W",
+"subject": "SDS",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Statistics and Data Sciences 399W, 699W, 999W and Statistics and Scientific Computation 399W, 699W, 999W may not both be counted. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SDS 699W",
+"subject": "SDS",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "Statistics and Data Sciences 399W, 699W, 999W and Statistics and Scientific Computation 399W, 699W, 999W may not both be counted. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SDS 999W",
+"subject": "SDS",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "Statistics and Data Sciences 399W, 699W, 999W and Statistics and Scientific Computation 399W, 699W, 999W may not both be counted. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SDS 699WA",
+"subject": "SDS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Statistics and Data Sciences 399W, 699W, 999W and Statistics and Scientific Computation 399W, 699W, 999W may not both be counted. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "SDS 699WB",
+"subject": "SDS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Statistics and Data Sciences 399W, 699W, 999W and Statistics and Scientific Computation 399W, 699W, 999W may not both be counted. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

@@ -1,0 +1,84 @@
+{
+ "id": "2024-26/major/ba-geography",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Geography",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/geography/",
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general",
+  "2024-26/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 30.0,
+    "umbrella": true,
+    "title": "30 hours of geography",
+    "filter": {
+     "subjects": [
+      "GRG"
+     ],
+     "label": "Geography coursework"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/geography/",
+     "quote": "Thirty semester hours of geography, at least 18 of which must be upper-division, including"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 18.0,
+    "umbrella": true,
+    "title": "18 upper-division hours of geography",
+    "filter": {
+     "subjects": [
+      "GRG"
+     ],
+     "division": "upper",
+     "label": "Upper-division geography"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/geography/",
+     "quote": "Thirty semester hours of geography, at least 18 of which must be upper-division, including"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "An 18 hour core requirement consisting of: Geography 301C and one other course in physical geography",
+    "title": "An 18 hour core requirement consisting of: Geography 301C and one other course i",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/geography/",
+     "quote": "An 18 hour core requirement consisting of: Geography 301C and one other course in physical geography"
+    }
+   },
+   {
+    "type": "course",
+    "course": "GRG 305",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/geography/",
+     "quote": "Geography 305 and one other course in human geography"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "At least nine semester hours in one of the following tracks: Geographic information science",
+    "title": "At least nine semester hours in one of the following tracks: Geographic informat",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/geography/",
+     "quote": "At least nine semester hours in one of the following tracks: Geographic information science"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "GRG"
+ ]
+}

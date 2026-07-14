@@ -1,0 +1,185 @@
+{
+ "id": "2022-24/major/ba-government",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "Government",
+ "college": "Liberal Arts",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "GOV"
+ ],
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cola-ba-plan-i"
+ ],
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/government/",
+ "notes": "No more than six hours of internship coursework may be counted toward the major.",
+ "rules": {
+  "type": "all",
+  "title": "Major requirements",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 30,
+    "filter": {
+     "subjects": [
+      "GOV"
+     ],
+     "label": "Government coursework"
+    },
+    "umbrella": true,
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/government/",
+     "quote": "Thirty semester hours of government, at least 18 of which must be upper-division."
+    },
+    "title": "30 hours of government",
+    "minGrade": "C-"
+   },
+   {
+    "type": "hours",
+    "hours": 18,
+    "filter": {
+     "subjects": [
+      "GOV"
+     ],
+     "division": "upper",
+     "label": "Upper-division government"
+    },
+    "umbrella": true,
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/government/"
+    },
+    "title": "18 upper-division government hours",
+    "minGrade": "C-"
+   },
+   {
+    "type": "manual",
+    "text": "Students must take at least one upper-division course from three of the seven fields into which the department’s work is divided",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/government/"
+    },
+    "title": "Breadth across three of seven fields"
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Research seminar or internship",
+    "of": [
+     {
+      "type": "course",
+      "course": "GOV 362L"
+     },
+     {
+      "type": "course",
+      "course": "GOV 662L"
+     },
+     {
+      "type": "course",
+      "course": "GOV 371N"
+     },
+     {
+      "type": "course",
+      "course": "GOV 372N"
+     },
+     {
+      "type": "course",
+      "course": "GOV 373N"
+     },
+     {
+      "type": "course",
+      "course": "GOV 374N"
+     },
+     {
+      "type": "manual",
+      "text": "A three hour research seminar in government.",
+      "title": "Research seminar"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/government/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Tools course",
+    "of": [
+     {
+      "type": "course",
+      "course": "GOV 339L"
+     },
+     {
+      "type": "course",
+      "course": "GOV 350K"
+     },
+     {
+      "type": "course",
+      "course": "GOV 355M"
+     },
+     {
+      "type": "course",
+      "course": "GOV 355N"
+     },
+     {
+      "type": "anyN",
+      "n": 1,
+      "title": "Statistics option (not counted toward major hours)",
+      "of": [
+       {
+        "type": "course",
+        "course": "ECO 329"
+       },
+       {
+        "type": "course",
+        "course": "EDP 371"
+       },
+       {
+        "type": "course",
+        "course": "PSY 317L"
+       },
+       {
+        "type": "course",
+        "course": "SOC 327M"
+       },
+       {
+        "type": "course",
+        "course": "STA 309"
+       },
+       {
+        "type": "course",
+        "course": "SDS 301"
+       },
+       {
+        "type": "course",
+        "course": "AFR 302M"
+       }
+      ]
+     },
+     {
+      "type": "manual",
+      "text": "Six semester hours of upper-division coursework in one foreign language, excluding courses conducted in English",
+      "title": "Upper-division foreign language option"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/government/"
+    }
+   },
+   {
+    "type": "gpa",
+    "min": 2.0,
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/government/"
+    },
+    "title": "GPA of at least 2.00 in the major",
+    "scope": {
+     "subjects": [
+      "GOV"
+     ],
+     "label": "Government coursework"
+    }
+   }
+  ]
+ }
+}

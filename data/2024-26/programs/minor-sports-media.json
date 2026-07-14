@@ -1,0 +1,76 @@
+{
+ "id": "2024-26/minor/sports-media",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Sports Media",
+ "college": "Communication",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/communication/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Sports Media Minor",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "ADV 378S",
+    "of": [
+     {
+      "type": "course",
+      "course": "ADV 378S",
+      "title": "ADV 378S",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/communication/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "ADV 348S"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "CMS 363C",
+    "title": "CMS 363C",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve hours of coursework to be selected from:",
+    "filter": {
+     "courses": [
+      "ADV 378S",
+      "AFR 352E",
+      "COM 310",
+      "CMS 363P",
+      "EDP 376T",
+      "J 326F",
+      "J 354S",
+      "KIN 347",
+      "KIN 350",
+      "KIN 352K",
+      "KIN 352M",
+      "KIN 352K",
+      "KIN 352N",
+      "KIN 354",
+      "KIN 355",
+      "RTF 359"
+     ],
+     "label": "Twelve hours of coursework to be selected from:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/minor-and-certificate-programs/",
+     "quote": "Twelve hours of coursework to be selected from:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 18.0
+}

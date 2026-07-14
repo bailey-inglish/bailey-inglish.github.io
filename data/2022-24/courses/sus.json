@@ -1,0 +1,82 @@
+{
+"code": "SUS",
+"name": "Sustainability Studies",
+"courses": [
+{
+"id": "SUS 301",
+"subject": "SUS",
+"number": "301",
+"title": "Introduction to Sustainability Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to basic concepts in sustainability, including the varied disciplinary approaches used to theorize and practice sustainability. Explore these concepts through foundational sustainability scholarship, place-based experiential learning opportunities, and team-based projects. Three lecture hours a week for one semester."
+},
+{
+"id": "SUS 374",
+"subject": "SUS",
+"number": "374",
+"title": "Capstone Experience in Sustainability Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "Work independently to complete a research project that assembles and integrates knowledge and skills acquired across your university career. Current concerns and methodology in the field of Sustainability Studies; an introduction to theory and research in Sustainability topics. Three lecture hours a week and a minimum of seventy hours of field research work for one semester. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "SUS 679H",
+"subject": "SUS",
+"number": "679H",
+"title": "Honors Tutorial Course",
+"hours": 6.0,
+"division": "upper",
+"description": "For honors candidates in sustainability studies. Read selected works individually for one semester, followed in the second semester by the writing of an honors thesis. Participate in regular conferences with the faculty supervisor. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, a University GPA of at least 3.0 and a GPA in sustainability studies of at least 3.5. For 679HB, Sustainability Studies 679HA.",
+"prereqText": "For 679HA, a University GPA of at least 3.0 and a GPA in sustainability studies of at least 3.5. For 679HB, Sustainability Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "SUS 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SUS 679HA",
+"subject": "SUS",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "For honors candidates in sustainability studies. Read selected works individually for one semester, followed in the second semester by the writing of an honors thesis. Participate in regular conferences with the faculty supervisor. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, a University GPA of at least 3.0 and a GPA in sustainability studies of at least 3.5. For 679HB, Sustainability Studies 679HA.",
+"prereqText": "For 679HA, a University GPA of at least 3.0 and a GPA in sustainability studies of at least 3.5. For 679HB, Sustainability Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "SUS 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SUS 679HB",
+"subject": "SUS",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "For honors candidates in sustainability studies. Read selected works individually for one semester, followed in the second semester by the writing of an honors thesis. Participate in regular conferences with the faculty supervisor. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679HA, a University GPA of at least 3.0 and a GPA in sustainability studies of at least 3.5. For 679HB, Sustainability Studies 679HA.",
+"prereqText": "For 679HA, a University GPA of at least 3.0 and a GPA in sustainability studies of at least 3.5. For 679HB, Sustainability Studies 679HA.",
+"prereq": {
+"type": "course",
+"id": "SUS 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SUS 379L",
+"subject": "SUS",
+"number": "379L",
+"title": "Directed Internships in Sustainability",
+"hours": 3.0,
+"division": "upper",
+"description": "Experience working in an appropriate government agency, non-governmental organization, or private business. Three lecture hours a week and a minimum of seventy hours of internship work for one semester. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+}
+]
+}

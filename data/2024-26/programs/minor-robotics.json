@@ -1,0 +1,68 @@
+{
+ "id": "2024-26/minor/robotics",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Robotics",
+ "college": "Engineering",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/engineering/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Robotics Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "RBT 350",
+    "title": "RBT 350",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/engineering/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 12.0,
+    "title": "One course from at least four different content areas:",
+    "filter": {
+     "courses": [
+      "M E 348E",
+      "M E 350R",
+      "M E 369P",
+      "C S 330F",
+      "ECE 445L",
+      "ECE 445M",
+      "ASE 479W",
+      "M E 364L",
+      "ASE 370C",
+      "ECE 362K",
+      "ASE 330M",
+      "M E 354M",
+      "M E 372J",
+      "C S 330F",
+      "C S 330F",
+      "M E 372J",
+      "ASE 479W",
+      "ECE 445L",
+      "ECE 445M",
+      "ECE 374N",
+      "C S 376",
+      "ECE 371P",
+      "C S 342",
+      "C S 343",
+      "C S 363M",
+      "COE 379L",
+      "ECE 460J",
+      "ECE 361E",
+      "ECE 374N",
+      "ECE 461P"
+     ],
+     "label": "One course from at least four different content areas:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/engineering/minor-and-certificate-programs/",
+     "quote": "One course from at least four different content areas:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

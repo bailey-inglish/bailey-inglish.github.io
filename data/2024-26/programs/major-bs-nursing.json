@@ -1,0 +1,448 @@
+{
+ "id": "2024-26/major/bs-nursing",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Bachelor of Science in Nursing",
+ "college": "Nursing",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/",
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "all",
+    "title": "Curriculum (from suggested course arrangement)",
+    "of": [
+     {
+      "type": "course",
+      "course": "RHE 306",
+      "title": "RHE 306",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "CH 301",
+      "title": "CH 301",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "SDS 302F",
+      "title": "SDS 302F",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "UGS 302",
+      "title": "UGS 302",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "BIO 311C",
+      "title": "BIO 311C",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "NTR 306",
+      "title": "NTR 306",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "PSY 301",
+      "title": "PSY 301",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 309",
+      "title": "N 309",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "anyN",
+      "n": 1,
+      "title": "E 316L",
+      "of": [
+       {
+        "type": "course",
+        "course": "E 316L",
+        "title": "E 316L",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+        }
+       },
+       {
+        "type": "course",
+        "course": "E 316M"
+       },
+       {
+        "type": "course",
+        "course": "E 316N"
+       },
+       {
+        "type": "course",
+        "course": "E 316P"
+       }
+      ],
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "GOV 310L",
+      "title": "GOV 310L",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "MBS 326M",
+      "title": "MBS 326M",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "INB 446L",
+      "title": "INB 446L",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "anyN",
+      "n": 1,
+      "title": "PSY 304",
+      "of": [
+       {
+        "type": "course",
+        "course": "PSY 304",
+        "title": "PSY 304",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+        }
+       },
+       {
+        "type": "course",
+        "course": "HDF 313"
+       },
+       {
+        "type": "course",
+        "course": "HDF 113L"
+       }
+      ],
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 310",
+      "title": "N 310",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 320",
+      "title": "N 320",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 224",
+      "title": "N 224",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 127P",
+      "title": "N 127P",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 321",
+      "title": "N 321",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "all",
+      "title": "INB 365S / INB 165U",
+      "of": [
+       {
+        "type": "course",
+        "course": "INB 365S"
+       },
+       {
+        "type": "course",
+        "course": "INB 165U"
+       }
+      ],
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "anyN",
+      "n": 1,
+      "title": "GOV 312L",
+      "of": [
+       {
+        "type": "course",
+        "course": "GOV 312L",
+        "title": "GOV 312L",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+        }
+       },
+       {
+        "type": "course",
+        "course": "GOV 312P"
+       }
+      ],
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 356",
+      "title": "N 356",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 256P",
+      "title": "N 256P",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 325",
+      "title": "N 325",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 325P",
+      "title": "N 325P",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 264",
+      "title": "N 264",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 244",
+      "title": "N 244",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 344P",
+      "title": "N 344P",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 255C",
+      "title": "N 255C",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 157P",
+      "title": "N 157P",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 223",
+      "title": "N 223",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 250",
+      "title": "N 250",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "PHM 338",
+      "title": "PHM 338",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 266",
+      "title": "N 266",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 366P",
+      "title": "N 366P",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 255D",
+      "title": "N 255D",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 355P",
+      "title": "N 355P",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 354",
+      "title": "N 354",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 273",
+      "title": "N 273",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 275",
+      "title": "N 275",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 375P",
+      "title": "N 375P",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 274",
+      "title": "N 274",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 377",
+      "title": "N 377",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 277P",
+      "title": "N 277P",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "N 279P",
+      "title": "N 279P",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+      }
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/nursing/degrees-and-programs/bs-nursing/"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BS",
+ "majorSubjects": [
+  "N"
+ ]
+}

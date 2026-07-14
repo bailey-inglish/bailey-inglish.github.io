@@ -1,0 +1,56 @@
+{
+ "id": "2024-26/minor/global-communication",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Global Communication",
+ "college": "Communication",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/communication/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Global Communication Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "CMS 367",
+    "minGrade": "C-",
+    "title": "CMS 367",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve hours of coursework selected from the list below:",
+    "filter": {
+     "courses": [
+      "ADV 334",
+      "CMS 314L",
+      "CMS 323R",
+      "CMS 334K",
+      "CMS 355K",
+      "CMS 356C",
+      "CMS 362D",
+      "CMS 372T",
+      "COM 323",
+      "J 340J",
+      "J 342G",
+      "J 346G",
+      "J 347F",
+      "J 354F",
+      "RTF 324C",
+      "RTF 342S"
+     ],
+     "label": "Twelve hours of coursework selected from the list below:"
+    },
+    "minGrade": "C-",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/minor-and-certificate-programs/",
+     "quote": "Twelve hours of coursework selected from the list below:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

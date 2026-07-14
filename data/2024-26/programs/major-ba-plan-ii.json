@@ -1,0 +1,426 @@
+{
+ "id": "2024-26/major/ba-plan-ii",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Plan II Honors Program",
+ "college": "Liberal Arts",
+ "degreeType": "BA (Plan II)",
+ "majorSubjects": [
+  "T C"
+ ],
+ "totalHours": 120,
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general"
+ ],
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/",
+ "notes": "Admission to Plan II is separate from admission to the University. Students must maintain a University GPA of at least 3.00 to remain in good standing; required Plan II courses demand a C- minimum.",
+ "rules": {
+  "type": "all",
+  "title": "Prescribed work",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 120,
+    "filter": {
+     "label": "Any coursework"
+    },
+    "umbrella": true,
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/",
+     "quote": "A degree program must include at least 120 semester hours, including at least 36 hours of upper-division coursework."
+    },
+    "title": "120 total hours"
+   },
+   {
+    "type": "hours",
+    "hours": 36,
+    "filter": {
+     "division": "upper",
+     "label": "Upper-division coursework"
+    },
+    "umbrella": true,
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/"
+    },
+    "title": "36 upper-division hours"
+   },
+   {
+    "type": "course",
+    "course": "T C 302",
+    "title": "First-year tutorial",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/",
+     "quote": "Tutorial Course 302"
+    },
+    "minGrade": "C-"
+   },
+   {
+    "type": "hours",
+    "hours": 6,
+    "filter": {
+     "courses": [
+      "T C 358"
+     ],
+     "label": "T C 358"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/",
+     "quote": "two semesters of Tutorial Course 358"
+    },
+    "title": "Two semesters of T C 358 (junior seminars)",
+    "minGrade": "C-"
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Senior thesis",
+    "of": [
+     {
+      "type": "all",
+      "title": "T C 660HA + 660HB",
+      "of": [
+       {
+        "type": "course",
+        "course": "T C 660HA",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "T C 660HB",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "course",
+      "course": "T C 359T",
+      "minGrade": "C-"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "World literature",
+    "of": [
+     {
+      "type": "all",
+      "title": "E 303C + 303D",
+      "of": [
+       {
+        "type": "course",
+        "course": "E 303C",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "E 303D",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "T C 303C + 303D",
+      "of": [
+       {
+        "type": "course",
+        "course": "T C 303C",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "T C 303D",
+        "minGrade": "C-"
+       }
+      ]
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Plan II philosophy (PHL 610Q)",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHL 610QA",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "PHL 610QB",
+      "minGrade": "C-"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/",
+     "quote": "Philosophy 610Q"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Honors social science",
+    "of": [
+     {
+      "type": "course",
+      "course": "S S 302C",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "S S 302D",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "S S 302E",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "S S 302F",
+      "minGrade": "C-"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/",
+     "quote": "Three hours of Honors Social Science"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Six semester hours of non-United States history in the same geographic area.",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/"
+    },
+    "title": "Non-US history (6 hours, same area)"
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Plan II mathematics",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 310P"
+     },
+     {
+      "type": "manual",
+      "text": "Substitutions do exist for some of the requirements outlined below; Plan II students should each meet with a Plan II academic advisor to discuss their individual academic plan.",
+      "title": "Approved calculus/math substitution"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/",
+     "quote": "Mathematics 310P"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Logic or modes of reasoning",
+    "of": [
+     {
+      "type": "course",
+      "course": "T C 310"
+     },
+     {
+      "type": "course",
+      "course": "PHL 313Q"
+     },
+     {
+      "type": "manual",
+      "text": "Approved substitution for the logic requirement (consult a Plan II advisor).",
+      "title": "Approved substitution"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Plan II science (18 hours)",
+    "of": [
+     {
+      "type": "hours",
+      "hours": 6,
+      "filter": {
+       "subjects": [
+        "AST",
+        "BIO",
+        "CH",
+        "GEO",
+        "PS",
+        "PHY"
+       ],
+       "label": "Astronomy, biology, chemistry, geology, physical science, or physics"
+      },
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/"
+      },
+      "title": "Six hours of natural science"
+     },
+     {
+      "type": "anyN",
+      "n": 1,
+      "title": "Plan II biology",
+      "of": [
+       {
+        "type": "course",
+        "course": "BIO 301E"
+       },
+       {
+        "type": "manual",
+        "text": "Approved substitution for Biology 301E (consult a Plan II advisor).",
+        "title": "Approved substitution"
+       }
+      ],
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/",
+       "quote": "Biology 301E"
+      }
+     },
+     {
+      "type": "anyN",
+      "n": 1,
+      "title": "Plan II physics",
+      "of": [
+       {
+        "type": "course",
+        "course": "PHY 321"
+       },
+       {
+        "type": "manual",
+        "text": "Physics 321 or an approved alternative natural science course as designated by Plan II.",
+        "title": "Approved alternative"
+       }
+      ],
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/"
+      }
+     },
+     {
+      "type": "hours",
+      "hours": 18,
+      "filter": {
+       "subjects": [
+        "AST",
+        "BIO",
+        "CH",
+        "GEO",
+        "PS",
+        "PHY",
+        "M",
+        "C S",
+        "SDS",
+        "MNS",
+        "NTR",
+        "STA"
+       ],
+       "label": "Math/science coursework"
+      },
+      "umbrella": true,
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/"
+      },
+      "title": "18 hours total in math/science fields"
+     }
+    ]
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Foreign language proficiency",
+    "of": [
+     {
+      "type": "hours",
+      "hours": 3,
+      "filter": {
+       "courses": [
+        "ASL 311D",
+        "ARA 611C",
+        "BEN 312L",
+        "CHI 612",
+        "CHI 312L",
+        "CZ 611C",
+        "CZ 412L",
+        "DAN 612",
+        "DCH 612",
+        "FR 611C",
+        "FR 412K",
+        "GER 612",
+        "GK 312K",
+        "GK 312L",
+        "GK 610C",
+        "GK 310K",
+        "HEB 612C",
+        "HEB 611C",
+        "HIN 312L",
+        "HIN 612",
+        "ITL 611C",
+        "JPN 611D",
+        "KOR 312L",
+        "LAL 611C",
+        "LAT 511K",
+        "MAL 312L",
+        "NOR 612",
+        "PRS 611C",
+        "PRS 612C",
+        "POL 611C",
+        "POL 312L",
+        "POR 611D",
+        "RUS 611C",
+        "RUS 412K",
+        "SAN 312L",
+        "S C 312L",
+        "SAL 312L",
+        "SEL 611C",
+        "SEL 312L",
+        "SPN 311",
+        "SPN 611D",
+        "SPN 311J",
+        "SWA 611C",
+        "SWE 612",
+        "TAM 312L",
+        "TEL 312L",
+        "TUR 611C",
+        "URD 312L",
+        "UKR 312L",
+        "YID 612",
+        "YOR 611C"
+       ],
+       "label": "Intermediate foreign-language course"
+      },
+      "title": "Intermediate language course"
+     },
+     {
+      "type": "manual",
+      "text": "Certified proficiency on a placement or credit-by-exam test.",
+      "title": "Certified proficiency by placement/exam"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/",
+     "quote": "Proficiency in a language other than English is required."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "An approved three-hour course in art history, music history, or history of theatre and dance; or a three-hour upper-division course in classical civilization, humanities, literature, or philosophy.",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-ii/"
+    },
+    "title": "Fine arts / humanities"
+   }
+  ]
+ }
+}

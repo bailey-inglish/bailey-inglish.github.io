@@ -1,0 +1,891 @@
+{
+"code": "LAR",
+"name": "Landscape Architecture",
+"courses": [
+{
+"id": "LAR 312R",
+"subject": "LAR",
+"number": "312R",
+"title": "Topics in Introductory Landscape Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "Three lecture hours a week for one semester May be repeated for credit when the topics vary."
+},
+{
+"id": "LAR 341R",
+"subject": "LAR",
+"number": "341R",
+"title": "Topics in Visual Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore advanced topics in media and interpretation, such as freehand drawing, measured drawings, aspects of computer graphics, geographic information systems, and photography. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing or consent of instructor.",
+"prereqText": "Upper-division standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 342K",
+"subject": "LAR",
+"number": "342K",
+"title": "History and Theories of Landscape Architecture I",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Architecture 342E. Overview and chronological series of in-depth studies in the history of major garden cultures and designed landscapes of the Western and Eastern worlds. Introduction to methodological approaches to the formal, social, and cultural history of gardens and landscapes, as well as to relevant theoretical frameworks for interpreting these designed landscapes and for use in conceptualizing landscapes, architecture, and urban projects in studio design. Three lecture hours a week for one semester. Only one of the following may be counted: Landscape Architecture 342K, Architecture 342E, 368R (Topic: History and Theories of Landscape Architecture I) Prerequisite: Upper-division standing; for students in the School of Architecture, Architecture 318L with a grade of at least C; for others, consent of instructor.",
+"prereqText": "Upper-division standing; for students in the School of Architecture, Architecture 318L with a grade of at least C; for others, consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "ARC 318L",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"sameAs": "Architecture 342E"
+},
+{
+"id": "LAR 342L",
+"subject": "LAR",
+"number": "342L",
+"title": "History and Theories of Landscape Architecture II",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Architecture 342F. Continuation of Landscape Architecture 342K (and Architecture 342D) through the modern period to contemporary times. Formal and cultural history of gardens, parks, and public landscapes from 1700 to about 1990. Includes comparative material from the contemporary period, 1980 to 2010. Three lecture hours a week for one semester. Only one of the following may be counted: Landscape Architecture 342L; Architecture 342F or 368R (Topic: History and Theories of Landscape Architecture II). Prerequisite: Upper-division standing; for students in the School of Architecture, Architecture 318L with a grade of at least C; for others, consent of instructor.",
+"prereqText": "Upper-division standing; for students in the School of Architecture, Architecture 318L with a grade of at least C; for others, consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "ARC 318L",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"sameAs": "Architecture 342F"
+},
+{
+"id": "LAR 342R",
+"subject": "LAR",
+"number": "342R",
+"title": "Topics in Landscape Architectural History",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 345R",
+"subject": "LAR",
+"number": "345R",
+"title": "Topics in Landscape Technology and Site Engineering",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore current techniques and issues related to landscape technology and their influence and application in the built environment. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 346R",
+"subject": "LAR",
+"number": "346R",
+"title": "Topics in Landscape Architectural Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore advanced topics in landscape architecture and associated disciplines to encourage critical and theoretical thinking. Three lecture hours a week for one semester May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 347K",
+"subject": "LAR",
+"number": "347K",
+"title": "Living Systems Design I",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the interconnections between geological, biological, and social systems of the designed landscape. Explore subjects such as plant ecology, plant communities, soils, and plant identification. Three lecture hours a week for one semester. Prerequisite: Upper-division standing or consent of instructor.",
+"prereqText": "Upper-division standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 347L",
+"subject": "LAR",
+"number": "347L",
+"title": "Living Systems Design II",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the design of living systems for the urban environment including soils, paving, plants and best management practices. Explore subjects such as principles and processes of planting design, ecosystems service optimization, and landscapes on structure. Three lecture hours a week for one semester. Prerequisite: Upper-division standing or consent of instructor.",
+"prereqText": "Upper-division standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 347M",
+"subject": "LAR",
+"number": "347M",
+"title": "Living Systems Design III",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine emerging issues and contemporary debates related to the design and construction of living systems in the urban environment, including technical, ecological, and aesthetic considerations. Three lecture hours a week for one semester. Prerequisite: Upper-division standing or consent of instructor.",
+"prereqText": "Upper-division standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 347R",
+"subject": "LAR",
+"number": "347R",
+"title": "Topics in Natural Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore aspects of environmental analysis, ecological and systemic methods, landscape resilience, and applied methods particular to design of the built environment. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 380C",
+"subject": "LAR",
+"number": "380C",
+"title": "Foundation Design Studio",
+"hours": 3.0,
+"division": "graduate",
+"description": "An introduction to the fundamental components of landscape architecture and graphic communication. Twelve laboratory hours a week for one semester. Landscape Architecture 380 and 380C may not both be counted. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 180V",
+"subject": "LAR",
+"number": "180V",
+"title": "Topics in Digital Technology and Fabrication",
+"hours": 1.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate Standing.",
+"prereqText": "Graduate Standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 380V",
+"subject": "LAR",
+"number": "380V",
+"title": "Topics in Digital Technology and Fabrication",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate Standing.",
+"prereqText": "Graduate Standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 180W",
+"subject": "LAR",
+"number": "180W",
+"title": "Topics in Disaster Recovery",
+"hours": 1.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate Standing.",
+"prereqText": "Graduate Standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 380W",
+"subject": "LAR",
+"number": "380W",
+"title": "Topics in Disaster Recovery",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate Standing.",
+"prereqText": "Graduate Standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 381",
+"subject": "LAR",
+"number": "381",
+"title": "Visual Communication I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore methods of survey, recording, analysis, interpretation, and representation of landscape architecture. One-and-one-half lecture hours and three laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, Landscape Architecture 380C and 682, and credit or registration for Landscape Architecture 682T; or consent of the graduate advisor.",
+"prereqText": "Graduate standing, Landscape Architecture 380C and 682, and credit or registration for Landscape Architecture 682T; or consent of the graduate advisor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 381D",
+"subject": "LAR",
+"number": "381D",
+"title": "Architectural Drawing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Visual communication in such media as freehand drawing, modeling, photography, and measured drawings. Five laboratory hours a week for one semester. Only one of the following may be counted: Architecture 386M (Topic: Architectural Drawing), Architectural Interior Design 381R (Topic: Architectural Drawing), and Landscape Architecture 381D. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 381R",
+"subject": "LAR",
+"number": "381R",
+"title": "Topics in Visual Communication",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics in representation and analysis, such as freehand drawing , digital drawing, digital modeling, measured drawings, computer graphics, geographic information systems, and photography. One-and-one-half lecture hours and three laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 381S",
+"subject": "LAR",
+"number": "381S",
+"title": "Advanced Topics in Visual Communication",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore advanced topics in landscape architectural representation and analysis. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 682",
+"subject": "LAR",
+"number": "682",
+"title": "Design and Visual Studies in Landscape Architecture I",
+"hours": 6.0,
+"division": "graduate",
+"description": "Explore initial studies in design thinking; an introduction to design materials and methods; spatial typologies; and investigations in shaping terrain. Twelve laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 380C with a grade of at least C; concurrent registration for Landscape Architecture 682 and 388K; credit or registration for Landscape Architecture 385K and 387K; and consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 380C with a grade of at least C; concurrent registration for Landscape Architecture 682 and 388K; credit or registration for Landscape Architecture 385K and 387K; and consent of the graduate advisor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 682A",
+"subject": "LAR",
+"number": "682A",
+"title": "Design and Visual Studies in Landscape Architecture I",
+"hours": 6.0,
+"division": "graduate",
+"description": "Explore initial studies in design thinking; an introduction to design materials and methods; spatial typologies; and investigations in shaping terrain. Twelve laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 380C with a grade of at least C; concurrent registration for Landscape Architecture 682 and 388K; credit or registration for Landscape Architecture 385K and 387K; and consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 380C with a grade of at least C; concurrent registration for Landscape Architecture 682 and 388K; credit or registration for Landscape Architecture 385K and 387K; and consent of the graduate advisor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 682B",
+"subject": "LAR",
+"number": "682B",
+"title": "Design and Visual Studies in Landscape Architecture I",
+"hours": 6.0,
+"division": "graduate",
+"description": "Explore initial studies in design thinking; an introduction to design materials and methods; spatial typologies; and investigations in shaping terrain. Twelve laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 380C with a grade of at least C; concurrent registration for Landscape Architecture 682 and 388K; credit or registration for Landscape Architecture 385K and 387K; and consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 380C with a grade of at least C; concurrent registration for Landscape Architecture 682 and 388K; credit or registration for Landscape Architecture 385K and 387K; and consent of the graduate advisor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 682T",
+"subject": "LAR",
+"number": "682T",
+"title": "Landscape Architecture Design Studio II",
+"hours": 6.0,
+"division": "graduate",
+"description": "Design problems engaging principles of site planning combining site research analysis and composition to comprehend, critique, and respond to change of the physical, biological and social context. Twelve laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 682 with a grade of at least B-; credit or registration for Landscape Architecture 381, 385K, 385M, 388K, 388L; and consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 682 with a grade of at least B-; credit or registration for Landscape Architecture 381, 385K, 385M, 388K, 388L; and consent of the graduate advisor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 682TA",
+"subject": "LAR",
+"number": "682TA",
+"title": "Landscape Architecture Design Studio II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Design problems engaging principles of site planning combining site research analysis and composition to comprehend, critique, and respond to change of the physical, biological and social context. Twelve laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 682 with a grade of at least B-; credit or registration for Landscape Architecture 381, 385K, 385M, 388K, 388L; and consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 682 with a grade of at least B-; credit or registration for Landscape Architecture 381, 385K, 385M, 388K, 388L; and consent of the graduate advisor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 682TB",
+"subject": "LAR",
+"number": "682TB",
+"title": "Landscape Architecture Design Studio II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Design problems engaging principles of site planning combining site research analysis and composition to comprehend, critique, and respond to change of the physical, biological and social context. Twelve laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 682 with a grade of at least B-; credit or registration for Landscape Architecture 381, 385K, 385M, 388K, 388L; and consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 682 with a grade of at least B-; credit or registration for Landscape Architecture 381, 385K, 385M, 388K, 388L; and consent of the graduate advisor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 383",
+"subject": "LAR",
+"number": "383",
+"title": "Landscape Architecture Design Studio I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Methods of survey, recording, interpretation, and representation of landscape. An introduction to design through examination of object, space, relationship, movement, the human condition, materiality, and ecology. Twelve laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 384",
+"subject": "LAR",
+"number": "384",
+"title": "Topics in Horticulture and Plants in Design",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of habitat, site and technical conditions, and characteristics of plant typologies and their application to landscape practice. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 385",
+"subject": "LAR",
+"number": "385",
+"title": "Topics in Natural Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Elective seminars in aspects of environmental analysis, ecological and systemic approaches, sustainable development, and applied methods of geographic information systems. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 385K",
+"subject": "LAR",
+"number": "385K",
+"title": "Technology Workshop I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduces the principles, processes, and practices of site manipulation, description, and construction techniques. Includes systems of measurement, grading, earthwork, site circulation, and site drainage, and examines the representation, application, and integration of site-related operations. One lecture hour and three-and-one-half laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 385L",
+"subject": "LAR",
+"number": "385L",
+"title": "Technology Workshop II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Materials and methods of landscape construction, advanced site work techniques, and theories for material selection and application within the design process. Examines the representation, application, and integration of detail and design intent. One lecture hour and three-and-one-half laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 358K, 682, 682T, and 694T with a grade of at least B-; and concurrent registration for Landscape Architecture 695; or consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 358K, 682, 682T, and 694T with a grade of at least B-; and concurrent registration for Landscape Architecture 695; or consent of the graduate advisor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "LAR 358K"
+},
+{
+"type": "course",
+"id": "LAR 682"
+},
+{
+"type": "course",
+"id": "LAR 682T"
+},
+{
+"type": "course",
+"id": "LAR 694T",
+"minGrade": "B-"
+},
+{
+"type": "course",
+"id": "LAR 695"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 385M",
+"subject": "LAR",
+"number": "385M",
+"title": "Design Methods",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examines methods of analysis and composition for landscape architecture and urban design. Readings, lectures, and discussions are applied to on-site assignments. Subjects include spatial, social, and ecological factors and their interactions. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 385K, 387K, and 388K with a grade of at least C; credit or registration for Landscape Architecture 682T; and consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 385K, 387K, and 388K with a grade of at least C; credit or registration for Landscape Architecture 682T; and consent of the graduate advisor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 386",
+"subject": "LAR",
+"number": "386",
+"title": "Professional Practice",
+"hours": 3.0,
+"division": "graduate",
+"description": "Ethical, legal, economic, and administrative processes and responsibilities of the landscape architect practitioner. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 387",
+"subject": "LAR",
+"number": "387",
+"title": "Landscape Ecology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to foundational concepts in landscape ecology, with emphasis on structure, function, and change of ecological systems. Addresses design and planning in relation to biological and cultural resources. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 387K",
+"subject": "LAR",
+"number": "387K",
+"title": "Living Systems Design I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine the inter-connections between geological, biological, and social systems of the designed landscape. Cover subjects such as plant ecology, plant communities, soils, and plant identification. One lecture and three-and-one-half laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 387L",
+"subject": "LAR",
+"number": "387L",
+"title": "Living Systems Design II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine the design of living systems for the urban environment including soils, paving, plants and best management practices. Explore subjects such as principles and processes of planting design, ecosystems service optimization, and landscapes on structure. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing, Landscape Architecture 387K, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Landscape Architecture 387K, and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "LAR 387K"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 387M",
+"subject": "LAR",
+"number": "387M",
+"title": "Living Systems Design III",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine emerging issues and contemporary debates related to the design and construction of living systems in the urban environment, including technical, ecological, and aesthetic considerations. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Landscape Architecture 387L, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Landscape Architecture 387L, and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "LAR 387L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAR 388",
+"subject": "LAR",
+"number": "388",
+"title": "Topics in Landscape Architecture History and Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Seminars on advanced topics in history and theory, including analysis, readings, and critique of significant positions, practice, and discourse. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and Landscape Architecture 388L or consent of the graduate adviser.",
+"prereqText": "Graduate standing, and Landscape Architecture 388L or consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "LAR 388L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAR 388K",
+"subject": "LAR",
+"number": "388K",
+"title": "History and Theories of Landscape Architecture I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Landscape architecture in formal, social, and cultural terms in the Western and Eastern worlds. Covers the development of ideas and principles related to context, designer, and text. Three lecture hours a week for one semester. Prerequisite: Graduate standing, concurrent registration for Landscape Architecture 682 and 388K, and consent of the graduate advisor.",
+"prereqText": "Graduate standing, concurrent registration for Landscape Architecture 682 and 388K, and consent of the graduate advisor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "LAR 682"
+},
+{
+"type": "course",
+"id": "LAR 388K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAR 388L",
+"subject": "LAR",
+"number": "388L",
+"title": "History and Theories of Landscape Architecture II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Landscape architecture from 1700 to the present, with a focus on design language, theoretical frameworks, and the critical components of contemporary landscape design and thought. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Landscape Architecture 388K with a grade of at least C, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Landscape Architecture 388K with a grade of at least C, and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "LAR 388K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAR 389",
+"subject": "LAR",
+"number": "389",
+"title": "Research in Landscape Architecture",
+"hours": 3.0,
+"division": "graduate",
+"description": "Investigation of subjects in landscape architecture selected by the student with approval of the Graduate Studies Committee. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Prerequisite: Graduate standing, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereqText": "Graduate standing, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 689",
+"subject": "LAR",
+"number": "689",
+"title": "Research in Landscape Architecture",
+"hours": 6.0,
+"division": "graduate",
+"description": "Investigation of subjects in landscape architecture selected by the student with approval of the Graduate Studies Committee. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Prerequisite: Graduate standing, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereqText": "Graduate standing, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 689A",
+"subject": "LAR",
+"number": "689A",
+"title": "Research in Landscape Architecture",
+"hours": 6.0,
+"division": "graduate",
+"description": "Investigation of subjects in landscape architecture selected by the student with approval of the Graduate Studies Committee. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Prerequisite: Graduate standing, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereqText": "Graduate standing, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 689B",
+"subject": "LAR",
+"number": "689B",
+"title": "Research in Landscape Architecture",
+"hours": 6.0,
+"division": "graduate",
+"description": "Investigation of subjects in landscape architecture selected by the student with approval of the Graduate Studies Committee. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Prerequisite: Graduate standing, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereqText": "Graduate standing, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 694T",
+"subject": "LAR",
+"number": "694T",
+"title": "Landscape Architecture Design Studio III",
+"hours": 6.0,
+"division": "graduate",
+"description": "Design problems that engage issues, theories, and methods central to the planning and design of large landscape architectural projects, including the landscape's role in urban form and city-making. Twelve laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 682T with a grade of at least B-; credit or registration for Landscape Architecture 387L; consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 682T with a grade of at least B-; credit or registration for Landscape Architecture 387L; consent of the graduate advisor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "LAR 682T",
+"minGrade": "B-"
+},
+{
+"type": "course",
+"id": "LAR 387L"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 694TA",
+"subject": "LAR",
+"number": "694TA",
+"title": "Landscape Architecture Design Studio III",
+"hours": 3.0,
+"division": "graduate",
+"description": "Design problems that engage issues, theories, and methods central to the planning and design of large landscape architectural projects, including the landscape's role in urban form and city-making. Twelve laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 682T with a grade of at least B-; credit or registration for Landscape Architecture 387L; consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 682T with a grade of at least B-; credit or registration for Landscape Architecture 387L; consent of the graduate advisor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "LAR 682T",
+"minGrade": "B-"
+},
+{
+"type": "course",
+"id": "LAR 387L"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 694TB",
+"subject": "LAR",
+"number": "694TB",
+"title": "Landscape Architecture Design Studio III",
+"hours": 3.0,
+"division": "graduate",
+"description": "Design problems that engage issues, theories, and methods central to the planning and design of large landscape architectural projects, including the landscape's role in urban form and city-making. Twelve laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 682T with a grade of at least B-; credit or registration for Landscape Architecture 387L; consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 682T with a grade of at least B-; credit or registration for Landscape Architecture 387L; consent of the graduate advisor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "LAR 682T",
+"minGrade": "B-"
+},
+{
+"type": "course",
+"id": "LAR 387L"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 695",
+"subject": "LAR",
+"number": "695",
+"title": "Landscape Architecture Design Studio IV",
+"hours": 6.0,
+"division": "graduate",
+"description": "Explore comprehensive synthesis of the core professional courses emphasizing the resolution and implementation of multiple interrelated objectives resulting in the technical resolution of a landscape architectural project. Twelve laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 682T, 385K, 387K, 387L, and 694T with a grade of at least B-; concurrent registration for Landscape Architecture 385L; and consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 682T, 385K, 387K, 387L, and 694T with a grade of at least B-; concurrent registration for Landscape Architecture 385L; and consent of the graduate advisor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 695A",
+"subject": "LAR",
+"number": "695A",
+"title": "Landscape Architecture Design Studio IV",
+"hours": 6.0,
+"division": "graduate",
+"description": "Explore comprehensive synthesis of the core professional courses emphasizing the resolution and implementation of multiple interrelated objectives resulting in the technical resolution of a landscape architectural project. Twelve laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 682T, 385K, 387K, 387L, and 694T with a grade of at least B-; concurrent registration for Landscape Architecture 385L; and consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 682T, 385K, 387K, 387L, and 694T with a grade of at least B-; concurrent registration for Landscape Architecture 385L; and consent of the graduate advisor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 695B",
+"subject": "LAR",
+"number": "695B",
+"title": "Landscape Architecture Design Studio IV",
+"hours": 6.0,
+"division": "graduate",
+"description": "Explore comprehensive synthesis of the core professional courses emphasizing the resolution and implementation of multiple interrelated objectives resulting in the technical resolution of a landscape architectural project. Twelve laboratory hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing; Landscape Architecture 682T, 385K, 387K, 387L, and 694T with a grade of at least B-; concurrent registration for Landscape Architecture 385L; and consent of the graduate advisor.",
+"prereqText": "Graduate standing; Landscape Architecture 682T, 385K, 387K, 387L, and 694T with a grade of at least B-; concurrent registration for Landscape Architecture 385L; and consent of the graduate advisor.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 395D",
+"subject": "LAR",
+"number": "395D",
+"title": "Frank Lloyd Wright: Design, Method, Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Architectural Interior Design 395D and Architecture 395D. Comprehensive study of Frank Lloyd Wright's life and work with emphasis on the analyses of his concepts of organic architecture, design methods, and theories. Three lecture hours a week for one semester. Only one of the following may be counted: Architecture 388R (Topic: Frank Lloyd Wright: Design, Method, Theory), 395D, Architectural Interior Design 388R (Topic: Frank Lloyd Wright: Design, Method, Theory), 395D, Landscape Architecture 388 (Topic: Frank Lloyd Wright), 395D. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"sameAs": "Architectural Interior Design 395D and Architecture 395D",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 395G",
+"subject": "LAR",
+"number": "395G",
+"title": "The American Home: Identity, Process, and Marketing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Architectural Interior Design 395G and Architecture 395G. An examination of how American housing is conceived, developed, and marketed, as well as relationships between home buyers and builders. Three lecture hours a week for one semester. Only one of the following may be counted: Architecture 388R (Topic: American Home), 395G, Architectural Interior Design 388R (Topic: American Home), 395G, Landscape Architecture 388 (Topic: American Home), 395G. Offered on the letter-grade basis only. Prerequisite: For students in the School of Architecture, graduate standing; for others, graduate standing and consent of instructor.",
+"prereqText": "For students in the School of Architecture, graduate standing; for others, graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"sameAs": "Architectural Interior Design 395G and Architecture 395G",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAR 395J",
+"subject": "LAR",
+"number": "395J",
+"title": "Originality & Tradition in Baroque Rome: Borromini",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Architecture 395J. Explores the synthetic act of design and notions of originality and tradition in the arts of Baroque Rome by studying Francesco Borromini and his work through the lenses of professional design practice, the arts, contemporary Galilean science, and papal society. Three lecture hours a week for one semester. Only one of the following may be counted: Architecture 388R (Topic: Professional Design Practice: Baroque Rome), 395J, Landscape Architecture 388 (Topic: Professional Design Practice: Baroque Rome), 395J. Prerequisite: For students in the School of Architecture, graduate standing; for others, graduate standing and consent of instructor.",
+"prereqText": "For students in the School of Architecture, graduate standing; for others, graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"sameAs": "Architecture 395J"
+},
+{
+"id": "LAR 395K",
+"subject": "LAR",
+"number": "395K",
+"title": "Representing Landscape and Architecture, 1500-2015",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as Architecture 395K. Explores the roles of visual representation in design and professional practice from Leonardo da Vinci to the digital age. An overview of the history of techniques, media, and conventions of representation in architecture and landscape architecture and in their intersections. Includes some drawing and painting. Three lecture hours a week for one semester. Only one of the following may be counted: Architecture 388R (Topic: Representing Landscape and Architecture, 1500-2015), 395K, Landscape Architecture 388 (Topic: Representing Landscape and Architecture, 1500-2015), 395K. Prerequisite: For students in the School of Architecture, graduate standing; for others, graduate standing and consent of instructor.",
+"prereqText": "For students in the School of Architecture, graduate standing; for others, graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"sameAs": "Architecture 395K"
+},
+{
+"id": "LAR 696",
+"subject": "LAR",
+"number": "696",
+"title": "Advanced Design",
+"hours": 6.0,
+"division": "graduate",
+"description": "Elective studios offering students an opportunity to explore particular topics in landscape, often in collaboration with architecture and community and regional planning students. Fifteen laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, Landscape Architecture 695 with a grade of at least C, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Landscape Architecture 695 with a grade of at least C, and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "LAR 695",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAR 696A",
+"subject": "LAR",
+"number": "696A",
+"title": "Advanced Design",
+"hours": 6.0,
+"division": "graduate",
+"description": "Elective studios offering students an opportunity to explore particular topics in landscape, often in collaboration with architecture and community and regional planning students. Fifteen laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, Landscape Architecture 695 with a grade of at least C, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Landscape Architecture 695 with a grade of at least C, and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "LAR 695",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAR 696B",
+"subject": "LAR",
+"number": "696B",
+"title": "Advanced Design",
+"hours": 6.0,
+"division": "graduate",
+"description": "Elective studios offering students an opportunity to explore particular topics in landscape, often in collaboration with architecture and community and regional planning students. Fifteen laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, Landscape Architecture 695 with a grade of at least C, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Landscape Architecture 695 with a grade of at least C, and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "LAR 695",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAR 397",
+"subject": "LAR",
+"number": "397",
+"title": "Master's Design Study in Landscape Architecture-Preparation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Investigation of subjects in landscape architecture selected by the student in preparation for Landscape Architecture 697K. The equivalent of three lecture hours a week for one semester. Prerequisite: Graduate standing, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereqText": "Graduate standing, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAR 697K",
+"subject": "LAR",
+"number": "697K",
+"title": "Master's Design Study in Landscape Architecture",
+"hours": 6.0,
+"division": "graduate",
+"description": "An independent design project in which the investigation, design process, and critical evaluation are formulated by the student. The project must have a theoretical and research base, provide a comprehensive exploration of a landscape design topic, and offer insight for the furthering of landscape studies. Eighteen laboratory hours a week for one semester. Prerequisite: Graduate standing, Landscape Architecture 696 and 397, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereqText": "Graduate standing, Landscape Architecture 696 and 397, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "LAR 696"
+},
+{
+"type": "course",
+"id": "LAR 397"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAR 697KA",
+"subject": "LAR",
+"number": "697KA",
+"title": "Master's Design Study in Landscape Architecture",
+"hours": 3.0,
+"division": "graduate",
+"description": "An independent design project in which the investigation, design process, and critical evaluation are formulated by the student. The project must have a theoretical and research base, provide a comprehensive exploration of a landscape design topic, and offer insight for the furthering of landscape studies. Eighteen laboratory hours a week for one semester. Prerequisite: Graduate standing, Landscape Architecture 696 and 397, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereqText": "Graduate standing, Landscape Architecture 696 and 397, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "LAR 696"
+},
+{
+"type": "course",
+"id": "LAR 397"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAR 697KB",
+"subject": "LAR",
+"number": "697KB",
+"title": "Master's Design Study in Landscape Architecture",
+"hours": 3.0,
+"division": "graduate",
+"description": "An independent design project in which the investigation, design process, and critical evaluation are formulated by the student. The project must have a theoretical and research base, provide a comprehensive exploration of a landscape design topic, and offer insight for the furthering of landscape studies. Eighteen laboratory hours a week for one semester. Prerequisite: Graduate standing, Landscape Architecture 696 and 397, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereqText": "Graduate standing, Landscape Architecture 696 and 397, consent of the graduate adviser, cumulative GPA of 3.8, and application approval from the LAR Graduate Studies Committee.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "LAR 696"
+},
+{
+"type": "course",
+"id": "LAR 397"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAR 197L",
+"subject": "LAR",
+"number": "197L",
+"title": "Landscape Architecture Practicum",
+"hours": 1.0,
+"division": "graduate",
+"description": "Restricted to students enrolled in the Master of Landscape Architecture First Professional Degree or Master of Landscape Architecture Post-Professional Degree programs. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional hours to be arranged. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students enrolled in the Master of Landscape Architecture First Professional Degree or Master of Landscape Architecture Post-Professional Degree programs.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAR 397L",
+"subject": "LAR",
+"number": "397L",
+"title": "Landscape Architecture Practicum",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students enrolled in the Master of Landscape Architecture First Professional Degree or Master of Landscape Architecture Post-Professional Degree programs. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional hours to be arranged. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students enrolled in the Master of Landscape Architecture First Professional Degree or Master of Landscape Architecture Post-Professional Degree programs.",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

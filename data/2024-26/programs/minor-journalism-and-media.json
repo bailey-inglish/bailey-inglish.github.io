@@ -1,0 +1,62 @@
+{
+ "id": "2024-26/minor/journalism-and-media",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Journalism and Media",
+ "college": "Communication",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/communication/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Journalism and Media Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "J 301F",
+    "title": "J 301F",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "J 302F",
+    "of": [
+     {
+      "type": "course",
+      "course": "J 302F",
+      "title": "J 302F",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/communication/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "J 313P"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine additional hours from the following (at least 6 hours must be upper-divisio",
+    "filter": {
+     "courses": [
+      "J 308D",
+      "J 308F"
+     ],
+     "label": "Nine additional hours from the following (at least 6 hours must be upper-divisio"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/minor-and-certificate-programs/",
+     "quote": "Nine additional hours from the following (at least 6 hours must be upper-division):"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

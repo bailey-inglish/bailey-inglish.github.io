@@ -1,0 +1,1786 @@
+{
+"code": "ECO",
+"name": "Economics",
+"courses": [
+{
+"id": "ECO 301",
+"subject": "ECO",
+"number": "301",
+"title": "Introduction to Economics",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to the structure and functioning of the aggregate economy and specific markets, including the labor market, housing market, and financial markets. Basic concepts of market regulation and monetary and fiscal policy. Concepts used in the social and behavioral sciences for measuring and interpreting economic data. Three lecture hours a week for one semester. May not be counted toward a major in economics.",
+"excluded": "a major in economics"
+},
+{
+"id": "ECO 101S",
+"subject": "ECO",
+"number": "101S",
+"title": "Professional Development and Career Planning",
+"hours": 1.0,
+"division": "lower",
+"description": "Restricted to economics majors. Discuss issues surrounding career planning implementation and evaluation in order to establish a job search, including resumes, networking, and interviewing techniques. Focus on career management as a lifelong process. One lecture hour a week for one semester. Only one of the following may be counted: Economics 101S, Liberal Arts 101M, Liberal Arts Honors 104H. Offered on the letter-grade basis only.",
+"restricted": "Restricted to economics majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ECO 304K",
+"subject": "ECO",
+"number": "304K",
+"title": "Introduction to Microeconomics",
+"hours": 3.0,
+"division": "lower",
+"description": "Analysis of the economic behavior of individual consumers, firms, and workers. Demand, supply, and market equilibrium. Impact of taxes, externalities, and market power on equilibrium. Three lecture hours a week for one semester, with additional hours to be arranged.",
+"tccn": "ECON 2302"
+},
+{
+"id": "ECO 304L",
+"subject": "ECO",
+"number": "304L",
+"title": "Introduction to Macroeconomics",
+"hours": 3.0,
+"division": "lower",
+"description": "Analysis of the economy as a whole. Measurement of output, the price level, and employment. Basic theories of the determination of Gross domestic product, investment and growth, and inflation. Introduction to fiscal policy and monetary policy. Three lecture hours a week for one semester, with additional hours to be arranged. Prerequisite: Economics 304K with a grade of at least C-.",
+"tccn": "ECON 2301",
+"prereqText": "Economics 304K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "ECO 304K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 105",
+"subject": "ECO",
+"number": "105",
+"title": "Introductory Topics in Economics",
+"hours": 1.0,
+"division": "lower",
+"description": "Restricted to students in the College of Liberal Arts. Explore topics covering computational and analytic methods and software platforms that are commonly used by economists. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary.",
+"restricted": "Restricted to students in the College of Liberal Arts."
+},
+{
+"id": "ECO 205",
+"subject": "ECO",
+"number": "205",
+"title": "Introductory Topics in Economics",
+"hours": 2.0,
+"division": "lower",
+"description": "Restricted to students in the College of Liberal Arts. Explore topics covering computational and analytic methods and software platforms that are commonly used by economists. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary.",
+"restricted": "Restricted to students in the College of Liberal Arts."
+},
+{
+"id": "ECO 305",
+"subject": "ECO",
+"number": "305",
+"title": "Introductory Topics in Economics",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the College of Liberal Arts. Explore topics covering computational and analytic methods and software platforms that are commonly used by economists. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary.",
+"restricted": "Restricted to students in the College of Liberal Arts."
+},
+{
+"id": "ECO 318Q",
+"subject": "ECO",
+"number": "318Q",
+"title": "Supervised Research",
+"hours": 3.0,
+"division": "lower",
+"description": "Individual instruction. May be repeated once for credit when the research topics vary. Prerequisite: Economics 304K and 304L with a grade of at least C- in each.",
+"prereqText": "Economics 304K and 304L with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ECO 304K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "ECO 304L",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 119S",
+"subject": "ECO",
+"number": "119S",
+"title": "Topics in Economics",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 219S",
+"subject": "ECO",
+"number": "219S",
+"title": "Topics in Economics",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 319S",
+"subject": "ECO",
+"number": "319S",
+"title": "Topics in Economics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 419S",
+"subject": "ECO",
+"number": "419S",
+"title": "Topics in Economics",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 519S",
+"subject": "ECO",
+"number": "519S",
+"title": "Topics in Economics",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 619S",
+"subject": "ECO",
+"number": "619S",
+"title": "Topics in Economics",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 719S",
+"subject": "ECO",
+"number": "719S",
+"title": "Topics in Economics",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 819S",
+"subject": "ECO",
+"number": "819S",
+"title": "Topics in Economics",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 919S",
+"subject": "ECO",
+"number": "919S",
+"title": "Topics in Economics",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 619SA",
+"subject": "ECO",
+"number": "619SA",
+"title": "Topics in Economics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 619SB",
+"subject": "ECO",
+"number": "619SB",
+"title": "Topics in Economics",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 420K",
+"subject": "ECO",
+"number": "420K",
+"title": "Microeconomic Theory",
+"hours": 4.0,
+"division": "upper",
+"description": "Economic theory of the behavior of individuals, households, firms, and markets. Roles of relative prices and information, with a focus on constrained optimization. Four lecture hours a week for one semester. Only one of the following may be counted: Finance 321K, Economics 420K, 420S, 421K. Prerequisite: Economics 304K and 304L with a grade of at least a C- in each; Mathematics 408Q, or Mathematics 408K and 408L, or 408C and 408D, or 408C and 408L, or 408N and 408S, or 408K and 408S, or 408C and 408S, or 408L and 408R, or 408R and 408S, or 408L and 408N, with a grade of at least C- in each; Economics 329 or Biomedical Engineering 335 or Chemical Engineering 253K or Electrical Engineering 351K or Mathematics 358K or 378K or Mechanical Engineering 335 or Statistics and Data Sciences 378 with a grade of at least C.",
+"prereqText": "Economics 304K and 304L with a grade of at least a C- in each; Mathematics 408Q, or Mathematics 408K and 408L, or 408C and 408D, or 408C and 408L, or 408N and 408S, or 408K and 408S, or 408C and 408S, or 408L and 408R, or 408R and 408S, or 408L and 408N, with a grade of at least C- in each; Economics 329 or Biomedical Engineering 335 or Chemical Engineering 253K or Electrical Engineering 351K or Mathematics 358K or 378K or Mechanical Engineering 335 or Statistics and Data Sciences 378 with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 320L",
+"subject": "ECO",
+"number": "320L",
+"title": "Macroeconomic Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "Theories of the determination of output, employment, and the price level. Basic models of growth. Design of monetary and fiscal policies, and the mechanisms by which they affect the economy. Three lecture hours a week for one semester. Prerequisite: Economics 420K, 420S, or 421K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, or 421K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 420S",
+"subject": "ECO",
+"number": "420S",
+"title": "Mathematical Microeconomic Theory with Advanced Applications",
+"hours": 4.0,
+"division": "upper",
+"description": "Examine mathematical treatment of microeconomic theory with application to real world subjects. Explore mathematical methods used by economists and apply them to analyze consumer behavior, choice under uncertainty, theory of the firm, game theory and general equilibrium. Four lecture hours a week for one semester. Only one of the following may be counted: Economics 420K, 420S, 421K, Finance 321K. Prerequisite: Economics 304K and 304L with a grade of at least a C- in each; Economics 329 with a grade of at least C; and Mathematics 408C and 408D, or 408C and 408L, or 408C and 408S, or 408K and 408L, or 408K and 408S, or 408L and 408N, or 408L and 408Q, or 408L and 408R, or 408N and 408S, or 408Q and 408S, or 408R and 408S, with a grade of at least C- in each .",
+"prereqText": "Economics 304K and 304L with a grade of at least a C- in each; Economics 329 with a grade of at least C; and Mathematics 408C and 408D, or 408C and 408L, or 408C and 408S, or 408K and 408L, or 408K and 408S, or 408L and 408N, or 408L and 408Q, or 408L and 408R, or 408N and 408S, or 408Q and 408S, or 408R and 408S, with a grade of at least C- in each .",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 321",
+"subject": "ECO",
+"number": "321",
+"title": "Public Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of appropriate allocations of economic activity between government (federal, state, and local) and the private sector. The workings of social security, welfare, education, pollution control, deregulation, taxation; and proposals for reform. Three lecture hours a week for one semester. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 421K",
+"subject": "ECO",
+"number": "421K",
+"title": "Microeconomic Theory For Business",
+"hours": 4.0,
+"division": "upper",
+"description": "Restricted to business majors. May not count toward a major in economics. Microeconomic analysis and applications for business majors. Preferences, including behavioral factors. Consumer demand, industry supply, and market equilibrium. Decision-making under uncertainty. Information problems, moral hazard, and adverse selection. Game theory and behavioral game theory. Applications include insurance markets, financial markets, contracts, and strategic behavior in business settings. Four lecture hours a week for one semester. Only one of the following may be counted: Economics 420K, 420S, 421K, Finance 321K. Prerequisite: Economics 304K and 304L with a grade of at least C- in each; Economics 329 with a grade of at least C; Mathematics 408Q, or Mathematics 408K and 408L, or 408C and 408D, or 408C and 408L, or 408N and 408S, or 408K and 408S, or 408C and 408S, or 408L and 408R, or 408R and 408S, or 408L and 408N, with a grade of at least C- in each .",
+"prereqText": "Economics 304K and 304L with a grade of at least C- in each; Economics 329 with a grade of at least C; Mathematics 408Q, or Mathematics 408K and 408L, or 408C and 408D, or 408C and 408L, or 408N and 408S, or 408K and 408S, or 408C and 408S, or 408L and 408R, or 408R and 408S, or 408L and 408N, with a grade of at least C- in each .",
+"prereqConfidence": "low",
+"restricted": "Restricted to business majors."
+},
+{
+"id": "ECO 322",
+"subject": "ECO",
+"number": "322",
+"title": "Money and Banking",
+"hours": 3.0,
+"division": "upper",
+"description": "Theories of financial intermediation and the role played by money. Financial policy and monetary policy in theory and practice. Three lecture hours a week for one semester. Economics 322 and Finance 354 may not both be counted. Prerequisite: Economics 420K, 420S, 421K or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 323L",
+"subject": "ECO",
+"number": "323L",
+"title": "Political Economy",
+"hours": 3.0,
+"division": "upper",
+"description": "Economic issues in the political arena. Use of microeconomic tools to study issues associated with collective decision-making, including the role of government in a market economy, and the formulation and implementation of government policies. Three lecture hours a week for one semester. Economics 323L and 330T (Topic: Political Economy) may not both be counted. Prerequisite: One of the following with a grade of at least C-: Economics 301 or 304K.",
+"prereqText": "One of the following with a grade of at least C-: Economics 301 or 304K.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECO 301"
+},
+{
+"type": "course",
+"id": "ECO 304K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 324",
+"subject": "ECO",
+"number": "324",
+"title": "Introduction to Labor Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Labor markets in modern economies. Role of institutions and policies in shaping labor market outcomes for individuals and businesses. Three lecture hours a week for one semester. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 325K",
+"subject": "ECO",
+"number": "325K",
+"title": "Health Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Explores medical care as a commodity, demand for health and medical services, economic behavior of medical care providers, and the functioning of medical insurance markets. Government regulation and provision of health care and health insurance. Three lecture hours a week for one semester. Only one of the following may be counted: Economics 325K, 325L, 330T (Topic 1), 350K (Topic 9). Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 325L",
+"subject": "ECO",
+"number": "325L",
+"title": "Economics of Health",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the application of basic microeconomics to the study of health and issues arising in the provision of medical care. Examine the demand for and the supply of medical care. Discuss the roles of the private sector and government in the provision of medical insurance. Analyze the regulation of health care and health insurance. Three lecture hours a week for one semester. Only one of the following may be counted: Economics 325K, 325L, 330T (Topic: Health Economics), 330T (Topic 1), 350K (Topic: Health Economics), and 350K (Topic 9). Prerequisite: Economics 304K with a grade of at least C-.",
+"prereqText": "Economics 304K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "ECO 304K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 326L",
+"subject": "ECO",
+"number": "326L",
+"title": "Economics of Education",
+"hours": 3.0,
+"division": "upper",
+"description": "Applications of economic principles and empirical methods to education, including the concept of human capital, economic returns to education, the determinants and measurement of teacher impact, the roles of school inputs and factors outside of school, and the market for higher education. Methodology for evaluating education policy. Three lecture hours a week for one semester. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 327",
+"subject": "ECO",
+"number": "327",
+"title": "Comparative Economic Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Economic systems in theory and practice. Role of government and regulation. Three lecture hours a week for one semester. Prerequisite: Economics 304K and 304L with a grade of at least C- in each.",
+"prereqText": "Economics 304K and 304L with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ECO 304K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "ECO 304L",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 328",
+"subject": "ECO",
+"number": "328",
+"title": "Industrial Organization",
+"hours": 3.0,
+"division": "upper",
+"description": "Organization of industries and markets; competition, monopoly, and oligopoly. Introduction to antitrust policy, regulatory policy, and other alternatives. Three lecture hours a week for one semester. Prerequisite: Economics 420K or 420S with a grade of at least C-.",
+"prereqText": "Economics 420K or 420S with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECO 420K"
+},
+{
+"type": "course",
+"id": "ECO 420S",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 329",
+"subject": "ECO",
+"number": "329",
+"title": "Economic Statistics",
+"hours": 3.0,
+"division": "upper",
+"description": "Interpretation of economic data. Introduction to statistical models, estimation, and inference in economics. Three lecture hours a week for one semester. Prerequisite: Economics 304K and 304L with a grade of at least a C- in each; Mathematics 408Q, or Mathematics 408K and 408L, or 408C and 408D, or 408C and 408L, or 408N and 408S, or 408K and 408S, or 408C and 408S, or 408L and 408R, or 408R and 408S, or 408L and 408N, with a grade of at least C- in each.",
+"prereqText": "Economics 304K and 304L with a grade of at least a C- in each; Mathematics 408Q, or Mathematics 408K and 408L, or 408C and 408D, or 408C and 408L, or 408N and 408S, or 408K and 408S, or 408C and 408S, or 408L and 408R, or 408R and 408S, or 408L and 408N, with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 129S",
+"subject": "ECO",
+"number": "129S",
+"title": "Topics in Economics",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 229S",
+"subject": "ECO",
+"number": "229S",
+"title": "Topics in Economics",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 329S",
+"subject": "ECO",
+"number": "329S",
+"title": "Topics in Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 429S",
+"subject": "ECO",
+"number": "429S",
+"title": "Topics in Economics",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 529S",
+"subject": "ECO",
+"number": "529S",
+"title": "Topics in Economics",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 629S",
+"subject": "ECO",
+"number": "629S",
+"title": "Topics in Economics",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 729S",
+"subject": "ECO",
+"number": "729S",
+"title": "Topics in Economics",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 829S",
+"subject": "ECO",
+"number": "829S",
+"title": "Topics in Economics",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 929S",
+"subject": "ECO",
+"number": "929S",
+"title": "Topics in Economics",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 629SA",
+"subject": "ECO",
+"number": "629SA",
+"title": "Topics in Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 629SB",
+"subject": "ECO",
+"number": "629SB",
+"title": "Topics in Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Economics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ECO 330T",
+"subject": "ECO",
+"number": "330T",
+"title": "Topics in Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Open to nonmajors. Topics cover aspects of economic theory, applications, and policy. Three lecture hours a week for one semester. Economics 330T and 350K may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Prerequisite: Economics 304K with a grade of at least C-; additional prerequisites may vary with the topic.",
+"prereqText": "Economics 304K with a grade of at least C-; additional prerequisites may vary with the topic.",
+"prereq": {
+"type": "course",
+"id": "ECO 304K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 333K",
+"subject": "ECO",
+"number": "333K",
+"title": "Development Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Urban Studies 321D. Introduction to theories of economic development. Economic analysis of leading issues. Three lecture hours a week for one semester. Only one of the following may be counted: Economics 333K, Urban Studies 351 (Topic 4), 321D. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low",
+"sameAs": "Urban Studies 321D"
+},
+{
+"id": "ECO 333L",
+"subject": "ECO",
+"number": "333L",
+"title": "Development and Population",
+"hours": 3.0,
+"division": "upper",
+"description": "Microeconomics of economic development, population growth and the age structure of the population, and their impact on the environment. Three lecture hours per week for one semester. Economics 333L and 372M (Topic: Development and Population) may not both be counted. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 334K",
+"subject": "ECO",
+"number": "334K",
+"title": "Urban Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Urban Studies 322E. Economic analysis of urban areas, emphasizing current problems, such as spatial concentration of poverty, lack of access to jobs and financial services, and transportation systems. Examines the role of policy in addressing these problems. Three lecture hours a week for one semester. Only one of the following may be counted: Economics 334K, Urban Studies 322E, 351 (Topic 2). Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low",
+"sameAs": "Urban Studies 322E"
+},
+{
+"id": "ECO 334L",
+"subject": "ECO",
+"number": "334L",
+"title": "Regional Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Spatial aspects of economics, including concepts, theories, and policy applications. Three lecture hours a week for one semester. Economics 334L and Urban Studies 351 (Topic 3) may not both be counted. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 334M",
+"subject": "ECO",
+"number": "334M",
+"title": "Migration Economics and Policy",
+"hours": 3.0,
+"division": "upper",
+"description": "Immigration policy of the United States compared to that of other countries. Determinants of migration. Characteristics of migrants. Effects of migration on the country of origin and the receiving country. Unauthorized immigration to the United States. Three lecture hours a week for one semester. Economics 334M and 349K (Topic: Migration Economics and Policy) may not both be counted. Prerequisite: The following with a grade of at least C-: Economics 420K, 420S, 421K, or Finance 321K, and Economics 341K or 441K.",
+"prereqText": "The following with a grade of at least C-: Economics 420K, 420S, 421K, or Finance 321K, and Economics 341K or 441K.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 335K",
+"subject": "ECO",
+"number": "335K",
+"title": "Energy Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Economic analysis of the markets for resources that supply energy, including coal, oil, natural gas, and shale gas, and the market for electricity. Principles of valuation and optimal dynamic allocation of energy resources. Financial contracts and risk management in energy markets. Regulation of energy markets. Three lecture hours a week for one semester. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 336M",
+"subject": "ECO",
+"number": "336M",
+"title": "Economics of Auctions",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore auctions as a mechanism for allocating resources. Analyze bidders' strategic interactions using game theory. Investigate market rules designed to attain specific policy objectives. Utilize empirical methods to analyze auction data. Three lecture hours a week for one semester. Economics 336M and 350K (Topic: Economics of Auctions) may not both be counted. Prerequisite: Economics 420K or 420S with a grade of at least C-.",
+"prereqText": "Economics 420K or 420S with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECO 420K"
+},
+{
+"type": "course",
+"id": "ECO 420S",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 339K",
+"subject": "ECO",
+"number": "339K",
+"title": "International Trade and Investment",
+"hours": 3.0,
+"division": "upper",
+"description": "Theories explaining the location of production facilities and patterns in international trade. Implications of international trade for per capita income, growth, and inequality. Three lecture hours a week for one semester. Only one of the following may be counted: Economics 339K, European Studies 348 (Topic 2), International Business 320F, 350, 350S. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 339L",
+"subject": "ECO",
+"number": "339L",
+"title": "International Finance",
+"hours": 3.0,
+"division": "upper",
+"description": "Exchange rates and foreign exchange markets; reasons for financial globalization; open-economy macroeconomics; exchange rate regimes (fixed and floating exchange rates, currency boards, and currency areas such as the euro zone); central bank accumulation of foreign exchange reserves; and sovereign debt crises and currency crashes. Reasons for different exchange rate arrangements and other policies are explored. Three lecture hours a week for one semester. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-, and Economics 320L with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-, and Economics 320L with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 341K",
+"subject": "ECO",
+"number": "341K",
+"title": "Introduction to Econometrics",
+"hours": 3.0,
+"division": "upper",
+"description": "Parameter estimation and inference in regression models. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Prerequisite: Economics 304K and 304L with a grade of at least C-; a grade of at least C- or registration in Economics 420K, 420S, 421K, or Finance 321K; Mathematics 408Q, or Mathematics 408K and 408L, or 408C and 408D, or 408C and 408L, or 408N and 408S, or 408K and 408S, or 408C and 408S, or 408L and 408R, or 408R and 408S, or 408L and 408N with a grade of at least C- in each; Biomedical Engineering 335, Chemical Engineering 253K, Economics 329, Mathematics 378K, Mechanical Engineering 335, or Statistics and Data Sciences 378 with a grade of at least C-.",
+"prereqText": "Economics 304K and 304L with a grade of at least C-; a grade of at least C- or registration in Economics 420K, 420S, 421K, or Finance 321K; Mathematics 408Q, or Mathematics 408K and 408L, or 408C and 408D, or 408C and 408L, or 408N and 408S, or 408K and 408S, or 408C and 408S, or 408L and 408R, or 408R and 408S, or 408L and 408N with a grade of at least C- in each; Biomedical Engineering 335, Chemical Engineering 253K, Economics 329, Mathematics 378K, Mechanical Engineering 335, or Statistics and Data Sciences 378 with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 441K",
+"subject": "ECO",
+"number": "441K",
+"title": "Introduction to Econometrics",
+"hours": 4.0,
+"division": "upper",
+"description": "Parameter estimation and inference in regression models. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Prerequisite: Economics 304K and 304L with a grade of at least C-; a grade of at least C- or registration in Economics 420K, 420S, 421K, or Finance 321K; Mathematics 408Q, or Mathematics 408K and 408L, or 408C and 408D, or 408C and 408L, or 408N and 408S, or 408K and 408S, or 408C and 408S, or 408L and 408R, or 408R and 408S, or 408L and 408N with a grade of at least C- in each; Biomedical Engineering 335, Chemical Engineering 253K, Economics 329, Mathematics 378K, Mechanical Engineering 335, or Statistics and Data Sciences 378 with a grade of at least C-.",
+"prereqText": "Economics 304K and 304L with a grade of at least C-; a grade of at least C- or registration in Economics 420K, 420S, 421K, or Finance 321K; Mathematics 408Q, or Mathematics 408K and 408L, or 408C and 408D, or 408C and 408L, or 408N and 408S, or 408K and 408S, or 408C and 408S, or 408L and 408R, or 408R and 408S, or 408L and 408N with a grade of at least C- in each; Biomedical Engineering 335, Chemical Engineering 253K, Economics 329, Mathematics 378K, Mechanical Engineering 335, or Statistics and Data Sciences 378 with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 342L",
+"subject": "ECO",
+"number": "342L",
+"title": "Advanced Econometrics",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore advanced methods of causal inference and prediction. Three lecture hours a week for one semester. Economics 342L and 348K (Topic 1) may not both be counted. Prerequisite: Economics 420K or 420S, and 341K or 441K with a grade of at least C- in each.",
+"prereqText": "Economics 420K or 420S, and 341K or 441K with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 342M",
+"subject": "ECO",
+"number": "342M",
+"title": "Applied Econometrics and Data Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore advanced regression analysis, maximum likelihood, discrete choice models, nonparametric methods, causality, and regression discontinuity design. Evaluate the use of these techniques in applied research and apply them in a variety of data sets. Three lecture hours a week for one semester. Economics 342M and 348K (Topic: Applied Econometrics/Data) may not both be counted. Prerequisite: Economics 341K or 441K, and 420K or 420S with a grade of at least C-.",
+"prereqText": "Economics 341K or 441K, and 420K or 420S with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 348K",
+"subject": "ECO",
+"number": "348K",
+"title": "Advanced Topics in Econometrics",
+"hours": 3.0,
+"division": "upper",
+"description": "Topics in econometric modeling and estimation. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Economics 341K or 441K, and 420K or 420S with a grade of at least C- in each.",
+"prereqText": "Economics 341K or 441K, and 420K or 420S with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 350K",
+"subject": "ECO",
+"number": "350K",
+"title": "Advanced Topics in Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Topics in economic theory, and the application of theory to empirical models. Three lecture hours a week for one semester. Economics 330T and 350K may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Prerequisite: Economics 420K or 420S with a grade of at least C-; additional prerequisites may vary with the topic.",
+"prereqText": "Economics 420K or 420S with a grade of at least C-; additional prerequisites may vary with the topic.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECO 420K"
+},
+{
+"type": "course",
+"id": "ECO 420S",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 350L",
+"subject": "ECO",
+"number": "350L",
+"title": "Advanced Macroeconomics",
+"hours": 3.0,
+"division": "upper",
+"description": "Investigate advanced macroeconomic theory. Examine dynamic general equilibrium models, real business cycle theory, and macroeconomic models with a financial intermediary sector, financial crises, and monetary and fiscal policy. Three lecture hours a week for one semester. Economics 350K (Topic 5) and 350L may not both be counted. Prerequisite: Economics 320L and 420K or 420S with a grade of at least C-.",
+"prereqText": "Economics 320L and 420K or 420S with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 351K",
+"subject": "ECO",
+"number": "351K",
+"title": "Current Issues in Business Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Economic analysis of government regulation and policy and business responses. Three lecture hours a week for one semester. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 351M",
+"subject": "ECO",
+"number": "351M",
+"title": "Managerial Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Use of economic analysis and optimization as tools for improving managerial decision-making in business. Three lecture hours a week for one semester. Prerequisite: Economics 420K or 420S, and Economics 329 or Mathematics 362K, with a grade of at least C- in each.",
+"prereqText": "Economics 420K or 420S, and Economics 329 or Mathematics 362K, with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 351N",
+"subject": "ECO",
+"number": "351N",
+"title": "Economic Principles of Managerial Decisions",
+"hours": 3.0,
+"division": "upper",
+"description": "Use of economic concepts and models to make strategic business decisions (adverse selection, game theory, price discrimination, strategic commitment, barriers to entry, network effects). Economics of strategic responses to the legal environment (regulations, antitrust policies, intellectual property, fiduciary duty, liability). Three lecture hours a week for one semester. Only one of the following may be counted: Economics 350K (Topic: Economic Principles of Managerial Decisions), 351N, Finance 172 (Topic 10), 272 (Topic 10), 372 (Topic 10). Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 352K",
+"subject": "ECO",
+"number": "352K",
+"title": "Business Strategy",
+"hours": 3.0,
+"division": "upper",
+"description": "Economic analysis of business strategy, including introducing new products, vertically integrating, bundling goods, pricing, distribution, mergers, and product differentiation. Relevant aspects of antitrust law. Case studies of specific firms. Three lecture hours a week for one semester. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 352R",
+"subject": "ECO",
+"number": "352R",
+"title": "Economics of Entrepreneurship",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the application of economics to the practice of starting or expanding a business. Examine evaluation of the market; strategic decisions, including pricing, advertising, location, and deterring competitors; raising capital; and employee compensation. Three lecture hours a week for one semester. Economics 349K (Topic: Economics of Entrepreneurship) and 352R may not both be counted. Prerequisite: Economics 341K or 441K, and 420K or 420S with a grade of at least C- in each.",
+"prereqText": "Economics 341K or 441K, and 420K or 420S with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 353K",
+"subject": "ECO",
+"number": "353K",
+"title": "Antitrust Law and Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Economic analysis of antitrust law intended to deter firms from engaging in anti-competitive conduct that harms consumers, including mergers that impede competition, price-fixing, and anti-competitive practices by a dominant firm in an industry. Focus on various industries and select antitrust cases. Three lecture hours a week for one semester. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 353M",
+"subject": "ECO",
+"number": "353M",
+"title": "Empirical Public Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Use of data to evaluate public policy issues. Issues considered include the effect of having health insurance on health outcomes; the relationship between earning power and the type of college attended; charter schools and educational outcomes; the effect of an increase in the minimum wage on employment; and the welfare effects of bank bailouts. Three lecture hours a week for one semester. Only one of the following may be counted: Economics 353M, 361 (Topic: Empirical Public Economics), 361 (Topic 1) Prerequisite: The following with at least a grade of C-: Economics 420K, 420S, 421K or Finance 321K, and Economics 341K or 441K.",
+"prereqText": "The following with at least a grade of C-: Economics 420K, 420S, 421K or Finance 321K, and Economics 341K or 441K.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 354K",
+"subject": "ECO",
+"number": "354K",
+"title": "Introductory Game Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the formal study of interdependent decision making. Applications of game theory include pricing and advertising strategies, labor-management bargaining, and tariff negotiations. Three lecture hours a week for one semester. Prerequisite: Economics 329 and 420K, 420S, 421K, or Finance 321K with a grade of at least C- in each.",
+"prereqText": "Economics 329 and 420K, 420S, 421K, or Finance 321K with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 354M",
+"subject": "ECO",
+"number": "354M",
+"title": "Experimental Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine what economic theory has to say about economic choices and strategic interactions and what people actually do when faced with strategic decisions. Conduct experiments to either identify systematic deviations or confirm theoretical predictions. Explore how economic experiments are useful in reshaping economic thinking. Three lecture hours a week for one semester. Economics 330T (Topic: Experimental Economics) and 354M may not both be counted. Prerequisite: Economics 304K with a grade of at least C-.",
+"prereqText": "Economics 304K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "ECO 304K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 355",
+"subject": "ECO",
+"number": "355",
+"title": "Development Problems and Policies in Latin America",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Latin American Studies 355 (Topic 1). Analysis of the economies of Latin America. Issues may include the structure and functioning of cities, rural-urban migration, the sectoral composition of GDP and employment, and determinants of growth. Three lecture hours a week for one semester. Only one of the following may be counted: Economics 355, Latin American Studies 355 (Topic 1), Urban Studies 351 (Topic 1). Prerequisite: Economics 304K and 304L with a grade of at least C- in each.",
+"prereqText": "Economics 304K and 304L with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ECO 304K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "ECO 304L",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Latin American Studies 355 (Topic 1)"
+},
+{
+"id": "ECO 358R",
+"subject": "ECO",
+"number": "358R",
+"title": "Supervised Research",
+"hours": 3.0,
+"division": "upper",
+"description": "The equivalent of three lecture hours a week for one semester. Economics 358Q and 358R may not both be counted. May be taken twice for credit. May be repeated for credit. Prerequisite: Economics 329 and 420K or 420S with a grade of at least C- in each and consent of advisor.",
+"prereqText": "Economics 329 and 420K or 420S with a grade of at least C- in each and consent of advisor.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 359M",
+"subject": "ECO",
+"number": "359M",
+"title": "Environmental and Natural Resource Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Optimal use of exhaustible and renewable resources, including fuels, minerals, fisheries, forests, and water; resource scarcity and economic growth; valuation of nonmarketed environmental amenities; the economics of pollution control instruments, including taxes, permits, direct regulation, and negotiation; environmental quality and international trade; the economics of global climate change; pollution control policy in practice. Three lecture hours a week for one semester. Prerequisite: Economics 329 and 420K or 420S with a grade of at least C- in each.",
+"prereqText": "Economics 329 and 420K or 420S with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 363C",
+"subject": "ECO",
+"number": "363C",
+"title": "Computational Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Prerequisite: Economics 320L and 420K or 420S with a grade of at least C- in each.",
+"prereqText": "Economics 320L and 420K or 420S with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 367R",
+"subject": "ECO",
+"number": "367R",
+"title": "Monetary Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Theories explaining the role of money in the economy. Three lecture hours a week for one semester. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-, and Economics 320L with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-, and Economics 320L with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 368",
+"subject": "ECO",
+"number": "368",
+"title": "Survey of the History of Economic Thought",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 369F",
+"subject": "ECO",
+"number": "369F",
+"title": "Financial Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Economic analysis of the operation of financial markets, including arbitrage theory, asset pricing, and corporate finance. Three lecture hours a week for one semester. Prerequisite: Economics 329 and 420K or 420S with a grade of at least C- in each.",
+"prereqText": "Economics 329 and 420K or 420S with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 370E",
+"subject": "ECO",
+"number": "370E",
+"title": "Economics of Gender, Race, and Ethnicity",
+"hours": 3.0,
+"division": "upper",
+"description": "Study large and persistent differences in economic outcomes across genders and between major racial and ethnic groups in the United States. Examine empirical evidence for, and gaps in, economic models explaining these differences. Three lecture hours a week for one semester. Economics 330T (Topic: Econ: Gender/Race/Ethnicity) and 370E may not both be counted. Prerequisite: Upper-division standing and Economics 304K with a grade of at least C-.",
+"prereqText": "Upper-division standing and Economics 304K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "ECO 304K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 370M",
+"subject": "ECO",
+"number": "370M",
+"title": "Behavioral Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Explaining how heuristics result in biases in individual decisions and anomalies in the market place. Applications to choice under uncertainty, intertemporal choice, choice in a strategic environment, and behavioral finance. Three lecture hours a week for one semester. Only one of the following can be counted: Economics 330T (Topic: Behavioral Economics), 350K (Topic: Behavioral Economics), 370M. Prerequisite: Economics 301 or 304K with a grade of at least C-.",
+"prereqText": "Economics 301 or 304K with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECO 301"
+},
+{
+"type": "course",
+"id": "ECO 304K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 371M",
+"subject": "ECO",
+"number": "371M",
+"title": "Social Economics: Outside the Market",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore concepts of social welfare, fairness, and social choice procedures. Discuss economic analysis of social interactions that take place outside of markets. Three lecture hours a week for one semester. Economics 330T (Topic: Socl Eco: Eco Outside the Mkt) and 371M may not both be counted. Prerequisite: Upper-division standing and Economics 304K with a grade of at least C-.",
+"prereqText": "Upper-division standing and Economics 304K with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "ECO 304K",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 376N",
+"subject": "ECO",
+"number": "376N",
+"title": "Personnel Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Use of microeconomic theory to analyze how firms make decisions involving human resources, including recruiting and hiring strategies, training and investment in worker skills, evaluating and motivating worker performance, and job design. Three lecture hours a week for one semester. Economics 376M (Topic 1) and 376N may not both be counted. Prerequisite: Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqText": "Economics 420K, 420S, 421K, or Finance 321K with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "ECO 378H",
+"subject": "ECO",
+"number": "378H",
+"title": "Honors Tutorial Course I",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual reading, research, and writing of a substantial paper on a special topic in the field of economics. Conference course. Prerequisite: Upper-division standing, admission to the Economics Honors Program, and consent of the honors adviser.",
+"prereqText": "Upper-division standing, admission to the Economics Honors Program, and consent of the honors adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 379C",
+"subject": "ECO",
+"number": "379C",
+"title": "Individual Conference Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in economics. Conference course. May not be counted toward the twenty-four semester hours in economics required for the major in economics. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor. Students should ordinarily have completed six semester hours of upper-division coursework in economics and coursework with supervising instructor.",
+"prereqText": "Upper-division standing and consent of instructor. Students should ordinarily have completed six semester hours of upper-division coursework in economics and coursework with supervising instructor.",
+"prereqConfidence": "none",
+"excluded": "the twenty-four semester hours in economics required for the major in economics"
+},
+{
+"id": "ECO 379E",
+"subject": "ECO",
+"number": "379E",
+"title": "Internship in Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Conduct research while working in an appropriate government agency or private business. Ten hours of fieldwork a week for one semester. May be taken twice for credit. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Consent of advisor. Economics 420K or 420S with a grade of at least C-.",
+"prereqText": "Consent of advisor. Economics 420K or 420S with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ECO 420K"
+},
+{
+"type": "course",
+"id": "ECO 420S",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "ECO 379H",
+"subject": "ECO",
+"number": "379H",
+"title": "Honors Tutorial Course II",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual reading, research, and writing of a substantial paper on a special topic in the field of economics. Conference course. Prerequisite: Economics 378H.",
+"prereqText": "Economics 378H.",
+"prereq": {
+"type": "course",
+"id": "ECO 378H"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ECO 180",
+"subject": "ECO",
+"number": "180",
+"title": "Research Course",
+"hours": 1.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqText": "Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 380",
+"subject": "ECO",
+"number": "380",
+"title": "Research Course",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqText": "Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 680",
+"subject": "ECO",
+"number": "680",
+"title": "Research Course",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqText": "Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 980",
+"subject": "ECO",
+"number": "980",
+"title": "Research Course",
+"hours": 9.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqText": "Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 680A",
+"subject": "ECO",
+"number": "680A",
+"title": "Research Course",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqText": "Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 680B",
+"subject": "ECO",
+"number": "680B",
+"title": "Research Course",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqText": "Graduate standing and consent of instructor and the graduate advisor in economics.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 180D",
+"subject": "ECO",
+"number": "180D",
+"title": "Internship in Economics",
+"hours": 1.0,
+"division": "graduate",
+"description": "Restricted to Master's students in the Economics Option III program. Practical working involvement with an appropriate business, government or research agency, or similar institution. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; additional hours to be arranged. Prerequisite: Consent of the program adviser.",
+"prereqText": "Consent of the program adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Master's students in the Economics Option III program."
+},
+{
+"id": "ECO 380D",
+"subject": "ECO",
+"number": "380D",
+"title": "Internship in Economics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to Master's students in the Economics Option III program. Practical working involvement with an appropriate business, government or research agency, or similar institution. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; additional hours to be arranged. Prerequisite: Consent of the program adviser.",
+"prereqText": "Consent of the program adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Master's students in the Economics Option III program."
+},
+{
+"id": "ECO 380M",
+"subject": "ECO",
+"number": "380M",
+"title": "Regional Economics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Survey of theoretical and empirical literature related to location theory, regional development, regional disparities, growth and function of cities, and political economy of spatial planning. Three lecture hours a week for one semester. Prerequisite: Graduate standing, six semester hours of upper-division coursework in economics, and six additional semester hours of upper-division coursework in social science or business.",
+"prereqText": "Graduate standing, six semester hours of upper-division coursework in economics, and six additional semester hours of upper-division coursework in social science or business.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 380N",
+"subject": "ECO",
+"number": "380N",
+"title": "Urban Economics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Provides an economic analysis of pressing urban problems such as poverty, housing, transportation, environment, and finance. Three lecture hours a week for one semester. With consent of instructor, may be repeated for credit when the topics vary. Prerequisite: Graduate standing, six semester hours of upper-division coursework in economics, and six additional semester hours of upper-division coursework in social science or business.",
+"prereqText": "Graduate standing, six semester hours of upper-division coursework in economics, and six additional semester hours of upper-division coursework in social science or business.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 180P",
+"subject": "ECO",
+"number": "180P",
+"title": "Internship in Economics",
+"hours": 1.0,
+"division": "graduate",
+"description": "Restricted to economics PhD students. Practical working involvement with an appropriate business, government or research agency, or similar institution. For each semester hour of credit earned, one lecture hour a week for one semester; additional hours to be arranged. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to economics PhD students.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 380P",
+"subject": "ECO",
+"number": "380P",
+"title": "Internship in Economics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to economics PhD students. Practical working involvement with an appropriate business, government or research agency, or similar institution. For each semester hour of credit earned, one lecture hour a week for one semester; additional hours to be arranged. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to economics PhD students.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 381K",
+"subject": "ECO",
+"number": "381K",
+"title": "Seminar in Money and Banking",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics include monetary policy and problems, theory of central banking, and money and banking history. The equivalent of three lecture hours a week for one semester. With consent of instructor, may be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 383K",
+"subject": "ECO",
+"number": "383K",
+"title": "Seminar in General Economic History",
+"hours": 3.0,
+"division": "graduate",
+"description": "Same as History 383L. A historical study of economic development and economic policy. The equivalent of three lecture hours a week for one semester. With consent of instructor, may be repeated for credit when the topics vary. Prerequisite: Graduate standing, six semester hours of upper-division coursework in economics or related history or government, and six additional semester hours of upper-division coursework in social science or business.",
+"prereqText": "Graduate standing, six semester hours of upper-division coursework in economics or related history or government, and six additional semester hours of upper-division coursework in social science or business.",
+"prereqConfidence": "none",
+"sameAs": "History 383L"
+},
+{
+"id": "ECO 384G",
+"subject": "ECO",
+"number": "384G",
+"title": "Seminar in International Economics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 384H",
+"subject": "ECO",
+"number": "384H",
+"title": "Seminar in Public Finance",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of public expenditure and taxation. Three lecture hours a week for one semester. Economics 382L and 384H may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 384J",
+"subject": "ECO",
+"number": "384J",
+"title": "Seminar in Development Economics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis includes theories of economic development and planning. Three lecture hours a week for one semester. Economics 380K and 384J may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 384K",
+"subject": "ECO",
+"number": "384K",
+"title": "Industrial Organization",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 384N",
+"subject": "ECO",
+"number": "384N",
+"title": "Resource Economics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Definition, measurement, production, and conservation of renewable and exhaustible resources; models of economic growth and resources; world distribution and consumption; United States resource policy. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 385C",
+"subject": "ECO",
+"number": "385C",
+"title": "Probability and Statistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Economics 385C and 392M (Topic 19) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 385D",
+"subject": "ECO",
+"number": "385D",
+"title": "Mathematics for Economists",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Economics 385D and 392M (Topic 8) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 385K",
+"subject": "ECO",
+"number": "385K",
+"title": "Labor Economics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analysis of the empirical and theoretical factors that influence labor markets. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 386C",
+"subject": "ECO",
+"number": "386C",
+"title": "Microeconomics I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Economics 386C and 387L (Topic 1) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 386D",
+"subject": "ECO",
+"number": "386D",
+"title": "Microeconomics II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Economics 386D and 387L (Topic 3) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 386E",
+"subject": "ECO",
+"number": "386E",
+"title": "Seminar in Advanced Microeconomics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Economics 386E and 387L may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 387C",
+"subject": "ECO",
+"number": "387C",
+"title": "Macroeconomics I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lectures a week for one semester. Economics 387C and 387L (Topic 2) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 387D",
+"subject": "ECO",
+"number": "387D",
+"title": "Macroeconomics II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Economics 387D and 387L (Topic 4) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 387E",
+"subject": "ECO",
+"number": "387E",
+"title": "Seminar in Advanced Macroeconomics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 387K",
+"subject": "ECO",
+"number": "387K",
+"title": "Monetary Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Theories, based on microeconomic foundations, covering such topics as the usefulness of monetary exchange, optimal central bank policy, the interaction of monetary and fiscal policy, and the role of financial intermediation in the macroeconomy. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 387M",
+"subject": "ECO",
+"number": "387M",
+"title": "Writing Seminar in Economics",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 187N",
+"subject": "ECO",
+"number": "187N",
+"title": "Survey of Fields in Economics",
+"hours": 1.0,
+"division": "graduate",
+"description": "Introduction to the questions, methods, and scope of research in different fields in economics. One lecture hour a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 388C",
+"subject": "ECO",
+"number": "388C",
+"title": "Econometrics I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Economics 388C and 392M (Topic 2) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 388D",
+"subject": "ECO",
+"number": "388D",
+"title": "Econometrics II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Economics 388D and 392M (Topic 3) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 388E",
+"subject": "ECO",
+"number": "388E",
+"title": "Seminar in Advanced Econometrics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Economics 388E and 392M may not be both be counted unless the topics vary. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 390L",
+"subject": "ECO",
+"number": "390L",
+"title": "Seminar in the History of Economic Thought",
+"hours": 3.0,
+"division": "graduate",
+"description": "Survey and analysis of principal contributions and historical influences in the evolution of contemporary economic thought from the late eighteenth through the early twentieth century. Three lecture hours a week for one semester. With consent of instructor, may be repeated for credit when the topics vary. Prerequisite: Graduate standing, and completion of core courses in economic theory or consent of instructor.",
+"prereqText": "Graduate standing, and completion of core courses in economic theory or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 492L",
+"subject": "ECO",
+"number": "492L",
+"title": "Quantitative Methods in Economics",
+"hours": 4.0,
+"division": "graduate",
+"description": "Topics include optimization methods, probability theory, and statistical inference. Four lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 393",
+"subject": "ECO",
+"number": "393",
+"title": "Seminar in Industrial Organization",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for one semester. With consent of instructor, may be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 394C",
+"subject": "ECO",
+"number": "394C",
+"title": "Mathematics for Economists",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to master's students in the economics Option III program. Mathematical tools widely used for economic analysis, including advanced calculus, optimization methods, linear algebra, and dynamic systems. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to master's students in the economics Option III program."
+},
+{
+"id": "ECO 394D",
+"subject": "ECO",
+"number": "394D",
+"title": "Probability and Statistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to master's students in the economics Option III program. Probability theory and statistical methods used in economics and econometrics. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to master's students in the economics Option III program."
+},
+{
+"id": "ECO 394K",
+"subject": "ECO",
+"number": "394K",
+"title": "Microeconomics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to master's students in the economics Option III program. Rigorous introduction to the methods of microeconomic theory, including consumer and producer theory, decision under uncertainty, markets and competition, and general equilibrium. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to master's students in the economics Option III program."
+},
+{
+"id": "ECO 394L",
+"subject": "ECO",
+"number": "394L",
+"title": "Macroeconomics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to master's students in the economics Option III program. Dynamic optimization concepts and methods used in modern macroeconomics. General equilibrium applications in the areas of economic growth, business cycles, and the role of monetary and fiscal policy. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to master's students in the economics Option III program."
+},
+{
+"id": "ECO 394M",
+"subject": "ECO",
+"number": "394M",
+"title": "Econometrics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to master's students in the economics Option III program. Identification and estimation of linear and nonlinear regression models; inference and hypothesis testing. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to master's students in the economics Option III program."
+},
+{
+"id": "ECO 395K",
+"subject": "ECO",
+"number": "395K",
+"title": "Topics and Applications in Microeconomics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to Option III economics master's degree students. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Option III economics master's degree students."
+},
+{
+"id": "ECO 395L",
+"subject": "ECO",
+"number": "395L",
+"title": "Topics and Applications in Macroeconomics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to master's students in the economics Option III program. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to master's students in the economics Option III program."
+},
+{
+"id": "ECO 395M",
+"subject": "ECO",
+"number": "395M",
+"title": "Topics and Applications in Quantitative Methods",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to master's students in the economics Option III program. Three lecture hours per week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to master's students in the economics Option III program."
+},
+{
+"id": "ECO 396",
+"subject": "ECO",
+"number": "396",
+"title": "Studies in Economic History",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for one semester. With consent of instructor, may be repeated for credit when the topics vary. Prerequisite: Graduate standing, six semester hours of upper-division coursework in economics, and six additional semester hours of upper-division coursework in social science or business.",
+"prereqText": "Graduate standing, six semester hours of upper-division coursework in economics, and six additional semester hours of upper-division coursework in social science or business.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 397",
+"subject": "ECO",
+"number": "397",
+"title": "Seminar in International Economic Problems",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for one semester. With consent of instructor, may be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "ECO 297K",
+"subject": "ECO",
+"number": "297K",
+"title": "Specialized Topics in Microeconomics",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to Option III economics master's degree students. Two lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Option III economics master's degree students."
+},
+{
+"id": "ECO 297L",
+"subject": "ECO",
+"number": "297L",
+"title": "Specialized Topics in Macroeconomics",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to Option III economics master's degree students. Two lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Option III economics master's degree students."
+},
+{
+"id": "ECO 297M",
+"subject": "ECO",
+"number": "297M",
+"title": "Specialized Topics in Quantitative Methods",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to Option III economics master's degree students. Two lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Option III economics master's degree students."
+},
+{
+"id": "ECO 698",
+"subject": "ECO",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in economics, twelve semester hours of upper-division or graduate coursework in economics, and consent of the graduate adviser; for 698B, Economics 698A.",
+"prereqText": "For 698A, graduate standing in economics, twelve semester hours of upper-division or graduate coursework in economics, and consent of the graduate adviser; for 698B, Economics 698A.",
+"prereq": {
+"type": "course",
+"id": "ECO 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 698A",
+"subject": "ECO",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in economics, twelve semester hours of upper-division or graduate coursework in economics, and consent of the graduate adviser; for 698B, Economics 698A.",
+"prereqText": "For 698A, graduate standing in economics, twelve semester hours of upper-division or graduate coursework in economics, and consent of the graduate adviser; for 698B, Economics 698A.",
+"prereq": {
+"type": "course",
+"id": "ECO 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 698B",
+"subject": "ECO",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in economics, twelve semester hours of upper-division or graduate coursework in economics, and consent of the graduate adviser; for 698B, Economics 698A.",
+"prereqText": "For 698A, graduate standing in economics, twelve semester hours of upper-division or graduate coursework in economics, and consent of the graduate adviser; for 698B, Economics 698A.",
+"prereq": {
+"type": "course",
+"id": "ECO 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 198K",
+"subject": "ECO",
+"number": "198K",
+"title": "Specialized Topics in Microeconomics",
+"hours": 1.0,
+"division": "graduate",
+"description": "Restricted to students in the Option III economics master's degree program. One lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Option III economics master's degree program."
+},
+{
+"id": "ECO 198L",
+"subject": "ECO",
+"number": "198L",
+"title": "Specialized Topics in Macroeconomics",
+"hours": 1.0,
+"division": "graduate",
+"description": "Restricted to students in the Option III economics master's degree program. One lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Option III economics master's degree program."
+},
+{
+"id": "ECO 198M",
+"subject": "ECO",
+"number": "198M",
+"title": "Specialized Topics in Quantitative Methods",
+"hours": 1.0,
+"division": "graduate",
+"description": "Restricted to students in the Option III economics master's degree program. One lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Option III economics master's degree program."
+},
+{
+"id": "ECO 398T",
+"subject": "ECO",
+"number": "398T",
+"title": "Supervised Teaching in Economics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Teaching under the close supervision of the course instructor; weekly group meetings, individual consultations, and reports. Three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and appointment as a teaching assistant.",
+"prereqText": "Graduate standing and appointment as a teaching assistant.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 399W",
+"subject": "ECO",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 699W",
+"subject": "ECO",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 999W",
+"subject": "ECO",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 699WA",
+"subject": "ECO",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ECO 699WB",
+"subject": "ECO",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

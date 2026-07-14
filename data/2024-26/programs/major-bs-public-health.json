@@ -1,0 +1,516 @@
+{
+ "id": "2024-26/major/bs-public-health",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Bachelor of Science in Public Health",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general",
+  "2024-26/layer/cns-college"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "course",
+    "course": "PBH 317",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+     "quote": "Foundation courses: Public health: Public Health 317"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Microbiology: Molecular Biosciences 326M or 326R, and 226L",
+    "title": "Microbiology: Molecular Biosciences 326M or 326R, and 226L",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+     "quote": "Microbiology: Molecular Biosciences 326M or 326R, and 226L"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Nutrition and physiology: Nutrition 312 or 312H, and Integrative Biology 365S",
+    "title": "Nutrition and physiology: Nutrition 312 or 312H, and Integrative Biology 365S",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+     "quote": "Nutrition and physiology: Nutrition 312 or 312H, and Integrative Biology 365S"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Social and behavioral sciences: One of the following: Economics 304K, 304L, Psychology 301, Sociology 319, 354K",
+    "title": "Social and behavioral sciences: One of the following: Economics 304K, 304L, Psyc",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+     "quote": "Social and behavioral sciences: One of the following: Economics 304K, 304L, Psychology 301, Sociology 319, 354K"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Political science/government: Government 358 or Management 320F",
+    "of": [
+     {
+      "type": "course",
+      "course": "GOV 358"
+     },
+     {
+      "type": "course",
+      "course": "MAN 320F"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+     "quote": "Political science/government: Government 358 or Management 320F"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Public health core*: Biostatistics: Statistics and Data Sciences 320E",
+    "of": [
+     {
+      "type": "course",
+      "course": "SDS 320E"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+     "quote": "Public health core*: Biostatistics: Statistics and Data Sciences 320E"
+    }
+   },
+   {
+    "type": "course",
+    "course": "PBH 338",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+     "quote": "Environmental health sciences: Public Health 338"
+    }
+   },
+   {
+    "type": "course",
+    "course": "PBH 354",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+     "quote": "Epidemiology: Public Health 354"
+    }
+   },
+   {
+    "type": "course",
+    "course": "PBH 334",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+     "quote": "Global health: Public Health 334"
+    }
+   },
+   {
+    "type": "course",
+    "course": "PBH 358D",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+     "quote": "Health policy and health systems: Public Health 358D"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Health behavior theory and practice: Public Health 356",
+    "of": [
+     {
+      "type": "course",
+      "course": "PBH 356"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+     "quote": "Health behavior theory and practice: Public Health 356"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 21.0,
+    "umbrella": true,
+    "title": "21 upper-division hours",
+    "filter": {
+     "division": "upper",
+     "label": "Upper-division coursework"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+     "quote": "At least 21 semester hours of upper-division coursework must be completed in residence at the University. All students must complete at least 36 semester hours of upper-division coursework."
+    },
+    "inResidence": true
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following: Public Health 137 (Topic 1: Senior Seminar in Public Health), or",
+    "of": [
+     {
+      "type": "course",
+      "course": "PBH 137"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+     "quote": "One of the following: Public Health 137 (Topic 1: Senior Seminar in Public Health), or"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following options",
+    "of": [
+     {
+      "type": "all",
+      "title": "Option I: Public Health",
+      "of": [
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Mathematics 408C, 408N, or 408R.",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408C"
+         },
+         {
+          "type": "course",
+          "course": "M 408N"
+         },
+         {
+          "type": "course",
+          "course": "M 408R"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Mathematics 408C, 408N, or 408R."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Biology 311C, 311D, and 325 or Biology 315H and 325H. These courses must be completed before the student progresses to other upper-division biology and upper-division public health courses.",
+        "title": "Biology 311C, 311D, and 325 or Biology 315H and 325H. These courses must be comp",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Biology 311C, 311D, and 325 or Biology 315H and 325H. These courses must be completed before the student progresses to other upper-division biology and upper-division public health courses."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Chemistry 301 or 301C, 302 or 302C, 204, 320M, and Biochemistry 369.",
+        "title": "Chemistry 301 or 301C, 302 or 302C, 204, 320M, and Biochemistry 369.",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Chemistry 301 or 301C, 302 or 302C, 204, 320M, and Biochemistry 369."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Nine hours from the following list of advanced courses; courses counted toward requirement 1 may not be used to fulfill this requirement. Public Health 363 (required for Options I and II)",
+        "title": "Nine hours from the following list of advanced courses; courses counted toward r",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Nine hours from the following list of advanced courses; courses counted toward requirement 1 may not be used to fulfill this requirement. Public Health 363 (required for Options I and II)"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Six hours from the following courses: Public Health 341R, 361P, 362, 364, 365, 366 or",
+        "of": [
+         {
+          "type": "course",
+          "course": "PBH 341R"
+         },
+         {
+          "type": "course",
+          "course": "PBH 361P"
+         },
+         {
+          "type": "course",
+          "course": "PBH 362"
+         },
+         {
+          "type": "course",
+          "course": "PBH 364"
+         },
+         {
+          "type": "course",
+          "course": "PBH 365"
+         },
+         {
+          "type": "course",
+          "course": "PBH 366"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Six hours from the following courses: Public Health 341R, 361P, 362, 364, 365, 366 or"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Nine hours of graduate coursework completed at the School of Public Health at The University of Texas Health Science Center at Houston for students participating in the Option III: Advanced Program.",
+        "title": "Nine hours of graduate coursework completed at the School of Public Health at Th",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Nine hours of graduate coursework completed at the School of Public Health at The University of Texas Health Science Center at Houston for students participating in the Option III: Advanced Program."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Two three-semester-hour courses in one foreign culture area; the courses must be chosen from an approved list available in the dean's office and the college advising centers",
+        "title": "Two three-semester-hour courses in one foreign culture area; the courses must be",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Two three-semester-hour courses in one foreign culture area; the courses must be chosen from an approved list available in the dean's office and the college advising centers"
+        }
+       },
+       {
+        "type": "hours",
+        "hours": 120.0,
+        "umbrella": true,
+        "title": "120 total hours",
+        "filter": {
+         "label": "Any coursework"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Enough additional coursework to make a total of 120 semester hours"
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Option II: Public Health Honors",
+      "of": [
+       {
+        "type": "manual",
+        "text": "Breadth requirement: An honors mathematics course; Biology 315H and 325H; Chemistry 301C and 302C; credit by examination may not count toward this requirement",
+        "title": "Breadth requirement: An honors mathematics course; Biology 315H and 325H; Chemis",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Breadth requirement: An honors mathematics course; Biology 315H and 325H; Chemistry 301C and 302C; credit by examination may not count toward this requirement"
+        }
+       },
+       {
+        "type": "course",
+        "course": "SDS 325H",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "In fulfilling requirement 2a, students must complete Statistics and Data Sciences 325H"
+        }
+       },
+       {
+        "type": "all",
+        "title": "Chemistry 204, 320M, and Biochemistry 369",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 204"
+         },
+         {
+          "type": "course",
+          "course": "CH 320M"
+         },
+         {
+          "type": "course",
+          "course": "BCH 369"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Chemistry 204, 320M, and Biochemistry 369"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "A section of Undergraduate Studies 302 or 303 that is approved by the program honors advisor",
+        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the program ho",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "A section of Undergraduate Studies 302 or 303 that is approved by the program honors advisor"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean's Scholars Honors Program",
+        "title": "A section of Rhetoric and Writing 309S that is restricted to students in the Dea",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean's Scholars Honors Program"
+        }
+       },
+       {
+        "type": "course",
+        "course": "PBH 379H",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Two semesters of Public Health 379H"
+        }
+       },
+       {
+        "type": "course",
+        "course": "PBH 363",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Public Health 363"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Nine additional hours of coursework approved by the departmental honors advisor",
+        "title": "Nine additional hours of coursework approved by the departmental honors advisor",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Nine additional hours of coursework approved by the departmental honors advisor"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Six semester hours of coursework from the College of Liberal Arts and/or the College of Fine Arts",
+        "title": "Six semester hours of coursework from the College of Liberal Arts and/or the Col",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Six semester hours of coursework from the College of Liberal Arts and/or the College of Fine Arts"
+        }
+       },
+       {
+        "type": "hours",
+        "hours": 120.0,
+        "umbrella": true,
+        "title": "120 total hours",
+        "filter": {
+         "label": "Any coursework"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Enough additional coursework to make a total of 120 semester hours"
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Option III: Advanced Program",
+      "of": [
+       {
+        "type": "manual",
+        "text": "During the senior year, students complete 16 hours of graduate coursework at the Austin Campus, to earn a graduate certificate in public health. If successfully completed, the courses in the graduate certificate program are applied to the Master of Public Health degree. The second year of the Master of Public Health is completed at one of five campuses of the school of Public Health: Austin, Brownsville, Dallas, El Paso, Houston, and San Antonio.",
+        "title": "During the senior year, students complete 16 hours of graduate coursework at the",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "During the senior year, students complete 16 hours of graduate coursework at the Austin Campus, to earn a graduate certificate in public health. If successfully completed, the courses in the graduate "
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Prior to graduation with a Bachelor of Science in Public Health, Option III students must transfer in nine hours of graduate coursework earned at the UT Austin School of Public Health. Students may apply to graduate with a Bachelor of Science in Public Health prior to the completion of the graduate certificate in public health.",
+        "title": "Prior to graduation with a Bachelor of Science in Public Health, Option III stud",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Prior to graduation with a Bachelor of Science in Public Health, Option III students must transfer in nine hours of graduate coursework earned at the UT Austin School of Public Health. Students may ap"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Mathematics 408C, 408N, or 408R.",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408C"
+         },
+         {
+          "type": "course",
+          "course": "M 408N"
+         },
+         {
+          "type": "course",
+          "course": "M 408R"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Mathematics 408C, 408N, or 408R."
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Biology 311C, 311D, and 325; or 315H and 325H; these courses must be completed before the student progresses to other upper-division biology and upper-division public health courses",
+        "title": "Biology 311C, 311D, and 325; or 315H and 325H; these courses must be completed b",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Biology 311C, 311D, and 325; or 315H and 325H; these courses must be completed before the student progresses to other upper-division biology and upper-division public health courses"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Chemistry 301 or 301C, 302 or 302C, 204, 320M, and Biochemistry 369",
+        "title": "Chemistry 301 or 301C, 302 or 302C, 204, 320M, and Biochemistry 369",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Chemistry 301 or 301C, 302 or 302C, 204, 320M, and Biochemistry 369"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Two three-semester-hour courses in one foreign culture area; the courses must be chosen from an approved list available in the dean's office and the college advising centers.",
+        "title": "Two three-semester-hour courses in one foreign culture area; the courses must be",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Two three-semester-hour courses in one foreign culture area; the courses must be chosen from an approved list available in the dean's office and the college advising centers."
+        }
+       },
+       {
+        "type": "hours",
+        "hours": 120.0,
+        "umbrella": true,
+        "title": "120 total hours",
+        "filter": {
+         "label": "Any coursework"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Enough additional coursework to make a total of 120 semester hours; a maximum of nine hours of graduate coursework completed at the School of Public Health at The University of Texas Health Science Ce"
+        }
+       },
+       {
+        "type": "manual",
+        "text": "To graduate under Option II, students must remain in good academic standing in the Dean's Scholars Program, must submit an honors thesis approved by the departmental honors advisor, and present their research in an approved public forum, such as the college's annual Undergraduate Research Forum.",
+        "title": "To graduate under Option II, students must remain in good academic standing in t",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "To graduate under Option II, students must remain in good academic standing in the Dean's Scholars Program, must submit an honors thesis approved by the departmental honors advisor, and present their "
+        }
+       },
+       {
+        "type": "manual",
+        "text": "Students admitted to Option III are required to follow the admission schedule and policies of Master of Public Health program at the School of Public Health at The University of Texas Health Science Center at Houston. Students are expected to make continuous progress toward the undergraduate and graduate degrees by completing required undergraduate and graduate public health coursework each semester of the fourth year. Students who fail to complete graduate coursework two fall/spring semesters in a row will be removed from the program and must re-enroll at The University of Texas at Austin to complete the Bachelor of Science in Public Health Option I. Students will be notified prior to removal from the graduate program. Students must earn the Bachelor of Science in Public Health in their fourth year to be eligible to continue in the Master of Public Health program in their fifth year.",
+        "title": "Students admitted to Option III are required to follow the admission schedule an",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "Students admitted to Option III are required to follow the admission schedule and policies of Master of Public Health program at the School of Public Health at The University of Texas Health Science C"
+        }
+       }
+      ]
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BS",
+ "majorSubjects": [
+  "PBH"
+ ]
+}

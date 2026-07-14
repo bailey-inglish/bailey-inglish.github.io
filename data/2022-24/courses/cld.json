@@ -1,0 +1,546 @@
+{
+"code": "CLD",
+"name": "Communication and Leadership",
+"courses": [
+{
+"id": "CLD 301",
+"subject": "CLD",
+"number": "301",
+"title": "Introduction to Communication and Leadership",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduces the study of leadership with an emphasis on communication dimensions and interdisciplinary understanding of social problems. Serves as a foundation for subsequent coursework in the areas of communication and leadership. Three lecture hours a week for one semester. Communication 301L and Communication and Leadership 301 may not both be counted."
+},
+{
+"id": "CLD 102",
+"subject": "CLD",
+"number": "102",
+"title": "Topics in Communication and Leadership",
+"hours": 1.0,
+"division": "lower",
+"description": "Contemporary issues and practices in communication and leadership. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 202",
+"subject": "CLD",
+"number": "202",
+"title": "Topics in Communication and Leadership",
+"hours": 2.0,
+"division": "lower",
+"description": "Contemporary issues and practices in communication and leadership. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 302",
+"subject": "CLD",
+"number": "302",
+"title": "Topics in Communication and Leadership",
+"hours": 3.0,
+"division": "lower",
+"description": "Contemporary issues and practices in communication and leadership. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 304",
+"subject": "CLD",
+"number": "304",
+"title": "Introduction to Philanthropy",
+"hours": 3.0,
+"division": "lower",
+"description": "Offers an introduction to philanthropy, focusing on the process of private giving as well as the work of private foundations. Three lecture hours a week for one semester."
+},
+{
+"id": "CLD 314",
+"subject": "CLD",
+"number": "314",
+"title": "Fundamentals of Philanthropy",
+"hours": 3.0,
+"division": "lower",
+"description": "Builds on Introduction to Philanthropy, considering the process of creating and evaluating philanthropic initiatives. Three lecture hours a week for one semester. Prerequisite: Communication and Leadership 304.",
+"prereqText": "Communication and Leadership 304.",
+"prereq": {
+"type": "course",
+"id": "CLD 304"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CLD 120",
+"subject": "CLD",
+"number": "120",
+"title": "Topics in Communication and Leadership",
+"hours": 1.0,
+"division": "upper",
+"description": "Contemporary issues and practices in communication and leadership. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CLD 220",
+"subject": "CLD",
+"number": "220",
+"title": "Topics in Communication and Leadership",
+"hours": 2.0,
+"division": "upper",
+"description": "Contemporary issues and practices in communication and leadership. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CLD 320",
+"subject": "CLD",
+"number": "320",
+"title": "Topics in Communication and Leadership",
+"hours": 3.0,
+"division": "upper",
+"description": "Contemporary issues and practices in communication and leadership. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CLD 321",
+"subject": "CLD",
+"number": "321",
+"title": "Seminar on Communication and Leadership",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College of Communication. Builds on the foundation introduced in Communication and Leadership 301 advancing student work in theories, processes, and practices of leadership and communication. Three lecture hours a week for one semester. Communication 320L and Communication and Leadership 321 may not both be counted. Prerequisite: Communication 301L or Communication and Leadership 301.",
+"prereqText": "Communication 301L or Communication and Leadership 301.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "COM 301L"
+},
+{
+"type": "course",
+"id": "CLD 301"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Moody College of Communication."
+},
+{
+"id": "CLD 122",
+"subject": "CLD",
+"number": "122",
+"title": "Independent Study",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to communication and leadership majors. Pursue special supervised individual research studies. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Consent of the director of the communication and leadership degree.",
+"prereqText": "Consent of the director of the communication and leadership degree.",
+"prereqConfidence": "none",
+"restricted": "Restricted to communication and leadership majors."
+},
+{
+"id": "CLD 222",
+"subject": "CLD",
+"number": "222",
+"title": "Independent Study",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to communication and leadership majors. Pursue special supervised individual research studies. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Consent of the director of the communication and leadership degree.",
+"prereqText": "Consent of the director of the communication and leadership degree.",
+"prereqConfidence": "none",
+"restricted": "Restricted to communication and leadership majors."
+},
+{
+"id": "CLD 322",
+"subject": "CLD",
+"number": "322",
+"title": "Independent Study",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to communication and leadership majors. Pursue special supervised individual research studies. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Consent of the director of the communication and leadership degree.",
+"prereqText": "Consent of the director of the communication and leadership degree.",
+"prereqConfidence": "none",
+"restricted": "Restricted to communication and leadership majors."
+},
+{
+"id": "CLD 324",
+"subject": "CLD",
+"number": "324",
+"title": "Communication and Leadership in Higher Education",
+"hours": 3.0,
+"division": "upper",
+"description": "Investigate the ways in which leadership and communication intersect with a range of audiences from students and faculty to parents and legislators. The equivalent of three lecture hours a week for one semester. Communication and Leadership 320 (Topic: Comm/Leadership in Higher Ed) and 324 may not both be counted. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CLD 129S",
+"subject": "CLD",
+"number": "129S",
+"title": "Topics in Communication and Leadership",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 229S",
+"subject": "CLD",
+"number": "229S",
+"title": "Topics in Communication and Leadership",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 329S",
+"subject": "CLD",
+"number": "329S",
+"title": "Topics in Communication and Leadership",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 429S",
+"subject": "CLD",
+"number": "429S",
+"title": "Topics in Communication and Leadership",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 529S",
+"subject": "CLD",
+"number": "529S",
+"title": "Topics in Communication and Leadership",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 629S",
+"subject": "CLD",
+"number": "629S",
+"title": "Topics in Communication and Leadership",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 729S",
+"subject": "CLD",
+"number": "729S",
+"title": "Topics in Communication and Leadership",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 829S",
+"subject": "CLD",
+"number": "829S",
+"title": "Topics in Communication and Leadership",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 929S",
+"subject": "CLD",
+"number": "929S",
+"title": "Topics in Communication and Leadership",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 629SA",
+"subject": "CLD",
+"number": "629SA",
+"title": "Topics in Communication and Leadership",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 629SB",
+"subject": "CLD",
+"number": "629SB",
+"title": "Topics in Communication and Leadership",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Communication and Leadership degree. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. For each hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "CLD 330",
+"subject": "CLD",
+"number": "330",
+"title": "Philanthropy Capstone",
+"hours": 3.0,
+"division": "upper",
+"description": "Analyze the effectiveness of nonprofit organizations and how to think about and apply the ethics, strategy, and practice of philanthropic giving. Three lecture hours a week for one semester. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CLD 332",
+"subject": "CLD",
+"number": "332",
+"title": "Facilitative Leadership",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore facilitation and consensus-building into leadership in the private, nonprofit, and public sectors; how to engage stakeholders in powerful, productive, and prudent ways; and how to collaborate with team members to advance a leader's vision. The equivalent of three lecture hours a week for one semester. Communication and Leadership 320 (Topic: Facilitative Leadership) and 332 may not both be counted. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CLD 340",
+"subject": "CLD",
+"number": "340",
+"title": "Communication for Civic Engagement",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine theories and applied practices for impactful and effective civic education. The equivalent of three lecture hours per week for one semester. Communication and Leadership 320 (Topic: Comm for Civic Engagement) and 340 may not both be counted. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CLD 145",
+"subject": "CLD",
+"number": "145",
+"title": "Topics in Fundamentals and Skills",
+"hours": 1.0,
+"division": "upper",
+"description": "Examine contemporary issues and practices in communication and leadership fundamentals and skills. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CLD 245",
+"subject": "CLD",
+"number": "245",
+"title": "Topics in Fundamentals and Skills",
+"hours": 2.0,
+"division": "upper",
+"description": "Examine contemporary issues and practices in communication and leadership fundamentals and skills. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CLD 345",
+"subject": "CLD",
+"number": "345",
+"title": "Topics in Fundamentals and Skills",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine contemporary issues and practices in communication and leadership fundamentals and skills. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CLD 351",
+"subject": "CLD",
+"number": "351",
+"title": "Internship in Communication and Leadership",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Communication and Leadership majors. Practical work experience related to the practice of ethical leadership and communication with a non-profit community, or philanthropic organization. For 351, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 651, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Communication 351L and Communication and Leadership 351 may not both be counted. Offered on the pass/fail basis only. Prerequisite: Upper-division standing; Communication 320L or Communication and Leadership 321.",
+"prereqText": "Upper-division standing; Communication 320L or Communication and Leadership 321.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "COM 320L"
+},
+{
+"type": "course",
+"id": "CLD 321"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Communication and Leadership majors.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CLD 651",
+"subject": "CLD",
+"number": "651",
+"title": "Internship in Communication and Leadership",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to Communication and Leadership majors. Practical work experience related to the practice of ethical leadership and communication with a non-profit community, or philanthropic organization. For 351, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 651, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Communication 351L and Communication and Leadership 351 may not both be counted. Offered on the pass/fail basis only. Prerequisite: Upper-division standing; Communication 320L or Communication and Leadership 321.",
+"prereqText": "Upper-division standing; Communication 320L or Communication and Leadership 321.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "COM 320L"
+},
+{
+"type": "course",
+"id": "CLD 321"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Communication and Leadership majors.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CLD 651A",
+"subject": "CLD",
+"number": "651A",
+"title": "Internship in Communication and Leadership",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to Communication and Leadership majors. Practical work experience related to the practice of ethical leadership and communication with a non-profit community, or philanthropic organization. For 351, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 651, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Communication 351L and Communication and Leadership 351 may not both be counted. Offered on the pass/fail basis only. Prerequisite: Upper-division standing; Communication 320L or Communication and Leadership 321.",
+"prereqText": "Upper-division standing; Communication 320L or Communication and Leadership 321.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "COM 320L"
+},
+{
+"type": "course",
+"id": "CLD 321"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Communication and Leadership majors.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CLD 651B",
+"subject": "CLD",
+"number": "651B",
+"title": "Internship in Communication and Leadership",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to Communication and Leadership majors. Practical work experience related to the practice of ethical leadership and communication with a non-profit community, or philanthropic organization. For 351, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 651, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Communication 351L and Communication and Leadership 351 may not both be counted. Offered on the pass/fail basis only. Prerequisite: Upper-division standing; Communication 320L or Communication and Leadership 321.",
+"prereqText": "Upper-division standing; Communication 320L or Communication and Leadership 321.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "COM 320L"
+},
+{
+"type": "course",
+"id": "CLD 321"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Communication and Leadership majors.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "CLD 165",
+"subject": "CLD",
+"number": "165",
+"title": "Topics in Social Issues",
+"hours": 1.0,
+"division": "upper",
+"description": "Study communication and leadership in social issues. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CLD 265",
+"subject": "CLD",
+"number": "265",
+"title": "Topics in Social Issues",
+"hours": 2.0,
+"division": "upper",
+"description": "Study communication and leadership in social issues. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CLD 365",
+"subject": "CLD",
+"number": "365",
+"title": "Topics in Social Issues",
+"hours": 3.0,
+"division": "upper",
+"description": "Study communication and leadership in social issues. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "CLD 371",
+"subject": "CLD",
+"number": "371",
+"title": "Capstone Course in Communication and Leadership",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Communication and Leadership majors. Engagement in experiential learning. Development and presentation of ideas and plans for addressing a leadership challenge given by a partner organization. Three lecture hours a week for one semester. Communication 370L and Communication and Leadership 371 may not both be counted. Prerequisite: Upper-division standing and Communication 320L or Communication and Leadership 321.",
+"prereqText": "Upper-division standing and Communication 320L or Communication and Leadership 321.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "COM 320L"
+},
+{
+"type": "course",
+"id": "CLD 321"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Communication and Leadership majors."
+},
+{
+"id": "CLD 679",
+"subject": "CLD",
+"number": "679",
+"title": "Undergraduate Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to communication and leadership majors. Write and research two consecutive semesters under the supervision of a College of Communication faculty member; subjects are selected by the student with approval from the faculty member. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679A, upper-division standing and consent of instructor. For 679B, Communication and Leadership 679A.",
+"prereqText": "For 679A, upper-division standing and consent of instructor. For 679B, Communication and Leadership 679A.",
+"prereq": {
+"type": "course",
+"id": "CLD 679A"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to communication and leadership majors."
+},
+{
+"id": "CLD 679A",
+"subject": "CLD",
+"number": "679A",
+"title": "Undergraduate Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to communication and leadership majors. Write and research two consecutive semesters under the supervision of a College of Communication faculty member; subjects are selected by the student with approval from the faculty member. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679A, upper-division standing and consent of instructor. For 679B, Communication and Leadership 679A.",
+"prereqText": "For 679A, upper-division standing and consent of instructor. For 679B, Communication and Leadership 679A.",
+"prereq": {
+"type": "course",
+"id": "CLD 679A"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to communication and leadership majors."
+},
+{
+"id": "CLD 679B",
+"subject": "CLD",
+"number": "679B",
+"title": "Undergraduate Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to communication and leadership majors. Write and research two consecutive semesters under the supervision of a College of Communication faculty member; subjects are selected by the student with approval from the faculty member. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679A, upper-division standing and consent of instructor. For 679B, Communication and Leadership 679A.",
+"prereqText": "For 679A, upper-division standing and consent of instructor. For 679B, Communication and Leadership 679A.",
+"prereq": {
+"type": "course",
+"id": "CLD 679A"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to communication and leadership majors."
+}
+]
+}

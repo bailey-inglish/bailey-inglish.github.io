@@ -1,0 +1,135 @@
+{
+ "id": "2022-24/certificate/uteach-natural-sciences-secondary-teaching-option",
+ "edition": "2022-24",
+ "type": "certificate",
+ "name": "UTeach-Natural Sciences Secondary Teaching Option",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "UTeach-Natural Sciences Secondary Teaching Option Certificate",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following courses:",
+    "of": [
+     {
+      "type": "course",
+      "course": "BIO 337"
+     },
+     {
+      "type": "course",
+      "course": "CH 368"
+     },
+     {
+      "type": "course",
+      "course": "PHY 341"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/",
+     "quote": "One of the following courses:"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "HIS 329U",
+    "of": [
+     {
+      "type": "course",
+      "course": "HIS 329U",
+      "title": "HIS 329U",
+      "source": {
+       "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "PHL 329U"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 18.0,
+    "title": "Eighteen hours of professional development coursework consisting of the followin",
+    "filter": {
+     "courses": [
+      "EDC 651S",
+      "EDC 365C",
+      "UTS 350",
+      "EDC 365D",
+      "UTS 355",
+      "EDC 365E",
+      "UTS 360",
+      "UTS 101",
+      "UTS 110",
+      "UTS 170"
+     ],
+     "label": "Eighteen hours of professional development coursework consisting of the followin"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/",
+     "quote": "Eighteen hours of professional development coursework consisting of the following:"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following courses:",
+    "of": [
+     {
+      "type": "course",
+      "course": "BIO 337"
+     },
+     {
+      "type": "course",
+      "course": "CH 368"
+     },
+     {
+      "type": "course",
+      "course": "PHY 341"
+     },
+     {
+      "type": "course",
+      "course": "HIS 329U"
+     },
+     {
+      "type": "course",
+      "course": "PHL 329U"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/",
+     "quote": "One of the following courses:"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 18.0,
+    "title": "Eighteen hours of professional development coursework consisting of the followin",
+    "filter": {
+     "courses": [
+      "UTS 211",
+      "EDC 365C",
+      "UTS 350",
+      "EDC 665",
+      "EDC 651S",
+      "UTS 170"
+     ],
+     "label": "Eighteen hours of professional development coursework consisting of the followin"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/minor-and-certificate-programs/",
+     "quote": "Eighteen hours of professional development coursework consisting of the following:"
+    }
+   }
+  ]
+ },
+ "auto": true
+}

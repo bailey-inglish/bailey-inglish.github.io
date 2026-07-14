@@ -1,0 +1,793 @@
+{
+"code": "MKT",
+"name": "Marketing",
+"courses": [
+{
+"id": "MKT 320F",
+"subject": "MKT",
+"number": "320F",
+"title": "Foundations of Marketing",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to non-McCombs School of Business majors. Introduction to basic concepts and terminology in marketing: the process of developing marketing strategy, the role of marketing activities within the firm, external influences that affect the development of marketing strategy, and basic analytical tools appropriate to marketing decision making. Three lecture hours a week for one semester. Only one of the following may be counted: Marketing 320F, 337, 337H, 337N. May not be counted toward the Bachelor of Business Administration degree. Prerequisite: Forty-five semester hours of college coursework.",
+"prereqText": "Forty-five semester hours of college coursework.",
+"prereqConfidence": "none",
+"restricted": "Restricted to non-McCombs School of Business majors.",
+"excluded": "the Bachelor of Business Administration degree"
+},
+{
+"id": "MKT 337",
+"subject": "MKT",
+"number": "337",
+"title": "Principles of Marketing",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the McCombs School of Business. Designed to expand understanding of the marketing system and basic marketing activities and to provide a framework for marketing strategy development and implementation of marketing tools and tactics. Three lecture hours a week for one semester. Only one of the following may be counted: Marketing 320F, 337, 337H, 337N. Offered on the letter-grade basis only. Prerequisite: Credit or registration for the following: Business Administration 324 or 324H; and Statistics 371G or 371H, or Statistics 235 or 235H and Decision Science 235 or 235H.",
+"prereqText": "Credit or registration for the following: Business Administration 324 or 324H; and Statistics 371G or 371H, or Statistics 235 or 235H and Decision Science 235 or 235H.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in the McCombs School of Business.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MKT 337H",
+"subject": "MKT",
+"number": "337H",
+"title": "Principles of Marketing: Honors",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the McCombs School of Business Honors Program. Designed to expand understanding of the marketing system and basic marketing activities and to provide a framework for marketing strategy development and implementation of marketing tools and tactics. Three lecture hours a week for one semester. Only one of the following may be counted: Marketing 320F, 337, 337H, 337N. Offered on the letter-grade basis only. Prerequisite: Credit or registration for the following: Accounting 312H; and Business Administration 324H; and Economics 304K and 304L; and Statistics 371H, or Statistics 235H and Decision Science 235H.",
+"prereqText": "Credit or registration for the following: Accounting 312H; and Business Administration 324H; and Economics 304K and 304L; and Statistics 371H, or Statistics 235H and Decision Science 235H.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in the McCombs School of Business Honors Program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MKT 337N",
+"subject": "MKT",
+"number": "337N",
+"title": "Introduction to Marketing in New York",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students studying in New York City. Experience a globally connected city. Study in New York City, home to major industries including arts and entertainment, travel and hospitality, technology, and financial services, as well as major marketing firms and agencies. Consider the marketing strategies of New York industries and develop an understanding of the marketing system and basic marketing frameworks for marketing strategy creation, and implementation of marketing tools and tactics. Three lecture hours a week for one semester. Only one of the following may be counted: Marketing 320F, 337, 337H, 337N. Offered on the letter-grade basis only.",
+"restricted": "Restricted to students studying in New York City.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MKT 338",
+"subject": "MKT",
+"number": "338",
+"title": "Promotional Policies",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Analysis of the use of promotional methods in marketing: advertising, personal selling, sales promotion, and indirect promotion; their social and economic consequences; their coordination and relationship to other business functions. Three lecture hours a week for one semester. Prerequisite: Marketing 337 or 337H.",
+"prereqText": "Marketing 337 or 337H.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MKT 337"
+},
+{
+"type": "course",
+"id": "MKT 337H"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "MKT 140S",
+"subject": "MKT",
+"number": "140S",
+"title": "Topics in Marketing",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 240S",
+"subject": "MKT",
+"number": "240S",
+"title": "Topics in Marketing",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 340S",
+"subject": "MKT",
+"number": "340S",
+"title": "Topics in Marketing",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 440S",
+"subject": "MKT",
+"number": "440S",
+"title": "Topics in Marketing",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 540S",
+"subject": "MKT",
+"number": "540S",
+"title": "Topics in Marketing",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 640S",
+"subject": "MKT",
+"number": "640S",
+"title": "Topics in Marketing",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 740S",
+"subject": "MKT",
+"number": "740S",
+"title": "Topics in Marketing",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 840S",
+"subject": "MKT",
+"number": "840S",
+"title": "Topics in Marketing",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 940S",
+"subject": "MKT",
+"number": "940S",
+"title": "Topics in Marketing",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 640SA",
+"subject": "MKT",
+"number": "640SA",
+"title": "Topics in Marketing",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 640SB",
+"subject": "MKT",
+"number": "640SB",
+"title": "Topics in Marketing",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Marketing. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "MKT 354",
+"subject": "MKT",
+"number": "354",
+"title": "Topics in Professional Sales and Business Development",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Marketing 320F, 337 or 337H.",
+"prereqText": "Marketing 320F, 337 or 337H.",
+"prereqConfidence": "low"
+},
+{
+"id": "MKT 360",
+"subject": "MKT",
+"number": "360",
+"title": "Information and Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Business Analytics 360. Same as Business Analytics 460. Restricted to students in a business major. The development and analysis of information for marketing management sources. For each semester hour of credit earned, one lecture hour a week for one semester. Marketing 360, 460 and Business Analytics 360, 460 may not both be counted. Prerequisite: Marketing 337 or 337H, and Statistics 301, 301H, 309 or 309H.",
+"prereqText": "Marketing 337 or 337H, and Statistics 301, 301H, 309 or 309H.",
+"prereqConfidence": "low",
+"sameAs": "Business Analytics 360",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "MKT 460",
+"subject": "MKT",
+"number": "460",
+"title": "Information and Analysis",
+"hours": 4.0,
+"division": "upper",
+"description": "Same as Business Analytics 360. Same as Business Analytics 460. Restricted to students in a business major. The development and analysis of information for marketing management sources. For each semester hour of credit earned, one lecture hour a week for one semester. Marketing 360, 460 and Business Analytics 360, 460 may not both be counted. Prerequisite: Marketing 337 or 337H, and Statistics 301, 301H, 309 or 309H.",
+"prereqText": "Marketing 337 or 337H, and Statistics 301, 301H, 309 or 309H.",
+"prereqConfidence": "low",
+"sameAs": "Business Analytics 360",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "MKT 363",
+"subject": "MKT",
+"number": "363",
+"title": "Professional Selling and Sales Management",
+"hours": 3.0,
+"division": "upper",
+"description": "Policies, operation, coordination, and control of personal selling activities in marketing organizations. Three lecture hours a week for one semester. Prerequisite: Marketing 320F or 337 or 337H.",
+"prereqText": "Marketing 320F or 337 or 337H.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MKT 320F"
+},
+{
+"type": "course",
+"id": "MKT 337"
+},
+{
+"type": "course",
+"id": "MKT 337H"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MKT 366P",
+"subject": "MKT",
+"number": "366P",
+"title": "Marketing Practicum",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Students apply skills in their major area and focus on additional project management skills through group projects conducted in a professional setting. Students may work with a private or a public enterprise. The equivalent of three lecture hours a week for one semester. Prerequisite: Completion of forty-five semester hours of coursework and Marketing 337 or 337H.",
+"prereqText": "Completion of forty-five semester hours of coursework and Marketing 337 or 337H.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MKT 337"
+},
+{
+"type": "course",
+"id": "MKT 337H"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "MKT 370",
+"subject": "MKT",
+"number": "370",
+"title": "Marketing Policies",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a business major. A capstone course focusing on case studies of advanced marketing problems, including analysis of markets, promotional planning, pricing, and distribution coordination. Designed to help the student develop a comprehensive understanding of marketing policy and strategy formulation. Three lecture hours a week for one semester. Prerequisite: Ninety semester hours of college coursework, including Marketing 337 or 337H; credit or registration for either Marketing 360 or 460, and one of the following: Business Administration 353, 366P, Accounting 366P, Business Analytics 366P, International Business 366P, Finance 364P, 365P, 366P, Management 347P, 366P, 367P, 369P, Management Information Systems 366P, Marketing 366P, Operations Management 366P; and three additional semester hours of elective coursework in marketing.",
+"prereqText": "Ninety semester hours of college coursework, including Marketing 337 or 337H; credit or registration for either Marketing 360 or 460, and one of the following: Business Administration 353, 366P, Accounting 366P, Business Analytics 366P, International Business 366P, Finance 364P, 365P, 366P, Management 347P, 366P, 367P, 369P, Management Information Systems 366P, Marketing 366P, Operations Management 366P; and three additional semester hours of elective coursework in marketing.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "MKT 370K",
+"subject": "MKT",
+"number": "370K",
+"title": "Retail Merchandising",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Designed to familiarize the student with all the activities associated with the sale of goods and services for final consumption and to provide an overview of the decisions involved in merchandising and management, including factors that influence and determine those decisions. Three lecture hours a week for one semester. Prerequisite: Marketing 337 or 337H.",
+"prereqText": "Marketing 337 or 337H.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MKT 337"
+},
+{
+"type": "course",
+"id": "MKT 337H"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "MKT 172",
+"subject": "MKT",
+"number": "172",
+"title": "Marketing Seminar",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Deeper-dive into principal marketing techniques and the analysis of contemporary problems. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Marketing 337 or 337H; additional prerequisites vary with topic.",
+"prereqText": "Marketing 337 or 337H; additional prerequisites vary with topic.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MKT 337"
+},
+{
+"type": "course",
+"id": "MKT 337H"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "MKT 272",
+"subject": "MKT",
+"number": "272",
+"title": "Marketing Seminar",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Deeper-dive into principal marketing techniques and the analysis of contemporary problems. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Marketing 337 or 337H; additional prerequisites vary with topic.",
+"prereqText": "Marketing 337 or 337H; additional prerequisites vary with topic.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MKT 337"
+},
+{
+"type": "course",
+"id": "MKT 337H"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "MKT 372",
+"subject": "MKT",
+"number": "372",
+"title": "Marketing Seminar",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Deeper-dive into principal marketing techniques and the analysis of contemporary problems. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Marketing 337 or 337H; additional prerequisites vary with topic.",
+"prereqText": "Marketing 337 or 337H; additional prerequisites vary with topic.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MKT 337"
+},
+{
+"type": "course",
+"id": "MKT 337H"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "MKT 178",
+"subject": "MKT",
+"number": "178",
+"title": "Marketing Micro-topics",
+"hours": 1.0,
+"division": "upper",
+"description": "Focuses on contemporary, in-demand marketing topics to help develop the foundational knowledge, hands-on experience, and skills for today's marketing ecosystem. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with topic.",
+"prereqText": "Varies with topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 278",
+"subject": "MKT",
+"number": "278",
+"title": "Marketing Micro-topics",
+"hours": 2.0,
+"division": "upper",
+"description": "Focuses on contemporary, in-demand marketing topics to help develop the foundational knowledge, hands-on experience, and skills for today's marketing ecosystem. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with topic.",
+"prereqText": "Varies with topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 378",
+"subject": "MKT",
+"number": "378",
+"title": "Marketing Micro-topics",
+"hours": 3.0,
+"division": "upper",
+"description": "Focuses on contemporary, in-demand marketing topics to help develop the foundational knowledge, hands-on experience, and skills for today's marketing ecosystem. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with topic.",
+"prereqText": "Varies with topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 179C",
+"subject": "MKT",
+"number": "179C",
+"title": "Independent Research in Marketing",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Conference course. Only one of the following may be counted: Accounting 179C, 379C, Business, Government, and Society 179, 379, Finance 179C, 379C, International Business 179C, 379C, Legal Environment of Business 179, 379, Management 179C, 379C, Management Information Systems 179, 379, Marketing 179C, 379C, Operations Management 179, 379, Risk Management 179, 379. Prerequisite: Eighteen semester hours of coursework in business and economics, six of which must be upper-division; Marketing 337 or 337H with a grade of at least C-; and consent of instructor. A student registering for this course must obtain written approval from the department chair's office, on forms provided for that purpose, before the first meeting of the course.",
+"prereqText": "Eighteen semester hours of coursework in business and economics, six of which must be upper-division; Marketing 337 or 337H with a grade of at least C-; and consent of instructor. A student registering for this course must obtain written approval from the department chair's office, on forms provided for that purpose, before the first meeting of the course.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MKT 337"
+},
+{
+"type": "course",
+"id": "MKT 337H",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "MKT 379C",
+"subject": "MKT",
+"number": "379C",
+"title": "Independent Research in Marketing",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Conference course. Only one of the following may be counted: Accounting 179C, 379C, Business, Government, and Society 179, 379, Finance 179C, 379C, International Business 179C, 379C, Legal Environment of Business 179, 379, Management 179C, 379C, Management Information Systems 179, 379, Marketing 179C, 379C, Operations Management 179, 379, Risk Management 179, 379. Prerequisite: Eighteen semester hours of coursework in business and economics, six of which must be upper-division; Marketing 337 or 337H with a grade of at least C-; and consent of instructor. A student registering for this course must obtain written approval from the department chair's office, on forms provided for that purpose, before the first meeting of the course.",
+"prereqText": "Eighteen semester hours of coursework in business and economics, six of which must be upper-division; Marketing 337 or 337H with a grade of at least C-; and consent of instructor. A student registering for this course must obtain written approval from the department chair's office, on forms provided for that purpose, before the first meeting of the course.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MKT 337"
+},
+{
+"type": "course",
+"id": "MKT 337H",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "MKT 182",
+"subject": "MKT",
+"number": "182",
+"title": "Analysis of Markets",
+"hours": 1.0,
+"division": "graduate",
+"description": "Introduction to the data and tools used to analyze the business environment and enable marketing decision making. Uses real world data and problems to evaluate strategic market opportunities and assess the impact of marketing decisions in the marketplace. Discusses analytical and empirical tools that address strategic issues of market sizing, market selection, and competitive analysis, as well as product management, customer management, and marketing function management decisions. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MKT 282",
+"subject": "MKT",
+"number": "282",
+"title": "Analysis of Markets",
+"hours": 2.0,
+"division": "graduate",
+"description": "Introduction to the data and tools used to analyze the business environment and enable marketing decision making. Uses real world data and problems to evaluate strategic market opportunities and assess the impact of marketing decisions in the marketplace. Discusses analytical and empirical tools that address strategic issues of market sizing, market selection, and competitive analysis, as well as product management, customer management, and marketing function management decisions. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MKT 382",
+"subject": "MKT",
+"number": "382",
+"title": "Analysis of Markets",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to the data and tools used to analyze the business environment and enable marketing decision making. Uses real world data and problems to evaluate strategic market opportunities and assess the impact of marketing decisions in the marketplace. Discusses analytical and empirical tools that address strategic issues of market sizing, market selection, and competitive analysis, as well as product management, customer management, and marketing function management decisions. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MKT 282C",
+"subject": "MKT",
+"number": "282C",
+"title": "Product Management for Executives",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to students in the Executive MBA Program. Explore product management with a focus on contemporary, in-demand marketing areas that provide the foundational knowledge, hands-on experience, and skills for today's marketing ecosystem. Two lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Executive MBA Program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MKT 282E",
+"subject": "MKT",
+"number": "282E",
+"title": "Strategic Marketing for Executives",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to students in the Executive MBA Program. Explore how to think strategically about marketing issues; how to analyze a business situation; and how to formulate, implement, and monitor a marketing plan through a blend of lectures, case studies, and experiential simulations. Two lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Executive MBA Program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MKT 383",
+"subject": "MKT",
+"number": "383",
+"title": "Acquisition, Consumption, and Disposition Behavior",
+"hours": 3.0,
+"division": "graduate",
+"description": "The acquisition, consumption, and disposition of goods, services, time, and ideas by individuals, families, and organizations, examined from a managerial viewpoint. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 384",
+"subject": "MKT",
+"number": "384",
+"title": "Marketing Research Methodology",
+"hours": 3.0,
+"division": "graduate",
+"description": "An applied approach to advanced marketing research, covering both the design and execution of marketing research projects and the management of the marketing research function. Three lecture hours a week for one semester. Prerequisite: Graduate standing, three semester hours of coursework in marketing, and three semester hours of coursework in statistics.",
+"prereqText": "Graduate standing, three semester hours of coursework in marketing, and three semester hours of coursework in statistics.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 386",
+"subject": "MKT",
+"number": "386",
+"title": "Advanced Marketing Management",
+"hours": 3.0,
+"division": "graduate",
+"description": "Major marketing concepts and variables, their interrelationships, and their implications for policymaking, problem solving, and strategy formulation. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MKT 188",
+"subject": "MKT",
+"number": "188",
+"title": "Marketing Micro-topics",
+"hours": 1.0,
+"division": "graduate",
+"description": "Focuses on contemporary, in-demand marketing topics to help develop the foundational knowledge, hands-on experience, and skills for today's marketing ecosystem. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing. Additional prerequisites may vary with topics.",
+"prereqText": "Graduate standing. Additional prerequisites may vary with topics.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 288",
+"subject": "MKT",
+"number": "288",
+"title": "Marketing Micro-topics",
+"hours": 2.0,
+"division": "graduate",
+"description": "Focuses on contemporary, in-demand marketing topics to help develop the foundational knowledge, hands-on experience, and skills for today's marketing ecosystem. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing. Additional prerequisites may vary with topics.",
+"prereqText": "Graduate standing. Additional prerequisites may vary with topics.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 388",
+"subject": "MKT",
+"number": "388",
+"title": "Marketing Micro-topics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Focuses on contemporary, in-demand marketing topics to help develop the foundational knowledge, hands-on experience, and skills for today's marketing ecosystem. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing. Additional prerequisites may vary with topics.",
+"prereqText": "Graduate standing. Additional prerequisites may vary with topics.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 191C",
+"subject": "MKT",
+"number": "191C",
+"title": "Independent Study",
+"hours": 1.0,
+"division": "graduate",
+"description": "For each hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 291C",
+"subject": "MKT",
+"number": "291C",
+"title": "Independent Study",
+"hours": 2.0,
+"division": "graduate",
+"description": "For each hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 391C",
+"subject": "MKT",
+"number": "391C",
+"title": "Independent Study",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 691C",
+"subject": "MKT",
+"number": "691C",
+"title": "Independent Study",
+"hours": 6.0,
+"division": "graduate",
+"description": "For each hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 691CA",
+"subject": "MKT",
+"number": "691CA",
+"title": "Independent Study",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 691CB",
+"subject": "MKT",
+"number": "691CB",
+"title": "Independent Study",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 397",
+"subject": "MKT",
+"number": "397",
+"title": "Seminar: Current Topics in Marketing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Survey and analysis of current marketing problems; their significance, evaluation, and probable outcome. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MKT 698",
+"subject": "MKT",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in marketing and consent of the graduate adviser; for 698B, Marketing 698A.",
+"prereqText": "For 698A, graduate standing in marketing and consent of the graduate adviser; for 698B, Marketing 698A.",
+"prereq": {
+"type": "course",
+"id": "MKT 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MKT 698A",
+"subject": "MKT",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in marketing and consent of the graduate adviser; for 698B, Marketing 698A.",
+"prereqText": "For 698A, graduate standing in marketing and consent of the graduate adviser; for 698B, Marketing 698A.",
+"prereq": {
+"type": "course",
+"id": "MKT 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MKT 698B",
+"subject": "MKT",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in marketing and consent of the graduate adviser; for 698B, Marketing 698A.",
+"prereqText": "For 698A, graduate standing in marketing and consent of the graduate adviser; for 698B, Marketing 698A.",
+"prereq": {
+"type": "course",
+"id": "MKT 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MKT 398R",
+"subject": "MKT",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in marketing and consent of the supervising faculty member.",
+"prereqText": "Graduate standing in marketing and consent of the supervising faculty member.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MKT 399W",
+"subject": "MKT",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MKT 699W",
+"subject": "MKT",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MKT 999W",
+"subject": "MKT",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MKT 699WA",
+"subject": "MKT",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MKT 699WB",
+"subject": "MKT",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

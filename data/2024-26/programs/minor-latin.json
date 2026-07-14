@@ -1,0 +1,49 @@
+{
+ "id": "2024-26/minor/latin",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Latin",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Latin Minor",
+  "of": [
+   {
+    "type": "all",
+    "title": "LAT 506 / LAT 507",
+    "of": [
+     {
+      "type": "course",
+      "course": "LAT 506"
+     },
+     {
+      "type": "course",
+      "course": "LAT 507"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "LAT 511K",
+    "title": "LAT 511K",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "LAT 322",
+    "title": "LAT 322",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 18.0
+}

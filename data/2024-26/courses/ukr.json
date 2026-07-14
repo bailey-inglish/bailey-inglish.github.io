@@ -1,0 +1,323 @@
+{
+"code": "UKR",
+"name": "Ukrainian",
+"courses": [
+{
+"id": "UKR 406",
+"subject": "UKR",
+"number": "406",
+"title": "First-Year Ukrainian I",
+"hours": 4.0,
+"division": "lower",
+"description": "Explore listening, speaking, reading, and writing. Four lecture hours a week for one semester. Only one of the following may be counted: Slavic and Eurasian Languages 330 (Topic: Ukrainian for Slavic Lrn I), Ukrainian 406, 308."
+},
+{
+"id": "UKR 407",
+"subject": "UKR",
+"number": "407",
+"title": "First-Year Ukrainian II",
+"hours": 4.0,
+"division": "lower",
+"description": "Continue to explore listening, speaking, reading, and writing. Four lecture hours a week for one semester. Only one of the following may be counted: Slavic and Eurasian Languages 330 (Topic: Ukrainian for Slavic Lrn II), Ukrainian 407, 309. Prerequisite: Ukrainian 406.",
+"prereqText": "Ukrainian 406.",
+"prereq": {
+"type": "course",
+"id": "UKR 406"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "UKR 308",
+"subject": "UKR",
+"number": "308",
+"title": "Ukrainian for Slavic Learners I",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to the Ukrainian language for those with a very basic background in one or more Slavic languages, who can read Cyrillic, and are familiar with some grammatical concepts. Explore listening, speaking, reading and writing skills, and integrate information on Ukrainian culture and life. Three lecture hours a week for one semester. Only one of the following may be counted: Slavic and Eurasian Languages 330 (Topic: Ukrainian for Slavic Lrn I), Ukrainian 406, 308. Prerequisite: A basic background in at least one Slavic Language and/or the ability to read Cyrillic.",
+"prereqText": "A basic background in at least one Slavic Language and/or the ability to read Cyrillic.",
+"prereqConfidence": "none"
+},
+{
+"id": "UKR 309",
+"subject": "UKR",
+"number": "309",
+"title": "Ukrainian for Slavic Learners II",
+"hours": 3.0,
+"division": "lower",
+"description": "Continued introduction to the Ukrainian language for those with a very basic background in one or more Slavic languages. Continue to explore listening, speaking, reading and writing skills, as well as grammar. Read authentic texts and write responses to them, while integrating information on Ukrainian culture and life. Three lecture hours a week for one semester. Only one of the following may be counted: Slavic and Eurasian Languages 330 (Topic: Ukrainian for Slavic Lrn II), Ukrainian 407, 309. Prerequisite: Ukrainian 308.",
+"prereqText": "Ukrainian 308.",
+"prereq": {
+"type": "course",
+"id": "UKR 308"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "UKR 312K",
+"subject": "UKR",
+"number": "312K",
+"title": "Second-Year Ukrainian I",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore listening, speaking, reading, and writing at the second-year level. Three lecture hours a week for one semester. Prerequisite: Ukrainian 309 or 407.",
+"prereqText": "Ukrainian 309 or 407.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "UKR 309"
+},
+{
+"type": "course",
+"id": "UKR 407"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "UKR 312L",
+"subject": "UKR",
+"number": "312L",
+"title": "Second-Year Ukrainian II",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore listening, speaking, reading, and writing at the advanced second-year level. Three lecture hours a week for one semester. Prerequisite: Ukrainian 312K.",
+"prereqText": "Ukrainian 312K.",
+"prereq": {
+"type": "course",
+"id": "UKR 312K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "UKR 119S",
+"subject": "UKR",
+"number": "119S",
+"title": "Topics in Ukrainian",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 219S",
+"subject": "UKR",
+"number": "219S",
+"title": "Topics in Ukrainian",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 319S",
+"subject": "UKR",
+"number": "319S",
+"title": "Topics in Ukrainian",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 419S",
+"subject": "UKR",
+"number": "419S",
+"title": "Topics in Ukrainian",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 519S",
+"subject": "UKR",
+"number": "519S",
+"title": "Topics in Ukrainian",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 619S",
+"subject": "UKR",
+"number": "619S",
+"title": "Topics in Ukrainian",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 719S",
+"subject": "UKR",
+"number": "719S",
+"title": "Topics in Ukrainian",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 819S",
+"subject": "UKR",
+"number": "819S",
+"title": "Topics in Ukrainian",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 919S",
+"subject": "UKR",
+"number": "919S",
+"title": "Topics in Ukrainian",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 619SA",
+"subject": "UKR",
+"number": "619SA",
+"title": "Topics in Ukrainian",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 619SB",
+"subject": "UKR",
+"number": "619SB",
+"title": "Topics in Ukrainian",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 325",
+"subject": "UKR",
+"number": "325",
+"title": "Third-Year Ukrainian I",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore oral expression, reading, and composition. Three lecture hours a week for one semester. Prerequisite: Ukrainian 312L.",
+"prereqText": "Ukrainian 312L.",
+"prereq": {
+"type": "course",
+"id": "UKR 312L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "UKR 326",
+"subject": "UKR",
+"number": "326",
+"title": "Third-Year Ukrainian II",
+"hours": 3.0,
+"division": "upper",
+"description": "Continue to explore oral expression, readings, and composition. Three lecture hours a week for one semester. Prerequisite: Ukrainian 325.",
+"prereqText": "Ukrainian 325.",
+"prereq": {
+"type": "course",
+"id": "UKR 325"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "UKR 129S",
+"subject": "UKR",
+"number": "129S",
+"title": "Topics in Ukrainian",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 229S",
+"subject": "UKR",
+"number": "229S",
+"title": "Topics in Ukrainian",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 329S",
+"subject": "UKR",
+"number": "329S",
+"title": "Topics in Ukrainian",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 429S",
+"subject": "UKR",
+"number": "429S",
+"title": "Topics in Ukrainian",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 529S",
+"subject": "UKR",
+"number": "529S",
+"title": "Topics in Ukrainian",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 629S",
+"subject": "UKR",
+"number": "629S",
+"title": "Topics in Ukrainian",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 729S",
+"subject": "UKR",
+"number": "729S",
+"title": "Topics in Ukrainian",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 829S",
+"subject": "UKR",
+"number": "829S",
+"title": "Topics in Ukrainian",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 929S",
+"subject": "UKR",
+"number": "929S",
+"title": "Topics in Ukrainian",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 629SA",
+"subject": "UKR",
+"number": "629SA",
+"title": "Topics in Ukrainian",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "UKR 629SB",
+"subject": "UKR",
+"number": "629SB",
+"title": "Topics in Ukrainian",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad advisor in the academic unit. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+}
+]
+}

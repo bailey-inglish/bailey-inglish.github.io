@@ -1,0 +1,92 @@
+{
+ "id": "2024-26/minor/philosophy-of-mind-and-language",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Philosophy of Mind and Language",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Philosophy of Mind and Language Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "PHL 332",
+    "title": "PHL 332",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "PHL 313",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHL 313",
+      "title": "PHL 313",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "PHL 313Q"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "PHL 303M",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHL 303M",
+      "title": "PHL 303M",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "PHL 323M"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six additional hours chosen from the following courses:",
+    "filter": {
+     "courses": [
+      "PHL 303M",
+      "PHL 323M",
+      "PHL 332M",
+      "PHL 344K",
+      "PHL 358",
+      "PHL 365",
+      "PSY 305",
+      "LIN 306",
+      "LIN 353N",
+      "LIN 372L"
+     ],
+     "label": "Six additional hours chosen from the following courses:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Six additional hours chosen from the following courses:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

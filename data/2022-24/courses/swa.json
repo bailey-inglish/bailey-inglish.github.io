@@ -1,0 +1,170 @@
+{
+"code": "SWA",
+"name": "Swahili",
+"courses": [
+{
+"id": "SWA 601C",
+"subject": "SWA",
+"number": "601C",
+"title": "Intensive Swahili I",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester. Swahili 601C and 506 may not both be counted. Swahili 601C and 507 may not both be counted."
+},
+{
+"id": "SWA 601CA",
+"subject": "SWA",
+"number": "601CA",
+"title": "Intensive Swahili I",
+"hours": 3.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester. Swahili 601C and 506 may not both be counted. Swahili 601C and 507 may not both be counted."
+},
+{
+"id": "SWA 601CB",
+"subject": "SWA",
+"number": "601CB",
+"title": "Intensive Swahili I",
+"hours": 3.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester. Swahili 601C and 506 may not both be counted. Swahili 601C and 507 may not both be counted."
+},
+{
+"id": "SWA 506",
+"subject": "SWA",
+"number": "506",
+"title": "First-Year Swahili I",
+"hours": 5.0,
+"division": "lower",
+"description": "Five lecture hours a week for one semester. Swahili 601C and 506 may not both be counted."
+},
+{
+"id": "SWA 507",
+"subject": "SWA",
+"number": "507",
+"title": "First-Year Swahili II",
+"hours": 5.0,
+"division": "lower",
+"description": "Five lecture hours a week for one semester. Swahili 601C and 507 may not both be counted. Prerequisite: Swahili 506.",
+"prereqText": "Swahili 506.",
+"prereq": {
+"type": "course",
+"id": "SWA 506"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SWA 611C",
+"subject": "SWA",
+"number": "611C",
+"title": "Intensive Swahili II",
+"hours": 6.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester. Swahili 611C and 312K may not both be counted. Swahili 611C and 312L may not both be counted. Prerequisite: Swahili 601C.",
+"prereqText": "Swahili 601C.",
+"prereq": {
+"type": "course",
+"id": "SWA 601C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SWA 611CA",
+"subject": "SWA",
+"number": "611CA",
+"title": "Intensive Swahili II",
+"hours": 3.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester. Swahili 611C and 312K may not both be counted. Swahili 611C and 312L may not both be counted. Prerequisite: Swahili 601C.",
+"prereqText": "Swahili 601C.",
+"prereq": {
+"type": "course",
+"id": "SWA 601C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SWA 611CB",
+"subject": "SWA",
+"number": "611CB",
+"title": "Intensive Swahili II",
+"hours": 3.0,
+"division": "lower",
+"description": "Six lecture hours a week for one semester. Swahili 611C and 312K may not both be counted. Swahili 611C and 312L may not both be counted. Prerequisite: Swahili 601C.",
+"prereqText": "Swahili 601C.",
+"prereq": {
+"type": "course",
+"id": "SWA 601C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SWA 612",
+"subject": "SWA",
+"number": "612",
+"title": "Accelerated Second-Year Swahili",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native speakers of Swahili. Eight lecture hours a week for one semester."
+},
+{
+"id": "SWA 612A",
+"subject": "SWA",
+"number": "612A",
+"title": "Accelerated Second-Year Swahili",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native speakers of Swahili. Eight lecture hours a week for one semester."
+},
+{
+"id": "SWA 612B",
+"subject": "SWA",
+"number": "612B",
+"title": "Accelerated Second-Year Swahili",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native speakers of Swahili. Eight lecture hours a week for one semester."
+},
+{
+"id": "SWA 312K",
+"subject": "SWA",
+"number": "312K",
+"title": "Second-Year Swahili I",
+"hours": 3.0,
+"division": "lower",
+"description": "Three lecture hours a week for one semester. Swahili 611C and 312K may not both be counted. Prerequisite: Swahili 507.",
+"prereqText": "Swahili 507.",
+"prereq": {
+"type": "course",
+"id": "SWA 507"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SWA 312L",
+"subject": "SWA",
+"number": "312L",
+"title": "Second-Year Swahili II",
+"hours": 3.0,
+"division": "lower",
+"description": "Three lecture hours a week for one semester. Swahili 611C and 312L may not both be counted. Prerequisite: Swahili 312K.",
+"prereqText": "Swahili 312K.",
+"prereq": {
+"type": "course",
+"id": "SWA 312K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SWA 360",
+"subject": "SWA",
+"number": "360",
+"title": "Conference Course in Swahili Language and Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in Swahili language or literature. Conference course. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+}
+]
+}

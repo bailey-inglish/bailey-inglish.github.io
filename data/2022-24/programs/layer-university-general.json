@@ -1,0 +1,48 @@
+{
+ "id": "2022-24/layer/university-general",
+ "edition": "2022-24",
+ "type": "layer",
+ "name": "University General Requirements",
+ "college": "The University",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/the-university/graduation/general-requirements/",
+ "rules": {
+  "type": "all",
+  "title": "General requirements for graduation",
+  "of": [
+   {
+    "type": "gpa",
+    "min": 2.0,
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/the-university/graduation/general-requirements/"
+    },
+    "title": "University GPA of at least 2.00"
+   },
+   {
+    "type": "hours",
+    "hours": 60,
+    "filter": {
+     "label": "Any coursework in residence"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/the-university/graduation/general-requirements/"
+    },
+    "title": "60 hours in residence",
+    "inResidence": true
+   },
+   {
+    "type": "hours",
+    "hours": 6,
+    "filter": {
+     "majorField": true,
+     "division": "upper",
+     "label": "Upper-division coursework in the major, in residence"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/the-university/graduation/general-requirements/"
+    },
+    "title": "Six advanced in-residence hours in major",
+    "inResidence": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "id": "2022-24/minor/archaeology",
+ "edition": "2022-24",
+ "type": "minor",
+ "name": "Archaeology",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Archaeology Minor",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "ANT 304",
+    "of": [
+     {
+      "type": "course",
+      "course": "ANT 304",
+      "title": "ANT 304",
+      "source": {
+       "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "ANT 304T"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester credit hours from the following courses:",
+    "filter": {
+     "courses": [
+      "ANT 324L",
+      "ANT 453",
+      "ANT 353E",
+      "ANT 662",
+      "ANT 462M"
+     ],
+     "label": "Three semester credit hours from the following courses:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Three semester credit hours from the following courses:"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Nine hours of upper-division courses, chosen from an approved list available in the department office",
+    "title": "Nine hours of upper-division courses, chosen from an approved list available in ",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Nine hours of upper-division courses, chosen from an approved list available in the department office"
+    }
+   }
+  ]
+ },
+ "auto": true
+}

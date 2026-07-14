@@ -1,0 +1,182 @@
+{
+"code": "MIC",
+"name": "Microbiology",
+"courses": [
+{
+"id": "MIC 383K",
+"subject": "MIC",
+"number": "383K",
+"title": "Topics in Advanced Microbiology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine microbiology topics in-depth. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate Standing.",
+"prereqText": "Graduate Standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MIC 394M",
+"subject": "MIC",
+"number": "394M",
+"title": "Bacterial Behavior and Signaling Mechanisms",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine molecular, cellular, organismal, ecological, and evolutionary biology of bacteria. Focus on a large number of bacteria, both Gram-positive and Gram-negative from four major phyla, that live and survive both as free-living microbes, in groups, and in both beneficial and pathogenic associations with eukaryotic hosts. Explore evolution of organelles and behaviors, including receiving and transducing signals that produce a variety of outcomes such as chemotaxis and motility, morphogenesis and development, secretion and virulence, quorum sensing and biofilms, bacterial warfare, and antibiotic production and tolerance. Three lecture hours a week for one semester. Biology 394M (Topic: Bactrl Behav/ Signaling Mech) and Microbiology 394M may not both be counted. Prerequisite: Graduate Standing.",
+"prereqText": "Graduate Standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MIC 395G",
+"subject": "MIC",
+"number": "395G",
+"title": "Structure and Function of Proteins and Membranes",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore advanced biochemistry concepts and the scientific process. Examine a detailed consideration of the structure and function of proteins, carbohydrates, lipids and nucleic acids, as well as discussion of enzyme mechanisms and kinetics. Three lecture hours a week for one semester. Only one of the following may be counted: Biochemistry 395F, 395G, Biology 395I, 395G, Molecular Biology 395I, 395G, Microbiology 395G. Prerequisite: Graduate standing; a one-year undergraduate sequence in biochemistry is strongly recommended.",
+"prereqText": "Graduate standing; a one-year undergraduate sequence in biochemistry is strongly recommended.",
+"prereqConfidence": "none"
+},
+{
+"id": "MIC 395H",
+"subject": "MIC",
+"number": "395H",
+"title": "Cell Biology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine mechanisms of growth control, cell cycle regulation, mitosis, cell signaling, protein targeting, and the integration of these processes. Three lecture hours a week for one semester. Only one of the following may be counted: Biology 395H, Chemistry 395H, Molecular Biology 395H, Microbiology 395H. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MIC 395J",
+"subject": "MIC",
+"number": "395J",
+"title": "Genes, Genomes, and Gene Expression",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine prokaryotic and eukaryotic mechanisms of DNA replication and transcription; posttranscriptional processing of transcription products; and mechanism and regulation of the translation of messenger RNAs. Three lecture hours a week for one semester. Only one of the following may be counted: Biochemistry 395J, Biology 395J, Molecular Biology 395J, Microbiology 395J. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MIC 395M",
+"subject": "MIC",
+"number": "395M",
+"title": "Advanced Microbiology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore technical and conceptual aspects of microbiology. Focus on experimental methods and design. Discuss career opportunities and development with industry professionals. Three lecture hours a week for one semester. Biology 395M and Microbiology 395M may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MIC 698",
+"subject": "MIC",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in microbiology and consent of the graduate advisor; for 698B, Microbiology 698A.",
+"prereqText": "For 698A, graduate standing in microbiology and consent of the graduate advisor; for 698B, Microbiology 698A.",
+"prereq": {
+"type": "course",
+"id": "MIC 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MIC 698A",
+"subject": "MIC",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in microbiology and consent of the graduate advisor; for 698B, Microbiology 698A.",
+"prereqText": "For 698A, graduate standing in microbiology and consent of the graduate advisor; for 698B, Microbiology 698A.",
+"prereq": {
+"type": "course",
+"id": "MIC 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MIC 698B",
+"subject": "MIC",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in microbiology and consent of the graduate advisor; for 698B, Microbiology 698A.",
+"prereqText": "For 698A, graduate standing in microbiology and consent of the graduate advisor; for 698B, Microbiology 698A.",
+"prereq": {
+"type": "course",
+"id": "MIC 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MIC 398R",
+"subject": "MIC",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in microbiology and consent of the graduate advisor.",
+"prereqText": "Graduate standing in microbiology and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MIC 399W",
+"subject": "MIC",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Offered on the credit/no credit basis only. Offered on the credit/no credit basis only.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MIC 699W",
+"subject": "MIC",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "Offered on the credit/no credit basis only. Offered on the credit/no credit basis only.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MIC 999W",
+"subject": "MIC",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "Offered on the credit/no credit basis only. Offered on the credit/no credit basis only.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MIC 699WA",
+"subject": "MIC",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Offered on the credit/no credit basis only. Offered on the credit/no credit basis only.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MIC 699WB",
+"subject": "MIC",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Offered on the credit/no credit basis only. Offered on the credit/no credit basis only.",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

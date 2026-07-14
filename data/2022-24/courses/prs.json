@@ -1,0 +1,690 @@
+{
+"code": "PRS",
+"name": "Persian",
+"courses": [
+{
+"id": "PRS 601C",
+"subject": "PRS",
+"number": "601C",
+"title": "Intensive Persian I",
+"hours": 6.0,
+"division": "lower",
+"description": "First semester of intensive Persian language instruction. Six lecture hours a week for one semester. Persian 601C and 506 may not both be counted. Persian 601C and 507 may not both be counted."
+},
+{
+"id": "PRS 601CA",
+"subject": "PRS",
+"number": "601CA",
+"title": "Intensive Persian I",
+"hours": 3.0,
+"division": "lower",
+"description": "First semester of intensive Persian language instruction. Six lecture hours a week for one semester. Persian 601C and 506 may not both be counted. Persian 601C and 507 may not both be counted."
+},
+{
+"id": "PRS 601CB",
+"subject": "PRS",
+"number": "601CB",
+"title": "Intensive Persian I",
+"hours": 3.0,
+"division": "lower",
+"description": "First semester of intensive Persian language instruction. Six lecture hours a week for one semester. Persian 601C and 506 may not both be counted. Persian 601C and 507 may not both be counted."
+},
+{
+"id": "PRS 506",
+"subject": "PRS",
+"number": "506",
+"title": "First-Year Persian I",
+"hours": 5.0,
+"division": "lower",
+"description": "Elementary colloquial Persian. Five lecture hours a week for one semester. Persian 601C and 506 may not both be counted."
+},
+{
+"id": "PRS 507",
+"subject": "PRS",
+"number": "507",
+"title": "First-Year Persian II",
+"hours": 5.0,
+"division": "lower",
+"description": "Continuation of Persian 506. Elementary literary Persian. Five lecture hours a week for one semester. Persian 601C and 507 may not both be counted. Prerequisite: Persian 506 with a grade of at least C.",
+"prereqText": "Persian 506 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "PRS 506",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRS 611C",
+"subject": "PRS",
+"number": "611C",
+"title": "Intensive Persian II",
+"hours": 6.0,
+"division": "lower",
+"description": "Second semester of intensive Persian language instruction. Six lecture hours a week for one semester. Only one of the following may be counted: Persian 611C, 612C,512K. Only one of the following may be counted: Persian 611C, 612C, 512L. Prerequisite: Persian 601C or 507 with a grade of at least C.",
+"prereqText": "Persian 601C or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "PRS 601C"
+},
+{
+"type": "course",
+"id": "PRS 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRS 611CA",
+"subject": "PRS",
+"number": "611CA",
+"title": "Intensive Persian II",
+"hours": 3.0,
+"division": "lower",
+"description": "Second semester of intensive Persian language instruction. Six lecture hours a week for one semester. Only one of the following may be counted: Persian 611C, 612C,512K. Only one of the following may be counted: Persian 611C, 612C, 512L. Prerequisite: Persian 601C or 507 with a grade of at least C.",
+"prereqText": "Persian 601C or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "PRS 601C"
+},
+{
+"type": "course",
+"id": "PRS 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRS 611CB",
+"subject": "PRS",
+"number": "611CB",
+"title": "Intensive Persian II",
+"hours": 3.0,
+"division": "lower",
+"description": "Second semester of intensive Persian language instruction. Six lecture hours a week for one semester. Only one of the following may be counted: Persian 611C, 612C,512K. Only one of the following may be counted: Persian 611C, 612C, 512L. Prerequisite: Persian 601C or 507 with a grade of at least C.",
+"prereqText": "Persian 601C or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "PRS 601C"
+},
+{
+"type": "course",
+"id": "PRS 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRS 612C",
+"subject": "PRS",
+"number": "612C",
+"title": "Intensive Persian for Heritage Speakers",
+"hours": 6.0,
+"division": "lower",
+"description": "Designed for heritage speakers with prior exposure to Persian speaking and listening. This may include heritage Persian language speakers who have had little or no formal instruction in the language, and speakers who understand at a near-native level but have no knowledge or limited knowledge of reading and writing. Six lecture hours a week for one semester. Only one of the following may be counted: Persian 611C, 612C, 512K. Only one of the following may be counted: Persian 611C, 612C, 512L."
+},
+{
+"id": "PRS 612CA",
+"subject": "PRS",
+"number": "612CA",
+"title": "Intensive Persian for Heritage Speakers",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed for heritage speakers with prior exposure to Persian speaking and listening. This may include heritage Persian language speakers who have had little or no formal instruction in the language, and speakers who understand at a near-native level but have no knowledge or limited knowledge of reading and writing. Six lecture hours a week for one semester. Only one of the following may be counted: Persian 611C, 612C, 512K. Only one of the following may be counted: Persian 611C, 612C, 512L."
+},
+{
+"id": "PRS 612CB",
+"subject": "PRS",
+"number": "612CB",
+"title": "Intensive Persian for Heritage Speakers",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed for heritage speakers with prior exposure to Persian speaking and listening. This may include heritage Persian language speakers who have had little or no formal instruction in the language, and speakers who understand at a near-native level but have no knowledge or limited knowledge of reading and writing. Six lecture hours a week for one semester. Only one of the following may be counted: Persian 611C, 612C, 512K. Only one of the following may be counted: Persian 611C, 612C, 512L."
+},
+{
+"id": "PRS 512K",
+"subject": "PRS",
+"number": "512K",
+"title": "Second-Year Persian I",
+"hours": 5.0,
+"division": "lower",
+"description": "Not open to native speakers of Persian. Five lecture hours a week for one semester. Only one of the following may be counted: Persian 611C, 612C, 512K. Prerequisite: Persian 507 with a grade of at least C.",
+"prereqText": "Persian 507 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "PRS 507",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRS 512L",
+"subject": "PRS",
+"number": "512L",
+"title": "Second-Year Persian II",
+"hours": 5.0,
+"division": "lower",
+"description": "Not open to native speakers of Persian. Continuation of Persian 512K. Five lecture hours a week for one semester. Only one of the following may be counted: Persian 611C, 612C, 512L. Prerequisite: Persian 512K with a grade of at least C.",
+"prereqText": "Persian 512K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "PRS 512K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRS 119S",
+"subject": "PRS",
+"number": "119S",
+"title": "Topics in Persian",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 219S",
+"subject": "PRS",
+"number": "219S",
+"title": "Topics in Persian",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 319S",
+"subject": "PRS",
+"number": "319S",
+"title": "Topics in Persian",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 419S",
+"subject": "PRS",
+"number": "419S",
+"title": "Topics in Persian",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 519S",
+"subject": "PRS",
+"number": "519S",
+"title": "Topics in Persian",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 619S",
+"subject": "PRS",
+"number": "619S",
+"title": "Topics in Persian",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 719S",
+"subject": "PRS",
+"number": "719S",
+"title": "Topics in Persian",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 819S",
+"subject": "PRS",
+"number": "819S",
+"title": "Topics in Persian",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 919S",
+"subject": "PRS",
+"number": "919S",
+"title": "Topics in Persian",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 619SA",
+"subject": "PRS",
+"number": "619SA",
+"title": "Topics in Persian",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 619SB",
+"subject": "PRS",
+"number": "619SB",
+"title": "Topics in Persian",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 322K",
+"subject": "PRS",
+"number": "322K",
+"title": "Intermediate Persian I",
+"hours": 3.0,
+"division": "upper",
+"description": "Not open to native speakers of Persian. First semester of intermediate Persian language instruction. Three lecture hours a week for one semester. Prerequisite: Persian 611C, 612C, or 512L with a grade of at least C.",
+"prereqText": "Persian 611C, 612C, or 512L with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "PRS 322L",
+"subject": "PRS",
+"number": "322L",
+"title": "Intermediate Persian II",
+"hours": 3.0,
+"division": "upper",
+"description": "Not open to native speakers of Persian. Second semester of intermediate Persian language instruction. Three lecture hours a week for one semester. Prerequisite: Persian 322K with a grade of at least C.",
+"prereqText": "Persian 322K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "PRS 322K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRS 329",
+"subject": "PRS",
+"number": "329",
+"title": "Topics in Persian Language, Literature, and Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of various aspects of Persian linguistics, literature, and culture. Conducted in Persian. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Persian 612C or 322K.",
+"prereqText": "Persian 612C or 322K.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "PRS 612C"
+},
+{
+"type": "course",
+"id": "PRS 322K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRS 129S",
+"subject": "PRS",
+"number": "129S",
+"title": "Topics in Persian",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 229S",
+"subject": "PRS",
+"number": "229S",
+"title": "Topics in Persian",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 329S",
+"subject": "PRS",
+"number": "329S",
+"title": "Topics in Persian",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 429S",
+"subject": "PRS",
+"number": "429S",
+"title": "Topics in Persian",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 529S",
+"subject": "PRS",
+"number": "529S",
+"title": "Topics in Persian",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 629S",
+"subject": "PRS",
+"number": "629S",
+"title": "Topics in Persian",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 729S",
+"subject": "PRS",
+"number": "729S",
+"title": "Topics in Persian",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 829S",
+"subject": "PRS",
+"number": "829S",
+"title": "Topics in Persian",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 929S",
+"subject": "PRS",
+"number": "929S",
+"title": "Topics in Persian",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 629SA",
+"subject": "PRS",
+"number": "629SA",
+"title": "Topics in Persian",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 629SB",
+"subject": "PRS",
+"number": "629SB",
+"title": "Topics in Persian",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Middle Eastern Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "PRS 130D",
+"subject": "PRS",
+"number": "130D",
+"title": "Persian across Disciplines",
+"hours": 1.0,
+"division": "upper",
+"description": "Students read and discuss Persian language materials related to the subject matter of another designated course. One lecture hour a week for one semester. No more than three semester hours may be counted toward the major in either Middle Eastern Studies or Middle Eastern Languages and Culture. May be repeated for credit. Prerequisite: Upper-division standing, Persian 322L, and consent of instructor.",
+"prereqText": "Upper-division standing, Persian 322L, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "PRS 322L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRS 369",
+"subject": "PRS",
+"number": "369",
+"title": "Conference Course in Persian Language and Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in Persian language or literature. Conference course. May be repeated for credit. Prerequisite: Nine semester hours of upper-division coursework in Persian and consent of instructor.",
+"prereqText": "Nine semester hours of upper-division coursework in Persian and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRS 380C",
+"subject": "PRS",
+"number": "380C",
+"title": "Topics in Persian Language",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and six semester hours of upper-division coursework in Persian or consent of instructor.",
+"prereqText": "Graduate standing, and six semester hours of upper-division coursework in Persian or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRS 381H",
+"subject": "PRS",
+"number": "381H",
+"title": "Intensive Graduate Language Instruction I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive cultural and literacy-focused training in Persian at the beginning level in preparation for research with Persian sources. Includes an independent project component. Incoming students are placed in the appropriate level by means of a departmental placement test. Six lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRS 381J",
+"subject": "PRS",
+"number": "381J",
+"title": "Intensive Graduate Language Instruction II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive cultural and literacy-focused training in Persian at the low-intermediate level in preparation for research with Persian sources. Incoming students are placed in the appropriate level by means of a departmental placement test. Six lecture hours a week for one semester. Prerequisite: Graduate standing and Persian 381H with a grade of at least B.",
+"prereqText": "Graduate standing and Persian 381H with a grade of at least B.",
+"prereq": {
+"type": "course",
+"id": "PRS 381H",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRS 381K",
+"subject": "PRS",
+"number": "381K",
+"title": "Intermediate Graduate Language Instruction I",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive cultural and literacy-focused training in Persian at the intermediate level in preparation for research with Persian sources. Includes an independent project component. Incoming students are placed in the appropriate level by means of a departmental placement test. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Persian 381J with a grade of at least B.",
+"prereqText": "Graduate standing and Persian 381J with a grade of at least B.",
+"prereq": {
+"type": "course",
+"id": "PRS 381J",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRS 381L",
+"subject": "PRS",
+"number": "381L",
+"title": "Intermediate Graduate Language Instruction II",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive cultural and literacy-focused training in Persian at the high-intermediate level in preparation for research with Persian sources. Includes an independent project component. Incoming students are placed in the appropriate level by means of a departmental placement test. Three lecture hours a week for one semester. Prerequisite: Graduate standing and Persian 381K with a grade of at least B.",
+"prereqText": "Graduate standing and Persian 381K with a grade of at least B.",
+"prereq": {
+"type": "course",
+"id": "PRS 381K",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRS 382C",
+"subject": "PRS",
+"number": "382C",
+"title": "Topics in Persian Linguistics and Philology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in Persian studies.",
+"prereqText": "Graduate standing in Persian studies.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRS 384C",
+"subject": "PRS",
+"number": "384C",
+"title": "Topics in Persian Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of various aspects and periods of Persian language and literature. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, three semester hours of upper-division coursework in Persian, and consent of instructor.",
+"prereqText": "Graduate standing, three semester hours of upper-division coursework in Persian, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRS 389",
+"subject": "PRS",
+"number": "389",
+"title": "Conference Course in Persian Studies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised individual study of selected problems in Persian studies. The equivalent of three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRS 698",
+"subject": "PRS",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Persian studies and consent of the graduate adviser; for 698B, Persian 698A.",
+"prereqText": "For 698A, graduate standing in Persian studies and consent of the graduate adviser; for 698B, Persian 698A.",
+"prereq": {
+"type": "course",
+"id": "PRS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PRS 698A",
+"subject": "PRS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Persian studies and consent of the graduate adviser; for 698B, Persian 698A.",
+"prereqText": "For 698A, graduate standing in Persian studies and consent of the graduate adviser; for 698B, Persian 698A.",
+"prereq": {
+"type": "course",
+"id": "PRS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PRS 698B",
+"subject": "PRS",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in Persian studies and consent of the graduate adviser; for 698B, Persian 698A.",
+"prereqText": "For 698A, graduate standing in Persian studies and consent of the graduate adviser; for 698B, Persian 698A.",
+"prereq": {
+"type": "course",
+"id": "PRS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PRS 398R",
+"subject": "PRS",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in Persian studies and consent of the graduate adviser.",
+"prereqText": "Graduate standing in Persian studies and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PRS 399W",
+"subject": "PRS",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PRS 699W",
+"subject": "PRS",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PRS 999W",
+"subject": "PRS",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PRS 699WA",
+"subject": "PRS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "PRS 699WB",
+"subject": "PRS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

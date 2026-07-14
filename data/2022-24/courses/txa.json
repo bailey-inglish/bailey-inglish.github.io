@@ -1,0 +1,1862 @@
+{
+"code": "TXA",
+"name": "Textiles and Apparel",
+"courses": [
+{
+"id": "TXA 301",
+"subject": "TXA",
+"number": "301",
+"title": "Clothing the Planet",
+"hours": 3.0,
+"division": "lower",
+"description": "Study of the role textiles and apparel play in human lives. Introduction to the textile and apparel industries, and the broad perspective and core skill sets that characterize the field. Subjects include terminology, fibers and fabrics, textile technology, product development through fashion design and retail merchandising, global sourcing and manufacturing, international promotion and marketing, and textile conservation, exhibition, and collection management. Three lecture hours a week for one semester. Textiles and Apparel 301 and 301C may not both be counted."
+},
+{
+"id": "TXA 301C",
+"subject": "TXA",
+"number": "301C",
+"title": "Introduction to the Fashion Industry",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore the apparel and textiles industry with an emphasis on ethical and sustainable issues related to the industry. Examine a broad view of the interrelated fields of design, merchandising, product development, and textiles alongside emerging themes in the field. Three lecture hours a week for one semester. Textiles and Apparel 301 and 301C may not both be counted."
+},
+{
+"id": "TXA 103",
+"subject": "TXA",
+"number": "103",
+"title": "Topics in Textiles and Apparel",
+"hours": 1.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, the equivalent of one hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 203",
+"subject": "TXA",
+"number": "203",
+"title": "Topics in Textiles and Apparel",
+"hours": 2.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, the equivalent of one hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 303",
+"subject": "TXA",
+"number": "303",
+"title": "Topics in Textiles and Apparel",
+"hours": 3.0,
+"division": "lower",
+"description": "For each semester hour of credit earned, the equivalent of one hour a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 205",
+"subject": "TXA",
+"number": "205",
+"title": "Textiles",
+"hours": 2.0,
+"division": "lower",
+"description": "Chemical and physical properties of fibers and yarns, fabric construction, and finishes. For 205, one lecture hour and one-and-one-half laboratory hours a week for one semester; for 305, two lecture hours and one-and-one-half laboratory hours a week for one semester."
+},
+{
+"id": "TXA 305",
+"subject": "TXA",
+"number": "305",
+"title": "Textiles",
+"hours": 3.0,
+"division": "lower",
+"description": "Chemical and physical properties of fibers and yarns, fabric construction, and finishes. For 205, one lecture hour and one-and-one-half laboratory hours a week for one semester; for 305, two lecture hours and one-and-one-half laboratory hours a week for one semester."
+},
+{
+"id": "TXA 105L",
+"subject": "TXA",
+"number": "105L",
+"title": "Textiles Laboratory",
+"hours": 1.0,
+"division": "lower",
+"description": "Three laboratory hours a week for one semester. Prerequisite: Credit or registration for Textiles and Apparel 205.",
+"prereqText": "Credit or registration for Textiles and Apparel 205.",
+"prereq": {
+"type": "course",
+"id": "TXA 205"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 212K",
+"subject": "TXA",
+"number": "212K",
+"title": "Apparel Industry",
+"hours": 2.0,
+"division": "lower",
+"description": "Introduction to the integrated apparel design industry from the creative and merchandising perspective. Two lecture hours a week for one semester. Prerequisite: Credit with a grade of at least C- or registration for Textiles and Apparel 212L; and the following coursework with a grade of at least C- in each course: Textiles and Apparel 316L or 316Q; and 219C or 119L.",
+"prereqText": "Credit with a grade of at least C- or registration for Textiles and Apparel 212L; and the following coursework with a grade of at least C- in each course: Textiles and Apparel 316L or 316Q; and 219C or 119L.",
+"prereqConfidence": "low"
+},
+{
+"id": "TXA 212L",
+"subject": "TXA",
+"number": "212L",
+"title": "Apparel Product Development and Design Laboratory",
+"hours": 2.0,
+"division": "lower",
+"description": "Six laboratory hours a week for one semester. Prerequisite: Credit or registration for Textiles and Apparel 212K.",
+"prereqText": "Credit or registration for Textiles and Apparel 212K.",
+"prereq": {
+"type": "course",
+"id": "TXA 212K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 313",
+"subject": "TXA",
+"number": "313",
+"title": "Aesthetics: Theory and Practice",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to the theoretical and practical aspects of the principles of design and visual literacy in the field of textiles and apparel. Introduction to the principles and theories that define what is aesthetically pleasing and the vocabulary necessary to identity, describe, and critique them. Three lecture hours a week for one semester."
+},
+{
+"id": "TXA 314C",
+"subject": "TXA",
+"number": "314C",
+"title": "Computer-Aided Design for Apparel",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore computer technology used to create textile prints, weaves, illustrations, flat patterns, promotional pieces, and pattern markers. One lecture hour and six laboratory hours a week for one semester. Textiles and Apparel 314C and 355C may not both be counted. Prerequisite: Credit or registration for Textiles and Apparel 301C.",
+"prereqText": "Credit or registration for Textiles and Apparel 301C.",
+"prereq": {
+"type": "course",
+"id": "TXA 301C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 214K",
+"subject": "TXA",
+"number": "214K",
+"title": "Product Development",
+"hours": 2.0,
+"division": "lower",
+"description": "Introduction to all stages of product development involved in fashion and functional design with an emphasis on target market identification, cost analysis, material selection, and the organization of product development within the industry structure. Apply product development skills and strategies involved in fashion and functional design. For 214K, one lecture hour and two laboratory hours a week for one semester; for 314K, one lecture hour and three laboratory hours a week for one semester. Textiles and Apparel 303 (Topic: Product Development) and 314K may not both be counted. Prerequisite: Textiles and Apparel 314C with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 314C with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 314C",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 314K",
+"subject": "TXA",
+"number": "314K",
+"title": "Product Development",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to all stages of product development involved in fashion and functional design with an emphasis on target market identification, cost analysis, material selection, and the organization of product development within the industry structure. Apply product development skills and strategies involved in fashion and functional design. For 214K, one lecture hour and two laboratory hours a week for one semester; for 314K, one lecture hour and three laboratory hours a week for one semester. Textiles and Apparel 303 (Topic: Product Development) and 314K may not both be counted. Prerequisite: Textiles and Apparel 314C with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 314C with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 314C",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 214L",
+"subject": "TXA",
+"number": "214L",
+"title": "Product Development Laboratory",
+"hours": 2.0,
+"division": "lower",
+"description": "Application of product development skills and strategies involved in fashion and functional design. Emphasis on target market identification, cost analysis, material selection, and the position of product development within the industry structure. Six laboratory hours a week for one semester. Prerequisite: Concurrent registration for Textiles and Apparel 214K.",
+"prereqText": "Concurrent registration for Textiles and Apparel 214K.",
+"prereq": {
+"type": "course",
+"id": "TXA 214K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 316L",
+"subject": "TXA",
+"number": "316L",
+"title": "Apparel I",
+"hours": 3.0,
+"division": "lower",
+"description": "Industrial techniques of pattern design and garment construction. One lecture hour and six laboratory hours a week for one semester. Prerequisite: Textiles and Apparel 305 with a grade of at least C- and consent of instructor.",
+"prereqText": "Textiles and Apparel 305 with a grade of at least C- and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "TXA 305",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 316Q",
+"subject": "TXA",
+"number": "316Q",
+"title": "Sewn Products Analysis",
+"hours": 3.0,
+"division": "lower",
+"description": "Evaluation of soft goods, including materials, quality of work, and costs. Three lecture hours a week for one semester. Textiles and Apparel 316Q and 316R may not both be counted. Prerequisite: Textiles and Apparel 301C with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 301C with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 301C",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 316R",
+"subject": "TXA",
+"number": "316R",
+"title": "Sewn-Product Analysis and Manufacturing",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore apparel production and manufacturing processes, including an evaluation of soft goods, materials, quality of work, and costs. Examine conceptual framework of the manufacturing process for future apparel professionals. Discuss the apparel production cycle: how apparel products are designed, created, and distributed. Analyze garment design and construction features to understand their relationship to apparel cost and quality. Three lecture hours a week for one semester. Textiles and Apparel 316Q and 316R may not both be counted. Prerequisite: Textiles and Apparel 301C with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 301C with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 301C",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 317D",
+"subject": "TXA",
+"number": "317D",
+"title": "Fashion Design Thinking",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to the process of primary and secondary research, design, and construction. Two lecture hours and one-and-one-half laboratory hours a week for one semester. Prerequisite: Textiles and Apparel 316L with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 316L with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 316L",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 317R",
+"subject": "TXA",
+"number": "317R",
+"title": "Merchandising Math I",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore foundational concepts in retail math using Excel. Build analytical skills and a foundation in merchandising systems. Three lecture hours a week for one semester. Prerequisite: Textiles and Apparel 301C with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 301C with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 301C",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 317T",
+"subject": "TXA",
+"number": "317T",
+"title": "Textiles Fabrication",
+"hours": 3.0,
+"division": "lower",
+"description": "Apply textile theory and properties to create yarn and fiber based materials such as woven, knit, and non-woven textiles. One lecture hour and three lab hours a week for one semester. Prerequisite: For Textiles and Apparel majors, Textiles and Apparel 305 with a grade of at least C-; for others, consent of instructor.",
+"prereqText": "For Textiles and Apparel majors, Textiles and Apparel 305 with a grade of at least C-; for others, consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "TXA 305",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 318E",
+"subject": "TXA",
+"number": "318E",
+"title": "Fashioning America",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore the history of the United States from pre-Civil War to contemporary society as reflected through targeted as well as changing styles in costume and dress. Examine the ability of dress as a device that can communicate political, social, economic, aesthetic and cultural change. Analyze clothing choices as related to exterior motivations including protection, gender, status and decoration. Relate the power of dress to particular demographic groups throughout history. Acquire a vocabulary with which to describe apparel and related items. Three lecture hours a week for one semester. Textiles and Apparel 303 (Topic: Fashioning America) and 318E may not both be counted."
+},
+{
+"id": "TXA 318T",
+"subject": "TXA",
+"number": "318T",
+"title": "Medical Textiles",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore special and functional textiles to address medical applications and public health challenges such as artificial organs and tissue scaffolds, medical aid devices, the use of antiviral and antibacterial materials, and personal protection equipment. Three lecture hours a week for one semester. Prerequisite: For Textiles and Apparel majors, Textiles and Apparel 305 with a grade of at least C-; for others, consent of instructor.",
+"prereqText": "For Textiles and Apparel majors, Textiles and Apparel 305 with a grade of at least C-; for others, consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "TXA 305",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 219C",
+"subject": "TXA",
+"number": "219C",
+"title": "Applied Art in Visual Presentation",
+"hours": 2.0,
+"division": "lower",
+"description": "Explore the principles and elements of design as related to merchandising presentation, display planning, execution, and coordination. For each semester hour of credit earned, one lecture hour a week for one semester. Prerequisite: Textiles and Apparel 301C with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 301C with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 301C",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 319C",
+"subject": "TXA",
+"number": "319C",
+"title": "Applied Art in Visual Presentation",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore the principles and elements of design as related to merchandising presentation, display planning, execution, and coordination. For each semester hour of credit earned, one lecture hour a week for one semester. Prerequisite: Textiles and Apparel 301C with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 301C with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 301C",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 119L",
+"subject": "TXA",
+"number": "119L",
+"title": "Applied Art in Visual Presentation Laboratory",
+"hours": 1.0,
+"division": "lower",
+"description": "Application of the principles and elements of design as related to merchandise presentation, display planning, execution, and coordination. Three laboratory hours a week for one semester. Students with credit for Textiles and Apparel 319 may not earn credit for Textiles and Apparel 119L. Prerequisite: Credit with a grade of at least C- or registration for Textiles and Apparel 219C.",
+"prereqText": "Credit with a grade of at least C- or registration for Textiles and Apparel 219C.",
+"prereq": {
+"type": "course",
+"id": "TXA 219C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 319R",
+"subject": "TXA",
+"number": "319R",
+"title": "Merchandise Presentations in Retail Environments",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore an integrated approach to communicating, presenting and evaluating two-and three-dimensional design strategies for merchandise presentation (both digital and brick and mortar environments). Examine components of both design and execution rooted in a foundation of visual merchandising theory, skills, and terminology. One lecture hour and three laboratory hours a week for one semester. Prerequisite: Textiles and Apparel 301C with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 301C with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 301C",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 119S",
+"subject": "TXA",
+"number": "119S",
+"title": "Topics in Textiles and Apparel",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 219S",
+"subject": "TXA",
+"number": "219S",
+"title": "Topics in Textiles and Apparel",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 319S",
+"subject": "TXA",
+"number": "319S",
+"title": "Topics in Textiles and Apparel",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 419S",
+"subject": "TXA",
+"number": "419S",
+"title": "Topics in Textiles and Apparel",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 519S",
+"subject": "TXA",
+"number": "519S",
+"title": "Topics in Textiles and Apparel",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 619S",
+"subject": "TXA",
+"number": "619S",
+"title": "Topics in Textiles and Apparel",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 719S",
+"subject": "TXA",
+"number": "719S",
+"title": "Topics in Textiles and Apparel",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 819S",
+"subject": "TXA",
+"number": "819S",
+"title": "Topics in Textiles and Apparel",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 919S",
+"subject": "TXA",
+"number": "919S",
+"title": "Topics in Textiles and Apparel",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 619SA",
+"subject": "TXA",
+"number": "619SA",
+"title": "Topics in Textiles and Apparel",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 619SB",
+"subject": "TXA",
+"number": "619SB",
+"title": "Topics in Textiles and Apparel",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 325K",
+"subject": "TXA",
+"number": "325K",
+"title": "Culture, Gender, and Appearance",
+"hours": 3.0,
+"division": "upper",
+"description": "Social, economic, aesthetic, and political aspects of historic costume and of the evolution of modern dress. Three lecture hours a week for one semester. Prerequisite: Textiles and Apparel 219C and 119L with a grade of at least C- in each, or Art History 301.",
+"prereqText": "Textiles and Apparel 219C and 119L with a grade of at least C- in each, or Art History 301.",
+"prereqConfidence": "low"
+},
+{
+"id": "TXA 325L",
+"subject": "TXA",
+"number": "325L",
+"title": "History of Dress and Cultural Change I",
+"hours": 3.0,
+"division": "upper",
+"description": "Social, economic, aesthetic, and political aspects of costume evolution from ancient times through the Renaissance. Three lecture hours a week for one semester. Textiles and Apparel 325K and 325L may not both be counted. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 325M",
+"subject": "TXA",
+"number": "325M",
+"title": "History of Dress and Cultural Change II",
+"hours": 3.0,
+"division": "upper",
+"description": "Social, economic, aesthetic, and political aspects of costume evolution from the Baroque period through modern times. Three lecture hours a week for one semester. Textiles and Apparel 325K and 325M may not both be counted."
+},
+{
+"id": "TXA 126",
+"subject": "TXA",
+"number": "126",
+"title": "Apparel II",
+"hours": 1.0,
+"division": "upper",
+"description": "Advanced apparel construction techniques using industry standards and portfolio development. For 126, one lecture hour a week for one semester; for 326, one lecture and five laboratory hours a week for one semester. Prerequisite: Textiles and Apparel 316L with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 316L with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 316L",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 326",
+"subject": "TXA",
+"number": "326",
+"title": "Apparel II",
+"hours": 3.0,
+"division": "upper",
+"description": "Advanced apparel construction techniques using industry standards and portfolio development. For 126, one lecture hour a week for one semester; for 326, one lecture and five laboratory hours a week for one semester. Prerequisite: Textiles and Apparel 316L with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 316L with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 316L",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 226L",
+"subject": "TXA",
+"number": "226L",
+"title": "Apparel II Laboratory",
+"hours": 2.0,
+"division": "upper",
+"description": "Advanced apparel construction techniques using industry standards and portfolio development. Six laboratory hours a week for one semester. Prerequisite: Credit or registration for Textiles and Apparel 126.",
+"prereqText": "Credit or registration for Textiles and Apparel 126.",
+"prereq": {
+"type": "course",
+"id": "TXA 126"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 327",
+"subject": "TXA",
+"number": "327",
+"title": "Clothing and Human Behavior",
+"hours": 3.0,
+"division": "upper",
+"description": "The social, psychological, and nonverbal significance of clothing and the influence of clothing on behavior. Three lecture hours a week for one semester. Textiles and Apparel 327 and 327C may not both be counted."
+},
+{
+"id": "TXA 327C",
+"subject": "TXA",
+"number": "327C",
+"title": "Social Psychology of Dress and Appearance",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore cultural, social, and psychological significance of dress and appearance. Examine theories related to the ways individuals communicate and interpret the self, identity, and social roles through dress and appearance in contemporary society. Three lecture hours a week for one semester. Textiles and Apparel 327 and 327C may not both be counted. Prerequisite: Three semester hours of coursework in psychology, sociology, or the School of Human Ecology.",
+"prereqText": "Three semester hours of coursework in psychology, sociology, or the School of Human Ecology.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 328",
+"subject": "TXA",
+"number": "328",
+"title": "Research Methods in Textiles and Apparel",
+"hours": 3.0,
+"division": "upper",
+"description": "Basic research methodology and academic writing. Three lecture hours a week for one semester. Prerequisite: Textiles and Apparel 301C with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 301C with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 301C",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 129S",
+"subject": "TXA",
+"number": "129S",
+"title": "Topics in Textiles and Apparel",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 229S",
+"subject": "TXA",
+"number": "229S",
+"title": "Topics in Textiles and Apparel",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 329S",
+"subject": "TXA",
+"number": "329S",
+"title": "Topics in Textiles and Apparel",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 429S",
+"subject": "TXA",
+"number": "429S",
+"title": "Topics in Textiles and Apparel",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 529S",
+"subject": "TXA",
+"number": "529S",
+"title": "Topics in Textiles and Apparel",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 629S",
+"subject": "TXA",
+"number": "629S",
+"title": "Topics in Textiles and Apparel",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 729S",
+"subject": "TXA",
+"number": "729S",
+"title": "Topics in Textiles and Apparel",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 829S",
+"subject": "TXA",
+"number": "829S",
+"title": "Topics in Textiles and Apparel",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 929S",
+"subject": "TXA",
+"number": "929S",
+"title": "Topics in Textiles and Apparel",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 629SA",
+"subject": "TXA",
+"number": "629SA",
+"title": "Topics in Textiles and Apparel",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 629SB",
+"subject": "TXA",
+"number": "629SB",
+"title": "Topics in Textiles and Apparel",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "TXA 331",
+"subject": "TXA",
+"number": "331",
+"title": "Textiles and Apparel in a Global Market",
+"hours": 3.0,
+"division": "upper",
+"description": "Overview of the textiles and apparel industry including apparel industry standards, labor costs, economics, distribution, and structure in the modern global marketplace. Subjects include the analysis of consumption patterns and retailing systems to inform product development; exploring cross-cultural comparisons between global consumer markets; understanding importing and exporting systems and other procedures involved in modern supply chain activities; and grasping the collaborative nature of innovation and design, manufacturing and distribution, retailing, and customer satisfaction leading to sales in the global market. Three lecture hours a week for one semester. Textiles and Apparel 331 and 331E may not both be counted. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 331E",
+"subject": "TXA",
+"number": "331E",
+"title": "Textiles and Apparel in the Global Marketplace",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore global textile and apparel industries and the factors affecting global sourcing from product concept to distribution with an emphasis on global issues. Examine the textile and apparel complex and its history, international trade and the effects of trade policy, the sourcing process, selection of sourcing locations and partners, sourcing regions of the world, and current trends. Three lecture hours a week for one semester. Textiles and Apparel 331 and 331E may not both be counted. Prerequisite: Textiles and Apparel 301C, 316Q, or 314 with a grade of at least C- in each.",
+"prereqText": "Textiles and Apparel 301C, 316Q, or 314 with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "TXA 340E",
+"subject": "TXA",
+"number": "340E",
+"title": "Paris: Fashion, History, and Techniques",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore workshops and tours focused on fashion, its history, and techniques. Textiles and Apparel 340E and Textiles and Apparel 365 (Topic: Paris: History/Techniq-Fra) may not both be counted."
+},
+{
+"id": "TXA 340T",
+"subject": "TXA",
+"number": "340T",
+"title": "Sustainable Textile Manufacturing",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore sustainable textile manufacturing practices including renewable fiber manufacturing, textile circular manufacturing, and apparel recycling. Three lecture hours a week for one semester. Prerequisite: For Textiles and Apparel majors, Textiles and Apparel 305 with a grade of at least C-; for others, any one science-based course in Chemistry, Biology, Physics, Computer Science, Mechanical Engineering, Chemical Engineering, Civil Engineering, or Electrical and Computer Engineering.",
+"prereqText": "For Textiles and Apparel majors, Textiles and Apparel 305 with a grade of at least C-; for others, any one science-based course in Chemistry, Biology, Physics, Computer Science, Mechanical Engineering, Chemical Engineering, Civil Engineering, or Electrical and Computer Engineering.",
+"prereq": {
+"type": "course",
+"id": "TXA 305",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 341E",
+"subject": "TXA",
+"number": "341E",
+"title": "Accessory Design, Product Development, and Merchandising",
+"hours": 3.0,
+"division": "upper",
+"description": "Connect with industry partners to explore design and product development processes through the brand's commercial lens. Three lecture hours a week for one semester. Textiles and Apparel 341E and Textiles and Apparel 365 (Topic: Accessory Design, Product Development and Merchandising) may not both be counted. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 342E",
+"subject": "TXA",
+"number": "342E",
+"title": "New York: Apparel Industry",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the UT in New York program. Explore significant apparel-related businesses such as major retailers, fashion designers, lifestyle brands, apparel and beauty product manufacturers, and licensing firms. Interact with industry leaders such as C-Suite Leaders, Directors, Presidents, VP's Merchants, and museums such as The Metropolitan Costume Institute. Three hours per week for one semester. Textiles and Apparel 365 (Topic: New York City Tour-NYC) and Textiles and Apparel 342E may not both be counted. Prerequisite: Textiles and Apparel 301C, 305, and 314 with a grade of at least C- in each.",
+"prereqText": "Textiles and Apparel 301C, 305, and 314 with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 301C",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "TXA 305",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "TXA 314",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the UT in New York program."
+},
+{
+"id": "TXA 350",
+"subject": "TXA",
+"number": "350",
+"title": "Advanced Apparel Design Portfolio",
+"hours": 3.0,
+"division": "upper",
+"description": "Extensive sociological, cultural, and historic visual research for apparel design. Through a range of projects that incorporate computer-aided design, product illustration, technical packets, proposed production plans, and target market identification, students will produce a professional level, hard copy and online, portfolio that will help prepare them for a career in the apparel industry. The equivalent of three lecture hours a week for one semester. Textiles and Apparel 350 and 350D may not both be counted. Prerequisite: Upper-division standing; Textiles and Apparel 164K (Topic 1) and 264L (Topic 1); and admission to the Apparel Design Internship Program.",
+"prereqText": "Upper-division standing; Textiles and Apparel 164K (Topic 1) and 264L (Topic 1); and admission to the Apparel Design Internship Program.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 164K"
+},
+{
+"type": "course",
+"id": "TXA 264L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 350D",
+"subject": "TXA",
+"number": "350D",
+"title": "Advanced Apparel Portfolio",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine sociological, cultural, and historic visual research for apparel design. Explore a range of projects that incorporate computer-aided design, product illustration, technical packets, proposed production plans, and target market identification. The equivalent of three lecture hours a week for one semester. Textiles and Apparel 350 and 350D may not both be counted. Prerequisite: For Textile and Apparel majors, Textiles and Apparel 314C with a grade of at least C-; for others, consent of instructor.",
+"prereqText": "For Textile and Apparel majors, Textiles and Apparel 314C with a grade of at least C-; for others, consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "TXA 314C",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 151",
+"subject": "TXA",
+"number": "151",
+"title": "Pre-Internship Seminar",
+"hours": 1.0,
+"division": "upper",
+"description": "Preparation course for students seeking internships. Subjects include application, internship interview process, effective professional communication, ethical decision making, leadership development, site expectations, and the impact of business environments on personal and career effectiveness in the field of textiles and apparel. One lecture hour a week for one semester. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 351D",
+"subject": "TXA",
+"number": "351D",
+"title": "Advanced Apparel Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Expand range of expertise in developing design proposals to include knitted or printed textiles, other apparel categories, menswear, size inclusivity, children's wear, and accessories. Focus on expanding depth and breadth of skills as relevant to career opportunities. Two lecture hours and one-and-one-half laboratory hours a week for one semester. Prerequisite: Textiles and Apparel 314C and 314K with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 314C and 314K with a grade of at least C-.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 314C"
+},
+{
+"type": "course",
+"id": "TXA 314K",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 351R",
+"subject": "TXA",
+"number": "351R",
+"title": "Merchandising Technology",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine various technologies relevant to merchandising and retailing. One lecture hour and three laboratory hours a week for one semester. Prerequisite: Textiles and Apparel 317R with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 317R with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 317R",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 352C",
+"subject": "TXA",
+"number": "352C",
+"title": "Field Experience in Textile Conservation Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Participation in an approved internship after completion of all conservation science stream coursework. Students will be placed in an appropriate site under the supervision of an available professional such that students may experience collection management, artifact storage and conservation, exhibit planning/installation, environmental monitoring, and/or other museum or conservation activities. A formal agreement between the faculty supervisor and internship sponsor will govern activities and be monitored throughout the experience through assignments, regular electronic communication, and a site visit. For Textiles and Apparel 352C, a minimum of 150 hours of supervised fieldwork for one semester. For Textiles and Apparel 652C, a minimum of 225 hours of supervised fieldwork for one semester. Prerequisite: Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
+"prereqText": "Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 219C"
+},
+{
+"type": "course",
+"id": "TXA 119L"
+},
+{
+"type": "course",
+"id": "TXA 354C"
+},
+{
+"type": "course",
+"id": "TXA 354D"
+},
+{
+"type": "course",
+"id": "TXA 354E"
+},
+{
+"type": "course",
+"id": "TXA 354F"
+},
+{
+"type": "course",
+"id": "TXA 355D"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 652C",
+"subject": "TXA",
+"number": "652C",
+"title": "Field Experience in Textile Conservation Internship",
+"hours": 6.0,
+"division": "upper",
+"description": "Participation in an approved internship after completion of all conservation science stream coursework. Students will be placed in an appropriate site under the supervision of an available professional such that students may experience collection management, artifact storage and conservation, exhibit planning/installation, environmental monitoring, and/or other museum or conservation activities. A formal agreement between the faculty supervisor and internship sponsor will govern activities and be monitored throughout the experience through assignments, regular electronic communication, and a site visit. For Textiles and Apparel 352C, a minimum of 150 hours of supervised fieldwork for one semester. For Textiles and Apparel 652C, a minimum of 225 hours of supervised fieldwork for one semester. Prerequisite: Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
+"prereqText": "Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 219C"
+},
+{
+"type": "course",
+"id": "TXA 119L"
+},
+{
+"type": "course",
+"id": "TXA 354C"
+},
+{
+"type": "course",
+"id": "TXA 354D"
+},
+{
+"type": "course",
+"id": "TXA 354E"
+},
+{
+"type": "course",
+"id": "TXA 354F"
+},
+{
+"type": "course",
+"id": "TXA 355D"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 652CA",
+"subject": "TXA",
+"number": "652CA",
+"title": "Field Experience in Textile Conservation Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Participation in an approved internship after completion of all conservation science stream coursework. Students will be placed in an appropriate site under the supervision of an available professional such that students may experience collection management, artifact storage and conservation, exhibit planning/installation, environmental monitoring, and/or other museum or conservation activities. A formal agreement between the faculty supervisor and internship sponsor will govern activities and be monitored throughout the experience through assignments, regular electronic communication, and a site visit. For Textiles and Apparel 352C, a minimum of 150 hours of supervised fieldwork for one semester. For Textiles and Apparel 652C, a minimum of 225 hours of supervised fieldwork for one semester. Prerequisite: Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
+"prereqText": "Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 219C"
+},
+{
+"type": "course",
+"id": "TXA 119L"
+},
+{
+"type": "course",
+"id": "TXA 354C"
+},
+{
+"type": "course",
+"id": "TXA 354D"
+},
+{
+"type": "course",
+"id": "TXA 354E"
+},
+{
+"type": "course",
+"id": "TXA 354F"
+},
+{
+"type": "course",
+"id": "TXA 355D"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 652CB",
+"subject": "TXA",
+"number": "652CB",
+"title": "Field Experience in Textile Conservation Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Participation in an approved internship after completion of all conservation science stream coursework. Students will be placed in an appropriate site under the supervision of an available professional such that students may experience collection management, artifact storage and conservation, exhibit planning/installation, environmental monitoring, and/or other museum or conservation activities. A formal agreement between the faculty supervisor and internship sponsor will govern activities and be monitored throughout the experience through assignments, regular electronic communication, and a site visit. For Textiles and Apparel 352C, a minimum of 150 hours of supervised fieldwork for one semester. For Textiles and Apparel 652C, a minimum of 225 hours of supervised fieldwork for one semester. Prerequisite: Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
+"prereqText": "Upper-division standing; and Admission to the Conservation Certificate Program, or Textiles and Apparel 219C, 119L, 354C, 354D, 354E, 354F, and 355D, and admission to the Conservation Internship Program for Conservation Science, Option IV major.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 219C"
+},
+{
+"type": "course",
+"id": "TXA 119L"
+},
+{
+"type": "course",
+"id": "TXA 354C"
+},
+{
+"type": "course",
+"id": "TXA 354D"
+},
+{
+"type": "course",
+"id": "TXA 354E"
+},
+{
+"type": "course",
+"id": "TXA 354F"
+},
+{
+"type": "course",
+"id": "TXA 355D"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 352D",
+"subject": "TXA",
+"number": "352D",
+"title": "Field Experience in Apparel Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Application of apparel design techniques and principles in a professional environment. At least 154 hours of fieldwork for one semester. Prerequisite: Admission to the Apparel Design Internship Program, and Textiles and Apparel 164K (Topic 1: Flat Pattern) and 264L (Topic 1: Flat Pattern) with a grade of at least C- in each.",
+"prereqText": "Admission to the Apparel Design Internship Program, and Textiles and Apparel 164K (Topic 1: Flat Pattern) and 264L (Topic 1: Flat Pattern) with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 164K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "TXA 264L",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 352E",
+"subject": "TXA",
+"number": "352E",
+"title": "Historic Apparel Collections and Exhibit Management",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the history of fashion, design thinking, visual display design, and execution. One lecture hour and three laboratory hours a week for one semester. Prerequisite: Textiles and Apparel 325L or Textiles and Apparel 325M with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 325L or Textiles and Apparel 325M with a grade of at least C-.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "TXA 325L"
+},
+{
+"type": "course",
+"id": "TXA 325M",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 352M",
+"subject": "TXA",
+"number": "352M",
+"title": "Field Experience in Retail Merchandising",
+"hours": 3.0,
+"division": "upper",
+"description": "Application of merchandising techniques and principles in a professional environment. At least 154 hours of supervised fieldwork for one semester. Prerequisite: Admission to the Retail Merchandising Internship Program.",
+"prereqText": "Admission to the Retail Merchandising Internship Program.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 353",
+"subject": "TXA",
+"number": "353",
+"title": "Field Experience I",
+"hours": 3.0,
+"division": "upper",
+"description": "Application of merchandising strategic planning in a professional environment with faculty and site director supervision. At least 150 hours of supervised fieldwork for one semester. Textiles and Apparel 315K and Textiles and Apparel 353 may not both be counted. Prerequisite: Admission to the Retail Merchandising Internship Program.",
+"prereqText": "Admission to the Retail Merchandising Internship Program.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 353D",
+"subject": "TXA",
+"number": "353D",
+"title": "Apparel Design Mentorship",
+"hours": 3.0,
+"division": "upper",
+"description": "Connect with a Textiles and Apparel design alum - a professional designer- as a mentor. Build awareness of current apparel industry practices and standards expected for entry level design positions. Two lecture hours and one-and-one-half laboratory hours a week for one semester. Textiles and Apparel 353D and 365 (Topics: Apparel Design Mentors) may not both be counted. Prerequisite: Textiles and Apparel 350 with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 350 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 350",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 354C",
+"subject": "TXA",
+"number": "354C",
+"title": "Material Properties and Deterioration",
+"hours": 3.0,
+"division": "upper",
+"description": "Overview of the major mechanisms of textile deterioration from a variety of sources including light, dirt, various insects and microorganisms, as well as mechanical wear and tear. Examination of the peculiarities of these deterioration phenomena through the study of the basic chemical and physical properties of the fibers constituting the textiles. Three lecture hours a week for one semester. Prerequisite: Textiles and Apparel 354E with a grade of C- or better.",
+"prereqText": "Textiles and Apparel 354E with a grade of C- or better.",
+"prereq": {
+"type": "course",
+"id": "TXA 354E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 354D",
+"subject": "TXA",
+"number": "354D",
+"title": "Instrumental Methods for Conservation Assessment",
+"hours": 3.0,
+"division": "upper",
+"description": "Overview of primary instrumental methods for evaluating historical textiles in terms of physical characteristics, chemical content, strength loss, structural deterioration, color change, and overall structural integrity and status of impact of environmental factors. Focus on instrumental features, measuring procedures, and interpretation of instrumental data. Three lecture hours a week for one semester. Prerequisite: Textiles and Apparel 354E with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 354E with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 354E",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 354E",
+"subject": "TXA",
+"number": "354E",
+"title": "Conservation Planning and Preventive Treatments",
+"hours": 3.0,
+"division": "upper",
+"description": "Implementation and management of textile conservation. Subjects include general requirements for preserving historical textiles, procedures for planning textile conservation projects, and major physical and chemical methods of preventive and postdamage treatments for historical textiles. One lecture hour and four laboratory hours a week for one semester. Prerequisite: The following with a grade of at least C-: Chemistry 320M, Textiles and Apparel 260L, and 260M.",
+"prereqText": "The following with a grade of at least C-: Chemistry 320M, Textiles and Apparel 260L, and 260M.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CH 320M"
+},
+{
+"type": "course",
+"id": "TXA 260L"
+},
+{
+"type": "course",
+"id": "TXA 260M"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 354F",
+"subject": "TXA",
+"number": "354F",
+"title": "Advanced Exhibit Planning and Installation",
+"hours": 3.0,
+"division": "upper",
+"description": "Planning and implementation of a full museum exhibit including budget, selection and preparation of artifacts, prop construction, signage, educational and promotional materials, donor/supporter communication, and opening event. Serves as a pre-internship/capstone course for conservation science majors. Six laboratory hours a week for one semester. Prerequisite: Textiles and Apparel 325L, 325M, and 355D.",
+"prereqText": "Textiles and Apparel 325L, 325M, and 355D.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 325L"
+},
+{
+"type": "course",
+"id": "TXA 325M"
+},
+{
+"type": "course",
+"id": "TXA 355D"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 155",
+"subject": "TXA",
+"number": "155",
+"title": "Problems Course",
+"hours": 1.0,
+"division": "upper",
+"description": "Intensive study of selected problems of an interdisciplinary nature. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 355",
+"subject": "TXA",
+"number": "355",
+"title": "Problems Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Intensive study of selected problems of an interdisciplinary nature. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 355C",
+"subject": "TXA",
+"number": "355C",
+"title": "Computer-Aided Design for Apparel",
+"hours": 3.0,
+"division": "upper",
+"description": "Computer technology used to create textile prints, weaves, illustrations, flat patterns, promotional pieces, and pattern markers. One lecture hour and six laboratory hours a week for one semester. Textiles and Apparel 314C and 355C may not both be counted. Prerequisite: Textiles and Apparel 205 and 105L with a grade of at least C- in each; and credit with a grade of at least C- or registration for Textiles and Apparel 164K (Topic 1: Flat Pattern) and 264L (Topic 1: Flat Pattern); for non-majors, consent of instructor.",
+"prereqText": "Textiles and Apparel 205 and 105L with a grade of at least C- in each; and credit with a grade of at least C- or registration for Textiles and Apparel 164K (Topic 1: Flat Pattern) and 264L (Topic 1: Flat Pattern); for non-majors, consent of instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "TXA 355D",
+"subject": "TXA",
+"number": "355D",
+"title": "Textiles Artifact Management and Conservation",
+"hours": 3.0,
+"division": "upper",
+"description": "Principles and techniques in the identification, documentation, conservation, and exhibition of textile-based artifacts. Six laboratory hours a week for one semester. Prerequisite: Textiles and Apparel 325M.",
+"prereqText": "Textiles and Apparel 325M.",
+"prereq": {
+"type": "course",
+"id": "TXA 325M"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 355K",
+"subject": "TXA",
+"number": "355K",
+"title": "Textile and Apparel Economics",
+"hours": 3.0,
+"division": "upper",
+"description": "Economic and regulatory aspects of the textile and apparel industries. Three lecture hours a week for one semester. Prerequisite: Textiles and Apparel 205 and 105L with a grade of at least C- in each, and Economics 304K and 304L with a grade of at least C- in each.",
+"prereqText": "Textiles and Apparel 205 and 105L with a grade of at least C- in each, and Economics 304K and 304L with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 205",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "TXA 105L",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "ECO 304K",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "ECO 304L",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 355N",
+"subject": "TXA",
+"number": "355N",
+"title": "History of Textiles",
+"hours": 3.0,
+"division": "upper",
+"description": "Role of textiles in the social, economic, aesthetic, and technological development of society; including production and design of textiles throughout history. Three lecture hours a week for one semester. Prerequisite: Textiles and Apparel 205 and 105L and three semester hours of coursework in art history, with a grade of at least C- in each course.",
+"prereqText": "Textiles and Apparel 205 and 105L and three semester hours of coursework in art history, with a grade of at least C- in each course.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 205",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "TXA 105L",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 355P",
+"subject": "TXA",
+"number": "355P",
+"title": "Problems in Retail Merchandising",
+"hours": 3.0,
+"division": "upper",
+"description": "Intensive study of selected problems related to field experience; development of analytical and problem-solving skills for retailing. At least 154 hours of supervised fieldwork for one semester. Prerequisite: Admission to the Retail Merchandising Internship Program.",
+"prereqText": "Admission to the Retail Merchandising Internship Program.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 356",
+"subject": "TXA",
+"number": "356",
+"title": "Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Reflect on the internship and faculty mentorship. Three hours a week for one semester. Face to face hours will vary based upon intern requirements Prerequisite: Textiles and Apparel 151 or Textiles and Apparel 350 with a grade of at least C- and consent of the Director of Textiles and Apparel.",
+"prereqText": "Textiles and Apparel 151 or Textiles and Apparel 350 with a grade of at least C- and consent of the Director of Textiles and Apparel.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "TXA 151"
+},
+{
+"type": "course",
+"id": "TXA 350",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 359H",
+"subject": "TXA",
+"number": "359H",
+"title": "Honors Reading Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual reading on special subjects. Conference course. Prerequisite: Upper-division standing, a University grade point average of at least 3.00, and consent of the undergraduate adviser.",
+"prereqText": "Upper-division standing, a University grade point average of at least 3.00, and consent of the undergraduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 360",
+"subject": "TXA",
+"number": "360",
+"title": "Textile Testing",
+"hours": 3.0,
+"division": "upper",
+"description": "Analyze and evaluate textile performance. One lecture hour and three laboratory hours a week for one semester Textiles and Apparel 360 and 260M may not both be counted. Prerequisite: Textiles and Apparel 305 with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 305 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 305",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 260L",
+"subject": "TXA",
+"number": "260L",
+"title": "Advanced Textiles",
+"hours": 2.0,
+"division": "upper",
+"description": "Composition, structure, and properties of textile products; contributions of textile research. For each semester hour of credit earned, one lecture hour a week for one semester. Prerequisite: Textiles and Apparel 305 with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 305 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 305",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 360L",
+"subject": "TXA",
+"number": "360L",
+"title": "Advanced Textiles",
+"hours": 3.0,
+"division": "upper",
+"description": "Composition, structure, and properties of textile products; contributions of textile research. For each semester hour of credit earned, one lecture hour a week for one semester. Prerequisite: Textiles and Apparel 305 with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 305 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 305",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 361",
+"subject": "TXA",
+"number": "361",
+"title": "Consumer Behavior in the Marketplace",
+"hours": 3.0,
+"division": "upper",
+"description": "Internal and external factors that influence consumer behavior in the marketplace. Application of concepts and theories from the social sciences to the areas of textiles, clothing, and appearance; experience in conducting market and consumer research. Three lecture hours a week for one semester."
+},
+{
+"id": "TXA 361T",
+"subject": "TXA",
+"number": "361T",
+"title": "Biopolymers and Biomaterials",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine bio-fibers, bio-materials, and membrane formation and applications from a textile foundation. Three lecture hours a week for one semester. Prerequisite: Textiles and Apparel 305, Textiles and Apparel 360, and Chemistry 301N with a grade of at least C- in each.",
+"prereqText": "Textiles and Apparel 305, Textiles and Apparel 360, and Chemistry 301N with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 305",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "TXA 360",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "CH 301N",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 362D",
+"subject": "TXA",
+"number": "362D",
+"title": "CLO 3D",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore technology, pattern-making and garment construction intertwined with a modern approach to garment design. Utilize CLO 3D software for 3D rendering and flat pattern design on a virtual croquis. One lecture hour and three hours of laboratory a week for one semester. Prerequisite: Textiles and Apparel 366D with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 366D with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 366D",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 362T",
+"subject": "TXA",
+"number": "362T",
+"title": "Smart Textiles and Apparel Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore advanced technologies of conductive yarns, e-textiles and wearable technology integration. Two lecture hours and one-and-one-half laboratory hours a week for one semester. Prerequisite: For Textiles and Apparel Majors, Textiles and Apparel 305 and 360 with a grade of at least C-; for others, any one science-based course in Chemistry, Biology, Physics, Computer Science, Mechanical Engineering, Chemical Engineering, Civil Engineering, or Electrical & Computer Engineering.",
+"prereqText": "For Textiles and Apparel Majors, Textiles and Apparel 305 and 360 with a grade of at least C-; for others, any one science-based course in Chemistry, Biology, Physics, Computer Science, Mechanical Engineering, Chemical Engineering, Civil Engineering, or Electrical & Computer Engineering.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 305"
+},
+{
+"type": "course",
+"id": "TXA 360",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 363D",
+"subject": "TXA",
+"number": "363D",
+"title": "Jewelry Design and Technology",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore 3D CAD software, such as Fusion 360 to create renderings and models. Utilize technology equipment such as 3D printing and laser cutting to create a real life sample of original designs. One lecture hour and three laboratory hours a week for one semester. Prerequisite: Junior or Senior standing.",
+"prereqText": "Junior or Senior standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 363T",
+"subject": "TXA",
+"number": "363T",
+"title": "Nanotechnologies in Textiles",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore sustainable textile manufacturing practices including renewable fiber manufacturing, textile circular manufacturing, and apparel recycling. Two lecture hours and one-and-one-half laboratory hours a week for one semester. Prerequisite: Textiles and Apparel 305 and 360 both with a grade of at least C-, and any one of the following Chemistry courses: 301, 301C, 301H, or 301N.",
+"prereqText": "Textiles and Apparel 305 and 360 both with a grade of at least C-, and any one of the following Chemistry courses: 301, 301C, 301H, or 301N.",
+"prereqConfidence": "low"
+},
+{
+"id": "TXA 164K",
+"subject": "TXA",
+"number": "164K",
+"title": "Advanced Problems in Clothing",
+"hours": 1.0,
+"division": "upper",
+"description": "Creative application of flat pattern or draping processes. One lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Textiles and Apparel 212K, 212L, 316L, 126, and 226L, with a grade of at least C- in each; and credit with a grade of at least C- or registration for the same topic of Textiles and Apparel 264L.",
+"prereqText": "Textiles and Apparel 212K, 212L, 316L, 126, and 226L, with a grade of at least C- in each; and credit with a grade of at least C- or registration for the same topic of Textiles and Apparel 264L.",
+"prereqConfidence": "low"
+},
+{
+"id": "TXA 264L",
+"subject": "TXA",
+"number": "264L",
+"title": "Advanced Problems in Apparel Laboratory",
+"hours": 2.0,
+"division": "upper",
+"description": "Six laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Credit with a grade of at least C- or registration for the same topic of Textiles and Apparel 164K.",
+"prereqText": "Credit with a grade of at least C- or registration for the same topic of Textiles and Apparel 164K.",
+"prereq": {
+"type": "course",
+"id": "TXA 164K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 165",
+"subject": "TXA",
+"number": "165",
+"title": "Advanced Topics in Textiles and Apparel",
+"hours": 1.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing. Additional prerequisites vary with the topic.",
+"prereqText": "Upper-division standing. Additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 265",
+"subject": "TXA",
+"number": "265",
+"title": "Advanced Topics in Textiles and Apparel",
+"hours": 2.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing. Additional prerequisites vary with the topic.",
+"prereqText": "Upper-division standing. Additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 365",
+"subject": "TXA",
+"number": "365",
+"title": "Advanced Topics in Textiles and Apparel",
+"hours": 3.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing. Additional prerequisites vary with the topic.",
+"prereqText": "Upper-division standing. Additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 366D",
+"subject": "TXA",
+"number": "366D",
+"title": "Flat Pattern",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the creative application of flat pattern processes. One lecture hour and five laboratory hours a week for one semester. Only one of the following may be counted: Textiles and Apparel 364C, 365 (Topic: Flat Pattern), 366D. Prerequisite: Textiles and Apparel 326 with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 326 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 326",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 367D",
+"subject": "TXA",
+"number": "367D",
+"title": "Draping",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine advanced apparel design. Explore the creative application of draping processes. One lecture hour and five laboratory hours a week for one semester. Only one of the following may be counted: Textiles and Apparel 364D, 365 (Topic: Draping), 367D. Prerequisite: Textiles and Apparel 366D with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 366D with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 366D",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 368D",
+"subject": "TXA",
+"number": "368D",
+"title": "Capstone Collections",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine advanced apparel design. Explore the creation of an apparel collection. One lecture hour and five laboratory hours a week for one semester. Textiles and Apparel 364E and 368D may not both be counted. Prerequisite: Textiles and Apparel 367D with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 367D with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 367D",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 376",
+"subject": "TXA",
+"number": "376",
+"title": "Principles of Retail Merchandising",
+"hours": 3.0,
+"division": "upper",
+"description": "Retail strategic planning and implementation for soft goods and apparel. Three lecture hours a week for one semester. Textiles and Apparel 376 and 376R may not both be counted. Prerequisite: Marketing 320F and six semester hours of upper-division coursework in textiles and apparel, business, studio art, or journalism.",
+"prereqText": "Marketing 320F and six semester hours of upper-division coursework in textiles and apparel, business, studio art, or journalism.",
+"prereq": {
+"type": "course",
+"id": "MKT 320F"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 376R",
+"subject": "TXA",
+"number": "376R",
+"title": "Concepts and Innovations in Retailing",
+"hours": 3.0,
+"division": "upper",
+"description": "Develop understanding of retail strategy, channels of distribution, private labels, innovation in retail, and the key issues impacting growth in retail firms including exposure to issues facing retailers in international settings. Three lecture hours a week for one semester. Textiles and Apparel 376 and 376R may not both be counted. Prerequisite: Textiles and Apparel 317R and 319R with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 317R and 319R with a grade of at least C-.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 317R"
+},
+{
+"type": "course",
+"id": "TXA 319R",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 377",
+"subject": "TXA",
+"number": "377",
+"title": "Merchandising Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Application course focusing on the calculation and analysis of the selling price, profitability, assortment planning, purchasing, and inventory control. Includes spreadsheet application and exercises. Prerequisite: Upper-division standing; Textiles and Apparel 301, 205, 105L, 214K, 214L, 316Q, 219C, 119L, 151, and 376; and admission to the Retail Merchandising Internship Program.",
+"prereqText": "Upper-division standing; Textiles and Apparel 301, 205, 105L, 214K, 214L, 316Q, 219C, 119L, 151, and 376; and admission to the Retail Merchandising Internship Program.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "TXA 301"
+},
+{
+"type": "course",
+"id": "TXA 205"
+},
+{
+"type": "course",
+"id": "TXA 105L"
+},
+{
+"type": "course",
+"id": "TXA 214K"
+},
+{
+"type": "course",
+"id": "TXA 214L"
+},
+{
+"type": "course",
+"id": "TXA 316Q"
+},
+{
+"type": "course",
+"id": "TXA 219C"
+},
+{
+"type": "course",
+"id": "TXA 119L"
+},
+{
+"type": "course",
+"id": "TXA 151"
+},
+{
+"type": "course",
+"id": "TXA 376"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 377R",
+"subject": "TXA",
+"number": "377R",
+"title": "Merchandising Math II",
+"hours": 3.0,
+"division": "upper",
+"description": "Three semester hours a week for one semester. Prerequisite: Textiles and Apparel 317R with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 317R with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 317R",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 378H",
+"subject": "TXA",
+"number": "378H",
+"title": "Honors Seminar in Textiles and Apparel",
+"hours": 3.0,
+"division": "upper",
+"description": "The equivalent of three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing, a University grade point average of at least 3.00, and consent of the honors adviser.",
+"prereqText": "Upper-division standing, a University grade point average of at least 3.00, and consent of the honors adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 379H",
+"subject": "TXA",
+"number": "379H",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on a special topic in textiles and apparel; oral presentation and preparation of a scholarly paper covering the research. May be based on laboratory, library, or field research. Conference course. May be taken twice for credit. May be repeated for credit. Prerequisite: Upper-division standing, admission to the Textiles and Apparel Honors Program, Textiles and Apparel 359H with a grade of at least B-, and consent of the honors adviser.",
+"prereqText": "Upper-division standing, admission to the Textiles and Apparel Honors Program, Textiles and Apparel 359H with a grade of at least B-, and consent of the honors adviser.",
+"prereq": {
+"type": "course",
+"id": "TXA 359H",
+"minGrade": "B-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 379R",
+"subject": "TXA",
+"number": "379R",
+"title": "Strategic Brand Management",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine strategic brand management and trademark protection. Explore the process of how an institution strategically manages a product category and grants rights to a specific group of licenses. Two lecture hours and one-and-a-half laboratory hours a week for one semester. Prerequisite: Textiles and Apparel 377R with a grade of at least C-.",
+"prereqText": "Textiles and Apparel 377R with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "TXA 377R",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "TXA 392",
+"subject": "TXA",
+"number": "392",
+"title": "Research Problems in Textile and Apparel Technology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Directed research in various topics in the area of textile and apparel technology. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in textile and apparel technology, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in textile and apparel technology, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 394",
+"subject": "TXA",
+"number": "394",
+"title": "Recent Advances in Textile and Apparel Technology",
+"hours": 3.0,
+"division": "graduate",
+"description": "An in-depth study of textile and apparel topics. Students may read original research papers and carry out fieldwork assignments. Three lecture hours a week for one semester, or as required by the topic. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in textile and apparel technology, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in textile and apparel technology, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 395",
+"subject": "TXA",
+"number": "395",
+"title": "Seminar in Textiles and Apparel",
+"hours": 3.0,
+"division": "graduate",
+"description": "Lectures and discussions on current topics in textiles and apparel. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in textile and apparel technology, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in textile and apparel technology, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "TXA 698",
+"subject": "TXA",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in textile and apparel technology and consent of the graduate adviser; for 698B, Textiles and Apparel 698A.",
+"prereqText": "For 698A, graduate standing in textile and apparel technology and consent of the graduate adviser; for 698B, Textiles and Apparel 698A.",
+"prereq": {
+"type": "course",
+"id": "TXA 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "TXA 698A",
+"subject": "TXA",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in textile and apparel technology and consent of the graduate adviser; for 698B, Textiles and Apparel 698A.",
+"prereqText": "For 698A, graduate standing in textile and apparel technology and consent of the graduate adviser; for 698B, Textiles and Apparel 698A.",
+"prereq": {
+"type": "course",
+"id": "TXA 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "TXA 698B",
+"subject": "TXA",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in textile and apparel technology and consent of the graduate adviser; for 698B, Textiles and Apparel 698A.",
+"prereqText": "For 698A, graduate standing in textile and apparel technology and consent of the graduate adviser; for 698B, Textiles and Apparel 698A.",
+"prereq": {
+"type": "course",
+"id": "TXA 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

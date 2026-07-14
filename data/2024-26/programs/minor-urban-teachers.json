@@ -1,0 +1,71 @@
+{
+ "id": "2024-26/minor/urban-teachers",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Urban Teachers",
+ "college": "Education",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/education/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Urban Teachers Minor",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours from:",
+    "filter": {
+     "courses": [
+      "EDU 327",
+      "EDC 350",
+      "EDC 339F"
+     ],
+     "label": "Six hours from:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/education/minor-and-certificate-programs/",
+     "quote": "Six hours from:"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three hours from:",
+    "filter": {
+     "courses": [
+      "EDC 370S",
+      "EDC 370S"
+     ],
+     "label": "Three hours from:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/education/minor-and-certificate-programs/",
+     "quote": "Three hours from:"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine hours from:",
+    "filter": {
+     "courses": [
+      "EDC 351S",
+      "EDC 671S",
+      "EDC 371S",
+      "EDC 651S",
+      "EDC 351S",
+      "EDC 671S",
+      "EDC 371S",
+      "EDC 651S"
+     ],
+     "label": "Nine hours from:"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/education/minor-and-certificate-programs/",
+     "quote": "Nine hours from:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 18.0
+}

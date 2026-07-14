@@ -1,0 +1,63 @@
+{
+"code": "SAL",
+"name": "South Asian Languages",
+"courses": [
+{
+"id": "SAL 506",
+"subject": "SAL",
+"number": "506",
+"title": "First-Year South Asian Languages I",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency: listening, speaking, reading, and writing. Five lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 507",
+"subject": "SAL",
+"number": "507",
+"title": "First-Year South Asian Languages II",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency: listening, speaking, reading, and writing. Five lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: South Asian Languages 506 with a grade of at least C.",
+"prereqText": "South Asian Languages 506 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "SAL 506",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SAL 312K",
+"subject": "SAL",
+"number": "312K",
+"title": "Second-Year South Asian Languages I",
+"hours": 3.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the second-year level. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: South Asian Languages 507 with a grade of at least C.",
+"prereqText": "South Asian Languages 507 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "SAL 507",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SAL 312L",
+"subject": "SAL",
+"number": "312L",
+"title": "Second-Year South Asian Languages II",
+"hours": 3.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the advanced, second-year level. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: South Asian Languages 312K with a grade of at least C.",
+"prereqText": "South Asian Languages 312K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "SAL 312K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+}
+]
+}

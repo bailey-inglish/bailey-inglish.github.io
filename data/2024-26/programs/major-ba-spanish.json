@@ -1,0 +1,93 @@
+{
+ "id": "2024-26/major/ba-spanish",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Spanish",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/spanish/",
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general",
+  "2024-26/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "manual",
+    "text": "1. Three semester hours of grammar and writing: Spanish 327C, Spanish 327N, or Spanish 327V",
+    "title": "1. Three semester hours of grammar and writing: Spanish 327C, Spanish 327N, or S",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/spanish/",
+     "quote": "1. Three semester hours of grammar and writing: Spanish 327C, Spanish 327N, or Spanish 327V"
+    }
+   },
+   {
+    "type": "all",
+    "title": "2. One introductory course in language and linguistics in society: Spanish 330L",
+    "of": [
+     {
+      "type": "course",
+      "course": "SPN 330L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/spanish/",
+     "quote": "2. One introductory course in language and linguistics in society: Spanish 330L"
+    }
+   },
+   {
+    "type": "course",
+    "course": "SPN 328C",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/spanish/",
+     "quote": "3. One introductory course in literatures and cultures: Spanish 328C"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "4. One upper-division course in Portuguese (POR) or Portuguese Civilizations (PRC 320E or other upper-division PRC, taught in English)",
+    "title": "4. One upper-division course in Portuguese (POR) or Portuguese Civilizations (PR",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/spanish/",
+     "quote": "4. One upper-division course in Portuguese (POR) or Portuguese Civilizations (PRC 320E or other upper-division PRC, taught in English)"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "5. Twelve additional semester hours of upper-division coursework in Spanish",
+    "title": "5. Twelve additional semester hours of upper-division coursework in Spanish",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/spanish/",
+     "quote": "5. Twelve additional semester hours of upper-division coursework in Spanish"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "6. One Capstone Seminar: Spanish 379C or Spanish 379L",
+    "of": [
+     {
+      "type": "course",
+      "course": "SPN 379C"
+     },
+     {
+      "type": "course",
+      "course": "SPN 379L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/spanish/",
+     "quote": "6. One Capstone Seminar: Spanish 379C or Spanish 379L"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "SPN"
+ ]
+}

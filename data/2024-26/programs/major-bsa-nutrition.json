@@ -1,0 +1,112 @@
+{
+ "id": "2024-26/major/bsa-nutrition",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Nutrition",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/nutrition/",
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general",
+  "2024-26/layer/cns-college"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Statistics: Statistics and Data Sciences 302F or 320E",
+    "of": [
+     {
+      "type": "course",
+      "course": "SDS 302F"
+     },
+     {
+      "type": "course",
+      "course": "SDS 320E"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/nutrition/",
+     "quote": "Statistics: Statistics and Data Sciences 302F or 320E"
+    }
+   },
+   {
+    "type": "course",
+    "course": "SDS 324E",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/nutrition/",
+     "quote": "Statistics and Data Sciences 324E"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Primary science: Nutrition courses: Nutrition 312, 126L, 218, 118L, 326, 307, 107L, 342, 343, 337, and 338W.",
+    "title": "Primary science: Nutrition courses: Nutrition 312, 126L, 218, 118L, 326, 307, 10",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/nutrition/",
+     "quote": "Primary science: Nutrition courses: Nutrition 312, 126L, 218, 118L, 326, 307, 107L, 342, 343, 337, and 338W."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Six additional semester hours of nutrition coursework.",
+    "title": "Six additional semester hours of nutrition coursework.",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/nutrition/",
+     "quote": "Six additional semester hours of nutrition coursework."
+    }
+   },
+   {
+    "type": "all",
+    "title": "Secondary science: Chemistry 301, 302, 204 and 320M",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 301"
+     },
+     {
+      "type": "course",
+      "course": "CH 302"
+     },
+     {
+      "type": "course",
+      "course": "CH 204"
+     },
+     {
+      "type": "course",
+      "course": "CH 320M"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/nutrition/",
+     "quote": "Secondary science: Chemistry 301, 302, 204 and 320M"
+    }
+   },
+   {
+    "type": "course",
+    "course": "BCH 369",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/nutrition/",
+     "quote": "Biochemistry 369"
+    }
+   },
+   {
+    "type": "course",
+    "course": "BIO 311C",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/nutrition/",
+     "quote": "Biology 311C"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BSA",
+ "majorSubjects": [
+  "CH"
+ ]
+}

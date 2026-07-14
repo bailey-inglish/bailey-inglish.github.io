@@ -1,0 +1,1164 @@
+{
+"code": "ACC",
+"name": "Accounting",
+"courses": [
+{
+"id": "ACC 310F",
+"subject": "ACC",
+"number": "310F",
+"title": "Foundations of Accounting",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to non-McCombs School of Business majors. An introduction to financial and managerial accounting, with emphasis on the content, interpretation, and uses of accounting reports. Discussion of the determination and reporting of net income and financial position, and the theories underlying business financial statements; consideration of managerial accounting topics designed to extend the student's knowledge to the planning and controlling of the operations of the firm. Three lecture hours a week for one semester. May not be counted toward the Bachelor of Business Administration degree.",
+"restricted": "Restricted to non-McCombs School of Business majors.",
+"excluded": "the Bachelor of Business Administration degree"
+},
+{
+"id": "ACC 311",
+"subject": "ACC",
+"number": "311",
+"title": "Fundamentals of Financial Accounting",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the McCombs School of Business. Concepts and their application in transaction analysis and financial statement preparation; analysis of financial statements. Three lecture hours a week for one semester. Accounting 311 and 311H may not both be counted. Offered on the letter-grade basis only. Prerequisite: Twenty-four semester hours of college credit, including Economics 304K.",
+"tccn": "ACCT 2301",
+"prereqText": "Twenty-four semester hours of college credit, including Economics 304K.",
+"prereq": {
+"type": "course",
+"id": "ECO 304K"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the McCombs School of Business.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 311H",
+"subject": "ACC",
+"number": "311H",
+"title": "Fundamentals of Financial Accounting: Honors",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the McCombs School of Business Honors Program. An exploration of concepts and their application in transaction analysis and financial statement preparation; and analysis of financial statements. Three lecture hours a week for one semester. Accounting 311 and 311H may not both be counted. Offered on the letter-grade basis only. Prerequisite: Twenty-four semester hours of college credit including Economics 304K, Management Information Systems 301, 301H, or 302F, and credit or registration for Business Administration 324H.",
+"prereqText": "Twenty-four semester hours of college credit including Economics 304K, Management Information Systems 301, 301H, or 302F, and credit or registration for Business Administration 324H.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in the McCombs School of Business Honors Program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 312",
+"subject": "ACC",
+"number": "312",
+"title": "Fundamentals of Managerial Accounting",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the McCombs School of Business. Introduction to cost behavior, budgeting, responsibility accounting, cost control, and product costing. Three lecture hours a week for one semester. Accounting 312 and 312H may not both be counted. Offered on the letter-grade basis only. Prerequisite: Accounting 311 or 311H.",
+"tccn": "ACCT 2302",
+"prereqText": "Accounting 311 or 311H.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "ACC 311"
+},
+{
+"type": "course",
+"id": "ACC 311H"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the McCombs School of Business.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 312H",
+"subject": "ACC",
+"number": "312H",
+"title": "Fundamentals of Managerial Accounting: Honors",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students admitted to the McCombs School of Business Honors Program. Introduction to cost behavior, budgeting, responsibility accounting, cost control, and product costing. Three lecture hours a week for one semester. Accounting 312 and 312H may not both be counted. Offered on the letter-grade basis only. Prerequisite: Accounting 311H and Business Administration 151H.",
+"prereqText": "Accounting 311H and Business Administration 151H.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ACC 311H"
+},
+{
+"type": "course",
+"id": "B A 151H"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students admitted to the McCombs School of Business Honors Program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 119S",
+"subject": "ACC",
+"number": "119S",
+"title": "Topics in Accounting",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 219S",
+"subject": "ACC",
+"number": "219S",
+"title": "Topics in Accounting",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 319S",
+"subject": "ACC",
+"number": "319S",
+"title": "Topics in Accounting",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 419S",
+"subject": "ACC",
+"number": "419S",
+"title": "Topics in Accounting",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 519S",
+"subject": "ACC",
+"number": "519S",
+"title": "Topics in Accounting",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 619S",
+"subject": "ACC",
+"number": "619S",
+"title": "Topics in Accounting",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 719S",
+"subject": "ACC",
+"number": "719S",
+"title": "Topics in Accounting",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 819S",
+"subject": "ACC",
+"number": "819S",
+"title": "Topics in Accounting",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 919S",
+"subject": "ACC",
+"number": "919S",
+"title": "Topics in Accounting",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 619SA",
+"subject": "ACC",
+"number": "619SA",
+"title": "Topics in Accounting",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 619SB",
+"subject": "ACC",
+"number": "619SB",
+"title": "Topics in Accounting",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 326",
+"subject": "ACC",
+"number": "326",
+"title": "Financial Accounting--Intermediate",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Theoretical foundation, concepts, and principles underlying financial statements; current assets; current liabilities; property, plant, and equipment; short-term investments; present value analysis. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each; and credit or registration for Finance 357 or 357H.",
+"prereqText": "Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each; and credit or registration for Finance 357 or 357H.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in a business major.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 327",
+"subject": "ACC",
+"number": "327",
+"title": "Financial Statement Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Study of financial statements and their related footnotes; tools and procedures common to financial statement analysis; the relationships among business transactions, environmental forces (political, economic, and social), and reported financial information; and how financial statement information can help solve certain business problems. Three lecture hours a week for one semester. Accounting 327 and 380K (Topic 7: Financial Statement Analysis) may not both be counted. Prerequisite: Accounting 326 with a grade of at least C-.",
+"prereqText": "Accounting 326 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "ACC 326",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "ACC 329",
+"subject": "ACC",
+"number": "329",
+"title": "Managerial Accounting and Control",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a business major. The origination, processing, reporting, and use in business operations of accounting information for management purposes. Three lecture hours a week for one semester. Only one of the following may be counted: Business Administration 382T, Accounting 329, 359, 387 (Topic 1), 287 (Topic 5). Prerequisite: Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each.",
+"prereqText": "Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "ACC 129S",
+"subject": "ACC",
+"number": "129S",
+"title": "Topics in Accounting",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 229S",
+"subject": "ACC",
+"number": "229S",
+"title": "Topics in Accounting",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 329S",
+"subject": "ACC",
+"number": "329S",
+"title": "Topics in Accounting",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 429S",
+"subject": "ACC",
+"number": "429S",
+"title": "Topics in Accounting",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 529S",
+"subject": "ACC",
+"number": "529S",
+"title": "Topics in Accounting",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 629S",
+"subject": "ACC",
+"number": "629S",
+"title": "Topics in Accounting",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 729S",
+"subject": "ACC",
+"number": "729S",
+"title": "Topics in Accounting",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 829S",
+"subject": "ACC",
+"number": "829S",
+"title": "Topics in Accounting",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 929S",
+"subject": "ACC",
+"number": "929S",
+"title": "Topics in Accounting",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 629SA",
+"subject": "ACC",
+"number": "629SA",
+"title": "Topics in Accounting",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 629SB",
+"subject": "ACC",
+"number": "629SB",
+"title": "Topics in Accounting",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 332F",
+"subject": "ACC",
+"number": "332F",
+"title": "Topics in Foundations of Accounting",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to non-McCombs School of Business majors. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Accounting 310F or Accounting 311 and 312.",
+"prereqText": "Accounting 310F or Accounting 311 and 312.",
+"prereqConfidence": "low",
+"restricted": "Restricted to non-McCombs School of Business majors."
+},
+{
+"id": "ACC 334M",
+"subject": "ACC",
+"number": "334M",
+"title": "Healthcare Accounting",
+"hours": 3.0,
+"division": "upper",
+"description": "Identify and analyze healthcare revenues, expenses, management problems, and ethical dilemmas, applying theories and tools to recommend strategic solutions. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing; Accounting 311, 311H, or Accounting 310F and Management 334M.",
+"prereqText": "Upper-division standing; Accounting 311, 311H, or Accounting 310F and Management 334M.",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 140S",
+"subject": "ACC",
+"number": "140S",
+"title": "Topics in Accounting",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 240S",
+"subject": "ACC",
+"number": "240S",
+"title": "Topics in Accounting",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 340S",
+"subject": "ACC",
+"number": "340S",
+"title": "Topics in Accounting",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 440S",
+"subject": "ACC",
+"number": "440S",
+"title": "Topics in Accounting",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 540S",
+"subject": "ACC",
+"number": "540S",
+"title": "Topics in Accounting",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 640S",
+"subject": "ACC",
+"number": "640S",
+"title": "Topics in Accounting",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 740S",
+"subject": "ACC",
+"number": "740S",
+"title": "Topics in Accounting",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 840S",
+"subject": "ACC",
+"number": "840S",
+"title": "Topics in Accounting",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 940S",
+"subject": "ACC",
+"number": "940S",
+"title": "Topics in Accounting",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 640SA",
+"subject": "ACC",
+"number": "640SA",
+"title": "Topics in Accounting",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 640SB",
+"subject": "ACC",
+"number": "640SB",
+"title": "Topics in Accounting",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office or the school's BBA Exchange Programs. Credit is recorded as assigned by the study abroad adviser in the Department of Accounting. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. May be repeated for credit when the topics vary."
+},
+{
+"id": "ACC 151",
+"subject": "ACC",
+"number": "151",
+"title": "Accounting Careers Exploration",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students admitted to the integrated approach to the Master in Professional Accounting. Presentations by professional accountants and managers. One and one-half lecture hours a week for one semester. Offered on the letter-grade basis only.",
+"restricted": "Restricted to students admitted to the integrated approach to the Master in Professional Accounting.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 152",
+"subject": "ACC",
+"number": "152",
+"title": "Master in Professional Accounting Distinguished Speaker Lyceum",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students admitted to the integrated approach to the Master in Professional Accounting. Discussion of current issues confronting the accounting profession. The equivalent of one and one-half lecture hours a week for one semester. Offered on the pass/fail basis only.",
+"restricted": "Restricted to students admitted to the integrated approach to the Master in Professional Accounting.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "ACC 355",
+"subject": "ACC",
+"number": "355",
+"title": "Introduction to Taxation",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students admitted to the integrated approach to the Master in Professional Accounting. The role of taxes in contemporary society and their impact on individuals and business. Three lecture hours a week for one semester. Only one of the following may be counted: Accounting 355, 364, 380K (Topic 11: Introduction to Taxation). Offered on the letter-grade basis only.",
+"restricted": "Restricted to students admitted to the integrated approach to the Master in Professional Accounting.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 356",
+"subject": "ACC",
+"number": "356",
+"title": "Financial Accounting Concepts and Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students admitted to the integrated approach to the Master in Professional Accounting. Conceptual framework of financial accounting; research methods in financial reporting; and financial reporting institutions and regulations. Three lecture hours a week for one semester. Offered on the letter-grade basis only.",
+"restricted": "Restricted to students admitted to the integrated approach to the Master in Professional Accounting.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 358C",
+"subject": "ACC",
+"number": "358C",
+"title": "Auditing and Other Assurance Services",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students admitted to the integrated approach to the Master in Professional Accounting. Information quality assurance, auditing, and control, considered from the perspective of a business manager who must decide the type and amount of assurance to acquire. Three lecture hours a week for one semester. Only one of the following may be counted: Accounting 358C, 362, 380K (Topic 4). Offered on the letter-grade basis only. Prerequisite: Accounting 356 or the equivalent.",
+"prereqText": "Accounting 356 or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "ACC 356"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students admitted to the integrated approach to the Master in Professional Accounting.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 359",
+"subject": "ACC",
+"number": "359",
+"title": "Managerial/Cost Accounting",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students admitted to the integrated approach to the Master in Professional Accounting. Analysis of manufacturing costs, development of cost estimates, and preparation of relevant information for management decision making. Three lecture hours a week for one semester. Only one of the following may be counted: Accounting 329, 359, 287 (Topic 5), 287 (Topic 1), 387 (Topic 1), 387 (Topic 5), Business Administration 382T. Offered on the letter-grade basis only.",
+"restricted": "Restricted to students admitted to the integrated approach to the Master in Professional Accounting.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 362",
+"subject": "ACC",
+"number": "362",
+"title": "Auditing and Control",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Business Analytics 362. Restricted to students in a business major. Professional practice standards and procedures of auditing: ethics, legal liability, sampling methods, control systems, control design, and control evaluation. Three lecture hours a week for one semester. Only one of the following may be counted: Accounting 358C, 362, 380K (Topic 4), Business Analytics 362. Prerequisite: Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each.",
+"prereqText": "Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"sameAs": "Business Analytics 362",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "ACC 364",
+"subject": "ACC",
+"number": "364",
+"title": "Fundamentals of Taxation",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Introduction to the role of taxes in contemporary society and their impact on individuals and business entities; emphasis on federal income taxation. Three lecture hours a week for one semester. Only one of the following may be counted: Accounting 355, 364, 380K (Topic 11: Introduction to Taxation). Prerequisite: Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each.",
+"prereqText": "Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "ACC 366C",
+"subject": "ACC",
+"number": "366C",
+"title": "International Accounting and Transfer Pricing",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as International Business 366. Discover how to price transactions between subsidiaries of multinational corporations buying and selling goods, services, intellectual property and other assets in light of tax obligations and other considerations. Three lecture hours a week for one semester Only one of the following may be counted: Accounting 366C, 380K (Topic: International Accounting/Transfer Pricing), 380K (Topic: 32), International Business 366. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"sameAs": "International Business 366",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 366P",
+"subject": "ACC",
+"number": "366P",
+"title": "Accounting Practicum",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Students apply skills in their major area and focus on additional project management skills through group projects conducted in a professional setting. Students may work with a private or a public enterprise. The equivalent of three lecture hours a week for one semester. Accounting 366P and 384 (Topic: Tax Practicum) may not both be counted. Prerequisite: Forty-five semester hours of college coursework.",
+"prereqText": "Forty-five semester hours of college coursework.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "ACC 367P",
+"subject": "ACC",
+"number": "367P",
+"title": "Internal Auditing Practicum",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a business major. The equivalent of three lecture hours a week for one semester. Accounting 367P and 372T (Topic: Internal Auditing Practicum) may not both be counted. Prerequisite: Forty-five semester hours of college coursework.",
+"prereqText": "Forty-five semester hours of college coursework.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "ACC 171T",
+"subject": "ACC",
+"number": "171T",
+"title": "Topics in Accounting",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Study selected accounting topics. One lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Accounting 311 or 311H, and 312 or 312H; additional prerequisites vary with the topic.",
+"prereqText": "Accounting 311 or 311H, and 312 or 312H; additional prerequisites vary with the topic.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "ACC 372T",
+"subject": "ACC",
+"number": "372T",
+"title": "Topics in Accounting",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in a business major. Study selected accounting topics. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each; additional prerequisites vary with the topic.",
+"prereqText": "Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each; additional prerequisites vary with the topic.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "ACC 179C",
+"subject": "ACC",
+"number": "179C",
+"title": "Independent Research in Accounting",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in the McCombs School of Business. Conference course. Only one of the following may be counted: Accounting 379C, Business Administration Honors 379, Business, Government, and Society 379, Finance 379C, International Business 379C, Legal Environment of Business 379, Management 379C, Management Information Systems 379, Marketing 379C, Operations Management 379, Risk Management 379. Prerequisite: Eighteen semester hours of coursework in business and economics, six of which must be upper-division; Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each; consent of instructor; and written approval on forms provided for that purpose before the first meeting of the course from the department chair's office.",
+"prereqText": "Eighteen semester hours of coursework in business and economics, six of which must be upper-division; Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each; consent of instructor; and written approval on forms provided for that purpose before the first meeting of the course from the department chair's office.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in the McCombs School of Business."
+},
+{
+"id": "ACC 379C",
+"subject": "ACC",
+"number": "379C",
+"title": "Independent Research in Accounting",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the McCombs School of Business. Conference course. Only one of the following may be counted: Accounting 379C, Business Administration Honors 379, Business, Government, and Society 379, Finance 379C, International Business 379C, Legal Environment of Business 379, Management 379C, Management Information Systems 379, Marketing 379C, Operations Management 379, Risk Management 379. Prerequisite: Eighteen semester hours of coursework in business and economics, six of which must be upper-division; Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each; consent of instructor; and written approval on forms provided for that purpose before the first meeting of the course from the department chair's office.",
+"prereqText": "Eighteen semester hours of coursework in business and economics, six of which must be upper-division; Accounting 311 or 311H, and 312 or 312H, with a grade of at least C- in each; consent of instructor; and written approval on forms provided for that purpose before the first meeting of the course from the department chair's office.",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in the McCombs School of Business."
+},
+{
+"id": "ACC 180C",
+"subject": "ACC",
+"number": "180C",
+"title": "MPA Distinguished Speaker Lyceum",
+"hours": 1.0,
+"division": "graduate",
+"description": "Discussion of current issues confronting the accounting profession. Two lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and admission to the traditional approach to the Master in Professional Accounting program.",
+"prereqText": "Graduate standing and admission to the traditional approach to the Master in Professional Accounting program.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 380D",
+"subject": "ACC",
+"number": "380D",
+"title": "Advanced Topics in Financial Reporting",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examines issues in financial reporting from a user's perspective, including how important economic transactions of large public companies are reflected in financial statements. Three lecture hours a week for one semester. May not be counted by students with credit for Accounting 380K (Topic 1: Financial Accounting Standards and Analysis I) or 380K (Topic 2: Financial Accounting Standards and Analysis II). Prerequisite: Graduate standing, admission to the Master of Business Administration program, and Business Administration 384T.",
+"prereqText": "Graduate standing, admission to the Master of Business Administration program, and Business Administration 384T.",
+"prereq": {
+"type": "course",
+"id": "B A 384T"
+},
+"prereqConfidence": "high",
+"excluded": "Accounting 380K (Topic 1: Financial Accounting Standards and Analysis I) or 380K (Topic 2: Financial Accounting Standards and Analysis II)"
+},
+{
+"id": "ACC 280J",
+"subject": "ACC",
+"number": "280J",
+"title": "Financial Statement Analysis for Executives",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to students in the Executive MBA Program. Explore an overview of the skills executives will need in order to analyze a company's performance and financial position in the context of the company's industry and strategic environment. Two lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Executive MBA Program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 180K",
+"subject": "ACC",
+"number": "180K",
+"title": "Contemporary Accounting Topics",
+"hours": 1.0,
+"division": "graduate",
+"description": "In-depth study of selected accounting topics. One, two, or three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 280K",
+"subject": "ACC",
+"number": "280K",
+"title": "Contemporary Accounting Topics",
+"hours": 2.0,
+"division": "graduate",
+"description": "In-depth study of selected accounting topics. One, two, or three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 380K",
+"subject": "ACC",
+"number": "380K",
+"title": "Contemporary Accounting Topics",
+"hours": 3.0,
+"division": "graduate",
+"description": "In-depth study of selected accounting topics. One, two, or three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 381",
+"subject": "ACC",
+"number": "381",
+"title": "Financial Accounting",
+"hours": 3.0,
+"division": "graduate",
+"description": "Concepts and issues involved in the preparation and interpretation of financial statements; the use of financial information to evaluate and control an organization. Three lecture hours a week for one semester. Accounting 381 and Business Administration 284T, 384T may not both be counted. Prerequisite: Graduate standing, admission to the traditional approach to the Master in Professional Accounting program, and Accounting 311 or the equivalent.",
+"prereqText": "Graduate standing, admission to the traditional approach to the Master in Professional Accounting program, and Accounting 311 or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "ACC 311"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ACC 381M",
+"subject": "ACC",
+"number": "381M",
+"title": "Financial Accounting Issues in Business Decisions",
+"hours": 3.0,
+"division": "graduate",
+"description": "An integrative and intensive examination of financial accounting, with emphasis on management's alternative reporting strategies and investors' decisions. Three lecture hours a week for one semester. Prerequisite: Graduate standing, and Business Administration 384T or the equivalent.",
+"prereqText": "Graduate standing, and Business Administration 384T or the equivalent.",
+"prereq": {
+"type": "course",
+"id": "B A 384T"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "ACC 381N",
+"subject": "ACC",
+"number": "381N",
+"title": "Managerial Accounting and Financial Statement Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Surveys the strategic uses of the most important elements of internal accounting systems, including cost accounting systems and management control systems used for planning and budgeting, and the use of publicly available financial accounting information to evaluate past performance, forecast future performance, and estimate the value of debt and equity securities. Meets all day on alternate Fridays and Saturdays. May not be counted by students with credit for Accounting 380K (Topic 7). Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"excluded": "Accounting 380K (Topic 7)"
+},
+{
+"id": "ACC 281P",
+"subject": "ACC",
+"number": "281P",
+"title": "Performance Management and Control for Executives",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to students in the Executive MBA Program. Examine accounting information and tools executives need to plan and evaluate personnel and operations of the firm. Explore a framework that provides a better understanding of when and why executives need specific types of accounting information to both facilitate their own decisions and influence the decisions of their employees. Two lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Executive MBA Program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "ACC 382K",
+"subject": "ACC",
+"number": "382K",
+"title": "Topics in Accounting Information Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Quantitative and/or computerized applications to business problems; computer-based accounting information systems; analysis of optimizing models; simulation of important functional activities; large-scale simulation of the firm. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; Accounting 356, Accounting 381, Business Administration 384T, or the equivalent, or consent of instructor; and Accounting 359, Accounting 387 (Topic 1: Introduction to Managerial Accounting), or the equivalent, or consent of instructor.",
+"prereqText": "Graduate standing; Accounting 356, Accounting 381, Business Administration 384T, or the equivalent, or consent of instructor; and Accounting 359, Accounting 387 (Topic 1: Introduction to Managerial Accounting), or the equivalent, or consent of instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "ACC 383K",
+"subject": "ACC",
+"number": "383K",
+"title": "Topics in Auditing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Professional and technical aspects of practice; ethics and legal responsibilities; review of fieldwork, emphasizing materiality, sampling, and working papers; reporting problems, including long-form and special purpose reports; fraud examination and audit methods. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 184",
+"subject": "ACC",
+"number": "184",
+"title": "Topics in Research and Planning in Federal Taxes",
+"hours": 1.0,
+"division": "graduate",
+"description": "Advanced analysis in federal taxation, with emphasis on historical and current developments; application of research techniques to income tax and estate tax planning; case studies and reports. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and admission to the Master in Professional Accounting degree program or consent of instructor.",
+"prereqText": "Graduate standing, and admission to the Master in Professional Accounting degree program or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 284",
+"subject": "ACC",
+"number": "284",
+"title": "Topics in Research and Planning in Federal Taxes",
+"hours": 2.0,
+"division": "graduate",
+"description": "Advanced analysis in federal taxation, with emphasis on historical and current developments; application of research techniques to income tax and estate tax planning; case studies and reports. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and admission to the Master in Professional Accounting degree program or consent of instructor.",
+"prereqText": "Graduate standing, and admission to the Master in Professional Accounting degree program or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 384",
+"subject": "ACC",
+"number": "384",
+"title": "Topics in Research and Planning in Federal Taxes",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced analysis in federal taxation, with emphasis on historical and current developments; application of research techniques to income tax and estate tax planning; case studies and reports. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and admission to the Master in Professional Accounting degree program or consent of instructor.",
+"prereqText": "Graduate standing, and admission to the Master in Professional Accounting degree program or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 484",
+"subject": "ACC",
+"number": "484",
+"title": "Topics in Research and Planning in Federal Taxes",
+"hours": 4.0,
+"division": "graduate",
+"description": "Advanced analysis in federal taxation, with emphasis on historical and current developments; application of research techniques to income tax and estate tax planning; case studies and reports. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, and admission to the Master in Professional Accounting degree program or consent of instructor.",
+"prereqText": "Graduate standing, and admission to the Master in Professional Accounting degree program or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 386K",
+"subject": "ACC",
+"number": "386K",
+"title": "Topics in Accounting Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Financial accounting theory; current pronouncements on theory; problems of income determination; accounting research and research methodology applied to accounting issues. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing, admission to the doctoral degree program in accounting, and consent of instructor.",
+"prereqText": "Graduate standing, admission to the doctoral degree program in accounting, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 287",
+"subject": "ACC",
+"number": "287",
+"title": "Topics in Profit Planning and Control",
+"hours": 2.0,
+"division": "graduate",
+"description": "The use of accounting information by managers within the organization for decision making, planning, and the design of control systems for implementing the organization's strategy. Topics include long-range planning, annual profit planning, activity-based costing, cost prediction, strategic control systems, and performance evaluation. Case studies are used. For 287, four lecture hours a week for half a semester; for 387, three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 387",
+"subject": "ACC",
+"number": "387",
+"title": "Topics in Profit Planning and Control",
+"hours": 3.0,
+"division": "graduate",
+"description": "The use of accounting information by managers within the organization for decision making, planning, and the design of control systems for implementing the organization's strategy. Topics include long-range planning, annual profit planning, activity-based costing, cost prediction, strategic control systems, and performance evaluation. Case studies are used. For 287, four lecture hours a week for half a semester; for 387, three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing; additional prerequisites vary with the topic.",
+"prereqText": "Graduate standing; additional prerequisites vary with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 191C",
+"subject": "ACC",
+"number": "191C",
+"title": "Special Studies in Accounting",
+"hours": 1.0,
+"division": "graduate",
+"description": "Conference course. May be repeated for credit. Prerequisite: Graduate standing; admission to the Master in Professional Accounting program or the doctoral program in accounting; and consent of instructor.",
+"prereqText": "Graduate standing; admission to the Master in Professional Accounting program or the doctoral program in accounting; and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 291C",
+"subject": "ACC",
+"number": "291C",
+"title": "Special Studies in Accounting",
+"hours": 2.0,
+"division": "graduate",
+"description": "Conference course. May be repeated for credit. Prerequisite: Graduate standing; admission to the Master in Professional Accounting program or the doctoral program in accounting; and consent of instructor.",
+"prereqText": "Graduate standing; admission to the Master in Professional Accounting program or the doctoral program in accounting; and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 391C",
+"subject": "ACC",
+"number": "391C",
+"title": "Special Studies in Accounting",
+"hours": 3.0,
+"division": "graduate",
+"description": "Conference course. May be repeated for credit. Prerequisite: Graduate standing; admission to the Master in Professional Accounting program or the doctoral program in accounting; and consent of instructor.",
+"prereqText": "Graduate standing; admission to the Master in Professional Accounting program or the doctoral program in accounting; and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 691C",
+"subject": "ACC",
+"number": "691C",
+"title": "Special Studies in Accounting",
+"hours": 6.0,
+"division": "graduate",
+"description": "Conference course. May be repeated for credit. Prerequisite: Graduate standing; admission to the Master in Professional Accounting program or the doctoral program in accounting; and consent of instructor.",
+"prereqText": "Graduate standing; admission to the Master in Professional Accounting program or the doctoral program in accounting; and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 691CA",
+"subject": "ACC",
+"number": "691CA",
+"title": "Special Studies in Accounting",
+"hours": 3.0,
+"division": "graduate",
+"description": "Conference course. May be repeated for credit. Prerequisite: Graduate standing; admission to the Master in Professional Accounting program or the doctoral program in accounting; and consent of instructor.",
+"prereqText": "Graduate standing; admission to the Master in Professional Accounting program or the doctoral program in accounting; and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 691CB",
+"subject": "ACC",
+"number": "691CB",
+"title": "Special Studies in Accounting",
+"hours": 3.0,
+"division": "graduate",
+"description": "Conference course. May be repeated for credit. Prerequisite: Graduate standing; admission to the Master in Professional Accounting program or the doctoral program in accounting; and consent of instructor.",
+"prereqText": "Graduate standing; admission to the Master in Professional Accounting program or the doctoral program in accounting; and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "ACC 192N",
+"subject": "ACC",
+"number": "192N",
+"title": "Master in Professional Accounting Internship",
+"hours": 1.0,
+"division": "graduate",
+"description": "Restricted to students in the Master in Professional Accounting Program. Focus on academic and professional development through valuable work experience and the integration of accounting knowledge by working with public or private enterprises. A minimum of 320 hours of work, a daily work-related journal, and paper are needed for internship credit. Hours to be arranged. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqText": "Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Master in Professional Accounting Program.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 292N",
+"subject": "ACC",
+"number": "292N",
+"title": "Master in Professional Accounting Internship",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to students in the Master in Professional Accounting Program. Focus on academic and professional development through valuable work experience and the integration of accounting knowledge by working with public or private enterprises. A minimum of 320 hours of work, a daily work-related journal, and paper are needed for internship credit. Hours to be arranged. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqText": "Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Master in Professional Accounting Program.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 392N",
+"subject": "ACC",
+"number": "392N",
+"title": "Master in Professional Accounting Internship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Master in Professional Accounting Program. Focus on academic and professional development through valuable work experience and the integration of accounting knowledge by working with public or private enterprises. A minimum of 320 hours of work, a daily work-related journal, and paper are needed for internship credit. Hours to be arranged. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqText": "Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Master in Professional Accounting Program.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 492N",
+"subject": "ACC",
+"number": "492N",
+"title": "Master in Professional Accounting Internship",
+"hours": 4.0,
+"division": "graduate",
+"description": "Restricted to students in the Master in Professional Accounting Program. Focus on academic and professional development through valuable work experience and the integration of accounting knowledge by working with public or private enterprises. A minimum of 320 hours of work, a daily work-related journal, and paper are needed for internship credit. Hours to be arranged. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqText": "Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Master in Professional Accounting Program.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 592N",
+"subject": "ACC",
+"number": "592N",
+"title": "Master in Professional Accounting Internship",
+"hours": 5.0,
+"division": "graduate",
+"description": "Restricted to students in the Master in Professional Accounting Program. Focus on academic and professional development through valuable work experience and the integration of accounting knowledge by working with public or private enterprises. A minimum of 320 hours of work, a daily work-related journal, and paper are needed for internship credit. Hours to be arranged. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqText": "Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Master in Professional Accounting Program.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 692N",
+"subject": "ACC",
+"number": "692N",
+"title": "Master in Professional Accounting Internship",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the Master in Professional Accounting Program. Focus on academic and professional development through valuable work experience and the integration of accounting knowledge by working with public or private enterprises. A minimum of 320 hours of work, a daily work-related journal, and paper are needed for internship credit. Hours to be arranged. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqText": "Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Master in Professional Accounting Program.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 692NA",
+"subject": "ACC",
+"number": "692NA",
+"title": "Master in Professional Accounting Internship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Master in Professional Accounting Program. Focus on academic and professional development through valuable work experience and the integration of accounting knowledge by working with public or private enterprises. A minimum of 320 hours of work, a daily work-related journal, and paper are needed for internship credit. Hours to be arranged. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqText": "Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Master in Professional Accounting Program.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 692NB",
+"subject": "ACC",
+"number": "692NB",
+"title": "Master in Professional Accounting Internship",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the Master in Professional Accounting Program. Focus on academic and professional development through valuable work experience and the integration of accounting knowledge by working with public or private enterprises. A minimum of 320 hours of work, a daily work-related journal, and paper are needed for internship credit. Hours to be arranged. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqText": "Admissions into the Master in Professional Accounting Program and prior approval from the internship coordinator.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Master in Professional Accounting Program.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 698",
+"subject": "ACC",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in the doctoral program in accounting and consent of the supervising faculty member and the graduate adviser; for 698B, Accounting 698A.",
+"prereqText": "For 698A, graduate standing in the doctoral program in accounting and consent of the supervising faculty member and the graduate adviser; for 698B, Accounting 698A.",
+"prereq": {
+"type": "course",
+"id": "ACC 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 698A",
+"subject": "ACC",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in the doctoral program in accounting and consent of the supervising faculty member and the graduate adviser; for 698B, Accounting 698A.",
+"prereqText": "For 698A, graduate standing in the doctoral program in accounting and consent of the supervising faculty member and the graduate adviser; for 698B, Accounting 698A.",
+"prereq": {
+"type": "course",
+"id": "ACC 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 698B",
+"subject": "ACC",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in the doctoral program in accounting and consent of the supervising faculty member and the graduate adviser; for 698B, Accounting 698A.",
+"prereqText": "For 698A, graduate standing in the doctoral program in accounting and consent of the supervising faculty member and the graduate adviser; for 698B, Accounting 698A.",
+"prereq": {
+"type": "course",
+"id": "ACC 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 398R",
+"subject": "ACC",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in the doctoral program in accounting, completion of the core courses for the degree, and consent of the supervising faculty member and the graduate adviser.",
+"prereqText": "Graduate standing in the doctoral program in accounting, completion of the core courses for the degree, and consent of the supervising faculty member and the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 399W",
+"subject": "ACC",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 699W",
+"subject": "ACC",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 999W",
+"subject": "ACC",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 699WA",
+"subject": "ACC",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "ACC 699WB",
+"subject": "ACC",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

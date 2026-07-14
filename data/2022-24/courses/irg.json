@@ -1,0 +1,134 @@
+{
+"code": "IRG",
+"name": "International Relations and Global Studies",
+"courses": [
+{
+"id": "IRG 301",
+"subject": "IRG",
+"number": "301",
+"title": "Introduction to International Relations and Global Studies",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to international relations and global studies majors. Three lecture hours a week for one semester. Prerequisite: Completion of at least twenty-four semester hours of college coursework.",
+"prereqText": "Completion of at least twenty-four semester hours of college coursework.",
+"prereqConfidence": "none",
+"restricted": "Restricted to international relations and global studies majors."
+},
+{
+"id": "IRG 320F",
+"subject": "IRG",
+"number": "320F",
+"title": "Foundations of International Relations and Global Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to international relations and global studies majors. Survey of contemporary debates related to international relations and global studies. The equivalent of three lecture hours a week for one semester. Prerequisite: Upper-division standing and International Relations and Global Studies 301.",
+"prereqText": "Upper-division standing and International Relations and Global Studies 301.",
+"prereq": {
+"type": "course",
+"id": "IRG 301"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to international relations and global studies majors."
+},
+{
+"id": "IRG 378",
+"subject": "IRG",
+"number": "378",
+"title": "Capstone Research in International Relations and Global Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to international relations and global studies majors. Three lecture hours a week for one semester. Prerequisite: International Relations and Global Studies 301 and 320F, and a minimum of 75 hours of coursework.",
+"prereqText": "International Relations and Global Studies 301 and 320F, and a minimum of 75 hours of coursework.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "IRG 301"
+},
+{
+"type": "course",
+"id": "IRG 320F"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to international relations and global studies majors."
+},
+{
+"id": "IRG 678H",
+"subject": "IRG",
+"number": "678H",
+"title": "Honors Tutorial Course",
+"hours": 6.0,
+"division": "upper",
+"description": "Supervised individual research on an international relations and global studies topic. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 678HA, upper-division standing, International Relations and Global Studies 301 with a grade of at least B, and admission to the International Relations and Global Studies Honors Program; for 678HB, International Relations and Global Studies 678HA.",
+"prereqText": "For 678HA, upper-division standing, International Relations and Global Studies 301 with a grade of at least B, and admission to the International Relations and Global Studies Honors Program; for 678HB, International Relations and Global Studies 678HA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "IRG 301",
+"minGrade": "B"
+},
+{
+"type": "course",
+"id": "IRG 678HA"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "IRG 678HA",
+"subject": "IRG",
+"number": "678HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on an international relations and global studies topic. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 678HA, upper-division standing, International Relations and Global Studies 301 with a grade of at least B, and admission to the International Relations and Global Studies Honors Program; for 678HB, International Relations and Global Studies 678HA.",
+"prereqText": "For 678HA, upper-division standing, International Relations and Global Studies 301 with a grade of at least B, and admission to the International Relations and Global Studies Honors Program; for 678HB, International Relations and Global Studies 678HA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "IRG 301",
+"minGrade": "B"
+},
+{
+"type": "course",
+"id": "IRG 678HA"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "IRG 678HB",
+"subject": "IRG",
+"number": "678HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on an international relations and global studies topic. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 678HA, upper-division standing, International Relations and Global Studies 301 with a grade of at least B, and admission to the International Relations and Global Studies Honors Program; for 678HB, International Relations and Global Studies 678HA.",
+"prereqText": "For 678HA, upper-division standing, International Relations and Global Studies 301 with a grade of at least B, and admission to the International Relations and Global Studies Honors Program; for 678HB, International Relations and Global Studies 678HA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "IRG 301",
+"minGrade": "B"
+},
+{
+"type": "course",
+"id": "IRG 678HA"
+}
+]
+},
+"prereqConfidence": "high"
+}
+]
+}

@@ -1,0 +1,141 @@
+{
+"code": "EEE",
+"name": "Earth Energy Engineering",
+"courses": [
+{
+"id": "EEE 380",
+"subject": "EEE",
+"number": "380",
+"title": "Topics in Earth Energy Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit when the topics vary."
+},
+{
+"id": "EEE 381",
+"subject": "EEE",
+"number": "381",
+"title": "Advanced Geothermal Engineering",
+"hours": 3.0,
+"division": "graduate",
+"description": "Review all geothermal systems for power generation and direct use, focusing on well engineering, facility engineering, production engineering, and techno-economic analyses. Explore current research and development trends and opportunities from around the world for such systems as conventional hydrothermal, enhanced geothermal, advanced geothermal, geo-exchange, district heating, etc. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "EEE 381K",
+"subject": "EEE",
+"number": "381K",
+"title": "Subsurface Water Management",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine methods for treating, utilizing and disposing of water produced from the subsurface. Discuss the chemistry and engineering principles involved in water treatment and reinjection. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "EEE 381L",
+"subject": "EEE",
+"number": "381L",
+"title": "Nuclear Waste Storage",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to engineering and science of nuclear waste storage and disposal with emphasis on geological methods. Review current methods and new solutions to safely dispose of radioactive waste resulting from nuclear energy generation. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "EEE 381M",
+"subject": "EEE",
+"number": "381M",
+"title": "Advanced Well Integrity",
+"hours": 3.0,
+"division": "graduate",
+"description": "Focus on the unique challenges in the construction and integrity of special purpose wells, such as geothermal wells, carbon capture and underground storage (CCUS) wells, nuclear storage and waste injection wells. Consider the entire lifecycle of these wells, from initial drilling and well construction all the way to their long-term plugging and abandonment. Explore how to maintain well integrity to prevent premature failure of geothermal wells, CO2 leakage in CCUS wells, and nuclear and other waste leakage in waste injection/storage wells for an indefinite period. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "EEE 382",
+"subject": "EEE",
+"number": "382",
+"title": "Subsurface Energy Storage",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to hydrogen, compressed air, and carbon storage in geological formations as well review of ongoing projects and their relations to net-zero greenhouse emission targets. Discuss flow, transport, and geochemical interactions of different gases with site minerals. Using hands-on numerical simulation training and exercises, gain insights and quantify storage capacity, deliverability, dissolution, trapping and other loss mechanisms. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "EEE 382K",
+"subject": "EEE",
+"number": "382K",
+"title": "Global Carbon Monitoring Systems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to the myriad of ways we measure global greenhouse gas emissions, from ubiquitous ground sensors to low-earth orbit satellites. Explore how new technologies are revolutionizing our ability to monitor global energy flows, track progress on emissions reduction goals, and enable new policy approaches to addressing climate change. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "EEE 698",
+"subject": "EEE",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing and consent of the graduate advisor; for 698B, Earth Energy Engineering 698A.",
+"prereqText": "For 698A, graduate standing and consent of the graduate advisor; for 698B, Earth Energy Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "EEE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "EEE 698A",
+"subject": "EEE",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing and consent of the graduate advisor; for 698B, Earth Energy Engineering 698A.",
+"prereqText": "For 698A, graduate standing and consent of the graduate advisor; for 698B, Earth Energy Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "EEE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "EEE 698B",
+"subject": "EEE",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing and consent of the graduate advisor; for 698B, Earth Energy Engineering 698A.",
+"prereqText": "For 698A, graduate standing and consent of the graduate advisor; for 698B, Earth Energy Engineering 698A.",
+"prereq": {
+"type": "course",
+"id": "EEE 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "EEE 398R",
+"subject": "EEE",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Prepare a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the graduate advisor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

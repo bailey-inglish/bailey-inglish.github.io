@@ -1,0 +1,1318 @@
+{
+"code": "AST",
+"name": "Astronomy",
+"courses": [
+{
+"id": "AST 301",
+"subject": "AST",
+"number": "301",
+"title": "Introduction to Astronomy",
+"hours": 3.0,
+"division": "lower",
+"description": "General introduction to astronomy for nonscience majors. The solar system, stars, galaxies, and cosmology. Three lecture hours a week for one semester. Only one of the following may be counted: Astronomy 301, 302, 303, 307. May not be counted toward a degree in the College of Natural Sciences.",
+"tccn": "ASTR 1303, PHYS 1303",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "AST 101L",
+"subject": "AST",
+"number": "101L",
+"title": "Astronomy Discovery Laboratory",
+"hours": 1.0,
+"division": "lower",
+"description": "For nonscience majors. Hands-on projects in observational astronomy and related laboratory disciplines. Students work in small groups. Three laboratory hours a week for one semester. May not be counted by students with credit for Astronomy 103L. Prerequisite: Credit or registration for Astronomy 301.",
+"prereqText": "Credit or registration for Astronomy 301.",
+"prereq": {
+"type": "course",
+"id": "AST 301"
+},
+"prereqConfidence": "high",
+"excluded": "Astronomy 103L"
+},
+{
+"id": "AST 302",
+"subject": "AST",
+"number": "302",
+"title": "Self-Paced Introduction to Astronomy",
+"hours": 3.0,
+"division": "lower",
+"description": "General, self-paced introduction to astronomy for nonscience majors. The solar system, stars, galaxies, and cosmology. Self-paced. Only one of the following may be counted: Astronomy 301, 302, 303, 307. May not be counted toward a degree in the College of Natural Sciences.",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "AST 303",
+"subject": "AST",
+"number": "303",
+"title": "Introduction to Astronomy with Celestial Observations",
+"hours": 3.0,
+"division": "lower",
+"description": "General introduction to astronomy for nonscience majors. The solar system, stars, galaxies, and cosmology. Introduces students to the night sky and includes some observational activities. Three lecture hours a week for one semester. Only one of the following may be counted: Astronomy 301, 302, 303, 307. May not be counted toward a degree in the College of Natural Sciences.",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "AST 103L",
+"subject": "AST",
+"number": "103L",
+"title": "Astronomical Observations",
+"hours": 1.0,
+"division": "lower",
+"description": "For nonscience majors. Observations of the night sky with the naked eye and small telescopes; indoor laboratory activities. Two laboratory hours a week for one semester. May not be counted by students with credit for Astronomy 101L, 302, or 303. Prerequisite: Credit or registration for Astronomy 301 or 307.",
+"tccn": "ASTR 1103, PHYS 1103",
+"prereqText": "Credit or registration for Astronomy 301 or 307.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "AST 301"
+},
+{
+"type": "course",
+"id": "AST 307"
+}
+]
+},
+"prereqConfidence": "high",
+"excluded": "Astronomy 101L, 302, or 303"
+},
+{
+"id": "AST 104",
+"subject": "AST",
+"number": "104",
+"title": "Undergraduate Astronomy Seminar",
+"hours": 1.0,
+"division": "lower",
+"description": "Designed for astronomy majors. Discussions about current astronomical research, with different topics emphasized each semester. One lecture hour a week for one semester. May be repeated twice for credit when the topics vary. Offered on the pass/fail basis only.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "AST 307",
+"subject": "AST",
+"number": "307",
+"title": "Introductory Astronomy",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to astronomy for science and engineering students. The solar system, stars, galaxies, and cosmology. Three lecture hours a week for one semester. Only one of the following may be counted: Astronomy 301, 302, 303, 307. Prerequisite: Mathematics 305G or the equivalent or consent of instructor; high school trigonometry and physics are recommended.",
+"prereqText": "Mathematics 305G or the equivalent or consent of instructor; high school trigonometry and physics are recommended.",
+"prereq": {
+"type": "course",
+"id": "M 305G"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "AST 309",
+"subject": "AST",
+"number": "309",
+"title": "Topics in Astronomy for Nonscience Students",
+"hours": 3.0,
+"division": "lower",
+"description": "Selected topics in modern astronomy: solar system, galaxies, peculiar stars, cosmology, and others. Three lecture hours a week for one semester. May not be counted toward a degree in the College of Natural Sciences. May be repeated for credit when the topics vary.",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "AST 309C",
+"subject": "AST",
+"number": "309C",
+"title": "Birth of Stars and Planets",
+"hours": 3.0,
+"division": "lower",
+"description": "Study of how stars and planets form, including discussions on the implications for the formation of our own solar system. Designed for non-College of Natural Sciences majors. Three lecture hours a week for one semester. Astronomy 309 (Topic: Birth of Stars and Planets) and 309C may not both be counted. May not be counted toward a degree in the College of Natural Sciences.",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "AST 309G",
+"subject": "AST",
+"number": "309G",
+"title": "Popular Astronomy for Nonscience Students",
+"hours": 3.0,
+"division": "lower",
+"description": "Subjects include new planets, neutron stars, supernovae, gamma-ray bursts, black holes, dark matter, dark energy, and the origin of the universe. Designed for non-College of Natural Sciences majors. Three lecture hours a week for one semester. Astronomy 309 (Topic 1: Popular Astronomy) and 309G may not both be counted. May not be counted toward a degree in the College of Natural Sciences.",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "AST 309L",
+"subject": "AST",
+"number": "309L",
+"title": "Search for Extraterrestrial Life",
+"hours": 3.0,
+"division": "lower",
+"description": "Origin of life in the solar system, existence of other planetary systems, possibilities and techniques for detection of and communication with other intelligences. Designed for non-College of Natural Sciences majors. Three lecture hours a week for one semester. May not be counted toward a degree in the College of Natural Sciences.",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "AST 309N",
+"subject": "AST",
+"number": "309N",
+"title": "Lives and Deaths of Stars",
+"hours": 3.0,
+"division": "lower",
+"description": "How stars live and die; extremes of stars and their life cycles. Exotic objects such as white dwarfs, supernovae, neutron stars, pulsars, and black holes. Specific subjects may vary with instructor. Designed for non-College of Natural Sciences majors. Three lecture hours a week for one semester. May not be counted toward a degree in the College of Natural Sciences.",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "AST 309P",
+"subject": "AST",
+"number": "309P",
+"title": "Astronomy in Science Fiction",
+"hours": 3.0,
+"division": "lower",
+"description": "The use of astronomy and other sciences in science fiction literature. Critical analysis of selected novels as to the validity of the astronomy used. Designed for non-College of Natural Sciences majors. Three lecture hours a week for one semester."
+},
+{
+"id": "AST 309Q",
+"subject": "AST",
+"number": "309Q",
+"title": "Time and the Cosmos",
+"hours": 3.0,
+"division": "lower",
+"description": "From the beginning of time in the Big Bang to the end of time in the black hole. Includes the early universe, the formation and evolution of single and double stars, and the supercompact objects they eventually become: white dwarfs, pulsars, and black holes. Designed for non-College of Natural Sciences majors. Three lecture hours a week for one semester. May not be counted toward a degree in the College of Natural Sciences.",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "AST 309R",
+"subject": "AST",
+"number": "309R",
+"title": "Galaxies, Quasars, and the Universe",
+"hours": 3.0,
+"division": "lower",
+"description": "Galaxies, quasars, giant black holes; cosmic evolution; the origin and future of the universe. Designed for non-College of Natural Sciences majors. Three lecture hours a week for one semester. May not be counted toward a degree in the College of Natural Sciences.",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "AST 309S",
+"subject": "AST",
+"number": "309S",
+"title": "The Solar System",
+"hours": 3.0,
+"division": "lower",
+"description": "The nature, origin, and evolution of our solar system, including planets, moons, and other bodies. Designed for non-College of Natural Sciences majors. Three lecture hours a week for one semester. May not be counted toward a degree in the College of Natural Sciences.",
+"tccn": "ASTR 1304, ASTR 1404, PHYS 1304",
+"excluded": "a degree in the College of Natural Sciences"
+},
+{
+"id": "AST 309T",
+"subject": "AST",
+"number": "309T",
+"title": "The Milky Way Galaxy",
+"hours": 3.0,
+"division": "lower",
+"description": "Our spiral system of stars, gas, and dust; star formation. Designed for non-College of Natural Sciences majors. Three lecture hours a week for one semester."
+},
+{
+"id": "AST 110C",
+"subject": "AST",
+"number": "110C",
+"title": "Conference Course in Astronomy",
+"hours": 1.0,
+"division": "lower",
+"description": "Restricted enrollment; contact the department for permission to register. Independent research course with supervision by astronomy faculty member or research scientist. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; hours to be arranged. May be repeated for credit."
+},
+{
+"id": "AST 210C",
+"subject": "AST",
+"number": "210C",
+"title": "Conference Course in Astronomy",
+"hours": 2.0,
+"division": "lower",
+"description": "Restricted enrollment; contact the department for permission to register. Independent research course with supervision by astronomy faculty member or research scientist. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; hours to be arranged. May be repeated for credit."
+},
+{
+"id": "AST 310C",
+"subject": "AST",
+"number": "310C",
+"title": "Conference Course in Astronomy",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted enrollment; contact the department for permission to register. Independent research course with supervision by astronomy faculty member or research scientist. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; hours to be arranged. May be repeated for credit."
+},
+{
+"id": "AST 110K",
+"subject": "AST",
+"number": "110K",
+"title": "Topics in Astronomy Research",
+"hours": 1.0,
+"division": "lower",
+"description": "Designed for science and engineering majors. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor or adviser.",
+"prereqText": "Consent of instructor or adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 210K",
+"subject": "AST",
+"number": "210K",
+"title": "Topics in Astronomy Research",
+"hours": 2.0,
+"division": "lower",
+"description": "Designed for science and engineering majors. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor or adviser.",
+"prereqText": "Consent of instructor or adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 310K",
+"subject": "AST",
+"number": "310K",
+"title": "Topics in Astronomy Research",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed for science and engineering majors. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor or adviser.",
+"prereqText": "Consent of instructor or adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 119S",
+"subject": "AST",
+"number": "119S",
+"title": "Topics in Astronomy",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 219S",
+"subject": "AST",
+"number": "219S",
+"title": "Topics in Astronomy",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 319S",
+"subject": "AST",
+"number": "319S",
+"title": "Topics in Astronomy",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 419S",
+"subject": "AST",
+"number": "419S",
+"title": "Topics in Astronomy",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 519S",
+"subject": "AST",
+"number": "519S",
+"title": "Topics in Astronomy",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 619S",
+"subject": "AST",
+"number": "619S",
+"title": "Topics in Astronomy",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 719S",
+"subject": "AST",
+"number": "719S",
+"title": "Topics in Astronomy",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 819S",
+"subject": "AST",
+"number": "819S",
+"title": "Topics in Astronomy",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 919S",
+"subject": "AST",
+"number": "919S",
+"title": "Topics in Astronomy",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 619SA",
+"subject": "AST",
+"number": "619SA",
+"title": "Topics in Astronomy",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 619SB",
+"subject": "AST",
+"number": "619SB",
+"title": "Topics in Astronomy",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 321",
+"subject": "AST",
+"number": "321",
+"title": "Current Problems in Astronomy",
+"hours": 3.0,
+"division": "upper",
+"description": "For nonscience majors. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing; and Astronomy 301, 302, 303, or consent of instructor.",
+"prereqText": "Upper-division standing; and Astronomy 301, 302, 303, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "AST 301"
+},
+{
+"type": "course",
+"id": "AST 302"
+},
+{
+"type": "course",
+"id": "AST 303"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "AST 324",
+"subject": "AST",
+"number": "324",
+"title": "Origins: The Universe, Stars, Planets, and Life",
+"hours": 3.0,
+"division": "upper",
+"description": "For nonscience majors. Cosmic origins from the Big Bang to life, and the connections among the origins of stars, planets, and life. Three lecture hours a week for one semester. Prerequisite: Upper-division standing; and Astronomy 301, 302, 303, or consent of instructor.",
+"prereqText": "Upper-division standing; and Astronomy 301, 302, 303, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "AST 301"
+},
+{
+"type": "course",
+"id": "AST 302"
+},
+{
+"type": "course",
+"id": "AST 303"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "AST 129S",
+"subject": "AST",
+"number": "129S",
+"title": "Topics in Astronomy",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 229S",
+"subject": "AST",
+"number": "229S",
+"title": "Topics in Astronomy",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 329S",
+"subject": "AST",
+"number": "329S",
+"title": "Topics in Astronomy",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 429S",
+"subject": "AST",
+"number": "429S",
+"title": "Topics in Astronomy",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 529S",
+"subject": "AST",
+"number": "529S",
+"title": "Topics in Astronomy",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 629S",
+"subject": "AST",
+"number": "629S",
+"title": "Topics in Astronomy",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 729S",
+"subject": "AST",
+"number": "729S",
+"title": "Topics in Astronomy",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 829S",
+"subject": "AST",
+"number": "829S",
+"title": "Topics in Astronomy",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 929S",
+"subject": "AST",
+"number": "929S",
+"title": "Topics in Astronomy",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 629SA",
+"subject": "AST",
+"number": "629SA",
+"title": "Topics in Astronomy",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 629SB",
+"subject": "AST",
+"number": "629SB",
+"title": "Topics in Astronomy",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Astronomy. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "AST 350L",
+"subject": "AST",
+"number": "350L",
+"title": "History and Philosophy of Astronomy",
+"hours": 3.0,
+"division": "upper",
+"description": "Historical influence of astronomical concepts on social, economic, literary, and scientific life; the place of astronomy in society. Three lecture hours a week for one semester. Prerequisite: Upper-division standing; and Astronomy 301, 302, 303, or consent of instructor.",
+"prereqText": "Upper-division standing; and Astronomy 301, 302, 303, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "AST 301"
+},
+{
+"type": "course",
+"id": "AST 302"
+},
+{
+"type": "course",
+"id": "AST 303"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "AST 351",
+"subject": "AST",
+"number": "351",
+"title": "Astronomical Instrumentation",
+"hours": 3.0,
+"division": "upper",
+"description": "A hands-on course in computer-controlled optical instrumentation. Intended for natural science and engineering students interested in the practical aspects of instrument design and construction. Includes optics and optical design, electronics, machining and mechanical design, and computer interfacing. Students work in groups and as teams to design a computer-controlled optical instrument. The equivalent of three lecture hours a week for one semester. Prerequisite: Upper-division standing in the College of Natural Sciences or the Cockrell School of Engineering, or consent of instructor.",
+"prereqText": "Upper-division standing in the College of Natural Sciences or the Cockrell School of Engineering, or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 352K",
+"subject": "AST",
+"number": "352K",
+"title": "Stellar Astronomy",
+"hours": 3.0,
+"division": "upper",
+"description": "Properties of stars and starlight: principles of radiation; interpretation of stellar spectra. Observational techniques such as photometry, spectroscopy, and telescopes and detectors; variable stars; binary stars. Three lecture hours a week for one semester. Prerequisite: Upper-division standing, and one of the following: Physics 301 and 303L; 301 and 316; 303K and 303L; or 303K and 316.",
+"prereqText": "Upper-division standing, and one of the following: Physics 301 and 303L; 301 and 316; 303K and 303L; or 303K and 316.",
+"prereqConfidence": "low"
+},
+{
+"id": "AST 352L",
+"subject": "AST",
+"number": "352L",
+"title": "Positional, Dynamical, and Kinematical Astronomy",
+"hours": 3.0,
+"division": "upper",
+"description": "Coordinate systems and time; stellar positions and motions; the kinematics and dynamics of star clusters and galaxies. Three lecture hours a week for one semester. Prerequisite: Credit or registration for Mathematics 427K.",
+"prereqText": "Credit or registration for Mathematics 427K.",
+"prereq": {
+"type": "course",
+"id": "M 427K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "AST 152M",
+"subject": "AST",
+"number": "152M",
+"title": "Stellar Astronomy Laboratory",
+"hours": 1.0,
+"division": "upper",
+"description": "An introduction to practical observational techniques in astronomy, designed for astronomy majors or advanced students in a physical science. Exercises on the spectroscopy, photometry, and positions of stars using a sixteen-inch telescope on campus. Three laboratory hours a week for one semester. With consent of instructor, may be repeated for credit. Prerequisite: Physics 316 and 116L; credit or registration for Astronomy 352K is recommended.",
+"prereqText": "Physics 316 and 116L; credit or registration for Astronomy 352K is recommended.",
+"prereqConfidence": "low"
+},
+{
+"id": "AST 353",
+"subject": "AST",
+"number": "353",
+"title": "Astrophysics",
+"hours": 3.0,
+"division": "upper",
+"description": "Survey of the physics of stellar and nonstellar radiation laws, stellar atmospheres and interiors; high-energy astrophysics. Designed for science and engineering majors. Three lecture hours a week for one semester. Prerequisite: One of the following: Physics 301 and 303L; 301 and 316; 303K and 303L; or 303K and 316.",
+"prereqText": "One of the following: Physics 301 and 303L; 301 and 316; 303K and 303L; or 303K and 316.",
+"prereqConfidence": "low"
+},
+{
+"id": "AST 358",
+"subject": "AST",
+"number": "358",
+"title": "Galaxies and the Universe",
+"hours": 3.0,
+"division": "upper",
+"description": "Our galaxy and its constituents; stars and interstellar matter. Properties of other galaxies; galaxy interactions and mergers; expansion and evolution of the universe. Designed for science and engineering majors. Three lecture hours a week for one semester. Prerequisite: Upper-division standing, and one of the following: Physics 301 and 303L; 301 and 316; 303K and 303L; or 303K and 316.",
+"prereqText": "Upper-division standing, and one of the following: Physics 301 and 303L; 301 and 316; 303K and 303L; or 303K and 316.",
+"prereqConfidence": "low"
+},
+{
+"id": "AST 364P",
+"subject": "AST",
+"number": "364P",
+"title": "Planetary Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Modern studies of the solar system, including properties of the planets and smaller bodies, and the origin of planetary systems. Three lecture hours a week for one semester. Astronomy 364 and 364P may not both be counted. Prerequisite: Upper-division standing; Physics 316 or 303L; and Astronomy 307, 352K, or 353.",
+"prereqText": "Upper-division standing; Physics 316 or 303L; and Astronomy 307, 352K, or 353.",
+"prereqConfidence": "low"
+},
+{
+"id": "AST 367M",
+"subject": "AST",
+"number": "367M",
+"title": "Physical Science: Methods of Astronomy",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Physical Science 367M. An introductory, self-paced course in the methods of astronomy that emphasizes learning astronomical principles through observations. Six laboratory hours a week for one semester. May not be counted toward the Bachelor of Arts, Plan I, degree with a major in astronomy. Prerequisite: Upper-division standing and nine semester hours of coursework in mathematics and/or science, including one of the following: Physical Science 303, 304, Astronomy 301, 302, 303. Equivalent preparation in mathematics, physics, chemistry, or earth sciences may be substituted with written approval of the instructor.",
+"prereqText": "Upper-division standing and nine semester hours of coursework in mathematics and/or science, including one of the following: Physical Science 303, 304, Astronomy 301, 302, 303. Equivalent preparation in mathematics, physics, chemistry, or earth sciences may be substituted with written approval of the instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "P S 303"
+},
+{
+"type": "course",
+"id": "P S 304"
+},
+{
+"type": "course",
+"id": "AST 301"
+},
+{
+"type": "course",
+"id": "AST 302"
+},
+{
+"type": "course",
+"id": "AST 303"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Physical Science 367M",
+"excluded": "the Bachelor of Arts, Plan I, degree with a major in astronomy"
+},
+{
+"id": "AST 175",
+"subject": "AST",
+"number": "175",
+"title": "Topics in Astronomy Research",
+"hours": 1.0,
+"division": "upper",
+"description": "Designed for science and engineering majors. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor or adviser.",
+"prereqText": "Consent of instructor or adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 275",
+"subject": "AST",
+"number": "275",
+"title": "Topics in Astronomy Research",
+"hours": 2.0,
+"division": "upper",
+"description": "Designed for science and engineering majors. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor or adviser.",
+"prereqText": "Consent of instructor or adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 375",
+"subject": "AST",
+"number": "375",
+"title": "Topics in Astronomy Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Designed for science and engineering majors. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor or adviser.",
+"prereqText": "Consent of instructor or adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 175C",
+"subject": "AST",
+"number": "175C",
+"title": "Conference Course in Astronomy",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted enrollment; contact the department for permission to register. Independent research course with astronomy faculty member or research scientist. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; hours to be arranged. May be repeated for credit."
+},
+{
+"id": "AST 275C",
+"subject": "AST",
+"number": "275C",
+"title": "Conference Course in Astronomy",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted enrollment; contact the department for permission to register. Independent research course with astronomy faculty member or research scientist. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; hours to be arranged. May be repeated for credit."
+},
+{
+"id": "AST 375C",
+"subject": "AST",
+"number": "375C",
+"title": "Conference Course in Astronomy",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted enrollment; contact the department for permission to register. Independent research course with astronomy faculty member or research scientist. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester; hours to be arranged. May be repeated for credit."
+},
+{
+"id": "AST 376",
+"subject": "AST",
+"number": "376",
+"title": "Special Topics in Advanced Astronomy",
+"hours": 3.0,
+"division": "upper",
+"description": "Designed for science majors. Three lecture hours a week for one semester. Up to six semester hours may be counted toward the major requirement for the Bachelor of Arts with a major in astronomy. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 376C",
+"subject": "AST",
+"number": "376C",
+"title": "Cosmology",
+"hours": 3.0,
+"division": "upper",
+"description": "The laws of physics applied to the Universe at large: its featureless beginning in the Big Bang, its fundamental constituents including radiation, atoms, and dark matter; the discoveries of universal expansion and dark energy, and a structure reflected in the web of galaxies. Designed for science and engineering majors. Three lecture hours a week for one semester. Astronomy 376 (Topic: Cosmology) and 376C may not both be counted. Prerequisite: Upper-division standing, and one of the following: Physics 301 and 303L; 301 and 316; 303K and 303L; or 303K and 316.",
+"prereqText": "Upper-division standing, and one of the following: Physics 301 and 303L; 301 and 316; 303K and 303L; or 303K and 316.",
+"prereqConfidence": "low"
+},
+{
+"id": "AST 376R",
+"subject": "AST",
+"number": "376R",
+"title": "A Practical Introduction to Research Methods",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to science and engineering majors. Practical exercises including analysis of imaging data, visualization, programming exercises with Python, IDL or other languages, statistical analyses, and training for papers and oral presentations. Three lecture hours a week for one semester. Astronomy 376 (Topic: Practical Intro to Research) and 376R may not both be counted. Prerequisite: Mathematics 305G or the equivalent; prior computing experience and an introductory astronomy course are recommended.",
+"prereqText": "Mathematics 305G or the equivalent; prior computing experience and an introductory astronomy course are recommended.",
+"prereq": {
+"type": "course",
+"id": "M 305G"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to science and engineering majors."
+},
+{
+"id": "AST 379H",
+"subject": "AST",
+"number": "379H",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to science majors approved to graduate with honors. Research project and thesis for students electing to take the honors program in astronomy. Conference course. May be repeated once for credit. Prerequisite: Consent of the departmental honors adviser.",
+"prereqText": "Consent of the departmental honors adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to science majors approved to graduate with honors."
+},
+{
+"id": "AST 380E",
+"subject": "AST",
+"number": "380E",
+"title": "Radiative Processes and Radiative Transfer",
+"hours": 3.0,
+"division": "graduate",
+"description": "Classical and quantum radiative processes relevant to astrophysics; basic radiative transfer. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 381",
+"subject": "AST",
+"number": "381",
+"title": "Topics in Theoretical Astrophysics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 381C",
+"subject": "AST",
+"number": "381C",
+"title": "Gravitational Dynamics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Orbital, collective, and tidal effects of astronomical objects, such as planets, stars, galaxies, and interstellar medium, under the influence of a gravitational field. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 381S",
+"subject": "AST",
+"number": "381S",
+"title": "Seminar in Theoretical Astrophysics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 382C",
+"subject": "AST",
+"number": "382C",
+"title": "Astrophysical Gas Dynamics",
+"hours": 3.0,
+"division": "graduate",
+"description": "The basic principles of compressible gas dynamics and magnetohydrodynamics, developed and applied in an astrophysical context to a wide range of astronomical phenomena. Three lecture hours a week for one semester. Prerequisite: Graduate standing in astronomy or physics, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in astronomy or physics, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 382D",
+"subject": "AST",
+"number": "382D",
+"title": "Astronomical Data Analysis",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to Astronomy majors. Apply statistical analysis techniques to astronomical data. Examine probability theory, parameter estimation, Bayesian statistics, Markov Chain Monte Carlo methods, and model fitting. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of department.",
+"prereqText": "Graduate standing and consent of department.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Astronomy majors."
+},
+{
+"id": "AST 383",
+"subject": "AST",
+"number": "383",
+"title": "Topics in Stellar Astronomy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 383C",
+"subject": "AST",
+"number": "383C",
+"title": "Stellar Atmospheres",
+"hours": 3.0,
+"division": "graduate",
+"description": "Observational properties of stellar atmospheres; theoretical calculations of stellar atmospheres and stellar spectra. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 383D",
+"subject": "AST",
+"number": "383D",
+"title": "Stellar Structure and Evolution",
+"hours": 3.0,
+"division": "graduate",
+"description": "Theoretical calculations of the structure and evolution of stars. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 383L",
+"subject": "AST",
+"number": "383L",
+"title": "Seminar in Planets and Life",
+"hours": 3.0,
+"division": "graduate",
+"description": "Discussions concerning the solar system; the detection, formation, and evolution of planets; planetary atmospheres, climates, and meteorology; and various aspects of life in the universe. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 383T",
+"subject": "AST",
+"number": "383T",
+"title": "Seminar in Stellar Astronomy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 384C",
+"subject": "AST",
+"number": "384C",
+"title": "Computational Astrophysics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to astronomy majors. Investigate, compare, and implement computational techniques for numerical modeling of astrophysical systems. Three lecture hours a week for one semester. Astronomy 381 (Topic: Computational Astrophysics) and 384C may not both be counted. Prerequisite: Graduate standing and consent of department.",
+"prereqText": "Graduate standing and consent of department.",
+"prereqConfidence": "none",
+"restricted": "Restricted to astronomy majors."
+},
+{
+"id": "AST 384T",
+"subject": "AST",
+"number": "384T",
+"title": "Current Studies in Astronomy for Teachers",
+"hours": 3.0,
+"division": "graduate",
+"description": "Lectures and laboratory work in astronomy for elementary and secondary school teachers of earth science, physical science, or astronomy. Three lecture hours and twelve laboratory hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 385",
+"subject": "AST",
+"number": "385",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three conference hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 185C",
+"subject": "AST",
+"number": "185C",
+"title": "Conference on Modern Astronomy",
+"hours": 1.0,
+"division": "graduate",
+"description": "A broad introduction to the research being conducted by the faculty and research staff in astronomy. One lecture hour a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 386",
+"subject": "AST",
+"number": "386",
+"title": "Extragalactic Astronomy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics include classification of galaxies, distance indicators, luminosities, dimensions, colors, spectra, polarization, radio emission, rotation, masses; formation and evolution; pairs, groups, clusters, superclusters, large-scale distribution, redshifts, cosmology. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 386C",
+"subject": "AST",
+"number": "386C",
+"title": "Properties of Galaxies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Observational properties of galaxies and their interpretation; includes a discussion of the Milky Way galaxy. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 386S",
+"subject": "AST",
+"number": "386S",
+"title": "Seminar in Extragalactic Astronomy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 389",
+"subject": "AST",
+"number": "389",
+"title": "Dynamical Astronomy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics include planetary and stellar motions, asymptotic representations of quasi integrals, galactic dynamics. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 390F",
+"subject": "AST",
+"number": "390F",
+"title": "Stars, Planets, and Interstellar Matter Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to astronomy majors. Present and discuss current research broadly related to stars, planets in the Solar System, extrasolar planets, and interstellar matter. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of department.",
+"prereqText": "Graduate standing and consent of department.",
+"prereqConfidence": "none",
+"restricted": "Restricted to astronomy majors.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 390G",
+"subject": "AST",
+"number": "390G",
+"title": "Galaxies and Cosmology Seminar",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to astronomy majors. Present and discuss current research on properties of galaxies, galaxy evolution, cosmology, and related subjects. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of department.",
+"prereqText": "Graduate standing and consent of department.",
+"prereqConfidence": "none",
+"restricted": "Restricted to astronomy majors.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 391",
+"subject": "AST",
+"number": "391",
+"title": "Graduate Research in Astronomy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in astronomy and consent of instructor.",
+"prereqText": "Graduate standing in astronomy and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 392D",
+"subject": "AST",
+"number": "392D",
+"title": "Mathematical Methods of Astrophysics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Statistics, error theory, least squares and curve fitting, numerical methods, approximation theory, Fourier transforms, sampling theory, time-series analysis. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 392E",
+"subject": "AST",
+"number": "392E",
+"title": "Optical Techniques in Astronomy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics include photometry, spectroscopy, direct imaging, interferometry and polarimetry at ultraviolet, visual, and infrared wavelengths. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 392G",
+"subject": "AST",
+"number": "392G",
+"title": "Observing Techniques in Astronomy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Survey of techniques used at the McDonald Observatory. Includes workshop at the observatory. Three lecture hours a week for one semester. Offered in the summer session only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered in the summer session only."
+},
+{
+"id": "AST 392J",
+"subject": "AST",
+"number": "392J",
+"title": "Astronomical Instrumentation",
+"hours": 3.0,
+"division": "graduate",
+"description": "A hands-on course in instrument development, including mechanical design and machining, electronics design, optical design and optics, computer interfacing, and project planning. Students use CAD programs in each area and design and build a computer-controlled instrument. Learning activities are carried out in groups and teams. One lecture hour and five laboratory hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 393F",
+"subject": "AST",
+"number": "393F",
+"title": "Survey of the Interstellar Medium",
+"hours": 3.0,
+"division": "graduate",
+"description": "A broad introduction to the processes and properties of the interstellar medium. Topics include H I regions, H II regions, molecular clouds, interstellar dust, and the distribution of the interstellar medium in our galaxy. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 393S",
+"subject": "AST",
+"number": "393S",
+"title": "Seminar in Interstellar Matter",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics to be announced. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 394F",
+"subject": "AST",
+"number": "394F",
+"title": "Formation of Galaxies and Large-Scale Structure",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to astronomy majors. Investigate formation and evolution of galaxies and larger structures in their cosmological context, including dark matter, dark energy, and the intergalactic medium. Three lecture hours a week for one semester. Astronomy 381 (Topic: Frmtn Galax/Lrg-Scale Strct) and 394F may not both be counted. Prerequisite: Graduate standing and consent of department.",
+"prereqText": "Graduate standing and consent of department.",
+"prereqConfidence": "none",
+"restricted": "Restricted to astronomy majors."
+},
+{
+"id": "AST 394P",
+"subject": "AST",
+"number": "394P",
+"title": "Planetary Astrophysics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to Astronomy majors. Discuss exoplanet detection methods; demographics, architecture, formation and evolution of planetary systems; planetary interiors, atmospheres and habitability. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of department.",
+"prereqText": "Graduate standing and consent of department.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Astronomy majors."
+},
+{
+"id": "AST 395H",
+"subject": "AST",
+"number": "395H",
+"title": "High Redshift Galaxies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to astronomy majors. Examine galaxy evolution, emphasizing first galaxies to the cosmic star formation peak at redshift z=2. Interpret relevant observations and simulations. Three lecture hours a week for one semester. Astronomy 386 (Topic: Galaxy Evol at High Redshift) and 395H may not both be counted. Prerequisite: Graduate standing and consent of department.",
+"prereqText": "Graduate standing and consent of department.",
+"prereqConfidence": "none",
+"restricted": "Restricted to astronomy majors."
+},
+{
+"id": "AST 396C",
+"subject": "AST",
+"number": "396C",
+"title": "Elements of Cosmology",
+"hours": 3.0,
+"division": "graduate",
+"description": "A theoretical discussion of the origin and evolution of the universe; includes a brief review of general relativity. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 697",
+"subject": "AST",
+"number": "697",
+"title": "Graduate Research Project",
+"hours": 6.0,
+"division": "graduate",
+"description": "Two-semester graduate research project in astronomy. The equivalent of three hours of work a week for two semesters. Prerequisite: For 697A, graduate standing and consent of instructor; for 697B, Astronomy 697A.",
+"prereqText": "For 697A, graduate standing and consent of instructor; for 697B, Astronomy 697A.",
+"prereq": {
+"type": "course",
+"id": "AST 697A"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "AST 697A",
+"subject": "AST",
+"number": "697A",
+"title": "Graduate Research Project",
+"hours": 6.0,
+"division": "graduate",
+"description": "Two-semester graduate research project in astronomy. The equivalent of three hours of work a week for two semesters. Prerequisite: For 697A, graduate standing and consent of instructor; for 697B, Astronomy 697A.",
+"prereqText": "For 697A, graduate standing and consent of instructor; for 697B, Astronomy 697A.",
+"prereq": {
+"type": "course",
+"id": "AST 697A"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "AST 697B",
+"subject": "AST",
+"number": "697B",
+"title": "Graduate Research Project",
+"hours": 6.0,
+"division": "graduate",
+"description": "Two-semester graduate research project in astronomy. The equivalent of three hours of work a week for two semesters. Prerequisite: For 697A, graduate standing and consent of instructor; for 697B, Astronomy 697A.",
+"prereqText": "For 697A, graduate standing and consent of instructor; for 697B, Astronomy 697A.",
+"prereq": {
+"type": "course",
+"id": "AST 697A"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "AST 698",
+"subject": "AST",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in astronomy and consent of the graduate adviser; for 698B, Astronomy 698A.",
+"prereqText": "For 698A, graduate standing in astronomy and consent of the graduate adviser; for 698B, Astronomy 698A.",
+"prereq": {
+"type": "course",
+"id": "AST 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 698A",
+"subject": "AST",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in astronomy and consent of the graduate adviser; for 698B, Astronomy 698A.",
+"prereqText": "For 698A, graduate standing in astronomy and consent of the graduate adviser; for 698B, Astronomy 698A.",
+"prereq": {
+"type": "course",
+"id": "AST 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 698B",
+"subject": "AST",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in astronomy and consent of the graduate adviser; for 698B, Astronomy 698A.",
+"prereqText": "For 698A, graduate standing in astronomy and consent of the graduate adviser; for 698B, Astronomy 698A.",
+"prereq": {
+"type": "course",
+"id": "AST 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 398R",
+"subject": "AST",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in astronomy and consent of the graduate adviser.",
+"prereqText": "Graduate standing in astronomy and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 398T",
+"subject": "AST",
+"number": "398T",
+"title": "Supervised Teaching in Astronomy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Effective astronomy teaching: course design, instructional materials, test design, other methods. In-class practice teaching. Projects in astronomy education. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of the instructor or consent of the graduate advisor.",
+"prereqText": "Graduate standing and consent of the instructor or consent of the graduate advisor.",
+"prereqConfidence": "none"
+},
+{
+"id": "AST 399W",
+"subject": "AST",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 699W",
+"subject": "AST",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 999W",
+"subject": "AST",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 699WA",
+"subject": "AST",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "AST 699WB",
+"subject": "AST",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

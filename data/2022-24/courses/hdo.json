@@ -1,0 +1,401 @@
+{
+"code": "HDO",
+"name": "Human Dimensions of Organizations",
+"courses": [
+{
+"id": "HDO 301",
+"subject": "HDO",
+"number": "301",
+"title": "Introduction to the Human Dimensions of Organizations",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to organizations and how the liberal arts can examine, analyze, and change them. Defines organizations from a liberal arts standpoint; survey of career opportunities related to the human dimensions of organizations. Three lecture hours a week for one semester."
+},
+{
+"id": "HDO 310",
+"subject": "HDO",
+"number": "310",
+"title": "Researching People-Centered Problems",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to mixed-methods research using active learning and project-based assignments. Explore the basics of qualitative and quantitative research methods, research ethics, teamwork, project management, and problem-solving. Three lecture hours a week for one semester. Human Dimensions of Organizations 310 and 320 may not both be counted. Prerequisite: Human Dimensions of Organizations 301.",
+"prereqText": "Human Dimensions of Organizations 301.",
+"prereq": {
+"type": "course",
+"id": "HDO 301"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HDO 320",
+"subject": "HDO",
+"number": "320",
+"title": "Multidisciplinary Methods for Exploring Organizations",
+"hours": 3.0,
+"division": "upper",
+"description": "Analyze and synthesize organizational studies from a liberal arts viewpoint. Examine types of organizations, explore problems these organizations face, and consider the ways distinct methodologies might address these problems. Three lecture hours a week for one semester. Human Dimensions of Organizations 310 and 320 may not both be counted. Prerequisite: Human Dimensions of Organizations 301.",
+"prereqText": "Human Dimensions of Organizations 301.",
+"prereq": {
+"type": "course",
+"id": "HDO 301"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HDO 322L",
+"subject": "HDO",
+"number": "322L",
+"title": "Law and Organizations",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Sociology 322L. Examine the intersection of law and organizational/workplace practices. Explore how law regulates the workplace (e.g., laws about sexual harassment), how organizations do or do not comply with the law, and the ways that organizational practices may affect legal standards. Three lecture hours a week for one semester. Human Dimensions of Organizations 322L and Sociology 322L may not both be counted. Prerequisite: Forty-five semester hours of coursework.",
+"prereqText": "Forty-five semester hours of coursework.",
+"prereqConfidence": "none",
+"sameAs": "Sociology 322L"
+},
+{
+"id": "HDO 325",
+"subject": "HDO",
+"number": "325",
+"title": "Strategic Human Resources Management",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Management 325. Restricted to students in a business major. Overview of the personnel function, covering recruitment, compensation, equal employment, job analysis, training, benefits, employee discipline, collective bargaining, safety, and health. Three lecture hours a week for one semester. Human Dimensions of Organizations 325 and Management 325 may not both be counted. Prerequisite: Credit or registration for Human Dimensions of Organizations 310, 320, Management 334M, 336, or 336H.",
+"prereqText": "Credit or registration for Human Dimensions of Organizations 310, 320, Management 334M, 336, or 336H.",
+"prereqConfidence": "low",
+"sameAs": "Management 325",
+"restricted": "Restricted to students in a business major."
+},
+{
+"id": "HDO 325N",
+"subject": "HDO",
+"number": "325N",
+"title": "Organizational Ethics",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Philosophy 325N. Examine the practical and theoretical aspects of ethical issues in organizations, including philosophical, psychological, anthropological, and strategic approaches. Three lecture hours or two lecture hours and one discussion hour a week for one semester. Only one of the following may be counted: Human Dimensions of Organizations 325N, Philosophy 325N, 365 (Topic: Organizational Ethics). Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"sameAs": "Philosophy 325N"
+},
+{
+"id": "HDO 330",
+"subject": "HDO",
+"number": "330",
+"title": "Topics in Human Dimensions of Organizations",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and Human Dimensions of Organizations 301.",
+"prereqText": "Upper-division standing and Human Dimensions of Organizations 301.",
+"prereq": {
+"type": "course",
+"id": "HDO 301"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HDO 350",
+"subject": "HDO",
+"number": "350",
+"title": "Identities in Organizations",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore how intersecting identities shape both individuals' and groups' experiences of various organizations. Three lecture hours a week for one semester. Human Dimensions of Organizations 330 (Topic: Cultural Competence in Orgs) and 350 may not both be counted. Prerequisite: Upper-division standing and Human Dimensions of Organizations 301.",
+"prereqText": "Upper-division standing and Human Dimensions of Organizations 301.",
+"prereq": {
+"type": "course",
+"id": "HDO 301"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HDO 359H",
+"subject": "HDO",
+"number": "359H",
+"title": "Honors Research I",
+"hours": 3.0,
+"division": "upper",
+"description": "The equivalent of three lecture hours a week for one semester. Prerequisite: Human Dimensions of Organizations 301 and 320 with a grade of at least B-; and admission to the honors program.",
+"prereqText": "Human Dimensions of Organizations 301 and 320 with a grade of at least B-; and admission to the honors program.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "HDO 301"
+},
+{
+"type": "course",
+"id": "HDO 320",
+"minGrade": "B-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HDO 365",
+"subject": "HDO",
+"number": "365",
+"title": "Bias",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Cognitive Science 365 and Linguistics 365. An interdisciplinary introduction to bias from the perspectives of psychology, political science, business, philosophy, and linguistics. Three lecture hours a week for one semester. Only one of the following may be counted: Cognitive Science 365, 360 (Topic: Bias), Linguistics 365, 350 (Topic: Bias), Human Dimensions of Organizations 330 (Topic: Bias), 365. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"sameAs": "Cognitive Science 365 and Linguistics 365"
+},
+{
+"id": "HDO 379",
+"subject": "HDO",
+"number": "379",
+"title": "Applying the Human Dimensions of Organizations",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to human dimensions of organizations majors. Explores multidisciplinary methods of the human dimensions of organizations with an external entity. Focus on the role of the liberal arts viewpoint in practical settings. Three lecture hours a week for one semester. Prerequisite: Upper-division standing, Human Dimensions of Organizations 320, and consent of adviser.",
+"prereqText": "Upper-division standing, Human Dimensions of Organizations 320, and consent of adviser.",
+"prereq": {
+"type": "course",
+"id": "HDO 320"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to human dimensions of organizations majors."
+},
+{
+"id": "HDO 379H",
+"subject": "HDO",
+"number": "379H",
+"title": "Honors Research II",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised conference course for honors candidates in Human Dimensions of Organizations. The equivalent of three lecture hours a week for one semester. Prerequisite: Human Dimensions of Organizations 359H with a grade of at least A-.",
+"prereqText": "Human Dimensions of Organizations 359H with a grade of at least A-.",
+"prereq": {
+"type": "course",
+"id": "HDO 359H",
+"minGrade": "A-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "HDO 380",
+"subject": "HDO",
+"number": "380",
+"title": "Cultural Perspectives on the Human Dimensions of Organizations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Examines broad aspects of the role of culture in organizations through a variety of disciplinary lenses. Culture includes both global cultures, as well as cultures created by organizations. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDO 381",
+"subject": "HDO",
+"number": "381",
+"title": "Individual Perspectives on the Human Dimensions of Organizations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. A general introduction to the roles of individuals in organizations from a multidisciplinary perspective. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDO 382",
+"subject": "HDO",
+"number": "382",
+"title": "Approaches to Leadership",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Examines broad aspects of organizational leadership through a variety of disciplinary lenses. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDO 383",
+"subject": "HDO",
+"number": "383",
+"title": "Society, Culture and Organizational Diversity",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Examines multidisciplinary frameworks for understanding society and culture in organizations. The effects of gender, race/ethnicity, sexual orientation, culture, and globalization on organizational change may be discussed. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDO 384",
+"subject": "HDO",
+"number": "384",
+"title": "Organizational Inertia, Decision Making and Change",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Reviews theories and methods for understanding how organizational environments support habits, and how individuals and groups make decisions. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDO 285",
+"subject": "HDO",
+"number": "285",
+"title": "Organizational Ethics",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Examines ethics as they pertain to organizational contexts. Two lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDO 386",
+"subject": "HDO",
+"number": "386",
+"title": "Persuasion and Argumentation",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Focuses on how effective persuasion works within organizations and at the individual level. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDO 287",
+"subject": "HDO",
+"number": "287",
+"title": "The Structure of Organizations",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. A multidisciplinary approach to understanding how money, information, and influence flow through organizations and between related organizations. Two lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDO 388",
+"subject": "HDO",
+"number": "388",
+"title": "Conference Course in Human Dimensions of Organizations",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Individual directed study of selected topics in related human dimensions of organizations field. The equivalent of three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of the graduate adviser.",
+"prereqText": "Graduate standing and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program."
+},
+{
+"id": "HDO 289",
+"subject": "HDO",
+"number": "289",
+"title": "Writing and Researching Organizations",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Exposure to various approaches to organizational writing and research. Explores the ways these approaches might inform student Capstone Projects. Examines strategies to plan, organize, and execute an organization-based research project. Two lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDO 390",
+"subject": "HDO",
+"number": "390",
+"title": "Qualitative Research Methods",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Covers qualitative approaches to studying people in organizational settings. Approaches may include narrative, phenomenology, grounded theory, ethnography, case studies. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDO 391",
+"subject": "HDO",
+"number": "391",
+"title": "Quantitative Research Methods",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Quantitative approaches for studying the human dimensions of organizations. Examines the mechanics and assumptions of common methods in quantitative methods, including experimental design, survey research, and quantitative coding of archival data. Emphasizes students' ability to know and identify what types of research questions are best-suited to the different quantitative approaches. Reviews the types of data that various designs produce, and some basic statistical assessments of quantitative data. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDO 292",
+"subject": "HDO",
+"number": "292",
+"title": "Computational Methods",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Analyzing and interpreting data drawn from large-scale data sets. Approaches include social network analysis, web analytics, and linguistic corpus analysis. Two lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "HDO 695",
+"subject": "HDO",
+"number": "695",
+"title": "Capstone Project",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Focuses on the completion of the capstone project, the culmination of work in the human dimensions of organization degree. The equivalent of six lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "HDO 695A",
+"subject": "HDO",
+"number": "695A",
+"title": "Capstone Project",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Focuses on the completion of the capstone project, the culmination of work in the human dimensions of organization degree. The equivalent of six lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "HDO 695B",
+"subject": "HDO",
+"number": "695B",
+"title": "Capstone Project",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Focuses on the completion of the capstone project, the culmination of work in the human dimensions of organization degree. The equivalent of six lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "HDO 197",
+"subject": "HDO",
+"number": "197",
+"title": "Practicum in Human Dimensions of Organizations",
+"hours": 1.0,
+"division": "graduate",
+"description": "Restricted to students in the human dimensions of organizations degree program. Applied study in human dimensions of organizations. The equivalent of one lecture hour a week for one semester, plus additional hours to be arranged. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqText": "Graduate standing, consent of the graduate adviser, and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the human dimensions of organizations degree program.",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

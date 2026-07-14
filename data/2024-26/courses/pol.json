@@ -1,0 +1,255 @@
+{
+"code": "POL",
+"name": "Polish",
+"courses": [
+{
+"id": "POL 601C",
+"subject": "POL",
+"number": "601C",
+"title": "Intensive Polish I",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Polish. Emphasis on developing oral proficiency in Polish using intensive methods of instruction. Six lecture hours a week for one semester. Polish 601C and 506 may not both be counted. Polish 601C and 507 may not both be counted."
+},
+{
+"id": "POL 601CA",
+"subject": "POL",
+"number": "601CA",
+"title": "Intensive Polish I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Polish. Emphasis on developing oral proficiency in Polish using intensive methods of instruction. Six lecture hours a week for one semester. Polish 601C and 506 may not both be counted. Polish 601C and 507 may not both be counted."
+},
+{
+"id": "POL 601CB",
+"subject": "POL",
+"number": "601CB",
+"title": "Intensive Polish I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Polish. Emphasis on developing oral proficiency in Polish using intensive methods of instruction. Six lecture hours a week for one semester. Polish 601C and 506 may not both be counted. Polish 601C and 507 may not both be counted."
+},
+{
+"id": "POL 506",
+"subject": "POL",
+"number": "506",
+"title": "First-Year Polish I",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency. Five lecture hours a week for one semester. Polish 601C and 506 may not both be counted."
+},
+{
+"id": "POL 507",
+"subject": "POL",
+"number": "507",
+"title": "First-Year Polish II",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency. Five lecture hours a week for one semester. Polish 601C and 507 may not both be counted. Prerequisite: Polish 506.",
+"prereqText": "Polish 506.",
+"prereq": {
+"type": "course",
+"id": "POL 506"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POL 611C",
+"subject": "POL",
+"number": "611C",
+"title": "Intensive Polish II",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Polish. Continuing intensive development of proficiency in Polish, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Polish 611C and 312K may not both be counted. Polish 611C and 312L may not both be counted. Prerequisite: Polish 601C or 507.",
+"prereqText": "Polish 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POL 601C"
+},
+{
+"type": "course",
+"id": "POL 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POL 611CA",
+"subject": "POL",
+"number": "611CA",
+"title": "Intensive Polish II",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Polish. Continuing intensive development of proficiency in Polish, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Polish 611C and 312K may not both be counted. Polish 611C and 312L may not both be counted. Prerequisite: Polish 601C or 507.",
+"prereqText": "Polish 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POL 601C"
+},
+{
+"type": "course",
+"id": "POL 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POL 611CB",
+"subject": "POL",
+"number": "611CB",
+"title": "Intensive Polish II",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Polish. Continuing intensive development of proficiency in Polish, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Polish 611C and 312K may not both be counted. Polish 611C and 312L may not both be counted. Prerequisite: Polish 601C or 507.",
+"prereqText": "Polish 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POL 601C"
+},
+{
+"type": "course",
+"id": "POL 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POL 312K",
+"subject": "POL",
+"number": "312K",
+"title": "Second-Year Polish I",
+"hours": 3.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency. Three lecture hours a week for one semester. Polish 611C and 312K may not both be counted. Prerequisite: Polish 601C or 507.",
+"prereqText": "Polish 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POL 601C"
+},
+{
+"type": "course",
+"id": "POL 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POL 312L",
+"subject": "POL",
+"number": "312L",
+"title": "Second-Year Polish II",
+"hours": 3.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency. Three lecture hours a week for one semester. Polish 611C and 312L may not both be counted. Prerequisite: Polish 312K.",
+"prereqText": "Polish 312K.",
+"prereq": {
+"type": "course",
+"id": "POL 312K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POL 325",
+"subject": "POL",
+"number": "325",
+"title": "Third-Year Polish I",
+"hours": 3.0,
+"division": "upper",
+"description": "Oral expression, reading, and composition. Three lecture hours a week for one semester. Polish 325 and Russian, East European, and Eurasian Studies 325 (Topic: Third-Year Polish I) may not both be counted. Prerequisite: Polish 611C or 312L.",
+"prereqText": "Polish 611C or 312L.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "POL 611C"
+},
+{
+"type": "course",
+"id": "POL 312L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POL 326",
+"subject": "POL",
+"number": "326",
+"title": "Third-Year Polish II",
+"hours": 3.0,
+"division": "upper",
+"description": "Continuation of Polish 325: Oral expression, reading, and composition. Three lecture hours a week for one semester. Polish 326 and Russian, East European, and Eurasian Studies 325 (Topic: Third-Year Polish II) may not both be counted. Prerequisite: Polish 325.",
+"prereqText": "Polish 325.",
+"prereq": {
+"type": "course",
+"id": "POL 325"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POL 328",
+"subject": "POL",
+"number": "328",
+"title": "Topics in Advanced Polish",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Polish 326.",
+"prereqText": "Polish 326.",
+"prereq": {
+"type": "course",
+"id": "POL 326"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "POL 379",
+"subject": "POL",
+"number": "379",
+"title": "Conference Course in Polish Language or Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Conference course. May be repeated for credit. Prerequisite: Six semester hours of upper-division coursework in Polish or consent of instructor.",
+"prereqText": "Six semester hours of upper-division coursework in Polish or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "POL 392",
+"subject": "POL",
+"number": "392",
+"title": "Topics in Polish Language",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "POL 395",
+"subject": "POL",
+"number": "395",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of individual problems in Polish language, literature, and culture. Conference course. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+}
+]
+}

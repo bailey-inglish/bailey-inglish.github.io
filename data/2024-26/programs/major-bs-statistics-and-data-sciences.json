@@ -1,0 +1,252 @@
+{
+ "id": "2024-26/major/bs-statistics-and-data-sciences",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Statistics and Data Science",
+ "college": "Natural Sciences",
+ "degreeType": "BS",
+ "majorSubjects": [
+  "SDS"
+ ],
+ "totalHours": 120,
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general",
+  "2024-26/layer/cns-college"
+ ],
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-statistics-and-data-sciences/",
+ "notes": "Students must earn a grade of at least C- in all courses required for the major and a GPA in these courses of at least 2.00.",
+ "rules": {
+  "type": "all",
+  "title": "Prescribed work",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 120,
+    "filter": {
+     "label": "Any coursework"
+    },
+    "umbrella": true,
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-statistics-and-data-sciences/",
+     "quote": "Enough additional coursework to make a total of 120 semester hours."
+    },
+    "title": "120 total hours"
+   },
+   {
+    "type": "hours",
+    "hours": 21,
+    "filter": {
+     "subjects": [
+      "SDS"
+     ],
+     "division": "upper",
+     "label": "Upper-division SDS in residence"
+    },
+    "umbrella": true,
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-statistics-and-data-sciences/",
+     "quote": "At least 21 hours of upper-division course work in Statistics and Data Sciences must be completed in residence at the university."
+    },
+    "title": "21 upper-division SDS hours in residence",
+    "inResidence": true
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Calculus sequence",
+    "of": [
+     {
+      "type": "all",
+      "title": "M 408C + 408D",
+      "of": [
+       {
+        "type": "course",
+        "course": "M 408C",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408D",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "M 408K + 408L + 408M",
+      "of": [
+       {
+        "type": "course",
+        "course": "M 408K",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408L",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408M",
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "M 408N + 408S + 408M",
+      "of": [
+       {
+        "type": "course",
+        "course": "M 408N",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408S",
+        "minGrade": "C-"
+       },
+       {
+        "type": "course",
+        "course": "M 408M",
+        "minGrade": "C-"
+       }
+      ]
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-statistics-and-data-sciences/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Linear algebra",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 340L",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "M 341",
+      "minGrade": "C-"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-statistics-and-data-sciences/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Introduction to programming",
+    "of": [
+     {
+      "type": "course",
+      "course": "C S 303E",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "C S 312",
+      "minGrade": "C-"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-statistics-and-data-sciences/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "C S 327E",
+    "title": "Introduction to databases",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-statistics-and-data-sciences/"
+    },
+    "minGrade": "C-"
+   },
+   {
+    "type": "all",
+    "title": "SDS core courses",
+    "of": [
+     {
+      "type": "course",
+      "course": "SDS 313",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "SDS 315",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "SDS 431",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "SDS 334",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "SDS 336",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "SDS 354",
+      "minGrade": "C-"
+     },
+     {
+      "type": "course",
+      "course": "SDS 357",
+      "minGrade": "C-"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-statistics-and-data-sciences/"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Six additional credit hours from an approved list of courses",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-statistics-and-data-sciences/"
+    },
+    "title": "Six hours from the SDS approved list"
+   },
+   {
+    "type": "concentration",
+    "hours": 12,
+    "upperHours": 6,
+    "excludeSubjects": [
+     "SDS"
+    ],
+    "title": "Breadth: 12 hours in one other field (6 upper-division)",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-statistics-and-data-sciences/",
+     "quote": "At least 12 hours, including at least six upper-division hours, in a single field of study other than Statistics and Data Sciences."
+    }
+   },
+   {
+    "type": "gpa",
+    "min": 2.0,
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-statistics-and-data-sciences/"
+    },
+    "title": "GPA of at least 2.00 in major courses",
+    "scope": {
+     "subjects": [
+      "SDS"
+     ],
+     "label": "SDS coursework"
+    }
+   }
+  ]
+ }
+}

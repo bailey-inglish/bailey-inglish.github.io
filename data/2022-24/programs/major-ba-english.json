@@ -1,0 +1,94 @@
+{
+ "id": "2022-24/major/ba-english",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "English",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 33.0,
+    "umbrella": true,
+    "title": "33 hours of english",
+    "filter": {
+     "subjects": [
+      "E"
+     ],
+     "label": "English coursework"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
+     "quote": "Thirty-three semester hours of English, including at least 21 semester hours of upper-division coursework consisting of the following:"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "An introductory literary skills course, chosen from English 314J, 314L, 314T, or 314V",
+    "title": "An introductory literary skills course, chosen from English 314J, 314L, 314T, or",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
+     "quote": "An introductory literary skills course, chosen from English 314J, 314L, 314T, or 314V"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "An introductory literary survey course, chosen from English 316L, 316M, 316N, or 316P",
+    "title": "An introductory literary survey course, chosen from English 316L, 316M, 316N, or",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
+     "quote": "An introductory literary survey course, chosen from English 316L, 316M, 316N, or 316P"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 9.0,
+    "umbrella": true,
+    "title": "9 upper-division hours of english",
+    "filter": {
+     "division": "upper",
+     "subjects": [
+      "E"
+     ],
+     "label": "Upper-division english"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
+     "quote": "Nine additional semester hours of upper-division coursework in English"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "The student must make a grade of at least C- in each course counted toward fulfillment of the major requirements. A minimum grade point average of 2.00 in courses taken at the University and counted toward the major is also required.",
+    "title": "The student must make a grade of at least C- in each course counted toward fulfi",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
+     "quote": "The student must make a grade of at least C- in each course counted toward fulfillment of the major requirements. A minimum grade point average of 2.00 in courses taken at the University and counted t"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Students are discouraged from taking more than six semester hours of coursework in English in a semester. No student may take more than nine hours of coursework in English in a semester.",
+    "title": "Students are discouraged from taking more than six semester hours of coursework ",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
+     "quote": "Students are discouraged from taking more than six semester hours of coursework in English in a semester. No student may take more than nine hours of coursework in English in a semester."
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "E"
+ ]
+}

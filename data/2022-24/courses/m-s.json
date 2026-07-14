@@ -1,0 +1,184 @@
+{
+"code": "M S",
+"name": "Military Science",
+"courses": [
+{
+"id": "M S 000",
+"subject": "M S",
+"number": "000",
+"title": "Leadership Laboratory",
+"hours": 0.0,
+"division": "lower",
+"description": "Open only to students in associated military science courses. Leadership responsibilities for planning, coordination, execution, and evaluation of training and other activities. Self-confidence and team-building leadership skills that can be applied throughout life. One and one-half laboratory hours a week for one semester. Required of all military science students. Prerequisite: Concurrent enrollment in another military science course.",
+"prereqText": "Concurrent enrollment in another military science course.",
+"prereqConfidence": "none"
+},
+{
+"id": "M S 304",
+"subject": "M S",
+"number": "304",
+"title": "American Military History: 1775 to Present",
+"hours": 3.0,
+"division": "lower",
+"description": "Covers development of American Profession of Arms from a \"dual military tradition\" evaluating military leadership at the tactical, operational, and strategic levels of war. Explores ways in which Industrial Revolution transformed the United States and other societies organized armed violence. Three lecture hours a week for one semester."
+},
+{
+"id": "M S 209",
+"subject": "M S",
+"number": "209",
+"title": "Basic Military Science I-A",
+"hours": 2.0,
+"division": "lower",
+"description": "Two lecture hours and three laboratory hours a week for one semester Military Science 101, 201 and 209 may not both be counted. Prerequisite: Concurrent Enrollment in Military Science 000.",
+"prereqText": "Concurrent Enrollment in Military Science 000.",
+"prereq": {
+"type": "course",
+"id": "M S 000"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M S 209K",
+"subject": "M S",
+"number": "209K",
+"title": "Basic Military Science I-B",
+"hours": 2.0,
+"division": "lower",
+"description": "Two lecture hours and three laboratory hours a week for one semester Military Science 103, 203 and 209K may not both be counted. Prerequisite: Concurrent enrollment in Military Science 000.",
+"prereqText": "Concurrent enrollment in Military Science 000.",
+"prereq": {
+"type": "course",
+"id": "M S 000"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "M S 219",
+"subject": "M S",
+"number": "219",
+"title": "Basic Military Science II-A",
+"hours": 2.0,
+"division": "lower",
+"description": "Two lecture hours and three laboratory hours a week for one semester. Military Science 210 and 219 may not both be counted. Offered on the letter-grade basis only. Prerequisite: Concurrent enrollment in Military Science 000.",
+"prereqText": "Concurrent enrollment in Military Science 000.",
+"prereq": {
+"type": "course",
+"id": "M S 000"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "M S 219K",
+"subject": "M S",
+"number": "219K",
+"title": "Basic Military Science II-B",
+"hours": 2.0,
+"division": "lower",
+"description": "Two lecture hours and three laboratory hours a week for one semester. Military Science 212 and 219K may not both be counted. Offered on the letter-grade basis only. Prerequisite: Concurrent enrollment in Military Science 000.",
+"prereqText": "Concurrent enrollment in Military Science 000.",
+"prereq": {
+"type": "course",
+"id": "M S 000"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "M S 329",
+"subject": "M S",
+"number": "329",
+"title": "Advanced Military Science III-A",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Military Science 320 and 329 may not both be counted. Offered on the letter-grade basis only. Prerequisite: Concurrent enrollment in Military Science 000 and approval of departmental representative.",
+"prereqText": "Concurrent enrollment in Military Science 000 and approval of departmental representative.",
+"prereq": {
+"type": "course",
+"id": "M S 000"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "M S 329K",
+"subject": "M S",
+"number": "329K",
+"title": "Advanced Military Science III-B",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours and three laboratory hours a week for one semester. Military Science 320K and 329K may not both be counted. Offered on the letter-grade basis only. Prerequisite: Concurrent enrollment in Military Science 000 and approval of departmental representative.",
+"prereqText": "Concurrent enrollment in Military Science 000 and approval of departmental representative.",
+"prereq": {
+"type": "course",
+"id": "M S 000"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "M S 339",
+"subject": "M S",
+"number": "339",
+"title": "Advanced Military Science IV-A",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours and two laboratory hours a week for one semester. Military Science 339 and 375 may not both be counted. Offered on the letter-grade basis only. Prerequisite: Concurrent enrollment in Military Science 000 and approval of departmental representative.",
+"prereqText": "Concurrent enrollment in Military Science 000 and approval of departmental representative.",
+"prereq": {
+"type": "course",
+"id": "M S 000"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "M S 339K",
+"subject": "M S",
+"number": "339K",
+"title": "Advanced Military Science IV-B",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Military Science 339K and 375K may not both be counted. Offered on the letter-grade basis only. Prerequisite: Concurrent enrollment in Military Science 000 and approval of departmental representative.",
+"prereqText": "Concurrent enrollment in Military Science 000 and approval of departmental representative.",
+"prereq": {
+"type": "course",
+"id": "M S 000"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "M S 379",
+"subject": "M S",
+"number": "379",
+"title": "Advanced Military Science V-A",
+"hours": 3.0,
+"division": "upper",
+"description": "Advanced study of planning, executing, and assessing complex operations. Composed primarily of independent study, cadets are given opportunities to plan and execute events, assess risk, make ethical decisions, and lead fellow ROTC cadets. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Concurrent enrollment in Military Science 000.",
+"prereqText": "Concurrent enrollment in Military Science 000.",
+"prereq": {
+"type": "course",
+"id": "M S 000"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "M S 379K",
+"subject": "M S",
+"number": "379K",
+"title": "Advanced Military Science V-B",
+"hours": 3.0,
+"division": "upper",
+"description": "Advanced study of planning, executing, and assessing complex operations. Composed primarily of independent study, cadets are given opportunities to plan and execute events, assess risk, make ethical decisions, and lead fellow ROTC cadets. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Concurrent enrollment in Military Science 000.",
+"prereqText": "Concurrent enrollment in Military Science 000.",
+"prereq": {
+"type": "course",
+"id": "M S 000"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+}
+]
+}

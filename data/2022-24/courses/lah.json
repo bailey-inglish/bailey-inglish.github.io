@@ -1,0 +1,801 @@
+{
+"code": "LAH",
+"name": "Liberal Arts Honors",
+"courses": [
+{
+"id": "LAH 101",
+"subject": "LAH",
+"number": "101",
+"title": "The Idea of Reacting to the Past",
+"hours": 1.0,
+"division": "lower",
+"description": "Restricted to students in the Liberal Arts Honors Program and Plan II. Develop skills in public speaking, debate, critical thinking, research and writing using historically-based perspectives through role play. The equivalent of one lecture hour a week for one semester.",
+"restricted": "Restricted to students in the Liberal Arts Honors Program and Plan II."
+},
+{
+"id": "LAH 102H",
+"subject": "LAH",
+"number": "102H",
+"title": "The Idea of the Liberal Arts",
+"hours": 1.0,
+"division": "lower",
+"description": "Restricted to students in the Freshman Honors Program in the College of Liberal Arts. An overview of the liberal arts disciplines. One, two, or three class hours a week for one semester. Additional hours may be required. Offered on the letter-grade basis only.",
+"restricted": "Restricted to students in the Freshman Honors Program in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 202H",
+"subject": "LAH",
+"number": "202H",
+"title": "The Idea of the Liberal Arts",
+"hours": 2.0,
+"division": "lower",
+"description": "Restricted to students in the Freshman Honors Program in the College of Liberal Arts. An overview of the liberal arts disciplines. One, two, or three class hours a week for one semester. Additional hours may be required. Offered on the letter-grade basis only.",
+"restricted": "Restricted to students in the Freshman Honors Program in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 302H",
+"subject": "LAH",
+"number": "302H",
+"title": "The Idea of the Liberal Arts",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the Freshman Honors Program in the College of Liberal Arts. An overview of the liberal arts disciplines. One, two, or three class hours a week for one semester. Additional hours may be required. Offered on the letter-grade basis only.",
+"restricted": "Restricted to students in the Freshman Honors Program in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 103H",
+"subject": "LAH",
+"number": "103H",
+"title": "The Ideas of Civic Engagement",
+"hours": 1.0,
+"division": "lower",
+"description": "Restricted to students in the Liberal Arts Honors Program in the College of Liberal Arts. Introduces Liberal Arts Honors students to the resources of the University, their history, and how to make best use of them. Provides guidance on internships, scholarships, and career paths, encouraging students to prepare for a lifetime of civic engagement and public service. One lecture hour a week for one semester, with additional hours to be arranged Humanities 116 and Liberal Arts Honors 103H may not both be counted. Offered on the letter-grade basis only. Prerequisite: Liberal Arts Honors 102H.",
+"prereqText": "Liberal Arts Honors 102H.",
+"prereq": {
+"type": "course",
+"id": "LAH 102H"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Liberal Arts Honors Program in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 104H",
+"subject": "LAH",
+"number": "104H",
+"title": "Professionalization and Career Development",
+"hours": 1.0,
+"division": "lower",
+"description": "Restricted to students in the Liberal Arts Honors Program in the College of Liberal Arts. Introduction to the ideas, concepts, and best practices of career development, professionalization and professional online brand management. Provides guidance on internships and career paths working in conjunction with Liberal Arts Career Services. One and one-half lecture hours a week for one semester. Only one of the following may be counted: Economics 101S, Liberal Arts 101M, Liberal Arts Honors 104H. Offered on the letter-grade basis only.",
+"restricted": "Restricted to students in the Liberal Arts Honors Program in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 305",
+"subject": "LAH",
+"number": "305",
+"title": "Liberal Arts Freshman Honors Seminar",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the Freshman Honors Program in the College of Liberal Arts. Intensive small class lecture or seminar course addressing basic issues in various liberal arts disciplines. Lectures, readings, discussions, examinations. Three lecture hours a week for one semester. Humanities 305 and Liberal Arts Honors 305 may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"restricted": "Restricted to students in the Freshman Honors Program in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 112H",
+"subject": "LAH",
+"number": "112H",
+"title": "The Nature of Inquiry",
+"hours": 1.0,
+"division": "lower",
+"description": "Designed for students who plan to enter a liberal arts departmental honors program. Introduction to the nature of research in liberal arts disciplines. One and one-half class hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Forty-five semester hours of coursework and consent of the liberal arts honors director.",
+"prereqText": "Forty-five semester hours of coursework and consent of the liberal arts honors director.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 318Q",
+"subject": "LAH",
+"number": "318Q",
+"title": "Supervised Research",
+"hours": 3.0,
+"division": "lower",
+"description": "Individual instruction. Prerequisite: Consent of the liberal arts honors program adviser.",
+"prereqText": "Consent of the liberal arts honors program adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAH 340L",
+"subject": "LAH",
+"number": "340L",
+"title": "Legal Internships",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts who are participants in the Liberal Arts Honors Scholars Program. Explore the role of lawyers and how the practice of law has shaped American society. Intern in law offices or legal settings. Gain practical experience and first-hand knowledge of different legal fields. Internships help shape classroom discussions. Examine the practice of law and how lawyers serve the public interest and larger society The equivalent of three lecture hours a week for one semester with an addition 9-10 internship hours a week for one semester. Liberal Arts Honors 340L and 350 (Topic: Legal Internships and the Law) may not both be counted. Offered on the letter-grade basis only. Prerequisite: Upper-division standing, cumulative grade point average of at least 3.25.",
+"prereqText": "Upper-division standing, cumulative grade point average of at least 3.25.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts who are participants in the Liberal Arts Honors Scholars Program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 340M",
+"subject": "LAH",
+"number": "340M",
+"title": "Business Consulting Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "In a classroom setting, explore and discuss the role of consultants in the business world and how both have shaped American society. Discuss hands-on experience from internships in the classroom. One lecture hour and ten internship hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing, and a cumulative grade point average of at least 3.25.",
+"prereqText": "Upper-division standing, and a cumulative grade point average of at least 3.25.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 340N",
+"subject": "LAH",
+"number": "340N",
+"title": "Nonprofit Management Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "In a classroom setting, explore the role of non-profit organizations and how they have shaped American society. Discuss hands-on experience from internships in the classroom. One lecture hour and ten internship hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing, and a cumulative grade point average of at least 3.25.",
+"prereqText": "Upper-division standing, and a cumulative grade point average of at least 3.25.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 340P",
+"subject": "LAH",
+"number": "340P",
+"title": "Public Health Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "In a classroom setting, explore the role of public health organizations and how they have shaped American society. Discuss hands-on experience from internships in the classroom. One lecture hour and ten internship hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing, and a cumulative grade point average of at least 3.25.",
+"prereqText": "Upper-division standing, and a cumulative grade point average of at least 3.25.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 340Q",
+"subject": "LAH",
+"number": "340Q",
+"title": "Technical Writing and Social Media Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "In a classroom setting, explore the expanding role of social media and technical writing in society and how both have shaped American society. Discuss hands-on experience from internships in the classroom. One lecture hour and ten internship hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing, and a cumulative grade point average of at least 3.25.",
+"prereqText": "Upper-division standing, and a cumulative grade point average of at least 3.25.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 340R",
+"subject": "LAH",
+"number": "340R",
+"title": "Public Policy Internships and Advocacy",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts who are participants in the Liberal Arts Honors Scholars Program. Examine how public policy is made, functions, and can be changed through the use of case studies, policy reports, and articles on current issues. Participate in a public policy oriented internship. The equivalent of three lecture hours a week for one semester with an additional 9-10 internship hours a week for one semester. Liberal Arts Honors 350 (Topic: Pub Pol Intrnships/Advocacy) and 340R may not both be counted. Offered on the letter-grade basis only. Prerequisite: Upper division standing and a grade point average of at least 3.25.",
+"prereqText": "Upper division standing and a grade point average of at least 3.25.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts who are participants in the Liberal Arts Honors Scholars Program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 149",
+"subject": "LAH",
+"number": "149",
+"title": "Scholars Honors Capstone",
+"hours": 1.0,
+"division": "upper",
+"description": "Produce a paper that reflects upon the student's academic enrichment experiences and how it impacted their views and career goals. The equivalent of one lecture hour a week for one semester. Offered on the pass/fail basis only. Prerequisite: Upper-division standing, and a cumulative grade point average of at least 3.25.",
+"prereqText": "Upper-division standing, and a cumulative grade point average of at least 3.25.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "LAH 350",
+"subject": "LAH",
+"number": "350",
+"title": "Topics in the Liberal Arts",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Intensive lecture course treating topics from a variety of disciplinary perspectives, taught by instructors from various departments. Lectures, readings, discussions, examinations. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351C",
+"subject": "LAH",
+"number": "351C",
+"title": "African American Family in Historical and Contemporary Contexts",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as African and African Diaspora Studies 351R and Sociology 325F. Restricted to Plan I majors in the College of Liberal Arts. Examine how African Americans managed to maintain a sense of family from the time of slavery to the present trend of mass incarceration. Three lecture hours a week for one semester. Only one of the following may be counted: African and African Diaspora Studies 372D (Topic: Afr Am Fam: Hist/Contem Contxt), 351R, Liberal Arts Honors 350 (Topic: Afr Am Fam: Hist/Contem Cntxt), 351C, Sociology 321K (Topic: Afr Am Fam: Hist/Contem Cntxt), 325F. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"sameAs": "African and African Diaspora Studies 351R and Sociology 325F",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351D",
+"subject": "LAH",
+"number": "351D",
+"title": "Ethical Issues in Medicine and Society",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Explore, analyze, and evaluate health and health care in the twenty-first century. Examine the social factors at play in relation to disease and illness, the rise of the medical-industrial complex, and how the issues of power underlie ethical dilemmas in both medicine and society. Three lecture hours a week for one semester. Liberal Arts Honors 350 (Topic: Ethical Issues/Med/Society) and 351D may not both be counted. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351E",
+"subject": "LAH",
+"number": "351E",
+"title": "Gender Equality in World Development",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Examine the causes and consequences of gender equality and inequality in the world. Identify where the most and least progress has occurred for gender equality. Analyze the causal links between women's empowerment and development. Three lecture hours a week for one semester. Liberal Arts Honors 350 (Topic: Gender Equality/World Devel) and 351E may not both be counted. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351F",
+"subject": "LAH",
+"number": "351F",
+"title": "Philanthropy and Nonprofit Organizations",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Examine the scope and diversity of the nonprofit sector, as well as individual patterns of giving and volunteering. Focus on the tools and skills needed to evaluate charitable programs for effectiveness using social scientific techniques. Three lecture hours a week for one semester. Liberal Arts Honors 350 (Topic: Philanthropy/Nonprofit Orgs) and 351F may not both be counted. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351G",
+"subject": "LAH",
+"number": "351G",
+"title": "Reacting to Revolutionary Ideas",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Russian, East European, and Eurasian Studies 335 (Topic 27). Restricted to Plan I majors in the College of Liberal Arts. Explore revolutionary themes in Western and non-Western countries during the nineteenth and twentieth centuries. Three lecture hours a week for one semester. Only one of the following may be counted: Liberal Arts Honors 350 (Topic: Reacting/Revolutionary Ideas), 351G, Russian, East Europeans, and Eurasian Studies 335 (Topic: Reacting/Revoltn Ideas: HON), 335 (Topic 27) Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"sameAs": "Russian, East European, and Eurasian Studies 335 (Topic 27)",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351I",
+"subject": "LAH",
+"number": "351I",
+"title": "Rejection Immunity",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Examine the neuroscience and psychology behind the brain's calculations of risk in various aspects of our lives. Explore and craft research based response systems to inform future reactions to receiving a rejection. Three lecture hours a week for one semester. Only one of the following may be counted: Liberal Arts 350 (Topic: Rejection Immunity), 351I, Tutorial Course 325 (Topic: Rejection Immunity) Prerequisite: Upper-division standing and grade-point average of at least 3.50.",
+"prereqText": "Upper-division standing and grade-point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351J",
+"subject": "LAH",
+"number": "351J",
+"title": "Regime Perspectives on American Politics",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Core Texts and Ideas 326R and Government 379C. Explore American politics and culture and examine how the parts of America fit together as a whole. Three lecture hours a week for one semester. Only one of the following may be counted: Core Texts and Ideas 326R, 335 (Topic: Regime Persp Amer Poltc-Honors), Government 379C, 379S (Topic 3), Liberal Arts Honors 350 (Topic: Regime Persp on Amer Politics), 351J. Prerequisite: Upper-division standing, six semester hours of government coursework, and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing, six semester hours of government coursework, and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"sameAs": "Core Texts and Ideas 326R and Government 379C"
+},
+{
+"id": "LAH 351K",
+"subject": "LAH",
+"number": "351K",
+"title": "Citizenship in Democratic Politics",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Government 379D. Examine the role of ordinary citizens in democratic politics. Three lecture hours a week for one semester. Only one of the following may be counted: Government 379D, 379S (Topic: Citizens in Democratic Pol-Hon), Liberal Arts Honors 350 (Topic: Citizens in Democratic Pol), 351K. Prerequisite: Upper-division standing, six semester hours of coursework in Government, and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing, six semester hours of coursework in Government, and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"sameAs": "Government 379D"
+},
+{
+"id": "LAH 351L",
+"subject": "LAH",
+"number": "351L",
+"title": "Homer and Plato",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Government 379E. Examine the works of Homer and Plato. Explore the ideas of human nature, existence, leadership, courage, honor, ambition, justice, necessity, fate, divine power, human freedom, and moral responsibility. Three lecture hours a week for one semester. Only one of the following may be counted: Government 379E, 379S (Topic: Homer and Plato-Honors), Liberal Arts Honors 350 (Topic: Homer and Plato), 351L. Prerequisite: Upper-division standing, six semester hours of lower-division coursework in government, and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing, six semester hours of lower-division coursework in government, and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"sameAs": "Government 379E"
+},
+{
+"id": "LAH 351M",
+"subject": "LAH",
+"number": "351M",
+"title": "Jerusalem and Athens",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Core Texts and Ideas 330J and Government 379G. Examine the age-old confrontation between the teaching of the Bible and the politics and philosophy of the ancient Greeks. Three lecture hours a week for one semester. Only one of the following may be counted: Core Texts and Ideas 330J, 335 (Topic: Jerusalem and Athens-Honors), 375 (Topic: Jerusalem and Athens-Honors), Government 379G, 379S (Topic: Jerusalem and Athens-Honors), 379S (Topic 4), Liberal Arts Honors 350 (Topic: Jerusalem and Athens), 351M. Prerequisite: Upper-division standing, six semester hours of coursework in government, and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing, six semester hours of coursework in government, and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"sameAs": "Core Texts and Ideas 330J and Government 379G"
+},
+{
+"id": "LAH 351N",
+"subject": "LAH",
+"number": "351N",
+"title": "Archival Advocacy: Experiential Learning",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Humanities 351N. Restricted to Plan I majors in the College of Liberal Arts. Use digital archives and exhibits to amplify voices that actively promote social justice, cultural awareness, and service; and to test the ethical positions about impartiality and advocacy in archival and exhibit practices. Three lecture hours a week for one semester. Only one of the following may be counted: Humanities 350 (Topic: Archiv Advacy:Exper Learn), 351N, Liberal Arts Honors 350 (Topic: Archiv Advacy:Exper Learn), 351N. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"sameAs": "Humanities 351N",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351O",
+"subject": "LAH",
+"number": "351O",
+"title": "Data Analytics In Contemporary Society",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Investigate the influence of data analytics in contemporary society. Explore how data is generated and presented in popular, scholarly, and other forms of media. Three lecture hours a week for one semester. Liberal Arts Honors 350 (Topic: Data Analytics, Contemp Soc) and 351O may not both be counted. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351P",
+"subject": "LAH",
+"number": "351P",
+"title": "Machiavelli: Politics and Culture",
+"hours": 3.0,
+"division": "upper",
+"description": "Through Niccolo Machiavelli's chief writings, consider the local, regional, Mediterranean, European, and global aspects of his work. Three lecture hours a week for one semester. Only one of the following may be counted: Ancient History and Classical Civilization 330 (Topic: Machiavelli), 330 (Topic 6), Core Texts and Ideas 330M, 375 (Topic: Machiavelli), European Studies 346 (Topic: Machiavelli), History 344R, 350L (Topic: Machiavelli), Liberal Arts Honors 350 (Topic: Machiavelli), 351P, Religious Studies 357 (Topic: Machiavelli), 357C. Prerequisite: Upper-division standing and grade-point average of at least 3.50.",
+"prereqText": "Upper-division standing and grade-point average of at least 3.50.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAH 351Q",
+"subject": "LAH",
+"number": "351Q",
+"title": "Holocaust Aftereffects",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Explore the historical, political, psychological, theological, and cultural fallout of the Holocaust, as well as literary and cinematic responses in Europe and the United States. Three lecture hours a week for one semester. Only one of the following may be counted: Comparative Literature 323 (Topic 40), European Studies 346 (Topic 23), German, Scandinavian, and Dutch Studies 360 (Topic 1), Jewish Studies 365 (Topic 14), Liberal Arts Honors 350 (Topic: Holocaust Aftereffects), 351Q, Religious Studies 357 (Topic 18), 357V, Women's and Gender Studies 340 (Topic: Holocaust Aftereffects), 340 (Topic 66). Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351R",
+"subject": "LAH",
+"number": "351R",
+"title": "Social Inequality and Health in the United States",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Sociology 342N. Restricted to Plan I majors in the College of Liberal Arts. Examine how socioeconomic status and social inequality shape health and mortality across the United States. Consider various possible explanations including stress, health behaviors, violence, and other factors. Three lecture hours a week for one semester. Only one of the following may be counted, Liberal Arts Honors 350 (Topic: Soc Ineq & Health in U.S.), 351R, Sociology 321K (Topic: Soc Ineq & Health in U.S.), 342N. Prerequisite: Upper-division standing and a grade point average of at least 3.5.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.5.",
+"prereqConfidence": "none",
+"sameAs": "Sociology 342N",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351S",
+"subject": "LAH",
+"number": "351S",
+"title": "Interpreting Black Rage",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Examine the residual effects of slavery and its impact on race relations in the United States. Explore Black rage in literature, music, and film. Three lecture hours a week for one semester. Liberal Arts Honors 350 (Topic: Interpreting Black Rage) and 351S may not both be counted. Prerequisite: Upper-division standing with a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing with a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351T",
+"subject": "LAH",
+"number": "351T",
+"title": "Jewish Identities in the Americas",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Examine the work of Jewish creative intellectuals from the United States, Latin America, and Canada from a comparative perspective. Three lecture hours a week for one semester. Only one of the following may be counted: Jewish Studies 363 (Topic: Jewish Identities: Americas), Jewish Studies 363 (Topic 27), Liberal Arts Honors 350 (Topic: Jewish Identities: Americas), 351T. Prerequisite: Upper-division standing and grade-point average of at least 3.50.",
+"prereqText": "Upper-division standing and grade-point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351U",
+"subject": "LAH",
+"number": "351U",
+"title": "Neglected Middle Class",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Examine how a steady succession of laws and policies (including labor and employment, consumer lending, financial services, housing, and tax) have created enormous income and wealth inequality gaps between the country's richest households and everyone else. Three lecture hours a week for one semester. Liberal Arts Honors 350 (Topic: Neglected Middle Class) and 351U may not both be counted. Prerequisite: Upper-division standing and grade-point average of at least 3.50.",
+"prereqText": "Upper-division standing and grade-point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351V",
+"subject": "LAH",
+"number": "351V",
+"title": "Health, Health Care, and Humanities",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Examine the intersections of the humanities with health, illness, and health care and shed new light on health and health care inequities, the role of narrative, and other representational forms in the illness experience. Explore the relationships between health, healing, and culture; the history of pandemics; and social constructions of ability and disability. Three lecture hours a week for one semester. Liberal Arts Honors 350 (Topic: Hlth/Hlth Care/Humanities) and 351V may not both be counted. Prerequisite: Upper-division standing and grade-point average of at least 3.50.",
+"prereqText": "Upper-division standing and grade-point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 351W",
+"subject": "LAH",
+"number": "351W",
+"title": "Hitler, Nazism, and World War II",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as History 376G. Restricted to students in the Normandy Scholars Program. Three lecture hours a week for one semester, and approximately three weeks of study in France. Only one of the following may be counted: History 376G, Liberal Arts Honors 350 (Topic: Hitler, Nazism, & World War II), 351W. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"sameAs": "History 376G",
+"restricted": "Restricted to students in the Normandy Scholars Program."
+},
+{
+"id": "LAH 352C",
+"subject": "LAH",
+"number": "352C",
+"title": "Germany in the Twentieth Century",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as History 337N and Russian, East European, and Eurasian Studies 335 (Topic 11). Survey of German political and military institutions, economic development, culture, and society. Three lecture hours a week for one semester. Only one of the following may be counted: History 337N, Liberal Arts Honors 350 (Topic: Germany in the 20th Century), 352C, Russian, East European, and Eurasian Studies 335 (Topic 11). Prerequisite: Upper-division standing and a grade point average of at least 3.5.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.5.",
+"prereqConfidence": "none",
+"sameAs": "History 337N and Russian, East European, and Eurasian Studies 335 (Topic 11)"
+},
+{
+"id": "LAH 352D",
+"subject": "LAH",
+"number": "352D",
+"title": "Dedman Scholars Seminar",
+"hours": 3.0,
+"division": "upper",
+"description": "Travel abroad to study the history, culture and politics of different regions across the world under the direction of various academic departments of the University. The equivalent of three lecture hours a week for one semester. Liberal Arts Honors 350 (Topic: Dedman Scholars Maymester) and 352D may not both be counted. Prerequisite: Consent of the department.",
+"prereqText": "Consent of the department.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAH 352E",
+"subject": "LAH",
+"number": "352E",
+"title": "Language Truths, Myths, and Mysteries",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Explore an introductory characterization of language and linguistics. Identify long-lasting controversial issues and common viewpoints about language and puzzling real-life language-related phenomena. Analyze these issues through a reasoned, rigorous confrontation of facts and fallacies with the objective of competently articulating defensible conclusions. Three lecture hours a week for one semester. Liberal Arts Honors 350 (Topic: Lang Truths Myths Mysteries) and 352E may not both be counted. Prerequisite: Upper division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 352I",
+"subject": "LAH",
+"number": "352I",
+"title": "Image of the Cannibal in the Renaissance",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Only one of the following may be counted: English 350E (Topic: Cannibal Renaissance-Honors), 375R, Liberal Arts Honors 350 (Topic: Cannibal Renaissance), 352I. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAH 352J",
+"subject": "LAH",
+"number": "352J",
+"title": "Global Sustainability and Soil",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Geography 349S. Restricted to Plan I majors in the College of Liberal Arts. Examine soil as a resource from the perspectives of natural and sustainability science, including soil ecology and biodiversity, formation, fertility for ecosystems and farming systems, soil health, distinguishing characteristics in nature, taxonomy, and soil spatial variability around the globe. Three lecture hours a week for one semester. Only one of the following may be counted: Geography 349S, 356 (Topic: Global Sustnblty/Soil-Hon), Liberal Arts Honors 350 (Topic: Global Sustainability/Soil), 352J. Offered on the letter-grade basis only. Prerequisite: Upper-division standing, Geography 401C, and a cumulative grade point average of at least 3.25.",
+"prereqText": "Upper-division standing, Geography 401C, and a cumulative grade point average of at least 3.25.",
+"prereq": {
+"type": "course",
+"id": "GRG 401C"
+},
+"prereqConfidence": "high",
+"sameAs": "Geography 349S",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 358Q",
+"subject": "LAH",
+"number": "358Q",
+"title": "Supervised Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Individual instruction. May be repeated for credit, but no more than six semester hours may be counted toward College Honors. Prerequisite: A University grade point average of at least 3.50 and consent of the liberal arts honors program adviser.",
+"prereqText": "A University grade point average of at least 3.50 and consent of the liberal arts honors program adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAH 364H",
+"subject": "LAH",
+"number": "364H",
+"title": "The Enlightenment",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Examination of the European Enlightenment, an intellectual movement centered in eighteenth-century France and England that cut across all disciplines and arts and that looked back to the Renaissance and forward to the modern world. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 365P",
+"subject": "LAH",
+"number": "365P",
+"title": "Honors Seminar in Political Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. An in-depth study of selected texts, authors, or themes in the history of political thought from ancient times to the present. Three lecture hours a week for one semester. Prerequisite: Upper-division standing; six hours of any the following: Core Texts and Ideas 302, 303, Government 312P, 335M, 351C, 351D, 351E, 351G, 351J, 351L, 379S (Topic 3), 379S (Topic 4); a grade point average of at least 3.5.",
+"prereqText": "Upper-division standing; six hours of any the following: Core Texts and Ideas 302, 303, Government 312P, 335M, 351C, 351D, 351E, 351G, 351J, 351L, 379S (Topic 3), 379S (Topic 4); a grade point average of at least 3.5.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "CTI 302"
+},
+{
+"type": "course",
+"id": "CTI 303"
+},
+{
+"type": "course",
+"id": "GOV 312P"
+},
+{
+"type": "course",
+"id": "GOV 335M"
+},
+{
+"type": "course",
+"id": "GOV 351C"
+},
+{
+"type": "course",
+"id": "GOV 351D"
+},
+{
+"type": "course",
+"id": "GOV 351E"
+},
+{
+"type": "course",
+"id": "GOV 351G"
+},
+{
+"type": "course",
+"id": "GOV 351J"
+},
+{
+"type": "course",
+"id": "GOV 351L"
+},
+{
+"type": "course",
+"id": "GOV 379S"
+},
+{
+"type": "course",
+"id": "GOV 379S"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts."
+},
+{
+"id": "LAH 368H",
+"subject": "LAH",
+"number": "368H",
+"title": "Literature of the Hispanic World",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. An examination of the literature and culture of Spain and Spanish America, from the Middle Ages to the present. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 369H",
+"subject": "LAH",
+"number": "369H",
+"title": "Comparative Legal Systems",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. A comparison of legal traditions from Europe, English common law, and Asia. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 370H",
+"subject": "LAH",
+"number": "370H",
+"title": "The Birth of the Modern World, 1400-1700",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. An interdisciplinary course on European culture during the age of the Renaissance and Reformation. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 371H",
+"subject": "LAH",
+"number": "371H",
+"title": "Classics of Greek Philosophy",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. A close reading of major works in the philosophy of Plato and Aristotle, supported by background reading in the history and literature of ancient Greece. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 373H",
+"subject": "LAH",
+"number": "373H",
+"title": "Literature of the Western World: Continuities",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Tradition and innovation of form and thought in literature from Homer to the twentieth century. Three lecture hours and one discussion hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 376H",
+"subject": "LAH",
+"number": "376H",
+"title": "The Rise of Modern America",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. The end of Reconstruction (1877) to the end of the war in Vietnam (1975)--industrialization, urbanization, immigration, nuclear energy, and global reach. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 377H",
+"subject": "LAH",
+"number": "377H",
+"title": "Ideas of the Twentieth Century",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Central philosophical controversies of the twentieth century: ethics, politics, comparative religions, science and human nature. Three lecture hours and one discussion hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 378H",
+"subject": "LAH",
+"number": "378H",
+"title": "The Natural Sciences in the Liberal Arts Context",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. An attempt to understand contemporary developments in science by focusing on the history and philosophy of science. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 379H",
+"subject": "LAH",
+"number": "379H",
+"title": "Classical Asian Civilizations",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. An examination of the contributions of India and China to intellectual history. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Upper-division standing and a grade point average of at least 3.50.",
+"prereqText": "Upper-division standing and a grade point average of at least 3.50.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 679T",
+"subject": "LAH",
+"number": "679T",
+"title": "Honors Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Supervised research, reading, and writing of a substantial paper on an interdepartmental subject. Conference course for two semesters. Offered on the letter-grade basis only. Prerequisite: For Liberal Arts Honors 679TA, upper-division standing, a grade point average of at least 3.50, and written consent of the director of the Liberal Arts Honors Program; for 679TB, Liberal Arts Honors 679TA.",
+"prereqText": "For Liberal Arts Honors 679TA, upper-division standing, a grade point average of at least 3.50, and written consent of the director of the Liberal Arts Honors Program; for 679TB, Liberal Arts Honors 679TA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "LAH 679TA"
+},
+{
+"type": "course",
+"id": "LAH 679TA"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 679TA",
+"subject": "LAH",
+"number": "679TA",
+"title": "Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Supervised research, reading, and writing of a substantial paper on an interdepartmental subject. Conference course for two semesters. Offered on the letter-grade basis only. Prerequisite: For Liberal Arts Honors 679TA, upper-division standing, a grade point average of at least 3.50, and written consent of the director of the Liberal Arts Honors Program; for 679TB, Liberal Arts Honors 679TA.",
+"prereqText": "For Liberal Arts Honors 679TA, upper-division standing, a grade point average of at least 3.50, and written consent of the director of the Liberal Arts Honors Program; for 679TB, Liberal Arts Honors 679TA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "LAH 679TA"
+},
+{
+"type": "course",
+"id": "LAH 679TA"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "LAH 679TB",
+"subject": "LAH",
+"number": "679TB",
+"title": "Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to Plan I majors in the College of Liberal Arts. Supervised research, reading, and writing of a substantial paper on an interdepartmental subject. Conference course for two semesters. Offered on the letter-grade basis only. Prerequisite: For Liberal Arts Honors 679TA, upper-division standing, a grade point average of at least 3.50, and written consent of the director of the Liberal Arts Honors Program; for 679TB, Liberal Arts Honors 679TA.",
+"prereqText": "For Liberal Arts Honors 679TA, upper-division standing, a grade point average of at least 3.50, and written consent of the director of the Liberal Arts Honors Program; for 679TB, Liberal Arts Honors 679TA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "LAH 679TA"
+},
+{
+"type": "course",
+"id": "LAH 679TA"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to Plan I majors in the College of Liberal Arts.",
+"offering": "Offered on the letter-grade basis only."
+}
+]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "2024-26/certificate/core-texts-and-ideas",
+ "edition": "2024-26",
+ "type": "certificate",
+ "name": "Core Texts and Ideas",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Core Texts and Ideas Certificate",
+  "of": [
+   {
+    "type": "manual",
+    "text": "The requirements of an undergraduate major",
+    "title": "The requirements of an undergraduate major",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "The requirements of an undergraduate major"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 12.0,
+    "title": "The following 12 semester hours of coursework or approved alternatives as listed",
+    "filter": {
+     "courses": [
+      "CTI 301G",
+      "CTI 302",
+      "CTI 304",
+      "GOV 312P"
+     ],
+     "label": "The following 12 semester hours of coursework or approved alternatives as listed"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "The following 12 semester hours of coursework or approved alternatives as listed on the CTI Certificate Plan:"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Six additional semester credit hours of CTI coursework or other courses chosen from a list of approved electives.",
+    "title": "Six additional semester credit hours of CTI coursework or other courses chosen f",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Six additional semester credit hours of CTI coursework or other courses chosen from a list of approved electives."
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 18.0
+}

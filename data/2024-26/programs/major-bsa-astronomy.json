@@ -1,0 +1,122 @@
+{
+ "id": "2024-26/major/bsa-astronomy",
+ "edition": "2024-26",
+ "type": "major",
+ "name": "Astronomy",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/astronomy/",
+ "includes": [
+  "2024-26/layer/core-curriculum",
+  "2024-26/layer/university-general",
+  "2024-26/layer/cns-college"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "all",
+    "title": "Mathematics: Mathematics 408C and 408D",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 408C"
+     },
+     {
+      "type": "course",
+      "course": "M 408D"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/astronomy/",
+     "quote": "Mathematics: Mathematics 408C and 408D"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Mathematics 427K or 427J",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 427K"
+     },
+     {
+      "type": "course",
+      "course": "M 427J"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/astronomy/",
+     "quote": "Mathematics 427K or 427J"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Primary science: Physics 301, 101L, 315, 115L, 316, and 116L",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHY 301"
+     },
+     {
+      "type": "course",
+      "course": "PHY 101L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 315"
+     },
+     {
+      "type": "course",
+      "course": "PHY 115L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 316"
+     },
+     {
+      "type": "course",
+      "course": "PHY 116L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/astronomy/",
+     "quote": "Primary science: Physics 301, 101L, 315, 115L, 316, and 116L"
+    }
+   },
+   {
+    "type": "course",
+    "course": "AST 307",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/astronomy/",
+     "quote": "Astronomy 307"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three courses chosen from the following: Astronomy 351, 352K, 353, 358, 364P, 376, 376C, and 376R",
+    "title": "Three courses chosen from the following: Astronomy 351, 352K, 353, 358, 364P, 37",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/astronomy/",
+     "quote": "Three courses chosen from the following: Astronomy 351, 352K, 353, 358, 364P, 376, 376C, and 376R"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Secondary science: Twelve additional semester hours of upper-division coursework from one or more of the following areas. Biology",
+    "title": "Secondary science: Twelve additional semester hours of upper-division coursework",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/astronomy/",
+     "quote": "Secondary science: Twelve additional semester hours of upper-division coursework from one or more of the following areas. Biology"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BSA",
+ "majorSubjects": [
+  "PHY"
+ ]
+}

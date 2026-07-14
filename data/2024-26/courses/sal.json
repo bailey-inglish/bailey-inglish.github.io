@@ -1,0 +1,261 @@
+{
+"code": "SAL",
+"name": "South Asian Languages",
+"courses": [
+{
+"id": "SAL 506",
+"subject": "SAL",
+"number": "506",
+"title": "Topics in First Year South Asian Languages I",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency: listening, speaking, reading, and writing. Five lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 507",
+"subject": "SAL",
+"number": "507",
+"title": "Topics in First Year South Asian Languages II",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency: listening, speaking, reading, and writing. Five lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: South Asian Languages 506 with a grade of at least C.",
+"prereqText": "South Asian Languages 506 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "SAL 506",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SAL 312K",
+"subject": "SAL",
+"number": "312K",
+"title": "Topics in Second Year South Asian Languages I",
+"hours": 3.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the second-year level. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: South Asian Languages 507 with a grade of at least C.",
+"prereqText": "South Asian Languages 507 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "SAL 507",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SAL 312L",
+"subject": "SAL",
+"number": "312L",
+"title": "Topics in Second-Year South Asian Languages II",
+"hours": 3.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the advanced, second-year level. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: South Asian Languages 312K with a grade of at least C.",
+"prereqText": "South Asian Languages 312K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "SAL 312K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "SAL 119S",
+"subject": "SAL",
+"number": "119S",
+"title": "Topics in South Asian Languages",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 219S",
+"subject": "SAL",
+"number": "219S",
+"title": "Topics in South Asian Languages",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 319S",
+"subject": "SAL",
+"number": "319S",
+"title": "Topics in South Asian Languages",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 419S",
+"subject": "SAL",
+"number": "419S",
+"title": "Topics in South Asian Languages",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 519S",
+"subject": "SAL",
+"number": "519S",
+"title": "Topics in South Asian Languages",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 619S",
+"subject": "SAL",
+"number": "619S",
+"title": "Topics in South Asian Languages",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 719S",
+"subject": "SAL",
+"number": "719S",
+"title": "Topics in South Asian Languages",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 819S",
+"subject": "SAL",
+"number": "819S",
+"title": "Topics in South Asian Languages",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 919S",
+"subject": "SAL",
+"number": "919S",
+"title": "Topics in South Asian Languages",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 619SA",
+"subject": "SAL",
+"number": "619SA",
+"title": "Topics in South Asian Languages",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 619SB",
+"subject": "SAL",
+"number": "619SB",
+"title": "Topics in South Asian Languages",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 129S",
+"subject": "SAL",
+"number": "129S",
+"title": "Topics in South Asian Languages",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 229S",
+"subject": "SAL",
+"number": "229S",
+"title": "Topics in South Asian Languages",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 329S",
+"subject": "SAL",
+"number": "329S",
+"title": "Topics in South Asian Languages",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 429S",
+"subject": "SAL",
+"number": "429S",
+"title": "Topics in South Asian Languages",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 529S",
+"subject": "SAL",
+"number": "529S",
+"title": "Topics in South Asian Languages",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 629S",
+"subject": "SAL",
+"number": "629S",
+"title": "Topics in South Asian Languages",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 729S",
+"subject": "SAL",
+"number": "729S",
+"title": "Topics in South Asian Languages",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 829S",
+"subject": "SAL",
+"number": "829S",
+"title": "Topics in South Asian Languages",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 929S",
+"subject": "SAL",
+"number": "929S",
+"title": "Topics in South Asian Languages",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 629SA",
+"subject": "SAL",
+"number": "629SA",
+"title": "Topics in South Asian Languages",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "SAL 629SB",
+"subject": "SAL",
+"number": "629SB",
+"title": "Topics in South Asian Languages",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+}
+]
+}

@@ -1,0 +1,3453 @@
+{
+"code": "MUS",
+"name": "Music",
+"courses": [
+{
+"id": "MUS 201F",
+"subject": "MUS",
+"number": "201F",
+"title": "PIANO FOR TEACHERS",
+"hours": 2.0,
+"division": "lower",
+"description": "Restricted to music studies students. Three laboratory hours a week for one semester Music 201F and 376C (Topic: Piano for Teachers) may not both be counted. Offered on the letter-grade basis only. Prerequisite: Music 201M or demonstration of equivalent proficiency.",
+"prereqText": "Music 201M or demonstration of equivalent proficiency.",
+"prereq": {
+"type": "course",
+"id": "MUS 201M"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music studies students.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MUS 201J",
+"subject": "MUS",
+"number": "201J",
+"title": "Beginning Class Piano for Nonmusic Majors",
+"hours": 2.0,
+"division": "lower",
+"description": "Open to all University students, except music majors, who have no experience in piano. Three class hours a week for one semester. May be repeated for credit."
+},
+{
+"id": "MUS 201K",
+"subject": "MUS",
+"number": "201K",
+"title": "Second-Semester Class Piano for Nonmusic Majors",
+"hours": 2.0,
+"division": "lower",
+"description": "Open to all University students, except music majors, who can fulfill the prerequisite. Three class hours a week for one semester. May be repeated for credit. Prerequisite: Credit with a grade of at least C or registration for Music 201J, or consent by audition; and consent of instructor.",
+"prereqText": ". Three class hours a week for one semester. May be repeated for credit. Prerequisite: Credit with a grade of at least C or registration for Music 201J, or consent by audition; and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 201J"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 201M",
+"subject": "MUS",
+"number": "201M",
+"title": "Beginning Music Performance: Class Piano",
+"hours": 2.0,
+"division": "lower",
+"description": "Open only to music majors. Three laboratory hours a week for one semester. Credit granted only when taken as a secondary instrument. May be repeated for credit. Prerequisite: Ability to read music, and concurrent enrollment in Music 605A or consent of instructor. No experience on the instrument required; for those with experience, consent by audition required.",
+"prereqText": "Ability to read music, and concurrent enrollment in Music 605A or consent of instructor. No experience on the instrument required; for those with experience, consent by audition required.",
+"prereq": {
+"type": "course",
+"id": "MUS 605A"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 201N",
+"subject": "MUS",
+"number": "201N",
+"title": "Beginning Music Performance: Second-Semester Class Piano",
+"hours": 2.0,
+"division": "lower",
+"description": "Open only to music majors. Continuation of Music 201M. Three laboratory hours a week for one semester. Credit granted only when taken as a secondary instrument. May be repeated for credit. Prerequisite: Music 201M completed the previous semester with a grade of at least C, or consent by audition.",
+"prereqText": "Music 201M completed the previous semester with a grade of at least C, or consent by audition.",
+"prereq": {
+"type": "course",
+"id": "MUS 201M",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 101Q",
+"subject": "MUS",
+"number": "101Q",
+"title": "Beginning Guitar Class",
+"hours": 1.0,
+"division": "lower",
+"description": "Class instruction in beginning guitar performance for non-music majors or music majors studying a secondary instrument. One lecture hour a week for one semester, with additional hours to be arranged. Prerequisite: Ability to read music. Students must provide their own six-string nylon (classical) guitar.",
+"prereqText": "Ability to read music. Students must provide their own six-string nylon (classical) guitar.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 201S",
+"subject": "MUS",
+"number": "201S",
+"title": "Beginning Music Performance: Class Harp",
+"hours": 2.0,
+"division": "lower",
+"description": "Open to all University students who can fulfill the prerequisite. Three laboratory hours a week for one semester. For music majors, credit granted only when taken as a secondary instrument. May be repeated for credit. Prerequisite: Ability to read music and consent of instructor. No previous experience on the instrument required.",
+"prereqText": ". Three laboratory hours a week for one semester. For music majors, credit granted only when taken as a secondary instrument. May be repeated for credit. Prerequisite: Ability to read music and consent of instructor. No previous experience on the instrument required.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 201T",
+"subject": "MUS",
+"number": "201T",
+"title": "Beginning Music Performance: Second-Semester Class Harp",
+"hours": 2.0,
+"division": "lower",
+"description": "Open to all University students who can fulfill the prerequisite. Three laboratory hours a week for one semester. For music majors, credit granted only when taken as a secondary instrument. May be repeated for credit. Prerequisite: Music 201S completed the previous semester with a grade of at least C, or consent by audition.",
+"prereqText": ". Three laboratory hours a week for one semester. For music majors, credit granted only when taken as a secondary instrument. May be repeated for credit. Prerequisite: Music 201S completed the previous semester with a grade of at least C, or consent by audition.",
+"prereq": {
+"type": "course",
+"id": "MUS 201S",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 101V",
+"subject": "MUS",
+"number": "101V",
+"title": "Beginning Violin Class",
+"hours": 1.0,
+"division": "lower",
+"description": "Class instruction in beginning violin performance for non-music majors or music majors studying a secondary instrument. One lecture hour a week for one semester, with additional hours to be arranged. Prerequisite: Ability to read music.",
+"prereqText": "Ability to read music.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 302L",
+"subject": "MUS",
+"number": "302L",
+"title": "An Introduction to Western Music",
+"hours": 3.0,
+"division": "lower",
+"description": "Same as European Studies 307M. Introduction to musical styles in the Euro-American art music tradition between the Middle Ages and the present day. Designed to foster critical listening and thinking about music, and deepen understanding of the vital role that music has played and continues to play in society and in individual lives. Three lecture hours a week for one semester, with one laboratory hour a week as required. Only one of the following may be counted: European Studies 307 (Topic: Introduction to Western Music), 307M, Music 302L.",
+"tccn": "MUSI 1306",
+"sameAs": "European Studies 307M"
+},
+{
+"id": "MUS 302P",
+"subject": "MUS",
+"number": "302P",
+"title": "Introductory Topics in Western Music",
+"hours": 3.0,
+"division": "lower",
+"description": "May not be counted by music majors. Three lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 303C",
+"subject": "MUS",
+"number": "303C",
+"title": "Fundamentals of Music: Classroom Instruments",
+"hours": 3.0,
+"division": "lower",
+"description": "Explores how music intelligently combines reading, analysis, discussion, composition, and active involvement in music making. Through analysis, performance, and practice of the pedagogy of music for children, explores the roles of music in human culture and examine music's contributions to human communication, creative expression, and well-being. Three lecture hours and one laboratory hour a week for one semester. Only one of the following may be counted: Music 303C, 605, 313."
+},
+{
+"id": "MUS 303D",
+"subject": "MUS",
+"number": "303D",
+"title": "Fundamentals of Music: Guitar",
+"hours": 3.0,
+"division": "lower",
+"description": "Explores how music intelligently combines reading, analysis, discussion, composition, and active involvement in music making. Through analysis, performance, and discussion of the guitar in the folk and popular music of Western and non-Western cultures, explores music's contributions to human communication, creative expression, and well-being. Three lecture hours and one laboratory hour a week for one semester. Only one of the following may be counted: Music 303D, 605, 313."
+},
+{
+"id": "MUS 303E",
+"subject": "MUS",
+"number": "303E",
+"title": "Fundamentals of Music: Piano",
+"hours": 3.0,
+"division": "lower",
+"description": "Explores how music intelligently combines reading, analysis, discussion, composition, and active involvement in music making. Through analysis, performance, and discussion of the piano in the folk and popular music of Western and non-Western cultures, explores music's contributions to human communication, creative expression, and well-being. Three lecture hours and one laboratory hour a week for one semester. Only one of the following may be counted: Music 303E, 605, 313."
+},
+{
+"id": "MUS 303M",
+"subject": "MUS",
+"number": "303M",
+"title": "Introduction to Music in World Cultures",
+"hours": 3.0,
+"division": "lower",
+"description": "Same as Middle Eastern Studies 310 (Topic 5). Exploration of practices, beliefs, and issues through the study of various musical genres in the regions of Asia, the Middle East, Africa, the Pacific, Europe, and the Americas. Three lecture hours a week for one semester, with additional hours to be arranged. Only one of the following may be counted: Asian Studies 303M, Middle Eastern Studies 310 (Topic: Introduction to Music In World Cultures), 310 (Topic 5), Music 303M.",
+"sameAs": "Middle Eastern Studies 310 (Topic 5)"
+},
+{
+"id": "MUS 303N",
+"subject": "MUS",
+"number": "303N",
+"title": "Introduction to Popular Music in World Cultures",
+"hours": 3.0,
+"division": "lower",
+"description": "Open to all University students. Exploration of practices, beliefs, and issues through the study of various mass-mediated and commercial musical genres in the regions of Asia, the Middle East, Africa, the Pacific, Europe, and the Americas. Three lecture hours a week for one semester, with one laboratory hour a week as required. Asian Studies 303N and Music 303N may not both be counted."
+},
+{
+"id": "MUS 303P",
+"subject": "MUS",
+"number": "303P",
+"title": "Topics in Music of World Cultures",
+"hours": 3.0,
+"division": "lower",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 605",
+"subject": "MUS",
+"number": "605",
+"title": "Musicianship",
+"hours": 6.0,
+"division": "lower",
+"description": "Study of the fundamentals of music for music majors through tonal harmony, ear training, sight-singing, keyboard drill, analysis, and composition of music. Three lecture hours and two laboratory hours a week for two semesters. Only one of the following may be counted: Music 303C, 605, 313; Music 303D, 605, 313; Music 303E, 605, 313; Music 303F, 605, 313. Prerequisite: For 605A, either satisfactory completion of the audition required for admission to the Butler School of Music and registration in class piano as assigned by the Butler School of Music, or consent of instructor; for 605B, Music 605A with a grade of at least C-.",
+"prereqText": "For 605A, either satisfactory completion of the audition required for admission to the Butler School of Music and registration in class piano as assigned by the Butler School of Music, or consent of instructor; for 605B, Music 605A with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "MUS 605A",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 605A",
+"subject": "MUS",
+"number": "605A",
+"title": "Musicianship",
+"hours": 6.0,
+"division": "lower",
+"description": "Study of the fundamentals of music for music majors through tonal harmony, ear training, sight-singing, keyboard drill, analysis, and composition of music. Three lecture hours and two laboratory hours a week for two semesters. Only one of the following may be counted: Music 303C, 605, 313; Music 303D, 605, 313; Music 303E, 605, 313; Music 303F, 605, 313. Prerequisite: For 605A, either satisfactory completion of the audition required for admission to the Butler School of Music and registration in class piano as assigned by the Butler School of Music, or consent of instructor; for 605B, Music 605A with a grade of at least C-.",
+"prereqText": "For 605A, either satisfactory completion of the audition required for admission to the Butler School of Music and registration in class piano as assigned by the Butler School of Music, or consent of instructor; for 605B, Music 605A with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "MUS 605A",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 605B",
+"subject": "MUS",
+"number": "605B",
+"title": "Musicianship",
+"hours": 6.0,
+"division": "lower",
+"description": "Study of the fundamentals of music for music majors through tonal harmony, ear training, sight-singing, keyboard drill, analysis, and composition of music. Three lecture hours and two laboratory hours a week for two semesters. Only one of the following may be counted: Music 303C, 605, 313; Music 303D, 605, 313; Music 303E, 605, 313; Music 303F, 605, 313. Prerequisite: For 605A, either satisfactory completion of the audition required for admission to the Butler School of Music and registration in class piano as assigned by the Butler School of Music, or consent of instructor; for 605B, Music 605A with a grade of at least C-.",
+"prereqText": "For 605A, either satisfactory completion of the audition required for admission to the Butler School of Music and registration in class piano as assigned by the Butler School of Music, or consent of instructor; for 605B, Music 605A with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "MUS 605A",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 306M",
+"subject": "MUS",
+"number": "306M",
+"title": "Elements of Music",
+"hours": 3.0,
+"division": "lower",
+"description": "Open to all University students except music majors. Fundamentals of music including the study of notation and the elements of rhythm, melody, and harmony; development of elementary aural skills; and writing of simple compositions. Three lecture hours a week for one semester."
+},
+{
+"id": "MUS 307",
+"subject": "MUS",
+"number": "307",
+"title": "Topics in Popular Music",
+"hours": 3.0,
+"division": "lower",
+"description": "Open to all University students. Studies of the popular music of a selected culture or geographical area. Three lecture hours a week for one semester, with one laboratory hour a week as required. May be repeated for credit when the topics vary.",
+"tccn": "MUSI 1310"
+},
+{
+"id": "MUS 007P",
+"subject": "MUS",
+"number": "007P",
+"title": "String Education: Teaching and Learning",
+"hours": 0.0,
+"division": "lower",
+"description": "Restricted to current String Project program instructors in the Butler School of Music. Discussion of curriculum planning, lesson observation, and program management topics, as well as guest pedagogues and master teacher presentations. One lecture hour a week for one semester. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Acceptance of teaching application for the String Project program.",
+"prereqText": "Acceptance of teaching application for the String Project program.",
+"prereqConfidence": "none",
+"restricted": "Restricted to current String Project program instructors in the Butler School of Music.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "MUS 210J",
+"subject": "MUS",
+"number": "210J",
+"title": "Beginning Instruction in Music Performance: Third-Semester Class Piano",
+"hours": 2.0,
+"division": "lower",
+"description": "Open only to music majors. Continuation of Music 201N. Three laboratory hours a week for one semester. Only one of the following may be counted: Music 210J, 247, 276C (Topic: Jazz Piano Techniques II). Credit granted only when taken as a secondary instrument. May be repeated for credit. Prerequisite: Music 201N completed the previous semester with a grade of at least C, or consent by audition.",
+"prereqText": "Music 201N completed the previous semester with a grade of at least C, or consent by audition.",
+"prereq": {
+"type": "course",
+"id": "MUS 201N",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 210K",
+"subject": "MUS",
+"number": "210K",
+"title": "Beginning Instruction in Music Performance: Fourth-Semester Class Piano",
+"hours": 2.0,
+"division": "lower",
+"description": "Open only to music majors. Continuation of Music 210J. Three laboratory hours a week for one semester. Credit granted only when taken as a secondary instrument. May be repeated for credit. Prerequisite: Music 210J completed the previous semester with a grade of at least C, or consent by audition.",
+"prereqText": "Music 210J completed the previous semester with a grade of at least C, or consent by audition.",
+"prereq": {
+"type": "course",
+"id": "MUS 210J",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 411",
+"subject": "MUS",
+"number": "411",
+"title": "Ear Training and Sight-Singing",
+"hours": 4.0,
+"division": "lower",
+"description": "Material drawn from all musical styles. Two lecture hours and one laboratory hour a week for two semesters. Prerequisite: For 411A, Music 605B with a grade of at least C-, and credit or registration for Music 612A; for 411B, Music 411A with a grade of at least C-, and credit or registration for Music 612B.",
+"prereqText": "For 411A, Music 605B with a grade of at least C-, and credit or registration for Music 612A; for 411B, Music 411A with a grade of at least C-, and credit or registration for Music 612B.",
+"prereqConfidence": "low"
+},
+{
+"id": "MUS 111E",
+"subject": "MUS",
+"number": "111E",
+"title": "English Diction and Phonetic Translation",
+"hours": 1.0,
+"division": "lower",
+"description": "Open only to music majors. Study of English diction and phonetic translation specifically for musicians. Emphasis on the International Phonetic Alphabet. One lecture hour a week for one semester."
+},
+{
+"id": "MUS 311F",
+"subject": "MUS",
+"number": "311F",
+"title": "French for Musicians",
+"hours": 3.0,
+"division": "lower",
+"description": "Open only to music majors. French language and diction specifically for musicians. Three lecture hours and one laboratory hour a week for one semester."
+},
+{
+"id": "MUS 311G",
+"subject": "MUS",
+"number": "311G",
+"title": "German for Musicians",
+"hours": 3.0,
+"division": "lower",
+"description": "Open only to music majors. German language and diction specifically for musicians. Three lecture hours and one laboratory hour a week for one semester."
+},
+{
+"id": "MUS 311J",
+"subject": "MUS",
+"number": "311J",
+"title": "Italian for Musicians",
+"hours": 3.0,
+"division": "lower",
+"description": "Open only to music majors. Italian language and diction specifically for musicians. Three lecture hours and one laboratory hour a week for one semester."
+},
+{
+"id": "MUS 612",
+"subject": "MUS",
+"number": "612",
+"title": "Structure of Tonal Music",
+"hours": 6.0,
+"division": "lower",
+"description": "Elements of tonal harmony and form; tonal analysis. Three lecture hours a week for two semesters, with one laboratory hour a week as required. Prerequisite: For 612A, Music 605B with a grade of at least C-, and credit or registration for Music 411A; for 612B, Music 612A with a grade of at least C-, and credit or registration for Music 411B.",
+"prereqText": "For 612A, Music 605B with a grade of at least C-, and credit or registration for Music 411A; for 612B, Music 612A with a grade of at least C-, and credit or registration for Music 411B.",
+"prereqConfidence": "low"
+},
+{
+"id": "MUS 612A",
+"subject": "MUS",
+"number": "612A",
+"title": "Structure of Tonal Music",
+"hours": 6.0,
+"division": "lower",
+"description": "Elements of tonal harmony and form; tonal analysis. Three lecture hours a week for two semesters, with one laboratory hour a week as required. Prerequisite: For 612A, Music 605B with a grade of at least C-, and credit or registration for Music 411A; for 612B, Music 612A with a grade of at least C-, and credit or registration for Music 411B.",
+"prereqText": "For 612A, Music 605B with a grade of at least C-, and credit or registration for Music 411A; for 612B, Music 612A with a grade of at least C-, and credit or registration for Music 411B.",
+"prereqConfidence": "low"
+},
+{
+"id": "MUS 612B",
+"subject": "MUS",
+"number": "612B",
+"title": "Structure of Tonal Music",
+"hours": 6.0,
+"division": "lower",
+"description": "Elements of tonal harmony and form; tonal analysis. Three lecture hours a week for two semesters, with one laboratory hour a week as required. Prerequisite: For 612A, Music 605B with a grade of at least C-, and credit or registration for Music 411A; for 612B, Music 612A with a grade of at least C-, and credit or registration for Music 411B.",
+"prereqText": "For 612A, Music 605B with a grade of at least C-, and credit or registration for Music 411A; for 612B, Music 612A with a grade of at least C-, and credit or registration for Music 411B.",
+"prereqConfidence": "low"
+},
+{
+"id": "MUS 312C",
+"subject": "MUS",
+"number": "312C",
+"title": "Music and Culture",
+"hours": 3.0,
+"division": "lower",
+"description": "Issues in the performance, transmission, and reception of music in Western Europe and North America in global and comparative social and political contexts. Three lecture hours and one laboratory hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: For music majors, credit or registration for Music 605.",
+"prereqText": "For music majors, credit or registration for Music 605.",
+"prereq": {
+"type": "course",
+"id": "MUS 605"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MUS 213M",
+"subject": "MUS",
+"number": "213M",
+"title": "History of Music I",
+"hours": 2.0,
+"division": "lower",
+"description": "Restricted to music majors. The history of music from the beginning of notation to the eighteenth century. Three lecture hours and one laboratory hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Music 605 and 312C, or consent of instructor.",
+"prereqText": "Music 605 and 312C, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 605"
+},
+{
+"type": "course",
+"id": "MUS 312C"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MUS 313M",
+"subject": "MUS",
+"number": "313M",
+"title": "History of Music I",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to music majors. The history of music from the beginning of notation to the eighteenth century. Three lecture hours and one laboratory hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Music 605 and 312C, or consent of instructor.",
+"prereqText": "Music 605 and 312C, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 605"
+},
+{
+"type": "course",
+"id": "MUS 312C"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MUS 213N",
+"subject": "MUS",
+"number": "213N",
+"title": "History of Music II",
+"hours": 2.0,
+"division": "lower",
+"description": "Restricted to music majors. The history of music from the eighteenth century to the early twentieth century. Three lecture hours and one laboratory hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Music 213M or 313M, or consent of instructor.",
+"prereqText": "Music 213M or 313M, or consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MUS 213M"
+},
+{
+"type": "course",
+"id": "MUS 313M"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MUS 313N",
+"subject": "MUS",
+"number": "313N",
+"title": "History of Music II",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to music majors. The history of music from the eighteenth century to the early twentieth century. Three lecture hours and one laboratory hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Music 213M or 313M, or consent of instructor.",
+"prereqText": "Music 213M or 313M, or consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MUS 213M"
+},
+{
+"type": "course",
+"id": "MUS 313M"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MUS 214C",
+"subject": "MUS",
+"number": "214C",
+"title": "Beginning Composition",
+"hours": 2.0,
+"division": "lower",
+"description": "Introduction to contemporary composition through the analysis and writing of short studies and through supervised original projects. Two lecture hours and one laboratory hour a week for one semester. May be repeated for credit. Prerequisite: Concurrent enrollment in Music 411 and 612, or consent of instructor.",
+"prereqText": "Concurrent enrollment in Music 411 and 612, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 115D",
+"subject": "MUS",
+"number": "115D",
+"title": "String Instrument Fundamentals",
+"hours": 1.0,
+"division": "lower",
+"description": "Beginning instruction in string instrument performance and pedagogy. This course is offered in the following instruments: double bass, viola, violin, and violoncello. Individual or class instruction in music performance. Laboratory hours as required. May not be repeated for credit on the same instrument. May not be taken by music majors in their principal instrument. Prerequisite: A major in music.",
+"prereqText": "A major in music.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 115E",
+"subject": "MUS",
+"number": "115E",
+"title": "Brass Instrument Fundamentals",
+"hours": 1.0,
+"division": "lower",
+"description": "Beginning instruction in brass instrument performance and pedagogy. This course is offered in the following instruments: euphonium, French horn, trombone, trumpet, and tuba. Individual or class instruction in music performance. Laboratory hours as required. May not be repeated for credit on the same instrument. May not be taken by music majors in their principal instrument. Prerequisite: A major in music.",
+"prereqText": "A major in music.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 115F",
+"subject": "MUS",
+"number": "115F",
+"title": "Woodwind Instrument Fundamentals",
+"hours": 1.0,
+"division": "lower",
+"description": "Beginning instruction in woodwind instrument performance and pedagogy. This course is offered in the following instruments: bassoon, clarinet, flute, oboe, and saxophone. Individual or class instruction in music performance. Laboratory hours as required. May not be repeated for credit on the same instrument. May not be taken by music majors in their principal instrument. Prerequisite: A major in music.",
+"prereqText": "A major in music.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 115G",
+"subject": "MUS",
+"number": "115G",
+"title": "Guitar Fundamentals",
+"hours": 1.0,
+"division": "lower",
+"description": "Beginning instruction in guitar performance and pedagogy. Individual or class instruction in music performance. Laboratory hours as required. Prerequisite: A major in music or consent of instructor.",
+"prereqText": "A major in music or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 115T",
+"subject": "MUS",
+"number": "115T",
+"title": "Lower-Division Reed Making",
+"hours": 1.0,
+"division": "lower",
+"description": "Individual instruction. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 218J",
+"subject": "MUS",
+"number": "218J",
+"title": "Beginning Jazz Improvisation",
+"hours": 2.0,
+"division": "lower",
+"description": "Study of basic jazz improvisational skills through performance of standard literature. Two class hours a week for one semester. Prerequisite: Music 605 or consent of instructor.",
+"prereqText": "Music 605 or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 605"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 319D",
+"subject": "MUS",
+"number": "319D",
+"title": "Foundations of Digital Sound and Music",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to music majors. Introduction to the practice of creating music with computer technologies and the basic techniques of recording, editing and producing digital audio tracks, including introduction to musical acoustics and psychoacoustics, fundamentals of audio recording, editing, mixing, and processing, MIDI, digital audio workstations, and syncing sound to video. Three hours a week for one semester. Only one of the following may be counted: Arts and Entertainment Technologies 305, Fine Arts 310 (Topic: Foundations of Digital Sound and Music), Music 319D.",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 119Q",
+"subject": "MUS",
+"number": "119Q",
+"title": "Topics in Music",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 219Q",
+"subject": "MUS",
+"number": "219Q",
+"title": "Topics in Music",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 319Q",
+"subject": "MUS",
+"number": "319Q",
+"title": "Topics in Music",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 419Q",
+"subject": "MUS",
+"number": "419Q",
+"title": "Topics in Music",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 519Q",
+"subject": "MUS",
+"number": "519Q",
+"title": "Topics in Music",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 619Q",
+"subject": "MUS",
+"number": "619Q",
+"title": "Topics in Music",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 719Q",
+"subject": "MUS",
+"number": "719Q",
+"title": "Topics in Music",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 819Q",
+"subject": "MUS",
+"number": "819Q",
+"title": "Topics in Music",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 919Q",
+"subject": "MUS",
+"number": "919Q",
+"title": "Topics in Music",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 619QA",
+"subject": "MUS",
+"number": "619QA",
+"title": "Topics in Music",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 619QB",
+"subject": "MUS",
+"number": "619QB",
+"title": "Topics in Music",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 119S",
+"subject": "MUS",
+"number": "119S",
+"title": "Topics in Music",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 219S",
+"subject": "MUS",
+"number": "219S",
+"title": "Topics in Music",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 319S",
+"subject": "MUS",
+"number": "319S",
+"title": "Topics in Music",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 419S",
+"subject": "MUS",
+"number": "419S",
+"title": "Topics in Music",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 519S",
+"subject": "MUS",
+"number": "519S",
+"title": "Topics in Music",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 619S",
+"subject": "MUS",
+"number": "619S",
+"title": "Topics in Music",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 719S",
+"subject": "MUS",
+"number": "719S",
+"title": "Topics in Music",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 819S",
+"subject": "MUS",
+"number": "819S",
+"title": "Topics in Music",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 919S",
+"subject": "MUS",
+"number": "919S",
+"title": "Topics in Music",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 619SA",
+"subject": "MUS",
+"number": "619SA",
+"title": "Topics in Music",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 619SB",
+"subject": "MUS",
+"number": "619SB",
+"title": "Topics in Music",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 420J",
+"subject": "MUS",
+"number": "420J",
+"title": "Junior Jazz Recital",
+"hours": 4.0,
+"division": "upper",
+"description": "Preparation and performance of a half-hour public recital in the major jazz instrument. Individual instruction. Prerequisite: For jazz composition majors, course 212J in the major jazz instrument for two semesters, or the equivalent, and approval of the jazz faculty; for jazz performance majors, course 412J in the major jazz instrument for two semesters, or the equivalent, and approval of the jazz faculty.",
+"prereqText": "For jazz composition majors, course 212J in the major jazz instrument for two semesters, or the equivalent, and approval of the jazz faculty; for jazz performance majors, course 412J in the major jazz instrument for two semesters, or the equivalent, and approval of the jazz faculty.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 220P",
+"subject": "MUS",
+"number": "220P",
+"title": "Practicum in a World Music Tradition",
+"hours": 2.0,
+"division": "upper",
+"description": "Open to any University student who can qualify by audition. Advanced training on a non-Western musical instrument such as Javanese gender barung, Indian sitar, Arabic qanun, or Korean kayakeum, or advanced training in a non-Western vocal style, and other approved musical practices. Two lecture hours a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing; two semesters of enrollment in a non-Western music ensemble, such as Javanese Gamelan, Middle Eastern or North Indian Music ensemble, or other approved music ensembles, and consent of instructor.",
+"prereqText": "Upper-division standing; two semesters of enrollment in a non-Western music ensemble, such as Javanese Gamelan, Middle Eastern or North Indian Music ensemble, or other approved music ensembles, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 420R",
+"subject": "MUS",
+"number": "420R",
+"title": "Junior Recital",
+"hours": 4.0,
+"division": "upper",
+"description": "Preparation and performance of a half-hour public recital in the major instrument. Individual instruction. Prerequisite: Performance 312 in the major instrument for four semesters, or Voice 210 for four semesters, or the equivalent; and approval of the faculty.",
+"prereqText": "Performance 312 in the major instrument for four semesters, or Voice 210 for four semesters, or the equivalent; and approval of the faculty.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "PRF 312"
+},
+{
+"type": "course",
+"id": "VOI 210"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 321J",
+"subject": "MUS",
+"number": "321J",
+"title": "Twentieth-Century Musical Analysis",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the theory and practice of music since 1900. Includes various analytical approaches to the wide range of musical styles developed over the course of the twentieth- and twenty-first centuries, as well as the music of mainstream twentieth century composers and living composers. Both analytical and aural skills are emphasized. Three lecture hours a week for one semester. Prerequisite: Music 411 and 612.",
+"prereqText": "Music 411 and 612.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 222J",
+"subject": "MUS",
+"number": "222J",
+"title": "Instrumental Conducting",
+"hours": 2.0,
+"division": "upper",
+"description": "Designed for those who have had no experience in conducting. Includes rudimentary use of baton, regular and irregular beat patterns, subdivisions and beat pattern variations as applied to simple instrumental literature, and practical experience in conducting instrumental groups. Two class hours a week for one semester. Prerequisite: Upper-division standing in music or consent of instructor.",
+"prereqText": "Upper-division standing in music or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 222K",
+"subject": "MUS",
+"number": "222K",
+"title": "Instrumental Conducting",
+"hours": 2.0,
+"division": "upper",
+"description": "Continuation of Music 222J. Further technical study in irregular meters, polyrhythmic and polymetrical patterns and scores; emphasis on expressive gestures, phrasal and compound beat conducting. Two class hours a week for one semester. Prerequisite: Music 222J or consent of instructor.",
+"prereqText": "Music 222J or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 222J"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 223",
+"subject": "MUS",
+"number": "223",
+"title": "Jazz Improvisation I",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to jazz majors. Study and practice jazz improvisation and the harmonic, rhythmic, melodic and aural skills associated with the art form. Two lecture hours a week for one semester. Only one of the following may be counted: Music 223, 228J, 276C (Topic: Jazz Improvisation I).",
+"restricted": "Restricted to jazz majors."
+},
+{
+"id": "MUS 223J",
+"subject": "MUS",
+"number": "223J",
+"title": "Choral Conducting",
+"hours": 2.0,
+"division": "upper",
+"description": "Designed for those who have had no experience in conducting. Includes regular and irregular beat patterns, subdivisions and beat pattern variations as applied to simple choral literature, and practical experience in conducting vocal groups. Two class hours a week for one semester. Prerequisite: Upper-division standing in music.",
+"prereqText": "Upper-division standing in music.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 223K",
+"subject": "MUS",
+"number": "223K",
+"title": "Choral Conducting",
+"hours": 2.0,
+"division": "upper",
+"description": "Continuation of Music 223J. Further technical study in irregular meters, polyrhythmic and polymetrical patterns and scores; emphasis on expressive gestures, phrasal and compound beat conducting. Two class hours a week for one semester. Prerequisite: Music 223J or consent of instructor.",
+"prereqText": "Music 223J or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 223J"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 224",
+"subject": "MUS",
+"number": "224",
+"title": "Jazz Improvisation II",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to jazz majors. Examine advanced harmonic, rhythmic, melodic, and aural concepts. Two lecture hours a week for one semester. Music 224 and 276C (Topic: Jazz Improvisation II) may not both be counted. Prerequisite: Music 223 or consent of instructor.",
+"prereqText": "Music 223 or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 223"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to jazz majors."
+},
+{
+"id": "MUS 224G",
+"subject": "MUS",
+"number": "224G",
+"title": "Intermediate Composition",
+"hours": 2.0,
+"division": "upper",
+"description": "Continuation of Music 214C. The equivalent of two lecture hours and one laboratory hour a week for one semester. May be repeated for credit. Prerequisite: Music 214C with a grade of at least B, and approval of the music theory and composition faculty.",
+"prereqText": "Music 214C with a grade of at least B, and approval of the music theory and composition faculty.",
+"prereq": {
+"type": "course",
+"id": "MUS 214C",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 224J",
+"subject": "MUS",
+"number": "224J",
+"title": "Advanced Composition",
+"hours": 2.0,
+"division": "upper",
+"description": "Continuation of Music 224G for composition majors only. The equivalent of two lecture hours and one laboratory hour a week for one semester. With consent of the music theory and composition faculty, may be repeated for credit. Prerequisite: Music 224G with a grade of at least B, and approval of the music theory and composition faculty.",
+"prereqText": "Music 224G with a grade of at least B, and approval of the music theory and composition faculty.",
+"prereq": {
+"type": "course",
+"id": "MUS 224G",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 325L",
+"subject": "MUS",
+"number": "325L",
+"title": "Counterpoint",
+"hours": 3.0,
+"division": "upper",
+"description": "Development of contrapuntal skill in sixteenth-century style and in related late-twentieth-century styles; the teaching of counterpoint, including Fuxian species. Three lecture hours a week for one semester. Prerequisite: Music 411 and 612.",
+"prereqText": "Music 411 and 612.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 325M",
+"subject": "MUS",
+"number": "325M",
+"title": "Counterpoint",
+"hours": 3.0,
+"division": "upper",
+"description": "Analysis of eighteenth-century inventions, fugues, and passacaglias; development of contrapuntal skills in twentieth-century styles that draw on these historical models; the teaching of counterpoint. Three lecture hours a week for one semester."
+},
+{
+"id": "MUS 226G",
+"subject": "MUS",
+"number": "226G",
+"title": "Orchestration and Arranging",
+"hours": 2.0,
+"division": "upper",
+"description": "Techniques of instrumentation, arranging, and orchestration for band, orchestra, and chamber ensembles. Two lecture hours a week for one semester. Prerequisite: Music 411 and 612.",
+"prereqText": "Music 411 and 612.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 226J",
+"subject": "MUS",
+"number": "226J",
+"title": "Orchestration and Instrumentation",
+"hours": 2.0,
+"division": "upper",
+"description": "Study of the characteristics of individual instruments; writing for various combinations; study of scores of different periods; listening to recordings and live performances. Two lecture hours a week for one semester. Prerequisite: Music 411 and 612.",
+"prereqText": "Music 411 and 612.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 226K",
+"subject": "MUS",
+"number": "226K",
+"title": "Orchestration and Instrumentation",
+"hours": 2.0,
+"division": "upper",
+"description": "Continuation of Music 226J. Two lecture hours a week for one semester. Music 226K and 349 may not both be counted. Prerequisite: Music 226J.",
+"prereqText": "Music 226J.",
+"prereq": {
+"type": "course",
+"id": "MUS 226J"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 226N",
+"subject": "MUS",
+"number": "226N",
+"title": "Choral Arranging",
+"hours": 2.0,
+"division": "upper",
+"description": "Techniques of voicing and arranging for choirs, vocal ensembles, and vocal chamber groups. Two lecture hours a week for one semester. Prerequisite: Music 411 and 612.",
+"prereqText": "Music 411 and 612.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 228C",
+"subject": "MUS",
+"number": "228C",
+"title": "Jazz Harmony in Practice I",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. Study the harmonic language standardized in jazz and popular American music. Two lecture hours a week for one semester. Only one of the following may be counted: Music 228C, 228G, 331J (Topic: Jazz Harmony in Practice).",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 228D",
+"subject": "MUS",
+"number": "228D",
+"title": "Jazz Harmony in Practice II",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. Explore the harmonic motion of jazz, ear training, and harmonic embellishment. Two lecture hours a week for one semester. Only one of the following may be counted: Music 228D, 228L, 276C (Topic: Jazz Harmony in Practice II). Prerequisite: Music 228C, or consent of instructor.",
+"prereqText": "Music 228C, or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 228C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 228P",
+"subject": "MUS",
+"number": "228P",
+"title": "Jazz Composition",
+"hours": 2.0,
+"division": "upper",
+"description": "Individual instruction in the creative process of composition, involving the melodic, harmonic, and rhythmic components of various jazz styles. Individual instruction. May be repeated for credit. Prerequisite: Music 328M or consent of instructor.",
+"prereqText": "Music 328M or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 328M"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 329E",
+"subject": "MUS",
+"number": "329E",
+"title": "Introduction to Electronic Media",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the fundamentals of recording, tape editing, and electronic music synthesis. Three lecture hours and six laboratory hours a week for one semester. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 329F",
+"subject": "MUS",
+"number": "329F",
+"title": "Projects in Electronic Media",
+"hours": 3.0,
+"division": "upper",
+"description": "Continuation of Music 329E for nontheory and noncomposition majors. One and one-half lecture hours and eight laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Music 329E and consent of instructor.",
+"prereqText": "Music 329E and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 329E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 329G",
+"subject": "MUS",
+"number": "329G",
+"title": "Intermediate Electronic Composition",
+"hours": 3.0,
+"division": "upper",
+"description": "Continuation of Music 329E for music theory or composition majors. Three lecture hours and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Music 329E and consent of instructor.",
+"prereqText": "Music 329E and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 329E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 329J",
+"subject": "MUS",
+"number": "329J",
+"title": "Introduction to Computer Music",
+"hours": 3.0,
+"division": "upper",
+"description": "An introduction to the basic concepts of digital music synthesis and signal processing. One and one-half lecture hours and eight laboratory hours a week for one semester. Arts and Entertainment Technologies 331 and Music 329J may not both be counted. Prerequisite: Music 329E and consent of instructor.",
+"prereqText": "Music 329E and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 329E"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 329M",
+"subject": "MUS",
+"number": "329M",
+"title": "Intermediate Computer Music",
+"hours": 3.0,
+"division": "upper",
+"description": "Continuation of Music 329J. One and one-half lecture hours and eight laboratory hours a week for one semester. Arts and Entertainment Technologies 332 and Music 329M may not both be counted. May be repeated for credit. Prerequisite: Music 329J and consent of instructor.",
+"prereqText": "Music 329J and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 329J"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 129Q",
+"subject": "MUS",
+"number": "129Q",
+"title": "Topics in Music",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 229Q",
+"subject": "MUS",
+"number": "229Q",
+"title": "Topics in Music",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 329Q",
+"subject": "MUS",
+"number": "329Q",
+"title": "Topics in Music",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 429Q",
+"subject": "MUS",
+"number": "429Q",
+"title": "Topics in Music",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 529Q",
+"subject": "MUS",
+"number": "529Q",
+"title": "Topics in Music",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 629Q",
+"subject": "MUS",
+"number": "629Q",
+"title": "Topics in Music",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 729Q",
+"subject": "MUS",
+"number": "729Q",
+"title": "Topics in Music",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 829Q",
+"subject": "MUS",
+"number": "829Q",
+"title": "Topics in Music",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 929Q",
+"subject": "MUS",
+"number": "929Q",
+"title": "Topics in Music",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 629QA",
+"subject": "MUS",
+"number": "629QA",
+"title": "Topics in Music",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 629QB",
+"subject": "MUS",
+"number": "629QB",
+"title": "Topics in Music",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Butler School of Music. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "MUS 230L",
+"subject": "MUS",
+"number": "230L",
+"title": "History of Music III",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. The history of music from the early twentieth century to the present. Three lecture hours and one laboratory hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Music 213N or 313N, or consent of instructor.",
+"prereqText": "Music 213N or 313N, or consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MUS 213N"
+},
+{
+"type": "course",
+"id": "MUS 313N"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MUS 330L",
+"subject": "MUS",
+"number": "330L",
+"title": "History of Music III",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to music majors. The history of music from the early twentieth century to the present. Three lecture hours and one laboratory hour a week for one semester. Offered on the letter-grade basis only. Prerequisite: Music 213N or 313N, or consent of instructor.",
+"prereqText": "Music 213N or 313N, or consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MUS 213N"
+},
+{
+"type": "course",
+"id": "MUS 313N"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MUS 331J",
+"subject": "MUS",
+"number": "331J",
+"title": "Advanced Topics in Music Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Music 612 and 313N, or upper-division standing and consent of instructor.",
+"prereqText": "Music 612 and 313N, or upper-division standing and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 612"
+},
+{
+"type": "course",
+"id": "MUS 313N"
+}
+]
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MUS 334",
+"subject": "MUS",
+"number": "334",
+"title": "Topics in The Music of the Americas",
+"hours": 3.0,
+"division": "upper",
+"description": "Studies of both indigenous and borrowed traditions in the popular, folk, and art music of the Americas from the colonial period to the present. Three lecture hours a week for one semester, with one laboratory hour a week as required. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 337",
+"subject": "MUS",
+"number": "337",
+"title": "Music and Film Sound",
+"hours": 3.0,
+"division": "upper",
+"description": "History of music and the soundtrack; analysis of interactions between image and sound; and aesthetics and issues of production and postproduction. Three lecture hours a week for one semester. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 338",
+"subject": "MUS",
+"number": "338",
+"title": "Topics in Masterpieces of Music",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of the works of specific composers or of specific genres in the Western musical tradition. Three lecture hours a week for one semester. May not be counted by music majors. May be repeated for credit when the topics vary. Prerequisite: Music 302L or consent of instructor.",
+"prereqText": "Music 302L or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 302L"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 342",
+"subject": "MUS",
+"number": "342",
+"title": "Topics in Ethnomusicology Areas",
+"hours": 3.0,
+"division": "upper",
+"description": "Studies of the musical traditions of selected cultures or geographical areas. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 343J",
+"subject": "MUS",
+"number": "343J",
+"title": "History of Jazz",
+"hours": 3.0,
+"division": "upper",
+"description": "Survey of the history of jazz from its origins to the present. Three lecture hours a week for one semester. Prerequisite: Upper-division standing in music or consent of instructor.",
+"prereqText": "Upper-division standing in music or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 246",
+"subject": "MUS",
+"number": "246",
+"title": "Jazz Piano Techniques I",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. Study basic skills in chord notation, chord interpretation and voicing, voice leading, and jazz piano styles. Three laboratory hours a week for one semester. Music 228K and 246 may not both be counted. Prerequisite: Music 201N and 605, or consent of instructor.",
+"prereqText": "Music 201N and 605, or consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 201N"
+},
+{
+"type": "course",
+"id": "MUS 605"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 346R",
+"subject": "MUS",
+"number": "346R",
+"title": "Music and Religious Identities in the US",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as American Studies 325E and Religious Studies 346M. Examine religious music in Christianity and Judaism in relation to communities in religious context of Europe and the United States. Three lecture hours a week for one semester. Only one of the following may be counted: American Studies 325 (Topic: Music and Religious Identities in the US), 325E, Music 346R, 376G (Topic: US Music/Religious Identity), Religious Studies 346 (Topic: Music and Religious Identities in the US), 346M. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"sameAs": "American Studies 325E and Religious Studies 346M"
+},
+{
+"id": "MUS 247",
+"subject": "MUS",
+"number": "247",
+"title": "Jazz Piano Techniques II",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. Three laboratory hours a week for one semester. Only one of the following may be counted: Music 210J, 247, 276C (Topic: Jazz Piano Techniques II) Prerequisite: Music 246, or consent of instructor.",
+"prereqText": "Music 246, or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 246"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 348",
+"subject": "MUS",
+"number": "348",
+"title": "Studio Arranging I",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to music majors. Study arranging for a variety of small group configurations, applying fundamental techniques, and scoring for large jazz ensemble. Three lecture hours a week for one semester. Music 328M and 348 may not both be counted. Prerequisite: Music 228D, or consent of instructor.",
+"prereqText": "Music 228D, or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 228D"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 349",
+"subject": "MUS",
+"number": "349",
+"title": "Studio Arranging II",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to music majors. Explore extended arrangements for large jazz ensemble and study of masterworks of the genre. Three lecture hours a week for one semester. Music 226K and 349 may not both be counted. Prerequisite: Music 348, or consent of instructor.",
+"prereqText": "Music 348, or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 348"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 350S",
+"subject": "MUS",
+"number": "350S",
+"title": "Creating Music and Sound for Film, Video, and Games",
+"hours": 3.0,
+"division": "upper",
+"description": "Priority given to music composition majors. Designed to introduce students to concepts of music and sound for a variety of media with a primary focus on creating original music and/or soundtracks. Subjects include music structures, production and editing, film and video synchronization, game audio, and other sound for film related topics. Three lecture hours a week for one semester. Arts and Entertainment Technologies 323 and Music 350S may not both be counted. Prerequisite: Music 319D with a grade of at least C, and consent of instructor.",
+"prereqText": "Music 319D with a grade of at least C, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 319D",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 354",
+"subject": "MUS",
+"number": "354",
+"title": "Musical Development of Children",
+"hours": 3.0,
+"division": "upper",
+"description": "The processes of musical development in young children. Topics include music in multicultural contexts, music in the cognitive and social development of young children, and special issues concerning music and exceptional children. Three lecture hours a week for one semester. Prerequisite: Upper-division standing or consent of instructor.",
+"prereqText": "Upper-division standing or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 354C",
+"subject": "MUS",
+"number": "354C",
+"title": "Children's Music Literature and Performance I",
+"hours": 3.0,
+"division": "upper",
+"description": "Literature, materials, and music performance activities appropriate for young children. Three lecture hours and one laboratory hour a week for one semester. Prerequisite: Music 605 or 313, upper-division standing in music studies, or consent of instructor.",
+"prereqText": "Music 605 or 313, upper-division standing in music studies, or consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "MUS 605"
+},
+{
+"type": "course",
+"id": "MUS 313"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 354D",
+"subject": "MUS",
+"number": "354D",
+"title": "Children's Music Literature and Performance II",
+"hours": 3.0,
+"division": "upper",
+"description": "Continuation of Music 354C. Three lecture hours a week for one semester. Prerequisite: Music 354C or consent of instructor.",
+"prereqText": "Music 354C or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 354C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 354F",
+"subject": "MUS",
+"number": "354F",
+"title": "Music Performance, Listening, and Appreciation",
+"hours": 3.0,
+"division": "upper",
+"description": "Techniques and materials for the development of skill in composition, arranging, performance, and aural discrimination; problems related to the adolescent voice. Three lecture hours and one laboratory hour a week for one semester."
+},
+{
+"id": "MUS 354S",
+"subject": "MUS",
+"number": "354S",
+"title": "Game Development Capstone: Two-Dimensional Games",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Computer Science 354S and Theatre and Dance 354T (Topic 17). Participation in an interdisciplinary team to gain a thorough understanding of the two-dimensional game development process, through modeling of the environment and practices that are used in game studios. Three lecture hours a week for one semester. Only one of the following may be counted: Arts and Entertainment Technologies 376, Computer Science 354S, 378 (Topic: Game Devel Capstone: 2D Games), Music 354S, 376J (Topic: Game Devel Capstone: 2D Games), Theatre and Dance 354T (Topic 17), Radio-Television-Film 344N (Topic 6), 344T (Topic 1). Prerequisite: For computer science majors, Computer Science 354, 354H, 354P, or 354R with a grade of at least C-; for others, consent of instructor.",
+"prereqText": "For computer science majors, Computer Science 354, 354H, 354P, or 354R with a grade of at least C-; for others, consent of instructor.",
+"prereqConfidence": "low",
+"sameAs": "Computer Science 354S and Theatre and Dance 354T (Topic 17)"
+},
+{
+"id": "MUS 354T",
+"subject": "MUS",
+"number": "354T",
+"title": "Game Development Capstone: Three-Dimensional Games",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Computer Science 354T and Theatre and Dance 354T (Topic 18). Participation in interdisciplinary teams to gain a thorough understanding of the three-dimensional game development process, through modeling of the environment and practices that are used in game studios. Three lecture hours a week for one semester. Only one of the following may be counted: Computer Science 354T, Music 354T, 376J (Topic: Game Development Capstone: 3D Games), Theatre and Dance 354T (Topic 18). Prerequisite: For computer science majors, Computer Science 354, 354H, 354P, or 354R with a grade of at least C-; for others, consent of instructor.",
+"prereqText": "For computer science majors, Computer Science 354, 354H, 354P, or 354R with a grade of at least C-; for others, consent of instructor.",
+"prereqConfidence": "low",
+"sameAs": "Computer Science 354T and Theatre and Dance 354T (Topic 18)"
+},
+{
+"id": "MUS 155C",
+"subject": "MUS",
+"number": "155C",
+"title": "Techniques of Percussion Performance",
+"hours": 1.0,
+"division": "upper",
+"description": "Percussion performance techniques for individual and ensemble settings, including appropriate literature and rehearsal procedures. Two laboratory hours a week for one semester. Prerequisite: Upper-division standing in music studies.",
+"prereqText": "Upper-division standing in music studies.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 255D",
+"subject": "MUS",
+"number": "255D",
+"title": "Techniques of String Performance",
+"hours": 2.0,
+"division": "upper",
+"description": "String instrument performance techniques for individual and ensemble settings, including appropriate literature and rehearsal procedures. Two lecture hours a week for one semester. Prerequisite: Upper-division standing in music studies.",
+"prereqText": "Upper-division standing in music studies.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 255E",
+"subject": "MUS",
+"number": "255E",
+"title": "Techniques of Brass Performance",
+"hours": 2.0,
+"division": "upper",
+"description": "Brass instrument performance techniques for individual and ensemble settings, including appropriate literature and rehearsal procedures. Two lecture hours a week for one semester. Prerequisite: Upper-division standing in music studies.",
+"prereqText": "Upper-division standing in music studies.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 255F",
+"subject": "MUS",
+"number": "255F",
+"title": "Techniques of Woodwind Performance",
+"hours": 2.0,
+"division": "upper",
+"description": "Woodwind instrument performance techniques for individual and ensemble settings, including appropriate literature and rehearsal procedures. Two lecture hours a week for one semester. Prerequisite: Upper-division standing in music studies.",
+"prereqText": "Upper-division standing in music studies.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 255M",
+"subject": "MUS",
+"number": "255M",
+"title": "Marching Band Techniques",
+"hours": 2.0,
+"division": "upper",
+"description": "Literature, materials, and techniques of the marching band. Two lecture hours and one laboratory hour a week for one semester. Prerequisite: Upper-division standing in music studies.",
+"prereqText": "Upper-division standing in music studies.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 155S",
+"subject": "MUS",
+"number": "155S",
+"title": "Vocal Techniques For Instrumentalists",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to music majors. Explore vocal techniques for individual and instructional settings. Examine appropriate literature and rehearsal procedures. One-and-one-half laboratory hours per week for one semester. Music 155S and 176C (Topic: Voice Fundamentals) and may not both be counted.",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 255V",
+"subject": "MUS",
+"number": "255V",
+"title": "Techniques of Vocal Performance",
+"hours": 2.0,
+"division": "upper",
+"description": "Technique of individual and ensemble singing practiced through the study of vocal literature. Two lecture hours a week for one semester. Prerequisite: Upper-division standing in music studies.",
+"prereqText": "Upper-division standing in music studies.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 356G",
+"subject": "MUS",
+"number": "356G",
+"title": "Choral Ensemble Literature and Performance",
+"hours": 3.0,
+"division": "upper",
+"description": "Choral music literature; rehearsal and performance techniques for choirs and small ensembles. One lecture hour a week for each credit hour earned and one lab hour a week for one semester. Prerequisite: Upper-division standing in music studies or consent of instructor.",
+"prereqText": "Upper-division standing in music studies or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 456G",
+"subject": "MUS",
+"number": "456G",
+"title": "Choral Ensemble Literature and Performance",
+"hours": 4.0,
+"division": "upper",
+"description": "Choral music literature; rehearsal and performance techniques for choirs and small ensembles. One lecture hour a week for each credit hour earned and one lab hour a week for one semester. Prerequisite: Upper-division standing in music studies or consent of instructor.",
+"prereqText": "Upper-division standing in music studies or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 356J",
+"subject": "MUS",
+"number": "356J",
+"title": "Instrumental Ensemble Literature and Performance",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of the literature and of performance and rehearsal techniques for heterogeneous instrumental ensembles. Three lecture hours and one laboratory hour a week for one semester. Prerequisite: Upper-division standing in music studies and Music 210K.",
+"prereqText": "Upper-division standing in music studies and Music 210K.",
+"prereq": {
+"type": "course",
+"id": "MUS 210K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 259C",
+"subject": "MUS",
+"number": "259C",
+"title": "Chamber Music: Brass",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. The equivalent of two lecture hours and one laboratory hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereqText": "Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 259E",
+"subject": "MUS",
+"number": "259E",
+"title": "Chamber Music: Percussion",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. The equivalent of two lecture hours and one laboratory hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereqText": "Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 159J",
+"subject": "MUS",
+"number": "159J",
+"title": "Harp Repertoire",
+"hours": 1.0,
+"division": "upper",
+"description": "Study and performance of the harp repertoire. One laboratory hour a week for one semester. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 259L",
+"subject": "MUS",
+"number": "259L",
+"title": "Vocal Repertoire Coaching",
+"hours": 2.0,
+"division": "upper",
+"description": "Two lecture hours and one laboratory hour a week for one semester. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 259N",
+"subject": "MUS",
+"number": "259N",
+"title": "Chamber Music: Strings and Piano",
+"hours": 2.0,
+"division": "upper",
+"description": "The equivalent of two lecture hours and one laboratory hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereqText": "Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 259R",
+"subject": "MUS",
+"number": "259R",
+"title": "Chamber Music: Saxophone",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. The equivalent of two lecture hours and one laboratory hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereqText": "Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 259T",
+"subject": "MUS",
+"number": "259T",
+"title": "Topics in Instrumental Technology",
+"hours": 2.0,
+"division": "upper",
+"description": "Two lecture hours and one laboratory hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 259U",
+"subject": "MUS",
+"number": "259U",
+"title": "Chamber Music: Repertoire Before 1800",
+"hours": 2.0,
+"division": "upper",
+"description": "The equivalent of two lecture hours and one laboratory hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereqText": "Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 259V",
+"subject": "MUS",
+"number": "259V",
+"title": "Chamber Music: Vocal",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. The equivalent of two lecture hours and one laboratory hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereqText": "Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 259W",
+"subject": "MUS",
+"number": "259W",
+"title": "Chamber Music: Woodwinds",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. The equivalent of two lecture hours and one laboratory hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereqText": "Upper-division standing, Music 411 and 612, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 160C",
+"subject": "MUS",
+"number": "160C",
+"title": "Senior Composition Recital",
+"hours": 1.0,
+"division": "upper",
+"description": "Open only to music composition majors. Preparation and performance of a thirty-minute public recital of the student's original compositions. Individual instruction."
+},
+{
+"id": "MUS 460J",
+"subject": "MUS",
+"number": "460J",
+"title": "Senior Jazz Recital",
+"hours": 4.0,
+"division": "upper",
+"description": "Open only to jazz performance majors. Preparation and performance of a one-hour public recital in the major jazz instrument. Individual instruction. Prerequisite: Music 420J and approval of the jazz faculty.",
+"prereqText": "Music 420J and approval of the jazz faculty.",
+"prereq": {
+"type": "course",
+"id": "MUS 420J"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 460R",
+"subject": "MUS",
+"number": "460R",
+"title": "Senior Recital",
+"hours": 4.0,
+"division": "upper",
+"description": "Open only to music performance majors. Preparation and performance of a one-hour public recital in the major instrument. Individual instruction. Prerequisite: For performance majors approved to pursue a pedagogy emphasis, approval of the faculty; for other performance majors, Music 420R and approval of the faculty.",
+"prereqText": "For performance majors approved to pursue a pedagogy emphasis, approval of the faculty; for other performance majors, Music 420R and approval of the faculty.",
+"prereq": {
+"type": "course",
+"id": "MUS 420R"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 262C",
+"subject": "MUS",
+"number": "262C",
+"title": "Intermediate Instrumental Conducting",
+"hours": 2.0,
+"division": "upper",
+"description": "Problems and interpretation of larger band and orchestral works; analytical study of musical form as it relates to conducting; a synthesis of musical understanding and expansion of comprehensive musicianship through conducting problems. Two lecture hours and one laboratory hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and Music 222K.",
+"prereqText": "Upper-division standing and Music 222K.",
+"prereq": {
+"type": "course",
+"id": "MUS 222K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 164L",
+"subject": "MUS",
+"number": "164L",
+"title": "Advanced Ear Training",
+"hours": 1.0,
+"division": "upper",
+"description": "Further development of techniques taught in Music 411, with emphasis on aural recognition of larger musical forms and of music of contemporary style. For each semester hour of credit earned, one lecture hour a week for one semester. Prerequisite: Upper-division standing in music and Music 411 and 612.",
+"prereqText": "Upper-division standing in music and Music 411 and 612.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 364L",
+"subject": "MUS",
+"number": "364L",
+"title": "Advanced Ear Training",
+"hours": 3.0,
+"division": "upper",
+"description": "Further development of techniques taught in Music 411, with emphasis on aural recognition of larger musical forms and of music of contemporary style. For each semester hour of credit earned, one lecture hour a week for one semester. Prerequisite: Upper-division standing in music and Music 411 and 612.",
+"prereqText": "Upper-division standing in music and Music 411 and 612.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 411"
+},
+{
+"type": "course",
+"id": "MUS 612"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 366P",
+"subject": "MUS",
+"number": "366P",
+"title": "Senior Piano Pedagogy Project",
+"hours": 3.0,
+"division": "upper",
+"description": "Open only to senior piano performance majors pursuing the pedagogy option. Students complete a research paper on a piano pedagogy topic, such as methodology, skills development, or repertoire. Individual instruction. Prerequisite: Upper-division standing and Music 460P with a grade of at least B.",
+"prereqText": "Upper-division standing and Music 460P with a grade of at least B.",
+"prereq": {
+"type": "course",
+"id": "MUS 460P",
+"minGrade": "B"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 368L",
+"subject": "MUS",
+"number": "368L",
+"title": "Review of Music Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "An intensive review of the skills and concepts required for the study of music theory at the graduate level. Three lecture hours a week for one semester. May not be counted toward a graduate degree. Prerequisite: Upper-division or graduate standing in music.",
+"prereqText": "Upper-division or graduate standing in music.",
+"prereqConfidence": "none",
+"excluded": "a graduate degree"
+},
+{
+"id": "MUS 271P",
+"subject": "MUS",
+"number": "271P",
+"title": "Topics in Pedagogy",
+"hours": 2.0,
+"division": "upper",
+"description": "Designed primarily for students planning teaching careers. Offered in piano, voice, and orchestral instruments. Methods include individual and class instruction through the use of music literature and the teaching repertoire. Practice teaching and laboratory for diagnostic and corrective methods are required. Two lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"offering": "Offered in piano, voice, and orchestral instruments."
+},
+{
+"id": "MUS 375J",
+"subject": "MUS",
+"number": "375J",
+"title": "Twentieth-Century Music Techniques",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to music majors. Review of techniques and methods for analyzing twentieth-century music. Three lecture hours a week for one semester. Music 375J and Music 376J (Topic 1) may not both be counted. Offered on the letter-grade basis only.",
+"restricted": "Restricted to music majors.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MUS 275T",
+"subject": "MUS",
+"number": "275T",
+"title": "Teaching and Learning in Music",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. Two lecture hours a week for one semester. Prerequisite: Upper-division standing",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 176C",
+"subject": "MUS",
+"number": "176C",
+"title": "Special Topics in Music Performance",
+"hours": 1.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 276C",
+"subject": "MUS",
+"number": "276C",
+"title": "Special Topics in Music Performance",
+"hours": 2.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 376C",
+"subject": "MUS",
+"number": "376C",
+"title": "Special Topics in Music Performance",
+"hours": 3.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 376G",
+"subject": "MUS",
+"number": "376G",
+"title": "Special Topics in Music Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Three class hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 376J",
+"subject": "MUS",
+"number": "376J",
+"title": "Special Topics in Music Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "Three class hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 176M",
+"subject": "MUS",
+"number": "176M",
+"title": "Special Topics in Music Studies",
+"hours": 1.0,
+"division": "upper",
+"description": "One class hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 176R",
+"subject": "MUS",
+"number": "176R",
+"title": "Guitar Repertory",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to music majors whose primary instrument is guitar. One lecture hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to music majors whose primary instrument is guitar."
+},
+{
+"id": "MUS 276S",
+"subject": "MUS",
+"number": "276S",
+"title": "Bassoon Literature",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. Two lecture hours a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 276T",
+"subject": "MUS",
+"number": "276T",
+"title": "Flute Literature",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. Two lecture hours a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 276U",
+"subject": "MUS",
+"number": "276U",
+"title": "French Horn Literature",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. Two lecture hours a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 276V",
+"subject": "MUS",
+"number": "276V",
+"title": "Oboe Literature",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to music majors. Two lecture hours a week for one semester May be repeated for credit. Prerequisite: Upper-division standing",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to music majors."
+},
+{
+"id": "MUS 178C",
+"subject": "MUS",
+"number": "178C",
+"title": "Independent Study: Music Performance",
+"hours": 1.0,
+"division": "upper",
+"description": "Individual projects to be completed under faculty supervision. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor and the director of the school.",
+"prereqText": "Upper-division standing and consent of instructor and the director of the school.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 278C",
+"subject": "MUS",
+"number": "278C",
+"title": "Independent Study: Music Performance",
+"hours": 2.0,
+"division": "upper",
+"description": "Individual projects to be completed under faculty supervision. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor and the director of the school.",
+"prereqText": "Upper-division standing and consent of instructor and the director of the school.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 378C",
+"subject": "MUS",
+"number": "378C",
+"title": "Independent Study: Music Performance",
+"hours": 3.0,
+"division": "upper",
+"description": "Individual projects to be completed under faculty supervision. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor and the director of the school.",
+"prereqText": "Upper-division standing and consent of instructor and the director of the school.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 178G",
+"subject": "MUS",
+"number": "178G",
+"title": "Independent Study: Music Literature",
+"hours": 1.0,
+"division": "upper",
+"description": "Individual projects to be completed under faculty supervision. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor and the director of the school.",
+"prereqText": "Upper-division standing and consent of instructor and the director of the school.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 278G",
+"subject": "MUS",
+"number": "278G",
+"title": "Independent Study: Music Literature",
+"hours": 2.0,
+"division": "upper",
+"description": "Individual projects to be completed under faculty supervision. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor and the director of the school.",
+"prereqText": "Upper-division standing and consent of instructor and the director of the school.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 378G",
+"subject": "MUS",
+"number": "378G",
+"title": "Independent Study: Music Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Individual projects to be completed under faculty supervision. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor and the director of the school.",
+"prereqText": "Upper-division standing and consent of instructor and the director of the school.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 178J",
+"subject": "MUS",
+"number": "178J",
+"title": "Independent Study: Music Theory",
+"hours": 1.0,
+"division": "upper",
+"description": "Individual projects to be completed under faculty supervision. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor and the director of the school.",
+"prereqText": "Upper-division standing and consent of instructor and the director of the school.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 278J",
+"subject": "MUS",
+"number": "278J",
+"title": "Independent Study: Music Theory",
+"hours": 2.0,
+"division": "upper",
+"description": "Individual projects to be completed under faculty supervision. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor and the director of the school.",
+"prereqText": "Upper-division standing and consent of instructor and the director of the school.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 378J",
+"subject": "MUS",
+"number": "378J",
+"title": "Independent Study: Music Theory",
+"hours": 3.0,
+"division": "upper",
+"description": "Individual projects to be completed under faculty supervision. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor and the director of the school.",
+"prereqText": "Upper-division standing and consent of instructor and the director of the school.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 178M",
+"subject": "MUS",
+"number": "178M",
+"title": "Independent Study: Music Studies",
+"hours": 1.0,
+"division": "upper",
+"description": "Individual projects to be completed under faculty supervision. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor and the director of the school.",
+"prereqText": "Upper-division standing and consent of instructor and the director of the school.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 278M",
+"subject": "MUS",
+"number": "278M",
+"title": "Independent Study: Music Studies",
+"hours": 2.0,
+"division": "upper",
+"description": "Individual projects to be completed under faculty supervision. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor and the director of the school.",
+"prereqText": "Upper-division standing and consent of instructor and the director of the school.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 378M",
+"subject": "MUS",
+"number": "378M",
+"title": "Independent Study: Music Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "Individual projects to be completed under faculty supervision. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Upper-division standing and consent of instructor and the director of the school.",
+"prereqText": "Upper-division standing and consent of instructor and the director of the school.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 379G",
+"subject": "MUS",
+"number": "379G",
+"title": "Capstone in Music",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to seniors pursuing the Bachelor of Arts in Music. Drawing from the chosen concentration for the Bachelor of Arts in Music, generate scholarly or creative work to enhance preparation for a post-baccalaureate education or career. Three lecture hours a week for one semester. Prerequisite: Upper-division standing and consent of instructor.",
+"prereqText": "Upper-division standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to seniors pursuing the Bachelor of Arts in Music."
+},
+{
+"id": "MUS 379K",
+"subject": "MUS",
+"number": "379K",
+"title": "Advanced Topics in Music Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. Two or more topics may be taken concurrently. May be repeated for credit when the topics vary. Prerequisite: Music 612 and 213N, or upper-division standing and consent of instructor.",
+"prereqText": "Music 612 and 213N, or upper-division standing and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "MUS 612"
+},
+{
+"type": "course",
+"id": "MUS 213N"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 379Q",
+"subject": "MUS",
+"number": "379Q",
+"title": "Musical Acoustics",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Mechanical Engineering 379Q. Designed to help students develop the intuition and vocabulary for understanding the basic physical principles relevant to musical instruments and sound (e.g., mechanics, vibrations, acoustics, harmonics, acoustic-electronic conversions, speakers, hearing, perception, room acoustics) in order to be able to read basic articles on the subject of musical acoustics. Material is kept relevant to musical principles (e.g., performance techniques, scales/harmony) throughout. Three lecture hours a week for one semester. Only one of the following may be counted: Arts and Entertainment Technologies 320D, 339 (Topic: Musical Acoustics), Mechanical Engineering 379M (Topic: Musical Acoustics), 379Q, Music 376J (Topic: Musical Acoustics), 379Q.",
+"sameAs": "Mechanical Engineering 379Q"
+},
+{
+"id": "MUS 380",
+"subject": "MUS",
+"number": "380",
+"title": "Advanced Topics in the History and Culture of Music",
+"hours": 3.0,
+"division": "graduate",
+"description": "Historical and cultural studies of the music of various periods or places. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 280D",
+"subject": "MUS",
+"number": "280D",
+"title": "Topics in Diction and Translation",
+"hours": 2.0,
+"division": "graduate",
+"description": "Advanced study in English, Italian, French, and German diction and translation. The equivalent of two lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in music.",
+"prereqText": "Graduate standing in music.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 180G",
+"subject": "MUS",
+"number": "180G",
+"title": "Improvisation (Non-Jazz)",
+"hours": 1.0,
+"division": "graduate",
+"description": "One lecture hour and three laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 280M",
+"subject": "MUS",
+"number": "280M",
+"title": "Group Piano Pedagogy",
+"hours": 2.0,
+"division": "graduate",
+"description": "The development of skills in teaching group piano; examination and evaluation of methods and materials used in keyboard instruction; learning styles; research. Two lecture hours and one laboratory hour a week for one semester. Prerequisite: Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 280N",
+"subject": "MUS",
+"number": "280N",
+"title": "Technology in Voice Study",
+"hours": 2.0,
+"division": "graduate",
+"description": "The integration of computer technology and audiovisual equipment into applied voice instruction. One lecture hour and one and one-half laboratory hours a week for one semester. May be repeated for credit, but only two semester hours may be counted toward the Doctor of Musical Arts degree. Prerequisite: Graduate standing in music.",
+"prereqText": "Graduate standing in music.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 180R",
+"subject": "MUS",
+"number": "180R",
+"title": "Vocal Repertoire Coaching",
+"hours": 1.0,
+"division": "graduate",
+"description": "For 180R, one lecture hour and three laboratory hours a week for one semester; for 280R, one lecture hour and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 280R",
+"subject": "MUS",
+"number": "280R",
+"title": "Vocal Repertoire Coaching",
+"hours": 2.0,
+"division": "graduate",
+"description": "For 180R, one lecture hour and three laboratory hours a week for one semester; for 280R, one lecture hour and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 180T",
+"subject": "MUS",
+"number": "180T",
+"title": "Accompanying",
+"hours": 1.0,
+"division": "graduate",
+"description": "For 180T, one lecture hour and three laboratory hours a week for one semester; for 280T, one lecture hour and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 280T",
+"subject": "MUS",
+"number": "280T",
+"title": "Accompanying",
+"hours": 2.0,
+"division": "graduate",
+"description": "For 180T, one lecture hour and three laboratory hours a week for one semester; for 280T, one lecture hour and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 180V",
+"subject": "MUS",
+"number": "180V",
+"title": "Collaborative Piano: Vocal and Instrumental",
+"hours": 1.0,
+"division": "graduate",
+"description": "For 180V, one lecture hour and three laboratory hours a week for one semester; for 280V, one lecture hour and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 280V",
+"subject": "MUS",
+"number": "280V",
+"title": "Collaborative Piano: Vocal and Instrumental",
+"hours": 2.0,
+"division": "graduate",
+"description": "For 180V, one lecture hour and three laboratory hours a week for one semester; for 280V, one lecture hour and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 381",
+"subject": "MUS",
+"number": "381",
+"title": "Reference and Research Materials in Music",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Prerequisite: Graduate standing in music.",
+"prereqText": "Graduate standing in music.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 281C",
+"subject": "MUS",
+"number": "281C",
+"title": "Chamber Music: Brass",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to graduate music majors. One lecture hour and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to graduate music majors."
+},
+{
+"id": "MUS 181D",
+"subject": "MUS",
+"number": "181D",
+"title": "Chamber Music: Artist Diploma",
+"hours": 1.0,
+"division": "graduate",
+"description": "Restricted to graduate music students in the Artist Diploma program. One lecture hour and three laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to graduate music students in the Artist Diploma program."
+},
+{
+"id": "MUS 281E",
+"subject": "MUS",
+"number": "281E",
+"title": "Chamber Music: Percussion",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to graduate music majors. One lecture hour and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to graduate music majors."
+},
+{
+"id": "MUS 381J",
+"subject": "MUS",
+"number": "381J",
+"title": "Topics in Introduction to Musicology and Ethnomusicology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in music.",
+"prereqText": "Graduate standing in music.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 281K",
+"subject": "MUS",
+"number": "281K",
+"title": "Chamber Music: Piano",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to graduate music majors. One lecture hour and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to graduate music majors."
+},
+{
+"id": "MUS 481M",
+"subject": "MUS",
+"number": "481M",
+"title": "Chamber Music: Masters Quartet",
+"hours": 4.0,
+"division": "graduate",
+"description": "Restricted to Master of Music-Chamber Music majors. One lecture hour and ten laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to Master of Music-Chamber Music majors."
+},
+{
+"id": "MUS 281P",
+"subject": "MUS",
+"number": "281P",
+"title": "Topics in Graduate Pedagogy",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to graduate music majors. Intensive study of the principles and methods of teaching various instruments at the college level. Two lecture hours a week for one semester. Music 480P and 281P may not both be counted. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to graduate music majors."
+},
+{
+"id": "MUS 281R",
+"subject": "MUS",
+"number": "281R",
+"title": "Chamber Music: Saxophone",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to graduate music majors. One lecture hour and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to graduate music majors."
+},
+{
+"id": "MUS 281S",
+"subject": "MUS",
+"number": "281S",
+"title": "Chamber Music: Strings",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to graduate music majors. One lecture hour and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to graduate music majors."
+},
+{
+"id": "MUS 281V",
+"subject": "MUS",
+"number": "281V",
+"title": "Chamber Music: Vocal",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to graduate music majors. One lecture hour and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to graduate music majors."
+},
+{
+"id": "MUS 281W",
+"subject": "MUS",
+"number": "281W",
+"title": "Chamber Music: Woodwinds",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to graduate music majors. One lecture hour and six laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to graduate music majors."
+},
+{
+"id": "MUS 282J",
+"subject": "MUS",
+"number": "282J",
+"title": "Instrumental Conducting",
+"hours": 2.0,
+"division": "graduate",
+"description": "Designed for those who have had no experience in conducting. Explore rudimentary use of baton, regular and irregular beat patterns, subdivisions and beat pattern variations as applied to simple instrumental literature. Develop practical experience in conducting instrumental groups. Two lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "MUS 383L",
+"subject": "MUS",
+"number": "383L",
+"title": "Topics in Seminar in Music Education",
+"hours": 3.0,
+"division": "graduate",
+"description": "Individual and group studies of advanced topics. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in music, and Music 391 or consent of instructor.",
+"prereqText": "Graduate standing in music, and Music 391 or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MUS 391"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MUS 384J",
+"subject": "MUS",
+"number": "384J",
+"title": "Advanced Topics in Music Education",
+"hours": 3.0,
+"division": "graduate",
+"description": "Review and criticism of research, acoustics, and psychology. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 284P",
+"subject": "MUS",
+"number": "284P",
+"title": "Practicum in a World Music Tradition",
+"hours": 2.0,
+"division": "graduate",
+"description": "Open to any University student who can qualify by audition. Advanced training on a non-Western musical instrument such as Javanese gender barung, Indian sitar, Arabic qanun, or Korean kayakeum, or advanced training in a non-Western vocal style, and other approved musical practices. Two lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing; two semesters of enrollment in a non-Western music ensemble, such as Javanese Gamelan, Middle Eastern or North Indian Music ensemble, or other approved music ensembles, and consent of instructor.",
+"prereqText": "Graduate standing; two semesters of enrollment in a non-Western music ensemble, such as Javanese Gamelan, Middle Eastern or North Indian Music ensemble, or other approved music ensembles, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 385",
+"subject": "MUS",
+"number": "385",
+"title": "Special Topics in Musicology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Research in depth on various topics. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in music.",
+"prereqText": "Graduate standing in music.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 385J",
+"subject": "MUS",
+"number": "385J",
+"title": "Topics in Seminars: Musicology and Ethnomusicology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Intensive studies of special problems and/or issues in music, broadly defined. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 185R",
+"subject": "MUS",
+"number": "185R",
+"title": "Directed Research in Musicology",
+"hours": 1.0,
+"division": "graduate",
+"description": "Individual instruction. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 285R",
+"subject": "MUS",
+"number": "285R",
+"title": "Directed Research in Musicology",
+"hours": 2.0,
+"division": "graduate",
+"description": "Individual instruction. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 385R",
+"subject": "MUS",
+"number": "385R",
+"title": "Directed Research in Musicology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Individual instruction. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 386J",
+"subject": "MUS",
+"number": "386J",
+"title": "Topics in the History of Sacred Music",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to a significant body of choral works, from the thirteenth century to the present age, composed especially for religious occasions and venues. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in music.",
+"prereqText": "Graduate standing in music.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 286S",
+"subject": "MUS",
+"number": "286S",
+"title": "Topics in Music in Worship: Service Planning and Service Playing",
+"hours": 2.0,
+"division": "graduate",
+"description": "The art and practice of preparing, rehearsing, and performing specific works of sacred music for religious occasions. Two lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in music.",
+"prereqText": "Graduate standing in music.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 387L",
+"subject": "MUS",
+"number": "387L",
+"title": "Advanced Topics in Music Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Analytical and historical studies of a particular repertoire. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 388C",
+"subject": "MUS",
+"number": "388C",
+"title": "Composition",
+"hours": 3.0,
+"division": "graduate",
+"description": "Individual instruction. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 388E",
+"subject": "MUS",
+"number": "388E",
+"title": "Electronic Composition",
+"hours": 3.0,
+"division": "graduate",
+"description": "Individual instruction. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 388F",
+"subject": "MUS",
+"number": "388F",
+"title": "Film and Scoring Media",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Music 688A (Topic: Film and Scoring Media) and 388F may not both be counted. Prerequisite: Graduate standing in composition, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in composition, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 388G",
+"subject": "MUS",
+"number": "388G",
+"title": "Graduate Media Project",
+"hours": 3.0,
+"division": "graduate",
+"description": "Individual instruction. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 388J",
+"subject": "MUS",
+"number": "388J",
+"title": "Improvisation Styles and Techniques",
+"hours": 3.0,
+"division": "graduate",
+"description": "The study and analysis of jazz improvisation. Three lecture hours a week for one semester. Music 688 (Topic 16) and 388J may not both be counted. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 388K",
+"subject": "MUS",
+"number": "388K",
+"title": "Project in Jazz Composition",
+"hours": 3.0,
+"division": "graduate",
+"description": "Individual instruction. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 288L",
+"subject": "MUS",
+"number": "288L",
+"title": "Advanced Studies in Choral Literature",
+"hours": 2.0,
+"division": "graduate",
+"description": "Restricted to students in choral conducting. Two lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in choral conducting."
+},
+{
+"id": "MUS 388M",
+"subject": "MUS",
+"number": "388M",
+"title": "Topics in Music Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three class hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in music or graduate standing and consent of instructor; additional prerequisites vary by topic.",
+"prereqText": "Graduate standing in music or graduate standing and consent of instructor; additional prerequisites vary by topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 388P",
+"subject": "MUS",
+"number": "388P",
+"title": "Jazz Pedagogy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Research and study of the methods and materials essential to teaching and planning a comprehensive curriculum in jazz studies. Three lecture hours a week for one semester. Prerequisite: Graduate standing in music and consent of instructor.",
+"prereqText": "Graduate standing in music and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 188R",
+"subject": "MUS",
+"number": "188R",
+"title": "Directed Research in Music Theory",
+"hours": 1.0,
+"division": "graduate",
+"description": "Individual instruction. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 288R",
+"subject": "MUS",
+"number": "288R",
+"title": "Directed Research in Music Theory",
+"hours": 2.0,
+"division": "graduate",
+"description": "Individual instruction. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 388R",
+"subject": "MUS",
+"number": "388R",
+"title": "Directed Research in Music Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Individual instruction. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 388S",
+"subject": "MUS",
+"number": "388S",
+"title": "Topics in Seminar in Music Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in music theory, musicology, ethnomusicology, or composition; or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music theory, musicology, ethnomusicology, or composition; or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 388T",
+"subject": "MUS",
+"number": "388T",
+"title": "Analytical Techniques",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Music 688 (Topic 5) and 388T may not both be counted. Prerequisite: Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 388V",
+"subject": "MUS",
+"number": "388V",
+"title": "Score Reading",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Music 688 (Topic 8) and 388V may not both be counted. Prerequisite: Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in music, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 391",
+"subject": "MUS",
+"number": "391",
+"title": "Foundations of Music Education",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to graduate study, history, philosophy, and basic concepts in music education. Three lecture hours a week for one semester. Required of all music and human learning majors. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 392",
+"subject": "MUS",
+"number": "392",
+"title": "Psychology of Music",
+"hours": 3.0,
+"division": "graduate",
+"description": "Psychological aspects of music, emphasizing perception, experimental aesthetics, music function, and the nature of musical ability. Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 193",
+"subject": "MUS",
+"number": "193",
+"title": "Topics in Special Problems in Music Education",
+"hours": 1.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 293",
+"subject": "MUS",
+"number": "293",
+"title": "Topics in Special Problems in Music Education",
+"hours": 2.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 393",
+"subject": "MUS",
+"number": "393",
+"title": "Topics in Special Problems in Music Education",
+"hours": 3.0,
+"division": "graduate",
+"description": "For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 194",
+"subject": "MUS",
+"number": "194",
+"title": "Directed Reading",
+"hours": 1.0,
+"division": "graduate",
+"description": "Readings in the literature of music. The equivalent of one, three, or six lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in music and consent of the graduate adviser.",
+"prereqText": "Graduate standing in music and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 394",
+"subject": "MUS",
+"number": "394",
+"title": "Directed Reading",
+"hours": 3.0,
+"division": "graduate",
+"description": "Readings in the literature of music. The equivalent of one, three, or six lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in music and consent of the graduate adviser.",
+"prereqText": "Graduate standing in music and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 694",
+"subject": "MUS",
+"number": "694",
+"title": "Directed Reading",
+"hours": 6.0,
+"division": "graduate",
+"description": "Readings in the literature of music. The equivalent of one, three, or six lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in music and consent of the graduate adviser.",
+"prereqText": "Graduate standing in music and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 694A",
+"subject": "MUS",
+"number": "694A",
+"title": "Directed Reading",
+"hours": 6.0,
+"division": "graduate",
+"description": "Readings in the literature of music. The equivalent of one, three, or six lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in music and consent of the graduate adviser.",
+"prereqText": "Graduate standing in music and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 694B",
+"subject": "MUS",
+"number": "694B",
+"title": "Directed Reading",
+"hours": 6.0,
+"division": "graduate",
+"description": "Readings in the literature of music. The equivalent of one, three, or six lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in music and consent of the graduate adviser.",
+"prereqText": "Graduate standing in music and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 395W",
+"subject": "MUS",
+"number": "395W",
+"title": "Writing about Music",
+"hours": 3.0,
+"division": "graduate",
+"description": "Designed to develop and improve writing skills through required readings and through writing concert reviews, opinion pieces, essays, and articles about music. Three lecture hours a week for one semester. Prerequisite: Graduate standing in music.",
+"prereqText": "Graduate standing in music.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 698",
+"subject": "MUS",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in music and consent of the graduate adviser; for 698B, Music 698A.",
+"prereqText": "For 698A, graduate standing in music and consent of the graduate adviser; for 698B, Music 698A.",
+"prereq": {
+"type": "course",
+"id": "MUS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 698A",
+"subject": "MUS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in music and consent of the graduate adviser; for 698B, Music 698A.",
+"prereqText": "For 698A, graduate standing in music and consent of the graduate adviser; for 698B, Music 698A.",
+"prereq": {
+"type": "course",
+"id": "MUS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 698B",
+"subject": "MUS",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in music and consent of the graduate adviser; for 698B, Music 698A.",
+"prereqText": "For 698A, graduate standing in music and consent of the graduate adviser; for 698B, Music 698A.",
+"prereq": {
+"type": "course",
+"id": "MUS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 398D",
+"subject": "MUS",
+"number": "398D",
+"title": "Artist Recital",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation for and performance of a recital. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing, Performance 480 with a grade of at least B, and consent of the graduate adviser.",
+"prereqText": "Graduate standing, Performance 480 with a grade of at least B, and consent of the graduate adviser.",
+"prereq": {
+"type": "course",
+"id": "PRF 480",
+"minGrade": "B"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 398M",
+"subject": "MUS",
+"number": "398M",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in music and consent of the graduate adviser.",
+"prereqText": "Graduate standing in music and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 698R",
+"subject": "MUS",
+"number": "698R",
+"title": "Master's Recital",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698RA, graduate standing in performance or music literature and pedagogy, and course 380 or 480 in the appropriate instrument; for 698RB, Music 698RA.",
+"prereqText": "For 698RA, graduate standing in performance or music literature and pedagogy, and course 380 or 480 in the appropriate instrument; for 698RB, Music 698RA.",
+"prereq": {
+"type": "course",
+"id": "MUS 698RA"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 698RA",
+"subject": "MUS",
+"number": "698RA",
+"title": "Master's Recital",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698RA, graduate standing in performance or music literature and pedagogy, and course 380 or 480 in the appropriate instrument; for 698RB, Music 698RA.",
+"prereqText": "For 698RA, graduate standing in performance or music literature and pedagogy, and course 380 or 480 in the appropriate instrument; for 698RB, Music 698RA.",
+"prereq": {
+"type": "course",
+"id": "MUS 698RA"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 698RB",
+"subject": "MUS",
+"number": "698RB",
+"title": "Master's Recital",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698RA, graduate standing in performance or music literature and pedagogy, and course 380 or 480 in the appropriate instrument; for 698RB, Music 698RA.",
+"prereqText": "For 698RA, graduate standing in performance or music literature and pedagogy, and course 380 or 480 in the appropriate instrument; for 698RB, Music 698RA.",
+"prereq": {
+"type": "course",
+"id": "MUS 698RA"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 398T",
+"subject": "MUS",
+"number": "398T",
+"title": "Supervised Teaching in Music",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised teaching for graduate students in music; two semesters under supervision; weekly meetings with instructor, consultations, reports throughout the teaching period. Three lecture hours a week for one semester. Prerequisite: Graduate standing and appointment as a teaching assistant.",
+"prereqText": "Graduate standing and appointment as a teaching assistant.",
+"prereqConfidence": "none"
+},
+{
+"id": "MUS 399",
+"subject": "MUS",
+"number": "399",
+"title": "Treatise",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree. Author a substantial research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 699",
+"subject": "MUS",
+"number": "699",
+"title": "Treatise",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree. Author a substantial research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 999",
+"subject": "MUS",
+"number": "999",
+"title": "Treatise",
+"hours": 9.0,
+"division": "graduate",
+"description": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree. Author a substantial research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 699A",
+"subject": "MUS",
+"number": "699A",
+"title": "Treatise",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree. Author a substantial research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 699B",
+"subject": "MUS",
+"number": "699B",
+"title": "Treatise",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree. Author a substantial research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree, admission to candidacy, and approval by the Graduate Academic Affairs Committee.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students approved to pursue the treatise option for the Doctoral of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 399N",
+"subject": "MUS",
+"number": "399N",
+"title": "Nontreatise Lecture Recital Document",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree. Author a research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 699N",
+"subject": "MUS",
+"number": "699N",
+"title": "Nontreatise Lecture Recital Document",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree. Author a research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 999N",
+"subject": "MUS",
+"number": "999N",
+"title": "Nontreatise Lecture Recital Document",
+"hours": 9.0,
+"division": "graduate",
+"description": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree. Author a research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 699NA",
+"subject": "MUS",
+"number": "699NA",
+"title": "Nontreatise Lecture Recital Document",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree. Author a research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 699NB",
+"subject": "MUS",
+"number": "699NB",
+"title": "Nontreatise Lecture Recital Document",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree. Author a research paper of a scholarly nature and perform associated post-candidacy doctoral recitals. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqText": "Passage of preliminary and comprehensive examinations for the Doctor of Musical Arts degree and admission to candidacy.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students pursuing the nontreatise option for the Doctor of Musical Arts degree.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 399W",
+"subject": "MUS",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 699W",
+"subject": "MUS",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 999W",
+"subject": "MUS",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 699WA",
+"subject": "MUS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MUS 699WB",
+"subject": "MUS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

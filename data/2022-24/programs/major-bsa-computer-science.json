@@ -1,0 +1,138 @@
+{
+ "id": "2022-24/major/bsa-computer-science",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "Computer Science",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cns-college"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Mathematics: Mathematics 408C or 408N and 408S",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 408C"
+     },
+     {
+      "type": "course",
+      "course": "M 408N"
+     },
+     {
+      "type": "course",
+      "course": "M 408S"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
+     "quote": "Mathematics: Mathematics 408C or 408N and 408S"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Mathematics 340L or Statistics and Data Sciences 329C. Mathematics 341 may substitute for ",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 340L"
+     },
+     {
+      "type": "course",
+      "course": "SDS 329C"
+     },
+     {
+      "type": "course",
+      "course": "M 341"
+     },
+     {
+      "type": "course",
+      "course": "M 340L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
+     "quote": "Mathematics 340L or Statistics and Data Sciences 329C. Mathematics 341 may substitute for 340L."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Statistics and Data Sciences 321. Mathematics 362K may substitute for this requirement.",
+    "title": "Statistics and Data Sciences 321. Mathematics 362K may substitute for this requi",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
+     "quote": "Statistics and Data Sciences 321. Mathematics 362K may substitute for this requirement."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Primary science: Theory: Computer Science 311 or 311H, and 331 or 331H",
+    "title": "Primary science: Theory: Computer Science 311 or 311H, and 331 or 331H",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
+     "quote": "Primary science: Theory: Computer Science 311 or 311H, and 331 or 331H"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Programming: Computer Science 312 and 314 or 314H",
+    "title": "Programming: Computer Science 312 and 314 or 314H",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
+     "quote": "Programming: Computer Science 312 and 314 or 314H"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Systems: Computer Science 429 or 429H, and 439 or 439H",
+    "title": "Systems: Computer Science 429 or 429H, and 439 or 439H",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
+     "quote": "Systems: Computer Science 429 or 429H, and 439 or 439H"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Twelve additional semester hours of approved upper-division computer science",
+    "title": "Twelve additional semester hours of approved upper-division computer science",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
+     "quote": "Twelve additional semester hours of approved upper-division computer science"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "At least 17 hours of computer science upper-division coursework must be completed in residence.",
+    "title": "At least 17 hours of computer science upper-division coursework must be complete",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
+     "quote": "At least 17 hours of computer science upper-division coursework must be completed in residence."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "An undergraduate may not enroll in any computer science course more than once without written consent of an undergraduate advisor in computer science. No student may enroll in any computer science course more than twice. No student may take more than three upper-division computer science courses in a semester without written consent of an undergraduate advisor in computer science. All transfer coursework must be approved by faculty before it can count towards a computer science degree, except where equivalency is specified by state regulation.",
+    "title": "An undergraduate may not enroll in any computer science course more than once wi",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
+     "quote": "An undergraduate may not enroll in any computer science course more than once without written consent of an undergraduate advisor in computer science. No student may enroll in any computer science cou"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BSA",
+ "majorSubjects": [
+  "M"
+ ]
+}

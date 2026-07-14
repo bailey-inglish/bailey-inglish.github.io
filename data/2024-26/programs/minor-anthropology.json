@@ -1,0 +1,52 @@
+{
+ "id": "2024-26/minor/anthropology",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Anthropology",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Anthropology Minor",
+  "of": [
+   {
+    "type": "anyN",
+    "n": 2,
+    "title": "Two of the following courses:",
+    "of": [
+     {
+      "type": "course",
+      "course": "ANT 301"
+     },
+     {
+      "type": "course",
+      "course": "ANT 302"
+     },
+     {
+      "type": "course",
+      "course": "ANT 304"
+     },
+     {
+      "type": "course",
+      "course": "ANT 307"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Two of the following courses:"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Nine additional hours upper-division anthropology",
+    "title": "Nine additional hours upper-division anthropology",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Nine additional hours upper-division anthropology"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

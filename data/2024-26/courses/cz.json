@@ -1,0 +1,601 @@
+{
+"code": "CZ",
+"name": "Czech",
+"courses": [
+{
+"id": "CZ 601C",
+"subject": "CZ",
+"number": "601C",
+"title": "Intensive Czech I",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Czech. Emphasis on developing oral proficiency in Czech using intensive methods of instruction. Six lecture hours a week for one semester. Only one of the following may be counted: Czech 601C, 406, 506. Only one of the following may be counted: Czech 601C, 407, 507."
+},
+{
+"id": "CZ 601CA",
+"subject": "CZ",
+"number": "601CA",
+"title": "Intensive Czech I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Czech. Emphasis on developing oral proficiency in Czech using intensive methods of instruction. Six lecture hours a week for one semester. Only one of the following may be counted: Czech 601C, 406, 506. Only one of the following may be counted: Czech 601C, 407, 507."
+},
+{
+"id": "CZ 601CB",
+"subject": "CZ",
+"number": "601CB",
+"title": "Intensive Czech I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Czech. Emphasis on developing oral proficiency in Czech using intensive methods of instruction. Six lecture hours a week for one semester. Only one of the following may be counted: Czech 601C, 406, 506. Only one of the following may be counted: Czech 601C, 407, 507."
+},
+{
+"id": "CZ 406",
+"subject": "CZ",
+"number": "406",
+"title": "First-Year Czech I",
+"hours": 4.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency: listening, speaking, reading, and writing. For each semester hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: Czech 601C, 406, 506."
+},
+{
+"id": "CZ 506",
+"subject": "CZ",
+"number": "506",
+"title": "First-Year Czech I",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency: listening, speaking, reading, and writing. For each semester hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: Czech 601C, 406, 506."
+},
+{
+"id": "CZ 407",
+"subject": "CZ",
+"number": "407",
+"title": "First-Year Czech II",
+"hours": 4.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency: listening, speaking, reading, and writing. For each semester hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: Czech 601C, 407, 507. Prerequisite: Czech 406 or 506.",
+"prereqText": "Czech 406 or 506.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CZ 406"
+},
+{
+"type": "course",
+"id": "CZ 506"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 507",
+"subject": "CZ",
+"number": "507",
+"title": "First-Year Czech II",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency: listening, speaking, reading, and writing. For each semester hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: Czech 601C, 407, 507. Prerequisite: Czech 406 or 506.",
+"prereqText": "Czech 406 or 506.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CZ 406"
+},
+{
+"type": "course",
+"id": "CZ 506"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 611C",
+"subject": "CZ",
+"number": "611C",
+"title": "Intensive Czech II",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Czech. Continuing intensive development of proficiency in Czech, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Czech 611C and 312K, 412K may not both be counted. Czech 611C and 312L, 412L may not both be counted. Prerequisite: Czech 601C or 507.",
+"prereqText": "Czech 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CZ 601C"
+},
+{
+"type": "course",
+"id": "CZ 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 611CA",
+"subject": "CZ",
+"number": "611CA",
+"title": "Intensive Czech II",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Czech. Continuing intensive development of proficiency in Czech, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Czech 611C and 312K, 412K may not both be counted. Czech 611C and 312L, 412L may not both be counted. Prerequisite: Czech 601C or 507.",
+"prereqText": "Czech 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CZ 601C"
+},
+{
+"type": "course",
+"id": "CZ 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 611CB",
+"subject": "CZ",
+"number": "611CB",
+"title": "Intensive Czech II",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Czech. Continuing intensive development of proficiency in Czech, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Czech 611C and 312K, 412K may not both be counted. Czech 611C and 312L, 412L may not both be counted. Prerequisite: Czech 601C or 507.",
+"prereqText": "Czech 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CZ 601C"
+},
+{
+"type": "course",
+"id": "CZ 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 312K",
+"subject": "CZ",
+"number": "312K",
+"title": "Second-Year Czech I",
+"hours": 3.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the second-year level. For each semester hour of credit earned, one lecture hour a week for one semester. Czech 611C and 312K, 412K may not both be counted. Prerequisite: Czech 601C or 507.",
+"prereqText": "Czech 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CZ 601C"
+},
+{
+"type": "course",
+"id": "CZ 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 412K",
+"subject": "CZ",
+"number": "412K",
+"title": "Second-Year Czech I",
+"hours": 4.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the second-year level. For each semester hour of credit earned, one lecture hour a week for one semester. Czech 611C and 312K, 412K may not both be counted. Prerequisite: Czech 601C or 507.",
+"prereqText": "Czech 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CZ 601C"
+},
+{
+"type": "course",
+"id": "CZ 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 312L",
+"subject": "CZ",
+"number": "312L",
+"title": "Second-Year Czech II",
+"hours": 3.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the advanced, second-year level. For each semester hour of credit earned, one lecture hour a week for one semester. Czech 611C and 312L, 412L may not both be counted. Prerequisite: Czech 312K or 412K.",
+"prereqText": "Czech 312K or 412K.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CZ 312K"
+},
+{
+"type": "course",
+"id": "CZ 412K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 412L",
+"subject": "CZ",
+"number": "412L",
+"title": "Second-Year Czech II",
+"hours": 4.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the advanced, second-year level. For each semester hour of credit earned, one lecture hour a week for one semester. Czech 611C and 312L, 412L may not both be counted. Prerequisite: Czech 312K or 412K.",
+"prereqText": "Czech 312K or 412K.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CZ 312K"
+},
+{
+"type": "course",
+"id": "CZ 412K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 119S",
+"subject": "CZ",
+"number": "119S",
+"title": "Topics in Czech",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 219S",
+"subject": "CZ",
+"number": "219S",
+"title": "Topics in Czech",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 319S",
+"subject": "CZ",
+"number": "319S",
+"title": "Topics in Czech",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 419S",
+"subject": "CZ",
+"number": "419S",
+"title": "Topics in Czech",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 519S",
+"subject": "CZ",
+"number": "519S",
+"title": "Topics in Czech",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 619S",
+"subject": "CZ",
+"number": "619S",
+"title": "Topics in Czech",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 719S",
+"subject": "CZ",
+"number": "719S",
+"title": "Topics in Czech",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 819S",
+"subject": "CZ",
+"number": "819S",
+"title": "Topics in Czech",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 919S",
+"subject": "CZ",
+"number": "919S",
+"title": "Topics in Czech",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 619SA",
+"subject": "CZ",
+"number": "619SA",
+"title": "Topics in Czech",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 619SB",
+"subject": "CZ",
+"number": "619SB",
+"title": "Topics in Czech",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 325",
+"subject": "CZ",
+"number": "325",
+"title": "Third-Year Czech I",
+"hours": 3.0,
+"division": "upper",
+"description": "Oral expression, reading, and composition. Three lecture hours a week for one semester. Prerequisite: Czech 611C or 312L or 412L.",
+"prereqText": "Czech 611C or 312L or 412L.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "CZ 611C"
+},
+{
+"type": "course",
+"id": "CZ 312L"
+},
+{
+"type": "course",
+"id": "CZ 412L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 326",
+"subject": "CZ",
+"number": "326",
+"title": "Third-Year Czech II",
+"hours": 3.0,
+"division": "upper",
+"description": "Continuation of Czech 325: Oral expression, reading, and composition. Three lecture hours a week for one semester. Prerequisite: Czech 325.",
+"prereqText": "Czech 325.",
+"prereq": {
+"type": "course",
+"id": "CZ 325"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 328",
+"subject": "CZ",
+"number": "328",
+"title": "Topics in Advanced Czech",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Czech 326.",
+"prereqText": "Czech 326.",
+"prereq": {
+"type": "course",
+"id": "CZ 326"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 129S",
+"subject": "CZ",
+"number": "129S",
+"title": "Topics in Czech",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 229S",
+"subject": "CZ",
+"number": "229S",
+"title": "Topics in Czech",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 329S",
+"subject": "CZ",
+"number": "329S",
+"title": "Topics in Czech",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 429S",
+"subject": "CZ",
+"number": "429S",
+"title": "Topics in Czech",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 529S",
+"subject": "CZ",
+"number": "529S",
+"title": "Topics in Czech",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 629S",
+"subject": "CZ",
+"number": "629S",
+"title": "Topics in Czech",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 729S",
+"subject": "CZ",
+"number": "729S",
+"title": "Topics in Czech",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 829S",
+"subject": "CZ",
+"number": "829S",
+"title": "Topics in Czech",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 929S",
+"subject": "CZ",
+"number": "929S",
+"title": "Topics in Czech",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 629SA",
+"subject": "CZ",
+"number": "629SA",
+"title": "Topics in Czech",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 629SB",
+"subject": "CZ",
+"number": "629SB",
+"title": "Topics in Czech",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "CZ 379",
+"subject": "CZ",
+"number": "379",
+"title": "Conference Course in Czech Language or Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit. Prerequisite: Six semester hours of upper-division coursework in Czech, or upper-division standing and consent of instructor.",
+"prereqText": "Six semester hours of upper-division coursework in Czech, or upper-division standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CZ 679H",
+"subject": "CZ",
+"number": "679H",
+"title": "Honors Tutorial Course",
+"hours": 6.0,
+"division": "upper",
+"description": "Supervised individual research on a literary honors paper of some length. Conference course for two semesters. Must be taken for special honors in addition to the major requirement. Prerequisite: For 679HA, upper-division standing, a University grade point average of at least 3.00, and a grade point average in Czech of at least 3.50; for 679HB, Czech 679HA.",
+"prereqText": "For 679HA, upper-division standing, a University grade point average of at least 3.00, and a grade point average in Czech of at least 3.50; for 679HB, Czech 679HA.",
+"prereq": {
+"type": "course",
+"id": "CZ 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 679HA",
+"subject": "CZ",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on a literary honors paper of some length. Conference course for two semesters. Must be taken for special honors in addition to the major requirement. Prerequisite: For 679HA, upper-division standing, a University grade point average of at least 3.00, and a grade point average in Czech of at least 3.50; for 679HB, Czech 679HA.",
+"prereqText": "For 679HA, upper-division standing, a University grade point average of at least 3.00, and a grade point average in Czech of at least 3.50; for 679HB, Czech 679HA.",
+"prereq": {
+"type": "course",
+"id": "CZ 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 679HB",
+"subject": "CZ",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on a literary honors paper of some length. Conference course for two semesters. Must be taken for special honors in addition to the major requirement. Prerequisite: For 679HA, upper-division standing, a University grade point average of at least 3.00, and a grade point average in Czech of at least 3.50; for 679HB, Czech 679HA.",
+"prereqText": "For 679HA, upper-division standing, a University grade point average of at least 3.00, and a grade point average in Czech of at least 3.50; for 679HB, Czech 679HA.",
+"prereq": {
+"type": "course",
+"id": "CZ 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "CZ 392",
+"subject": "CZ",
+"number": "392",
+"title": "Topics in Czech Language",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics may include Czech linguistics, pedagogy, and comparative language study. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "CZ 395",
+"subject": "CZ",
+"number": "395",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "graduate",
+"description": "Survey of Czech literature, language, culture, linguistics, history, and politics. Individual instruction. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+}
+]
+}

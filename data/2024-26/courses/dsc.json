@@ -1,0 +1,210 @@
+{
+"code": "DSC",
+"name": "Data Science",
+"courses": [
+{
+"id": "DSC 381",
+"subject": "DSC",
+"number": "381",
+"title": "Probability and Simulation-Based Inference for Data Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to inference, through the simulation process. Explore probability, exponential families, conditional probabilities and Bayes theorem, inference and Maximum Likelihood estimation, confidence intervals, and hypothesis testing (emphasis on simulation). The equivalent of three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "DSC 382",
+"subject": "DSC",
+"number": "382",
+"title": "Foundations of Regression and Predictive Modeling",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to the basics of regression-based modeling. Explore simple and multiple regression, interpretation of models and coefficients, prediction and estimates, regularization processes, and generalized linear models. The equivalent of three lecture hours a week for one semester. Prerequisite: Graduate standing and Data Science 381.",
+"prereqText": "Graduate standing and Data Science 381.",
+"prereq": {
+"type": "course",
+"id": "DSC 381"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "DSC 383",
+"subject": "DSC",
+"number": "383",
+"title": "Advanced Predictive Models for Complex Data",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore advanced techniques used in practice for regression-based models. Examine time series and longitudinal data, repeated and mixed models, spatially correlated data, and Random Forest models. The equivalent of three lecture hours a week for one semester. Prerequisite: Graduate standing; Data Science 382 and 388G.",
+"prereqText": "Graduate standing; Data Science 382 and 388G.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "DSC 382"
+},
+{
+"type": "course",
+"id": "DSC 388G"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "DSC 384",
+"subject": "DSC",
+"number": "384",
+"title": "Design Principles and Causal Inference",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore the field of \"big data\" and the rigors of determining applicable design structures from that data. Examine classic design structures, non-typical data structures and novel design processes, and causal inference, and explore data-based decision making. The equivalent of three lecture hours a week for one semester. Prerequisite: Graduate standing and Data Science 381.",
+"prereqText": "Graduate standing and Data Science 381.",
+"prereq": {
+"type": "course",
+"id": "DSC 381"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "DSC 385",
+"subject": "DSC",
+"number": "385",
+"title": "Data Exploration, Visualization, and Foundations of Unsupervised Learning",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine visualization techniques used in practice to discover insights about data. Explore data quality and relevance, data ethics and providence, clustering, dimension reduction, and reproducibility. The equivalent of three lecture hours a week for one semester. Prerequisite: Graduate standing and Data Science 388G.",
+"prereqText": "Graduate standing and Data Science 388G.",
+"prereq": {
+"type": "course",
+"id": "DSC 388G"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "DSC 387",
+"subject": "DSC",
+"number": "387",
+"title": "Topics in Statistics for Data Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore topics in data science with a general overview of statistics theory and application. The equivalent of three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "DSC 388",
+"subject": "DSC",
+"number": "388",
+"title": "Natural Language Processing",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore computational methods for syntactic and semantic analysis of structures representing meanings of natural language, the study of current natural language processing systems, and methods for computing outlines and discourse structures of descriptive text. Three lecture hours a week for one semester. Only one of the following may be counted: Artificial Intelligence 388, Computer Science 388, Data Science 388, 395T (Topic: Natural Language Processing). Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "DSC 388G",
+"subject": "DSC",
+"number": "388G",
+"title": "Algorithms: Techniques and Theory",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore algorithm design and analysis including algorithmic paradigms, maximum flow, randomized algorithms, data structures, NP-completeness and approximation algorithms. The equivalent of three lecture hours a week for one semester. Data Science 388G and Computer Science 388G may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "DSC 388J",
+"subject": "DSC",
+"number": "388J",
+"title": "Optimization",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore a background on convex sets and functions, linear programming, convex programming, and iterative first-order and second-order methods. The equivalent of three lecture hours a week for one semester. Data Science 388J and 395T (Topic: Optimization) may not both be counted. Prerequisite: Graduate standing and Data Science 388G.",
+"prereqText": "Graduate standing and Data Science 388G.",
+"prereq": {
+"type": "course",
+"id": "DSC 388G"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "DSC 389",
+"subject": "DSC",
+"number": "389",
+"title": "Data Structures",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine programming skills, including testing, debugging, and the basics of programming methodology. Explore fundamental concepts in data structures and algorithms. The equivalent of three lecture hours a week for one semester. Data Sciences 389 and 395T (Topic: Data Structures) may not both be counted. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "DSC 391L",
+"subject": "DSC",
+"number": "391L",
+"title": "Principles of Machine Learning",
+"hours": 3.0,
+"division": "graduate",
+"description": "Examine computing systems that automatically improve their performance with experience, including various approaches to inductive classification such as version space, decision tree, rule-based, neural network, Bayesian, and instance-based methods; as well as computational learning theory, explanation-based learning, and knowledge refinement. The equivalent of three lecture hours a week for one semester. Only one of the following may be counted: Artificial Intelligence 391L, Computer Science 391L, Data Science 391L. Prerequisite: Graduate standing and Data Science 382.",
+"prereqText": "Graduate standing and Data Science 382.",
+"prereq": {
+"type": "course",
+"id": "DSC 382"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "DSC 394D",
+"subject": "DSC",
+"number": "394D",
+"title": "Deep Learning",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore the basic building blocks and intuitions behind designing, training, tuning, and monitoring of deep networks. Examine both the theory of deep learning, as well as hands-on implementation sessions in pytorch. Explore a series of application areas of deep networks in: computer vision, sequence modeling in natural language processing, deep reinforcement learning, generative modeling, and adversarial learning. The equivalent of three lecture hours a week for one semester. Only one of the following may be counted: Artificial Intelligence 394D, Computer Science 394D, Data Science 394D, 395T (Topic: Deep Learning). Prerequisite: Data Science 381 and 382.",
+"prereqText": "Data Science 381 and 382.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "DSC 381"
+},
+{
+"type": "course",
+"id": "DSC 382"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "DSC 394R",
+"subject": "DSC",
+"number": "394R",
+"title": "Reinforcement Learning",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introduction to the theory and practice of modern reinforcement learning, with emphasis on temporal difference learning algorithms. The equivalent of three lecture hours a week for one semester. Only one of the following may be counted: Artificial Intelligence 394R, Computer Science 394R, Data Science 394R, 395T (Topic: Reinforcement Learning). Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "DSC 395T",
+"subject": "DSC",
+"number": "395T",
+"title": "Topics in Computer Science for Data Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "Explore topics in data science with a general overview of computer science application. The equivalent of three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and Data Science 381.",
+"prereqText": "Graduate standing and Data Science 381.",
+"prereq": {
+"type": "course",
+"id": "DSC 381"
+},
+"prereqConfidence": "high"
+}
+]
+}

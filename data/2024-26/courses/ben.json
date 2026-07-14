@@ -1,0 +1,315 @@
+{
+"code": "BEN",
+"name": "Bengali",
+"courses": [
+{
+"id": "BEN 506",
+"subject": "BEN",
+"number": "506",
+"title": "First-Year Bengali I",
+"hours": 5.0,
+"division": "lower",
+"description": "Not open to native speakers of Bengali. Five class hours a week for one semester."
+},
+{
+"id": "BEN 507",
+"subject": "BEN",
+"number": "507",
+"title": "First-Year Bengali II",
+"hours": 5.0,
+"division": "lower",
+"description": "Not open to native speakers of Bengali. Continuation of Bengali 506. Five class hours a week for one semester. Prerequisite: Bengali 506 with a grade of at least C.",
+"prereqText": "Bengali 506 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "BEN 506",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "BEN 312K",
+"subject": "BEN",
+"number": "312K",
+"title": "Second-Year Bengali I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native speakers of Bengali. Three class hours a week for one semester. Prerequisite: Bengali 507 with a grade of at least C.",
+"prereqText": "Bengali 507 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "BEN 507",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "BEN 312L",
+"subject": "BEN",
+"number": "312L",
+"title": "Second-Year Bengali II",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native speakers of Bengali. Continuation of Bengali 312K. Three class hours a week for one semester. Prerequisite: Bengali 312K with a grade of at least C.",
+"prereqText": "Bengali 312K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "BEN 312K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "BEN 119S",
+"subject": "BEN",
+"number": "119S",
+"title": "Topics in Bengali",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 219S",
+"subject": "BEN",
+"number": "219S",
+"title": "Topics in Bengali",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 319S",
+"subject": "BEN",
+"number": "319S",
+"title": "Topics in Bengali",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 419S",
+"subject": "BEN",
+"number": "419S",
+"title": "Topics in Bengali",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 519S",
+"subject": "BEN",
+"number": "519S",
+"title": "Topics in Bengali",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 619S",
+"subject": "BEN",
+"number": "619S",
+"title": "Topics in Bengali",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 719S",
+"subject": "BEN",
+"number": "719S",
+"title": "Topics in Bengali",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 819S",
+"subject": "BEN",
+"number": "819S",
+"title": "Topics in Bengali",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 919S",
+"subject": "BEN",
+"number": "919S",
+"title": "Topics in Bengali",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 619SA",
+"subject": "BEN",
+"number": "619SA",
+"title": "Topics in Bengali",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 619SB",
+"subject": "BEN",
+"number": "619SB",
+"title": "Topics in Bengali",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 320K",
+"subject": "BEN",
+"number": "320K",
+"title": "Advanced Bengali I",
+"hours": 3.0,
+"division": "upper",
+"description": "Not open to native speakers of Bengali. Three class hours a week for one semester. Prerequisite: Bengali 312L with a grade of at least C.",
+"prereqText": "Bengali 312L with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "BEN 312L",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "BEN 320L",
+"subject": "BEN",
+"number": "320L",
+"title": "Advanced Bengali II",
+"hours": 3.0,
+"division": "upper",
+"description": "Not open to native speakers of Bengali. Continuation of Bengali 320K. Three class hours a week for one semester. Prerequisite: Bengali 320K with a grade of at least C.",
+"prereqText": "Bengali 320K with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "BEN 320K",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "BEN 129S",
+"subject": "BEN",
+"number": "129S",
+"title": "Topics in Bengali",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 229S",
+"subject": "BEN",
+"number": "229S",
+"title": "Topics in Bengali",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 329S",
+"subject": "BEN",
+"number": "329S",
+"title": "Topics in Bengali",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 429S",
+"subject": "BEN",
+"number": "429S",
+"title": "Topics in Bengali",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 529S",
+"subject": "BEN",
+"number": "529S",
+"title": "Topics in Bengali",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 629S",
+"subject": "BEN",
+"number": "629S",
+"title": "Topics in Bengali",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 729S",
+"subject": "BEN",
+"number": "729S",
+"title": "Topics in Bengali",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 829S",
+"subject": "BEN",
+"number": "829S",
+"title": "Topics in Bengali",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 929S",
+"subject": "BEN",
+"number": "929S",
+"title": "Topics in Bengali",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 629SA",
+"subject": "BEN",
+"number": "629SA",
+"title": "Topics in Bengali",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 629SB",
+"subject": "BEN",
+"number": "629SB",
+"title": "Topics in Bengali",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Asian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "BEN 360",
+"subject": "BEN",
+"number": "360",
+"title": "Conference Course in Bengali Language and Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual study of selected problems in Bengali language and literature. Conference course. May be repeated for credit. Prerequisite: Upper-division standing and written consent of instructor on form obtained from the undergraduate adviser.",
+"prereqText": "Upper-division standing and written consent of instructor on form obtained from the undergraduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "BEN 381",
+"subject": "BEN",
+"number": "381",
+"title": "Conference Course in Bengali Language and Culture",
+"hours": 3.0,
+"division": "graduate",
+"description": "Supervised individual study in Bengali language or culture. The equivalent of 3 lecture hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and written consent of instructor on form obtained from the graduate coordinator.",
+"prereqText": "Graduate standing and written consent of instructor on form obtained from the graduate coordinator.",
+"prereqConfidence": "none"
+}
+]
+}

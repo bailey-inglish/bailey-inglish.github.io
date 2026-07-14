@@ -1,0 +1,1286 @@
+{
+"code": "NTR",
+"name": "Nutrition",
+"courses": [
+{
+"id": "NTR 306",
+"subject": "NTR",
+"number": "306",
+"title": "Fundamentals of Nutrition",
+"hours": 3.0,
+"division": "lower",
+"description": "Essential food components and their functions in life processes. Three lecture hours a week for one semester. Only one of the following may be counted: Nutrition 306, 312, 312H. Nutrition 306 may not be counted toward a nutritional sciences degree.",
+"tccn": "BIOL 1322, HECO 1322"
+},
+{
+"id": "NTR 307",
+"subject": "NTR",
+"number": "307",
+"title": "Introductory Food Science",
+"hours": 3.0,
+"division": "lower",
+"description": "Application of the principles of food chemistry to processing and preparation techniques. Three lecture hours a week for one semester. Prerequisite: For nutrition majors: Nutrition 312 or 312H with a grade of at least C-, and credit or registration for 107L; for others: Nutrition 306, 312, or 312H with a grade of at least C-.",
+"prereqText": "For nutrition majors: Nutrition 312 or 312H with a grade of at least C-, and credit or registration for 107L; for others: Nutrition 306, 312, or 312H with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 107L",
+"subject": "NTR",
+"number": "107L",
+"title": "Introductory Food Science Laboratory",
+"hours": 1.0,
+"division": "lower",
+"description": "Three laboratory hours a week for one semester. Prerequisite: Credit or registration for Nutrition 307.",
+"prereqText": "Credit or registration for Nutrition 307.",
+"prereq": {
+"type": "course",
+"id": "NTR 307"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 312",
+"subject": "NTR",
+"number": "312",
+"title": "Introduction to Nutritional Sciences",
+"hours": 3.0,
+"division": "lower",
+"description": "Biochemical, physiological, and cellular functions of energy macronutrients, vitamins and minerals, and the scientific basis for current dietary and nutrient recommendations. Designed for science majors. Three lecture hours a week for one semester. Only one of the following may be counted: Nutrition 306, 312, 312H. Prerequisite: Chemistry 301 with a grade of at least C-; credit or registration for Statistics and Data Sciences 302F or 320E, Biology 311C, and Chemistry 302.",
+"prereqText": "Chemistry 301 with a grade of at least C-; credit or registration for Statistics and Data Sciences 302F or 320E, Biology 311C, and Chemistry 302.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 312H",
+"subject": "NTR",
+"number": "312H",
+"title": "Introduction to Nutritional Sciences: Honors",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to honors eligible majors in nutritional sciences, biology, biochemistry, and students in the Dean's Scholars Honors Program. Biochemical, molecular, and cellular functions of nutrients with emphasis on primary scientific literature and current methodology. Three lecture hours a week for one semester. Only one of the following may be counted: Nutrition 306, 311, 312, 312H. Prerequisite: The following coursework with a grade of at least C- in each: Chemistry 301; and Mathematics 408C or 408n, or the equivalent; and credit or registration for Biology 311C or 315H, and Chemistry 302.",
+"prereqText": "The following coursework with a grade of at least C- in each: Chemistry 301; and Mathematics 408C or 408n, or the equivalent; and credit or registration for Biology 311C or 315H, and Chemistry 302.",
+"prereqConfidence": "low",
+"restricted": "Restricted to honors eligible majors in nutritional sciences, biology, biochemistry, and students in the Dean's Scholars Honors Program."
+},
+{
+"id": "NTR 112L",
+"subject": "NTR",
+"number": "112L",
+"title": "Introduction to Nutritional Science Laboratory",
+"hours": 1.0,
+"division": "lower",
+"description": "Collection and evaluation of dietary intake data, nutrient composition of food, and survey of dietetic practice. Three laboratory hours a week for one semester. Prerequisite: Chemistry 301 with a grade of at least C-; credit or registration for Biology 311C, Chemistry 302, and Nutrition 312; and one of the following with a grade of at least C-: Mathematics 408C, 408D, 408N, Statistics and Data Sciences 302, 304, 306, 325H, 328M.",
+"prereqText": "Chemistry 301 with a grade of at least C-; credit or registration for Biology 311C, Chemistry 302, and Nutrition 312; and one of the following with a grade of at least C-: Mathematics 408C, 408D, 408N, Statistics and Data Sciences 302, 304, 306, 325H, 328M.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 312R",
+"subject": "NTR",
+"number": "312R",
+"title": "Research in Nutritional Sciences",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to honors eligible majors in nutritional sciences, biology, biochemistry, and students in the Dean's Scholars Honors Program. Introduction to biochemical and molecular biological techniques, enzyme and coenzyme assays, dietary analysis and assessment protocols, and statistical methods in nutritional sciences. Preparation of a scholarly paper and oral presentation of research findings. One lecture hour and six laboratory hours a week for one semester. Nutrition 112L and 312R may not both be counted. Prerequisite: The following coursework with a grade of at least C- in each: Chemistry 301; and Mathematics 408C or 408N, or the equivalent; and credit or registration for Biology 311C or 315H, Chemistry 302, and Nutrition 312H.",
+"prereqText": "The following coursework with a grade of at least C- in each: Chemistry 301; and Mathematics 408C or 408N, or the equivalent; and credit or registration for Biology 311C or 315H, Chemistry 302, and Nutrition 312H.",
+"prereqConfidence": "low",
+"restricted": "Restricted to honors eligible majors in nutritional sciences, biology, biochemistry, and students in the Dean's Scholars Honors Program."
+},
+{
+"id": "NTR 315",
+"subject": "NTR",
+"number": "315",
+"title": "Nutrition through the Life Cycle",
+"hours": 3.0,
+"division": "lower",
+"description": "Adapting nutrition recommendations to physiological changes throughout the life span. Three lecture hours a week for one semester. Prerequisite: Nutrition 306, 312, or 312H with a grade of at least C-.",
+"prereqText": "Nutrition 306, 312, or 312H with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 316",
+"subject": "NTR",
+"number": "316",
+"title": "Culture and Food",
+"hours": 3.0,
+"division": "lower",
+"description": "Influence of culture on foodways around the world. Three lecture hours a week for one semester. Prerequisite: Nutrition 306, 312, or 312H with a grade of at least C-.",
+"prereqText": "Nutrition 306, 312, or 312H with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 317L",
+"subject": "NTR",
+"number": "317L",
+"title": "Introduction to Nutrition Assessment and Education",
+"hours": 3.0,
+"division": "lower",
+"description": "Explore the fundamentals of nutrition assessment, nutrition education, and behavior change theories as well as their application to the care of individuals and groups in community and clinical settings. Analyze the use of anthropometric, biochemical, clinical, and dietary intake data assessments for effective care of individuals. Identify strategies for successful development and implementation of nutrition education planning using behavior change theory as the guide for development. Two lecture hours and four laboratory hours a week for one semester. Prerequisite: Nutrition 312 with at least a grade of C-.",
+"prereqText": "Nutrition 312 with at least a grade of C-.",
+"prereq": {
+"type": "course",
+"id": "NTR 312"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 218",
+"subject": "NTR",
+"number": "218",
+"title": "Assessment of Nutritional Status",
+"hours": 2.0,
+"division": "lower",
+"description": "Assessment of nutritional status using anthropometric, biochemical, clinical, and dietary intake data, and development and implementation of effective care for individuals. Two lecture hours a week for one semester. Prerequisite: Nutrition 312 with a grade of at least C-; and credit or registration for Nutrition 118L",
+"prereqText": "Nutrition 312 with a grade of at least C-; and credit or registration for Nutrition 118L.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 118L",
+"subject": "NTR",
+"number": "118L",
+"title": "Assessment of Nutritional Status Laboratory",
+"hours": 1.0,
+"division": "lower",
+"description": "Three laboratory hours a week for one semester. Prerequisite: Credit or registration for Nutrition 218.",
+"prereqText": "Credit or registration for Nutrition 218.",
+"prereq": {
+"type": "course",
+"id": "NTR 218"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 119S",
+"subject": "NTR",
+"number": "119S",
+"title": "Topics in Nutrition",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 219S",
+"subject": "NTR",
+"number": "219S",
+"title": "Topics in Nutrition",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 319S",
+"subject": "NTR",
+"number": "319S",
+"title": "Topics in Nutrition",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 419S",
+"subject": "NTR",
+"number": "419S",
+"title": "Topics in Nutrition",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 519S",
+"subject": "NTR",
+"number": "519S",
+"title": "Topics in Nutrition",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 619S",
+"subject": "NTR",
+"number": "619S",
+"title": "Topics in Nutrition",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 719S",
+"subject": "NTR",
+"number": "719S",
+"title": "Topics in Nutrition",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 819S",
+"subject": "NTR",
+"number": "819S",
+"title": "Topics in Nutrition",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 919S",
+"subject": "NTR",
+"number": "919S",
+"title": "Topics in Nutrition",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 619SA",
+"subject": "NTR",
+"number": "619SA",
+"title": "Topics in Nutrition",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 619SB",
+"subject": "NTR",
+"number": "619SB",
+"title": "Topics in Nutrition",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 321",
+"subject": "NTR",
+"number": "321",
+"title": "International Nutrition: The Developing World",
+"hours": 3.0,
+"division": "upper",
+"description": "Nutrition-related issues in the developing world, including nutrient deficiency and disease, concerns in vulnerable populations (pregnancy, infancy, childhood, and old age), and food aid. Three lecture hours a week for one semester. Prerequisite: Nutrition 306, 312, or 312H with a grade of at least C-.",
+"prereqText": "Nutrition 306, 312, or 312H with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 324",
+"subject": "NTR",
+"number": "324",
+"title": "Advanced Food Science",
+"hours": 3.0,
+"division": "upper",
+"description": "Application of the principles of food chemistry to the development of food products. Three lecture hours a week for one semester. Offered in the spring semester only. Prerequisite: Chemistry 320M, Nutrition 307, 107L, and 326 with a grade of at least C- in each; and credit or registration for Nutrition 124L.",
+"prereqText": "Chemistry 320M, Nutrition 307, 107L, and 326 with a grade of at least C- in each; and credit or registration for Nutrition 124L.",
+"prereqConfidence": "low",
+"offering": "Offered in the spring semester only."
+},
+{
+"id": "NTR 124L",
+"subject": "NTR",
+"number": "124L",
+"title": "Advanced Food Science Laboratory",
+"hours": 1.0,
+"division": "upper",
+"description": "Individual research project on food product development and evaluation. Three laboratory hours a week for one semester. Offered in the spring semester only. Prerequisite: Credit or registration for Nutrition 324.",
+"prereqText": "Credit or registration for Nutrition 324.",
+"prereq": {
+"type": "course",
+"id": "NTR 324"
+},
+"prereqConfidence": "high",
+"offering": "Offered in the spring semester only."
+},
+{
+"id": "NTR 326",
+"subject": "NTR",
+"number": "326",
+"title": "Intermediate Nutrition and Metabolism",
+"hours": 3.0,
+"division": "upper",
+"description": "Integration of nutrition, genetics, cell biology, and molecular biology. Focuses on the cellular and molecular basis of nutrition-related diseases and nutrient-gene interactions. Three lecture hours and one discussion hour a week for one semester. Prerequisite: The following coursework with a grade of at least C- in each: Biology 311C and Nutrition 312; and credit or registration for Nutrition 126L and Chemistry 320M.",
+"prereqText": "The following coursework with a grade of at least C- in each: Biology 311C and Nutrition 312; and credit or registration for Nutrition 126L and Chemistry 320M.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 126L",
+"subject": "NTR",
+"number": "126L",
+"title": "Nutritional Sciences Laboratory",
+"hours": 1.0,
+"division": "upper",
+"description": "Basic laboratory techniques in nutritional sciences. Three laboratory hours a week for one semester. Prerequisite: Chemistry 301; Statistics and Data Sciences 302F or 320E with a grade of at least C-; and credit or registration for Biology 311C and Chemistry 302.",
+"prereqText": "Chemistry 301; Statistics and Data Sciences 302F or 320E with a grade of at least C-; and credit or registration for Biology 311C and Chemistry 302.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 327L",
+"subject": "NTR",
+"number": "327L",
+"title": "Advanced Food Science Laboratory",
+"hours": 3.0,
+"division": "upper",
+"description": "Apply fundamentals of nutrition science, food science, and chemistry to scientific research in creating a novel food product for a chosen target audience. Explore food science, food research and development, fundamentals of nutrition, ingredient functionality, food product sensory evaluation, scientific inquiry, study design, and science communication. Design and execute a scientific study by engineering a unique food product, create scientific abstracts, and create and participate in scientific poster sessions. One lecture hour and five laboratory hours a week for one semester. Prerequisite: The following coursework with a grade of at least C- in each: Nutrition 307, 107L, 326, and 339L.",
+"prereqText": "The following coursework with a grade of at least C- in each: Nutrition 307, 107L, 326, and 339L.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NTR 307"
+},
+{
+"type": "course",
+"id": "NTR 107L"
+},
+{
+"type": "course",
+"id": "NTR 326"
+},
+{
+"type": "course",
+"id": "NTR 339L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 129S",
+"subject": "NTR",
+"number": "129S",
+"title": "Topics in Nutrition",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 229S",
+"subject": "NTR",
+"number": "229S",
+"title": "Topics in Nutrition",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 329S",
+"subject": "NTR",
+"number": "329S",
+"title": "Topics in Nutrition",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 429S",
+"subject": "NTR",
+"number": "429S",
+"title": "Topics in Nutrition",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 529S",
+"subject": "NTR",
+"number": "529S",
+"title": "Topics in Nutrition",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 629S",
+"subject": "NTR",
+"number": "629S",
+"title": "Topics in Nutrition",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 729S",
+"subject": "NTR",
+"number": "729S",
+"title": "Topics in Nutrition",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 829S",
+"subject": "NTR",
+"number": "829S",
+"title": "Topics in Nutrition",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 929S",
+"subject": "NTR",
+"number": "929S",
+"title": "Topics in Nutrition",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 629SA",
+"subject": "NTR",
+"number": "629SA",
+"title": "Topics in Nutrition",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 629SB",
+"subject": "NTR",
+"number": "629SB",
+"title": "Topics in Nutrition",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the School of Human Ecology. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "NTR 330",
+"subject": "NTR",
+"number": "330",
+"title": "Nutrition Education and Counseling",
+"hours": 3.0,
+"division": "upper",
+"description": "Application of counseling and learning theories to the care of individuals and groups in community and clinical settings. Three lecture hours and one additional class hour a week for one semester. Prerequisite: Nutrition 315 and 326 with a grade of at least C- in each.",
+"prereqText": "Nutrition 315 and 326 with a grade of at least C- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NTR 315",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NTR 326",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 330L",
+"subject": "NTR",
+"number": "330L",
+"title": "Advanced Nutrition Assessment and Counseling",
+"hours": 3.0,
+"division": "upper",
+"description": "Examine the fundamentals and application of nutrition assessment, nutrition education, counseling, and behavior change theories to the care of individuals and groups in community and clinical settings. Explore the use of nutrition focused physical exam, nutrition care process standardized language, anthropometric, biochemical, clinical, and dietary intake data assessments for effective care of individuals. Identify the implementation of nutrition counseling techniques and communication skills through the understanding of behavior change in individuals. Two lecture hours and four laboratory hours a week for one semester. Prerequisite: Nutrition 317L with a grade of at least C-; credit or registration in Nutrition 315; credit or registration in Nutrition 326",
+"prereqText": "Nutrition 317L with a grade of at least C-; credit or registration in Nutrition 315; credit or registration in Nutrition 326.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "NTR 317L",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NTR 315"
+},
+{
+"type": "course",
+"id": "NTR 326"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 331",
+"subject": "NTR",
+"number": "331",
+"title": "International Nutrition: Social and Environmental Policies",
+"hours": 3.0,
+"division": "upper",
+"description": "Explores the nutritional concerns of different countries, environmental aspects of food supply, and social policies needed to balance supply with demand in a sustainable manner. Three lecture hours a week for one semester. Nutrition 331 and 360 (Topic: International Nutrition: Social and Environmental Policies) may not both be counted. Prerequisite: Upper-division standing, and Nutrition 306, 312, or 312H with a grade of at least C-.",
+"prereqText": "Upper-division standing, and Nutrition 306, 312, or 312H with a grade of at least C-.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 332",
+"subject": "NTR",
+"number": "332",
+"title": "Community Nutrition",
+"hours": 3.0,
+"division": "upper",
+"description": "National and international issues in public health and nutrition programs. Three lecture hours a week for one semester. Prerequisite: The following coursework with a grade of at least C- in each course: Nutrition 312 or 312H; 315; and 326.",
+"prereqText": "The following coursework with a grade of at least C- in each course: Nutrition 312 or 312H; 315; and 326.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 334",
+"subject": "NTR",
+"number": "334",
+"title": "Foodservice Systems Management",
+"hours": 3.0,
+"division": "upper",
+"description": "Procurement, production, and service delivery in foodservice systems. Three lecture hours a week for one semester. Prerequisite: For nutrition majors: Nutrition 307, 107L, and 326 with a grade of at least C- in each, and credit or registration for Nutrition 234L; for others: Nutrition 307 with a grade of at least C-, and one of the following with a grade of at least C-: Nutrition 306, 312, or 312H.",
+"prereqText": "For nutrition majors: Nutrition 307, 107L, and 326 with a grade of at least C- in each, and credit or registration for Nutrition 234L; for others: Nutrition 307 with a grade of at least C-, and one of the following with a grade of at least C-: Nutrition 306, 312, or 312H.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 234L",
+"subject": "NTR",
+"number": "234L",
+"title": "Laboratory in Foodservice Systems",
+"hours": 2.0,
+"division": "upper",
+"description": "Six laboratory hours a week for one semester. Prerequisite: Credit or registration for Nutrition 334.",
+"prereqText": "Credit or registration for Nutrition 334.",
+"prereq": {
+"type": "course",
+"id": "NTR 334"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 337",
+"subject": "NTR",
+"number": "337",
+"title": "Principles of Epidemiology in Nutritional Sciences",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction the role of epidemiology methods as the basis for selection of study design and data collection tools in nutrition research such as dietary tools, biomarkers of diet or disease, and anthropometric measurements like obesity. Emphasis on interpretation of study results in nutrition research. Three lecture hours per week for one semester. Offered on the letter-grade basis only. Prerequisite: Credit with a grade of at least C- or registration for Nutrition 312H or 326, and one of the following with a grade of at least C-: Statistics and Data Sciences 302 (or Statistics and Scientific Computation 302), 304 (or Statistics and Scientific Computation 304), 306 (or Statistics and Scientific Computation 306), 325H (or Statistics and Scientific Computation 325H), or 328M (or Statistics and Scientific Computation 328M).",
+"prereqText": "Credit with a grade of at least C- or registration for Nutrition 312H or 326, and one of the following with a grade of at least C-: Statistics and Data Sciences 302 (or Statistics and Scientific Computation 302), 304 (or Statistics and Scientific Computation 304), 306 (or Statistics and Scientific Computation 306), 325H (or Statistics and Scientific Computation 325H), or 328M (or Statistics and Scientific Computation 328M).",
+"prereqConfidence": "low",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "NTR 338H",
+"subject": "NTR",
+"number": "338H",
+"title": "Issues in Nutrition and Health: Honors",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to honors majors in biology, biochemistry, and nutritional sciences, and students in the Dean's Scholars honors program. Identifying, reading, analyzing, writing, and presenting scientific research on selected subjects in nutrition and human health. Detailed literature review as preparation for an honors research thesis. Three lecture hours a week for one semester. Nutrition 338H and 338W may not both be counted. Prerequisite: Biology 325 or 325H; Nutrition 312H and 312R; one of the following: Statistics and Data Sciences 302, 303, 304, 305, or 325H; and credit or registration for Biology 365S.",
+"prereqText": "Biology 325 or 325H; Nutrition 312H and 312R; one of the following: Statistics and Data Sciences 302, 303, 304, 305, or 325H; and credit or registration for Biology 365S.",
+"prereqConfidence": "low",
+"restricted": "Restricted to honors majors in biology, biochemistry, and nutritional sciences, and students in the Dean's Scholars honors program."
+},
+{
+"id": "NTR 338W",
+"subject": "NTR",
+"number": "338W",
+"title": "Issues in Nutrition and Health",
+"hours": 3.0,
+"division": "upper",
+"description": "Identifying, reading, analyzing, writing, and presenting scientific research on selected topics in nutrition and human health. Three lecture hours a week for one semester. Nutrition 338H and 338W may not both be counted. Prerequisite: Upper-division standing; Nutrition 126L and 326 with a grade of at least C- in each; and one of the following with a grade of at least C-: Statistics and Data Sciences 302, 302F, or 320E.",
+"prereqText": "Upper-division standing; Nutrition 126L and 326 with a grade of at least C- in each; and one of the following with a grade of at least C-: Statistics and Data Sciences 302, 302F, or 320E.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 339L",
+"subject": "NTR",
+"number": "339L",
+"title": "Experimental Methods and Design in Nutritional Sciences",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore nutritional sciences methods and research. Examine overall study design, observational and intervention studies, animal and cell-based research in nutritional sciences, nutritional research assessment methods (such as dietary assessment and biomarkers), and research ethics. Practice assessing and interpreting research findings to evaluate scientific research in nutritional sciences and nutritional epidemiology. Three lecture hours a week for one semester Prerequisite: Nutrition 126L and 326 with a grade of at least C-, and credit or registration for Statistics and Data Sciences 324E",
+"prereqText": "Nutrition 126L and 326 with a grade of at least C-, and credit or registration for Statistics and Data Sciences 324E.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 342",
+"subject": "NTR",
+"number": "342",
+"title": "Advanced Nutritional Sciences",
+"hours": 3.0,
+"division": "upper",
+"description": "Biochemical and molecular biological aspects of carbohydrate, fat, and amino acid metabolism. Three lecture hours and one discussion hour a week for one semester. Prerequisite: Upper-division standing; and Nutrition 326 and Biology 325 with a grade of at least C- in each; and credit or registration for Biochemistry 369.",
+"prereqText": "Upper-division standing; and Nutrition 326 and Biology 325 with a grade of at least C- in each; and credit or registration for Biochemistry 369.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 343",
+"subject": "NTR",
+"number": "343",
+"title": "Vitamins and Minerals",
+"hours": 3.0,
+"division": "upper",
+"description": "Biomedical, cellular and molecular, and clinical aspects of vitamins, minerals, and water. Three lecture hours a week for one semester. Only one of the following may be counted: Nutrition 343, 344, 365 (Topic 1). Prerequisite: Upper-division standing and Nutrition 342 with a grade of at least C-.",
+"prereqText": "Upper-division standing and Nutrition 342 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "NTR 342",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 144M",
+"subject": "NTR",
+"number": "144M",
+"title": "Advanced Nutrition II Laboratory",
+"hours": 1.0,
+"division": "upper",
+"description": "Advanced laboratory techniques in nutrition assessment and research. Three laboratory hours a week for one semester. Offered in the spring semester only. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered in the spring semester only."
+},
+{
+"id": "NTR 245C",
+"subject": "NTR",
+"number": "245C",
+"title": "Clinical Practice in Medical Nutrition Therapy I",
+"hours": 2.0,
+"division": "upper",
+"description": "Application of principles of medical nutrition therapy to the care of clients in the practice setting. Nine hours of supervised practice a week for one semester. Prerequisite: Nutrition 370 with a grade of at least C-, credit or registration for Nutrition 371, and admission to the Coordinated Program in Dietetics.",
+"prereqText": "Nutrition 370 with a grade of at least C-, credit or registration for Nutrition 371, and admission to the Coordinated Program in Dietetics.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "NTR 370",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NTR 371"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 345M",
+"subject": "NTR",
+"number": "345M",
+"title": "Clinical Practice in Medical Nutrition Therapy II",
+"hours": 3.0,
+"division": "upper",
+"description": "Application of principles of medical nutrition therapy to the care of patients in health care facilities. Forty hours of supervised practice a week for four weeks. Prerequisite: Nutrition 245C and 371 with a grade of at least C- in each. Students must register for Nutrition 372C in the same semester.",
+"prereqText": "Nutrition 245C and 371 with a grade of at least C- in each. Students must register for Nutrition 372C in the same semester.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 152",
+"subject": "NTR",
+"number": "152",
+"title": "Topics in Field Experience in Nutrition",
+"hours": 1.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, three field placement hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Approval of application for field experience. Applications are available in the department office.",
+"prereqText": "Approval of application for field experience. Applications are available in the department office.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 252",
+"subject": "NTR",
+"number": "252",
+"title": "Topics in Field Experience in Nutrition",
+"hours": 2.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, three field placement hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Approval of application for field experience. Applications are available in the department office.",
+"prereqText": "Approval of application for field experience. Applications are available in the department office.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 352",
+"subject": "NTR",
+"number": "352",
+"title": "Topics in Field Experience in Nutrition",
+"hours": 3.0,
+"division": "upper",
+"description": "For each semester hour of credit earned, three field placement hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Approval of application for field experience. Applications are available in the department office.",
+"prereqText": "Approval of application for field experience. Applications are available in the department office.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 353",
+"subject": "NTR",
+"number": "353",
+"title": "Field Experience in International Nutrition",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised study abroad experience designed to help students understand nutrition science issues, applications, related health care practices in a global environment, and other cultures. Students work in schools, hospitals, or similar settings to gain professional experience with food science and dietetics. Five lecture hours and ten field hours a week for five weeks. Prerequisite: Nutrition 306, 312, or 312H with a grade of at least C-; and approval of an application to study abroad.",
+"prereqText": "Nutrition 306, 312, or 312H with a grade of at least C-; and approval of an application to study abroad.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 155",
+"subject": "NTR",
+"number": "155",
+"title": "Undergraduate Research in Nutrition",
+"hours": 1.0,
+"division": "upper",
+"description": "Supervised individual undergraduate research in nutrition. For each semester hour of credit earned, at least three laboratory hours a week for one semester. May be repeated for credit, but no more than four semester hours may be counted toward a degree in nutrition. Any additional hours must be taken on the pass/fail basis. Nutrition 355 and 355H may not both be counted. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 255",
+"subject": "NTR",
+"number": "255",
+"title": "Undergraduate Research in Nutrition",
+"hours": 2.0,
+"division": "upper",
+"description": "Supervised individual undergraduate research in nutrition. For each semester hour of credit earned, at least three laboratory hours a week for one semester. May be repeated for credit, but no more than four semester hours may be counted toward a degree in nutrition. Any additional hours must be taken on the pass/fail basis. Nutrition 355 and 355H may not both be counted. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 355",
+"subject": "NTR",
+"number": "355",
+"title": "Undergraduate Research in Nutrition",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual undergraduate research in nutrition. For each semester hour of credit earned, at least three laboratory hours a week for one semester. May be repeated for credit, but no more than four semester hours may be counted toward a degree in nutrition. Any additional hours must be taken on the pass/fail basis. Nutrition 355 and 355H may not both be counted. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 455",
+"subject": "NTR",
+"number": "455",
+"title": "Undergraduate Research in Nutrition",
+"hours": 4.0,
+"division": "upper",
+"description": "Supervised individual undergraduate research in nutrition. For each semester hour of credit earned, at least three laboratory hours a week for one semester. May be repeated for credit, but no more than four semester hours may be counted toward a degree in nutrition. Any additional hours must be taken on the pass/fail basis. Nutrition 355 and 355H may not both be counted. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 355H",
+"subject": "NTR",
+"number": "355H",
+"title": "Honors Research",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to honors eligible majors in nutritional sciences, biology, biochemistry, and students in the Dean's Scholars Honors Program. Research in biological, biochemical, or nutritional science, coordinated with readings of scientific literature, and a written research report for each semester in which credit is sought. Nutrition 355 and 355H may not both be counted. May be repeated for credit, but no more than nine semester hours may be counted toward the major in nutrition. Any additional hours must be taken on the pass/fail basis. Prerequisite: Biology 325 or 325H; Nutrition 312H and 312R; and approval of research supervisor.",
+"prereqText": "Biology 325 or 325H; Nutrition 312H and 312R; and approval of research supervisor.",
+"prereqConfidence": "low",
+"restricted": "Restricted to honors eligible majors in nutritional sciences, biology, biochemistry, and students in the Dean's Scholars Honors Program."
+},
+{
+"id": "NTR 355M",
+"subject": "NTR",
+"number": "355M",
+"title": "Advanced Food Systems Management",
+"hours": 3.0,
+"division": "upper",
+"description": "Financial control, quality assurance, personnel administration, foodservice equipment, layout and design in foodservice operations. Analysis and evaluation of an organized foodservice operation. Three lecture hours and four hours of supervised practice a week for one semester. Prerequisite: Accounting 310F or 311, and Nutrition 334 and 234L, with a grade of at least C- in each.",
+"prereqText": "Accounting 310F or 311, and Nutrition 334 and 234L, with a grade of at least C- in each.",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 360",
+"subject": "NTR",
+"number": "360",
+"title": "Selected Topics in Applied Nutrition",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 162",
+"subject": "NTR",
+"number": "162",
+"title": "Standards, Ethics, and Credentialing for Dietetic Practice",
+"hours": 1.0,
+"division": "upper",
+"description": "Identification of standards and discussion of current issues in ethics and credentialing for dietetics practice. One lecture hour a week for one semester. Prerequisite: Credit or registration for Nutrition 218 and 118L.",
+"prereqText": "Credit or registration for Nutrition 218 and 118L.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NTR 218"
+},
+{
+"type": "course",
+"id": "NTR 118L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 365",
+"subject": "NTR",
+"number": "365",
+"title": "Selected Topics in Nutritional Sciences",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 365L",
+"subject": "NTR",
+"number": "365L",
+"title": "Experiential Learning in Community Engagement",
+"hours": 3.0,
+"division": "upper",
+"description": "Implement hands-on community engagement activities, such as gardening, cooking, and nutrition lessons through the experiential learning laboratory within community/school settings to improve nutrition and health and decrease the incidence of chronic diseases. Apply the fundamental principles of nutrition through activities such as food gardening to planting to maintaining a school garden; work within school cultures/constraints to improve the school nutrition/gardening culture; apply effective communication, classroom management/engagement, and teaching skills in working with the public, community leaders, and administrators; and evaluate nutrition programs in schools. Five laboratory hours a week for one semester. Prerequisite: Nutrition 365 (Topic 5) with a grade of at least C-.",
+"prereqText": "Nutrition 365 (Topic 5) with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "NTR 365",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 366L",
+"subject": "NTR",
+"number": "366L",
+"title": "Research Methods in Nutritional Sciences",
+"hours": 3.0,
+"division": "upper",
+"description": "Focuses on state-of-the-art research in nutrition, including biochemistry and molecular biological techniques for nutrient-gene interactions, enzyme and coenzyme functions, and nutrient analysis of biologic materials. Includes data analysis and statistical methods. One lecture hour and six laboratory hours a week for one semester. Prerequisite: Nutrition 126L with a grade of at least C-.",
+"prereqText": "Nutrition 126L with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "NTR 126L",
+"minGrade": "C-"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 167",
+"subject": "NTR",
+"number": "167",
+"title": "Undergraduate Seminar in Nutritional Sciences",
+"hours": 1.0,
+"division": "upper",
+"description": "One lecture hour a week for one semester. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 370",
+"subject": "NTR",
+"number": "370",
+"title": "Medical Nutrition Therapy I",
+"hours": 3.0,
+"division": "upper",
+"description": "The role of nutrition in prevention and treatment of chronic disease such as diabetes and heart disease. Three lecture hours a week for one semester. Prerequisite: Nutrition 317L and 326 with a grade of at least C- and credit or registration for Nutrition 330L, Biochemistry 369, and Integrative Biology 365S (or credit for Biology 365S).",
+"prereqText": "Nutrition 317L and 326 with a grade of at least C- and credit or registration for Nutrition 330L, Biochemistry 369, and Integrative Biology 365S (or credit for Biology 365S).",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 371",
+"subject": "NTR",
+"number": "371",
+"title": "Medical Nutrition Therapy II",
+"hours": 3.0,
+"division": "upper",
+"description": "Nutritional care of critically ill patients, including techniques of nutrition support. Three lecture hours a week for one semester. Prerequisite: Nutrition 317L and 326 with a grade of at least C- and credit or registration for Nutrition 330L, Biochemistry 369, and Integrative Biology 365S (or credit for Biology 365S).",
+"prereqText": "Nutrition 317L and 326 with a grade of at least C- and credit or registration for Nutrition 330L, Biochemistry 369, and Integrative Biology 365S (or credit for Biology 365S).",
+"prereqConfidence": "low"
+},
+{
+"id": "NTR 372C",
+"subject": "NTR",
+"number": "372C",
+"title": "Practicum in Clinical Dietetics",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised practice in health care facilities. Forty hours of supervised practice a week for four weeks. Prerequisite: Admission to the Coordinated Program in Dietetics. Students must register for Nutrition 345M in the same semester.",
+"prereqText": "Admission to the Coordinated Program in Dietetics. Students must register for Nutrition 345M in the same semester.",
+"prereq": {
+"type": "course",
+"id": "NTR 345M"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 372F",
+"subject": "NTR",
+"number": "372F",
+"title": "Practicum in Food Services Systems Management",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised practice in food service facilities. Forty hours of supervised practice a week for four weeks. Prerequisite: Nutrition 245C and 355M with a grade of at least C- in each, and admission to the Coordinated Program in Dietetics. Students must register for Nutrition 373S in the same semester.",
+"prereqText": "Nutrition 245C and 355M with a grade of at least C- in each, and admission to the Coordinated Program in Dietetics. Students must register for Nutrition 373S in the same semester.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NTR 245C"
+},
+{
+"type": "course",
+"id": "NTR 355M",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NTR 373S"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 373S",
+"subject": "NTR",
+"number": "373S",
+"title": "Practicum in Dietetic Administration",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised practice in the administration of food and nutrition programs. Forty hours of supervised practice a week for three weeks. Prerequisite: Admission to the Coordinated Program in Dietetics. Students must register for Nutrition 372F in the same semester.",
+"prereqText": "Admission to the Coordinated Program in Dietetics. Students must register for Nutrition 372F in the same semester.",
+"prereq": {
+"type": "course",
+"id": "NTR 372F"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 374C",
+"subject": "NTR",
+"number": "374C",
+"title": "Practicum in Community Dietetics",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised practice in one or more community-based nutrition programs. Forty hours of supervised practice a week for five weeks. Prerequisite: Nutrition 345M, 372C, 372F, and 373S with a grade of at least C- in each; and admission to the Coordinated Program in Dietetics.",
+"prereqText": "Nutrition 345M, 372C, 372F, and 373S with a grade of at least C- in each; and admission to the Coordinated Program in Dietetics.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NTR 345M",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NTR 372C",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NTR 372F",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NTR 373S",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 374P",
+"subject": "NTR",
+"number": "374P",
+"title": "Advanced Practicum in Dietetics",
+"hours": 3.0,
+"division": "upper",
+"description": "Culminating experience in the practice of administrative, clinical, or community dietetics. Forty hours of supervised practice a week for five weeks. Prerequisite: Nutrition 345M, 372C, 372F, and 373S with a grade of at least C- in each; and admission to the Coordinated Program in Dietetics.",
+"prereqText": "Nutrition 345M, 372C, 372F, and 373S with a grade of at least C- in each; and admission to the Coordinated Program in Dietetics.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "NTR 345M",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NTR 372C",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NTR 372F",
+"minGrade": "C-"
+},
+{
+"type": "course",
+"id": "NTR 373S",
+"minGrade": "C-"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "NTR 379H",
+"subject": "NTR",
+"number": "379H",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on a special topic in nutrition; oral presentation and preparation of a scholarly paper covering the research. May be based on laboratory, library, or field research. Conference course. May be taken twice for credit. May be repeated for credit. Prerequisite: Consent of the student's research supervisor and the departmental honors adviser.",
+"prereqText": "Consent of the student's research supervisor and the departmental honors adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 380K",
+"subject": "NTR",
+"number": "380K",
+"title": "Topics in Research Methods in Nutritional Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "One lecture hour and six laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in nutrition, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in nutrition, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 390",
+"subject": "NTR",
+"number": "390",
+"title": "Topics in Recent Advances in Nutritional Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 392",
+"subject": "NTR",
+"number": "392",
+"title": "Topics in Research Problems in Nutritional Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "One lecture hour and six laboratory hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 392R",
+"subject": "NTR",
+"number": "392R",
+"title": "Research Hours in Nutritional Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "Nine laboratory hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 194",
+"subject": "NTR",
+"number": "194",
+"title": "Topics in Graduate Seminar in Nutritional Sciences",
+"hours": 1.0,
+"division": "graduate",
+"description": "One, two, or three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 294",
+"subject": "NTR",
+"number": "294",
+"title": "Topics in Graduate Seminar in Nutritional Sciences",
+"hours": 2.0,
+"division": "graduate",
+"description": "One, two, or three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 394",
+"subject": "NTR",
+"number": "394",
+"title": "Topics in Graduate Seminar in Nutritional Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "One, two, or three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 397C",
+"subject": "NTR",
+"number": "397C",
+"title": "Conference Course in Nutritional Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "For 397C, one lecture hour and six laboratory hours a week for one semester; for 697C, two lecture hours and twelve laboratory hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 697C",
+"subject": "NTR",
+"number": "697C",
+"title": "Conference Course in Nutritional Sciences",
+"hours": 6.0,
+"division": "graduate",
+"description": "For 397C, one lecture hour and six laboratory hours a week for one semester; for 697C, two lecture hours and twelve laboratory hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 697CA",
+"subject": "NTR",
+"number": "697CA",
+"title": "Conference Course in Nutritional Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "For 397C, one lecture hour and six laboratory hours a week for one semester; for 697C, two lecture hours and twelve laboratory hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 697CB",
+"subject": "NTR",
+"number": "697CB",
+"title": "Conference Course in Nutritional Sciences",
+"hours": 3.0,
+"division": "graduate",
+"description": "For 397C, one lecture hour and six laboratory hours a week for one semester; for 697C, two lecture hours and twelve laboratory hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 698",
+"subject": "NTR",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in nutrition and consent of the graduate adviser; for 698B, Nutrition 698A.",
+"prereqText": "For 698A, graduate standing in nutrition and consent of the graduate adviser; for 698B, Nutrition 698A.",
+"prereq": {
+"type": "course",
+"id": "NTR 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 698A",
+"subject": "NTR",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in nutrition and consent of the graduate adviser; for 698B, Nutrition 698A.",
+"prereqText": "For 698A, graduate standing in nutrition and consent of the graduate adviser; for 698B, Nutrition 698A.",
+"prereq": {
+"type": "course",
+"id": "NTR 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 698B",
+"subject": "NTR",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in nutrition and consent of the graduate adviser; for 698B, Nutrition 698A.",
+"prereqText": "For 698A, graduate standing in nutrition and consent of the graduate adviser; for 698B, Nutrition 698A.",
+"prereq": {
+"type": "course",
+"id": "NTR 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 398R",
+"subject": "NTR",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in nutrition and consent of the supervising professor.",
+"prereqText": "Graduate standing in nutrition and consent of the supervising professor.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 398T",
+"subject": "NTR",
+"number": "398T",
+"title": "Supervised Teaching in Nutrition",
+"hours": 3.0,
+"division": "graduate",
+"description": "Teaching under close supervision; group meetings, individual conferences, and reports. Three lecture hours a week for one semester. Prerequisite: Graduate standing and appointment as a teaching assistant.",
+"prereqText": "Graduate standing and appointment as a teaching assistant.",
+"prereqConfidence": "none"
+},
+{
+"id": "NTR 399W",
+"subject": "NTR",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 699W",
+"subject": "NTR",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 999W",
+"subject": "NTR",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 699WA",
+"subject": "NTR",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "NTR 699WB",
+"subject": "NTR",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

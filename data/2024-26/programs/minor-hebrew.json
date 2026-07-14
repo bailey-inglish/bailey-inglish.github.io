@@ -1,0 +1,59 @@
+{
+ "id": "2024-26/minor/hebrew",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Hebrew",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Hebrew Minor",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "First-Year Hebrew Requirement",
+    "filter": {
+     "courses": [
+      "HEB 506",
+      "HEB 507",
+      "HEB 601C"
+     ],
+     "label": "First-Year Hebrew Requirement"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "First-Year Hebrew Requirement"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Second-Year Hebrew Requirement",
+    "filter": {
+     "courses": [
+      "HEB 412K",
+      "HEB 412L",
+      "HEB 611C"
+     ],
+     "label": "Second-Year Hebrew Requirement"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Second-Year Hebrew Requirement"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three hours upper-division Hebrew",
+    "title": "Three hours upper-division Hebrew",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Three hours upper-division Hebrew"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

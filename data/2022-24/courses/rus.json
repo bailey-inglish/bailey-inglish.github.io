@@ -1,0 +1,737 @@
+{
+"code": "RUS",
+"name": "Russian",
+"courses": [
+{
+"id": "RUS 601C",
+"subject": "RUS",
+"number": "601C",
+"title": "Intensive Russian I",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Russian. Emphasis on developing oral proficiency in Russian using intensive methods of instruction. Six lecture hours a week for one semester. May not be counted by students with credit for Russian 406, 506, 407, 507.",
+"excluded": "Russian 406, 506, 407, 507"
+},
+{
+"id": "RUS 601CA",
+"subject": "RUS",
+"number": "601CA",
+"title": "Intensive Russian I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Russian. Emphasis on developing oral proficiency in Russian using intensive methods of instruction. Six lecture hours a week for one semester. May not be counted by students with credit for Russian 406, 506, 407, 507.",
+"excluded": "Russian 406, 506, 407, 507"
+},
+{
+"id": "RUS 601CB",
+"subject": "RUS",
+"number": "601CB",
+"title": "Intensive Russian I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Russian. Emphasis on developing oral proficiency in Russian using intensive methods of instruction. Six lecture hours a week for one semester. May not be counted by students with credit for Russian 406, 506, 407, 507.",
+"excluded": "Russian 406, 506, 407, 507"
+},
+{
+"id": "RUS 406",
+"subject": "RUS",
+"number": "406",
+"title": "First-Year Russian I",
+"hours": 4.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency: listening, speaking, reading, and writing. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted: Russian 601C, 406, 506."
+},
+{
+"id": "RUS 506",
+"subject": "RUS",
+"number": "506",
+"title": "First-Year Russian I",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency: listening, speaking, reading, and writing. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted: Russian 601C, 406, 506."
+},
+{
+"id": "RUS 407",
+"subject": "RUS",
+"number": "407",
+"title": "First-Year Russian II",
+"hours": 4.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency: listening, speaking, reading, and writing. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted: Russian 601C, 407, 507. Prerequisite: Russian 406 or 506.",
+"prereqText": "Russian 406 or 506.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "RUS 406"
+},
+{
+"type": "course",
+"id": "RUS 506"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 507",
+"subject": "RUS",
+"number": "507",
+"title": "First-Year Russian II",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on four-skills proficiency: listening, speaking, reading, and writing. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted: Russian 601C, 407, 507. Prerequisite: Russian 406 or 506.",
+"prereqText": "Russian 406 or 506.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "RUS 406"
+},
+{
+"type": "course",
+"id": "RUS 506"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 611C",
+"subject": "RUS",
+"number": "611C",
+"title": "Intensive Russian II",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Russian. Continuing intensive development of proficiency in Russian, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Only one of the following may be counted: Russian 611C, 312K, 412K. Only one of the following may be counted: Russian 611C, 312L, 412L. Prerequisite: Russian 601C or 507.",
+"prereqText": "Russian 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "RUS 601C"
+},
+{
+"type": "course",
+"id": "RUS 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 611CA",
+"subject": "RUS",
+"number": "611CA",
+"title": "Intensive Russian II",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Russian. Continuing intensive development of proficiency in Russian, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Only one of the following may be counted: Russian 611C, 312K, 412K. Only one of the following may be counted: Russian 611C, 312L, 412L. Prerequisite: Russian 601C or 507.",
+"prereqText": "Russian 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "RUS 601C"
+},
+{
+"type": "course",
+"id": "RUS 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 611CB",
+"subject": "RUS",
+"number": "611CB",
+"title": "Intensive Russian II",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Russian. Continuing intensive development of proficiency in Russian, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Only one of the following may be counted: Russian 611C, 312K, 412K. Only one of the following may be counted: Russian 611C, 312L, 412L. Prerequisite: Russian 601C or 507.",
+"prereqText": "Russian 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "RUS 601C"
+},
+{
+"type": "course",
+"id": "RUS 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 312K",
+"subject": "RUS",
+"number": "312K",
+"title": "Second-Year Russian I",
+"hours": 3.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the second-year level. For every hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: Russian 611C, 312K, 412K. Prerequisite: Russian 407.",
+"prereqText": "Russian 407.",
+"prereq": {
+"type": "course",
+"id": "RUS 407"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 412K",
+"subject": "RUS",
+"number": "412K",
+"title": "Second-Year Russian I",
+"hours": 4.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the second-year level. For every hour of credit earned, one lecture hour a week for one semester. Only one of the following may be counted: Russian 611C, 312K, 412K. Prerequisite: Russian 407.",
+"prereqText": "Russian 407.",
+"prereq": {
+"type": "course",
+"id": "RUS 407"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 312L",
+"subject": "RUS",
+"number": "312L",
+"title": "Second-Year Russian II",
+"hours": 3.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the advanced, second-year level. For 312L, three lecture hours a week for one semester; for 412L, four lecture hours a week for one semester. Only one of the following may be counted: Russian 611C, 312L, 412L. Prerequisite: Russian 312K or 412K.",
+"prereqText": "Russian 312K or 412K.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "RUS 312K"
+},
+{
+"type": "course",
+"id": "RUS 412K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 412L",
+"subject": "RUS",
+"number": "412L",
+"title": "Second-Year Russian II",
+"hours": 4.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the advanced, second-year level. For 312L, three lecture hours a week for one semester; for 412L, four lecture hours a week for one semester. Only one of the following may be counted: Russian 611C, 312L, 412L. Prerequisite: Russian 312K or 412K.",
+"prereqText": "Russian 312K or 412K.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "RUS 312K"
+},
+{
+"type": "course",
+"id": "RUS 412K"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 119S",
+"subject": "RUS",
+"number": "119S",
+"title": "Topics in Russian",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 219S",
+"subject": "RUS",
+"number": "219S",
+"title": "Topics in Russian",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 319S",
+"subject": "RUS",
+"number": "319S",
+"title": "Topics in Russian",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 419S",
+"subject": "RUS",
+"number": "419S",
+"title": "Topics in Russian",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 519S",
+"subject": "RUS",
+"number": "519S",
+"title": "Topics in Russian",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 619S",
+"subject": "RUS",
+"number": "619S",
+"title": "Topics in Russian",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 719S",
+"subject": "RUS",
+"number": "719S",
+"title": "Topics in Russian",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 819S",
+"subject": "RUS",
+"number": "819S",
+"title": "Topics in Russian",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 919S",
+"subject": "RUS",
+"number": "919S",
+"title": "Topics in Russian",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 619SA",
+"subject": "RUS",
+"number": "619SA",
+"title": "Topics in Russian",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 619SB",
+"subject": "RUS",
+"number": "619SB",
+"title": "Topics in Russian",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 322C",
+"subject": "RUS",
+"number": "322C",
+"title": "Intermediate Russian Through Conversation",
+"hours": 3.0,
+"division": "upper",
+"description": "Development of the basic skills of listening, speaking, reading, and writing, with special emphasis on oral communication. Three lecture hours a week for one semester. Russian 322C and 324 may not both be counted. Russian 322C and 325 may not both be counted. Prerequisite: Russian 611C or 312K, 412K.",
+"prereqText": "Russian 611C or 312K, 412K.",
+"prereqConfidence": "low"
+},
+{
+"id": "RUS 322W",
+"subject": "RUS",
+"number": "322W",
+"title": "Intermediate Russian Through Writing",
+"hours": 3.0,
+"division": "upper",
+"description": "Development of the basic skills of listening, speaking, reading, and writing, with a special emphasis on written expression. Three lecture hours a week for one semester. Russian 322W and 324 may not both be counted. Russian 322W and 325 may not both be counted. Prerequisite: Russian 611C or 312K, 412K.",
+"prereqText": "Russian 611C or 312K, 412K.",
+"prereqConfidence": "low"
+},
+{
+"id": "RUS 326",
+"subject": "RUS",
+"number": "326",
+"title": "Topics in Advanced Russian",
+"hours": 3.0,
+"division": "upper",
+"description": "Designed to enhance the student's skills in a variety of functional areas. Topics may include advanced oral communication, stylistics, Russian for business, literary translation of legal and business documents, scientific and technical translation. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Russian 325, or Russian 322C and 322W.",
+"prereqText": "Russian 325, or Russian 322C and 322W.",
+"prereqConfidence": "low"
+},
+{
+"id": "RUS 326C",
+"subject": "RUS",
+"number": "326C",
+"title": "Russian through Drama",
+"hours": 3.0,
+"division": "upper",
+"description": "Focus on improving pronunciation, intonation, and public speaking skills in order to develop advanced proficiency in Russian. Explore an introduction to the life and works of Russian writer Anton Chekhov, and consider Chekhov's theater, the Stanislavsky method of acting, and the social context in which they developed. Three lecture hours a week for one semester. Russian 326 (Topic: Russian through Drama) and 326C may not both be counted. Prerequisite: Russian 325, or Russian 322C and 322W.",
+"prereqText": "Russian 325, or Russian 322C and 322W.",
+"prereqConfidence": "low"
+},
+{
+"id": "RUS 326D",
+"subject": "RUS",
+"number": "326D",
+"title": "Russian through Global Debate",
+"hours": 3.0,
+"division": "upper",
+"description": "Focus on developing an advanced level of spoken proficiency in Russian through the construction and delivery of arguments in a debate format. Explore the specialized lexicon and rhetoric of argumentation and debate discourse, while working within the subject frames of contemporary global issues: politics, economics, environment, social issues, and human rights. Three lecture hours a week for one semester. Russian 326 (Topic: Russian thru Global Debate) and 326D may not both be counted. Prerequisite: Russian 325, or Russian 322C and 322W.",
+"prereqText": "Russian 325, or Russian 322C and 322W.",
+"prereqConfidence": "low"
+},
+{
+"id": "RUS 326E",
+"subject": "RUS",
+"number": "326E",
+"title": "Advanced Russian Through History",
+"hours": 3.0,
+"division": "upper",
+"description": "Practice Russian language skills in all areas of cultural and linguistic proficiency (speaking, listening, reading, and writing) while introducing major events and figures in Russian history from Kyivan Rus to the early twentieth century. Three lecture hours a week for one semester. Russian 326 (Topic: Adv Russian Thru History) and 326E may not both be counted. Prerequisite: Russian 325, or Russian 322C and 322W.",
+"prereqText": "Russian 325, or Russian 322C and 322W.",
+"prereqConfidence": "low"
+},
+{
+"id": "RUS 129S",
+"subject": "RUS",
+"number": "129S",
+"title": "Topics in Russian",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 229S",
+"subject": "RUS",
+"number": "229S",
+"title": "Topics in Russian",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 329S",
+"subject": "RUS",
+"number": "329S",
+"title": "Topics in Russian",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 429S",
+"subject": "RUS",
+"number": "429S",
+"title": "Topics in Russian",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 529S",
+"subject": "RUS",
+"number": "529S",
+"title": "Topics in Russian",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 629S",
+"subject": "RUS",
+"number": "629S",
+"title": "Topics in Russian",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 729S",
+"subject": "RUS",
+"number": "729S",
+"title": "Topics in Russian",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 829S",
+"subject": "RUS",
+"number": "829S",
+"title": "Topics in Russian",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 929S",
+"subject": "RUS",
+"number": "929S",
+"title": "Topics in Russian",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 629SA",
+"subject": "RUS",
+"number": "629SA",
+"title": "Topics in Russian",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 629SB",
+"subject": "RUS",
+"number": "629SB",
+"title": "Topics in Russian",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Slavic and Eurasian Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "RUS 130D",
+"subject": "RUS",
+"number": "130D",
+"title": "Russian across Disciplines",
+"hours": 1.0,
+"division": "upper",
+"description": "Read and discuss Russian language materials related to the subject matter of another designated course. One lecture hour a week for one semester. May be repeated for credit. Prerequisite: Russian 611C or 412L and consent of instructor.",
+"prereqText": "Russian 611C or 412L and consent of instructor.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "RUS 611C"
+},
+{
+"type": "course",
+"id": "RUS 412L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 365T",
+"subject": "RUS",
+"number": "365T",
+"title": "The Art of Russian to English Translation",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the art of translation from Russian to English and English to Russian. The focus is on translation of a variety of fiction and non-fiction texts, but instruction and practice in oral interpretation will also be available. Exposure to the variety of contemporary opportunities in the professional field of translation. Three lecture hours a week for one semester. Russian 365T and 369 (Topic: The Art of Russian-English Translation) may not both be counted. Prerequisite: Russian 325.",
+"prereqText": "Russian 325.",
+"prereq": {
+"type": "course",
+"id": "RUS 325"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 379",
+"subject": "RUS",
+"number": "379",
+"title": "Conference Course in Russian Language or Literature",
+"hours": 3.0,
+"division": "upper",
+"description": "Conference course. May be repeated for credit. Prerequisite: Six semester hours of upper-division coursework in Russian or consent of instructor and the chair of the department.",
+"prereqText": "Six semester hours of upper-division coursework in Russian or consent of instructor and the chair of the department.",
+"prereqConfidence": "none"
+},
+{
+"id": "RUS 679H",
+"subject": "RUS",
+"number": "679H",
+"title": "Honors Tutorial Course",
+"hours": 6.0,
+"division": "upper",
+"description": "Supervised individual research on a literary or linguistic problem, which culminates in an honors paper of some length. Conference course for two semesters. Must be taken for special honors in addition to the major requirement. Prerequisite: For 679HA, upper-division standing, a University grade point average of at least 3.00, and a grade point average in Russian of at least 3.50; for 679HB, Russian 679HA.",
+"prereqText": "For 679HA, upper-division standing, a University grade point average of at least 3.00, and a grade point average in Russian of at least 3.50; for 679HB, Russian 679HA.",
+"prereq": {
+"type": "course",
+"id": "RUS 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 679HA",
+"subject": "RUS",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on a literary or linguistic problem, which culminates in an honors paper of some length. Conference course for two semesters. Must be taken for special honors in addition to the major requirement. Prerequisite: For 679HA, upper-division standing, a University grade point average of at least 3.00, and a grade point average in Russian of at least 3.50; for 679HB, Russian 679HA.",
+"prereqText": "For 679HA, upper-division standing, a University grade point average of at least 3.00, and a grade point average in Russian of at least 3.50; for 679HB, Russian 679HA.",
+"prereq": {
+"type": "course",
+"id": "RUS 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 679HB",
+"subject": "RUS",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual research on a literary or linguistic problem, which culminates in an honors paper of some length. Conference course for two semesters. Must be taken for special honors in addition to the major requirement. Prerequisite: For 679HA, upper-division standing, a University grade point average of at least 3.00, and a grade point average in Russian of at least 3.50; for 679HB, Russian 679HA.",
+"prereqText": "For 679HA, upper-division standing, a University grade point average of at least 3.00, and a grade point average in Russian of at least 3.50; for 679HB, Russian 679HA.",
+"prereq": {
+"type": "course",
+"id": "RUS 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "RUS 380E",
+"subject": "RUS",
+"number": "380E",
+"title": "Topics in Advanced Russian",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "RUS 385",
+"subject": "RUS",
+"number": "385",
+"title": "Topics in Russian Linguistics",
+"hours": 3.0,
+"division": "graduate",
+"description": "Sample topics include Old Russian and the history of the Russian literary language, as well as more specialized topics in synchronic, historical, or applied perspective. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "RUS 392",
+"subject": "RUS",
+"number": "392",
+"title": "Studies in Slavic Languages and Literatures other than Russian",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics include Bulgarian, Macedonian, Serbian/Croatian, Slovenian, Czech, Sorbian, Polish, Slovak, Ukrainian, and Belorussian. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in the Department of Slavic and Eurasian Studies, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in the Department of Slavic and Eurasian Studies, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "RUS 395",
+"subject": "RUS",
+"number": "395",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of individual problems in Slavic languages. Conference course. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "RUS 397P",
+"subject": "RUS",
+"number": "397P",
+"title": "Topics in Applied Linguistics and Pedagogy",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of topics in applied linguistics related to the teaching of Russian and other Slavic languages. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "RUS 698",
+"subject": "RUS",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in the Department of Slavic and Eurasian Studies and consent of the graduate adviser; for 698B, Russian 698A.",
+"prereqText": "For 698A, graduate standing in the Department of Slavic and Eurasian Studies and consent of the graduate adviser; for 698B, Russian 698A.",
+"prereq": {
+"type": "course",
+"id": "RUS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "RUS 698A",
+"subject": "RUS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in the Department of Slavic and Eurasian Studies and consent of the graduate adviser; for 698B, Russian 698A.",
+"prereqText": "For 698A, graduate standing in the Department of Slavic and Eurasian Studies and consent of the graduate adviser; for 698B, Russian 698A.",
+"prereq": {
+"type": "course",
+"id": "RUS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "RUS 698B",
+"subject": "RUS",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in the Department of Slavic and Eurasian Studies and consent of the graduate adviser; for 698B, Russian 698A.",
+"prereqText": "For 698A, graduate standing in the Department of Slavic and Eurasian Studies and consent of the graduate adviser; for 698B, Russian 698A.",
+"prereq": {
+"type": "course",
+"id": "RUS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "RUS 398R",
+"subject": "RUS",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a report to fulfill the requirement for the master's degree under the report option. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in the Department of Slavic and Eurasian Studies and consent of the graduate adviser.",
+"prereqText": "Graduate standing in the Department of Slavic and Eurasian Studies and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "RUS 398T",
+"subject": "RUS",
+"number": "398T",
+"title": "Supervised Teaching in Russian",
+"hours": 3.0,
+"division": "graduate",
+"description": "Principles and methods of teaching Russian. Analysis of relevant foreign language teaching theories and methodologies, curriculum and curricular materials development for university and secondary school teachers of Russian. Three lecture hours a week for one semester. Prerequisite: Graduate standing and appointment as a teaching assistant.",
+"prereqText": "Graduate standing and appointment as a teaching assistant.",
+"prereqConfidence": "none"
+}
+]
+}

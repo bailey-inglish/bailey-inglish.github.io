@@ -1,0 +1,72 @@
+{
+ "id": "2024-26/minor/russian",
+ "edition": "2024-26",
+ "type": "minor",
+ "name": "Russian",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Russian Minor",
+  "of": [
+   {
+    "type": "all",
+    "title": "RUS 406 / RUS 407",
+    "of": [
+     {
+      "type": "course",
+      "course": "RUS 406"
+     },
+     {
+      "type": "course",
+      "course": "RUS 407"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "RUS 601C",
+    "title": "RUS 601C",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "RUS 412K",
+    "of": [
+     {
+      "type": "course",
+      "course": "RUS 412K",
+      "title": "RUS 412K",
+      "source": {
+       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+      }
+     },
+     {
+      "type": "course",
+      "course": "RUS 611C"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three hours of upper-division coursework in RUS",
+    "title": "Three hours of upper-division coursework in RUS",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Three hours of upper-division coursework in RUS"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 15.0
+}

@@ -1,0 +1,1611 @@
+{
+"code": "COM",
+"name": "Communication",
+"courses": [
+{
+"id": "COM 301C",
+"subject": "COM",
+"number": "301C",
+"title": "Freshman Seminar",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to first-semester freshmen. Small-group seminar involving reading, discussion, writing, and oral reports. Introduction to University resources, including libraries, computer and research facilities, and museums. Several sections are offered each semester, with various topics and instructors. Two lecture hours and one discussion hour a week for one semester.",
+"restricted": "Restricted to first-semester freshmen."
+},
+{
+"id": "COM 301E",
+"subject": "COM",
+"number": "301E",
+"title": "Introduction to Communication Foundations",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the Moody College of Communication. Introduction to the various communication fields and their key concepts and axioms. Includes multicultural communication, global communication, media literacy, and social media. The equivalent of three lecture hours per week for one semester. Offered on the letter-grade basis only.",
+"restricted": "Restricted to students in the Moody College of Communication.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 301L",
+"subject": "COM",
+"number": "301L",
+"title": "Introduction to Communication and Leadership",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduces the study of leadership with an emphasis on communication dimensions and interdisciplinary understanding of social problems. Serves as a foundation for subsequent coursework in the areas of communication and leadership. Three lecture hours a week for one semester. Communication 301L and Communication and Leadership 301 may not both be counted."
+},
+{
+"id": "COM 102",
+"subject": "COM",
+"number": "102",
+"title": "Introduction to Health Communication",
+"hours": 1.0,
+"division": "lower",
+"description": "Covers contemporary issues in health communication theory and practice with an emphasis on interdisciplinary perspectives. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester."
+},
+{
+"id": "COM 102D",
+"subject": "COM",
+"number": "102D",
+"title": "Connecting Internship Experience",
+"hours": 1.0,
+"division": "lower",
+"description": "Supervised internship experience related to interdisciplinary themes of a Bridging Disciplines Program. Internships may be on or off campus, be paid or unpaid, and may include work with nonprofit agencies, government offices, or private corporations. For 102D, three hours of fieldwork a week for one semester; for 202D, six hours of fieldwork a week for one semester; for 302D, ten hours of fieldwork a week for one semester. With consent of the Bridging Disciplines Program research coordinator, may be repeated once for credit. May not be counted toward any College of Communication degree. Prerequisite: Admission to the Bridging Disciplines Programs.",
+"prereqText": "Admission to the Bridging Disciplines Programs.",
+"prereqConfidence": "none",
+"excluded": "any College of Communication degree"
+},
+{
+"id": "COM 202D",
+"subject": "COM",
+"number": "202D",
+"title": "Connecting Internship Experience",
+"hours": 2.0,
+"division": "lower",
+"description": "Supervised internship experience related to interdisciplinary themes of a Bridging Disciplines Program. Internships may be on or off campus, be paid or unpaid, and may include work with nonprofit agencies, government offices, or private corporations. For 102D, three hours of fieldwork a week for one semester; for 202D, six hours of fieldwork a week for one semester; for 302D, ten hours of fieldwork a week for one semester. With consent of the Bridging Disciplines Program research coordinator, may be repeated once for credit. May not be counted toward any College of Communication degree. Prerequisite: Admission to the Bridging Disciplines Programs.",
+"prereqText": "Admission to the Bridging Disciplines Programs.",
+"prereqConfidence": "none",
+"excluded": "any College of Communication degree"
+},
+{
+"id": "COM 302D",
+"subject": "COM",
+"number": "302D",
+"title": "Connecting Internship Experience",
+"hours": 3.0,
+"division": "lower",
+"description": "Supervised internship experience related to interdisciplinary themes of a Bridging Disciplines Program. Internships may be on or off campus, be paid or unpaid, and may include work with nonprofit agencies, government offices, or private corporations. For 102D, three hours of fieldwork a week for one semester; for 202D, six hours of fieldwork a week for one semester; for 302D, ten hours of fieldwork a week for one semester. With consent of the Bridging Disciplines Program research coordinator, may be repeated once for credit. May not be counted toward any College of Communication degree. Prerequisite: Admission to the Bridging Disciplines Programs.",
+"prereqText": "Admission to the Bridging Disciplines Programs.",
+"prereqConfidence": "none",
+"excluded": "any College of Communication degree"
+},
+{
+"id": "COM 302E",
+"subject": "COM",
+"number": "302E",
+"title": "Interdisciplinary Communication Foundations",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the Moody College of Communication. Explore in greater depth the concepts that connect and unite diverse areas of communication theory and practice. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Communication 301E with a grade of at least C-.",
+"prereqText": "Communication 301E with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "COM 301E",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Moody College of Communication.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 303",
+"subject": "COM",
+"number": "303",
+"title": "Introduction to Contemporary Media Literacy",
+"hours": 3.0,
+"division": "lower",
+"description": "Offers an introduction to media literacy, which enables us to create and critique contemporary media, and explores the expanding nature of literacy in a digital world with particular focus on its role in social and political contexts. Three lecture hours a week for one semester."
+},
+{
+"id": "COM 304",
+"subject": "COM",
+"number": "304",
+"title": "Global Communication",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduces the subject of global media and communication as significant industries, texts, and technologies that contribute to our cultural identities, social worlds, political practices, and economic consequences. Three lecture hours a week for one semester."
+},
+{
+"id": "COM 105",
+"subject": "COM",
+"number": "105",
+"title": "Beyond the Bridge",
+"hours": 1.0,
+"division": "lower",
+"description": "Restricted to students in the Moody College of Communication. Provides an overview of the concepts involved in career decision-making and the career planning process. One lecture hour per week for one semester.",
+"restricted": "Restricted to students in the Moody College of Communication."
+},
+{
+"id": "COM 306",
+"subject": "COM",
+"number": "306",
+"title": "Introduction to Communication Research Methods",
+"hours": 3.0,
+"division": "lower",
+"description": "An introduction to quantitative and qualitative designs, sampling, measurement, data collection, and analytic procedures in communication research. Three lecture hours a week for one semester. Communication 306 and 360 may not both be counted."
+},
+{
+"id": "COM 307",
+"subject": "COM",
+"number": "307",
+"title": "Overview of Social Justice and Media",
+"hours": 3.0,
+"division": "lower",
+"description": "An introduction to the communication of social justice, especially through the lens of nonfictional and fictional media. The equivalent of three lecture hours a week for one semester."
+},
+{
+"id": "COM 307H",
+"subject": "COM",
+"number": "307H",
+"title": "Life of the Mind: Honors",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the Moody College of Communication Honors Program. A guided experience in critical thinking and discussion based on consideration of cross-disciplinary modes of inquiry to probe big questions about knowledge, meaning, and communication throughout history. Three lecture hours a week for one semester.",
+"restricted": "Restricted to students in the Moody College of Communication Honors Program."
+},
+{
+"id": "COM 308",
+"subject": "COM",
+"number": "308",
+"title": "Creative Communication of Scientific Research",
+"hours": 3.0,
+"division": "lower",
+"description": "Same as Natural Sciences 303. Learn to communicate about science, technology, and medicine to broad audiences in order to increase understanding of the impact these fields have on human lives. Three lecture hours a week for one semester. Communication 308 and Natural Sciences 303 may not both be counted.",
+"sameAs": "Natural Sciences 303"
+},
+{
+"id": "COM 308H",
+"subject": "COM",
+"number": "308H",
+"title": "Life of Community: Honors",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the Moody College of Communication Honors Program. Considers the social responsibilities of intellectual leadership and the role of communication in a world characterized by political divisions, varieties of inequality, and global challenges to health and sustainability. Three lecture hours a week for one semester. Prerequisite: Communication 307H.",
+"prereqText": "Communication 307H.",
+"prereq": {
+"type": "course",
+"id": "COM 307H"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Moody College of Communication Honors Program."
+},
+{
+"id": "COM 310",
+"subject": "COM",
+"number": "310",
+"title": "Topics in Texas Sports and Media",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to various contemporary and historical issues, emphasizing interdisciplinary perspectives and critical discourse. Three lecture hours a week for one semester. Communication 310 and Journalism 313S may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "COM 010H",
+"subject": "COM",
+"number": "010H",
+"title": "Honors Pathway",
+"hours": 0.0,
+"division": "lower",
+"description": "Restricted to students in the Moody College Honors program. Complete program criterion, including capstone or thesis information session attendance, required form submissions, and other criteria as assigned. May be repeated for credit. Offered on the pass/fail basis only.",
+"restricted": "Restricted to students in the Moody College Honors program.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 012",
+"subject": "COM",
+"number": "012",
+"title": "First-year Seminar",
+"hours": 0.0,
+"division": "lower",
+"description": "Restricted to students in the Moody College of Communication. Introduction to campus an college resources for first-year students. Supports the Moody foundations courses. One lecture hour a week for one semester. May be repeated for credit. Offered on the pass/fail basis only.",
+"restricted": "Restricted to students in the Moody College of Communication.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 013",
+"subject": "COM",
+"number": "013",
+"title": "Success Scholars Seminar",
+"hours": 0.0,
+"division": "lower",
+"description": "Restricted to students in the Moody College of Communication. Introduction to Moody resources and exploration of skills such as managing finances, navigating the scholarship application and preparing for a career. Build community among Moody Success Scholars. One lecture a week for one semester. May be repeated for credit. Offered on the pass/fail basis only.",
+"restricted": "Restricted to students in the Moody College of Communication.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 114",
+"subject": "COM",
+"number": "114",
+"title": "Special Topics in Communication",
+"hours": 1.0,
+"division": "lower",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 114, 214, 314, 117, 217, 317, or 118, 218, 318. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 214",
+"subject": "COM",
+"number": "214",
+"title": "Special Topics in Communication",
+"hours": 2.0,
+"division": "lower",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 114, 214, 314, 117, 217, 317, or 118, 218, 318. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 314",
+"subject": "COM",
+"number": "314",
+"title": "Special Topics in Communication",
+"hours": 3.0,
+"division": "lower",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 114, 214, 314, 117, 217, 317, or 118, 218, 318. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 115",
+"subject": "COM",
+"number": "115",
+"title": "Topics in Leadership and Communication",
+"hours": 1.0,
+"division": "lower",
+"description": "Restricted to students in the College of Communication. Contemporary issues, practices, and skills related to leadership and communication. For 115, two lecture hours a week for eight weeks; for 215, two lecture hours a week for one semester; for 315, three lecture hours a week for one semester. May be repeated for credit when the topics vary.",
+"restricted": "Restricted to students in the College of Communication."
+},
+{
+"id": "COM 215",
+"subject": "COM",
+"number": "215",
+"title": "Topics in Leadership and Communication",
+"hours": 2.0,
+"division": "lower",
+"description": "Restricted to students in the College of Communication. Contemporary issues, practices, and skills related to leadership and communication. For 115, two lecture hours a week for eight weeks; for 215, two lecture hours a week for one semester; for 315, three lecture hours a week for one semester. May be repeated for credit when the topics vary.",
+"restricted": "Restricted to students in the College of Communication."
+},
+{
+"id": "COM 315",
+"subject": "COM",
+"number": "315",
+"title": "Topics in Leadership and Communication",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to students in the College of Communication. Contemporary issues, practices, and skills related to leadership and communication. For 115, two lecture hours a week for eight weeks; for 215, two lecture hours a week for one semester; for 315, three lecture hours a week for one semester. May be repeated for credit when the topics vary.",
+"restricted": "Restricted to students in the College of Communication."
+},
+{
+"id": "COM 316",
+"subject": "COM",
+"number": "316",
+"title": "Photographic Communication",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to photographic technique and recent trends, evaluation, visual design, and use of images in the media. Students must provide their own digital 35-mm format camera. Three lecture hours and one and one-half laboratory hours a week for one semester.",
+"tccn": "COMM 1316"
+},
+{
+"id": "COM 117",
+"subject": "COM",
+"number": "117",
+"title": "Special Topics in Communication",
+"hours": 1.0,
+"division": "lower",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 114, 214, 314, 117, 217, 317, or 118, 218, 318. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 217",
+"subject": "COM",
+"number": "217",
+"title": "Special Topics in Communication",
+"hours": 2.0,
+"division": "lower",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 114, 214, 314, 117, 217, 317, or 118, 218, 318. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 317",
+"subject": "COM",
+"number": "317",
+"title": "Special Topics in Communication",
+"hours": 3.0,
+"division": "lower",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 114, 214, 314, 117, 217, 317, or 118, 218, 318. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 118",
+"subject": "COM",
+"number": "118",
+"title": "Special Topics in Communication",
+"hours": 1.0,
+"division": "lower",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 114, 214, 314, 117, 217, 317, or 118, 218, 318. May be repeated for credit when the topics vary. Offered on the pass/fail basis only.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 218",
+"subject": "COM",
+"number": "218",
+"title": "Special Topics in Communication",
+"hours": 2.0,
+"division": "lower",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 114, 214, 314, 117, 217, 317, or 118, 218, 318. May be repeated for credit when the topics vary. Offered on the pass/fail basis only.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 318",
+"subject": "COM",
+"number": "318",
+"title": "Special Topics in Communication",
+"hours": 3.0,
+"division": "lower",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 114, 214, 314, 117, 217, 317, or 118, 218, 318. May be repeated for credit when the topics vary. Offered on the pass/fail basis only.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 118C",
+"subject": "COM",
+"number": "118C",
+"title": "Topics in Forum Seminar Series",
+"hours": 1.0,
+"division": "lower",
+"description": "Restricted to freshmen and sophomores. Lectures and discussions on various contemporary issues. Emphasis on multidisciplinary perspectives and critical discourse. For 118C, two lecture hours a week for eight weeks; for 218C, two lecture hours a week for one semester; for 318C, three lecture hours a week for one semester, or two lecture hours and one hour of supervised research a week for one semester. May be repeated for credit when the topics vary.",
+"restricted": "Restricted to freshmen and sophomores."
+},
+{
+"id": "COM 218C",
+"subject": "COM",
+"number": "218C",
+"title": "Topics in Forum Seminar Series",
+"hours": 2.0,
+"division": "lower",
+"description": "Restricted to freshmen and sophomores. Lectures and discussions on various contemporary issues. Emphasis on multidisciplinary perspectives and critical discourse. For 118C, two lecture hours a week for eight weeks; for 218C, two lecture hours a week for one semester; for 318C, three lecture hours a week for one semester, or two lecture hours and one hour of supervised research a week for one semester. May be repeated for credit when the topics vary.",
+"restricted": "Restricted to freshmen and sophomores."
+},
+{
+"id": "COM 318C",
+"subject": "COM",
+"number": "318C",
+"title": "Topics in Forum Seminar Series",
+"hours": 3.0,
+"division": "lower",
+"description": "Restricted to freshmen and sophomores. Lectures and discussions on various contemporary issues. Emphasis on multidisciplinary perspectives and critical discourse. For 118C, two lecture hours a week for eight weeks; for 218C, two lecture hours a week for one semester; for 318C, three lecture hours a week for one semester, or two lecture hours and one hour of supervised research a week for one semester. May be repeated for credit when the topics vary.",
+"restricted": "Restricted to freshmen and sophomores."
+},
+{
+"id": "COM 119",
+"subject": "COM",
+"number": "119",
+"title": "Topics in International Learning Seminars",
+"hours": 1.0,
+"division": "lower",
+"description": "Discussion of various issues related to the academic, cultural, and personal aspects of completing academic work in international locations. For each semester hour of credit earned, one lecture hour a week for one semester. Communication 119, 219, 319, and Undergraduate Studies 119 may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 219",
+"subject": "COM",
+"number": "219",
+"title": "Topics in International Learning Seminars",
+"hours": 2.0,
+"division": "lower",
+"description": "Discussion of various issues related to the academic, cultural, and personal aspects of completing academic work in international locations. For each semester hour of credit earned, one lecture hour a week for one semester. Communication 119, 219, 319, and Undergraduate Studies 119 may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 319",
+"subject": "COM",
+"number": "319",
+"title": "Topics in International Learning Seminars",
+"hours": 3.0,
+"division": "lower",
+"description": "Discussion of various issues related to the academic, cultural, and personal aspects of completing academic work in international locations. For each semester hour of credit earned, one lecture hour a week for one semester. Communication 119, 219, 319, and Undergraduate Studies 119 may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 119S",
+"subject": "COM",
+"number": "119S",
+"title": "Topics in Communication",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 219S",
+"subject": "COM",
+"number": "219S",
+"title": "Topics in Communication",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 319S",
+"subject": "COM",
+"number": "319S",
+"title": "Topics in Communication",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 419S",
+"subject": "COM",
+"number": "419S",
+"title": "Topics in Communication",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 519S",
+"subject": "COM",
+"number": "519S",
+"title": "Topics in Communication",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 619S",
+"subject": "COM",
+"number": "619S",
+"title": "Topics in Communication",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 719S",
+"subject": "COM",
+"number": "719S",
+"title": "Topics in Communication",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 819S",
+"subject": "COM",
+"number": "819S",
+"title": "Topics in Communication",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 919S",
+"subject": "COM",
+"number": "919S",
+"title": "Topics in Communication",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 619SA",
+"subject": "COM",
+"number": "619SA",
+"title": "Topics in Communication",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 619SB",
+"subject": "COM",
+"number": "619SB",
+"title": "Topics in Communication",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Communication Studies. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 320",
+"subject": "COM",
+"number": "320",
+"title": "Advanced Topics in Texas Sports and Media",
+"hours": 3.0,
+"division": "upper",
+"description": "Critical assessment of various contemporary and historical issues, emphasizing interdisciplinary perspectives. Three lecture hours a week for one semester. Communication 320 and Journalism 326S may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Prerequisite: Completion of at least sixty semester hours of coursework and a University grade point average of at least 2.25.",
+"prereqText": "Completion of at least sixty semester hours of coursework and a University grade point average of at least 2.25.",
+"prereqConfidence": "none"
+},
+{
+"id": "COM 320L",
+"subject": "COM",
+"number": "320L",
+"title": "Seminar on Communication and Leadership",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College of Communication. Builds on the foundation introduced in Communication 301L, advancing student work in theories, processes, and practices of leadership and communication. Three lecture hours a week for one semester. Communication 320L and Communication and Leadership 321 may not both be counted. Prerequisite: Communication 301L with a grade of at least C and a minimum University grade point average of 2.25.",
+"prereqText": "Communication 301L with a grade of at least C and a minimum University grade point average of 2.25.",
+"prereq": {
+"type": "course",
+"id": "COM 301L",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Moody College of Communication."
+},
+{
+"id": "COM 321",
+"subject": "COM",
+"number": "321",
+"title": "Communicating Social Justice Capstone",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students pursuing the Communicating Social Issues Minor. Produce content incorporating practical and theoretical understandings of media's role in promoting and/or obstructing social justice. The equivalent of three lecture hours a week for one semester. Prerequisite: Upper-division standing, and Communication 307 with a grade of at least C-.",
+"prereqText": "Upper-division standing, and Communication 307 with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "COM 307",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students pursuing the Communicating Social Issues Minor."
+},
+{
+"id": "COM 323",
+"subject": "COM",
+"number": "323",
+"title": "Topics in Communication Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Practical work experience, arranged by the student and approved by instructor. Internship hours to be arranged. May be repeated for credit when the topics vary. Offered on the pass/fail basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 324",
+"subject": "COM",
+"number": "324",
+"title": "Topics and Skills in Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students admitted to the Semester in Los Angeles Program. Contemporary issues, practices, and skills related to communication and the entertainment industries, including studies in the business of entertainment, the creative process, and contemporary Hollywood cinema. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing, three hours of lower-division coursework in radio-television-film, and a University grade point average of at least 2.25.",
+"prereqText": "Upper-division standing, three hours of lower-division coursework in radio-television-film, and a University grade point average of at least 2.25.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students admitted to the Semester in Los Angeles Program."
+},
+{
+"id": "COM 324C",
+"subject": "COM",
+"number": "324C",
+"title": "Fundamentals of Business Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore strategic business communications skills, including effective oral, written, and digital communication, across diverse audiences, presentations, and document types. Examine audience analysis, basic communication theory, interpersonal communication, and teamwork. The equivalent of three lecture hours per week for one semester. Only one of the following may be counted: Communication 324C, 324H, 324M, Business Administration 324, 324H. Offered on the letter-grade basis only. Prerequisite: Communication 301E.",
+"prereqText": "Communication 301E.",
+"prereq": {
+"type": "course",
+"id": "COM 301E"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 324H",
+"subject": "COM",
+"number": "324H",
+"title": "Introduction to Business Communication: Honors",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the McCombs School of Business Honors Program. Explore strategic business communications skills, including effective oral, written, and digital communication, across diverse audiences, presentations, and document types. Examine audience analysis, basic communication theory, interpersonal communication, and teamwork. The equivalent of three lecture hours a week for one semester. Only one of the following may be counted: Communication 324C, 324H, 324M, Business Administration 324, 324H. Offered on the letter-grade basis only. Prerequisite: Credit or registration for Business Administration 101H or 101S or 101T; and one of the following: English 303C (or 603A), Rhetoric and Writing 306, 306Q, 309J (or 309K), or Tutorial Course 303C (or 603A).",
+"prereqText": "Credit or registration for Business Administration 101H or 101S or 101T; and one of the following: English 303C (or 603A), Rhetoric and Writing 306, 306Q, 309J (or 309K), or Tutorial Course 303C (or 603A).",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in the McCombs School of Business Honors Program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 324M",
+"subject": "COM",
+"number": "324M",
+"title": "Introduction to Business Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the McCombs School of Business. Explore strategic business communications skills, including effective oral, written, and digital communication, across diverse audiences, presentations, and document types. Examine audience analysis, basic communication theory, interpersonal communication, and teamwork. The equivalent of three lecture hours a week for one semester. Only one of the following may be counted: Communication 324C, 324H, 324M, Business Administration 324, 324H. Offered on the letter-grade basis only. Prerequisite: Credit or registration for Business Administration 101H or 101S or 101T; and one of the following: English 303C (or 603A), Rhetoric and Writing 306, 306Q, 309J (or 309K), or Tutorial Course 303C (or 603A).",
+"prereqText": "Credit or registration for Business Administration 101H or 101S or 101T; and one of the following: English 303C (or 603A), Rhetoric and Writing 306, 306Q, 309J (or 309K), or Tutorial Course 303C (or 603A).",
+"prereqConfidence": "low",
+"restricted": "Restricted to students in the McCombs School of Business.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 125",
+"subject": "COM",
+"number": "125",
+"title": "Topics in Leadership and Communication",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in the College of Communication. Contemporary issues, practices, and skills related to leadership and communication. For 125, two lecture hours a week for eight weeks; for 225, two lecture hours a week for one semester; for 325, three lecture hours a week for one semester. May be repeated for credit when the topics vary.",
+"restricted": "Restricted to students in the College of Communication."
+},
+{
+"id": "COM 225",
+"subject": "COM",
+"number": "225",
+"title": "Topics in Leadership and Communication",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to students in the College of Communication. Contemporary issues, practices, and skills related to leadership and communication. For 125, two lecture hours a week for eight weeks; for 225, two lecture hours a week for one semester; for 325, three lecture hours a week for one semester. May be repeated for credit when the topics vary.",
+"restricted": "Restricted to students in the College of Communication."
+},
+{
+"id": "COM 325",
+"subject": "COM",
+"number": "325",
+"title": "Topics in Leadership and Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the College of Communication. Contemporary issues, practices, and skills related to leadership and communication. For 125, two lecture hours a week for eight weeks; for 225, two lecture hours a week for one semester; for 325, three lecture hours a week for one semester. May be repeated for credit when the topics vary.",
+"restricted": "Restricted to students in the College of Communication."
+},
+{
+"id": "COM 325S",
+"subject": "COM",
+"number": "325S",
+"title": "Topics in Sports Media",
+"hours": 3.0,
+"division": "upper",
+"description": "Special topics in the role and convergence of sports and the media. Three lecture hours a week for one semester. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 126",
+"subject": "COM",
+"number": "126",
+"title": "Independent Study",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College of Communication. Pursue special supervised individual research studies. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Moody College of Communication."
+},
+{
+"id": "COM 226",
+"subject": "COM",
+"number": "226",
+"title": "Independent Study",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College of Communication. Pursue special supervised individual research studies. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Moody College of Communication."
+},
+{
+"id": "COM 326",
+"subject": "COM",
+"number": "326",
+"title": "Independent Study",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College of Communication. Pursue special supervised individual research studies. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Moody College of Communication."
+},
+{
+"id": "COM 127",
+"subject": "COM",
+"number": "127",
+"title": "Independent Study in Social Justice",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students pursuing the Communicating Social Issues Minor. Pursue special supervised individual research studies in social justice. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Communication 307, at least 3 hours of coursework completed in the Communicating Social Issues Minor, and consent of instructor.",
+"prereqText": "Communication 307, at least 3 hours of coursework completed in the Communicating Social Issues Minor, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "COM 307"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students pursuing the Communicating Social Issues Minor.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 227",
+"subject": "COM",
+"number": "227",
+"title": "Independent Study in Social Justice",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to students pursuing the Communicating Social Issues Minor. Pursue special supervised individual research studies in social justice. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Communication 307, at least 3 hours of coursework completed in the Communicating Social Issues Minor, and consent of instructor.",
+"prereqText": "Communication 307, at least 3 hours of coursework completed in the Communicating Social Issues Minor, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "COM 307"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students pursuing the Communicating Social Issues Minor.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 327",
+"subject": "COM",
+"number": "327",
+"title": "Independent Study in Social Justice",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students pursuing the Communicating Social Issues Minor. Pursue special supervised individual research studies in social justice. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Communication 307, at least 3 hours of coursework completed in the Communicating Social Issues Minor, and consent of instructor.",
+"prereqText": "Communication 307, at least 3 hours of coursework completed in the Communicating Social Issues Minor, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "COM 307"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students pursuing the Communicating Social Issues Minor.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 129",
+"subject": "COM",
+"number": "129",
+"title": "Topics in International Learning Seminars",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students participating in a May Term Education Abroad program. Discussion of various issues related to the academic, cultural, and personal aspects of completing academic work in international locations. For each semester hour of credit earned, one lecture hour a week for one semester. Communication 129, 229, 329, 429, 529, 629 and Undergraduate Studies 119 may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students participating in a May Term Education Abroad program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 229",
+"subject": "COM",
+"number": "229",
+"title": "Topics in International Learning Seminars",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to students participating in a May Term Education Abroad program. Discussion of various issues related to the academic, cultural, and personal aspects of completing academic work in international locations. For each semester hour of credit earned, one lecture hour a week for one semester. Communication 129, 229, 329, 429, 529, 629 and Undergraduate Studies 119 may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students participating in a May Term Education Abroad program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 329",
+"subject": "COM",
+"number": "329",
+"title": "Topics in International Learning Seminars",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students participating in a May Term Education Abroad program. Discussion of various issues related to the academic, cultural, and personal aspects of completing academic work in international locations. For each semester hour of credit earned, one lecture hour a week for one semester. Communication 129, 229, 329, 429, 529, 629 and Undergraduate Studies 119 may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students participating in a May Term Education Abroad program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 429",
+"subject": "COM",
+"number": "429",
+"title": "Topics in International Learning Seminars",
+"hours": 4.0,
+"division": "upper",
+"description": "Restricted to students participating in a May Term Education Abroad program. Discussion of various issues related to the academic, cultural, and personal aspects of completing academic work in international locations. For each semester hour of credit earned, one lecture hour a week for one semester. Communication 129, 229, 329, 429, 529, 629 and Undergraduate Studies 119 may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students participating in a May Term Education Abroad program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 529",
+"subject": "COM",
+"number": "529",
+"title": "Topics in International Learning Seminars",
+"hours": 5.0,
+"division": "upper",
+"description": "Restricted to students participating in a May Term Education Abroad program. Discussion of various issues related to the academic, cultural, and personal aspects of completing academic work in international locations. For each semester hour of credit earned, one lecture hour a week for one semester. Communication 129, 229, 329, 429, 529, 629 and Undergraduate Studies 119 may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students participating in a May Term Education Abroad program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 629",
+"subject": "COM",
+"number": "629",
+"title": "Topics in International Learning Seminars",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to students participating in a May Term Education Abroad program. Discussion of various issues related to the academic, cultural, and personal aspects of completing academic work in international locations. For each semester hour of credit earned, one lecture hour a week for one semester. Communication 129, 229, 329, 429, 529, 629 and Undergraduate Studies 119 may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students participating in a May Term Education Abroad program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 629A",
+"subject": "COM",
+"number": "629A",
+"title": "Topics in International Learning Seminars",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to students participating in a May Term Education Abroad program. Discussion of various issues related to the academic, cultural, and personal aspects of completing academic work in international locations. For each semester hour of credit earned, one lecture hour a week for one semester. Communication 129, 229, 329, 429, 529, 629 and Undergraduate Studies 119 may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students participating in a May Term Education Abroad program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 629B",
+"subject": "COM",
+"number": "629B",
+"title": "Topics in International Learning Seminars",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to students participating in a May Term Education Abroad program. Discussion of various issues related to the academic, cultural, and personal aspects of completing academic work in international locations. For each semester hour of credit earned, one lecture hour a week for one semester. Communication 129, 229, 329, 429, 529, 629 and Undergraduate Studies 119 may not both be counted unless the topics vary. May be repeated for credit when the topics vary. Offered on the letter-grade basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students participating in a May Term Education Abroad program.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 129S",
+"subject": "COM",
+"number": "129S",
+"title": "Topics in Communication",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 229S",
+"subject": "COM",
+"number": "229S",
+"title": "Topics in Communication",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 329S",
+"subject": "COM",
+"number": "329S",
+"title": "Topics in Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 429S",
+"subject": "COM",
+"number": "429S",
+"title": "Topics in Communication",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 529S",
+"subject": "COM",
+"number": "529S",
+"title": "Topics in Communication",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 629S",
+"subject": "COM",
+"number": "629S",
+"title": "Topics in Communication",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 729S",
+"subject": "COM",
+"number": "729S",
+"title": "Topics in Communication",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 829S",
+"subject": "COM",
+"number": "829S",
+"title": "Topics in Communication",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 929S",
+"subject": "COM",
+"number": "929S",
+"title": "Topics in Communication",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 629SA",
+"subject": "COM",
+"number": "629SA",
+"title": "Topics in Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 629SB",
+"subject": "COM",
+"number": "629SB",
+"title": "Topics in Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the appropriate College of Communication department. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 330",
+"subject": "COM",
+"number": "330",
+"title": "Research in Texas Sports and Media",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Journalism 339S. Restricted to journalism majors. Supervised research with a faculty member; research may consist of an individual project or assisting a faculty research project. Hours to be arranged. May be repeated for credit. Prerequisite: Journalism 310F and 311F with a grade of at least B- in each.",
+"prereqText": "Journalism 310F and 311F with a grade of at least B- in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "J 310F",
+"minGrade": "B-"
+},
+{
+"type": "course",
+"id": "J 311F",
+"minGrade": "B-"
+}
+]
+},
+"prereqConfidence": "high",
+"sameAs": "Journalism 339S",
+"restricted": "Restricted to journalism majors."
+},
+{
+"id": "COM 330H",
+"subject": "COM",
+"number": "330H",
+"title": "Honors Capstone",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the College of Communication Honors Program. Independent project agreed upon by the student and instructor, includes a variety of approaches in a variety of media, from creative work, to campaign planning and implementation, research papers, long-form journalism, community engagement, and service learning initiatives. Three lecture hours a week for one semester. Prerequisite: Upper-division standing, Communication 307H and 308H.",
+"prereqText": "Upper-division standing, Communication 307H and 308H.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "COM 307H"
+},
+{
+"type": "course",
+"id": "COM 308H"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the College of Communication Honors Program."
+},
+{
+"id": "COM 333T",
+"subject": "COM",
+"number": "333T",
+"title": "Communication and Engineering Careers",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Cockrell School of Engineering. Study foundational communication skills associated with a successful engineering career, aiding in preparation for career fairs and interviews, communicating with non-technical audiences, diversity and inclusion, and teamwork. The equivalent of three lecture hours a week for one semester. Only one of the following may be counted: Aerospace Engineering 333T, Biomedical Engineering 333T, Communication 333T, Civil Engineering 333T, Chemical Engineering 333T, Electrical and Computer Engineering 333T, Electrical Engineering 333T, Engineering Studies 333T, Mechanical Engineering 333T, Petroleum and Geosystems Engineering 333T. Prerequisite: Rhetoric and Writing 306, or the equivalent, with a grade of at least C-.",
+"prereqText": "Rhetoric and Writing 306, or the equivalent, with a grade of at least C-.",
+"prereq": {
+"type": "course",
+"id": "RHE 306",
+"minGrade": "C-"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Cockrell School of Engineering."
+},
+{
+"id": "COM 134",
+"subject": "COM",
+"number": "134",
+"title": "Special Topics in Communication",
+"hours": 1.0,
+"division": "upper",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 134, 234, 334, 135, 235, 335, or 136, 236, 336. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 234",
+"subject": "COM",
+"number": "234",
+"title": "Special Topics in Communication",
+"hours": 2.0,
+"division": "upper",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 134, 234, 334, 135, 235, 335, or 136, 236, 336. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 334",
+"subject": "COM",
+"number": "334",
+"title": "Special Topics in Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 134, 234, 334, 135, 235, 335, or 136, 236, 336. May be repeated for credit when the topics vary."
+},
+{
+"id": "COM 135",
+"subject": "COM",
+"number": "135",
+"title": "Special Topics in Communication",
+"hours": 1.0,
+"division": "upper",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 134, 234, 334, 135, 235, 335, or 136, 236, 336. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 235",
+"subject": "COM",
+"number": "235",
+"title": "Special Topics in Communication",
+"hours": 2.0,
+"division": "upper",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 134, 234, 334, 135, 235, 335, or 136, 236, 336. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 335",
+"subject": "COM",
+"number": "335",
+"title": "Special Topics in Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 134, 234, 334, 135, 235, 335, or 136, 236, 336. May be repeated for credit when the topics vary. Offered on the letter-grade basis only.",
+"offering": "Offered on the letter-grade basis only."
+},
+{
+"id": "COM 136",
+"subject": "COM",
+"number": "136",
+"title": "Special Topics in Communication",
+"hours": 1.0,
+"division": "upper",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 134, 234, 334, 135, 235, 335, or 136, 236, 336. May be repeated for credit when the topics vary. Offered on the pass/fail basis only.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 236",
+"subject": "COM",
+"number": "236",
+"title": "Special Topics in Communication",
+"hours": 2.0,
+"division": "upper",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 134, 234, 334, 135, 235, 335, or 136, 236, 336. May be repeated for credit when the topics vary. Offered on the pass/fail basis only.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 336",
+"subject": "COM",
+"number": "336",
+"title": "Special Topics in Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Contemporary issues and practices in communication. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Only one of the following may be counted unless topics vary: Communication 134, 234, 334, 135, 235, 335, or 136, 236, 336. May be repeated for credit when the topics vary. Offered on the pass/fail basis only.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 340",
+"subject": "COM",
+"number": "340",
+"title": "Leadership and Urban Engagement",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Fine Arts 345, Liberal Arts 340, and Management 340. Restricted to students accepted to the UT in New York Program. Explore leadership skills and goals in the urban context. Read and discuss leadership challenges that arise when stakeholders come together to plan, make decisions, and take action in organizational and community settings. Three lecture hours a week for one semester. Only one of the following may be counted: Communication 340, Fine Arts 345, Liberal Arts 325 (Topic: Leadership/Urban Engagement), 340, Management 340.",
+"sameAs": "Fine Arts 345, Liberal Arts 340, and Management 340",
+"restricted": "Restricted to students accepted to the UT in New York Program."
+},
+{
+"id": "COM 040H",
+"subject": "COM",
+"number": "040H",
+"title": "Honors Reflection",
+"hours": 0.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College Honors Program. Reflect on the honors experience. Hours to be arranged. Offered on the pass/fail basis only.",
+"restricted": "Restricted to students in the Moody College Honors Program.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 350",
+"subject": "COM",
+"number": "350",
+"title": "Communication Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Internships to be arranged by student and approved by instructor. For 350, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 650, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Offered on the pass/fail basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 650",
+"subject": "COM",
+"number": "650",
+"title": "Communication Internship",
+"hours": 6.0,
+"division": "upper",
+"description": "Internships to be arranged by student and approved by instructor. For 350, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 650, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Offered on the pass/fail basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 650A",
+"subject": "COM",
+"number": "650A",
+"title": "Communication Internship",
+"hours": 6.0,
+"division": "upper",
+"description": "Internships to be arranged by student and approved by instructor. For 350, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 650, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Offered on the pass/fail basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 650B",
+"subject": "COM",
+"number": "650B",
+"title": "Communication Internship",
+"hours": 6.0,
+"division": "upper",
+"description": "Internships to be arranged by student and approved by instructor. For 350, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 650, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Offered on the pass/fail basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 350L",
+"subject": "COM",
+"number": "350L",
+"title": "Semester in Los Angeles Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Semester in Los Angeles Program. Practical work experience in the entertainment industry in Los Angeles. Students must make their own arrangements to secure relevant internships. For 350L, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 650L, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Communication 350L, 650L and Radio-Television-Film 350L, 650L may not both be counted. Offered on the pass/fail basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Semester in Los Angeles Program.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 650L",
+"subject": "COM",
+"number": "650L",
+"title": "Semester in Los Angeles Internship",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to students in the Semester in Los Angeles Program. Practical work experience in the entertainment industry in Los Angeles. Students must make their own arrangements to secure relevant internships. For 350L, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 650L, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Communication 350L, 650L and Radio-Television-Film 350L, 650L may not both be counted. Offered on the pass/fail basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Semester in Los Angeles Program.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 650LA",
+"subject": "COM",
+"number": "650LA",
+"title": "Semester in Los Angeles Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Semester in Los Angeles Program. Practical work experience in the entertainment industry in Los Angeles. Students must make their own arrangements to secure relevant internships. For 350L, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 650L, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Communication 350L, 650L and Radio-Television-Film 350L, 650L may not both be counted. Offered on the pass/fail basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Semester in Los Angeles Program.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 650LB",
+"subject": "COM",
+"number": "650LB",
+"title": "Semester in Los Angeles Internship",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Semester in Los Angeles Program. Practical work experience in the entertainment industry in Los Angeles. Students must make their own arrangements to secure relevant internships. For 350L, an average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term; for 650L, an average of 20 hours of work a week, for a total of at least 300 hours a semester or summer term. Communication 350L, 650L and Radio-Television-Film 350L, 650L may not both be counted. Offered on the pass/fail basis only. Prerequisite: Upper-division standing.",
+"prereqText": "Upper-division standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Semester in Los Angeles Program.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 351L",
+"subject": "COM",
+"number": "351L",
+"title": "Internship in Communication and Leadership",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to communication and leadership majors. Practical work experience related to the practice of ethical leadership and communication with a non-profit community, or philanthropic organization. An average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term. May not be taken by students who have credit for any three semester-hour communication college internship course. Communication 351L and Communication and Leadership 351 may not both be counted. Offered on the pass/fail basis only. Prerequisite: Upper-division standing, Communication 320L with grade of at least C, and a 2.25 overall GPA, and consent of instructor.",
+"prereqText": "Upper-division standing, Communication 320L with grade of at least C, and a 2.25 overall GPA, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "COM 320L",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to communication and leadership majors.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 160H",
+"subject": "COM",
+"number": "160H",
+"title": "Independent Study: Honors",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College of Communication Honors Program. Pursue special supervised individual research studies. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Communication 307H, 308H, and consent of instructor.",
+"prereqText": "Communication 307H, 308H, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "COM 307H"
+},
+{
+"type": "course",
+"id": "COM 308H"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Moody College of Communication Honors Program."
+},
+{
+"id": "COM 260H",
+"subject": "COM",
+"number": "260H",
+"title": "Independent Study: Honors",
+"hours": 2.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College of Communication Honors Program. Pursue special supervised individual research studies. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Communication 307H, 308H, and consent of instructor.",
+"prereqText": "Communication 307H, 308H, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "COM 307H"
+},
+{
+"type": "course",
+"id": "COM 308H"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Moody College of Communication Honors Program."
+},
+{
+"id": "COM 360H",
+"subject": "COM",
+"number": "360H",
+"title": "Independent Study: Honors",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College of Communication Honors Program. Pursue special supervised individual research studies. For each semester hour of credit earned, one lecture hour a week for one semester. May be repeated for credit. Prerequisite: Communication 307H, 308H, and consent of instructor.",
+"prereqText": "Communication 307H, 308H, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "COM 307H"
+},
+{
+"type": "course",
+"id": "COM 308H"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Moody College of Communication Honors Program."
+},
+{
+"id": "COM 361",
+"subject": "COM",
+"number": "361",
+"title": "Advanced Communication Research Design",
+"hours": 3.0,
+"division": "upper",
+"description": "Advanced studies in quantitative and qualitative designs, sampling, measurement, data collection, and analytic procedures in communication research. Three lecture hours a week for one semester. Prerequisite: Communication 306 or consent of instructor.",
+"prereqText": "Communication 306 or consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "COM 306"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "COM 370",
+"subject": "COM",
+"number": "370",
+"title": "Advanced Topics in Communication",
+"hours": 3.0,
+"division": "upper",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Upper-division standing, admission to the College of Communication Honors Program, and consent of instructor.",
+"prereqText": "Upper-division standing, admission to the College of Communication Honors Program, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "COM 370H",
+"subject": "COM",
+"number": "370H",
+"title": "Topics in Advanced Communication Studies: Honors",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College of Communication Honors Program. Special topics for students in the Moody College of Communication Honors Program. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Communication 307H, 308H, and consent of instructor.",
+"prereqText": "Communication 307H, 308H, and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "COM 307H"
+},
+{
+"type": "course",
+"id": "COM 308H"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Moody College of Communication Honors Program."
+},
+{
+"id": "COM 370L",
+"subject": "COM",
+"number": "370L",
+"title": "Capstone Course in Communication and Leadership",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to communication and leadership majors. Engagement in experiential learning. Development and presentation of ideas and plans for addressing a leadership challenge given by a partner organization. Three lecture hours a week for one semester. Communication 370L and Communication and Leadership 371 may not both be counted. Prerequisite: Upper-division standing, Communication 320L with a grade of at least C, and a minimum University grade point average of 2.25.",
+"prereqText": "Upper-division standing, Communication 320L with a grade of at least C, and a minimum University grade point average of 2.25.",
+"prereq": {
+"type": "course",
+"id": "COM 320L",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to communication and leadership majors."
+},
+{
+"id": "COM 179",
+"subject": "COM",
+"number": "179",
+"title": "Advanced Communication Internship",
+"hours": 1.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College of Communication. Practical work experience related to the student's area of interest in the communication field. An average of 10 hours of work a week, for a total of at least 150 hours a semester or summer term. May be repeated for credit. Offered on the pass/fail basis only. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in the Moody College of Communication.",
+"offering": "Offered on the pass/fail basis only."
+},
+{
+"id": "COM 679C",
+"subject": "COM",
+"number": "679C",
+"title": "Undergraduate Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Write and research two consecutive semesters under the supervision of a College of Communication faculty member; subjects are selected by the student with approval from the faculty member. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679CA, upper-division standing and consent of instructor. For 679CB, Communication 679CA.",
+"prereqText": "For 679CA, upper-division standing and consent of instructor. For 679CB, Communication 679CA.",
+"prereq": {
+"type": "course",
+"id": "COM 679CA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "COM 679CA",
+"subject": "COM",
+"number": "679CA",
+"title": "Undergraduate Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Write and research two consecutive semesters under the supervision of a College of Communication faculty member; subjects are selected by the student with approval from the faculty member. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679CA, upper-division standing and consent of instructor. For 679CB, Communication 679CA.",
+"prereqText": "For 679CA, upper-division standing and consent of instructor. For 679CB, Communication 679CA.",
+"prereq": {
+"type": "course",
+"id": "COM 679CA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "COM 679CB",
+"subject": "COM",
+"number": "679CB",
+"title": "Undergraduate Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Write and research two consecutive semesters under the supervision of a College of Communication faculty member; subjects are selected by the student with approval from the faculty member. The equivalent of three lecture hours a week for two semesters. Prerequisite: For 679CA, upper-division standing and consent of instructor. For 679CB, Communication 679CA.",
+"prereqText": "For 679CA, upper-division standing and consent of instructor. For 679CB, Communication 679CA.",
+"prereq": {
+"type": "course",
+"id": "COM 679CA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "COM 679H",
+"subject": "COM",
+"number": "679H",
+"title": "Honors Thesis",
+"hours": 6.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College of Communication Honors Program. Write and research two consecutive semesters under the supervision of a College of Communication faculty member; subjects are selected jointly by the student and the faculty member with approval by the director of the Honors Program. Three lecture hours a week for two semesters. Prerequisite: For 679HA, upper-division standing, Communication 307H, and 308H; for 679HB, upper-division standing, and Communication 679HA.",
+"prereqText": "For 679HA, upper-division standing, Communication 307H, and 308H; for 679HB, upper-division standing, and Communication 679HA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "COM 307H"
+},
+{
+"type": "course",
+"id": "COM 308H"
+},
+{
+"type": "course",
+"id": "COM 679HA"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Moody College of Communication Honors Program."
+},
+{
+"id": "COM 679HA",
+"subject": "COM",
+"number": "679HA",
+"title": "Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College of Communication Honors Program. Write and research two consecutive semesters under the supervision of a College of Communication faculty member; subjects are selected jointly by the student and the faculty member with approval by the director of the Honors Program. Three lecture hours a week for two semesters. Prerequisite: For 679HA, upper-division standing, Communication 307H, and 308H; for 679HB, upper-division standing, and Communication 679HA.",
+"prereqText": "For 679HA, upper-division standing, Communication 307H, and 308H; for 679HB, upper-division standing, and Communication 679HA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "COM 307H"
+},
+{
+"type": "course",
+"id": "COM 308H"
+},
+{
+"type": "course",
+"id": "COM 679HA"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Moody College of Communication Honors Program."
+},
+{
+"id": "COM 679HB",
+"subject": "COM",
+"number": "679HB",
+"title": "Honors Thesis",
+"hours": 3.0,
+"division": "upper",
+"description": "Restricted to students in the Moody College of Communication Honors Program. Write and research two consecutive semesters under the supervision of a College of Communication faculty member; subjects are selected jointly by the student and the faculty member with approval by the director of the Honors Program. Three lecture hours a week for two semesters. Prerequisite: For 679HA, upper-division standing, Communication 307H, and 308H; for 679HB, upper-division standing, and Communication 679HA.",
+"prereqText": "For 679HA, upper-division standing, Communication 307H, and 308H; for 679HB, upper-division standing, and Communication 679HA.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "COM 307H"
+},
+{
+"type": "course",
+"id": "COM 308H"
+},
+{
+"type": "course",
+"id": "COM 679HA"
+}
+]
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students in the Moody College of Communication Honors Program."
+},
+{
+"id": "COM 281",
+"subject": "COM",
+"number": "281",
+"title": "Topics in Seminar in Communication",
+"hours": 2.0,
+"division": "graduate",
+"description": "Communication in a pluralistic society; nature of theory development; state of communication theory; conceptual models; sources of communication theory: semantic, linguistic, perceptual, sociological; information theory. Two or three lecture hours a week for one semester. Communication 281 is offered on the credit/no credit basis only. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: For 281, graduate standing; for 381, graduate standing and at least twelve semester hours of upper-division coursework in the major.",
+"prereqText": "For 281, graduate standing; for 381, graduate standing and at least twelve semester hours of upper-division coursework in the major.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "COM 381",
+"subject": "COM",
+"number": "381",
+"title": "Topics in Seminar in Communication",
+"hours": 3.0,
+"division": "graduate",
+"description": "Communication in a pluralistic society; nature of theory development; state of communication theory; conceptual models; sources of communication theory: semantic, linguistic, perceptual, sociological; information theory. Two or three lecture hours a week for one semester. Communication 281 is offered on the credit/no credit basis only. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: For 281, graduate standing; for 381, graduate standing and at least twelve semester hours of upper-division coursework in the major.",
+"prereqText": "For 281, graduate standing; for 381, graduate standing and at least twelve semester hours of upper-division coursework in the major.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "COM 385",
+"subject": "COM",
+"number": "385",
+"title": "Topics and Skills in Communication",
+"hours": 3.0,
+"division": "graduate",
+"description": "Contemporary issues, practices, and skills related to communication. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "COM 088C",
+"subject": "COM",
+"number": "088C",
+"title": "Science Communications Seminar",
+"hours": 0.0,
+"division": "graduate",
+"description": "Same as Natural Sciences 088C. Restricted to students in the Moody College of Communication and the College of Natural Sciences. Professional development supplemental to primary studies. Designed to develop skills in the effective communication of scientific concepts. Hours to be arranged. Communication 088C and Natural Sciences 088C may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"sameAs": "Natural Sciences 088C",
+"restricted": "Restricted to students in the Moody College of Communication and the College of Natural Sciences.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "COM 088D",
+"subject": "COM",
+"number": "088D",
+"title": "Science Communications Practicum",
+"hours": 0.0,
+"division": "graduate",
+"description": "Same as Natural Sciences 088D. Restricted to students in the Moody College of Communication and the College of Natural Sciences. Professional development supplemental to primary studies. May be taking concurrently with the Science Communication Seminar. Opportunities to focus on skill development while receiving constructive assessment and evaluation. Hours to be arranged. Communication 088D and Natural Sciences 088D may not both be counted. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"sameAs": "Natural Sciences 088D",
+"restricted": "Restricted to students in the Moody College of Communication and the College of Natural Sciences.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "COM 398T",
+"subject": "COM",
+"number": "398T",
+"title": "Supervised Teaching in Communication",
+"hours": 3.0,
+"division": "graduate",
+"description": "Required for assistant instructors. Three lecture hours a week for one semester. Offered on the letter-grade basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the letter-grade basis only."
+}
+]
+}

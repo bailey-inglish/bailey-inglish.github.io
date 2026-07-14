@@ -1,0 +1,350 @@
+{
+"code": "PRF",
+"name": "Performance",
+"courses": [
+{
+"id": "PRF 201",
+"subject": "PRF",
+"number": "201",
+"title": "Lower-Division Music Performance: Secondary",
+"hours": 2.0,
+"division": "lower",
+"description": "Individual instruction in music performance for nonmusic majors and for music majors studying a secondary instrument. This course is offered in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, oboe, organ, percussion, piano, recorder, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice. Individual instruction. May be repeated for credit. Prerequisite: The ability to read music, and, for most instruments, an audition. For Guitar 201, at least two years of classical guitar lessons. For Piano 201, at least one year of piano lessons.",
+"prereqText": "The ability to read music, and, for most instruments, an audition. For Guitar 201, at least two years of classical guitar lessons. For Piano 201, at least one year of piano lessons.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "GUI 201"
+},
+{
+"type": "course",
+"id": "PIA 201"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRF 202",
+"subject": "PRF",
+"number": "202",
+"title": "Lower-Division Piano: Secondary",
+"hours": 2.0,
+"division": "lower",
+"description": "Individual instruction beyond Music 210K. May be repeated for credit when the topics vary. Prerequisite: Consent by audition.",
+"prereqText": "Consent by audition.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRF 210",
+"subject": "PRF",
+"number": "210",
+"title": "Lower-Division Music Performance: Principal",
+"hours": 2.0,
+"division": "lower",
+"description": "Individual instruction in the principal instrument for students pursuing the Bachelor of Arts in Music or the Bachelor of Music with a major in music studies, music theory, composition, music literature, or music performance. This course is offered in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice. Individual instruction. May be repeated for credit. Prerequisite: For Organ 210, Piano 201 or the equivalent.",
+"prereqText": "For Organ 210, Piano 201 or the equivalent.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "ORG 210"
+},
+{
+"type": "course",
+"id": "PIA 201"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRF 212",
+"subject": "PRF",
+"number": "212",
+"title": "Lower-Division Music Performance: Major",
+"hours": 2.0,
+"division": "lower",
+"description": "Individual instruction in music performance for students majoring in music performance or music performance pedagogy. This course is offered in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, harpsichord, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, and violoncello. Individual instruction. May be repeated for credit."
+},
+{
+"id": "PRF 312",
+"subject": "PRF",
+"number": "312",
+"title": "Lower-Division Music Performance: Major",
+"hours": 3.0,
+"division": "lower",
+"description": "Individual instruction in music performance for students majoring in music performance or music performance pedagogy. This course is offered in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, harpsichord, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, and violoncello. Individual instruction. May be repeated for credit."
+},
+{
+"id": "PRF 212J",
+"subject": "PRF",
+"number": "212J",
+"title": "Lower-Division Music Performance: Improvisation",
+"hours": 2.0,
+"division": "lower",
+"description": "Individual instruction in improvisation for students majoring in jazz composition or jazz performance. This course is offered in the following instruments: double bass, drum set, guitar, piano, saxophone, trombone, trumpet, and vibraphone. Individual instruction. May be repeated for credit."
+},
+{
+"id": "PRF 312J",
+"subject": "PRF",
+"number": "312J",
+"title": "Lower-Division Music Performance: Improvisation",
+"hours": 3.0,
+"division": "lower",
+"description": "Individual instruction in improvisation for students majoring in jazz composition or jazz performance. This course is offered in the following instruments: double bass, drum set, guitar, piano, saxophone, trombone, trumpet, and vibraphone. Individual instruction. May be repeated for credit."
+},
+{
+"id": "PRF 412J",
+"subject": "PRF",
+"number": "412J",
+"title": "Lower-Division Music Performance: Improvisation",
+"hours": 4.0,
+"division": "lower",
+"description": "Individual instruction in improvisation for students majoring in jazz composition or jazz performance. This course is offered in the following instruments: double bass, drum set, guitar, piano, saxophone, trombone, trumpet, and vibraphone. Individual instruction. May be repeated for credit."
+},
+{
+"id": "PRF 251",
+"subject": "PRF",
+"number": "251",
+"title": "Upper-Division Music Performance: Secondary",
+"hours": 2.0,
+"division": "upper",
+"description": "Individual instruction in music performance for nonmusic majors and for music majors studying a secondary instrument. This course is offered in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, harpsichord, oboe, organ, percussion, piano, recorder, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice. Individual instruction. May be repeated for credit. Prerequisite: Course 201 in the secondary instrument for four semesters, or the equivalent, and approval of the area faculty.",
+"prereqText": "Course 201 in the secondary instrument for four semesters, or the equivalent, and approval of the area faculty.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRF 260",
+"subject": "PRF",
+"number": "260",
+"title": "Upper-Division Music Performance: Principal",
+"hours": 2.0,
+"division": "upper",
+"description": "Individual instruction in the principal instrument for students pursuing the Bachelor of Arts in Music or the Bachelor of Music with a major in music studies, music theory, composition, music literature, or music performance. This course is offered in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, harpsichord, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice. Individual instruction. May be repeated for credit. Prerequisite: Course 210 in the principal instrument for four semesters, or the equivalent, and approval of the music faculty.",
+"prereqText": "Course 210 in the principal instrument for four semesters, or the equivalent, and approval of the music faculty.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRF 262",
+"subject": "PRF",
+"number": "262",
+"title": "Upper-Division Music Performance: Major",
+"hours": 2.0,
+"division": "upper",
+"description": "Individual instruction in music performance for students majoring in music performance. This course is offered in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, harpsichord, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice. Individual instruction. May be repeated for credit. Prerequisite: For Voice 462, Voice 210 for four semesters, or the equivalent, and approval of the music faculty; for other instruments, course 412 in the major instrument for four semesters, or the equivalent, and approval of the music faculty.",
+"prereqText": "For Voice 462, Voice 210 for four semesters, or the equivalent, and approval of the music faculty; for other instruments, course 412 in the major instrument for four semesters, or the equivalent, and approval of the music faculty.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "VOI 462"
+},
+{
+"type": "course",
+"id": "VOI 210"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRF 362",
+"subject": "PRF",
+"number": "362",
+"title": "Upper-Division Music Performance: Major",
+"hours": 3.0,
+"division": "upper",
+"description": "Individual instruction in music performance for students majoring in music performance. This course is offered in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, harpsichord, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice. Individual instruction. May be repeated for credit. Prerequisite: For Voice 462, Voice 210 for four semesters, or the equivalent, and approval of the music faculty; for other instruments, course 412 in the major instrument for four semesters, or the equivalent, and approval of the music faculty.",
+"prereqText": "For Voice 462, Voice 210 for four semesters, or the equivalent, and approval of the music faculty; for other instruments, course 412 in the major instrument for four semesters, or the equivalent, and approval of the music faculty.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "VOI 462"
+},
+{
+"type": "course",
+"id": "VOI 210"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "PRF 262J",
+"subject": "PRF",
+"number": "262J",
+"title": "Upper-Division Music Performance: Improvisation",
+"hours": 2.0,
+"division": "upper",
+"description": "Individual instruction in improvisation for students majoring in jazz composition and jazz performance. This course is offered in the following instruments: double bass, drum set, guitar, piano, saxophone, trombone, trumpet, and vibraphone. Individual instruction. May be repeated for credit. Prerequisite: For jazz composition majors, course 212J for two semesters, or the equivalent, and approval of the appropriate music faculty; for jazz performance majors, course 412J for two semesters, or the equivalent, and approval of the appropriate music faculty.",
+"prereqText": "For jazz composition majors, course 212J for two semesters, or the equivalent, and approval of the appropriate music faculty; for jazz performance majors, course 412J for two semesters, or the equivalent, and approval of the appropriate music faculty.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRF 362J",
+"subject": "PRF",
+"number": "362J",
+"title": "Upper-Division Music Performance: Improvisation",
+"hours": 3.0,
+"division": "upper",
+"description": "Individual instruction in improvisation for students majoring in jazz composition and jazz performance. This course is offered in the following instruments: double bass, drum set, guitar, piano, saxophone, trombone, trumpet, and vibraphone. Individual instruction. May be repeated for credit. Prerequisite: For jazz composition majors, course 212J for two semesters, or the equivalent, and approval of the appropriate music faculty; for jazz performance majors, course 412J for two semesters, or the equivalent, and approval of the appropriate music faculty.",
+"prereqText": "For jazz composition majors, course 212J for two semesters, or the equivalent, and approval of the appropriate music faculty; for jazz performance majors, course 412J for two semesters, or the equivalent, and approval of the appropriate music faculty.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRF 280",
+"subject": "PRF",
+"number": "280",
+"title": "Graduate Course in Performance",
+"hours": 2.0,
+"division": "graduate",
+"description": "Offered in opera and in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice. Individual instruction. May be repeated for credit. Prerequisite: Graduate standing in music and consent of the graduate adviser.",
+"prereqText": "Graduate standing in music and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered in opera and in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice."
+},
+{
+"id": "PRF 380",
+"subject": "PRF",
+"number": "380",
+"title": "Graduate Course in Performance",
+"hours": 3.0,
+"division": "graduate",
+"description": "Offered in opera and in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice. Individual instruction. May be repeated for credit. Prerequisite: Graduate standing in music and consent of the graduate adviser.",
+"prereqText": "Graduate standing in music and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered in opera and in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice."
+},
+{
+"id": "PRF 480",
+"subject": "PRF",
+"number": "480",
+"title": "Graduate Course in Performance",
+"hours": 4.0,
+"division": "graduate",
+"description": "Offered in opera and in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice. Individual instruction. May be repeated for credit. Prerequisite: Graduate standing in music and consent of the graduate adviser.",
+"prereqText": "Graduate standing in music and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered in opera and in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice."
+},
+{
+"id": "PRF 280J",
+"subject": "PRF",
+"number": "280J",
+"title": "Graduate Course in Performance: Jazz Improvisation",
+"hours": 2.0,
+"division": "graduate",
+"description": "Individual instruction in jazz improvisation in the following instruments: double bass, drum set, guitar, piano, saxophone, trombone, trumpet, and vibraphone. Individual instruction. May be repeated for credit. Prerequisite: Graduate standing in music and consent of the graduate adviser.",
+"prereqText": "Graduate standing in music and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRF 480J",
+"subject": "PRF",
+"number": "480J",
+"title": "Graduate Course in Performance: Jazz Improvisation",
+"hours": 4.0,
+"division": "graduate",
+"description": "Individual instruction in jazz improvisation in the following instruments: double bass, drum set, guitar, piano, saxophone, trombone, trumpet, and vibraphone. Individual instruction. May be repeated for credit. Prerequisite: Graduate standing in music and consent of the graduate adviser.",
+"prereqText": "Graduate standing in music and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRF 280V",
+"subject": "PRF",
+"number": "280V",
+"title": "Graduate Course in Performance: Collaborative Piano",
+"hours": 2.0,
+"division": "graduate",
+"description": "Individual instruction in collaborative piano (accompanying). Individual instruction. May be repeated for credit. Prerequisite: Admission to a graduate program in music and consent of the graduate adviser.",
+"prereqText": "Admission to a graduate program in music and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRF 480V",
+"subject": "PRF",
+"number": "480V",
+"title": "Graduate Course in Performance: Collaborative Piano",
+"hours": 4.0,
+"division": "graduate",
+"description": "Individual instruction in collaborative piano (accompanying). Individual instruction. May be repeated for credit. Prerequisite: Admission to a graduate program in music and consent of the graduate adviser.",
+"prereqText": "Admission to a graduate program in music and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRF 290",
+"subject": "PRF",
+"number": "290",
+"title": "Advanced Graduate Course in Performance",
+"hours": 2.0,
+"division": "graduate",
+"description": "Offered in opera and in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice. Individual instruction. May be repeated for credit. Prerequisite: Admission to a doctoral degree program in music and consent of the graduate adviser.",
+"prereqText": "Admission to a doctoral degree program in music and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered in opera and in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice."
+},
+{
+"id": "PRF 490",
+"subject": "PRF",
+"number": "490",
+"title": "Advanced Graduate Course in Performance",
+"hours": 4.0,
+"division": "graduate",
+"description": "Offered in opera and in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice. Individual instruction. May be repeated for credit. Prerequisite: Admission to a doctoral degree program in music and consent of the graduate adviser.",
+"prereqText": "Admission to a doctoral degree program in music and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered in opera and in the following instruments: bassoon, clarinet, double bass, euphonium, flute, French horn, guitar, harp, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, violoncello, and voice."
+},
+{
+"id": "PRF 290J",
+"subject": "PRF",
+"number": "290J",
+"title": "Advanced Graduate Course in Performance: Jazz Improvisation",
+"hours": 2.0,
+"division": "graduate",
+"description": "Individual instruction in jazz improvisation in the following instruments: double bass, drum set, guitar, piano, saxophone, trombone, trumpet, and vibraphone. Individual instruction. May be repeated for credit. Prerequisite: Admission to a doctoral degree program in music and consent of the graduate adviser.",
+"prereqText": "Admission to a doctoral degree program in music and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRF 490J",
+"subject": "PRF",
+"number": "490J",
+"title": "Advanced Graduate Course in Performance: Jazz Improvisation",
+"hours": 4.0,
+"division": "graduate",
+"description": "Individual instruction in jazz improvisation in the following instruments: double bass, drum set, guitar, piano, saxophone, trombone, trumpet, and vibraphone. Individual instruction. May be repeated for credit. Prerequisite: Admission to a doctoral degree program in music and consent of the graduate adviser.",
+"prereqText": "Admission to a doctoral degree program in music and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRF 290V",
+"subject": "PRF",
+"number": "290V",
+"title": "Advanced Graduate Course in Performance: Collaborative Piano",
+"hours": 2.0,
+"division": "graduate",
+"description": "Individual instruction in collaborative piano (accompanying). Individual instruction. May be repeated for credit. Prerequisite: Admission to a doctoral program in music and consent of the graduate adviser.",
+"prereqText": "Admission to a doctoral program in music and consent of the graduate adviser.",
+"prereqConfidence": "none"
+},
+{
+"id": "PRF 490V",
+"subject": "PRF",
+"number": "490V",
+"title": "Advanced Graduate Course in Performance: Collaborative Piano",
+"hours": 4.0,
+"division": "graduate",
+"description": "Individual instruction in collaborative piano (accompanying). Individual instruction. May be repeated for credit. Prerequisite: Admission to a doctoral program in music and consent of the graduate adviser.",
+"prereqText": "Admission to a doctoral program in music and consent of the graduate adviser.",
+"prereqConfidence": "none"
+}
+]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "2024-26/certificate/quantum-information-science",
+ "edition": "2024-26",
+ "type": "certificate",
+ "name": "Quantum Information Science",
+ "college": "Natural Sciences",
+ "sourceUrl": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Quantum Information Science Certificate",
+  "of": [
+   {
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours selected from the following courses:",
+    "filter": {
+     "courses": [
+      "C S 309",
+      "C S 378",
+      "C S 358H"
+     ],
+     "label": "Six hours selected from the following courses:"
+    },
+    "minGrade": "C-",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/",
+     "quote": "Six hours selected from the following courses:"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve hours selected from among the following supplementary courses:",
+    "filter": {
+     "courses": [
+      "PHY 373",
+      "PHY 362K",
+      "C S 331",
+      "C S 331H",
+      "C S 358H",
+      "M 340L",
+      "M 341",
+      "M 346",
+      "PHY 371C",
+      "C S 370",
+      "M 375C"
+     ],
+     "label": "Twelve hours selected from among the following supplementary courses:"
+    },
+    "minGrade": "C-",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/minor-and-certificate-programs/",
+     "quote": "Twelve hours selected from among the following supplementary courses:"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "totalHours": 18.0
+}

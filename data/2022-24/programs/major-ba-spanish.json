@@ -1,0 +1,84 @@
+{
+ "id": "2022-24/major/ba-spanish",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "Spanish",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/spanish/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "manual",
+    "text": "1. Three semester hours of grammar and writing: Spanish 327C or Spanish 327N",
+    "title": "1. Three semester hours of grammar and writing: Spanish 327C or Spanish 327N",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/spanish/",
+     "quote": "1. Three semester hours of grammar and writing: Spanish 327C or Spanish 327N"
+    }
+   },
+   {
+    "type": "all",
+    "title": "2. One introductory course in language and linguistics in society: Spanish 330L",
+    "of": [
+     {
+      "type": "course",
+      "course": "SPN 330L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/spanish/",
+     "quote": "2. One introductory course in language and linguistics in society: Spanish 330L"
+    }
+   },
+   {
+    "type": "course",
+    "course": "SPN 328C",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/spanish/",
+     "quote": "3. One introductory course in literatures and cultures: Spanish 328C"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "5. Twelve additional semester hours of upper-division coursework in Spanish",
+    "title": "5. Twelve additional semester hours of upper-division coursework in Spanish",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/spanish/",
+     "quote": "5. Twelve additional semester hours of upper-division coursework in Spanish"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "6. One Capstone Seminar: Spanish 379C or Spanish 379L",
+    "of": [
+     {
+      "type": "course",
+      "course": "SPN 379C"
+     },
+     {
+      "type": "course",
+      "course": "SPN 379L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/spanish/",
+     "quote": "6. One Capstone Seminar: Spanish 379C or Spanish 379L"
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "SPN"
+ ]
+}

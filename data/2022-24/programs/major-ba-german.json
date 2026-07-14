@@ -1,0 +1,109 @@
+{
+ "id": "2022-24/major/ba-german",
+ "edition": "2022-24",
+ "type": "major",
+ "name": "German",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/german/",
+ "includes": [
+  "2022-24/layer/core-curriculum",
+  "2022-24/layer/university-general",
+  "2022-24/layer/cola-ba-plan-i"
+ ],
+ "rules": {
+  "type": "all",
+  "title": "Requirements (auto-extracted)",
+  "of": [
+   {
+    "type": "course",
+    "course": "GER 322E",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/german/",
+     "quote": "Three semester hours: German 322E"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Nine semester hours from German 342K, 343K, 344K, 347L, or 348D",
+    "of": [
+     {
+      "type": "course",
+      "course": "GER 342K"
+     },
+     {
+      "type": "course",
+      "course": "GER 343K"
+     },
+     {
+      "type": "course",
+      "course": "GER 344K"
+     },
+     {
+      "type": "course",
+      "course": "GER 347L"
+     },
+     {
+      "type": "course",
+      "course": "GER 348D"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/german/",
+     "quote": "Nine semester hours from German 342K, 343K, 344K, 347L, or 348D"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "Six semester hours from German 363K, 369, 373, or 379",
+    "of": [
+     {
+      "type": "course",
+      "course": "GER 363K"
+     },
+     {
+      "type": "course",
+      "course": "GER 369"
+     },
+     {
+      "type": "course",
+      "course": "GER 373"
+     },
+     {
+      "type": "course",
+      "course": "GER 379"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/german/",
+     "quote": "Six semester hours from German 363K, 369, 373, or 379"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Three semester hours of any upper-division German or German, Scandinavian, and Dutch studies course.",
+    "title": "Three semester hours of any upper-division German or German, Scandinavian, and D",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/german/",
+     "quote": "Three semester hours of any upper-division German or German, Scandinavian, and Dutch studies course."
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Eighteen of the 24 semester hours must be taken in residence. German 149T, 249T, and 349T may not be counted toward a major in German.",
+    "title": "Eighteen of the 24 semester hours must be taken in residence. German 149T, 249T,",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/german/",
+     "quote": "Eighteen of the 24 semester hours must be taken in residence. German 149T, 249T, and 349T may not be counted toward a major in German."
+    }
+   }
+  ]
+ },
+ "auto": true,
+ "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
+ "degreeType": "BA",
+ "majorSubjects": [
+  "GER"
+ ]
+}

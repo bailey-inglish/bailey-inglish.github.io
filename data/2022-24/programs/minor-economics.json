@@ -1,0 +1,67 @@
+{
+ "id": "2022-24/minor/economics",
+ "edition": "2022-24",
+ "type": "minor",
+ "name": "Economics",
+ "college": "Liberal Arts",
+ "sourceUrl": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+ "rules": {
+  "type": "all",
+  "title": "Economics Minor",
+  "of": [
+   {
+    "type": "course",
+    "course": "ECO 304K",
+    "title": "ECO 304K",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "course",
+    "course": "ECO 304L",
+    "title": "ECO 304L",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/"
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following:",
+    "of": [
+     {
+      "type": "course",
+      "course": "ECO 420K"
+     },
+     {
+      "type": "course",
+      "course": "ECO 421K"
+     },
+     {
+      "type": "course",
+      "course": "ECO 420S"
+     },
+     {
+      "type": "course",
+      "course": "FIN 321K"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "One of the following:"
+    }
+   },
+   {
+    "type": "manual",
+    "text": "Two additional upper-division economics courses, excluding: ECO 420K, 421K, 420S, and FIN 321K",
+    "title": "Two additional upper-division economics courses, excluding: ECO 420K, 421K, 420S",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
+     "quote": "Two additional upper-division economics courses, excluding: ECO 420K, 421K, 420S, and FIN 321K"
+    }
+   }
+  ]
+ },
+ "auto": true
+}

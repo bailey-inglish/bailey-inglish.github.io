@@ -1,0 +1,264 @@
+{
+"code": "S C",
+"name": "Serbian/Croatian",
+"courses": [
+{
+"id": "S C 601C",
+"subject": "S C",
+"number": "601C",
+"title": "Intensive Bosnian/Croatian/Serbian I",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Bosnian/Croatian/Serbian. Emphasis on developing oral proficiency in Bosnian/Croatian/Serbian using intensive methods of instruction. Six lecture hours a week for one semester. Serbian/Croatian 601C and 506 may not both be counted. Serbian/Croatian 601C and 507 may not both be counted."
+},
+{
+"id": "S C 601CA",
+"subject": "S C",
+"number": "601CA",
+"title": "Intensive Bosnian/Croatian/Serbian I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Bosnian/Croatian/Serbian. Emphasis on developing oral proficiency in Bosnian/Croatian/Serbian using intensive methods of instruction. Six lecture hours a week for one semester. Serbian/Croatian 601C and 506 may not both be counted. Serbian/Croatian 601C and 507 may not both be counted."
+},
+{
+"id": "S C 601CB",
+"subject": "S C",
+"number": "601CB",
+"title": "Intensive Bosnian/Croatian/Serbian I",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Bosnian/Croatian/Serbian. Emphasis on developing oral proficiency in Bosnian/Croatian/Serbian using intensive methods of instruction. Six lecture hours a week for one semester. Serbian/Croatian 601C and 506 may not both be counted. Serbian/Croatian 601C and 507 may not both be counted."
+},
+{
+"id": "S C 506",
+"subject": "S C",
+"number": "506",
+"title": "First-Year Bosnian/Croatian/Serbian I",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on proficiency in four skills: listening, speaking, reading, and writing. Five lecture hours a week for one semester. Serbian/Croatian 601C and 506 may not both be counted."
+},
+{
+"id": "S C 507",
+"subject": "S C",
+"number": "507",
+"title": "First-Year Bosnian/Croatian/Serbian II",
+"hours": 5.0,
+"division": "lower",
+"description": "Emphasis on proficiency in four skills: listening, speaking, reading, and writing. Five lecture hours a week for one semester. Serbian/Croatian 601C and 507 may not both be counted. Prerequisite: Serbian/Croatian 506.",
+"prereqText": "Serbian/Croatian 506.",
+"prereq": {
+"type": "course",
+"id": "S C 506"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "S C 611C",
+"subject": "S C",
+"number": "611C",
+"title": "Intensive Bosnian/Croatian/Serbian II",
+"hours": 6.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Bosnian/Croatian/Serbian. Continuing intensive development of proficiency in Bosnian/Croatian/Serbian, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Serbian/Croatian 611C and 312K may not both be counted. Serbian/Croatian 611C and 312L may not both be counted. Prerequisite: Serbian/Croatian 601C or 507.",
+"prereqText": "Serbian/Croatian 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "S C 601C"
+},
+{
+"type": "course",
+"id": "S C 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "S C 611CA",
+"subject": "S C",
+"number": "611CA",
+"title": "Intensive Bosnian/Croatian/Serbian II",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Bosnian/Croatian/Serbian. Continuing intensive development of proficiency in Bosnian/Croatian/Serbian, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Serbian/Croatian 611C and 312K may not both be counted. Serbian/Croatian 611C and 312L may not both be counted. Prerequisite: Serbian/Croatian 601C or 507.",
+"prereqText": "Serbian/Croatian 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "S C 601C"
+},
+{
+"type": "course",
+"id": "S C 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "S C 611CB",
+"subject": "S C",
+"number": "611CB",
+"title": "Intensive Bosnian/Croatian/Serbian II",
+"hours": 3.0,
+"division": "lower",
+"description": "Not open to native or heritage speakers of Bosnian/Croatian/Serbian. Continuing intensive development of proficiency in Bosnian/Croatian/Serbian, with a focus on speaking and the reading of authentic texts. Six lecture hours a week for one semester. Serbian/Croatian 611C and 312K may not both be counted. Serbian/Croatian 611C and 312L may not both be counted. Prerequisite: Serbian/Croatian 601C or 507.",
+"prereqText": "Serbian/Croatian 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "S C 601C"
+},
+{
+"type": "course",
+"id": "S C 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "S C 312K",
+"subject": "S C",
+"number": "312K",
+"title": "Second-Year Bosnian/Croatian/Serbian I",
+"hours": 3.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the second-year level. Three lecture hours a week for one semester. Serbian/Croatian 611C and 312K may not both be counted. Prerequisite: Serbian/Croatian 601C or 507.",
+"prereqText": "Serbian/Croatian 601C or 507.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "S C 601C"
+},
+{
+"type": "course",
+"id": "S C 507"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "S C 312L",
+"subject": "S C",
+"number": "312L",
+"title": "Second-Year Bosnian/Croatian/Serbian II",
+"hours": 3.0,
+"division": "lower",
+"description": "Listening, speaking, reading, and writing at the advanced, second-year level. Three lecture hours a week for one semester. Serbian/Croatian 611C and 312L may not both be counted. Prerequisite: Serbian/Croatian 312K.",
+"prereqText": "Serbian/Croatian 312K.",
+"prereq": {
+"type": "course",
+"id": "S C 312K"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "S C 324",
+"subject": "S C",
+"number": "324",
+"title": "Topics in Bosnian/Croatian/Serbian Studies",
+"hours": 3.0,
+"division": "upper",
+"description": "Selected aspects of Bosnian/Croatian/Serbian history and culture. Conducted in English. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Varies with the topic.",
+"prereqText": "Varies with the topic.",
+"prereqConfidence": "none"
+},
+{
+"id": "S C 325",
+"subject": "S C",
+"number": "325",
+"title": "Third-Year Bosnian/Croatian/Serbian I",
+"hours": 3.0,
+"division": "upper",
+"description": "Oral expression, reading, and composition. Three lecture hours a week for one semester. Prerequisite: Serbian/Croatian 611C or 312L.",
+"prereqText": "Serbian/Croatian 611C or 312L.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "S C 611C"
+},
+{
+"type": "course",
+"id": "S C 312L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "S C 326",
+"subject": "S C",
+"number": "326",
+"title": "Third-Year Bosnian/Croatian/Serbian II",
+"hours": 3.0,
+"division": "upper",
+"description": "Oral expression, reading, and composition. Three lecture hours a week for one semester. Prerequisite: Serbian/Croatian 325.",
+"prereqText": "Serbian/Croatian 325.",
+"prereq": {
+"type": "course",
+"id": "S C 325"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "S C 379",
+"subject": "S C",
+"number": "379",
+"title": "Conference Course in Bosnian/Croatian/Serbian",
+"hours": 3.0,
+"division": "upper",
+"description": "Conference course. May be repeated for credit. Prerequisite: Serbian/Croatian 312K and 312L and consent of instructor.",
+"prereqText": "Serbian/Croatian 312K and 312L and consent of instructor.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "S C 312K"
+},
+{
+"type": "course",
+"id": "S C 312L"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "S C 392",
+"subject": "S C",
+"number": "392",
+"title": "Topics in Bosnian, Croatian, and Serbian Language",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "S C 395",
+"subject": "S C",
+"number": "395",
+"title": "Conference Course",
+"hours": 3.0,
+"division": "graduate",
+"description": "Study of individual problems in Serbian and Croatian languages, literature, and culture. Conference course. May be repeated for credit when the topics vary. Prerequisite: Graduate standing in the Department of Slavic and Eurasian Studies, or graduate standing and consent of instructor.",
+"prereqText": "Graduate standing in the Department of Slavic and Eurasian Studies, or graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+}
+]
+}

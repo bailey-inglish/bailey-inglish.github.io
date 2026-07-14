@@ -1,0 +1,954 @@
+{
+"code": "MNS",
+"name": "Marine Science",
+"courses": [
+{
+"id": "MNS 101",
+"subject": "MNS",
+"number": "101",
+"title": "Seminar in Marine Science",
+"hours": 1.0,
+"division": "lower",
+"description": "Overview of the depth and breadth of marine and freshwater science. Introduction to research opportunities at the university. One lecture hour a week for one semester. Biology 101C (Topic: Seminar in Marine Science) and Marine Sciences 101 may not both be counted. Prerequisite: None",
+"prereqText": "None.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 307",
+"subject": "MNS",
+"number": "307",
+"title": "Introduction to Oceanography",
+"hours": 3.0,
+"division": "lower",
+"description": "Introduction to the sciences of oceanography: geological, physical, and biological. Two lecture hours and two laboratory hours a week for one semester.",
+"tccn": "GEOL 1345"
+},
+{
+"id": "MNS 308",
+"subject": "MNS",
+"number": "308",
+"title": "Humans and a Changing Ocean",
+"hours": 3.0,
+"division": "lower",
+"description": "The consequences of human-induced alteration of the marine environment including the impact on fisheries, marine mammals, food-web changes, and changes in species composition and ecological function will be explored. Designed for non-science majors. Two lecture hours and two laboratory hours a week for one semester. Marine Sciences 309 (Topic: Humans and a Changing Ocean) and 308 may not both be counted."
+},
+{
+"id": "MNS 309",
+"subject": "MNS",
+"number": "309",
+"title": "Topics in Marine Science",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed for nonscience majors. Selected topics in marine science, including marine biology, marine chemistry, and physical oceanography. Two lecture hours and one and one-half laboratory hours a week for one semester. May not be counted toward a degree in marine science. May be repeated for credit when the topics vary. Prerequisite: Marine Sciences 307.",
+"prereqText": "Marine Sciences 307.",
+"prereq": {
+"type": "course",
+"id": "MNS 307"
+},
+"prereqConfidence": "high",
+"excluded": "a degree in marine science"
+},
+{
+"id": "MNS 310",
+"subject": "MNS",
+"number": "310",
+"title": "Fundamentals of Marine Science",
+"hours": 3.0,
+"division": "lower",
+"description": "Designed for students pursuing a degree option in Marine and Freshwater Science. In-depth introduction to physical, chemical, geological, and biological processes in marine systems. Three lecture hours a week for one semester. Prerequisite: The following with a grade of at least a C- in each: Biology 311D or 315H; and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least a C- in each: Biology 311D or 315H; and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 320",
+"subject": "MNS",
+"number": "320",
+"title": "Marine Ecology",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of ecological processes at different levels of integration in marine ecosystems. Three lecture hours a week for one semester. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 120L",
+"subject": "MNS",
+"number": "120L",
+"title": "Laboratory Studies in Marine Ecology",
+"hours": 1.0,
+"division": "upper",
+"description": "A laboratory course with two weekend field trips to the Marine Science Institute at Port Aransas to perform ecological studies in the Texas coastal zone. Two weekend field trips, with pre- and post-field trip laboratory hours required. Prerequisite: Credit or registration for Marine Sciences 320.",
+"prereqText": "Credit or registration for Marine Sciences 320.",
+"prereq": {
+"type": "course",
+"id": "MNS 320"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MNS 440",
+"subject": "MNS",
+"number": "440",
+"title": "Limnology and Oceanography",
+"hours": 4.0,
+"division": "upper",
+"description": "Same as Biology 456L. An introduction to the study of the interactions between aquatic organisms and their environments. Two lecture hours and six laboratory hours a week for one semester. Prerequisite: Chemistry 302, 302C, or 302H; and the following with a grade of at least C-: Biology 325 or 325H, and Biology 206L, 208L, 226L, or Environmental Science 311.",
+"prereqText": "Chemistry 302, 302C, or 302H; and the following with a grade of at least C-: Biology 325 or 325H, and Biology 206L, 208L, 226L, or Environmental Science 311.",
+"prereqConfidence": "low",
+"sameAs": "Biology 456L"
+},
+{
+"id": "MNS 344K",
+"subject": "MNS",
+"number": "344K",
+"title": "Marine Mining and Minerals",
+"hours": 3.0,
+"division": "upper",
+"description": "Same as Geological Sciences 344K. Overview of seafloor mineral deposits, their exploration, and mining. Three lecture hours a week for one semester. May not be counted toward the Bachelor of Science in Geological Sciences or the Bachelor of Science in Environmental Sciences degrees. Prerequisite: Geological Sciences 401 or 303, 416K, and 416M.",
+"prereqText": "Geological Sciences 401 or 303, 416K, and 416M.",
+"prereqConfidence": "low",
+"sameAs": "Geological Sciences 344K",
+"excluded": "the Bachelor of Science in Geological Sciences or the Bachelor of Science in Environmental Sciences degrees"
+},
+{
+"id": "MNS 148",
+"subject": "MNS",
+"number": "148",
+"title": "Training Cruise(s)",
+"hours": 1.0,
+"division": "upper",
+"description": "May be repeated for credit when the topics vary."
+},
+{
+"id": "MNS 348",
+"subject": "MNS",
+"number": "348",
+"title": "Training Cruise(s)",
+"hours": 3.0,
+"division": "upper",
+"description": "May be repeated for credit when the topics vary."
+},
+{
+"id": "MNS 352",
+"subject": "MNS",
+"number": "352",
+"title": "Principles of Marine Science",
+"hours": 3.0,
+"division": "upper",
+"description": "Lectures, laboratory, and fieldwork. The equivalent of three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 352C",
+"subject": "MNS",
+"number": "352C",
+"title": "Estuarine Ecology",
+"hours": 3.0,
+"division": "upper",
+"description": "Explores general ecological principles of estuarine environments in Texas including physiography, hydrography, and plant and animal community structure and productivity. The equivalent of three lecture hours a week for one semester; additional lecture and field/lab hours may be required. Marine Sciences 352 (Topic 8) and 352C may not both be counted. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 352D",
+"subject": "MNS",
+"number": "352D",
+"title": "Marine Botany",
+"hours": 3.0,
+"division": "upper",
+"description": "Exploration of the marine algae and seagrasses of the south Texas coast, with emphasis on their taxonomy, physiology, and ecology; may include field trips to representative coastal habitats. The equivalent of three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 352E",
+"subject": "MNS",
+"number": "352E",
+"title": "Marine Conservation Biology",
+"hours": 3.0,
+"division": "upper",
+"description": "Explores how human activities influence the natural functioning and diversity of marine ecosystems and examines conservation efforts aimed to promote the sustainability of coastal habitats; may include several field excursions to local/regional marine ecosystems including sensitive coastal marshes and seagrass communities. Encourages the development of creative and critical thinking skills through numerous classroom activities focused on developing holistic understandings of marine ecosystems and the complexities of conservation science. The equivalent of three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. Marine Sciences 353 (Topic: Marine Conservation Biology) and 352E may not both be counted. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H; and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H; and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 152L",
+"subject": "MNS",
+"number": "152L",
+"title": "Principles of Marine Science: Laboratory Studies",
+"hours": 1.0,
+"division": "upper",
+"description": "A laboratory course with one-day field trips (which may include weekends) to local estuarine and coastal habitats. Includes pre- and post-field trip laboratory hours. For each semester hour of credit earned, three or four field/laboratory sessions, scheduled throughout the semester. May be counted toward the Bachelor of Science in Biology (Option III: Marine and Freshwater Biology) and toward other undergraduate degrees in biology. May be repeated for credit when the topics vary. Prerequisite: Credit or registration for Marine Sciences 352.",
+"prereqText": "Credit or registration for Marine Sciences 352.",
+"prereq": {
+"type": "course",
+"id": "MNS 352"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MNS 252L",
+"subject": "MNS",
+"number": "252L",
+"title": "Principles of Marine Science: Laboratory Studies",
+"hours": 2.0,
+"division": "upper",
+"description": "A laboratory course with one-day field trips (which may include weekends) to local estuarine and coastal habitats. Includes pre- and post-field trip laboratory hours. For each semester hour of credit earned, three or four field/laboratory sessions, scheduled throughout the semester. May be counted toward the Bachelor of Science in Biology (Option III: Marine and Freshwater Biology) and toward other undergraduate degrees in biology. May be repeated for credit when the topics vary. Prerequisite: Credit or registration for Marine Sciences 352.",
+"prereqText": "Credit or registration for Marine Sciences 352.",
+"prereq": {
+"type": "course",
+"id": "MNS 352"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MNS 352M",
+"subject": "MNS",
+"number": "352M",
+"title": "Marine Community Ecology",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore the assembly and functioning of marine communities. Examine both traditional and newly-emerging techniques to study marine communities, from visual censuses to molecular approaches. Three lecture hours a week for one semester. Marine Sciences 353 (Topic: Marine Community Ecology) and 352M may not both be counted. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 152R",
+"subject": "MNS",
+"number": "152R",
+"title": "Marine Science Research and Reporting",
+"hours": 1.0,
+"division": "upper",
+"description": "Reviews the planning, conduct, and communication of marine science research, including hypothesis generation, experimental design, data analysis, and scientific writing and presentation. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Marine Sciences 148, 348 (Topic 1) and 152R, 352R may not both be counted. Prerequisite: Upper-division standing and concurrent enrollment in Marine Sciences 170, 270, or 370.",
+"prereqText": "Upper-division standing and concurrent enrollment in Marine Sciences 170, 270, or 370.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 352R",
+"subject": "MNS",
+"number": "352R",
+"title": "Marine Science Research and Reporting",
+"hours": 3.0,
+"division": "upper",
+"description": "Reviews the planning, conduct, and communication of marine science research, including hypothesis generation, experimental design, data analysis, and scientific writing and presentation. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester. Marine Sciences 148, 348 (Topic 1) and 152R, 352R may not both be counted. Prerequisite: Upper-division standing and concurrent enrollment in Marine Sciences 170, 270, or 370.",
+"prereqText": "Upper-division standing and concurrent enrollment in Marine Sciences 170, 270, or 370.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 152S",
+"subject": "MNS",
+"number": "152S",
+"title": "Principles of Marine Science: Undergraduate Seminar",
+"hours": 1.0,
+"division": "upper",
+"description": "Guest lectures by local and visiting research scientists on a variety of topics in marine and environmental science. Each seminar is followed by a separate one-hour discussion to give students an opportunity to meet directly with the scientist. For each semester hour of credit earned, one lecture/discussion a week for one semester. May be counted toward the Bachelor of Science in Biology (Option III: Marine and Freshwater Biology) and toward other undergraduate degrees in biology. May be repeated for credit when the topics vary."
+},
+{
+"id": "MNS 252S",
+"subject": "MNS",
+"number": "252S",
+"title": "Principles of Marine Science: Undergraduate Seminar",
+"hours": 2.0,
+"division": "upper",
+"description": "Guest lectures by local and visiting research scientists on a variety of topics in marine and environmental science. Each seminar is followed by a separate one-hour discussion to give students an opportunity to meet directly with the scientist. For each semester hour of credit earned, one lecture/discussion a week for one semester. May be counted toward the Bachelor of Science in Biology (Option III: Marine and Freshwater Biology) and toward other undergraduate degrees in biology. May be repeated for credit when the topics vary."
+},
+{
+"id": "MNS 152T",
+"subject": "MNS",
+"number": "152T",
+"title": "Principles of Marine Science: Special Topics",
+"hours": 1.0,
+"division": "upper",
+"description": "Advanced research topics in marine science relevant to critical habitats, organisms, or processes. The equivalent of one or two lecture hours a week for one semester; additional lecture and field/lab hours may be required. May be counted toward the Bachelor of Science in Biology (Option III: Marine and Freshwater Biology) and toward other undergraduate degrees in biology. May be repeated for credit when the topics vary. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 252T",
+"subject": "MNS",
+"number": "252T",
+"title": "Principles of Marine Science: Special Topics",
+"hours": 2.0,
+"division": "upper",
+"description": "Advanced research topics in marine science relevant to critical habitats, organisms, or processes. The equivalent of one or two lecture hours a week for one semester; additional lecture and field/lab hours may be required. May be counted toward the Bachelor of Science in Biology (Option III: Marine and Freshwater Biology) and toward other undergraduate degrees in biology. May be repeated for credit when the topics vary. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 353",
+"subject": "MNS",
+"number": "353",
+"title": "Topics in Marine Science",
+"hours": 3.0,
+"division": "upper",
+"description": "The equivalent of three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. May be repeated for credit when the topics vary. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 354",
+"subject": "MNS",
+"number": "354",
+"title": "Marine Invertebrates",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of invertebrate taxonomy, structure, behavior, and ecology; may include field sampling and laboratory studies of invertebrate habitats of the Texas coast. The equivalent of three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. Prerequisite: The following with a grade of least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 354C",
+"subject": "MNS",
+"number": "354C",
+"title": "Biology of Fishes",
+"hours": 3.0,
+"division": "upper",
+"description": "Anatomy, physiology, behavior, life history, taxonomy, and distribution of fishes; may include field sampling and laboratory studies of the coastal biota. The equivalent of three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 354E",
+"subject": "MNS",
+"number": "354E",
+"title": "Aquatic Microbiology",
+"hours": 3.0,
+"division": "upper",
+"description": "Ecology, physiology, distribution, and growth of heterotrophic and autotrophic bacteria and fungi in waters and sediments. The equivalent of three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. Marine Sciences 354E and 384E may not both be counted. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 354F",
+"subject": "MNS",
+"number": "354F",
+"title": "Marine Geology",
+"hours": 3.0,
+"division": "upper",
+"description": "Survey of the origin, structure, stratigraphy, and sedimentology of marine basins and continental margins. Three lecture hours a week for one semester. Marine Sciences 354F and 384F may not both be counted. Prerequisite: Upper-division standing; and six semester hours of coursework in chemistry, marine science, or geological sciences, or consent of instructor.",
+"prereqText": "Upper-division standing; and six semester hours of coursework in chemistry, marine science, or geological sciences, or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 354J",
+"subject": "MNS",
+"number": "354J",
+"title": "Marine Chemistry",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to marine and environmental chemistry, including the distribution of elements in seawater, the geochemical and oceanographic processes controlling and affected by these distributions, and the effects of human activities on marine chemical processes. The equivalent of three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 354Q",
+"subject": "MNS",
+"number": "354Q",
+"title": "Marine Environmental Science",
+"hours": 3.0,
+"division": "upper",
+"description": "Application of the principles of marine science to the study of environmental issues: toxicology, biogeochemical cycles, and the biological and ecological impacts of zenobiotic materials in the coastal zone. The equivalent of two lecture hours and one laboratory hour a week for one semester; additional lecture and field/laboratory hours may be required. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 354T",
+"subject": "MNS",
+"number": "354T",
+"title": "Biological Oceanography",
+"hours": 3.0,
+"division": "upper",
+"description": "Introduction to the organisms in the sea, their adaptations to the environment, and the factors that control their distribution and abundance; may include laboratory and field work with organisms found in the coastal waters of Texas. The equivalent of three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. Prerequisite: The following with a grade of at least C-: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C-: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 354U",
+"subject": "MNS",
+"number": "354U",
+"title": "Biology of Sharks, Skates, and Rays",
+"hours": 3.0,
+"division": "upper",
+"description": "Ecology, anatomy, and physiology of elasmobranch fishes. The equivalent of three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 355C",
+"subject": "MNS",
+"number": "355C",
+"title": "Physiology of Fishes",
+"hours": 3.0,
+"division": "upper",
+"description": "Physiology of major organ systems of both marine and freshwater fishes. The equivalent of three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 355E",
+"subject": "MNS",
+"number": "355E",
+"title": "Marine Fisheries Ecology",
+"hours": 3.0,
+"division": "upper",
+"description": "Explore a broad understanding of fish and fisheries science. Examine fundamental information on fish biology and ecology pertaining to diet, growth, and reproduction with fisheries' specific information that includes historical perspectives, methodology, and overall management strategies. Three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. Marine Sciences 353 (Topic: Fisheries Ecology) and 355E may not both be counted. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 356",
+"subject": "MNS",
+"number": "356",
+"title": "Ecosystem Oceanography",
+"hours": 3.0,
+"division": "upper",
+"description": "An exploration of interconnections within and among marine ecosystems, as well as their linkages to climate, human activity, and adjacent freshwater and terrestrial environments. Emphasis will be placed on Gulf of Mexico ecosystems; may include hands-on field and laboratory activities. The equivalent of three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. Marine Sciences 352 (Topic: Ecosystem Oceanography) and 356 may not both be counted. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 357",
+"subject": "MNS",
+"number": "357",
+"title": "Marine Phytoplankton Diversity",
+"hours": 3.0,
+"division": "upper",
+"description": "The taxonomy of the major phytoplankton groups, their physiology, and their role in marine ecosystem; may include field and/or laboratory hours. The equivalent of three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. Marine Sciences 353 (Topic: Diversity Marine Phytoplankton) and 357 may not both be counted. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 367K",
+"subject": "MNS",
+"number": "367K",
+"title": "Human Exploration and Exploitation of the Sea",
+"hours": 3.0,
+"division": "upper",
+"description": "Review of the history of ocean exploration including major oceanographic expeditions. Discussion of current topics in ocean exploration and exploitation of marine resources, the impact of resource exploitation on biological systems, and the development of marine policy. An oral presentation is required. The equivalent of three lecture hours a week for one semester; additional lecture and field/laboratory hours may be required. Prerequisite: The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqText": "The following with a grade of at least C- in each: Biology 311D or 315H, and Chemistry 302 or 302C.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 170",
+"subject": "MNS",
+"number": "170",
+"title": "Special Studies in Marine Science",
+"hours": 1.0,
+"division": "upper",
+"description": "Supervised individual instruction and research in marine science field and laboratory techniques. The equivalent of one, two, or three class hours a week for one semester, at the Marine Science Institute at Port Aransas. May be repeated for credit. Prerequisite: Six semester hours of upper-division coursework in science, and a University grade point average of at least 2.50.",
+"prereqText": "Six semester hours of upper-division coursework in science, and a University grade point average of at least 2.50.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 270",
+"subject": "MNS",
+"number": "270",
+"title": "Special Studies in Marine Science",
+"hours": 2.0,
+"division": "upper",
+"description": "Supervised individual instruction and research in marine science field and laboratory techniques. The equivalent of one, two, or three class hours a week for one semester, at the Marine Science Institute at Port Aransas. May be repeated for credit. Prerequisite: Six semester hours of upper-division coursework in science, and a University grade point average of at least 2.50.",
+"prereqText": "Six semester hours of upper-division coursework in science, and a University grade point average of at least 2.50.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 370",
+"subject": "MNS",
+"number": "370",
+"title": "Special Studies in Marine Science",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised individual instruction and research in marine science field and laboratory techniques. The equivalent of one, two, or three class hours a week for one semester, at the Marine Science Institute at Port Aransas. May be repeated for credit. Prerequisite: Six semester hours of upper-division coursework in science, and a University grade point average of at least 2.50.",
+"prereqText": "Six semester hours of upper-division coursework in science, and a University grade point average of at least 2.50.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 180",
+"subject": "MNS",
+"number": "180",
+"title": "Research in Marine Science",
+"hours": 1.0,
+"division": "graduate",
+"description": "Restricted to students in marine science. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in marine science."
+},
+{
+"id": "MNS 380",
+"subject": "MNS",
+"number": "380",
+"title": "Research in Marine Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students in marine science. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in marine science."
+},
+{
+"id": "MNS 680",
+"subject": "MNS",
+"number": "680",
+"title": "Research in Marine Science",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in marine science. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in marine science."
+},
+{
+"id": "MNS 680A",
+"subject": "MNS",
+"number": "680A",
+"title": "Research in Marine Science",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in marine science. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in marine science."
+},
+{
+"id": "MNS 680B",
+"subject": "MNS",
+"number": "680B",
+"title": "Research in Marine Science",
+"hours": 6.0,
+"division": "graduate",
+"description": "Restricted to students in marine science. For each semester hour of credit earned, the equivalent of one class hour a week for one semester. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor and the graduate adviser.",
+"prereqText": "Graduate standing and consent of instructor and the graduate adviser.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students in marine science."
+},
+{
+"id": "MNS 481C",
+"subject": "MNS",
+"number": "481C",
+"title": "Marine Ecosystem Dynamics",
+"hours": 4.0,
+"division": "graduate",
+"description": "Interactions between organisms and the physical processes that regulate productivity and distribution of marine life in oceanic and coastal ecosystems. Four lecture hours a week for one semester. Prerequisite: Graduate standing; and either consent of instructor or the following: six semester hours of coursework in biological sciences chosen from Biology 311C, 311D, and the equivalent; and Chemistry 301 and 302, or the equivalent.",
+"prereqText": "Graduate standing; and either consent of instructor or the following: six semester hours of coursework in biological sciences chosen from Biology 311C, 311D, and the equivalent; and Chemistry 301 and 302, or the equivalent.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BIO 311C"
+},
+{
+"type": "course",
+"id": "BIO 311D"
+},
+{
+"type": "course",
+"id": "CH 301"
+},
+{
+"type": "course",
+"id": "CH 302"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MNS 382",
+"subject": "MNS",
+"number": "382",
+"title": "Principles of Marine Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 482C",
+"subject": "MNS",
+"number": "482C",
+"title": "Marine Biogeochemistry",
+"hours": 4.0,
+"division": "graduate",
+"description": "Study of chemical, biological, geological, and physical processes that influence cycling of bioactive elements in marine waters and sediments. Four lecture hours a week for one semester. Prerequisite: Graduate standing; and either consent of instructor or the following: Physical Science 303 and 304, or the equivalent; Chemistry 301, and 302 or the equivalent; and six semester hours of coursework in biological sciences chosen from Biology 311C, 311D, and the equivalent.",
+"prereqText": "Graduate standing; and either consent of instructor or the following: Physical Science 303 and 304, or the equivalent; Chemistry 301, and 302 or the equivalent; and six semester hours of coursework in biological sciences chosen from Biology 311C, 311D, and the equivalent.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 483C",
+"subject": "MNS",
+"number": "483C",
+"title": "Adaptations to the Marine Environment",
+"hours": 4.0,
+"division": "graduate",
+"description": "The physiological basis for organismal and population-level responses to marine environments. Four lecture hours a week for one semester. Prerequisite: Graduate standing; and either consent of instructor or the following: six semester hours of coursework in biological sciences chosen from Biology 311C, 311D, and the equivalent; and Chemistry 301 and 302, or the equivalent.",
+"prereqText": "Graduate standing; and either consent of instructor or the following: six semester hours of coursework in biological sciences chosen from Biology 311C, 311D, and the equivalent; and Chemistry 301 and 302, or the equivalent.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BIO 311C"
+},
+{
+"type": "course",
+"id": "BIO 311D"
+},
+{
+"type": "course",
+"id": "CH 301"
+},
+{
+"type": "course",
+"id": "CH 302"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MNS 384C",
+"subject": "MNS",
+"number": "384C",
+"title": "Benthic Ecology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Interactions among organisms, sediments, and physical processes of estuarine and oceanic bottoms. Three lecture hours a week for one semester. Prerequisite: Graduate standing, Marine Sciences 354 or the equivalent, and consent of instructor.",
+"prereqText": "Graduate standing, Marine Sciences 354 or the equivalent, and consent of instructor.",
+"prereq": {
+"type": "course",
+"id": "MNS 354"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MNS 384E",
+"subject": "MNS",
+"number": "384E",
+"title": "Marine Microbial Ecology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Metabolism of photosynthetic and chemosynthetic microorganisms in the sea. Three lecture hours and eight laboratory hours a week for one semester. Marine Sciences 354E and 384E may not both be counted. Prerequisite: Graduate standing; six semester hours of coursework in biological science chosen from Biology 311C, 311D, or the equivalent; Chemistry 301 and 302, or the equivalent; and consent of instructor.",
+"prereqText": "Graduate standing; six semester hours of coursework in biological science chosen from Biology 311C, 311D, or the equivalent; Chemistry 301 and 302, or the equivalent; and consent of instructor.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 384F",
+"subject": "MNS",
+"number": "384F",
+"title": "Marine Geology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Development of ocean basins; marine and coastal depositional environments, processes, and sedimentary parameters; marine field techniques. Three lecture hours a week for one semester. Marine Sciences 354F and 384F may not both be counted. Prerequisite: Graduate standing; six semester hours of coursework in general chemistry or mineralogy; six semester hours of coursework in biology or paleontology; and six semester hours of upper-division coursework in geological sciences or consent of instructor.",
+"prereqText": "Graduate standing; six semester hours of coursework in general chemistry or mineralogy; six semester hours of coursework in biology or paleontology; and six semester hours of upper-division coursework in geological sciences or consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 384J",
+"subject": "MNS",
+"number": "384J",
+"title": "Marine Ecology",
+"hours": 3.0,
+"division": "graduate",
+"description": "Principles of competition and of predator-prey, herbivore-plant, and reproductive interactions within diverse marine phyla. Three lecture hours a week for one semester. Prerequisite: Graduate standing, a basic course in biological science, and consent of instructor.",
+"prereqText": "Graduate standing, a basic course in biological science, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 384K",
+"subject": "MNS",
+"number": "384K",
+"title": "Ecology of Fishes",
+"hours": 3.0,
+"division": "graduate",
+"description": "Organismal, population, and community ecology of marine and freshwater fishes. Three lecture hours a week for one semester. Prerequisite: Graduate standing in marine science or biological sciences; and consent of instructor.",
+"prereqText": "Graduate standing in marine science or biological sciences; and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 384L",
+"subject": "MNS",
+"number": "384L",
+"title": "Marine Chemistry",
+"hours": 3.0,
+"division": "graduate",
+"description": "Chemical processes in the sea. Three lecture hours and eight laboratory hours a week for one semester. Prerequisite: Graduate standing, general physics, and six semester hours of upper-division coursework in chemistry.",
+"prereqText": "Graduate standing, general physics, and six semester hours of upper-division coursework in chemistry.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 384T",
+"subject": "MNS",
+"number": "384T",
+"title": "Biological Oceanographic Processes",
+"hours": 3.0,
+"division": "graduate",
+"description": "An advanced course in biological processes in oceanic and coastal waters, with emphasis on empirical and theoretical concepts of marine ecosystem dynamics, primary and secondary production, and detrital cycling. Three lecture hours and eight laboratory hours a week for one semester. Prerequisite: Graduate standing; and either consent of instructor or the following: six semester hours of coursework in biological sciences chosen from Biology 311C, 311D, and the equivalent; and Chemistry 301 and 302, or the equivalent.",
+"prereqText": "Graduate standing; and either consent of instructor or the following: six semester hours of coursework in biological sciences chosen from Biology 311C, 311D, and the equivalent; and Chemistry 301 and 302, or the equivalent.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "BIO 311C"
+},
+{
+"type": "course",
+"id": "BIO 311D"
+},
+{
+"type": "course",
+"id": "CH 301"
+},
+{
+"type": "course",
+"id": "CH 302"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "MNS 384U",
+"subject": "MNS",
+"number": "384U",
+"title": "Reproductive Physiology of Fishes",
+"hours": 3.0,
+"division": "graduate",
+"description": "Endocrine and environmental control of reproductive cycles in teleost fishes. Three lecture hours a week for one semester. Prerequisite: Graduate standing, a beginning course in physiology, and consent of instructor.",
+"prereqText": "Graduate standing, a beginning course in physiology, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 385E",
+"subject": "MNS",
+"number": "385E",
+"title": "Marine Macrophytes",
+"hours": 3.0,
+"division": "graduate",
+"description": "A lecture, laboratory, and field course that examines the systematics, ecology, and productivity of marine macroalgae and seagrasses, strategies and seasonal patterns of growth, photosynthesis, and carbon metabolism in relation to in situ light environments. Three lecture hours a week for one semester, with forty hours of laboratory and fieldwork. Prerequisite: Graduate standing, six semester hours of upper-division coursework in biology, and consent of instructor.",
+"prereqText": "Graduate standing, six semester hours of upper-division coursework in biology, and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 385F",
+"subject": "MNS",
+"number": "385F",
+"title": "Environmental Modeling",
+"hours": 3.0,
+"division": "graduate",
+"description": "Introductory course in modeling, with emphasis on the models used in ecology, oceanography, and earth sciences. Two lecture hours and one and one-half laboratory hours a week for one semester. Prerequisite: Graduate standing in marine science and consent of instructor.",
+"prereqText": "Graduate standing in marine science and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 386",
+"subject": "MNS",
+"number": "386",
+"title": "Phytoplankton Ecology",
+"hours": 3.0,
+"division": "graduate",
+"description": "The interactions of physiology, morphology, and behavior of microalgae with physical, chemical, and biological features of the environment as related to the distribution of marine phytoplankton. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor. Biology 478L; 448L or 455L; and 456L or 373.",
+"prereqText": "Graduate standing and consent of instructor. Biology 478L; 448L or 455L; and 456L or 373.",
+"prereqConfidence": "low"
+},
+{
+"id": "MNS 387",
+"subject": "MNS",
+"number": "387",
+"title": "Pelagic Ecosystems",
+"hours": 3.0,
+"division": "graduate",
+"description": "Advanced study of processes affecting the distribution and abundance of marine planktonic and nektonic organisms, primary and secondary production in marine pelagic environments, and food web interactions in the pelagia. Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 188",
+"subject": "MNS",
+"number": "188",
+"title": "Marine Research Training Cruise",
+"hours": 1.0,
+"division": "graduate",
+"description": "Shipboard training in marine research through participation in research projects and completion of report. One five- to seven-day cruise; additional laboratory work is required for 388. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 388",
+"subject": "MNS",
+"number": "388",
+"title": "Marine Research Training Cruise",
+"hours": 3.0,
+"division": "graduate",
+"description": "Shipboard training in marine research through participation in research projects and completion of report. One five- to seven-day cruise; additional laboratory work is required for 388. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 191",
+"subject": "MNS",
+"number": "191",
+"title": "Seminar in Marine Science",
+"hours": 1.0,
+"division": "graduate",
+"description": "Recent advances in the marine sciences, discussed by students, faculty and staff members, and guest lecturers. Topics to be announced. One lecture hour a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 193",
+"subject": "MNS",
+"number": "193",
+"title": "Topics in Marine Science",
+"hours": 1.0,
+"division": "graduate",
+"description": "Lecture, laboratory, and fieldwork. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 293",
+"subject": "MNS",
+"number": "293",
+"title": "Topics in Marine Science",
+"hours": 2.0,
+"division": "graduate",
+"description": "Lecture, laboratory, and fieldwork. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 393",
+"subject": "MNS",
+"number": "393",
+"title": "Topics in Marine Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "Lecture, laboratory, and fieldwork. For each semester hour of credit earned, the equivalent of one lecture hour a week for one semester, with additional hours to be arranged. May be repeated for credit when the topics vary. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 698",
+"subject": "MNS",
+"number": "698",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in marine science and consent of the graduate adviser; for 698B, Marine Sciences 698A.",
+"prereqText": "For 698A, graduate standing in marine science and consent of the graduate adviser; for 698B, Marine Sciences 698A.",
+"prereq": {
+"type": "course",
+"id": "MNS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MNS 698A",
+"subject": "MNS",
+"number": "698A",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in marine science and consent of the graduate adviser; for 698B, Marine Sciences 698A.",
+"prereqText": "For 698A, graduate standing in marine science and consent of the graduate adviser; for 698B, Marine Sciences 698A.",
+"prereq": {
+"type": "course",
+"id": "MNS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MNS 698B",
+"subject": "MNS",
+"number": "698B",
+"title": "Thesis",
+"hours": 6.0,
+"division": "graduate",
+"description": "The equivalent of three lecture hours a week for two semesters. Offered on the credit/no credit basis only. Prerequisite: For 698A, graduate standing in marine science and consent of the graduate adviser; for 698B, Marine Sciences 698A.",
+"prereqText": "For 698A, graduate standing in marine science and consent of the graduate adviser; for 698B, Marine Sciences 698A.",
+"prereq": {
+"type": "course",
+"id": "MNS 698A"
+},
+"prereqConfidence": "high",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MNS 398T",
+"subject": "MNS",
+"number": "398T",
+"title": "Supervised Teaching in Marine Science",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "MNS 399W",
+"subject": "MNS",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MNS 699W",
+"subject": "MNS",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MNS 999W",
+"subject": "MNS",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MNS 699WA",
+"subject": "MNS",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "MNS 699WB",
+"subject": "MNS",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}

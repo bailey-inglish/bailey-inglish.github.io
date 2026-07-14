@@ -1,0 +1,658 @@
+{
+"code": "LAT",
+"name": "Latin",
+"courses": [
+{
+"id": "LAT 601C",
+"subject": "LAT",
+"number": "601C",
+"title": "Beginning Latin",
+"hours": 6.0,
+"division": "lower",
+"description": "Fundamentals of grammar and reading. Six lecture hours a week for one semester. Only one of the following may be counted: Latin 601C; 506 and 507"
+},
+{
+"id": "LAT 601CA",
+"subject": "LAT",
+"number": "601CA",
+"title": "Beginning Latin",
+"hours": 3.0,
+"division": "lower",
+"description": "Fundamentals of grammar and reading. Six lecture hours a week for one semester. Only one of the following may be counted: Latin 601C; 506 and 507"
+},
+{
+"id": "LAT 601CB",
+"subject": "LAT",
+"number": "601CB",
+"title": "Beginning Latin",
+"hours": 3.0,
+"division": "lower",
+"description": "Fundamentals of grammar and reading. Six lecture hours a week for one semester. Only one of the following may be counted: Latin 601C; 506 and 507"
+},
+{
+"id": "LAT 506",
+"subject": "LAT",
+"number": "506",
+"title": "First-Year Latin I",
+"hours": 5.0,
+"division": "lower",
+"description": "Fundamentals of grammar and reading. Five lecture hours a week for one semester. Only one of the following may be counted: Latin 601C; or 506 and 507."
+},
+{
+"id": "LAT 507",
+"subject": "LAT",
+"number": "507",
+"title": "First-Year Latin II",
+"hours": 5.0,
+"division": "lower",
+"description": "Continuation of Latin 506. Five lecture hours a week for one semester. Only one of the following may be counted: Latin 601C; or 506 and 507 Prerequisite: Latin 506 with a grade of at least C.",
+"prereqText": "Latin 506 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "LAT 506",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAT 509L",
+"subject": "LAT",
+"number": "509L",
+"title": "Reading Beginning Latin",
+"hours": 5.0,
+"division": "lower",
+"description": "Restricted to students outside the Department of Classics. Continue exploring beginning-level Latin reading. Five lecture hours a week for one semester. Prerequisite: Latin 507 with a grade of at least C.",
+"prereqText": "Latin 507 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "LAT 507",
+"minGrade": "C"
+},
+"prereqConfidence": "high",
+"restricted": "Restricted to students outside the Department of Classics."
+},
+{
+"id": "LAT 311",
+"subject": "LAT",
+"number": "311",
+"title": "Intermediate Latin I",
+"hours": 3.0,
+"division": "lower",
+"description": "Continuation of Latin 601C and 507. Introduction to reading classical authors in their cultural context. Includes grammar review. Three lecture hours a week for one semester. Latin 311 and 511K may not both be counted. Prerequisite: Latin 601C or 507 with a grade of at least C.",
+"tccn": "LATI 2311",
+"prereqText": "Latin 601C or 507 with a grade of at least C.",
+"prereq": {
+"type": "any",
+"of": [
+{
+"type": "course",
+"id": "LAT 601C"
+},
+{
+"type": "course",
+"id": "LAT 507",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAT 511K",
+"subject": "LAT",
+"number": "511K",
+"title": "Accelerated Intermediate Latin",
+"hours": 5.0,
+"division": "lower",
+"description": "Five lecture hours a week for one semester. Only one of the following may be counted: Latin 511K, 312K, 316. Latin 311 and 511K may not both be counted. Prerequisite: Latin 507 with a grade of at least C.",
+"prereqText": "Latin 507 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "LAT 507",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAT 312K",
+"subject": "LAT",
+"number": "312K",
+"title": "Intermediate Latin II",
+"hours": 3.0,
+"division": "lower",
+"description": "Continuation of Latin 311. Selected readings from classical authors. Three lecture hours a week for one semester. Only one of the following may be counted: Latin 511K, 312K, 316. Prerequisite: Latin 311 with a grade of at least C.",
+"tccn": "LATI 2312",
+"prereqText": "Latin 311 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "LAT 311",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAT 316",
+"subject": "LAT",
+"number": "316",
+"title": "Intermediate Latin II: Poetry",
+"hours": 3.0,
+"division": "lower",
+"description": "Continuation of Latin 311. Selected readings from classical and medieval poets. Three lecture hours a week for one semester. Only one of the following may be counted: Latin 511K, 312K, 316. Prerequisite: Latin 311 with a grade of at least C.",
+"prereqText": "Latin 311 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "LAT 311",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAT 119S",
+"subject": "LAT",
+"number": "119S",
+"title": "Topics in Latin",
+"hours": 1.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 219S",
+"subject": "LAT",
+"number": "219S",
+"title": "Topics in Latin",
+"hours": 2.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 319S",
+"subject": "LAT",
+"number": "319S",
+"title": "Topics in Latin",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 419S",
+"subject": "LAT",
+"number": "419S",
+"title": "Topics in Latin",
+"hours": 4.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 519S",
+"subject": "LAT",
+"number": "519S",
+"title": "Topics in Latin",
+"hours": 5.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 619S",
+"subject": "LAT",
+"number": "619S",
+"title": "Topics in Latin",
+"hours": 6.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 719S",
+"subject": "LAT",
+"number": "719S",
+"title": "Topics in Latin",
+"hours": 7.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 819S",
+"subject": "LAT",
+"number": "819S",
+"title": "Topics in Latin",
+"hours": 8.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 919S",
+"subject": "LAT",
+"number": "919S",
+"title": "Topics in Latin",
+"hours": 9.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 619SA",
+"subject": "LAT",
+"number": "619SA",
+"title": "Topics in Latin",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 619SB",
+"subject": "LAT",
+"number": "619SB",
+"title": "Topics in Latin",
+"hours": 3.0,
+"division": "lower",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 322",
+"subject": "LAT",
+"number": "322",
+"title": "Advanced Latin I",
+"hours": 3.0,
+"division": "upper",
+"description": "Reading and analysis of selected classical authors. Three lecture hours a week for one semester. Prerequisite: Latin 511K, 312K, or 316 with a grade of at least C.",
+"prereqText": "Latin 511K, 312K, or 316 with a grade of at least C.",
+"prereqConfidence": "low"
+},
+{
+"id": "LAT 323",
+"subject": "LAT",
+"number": "323",
+"title": "Topics in Advanced Latin II",
+"hours": 3.0,
+"division": "upper",
+"description": "Reading and interpretation of prose and poetry texts at an early advanced level. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Latin 322 with a grade of at least C.",
+"prereqText": "Latin 322 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "LAT 322",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAT 324",
+"subject": "LAT",
+"number": "324",
+"title": "Advanced Latin Grammar and Composition",
+"hours": 3.0,
+"division": "upper",
+"description": "Study of syntax, style, and principles of written composition. Three lecture hours a week for one semester. Required of all Latin majors and students seeking a secondary school teaching certificate with Latin as a teaching field. Prerequisite: Latin 322 with a grade of at least C.",
+"prereqText": "Latin 322 with a grade of at least C.",
+"prereq": {
+"type": "course",
+"id": "LAT 322",
+"minGrade": "C"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAT 129S",
+"subject": "LAT",
+"number": "129S",
+"title": "Topics in Latin",
+"hours": 1.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 229S",
+"subject": "LAT",
+"number": "229S",
+"title": "Topics in Latin",
+"hours": 2.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 329S",
+"subject": "LAT",
+"number": "329S",
+"title": "Topics in Latin",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 429S",
+"subject": "LAT",
+"number": "429S",
+"title": "Topics in Latin",
+"hours": 4.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 529S",
+"subject": "LAT",
+"number": "529S",
+"title": "Topics in Latin",
+"hours": 5.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 629S",
+"subject": "LAT",
+"number": "629S",
+"title": "Topics in Latin",
+"hours": 6.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 729S",
+"subject": "LAT",
+"number": "729S",
+"title": "Topics in Latin",
+"hours": 7.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 829S",
+"subject": "LAT",
+"number": "829S",
+"title": "Topics in Latin",
+"hours": 8.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 929S",
+"subject": "LAT",
+"number": "929S",
+"title": "Topics in Latin",
+"hours": 9.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 629SA",
+"subject": "LAT",
+"number": "629SA",
+"title": "Topics in Latin",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 629SB",
+"subject": "LAT",
+"number": "629SB",
+"title": "Topics in Latin",
+"hours": 3.0,
+"division": "upper",
+"description": "This course is used to record credit the student earns while enrolled at another institution in a program administered by the University's Study Abroad Office. Credit is recorded as assigned by the study abroad adviser in the Department of Classics. University credit is awarded for work in an exchange program; it may be counted as coursework taken in residence. Transfer credit is awarded for work in an affiliated studies program. May be repeated for credit when the topics vary."
+},
+{
+"id": "LAT 365",
+"subject": "LAT",
+"number": "365",
+"title": "Topics in Seminar in Latin",
+"hours": 3.0,
+"division": "upper",
+"description": "Critical study of authors such as Horace, Livy, Lucretius, and Tacitus. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Latin 323 and 324 with a grade of at least C in each.",
+"prereqText": "Latin 323 and 324 with a grade of at least C in each.",
+"prereq": {
+"type": "all",
+"of": [
+{
+"type": "course",
+"id": "LAT 323",
+"minGrade": "C"
+},
+{
+"type": "course",
+"id": "LAT 324",
+"minGrade": "C"
+}
+]
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAT 370",
+"subject": "LAT",
+"number": "370",
+"title": "Advanced Conference Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised reading. Conference course. May be repeated for credit. Prerequisite: Consent of instructor.",
+"prereqText": "Consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAT 679H",
+"subject": "LAT",
+"number": "679H",
+"title": "Honors Tutorial Course",
+"hours": 6.0,
+"division": "upper",
+"description": "Supervised conference course for honors candidates in Latin. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Latin Honors Program; for 679HB, Latin 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the Latin Honors Program; for 679HB, Latin 679HA.",
+"prereq": {
+"type": "course",
+"id": "LAT 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAT 679HA",
+"subject": "LAT",
+"number": "679HA",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised conference course for honors candidates in Latin. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Latin Honors Program; for 679HB, Latin 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the Latin Honors Program; for 679HB, Latin 679HA.",
+"prereq": {
+"type": "course",
+"id": "LAT 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAT 679HB",
+"subject": "LAT",
+"number": "679HB",
+"title": "Honors Tutorial Course",
+"hours": 3.0,
+"division": "upper",
+"description": "Supervised conference course for honors candidates in Latin. Three conference hours a week for two semesters. Prerequisite: For 679HA, upper-division standing and admission to the Latin Honors Program; for 679HB, Latin 679HA.",
+"prereqText": "For 679HA, upper-division standing and admission to the Latin Honors Program; for 679HB, Latin 679HA.",
+"prereq": {
+"type": "course",
+"id": "LAT 679HA"
+},
+"prereqConfidence": "high"
+},
+{
+"id": "LAT 380J",
+"subject": "LAT",
+"number": "380J",
+"title": "Proseminar in Classical Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Brief survey of the history of classical literature; orientation to the major periods and genres. Three hours a week for one semester. Designed for first-year graduate students. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAT 180K",
+"subject": "LAT",
+"number": "180K",
+"title": "Topics in Proseminar",
+"hours": 1.0,
+"division": "graduate",
+"description": "An introduction to the research methodology and the ancillary disciplines used in current classical studies, or to certain disciplines such as meter, textual criticism. One hour a week for one semester. Topics other than those listed below may also be taught. May be repeated for credit when the topics vary. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAT 383",
+"subject": "LAT",
+"number": "383",
+"title": "Topics in Graduate Reading",
+"hours": 3.0,
+"division": "graduate",
+"description": "Topics given in recent years include Latin literature survey, Latin prose, Seneca, and Augustine's Confessions. Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAT 383K",
+"subject": "LAT",
+"number": "383K",
+"title": "Current Concepts and Research in Latin",
+"hours": 3.0,
+"division": "graduate",
+"description": "An overview of important theories, issues, and research in classics. Three hours a week for one semester. May be repeated for credit. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAT 385",
+"subject": "LAT",
+"number": "385",
+"title": "Topics in Classical Latin Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAT 186",
+"subject": "LAT",
+"number": "186",
+"title": "Conference Course in Latin Literature",
+"hours": 1.0,
+"division": "graduate",
+"description": "Conference course. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAT 386",
+"subject": "LAT",
+"number": "386",
+"title": "Conference Course in Latin Literature",
+"hours": 3.0,
+"division": "graduate",
+"description": "Conference course. May be repeated for credit. Prerequisite: Graduate standing and consent of instructor.",
+"prereqText": "Graduate standing and consent of instructor.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAT 386L",
+"subject": "LAT",
+"number": "386L",
+"title": "Conference Course in Latin Language",
+"hours": 3.0,
+"division": "graduate",
+"description": "Restricted to students pursuing degrees other than in classics. Directed reading. Three lecture hours a week for one semester. May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none",
+"restricted": "Restricted to students pursuing degrees other than in classics.",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAT 390",
+"subject": "LAT",
+"number": "390",
+"title": "Topics in Seminar in Classical Studies",
+"hours": 3.0,
+"division": "graduate",
+"description": "Selected topics in Roman studies. Topics given in recent years include Roman comedy, Pliny, and Roman fragmentary historians. The equivalent of three lecture hours a week for one semester. Topics other than those listed below may also be taught. May be repeated for credit when the topics vary. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAT 398R",
+"subject": "LAT",
+"number": "398R",
+"title": "Master's Report",
+"hours": 3.0,
+"division": "graduate",
+"description": "Preparation of a research report to fulfill the requirement for the master's degree. The equivalent of three lecture hours a week for one semester. Offered on the credit/no credit basis only. Prerequisite: Graduate standing in Latin and consent of the graduate adviser.",
+"prereqText": "Graduate standing in Latin and consent of the graduate adviser.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAT 398T",
+"subject": "LAT",
+"number": "398T",
+"title": "Supervised Teaching in Latin",
+"hours": 3.0,
+"division": "graduate",
+"description": "Three lecture hours a week for one semester. Prerequisite: Graduate standing.",
+"prereqText": "Graduate standing.",
+"prereqConfidence": "none"
+},
+{
+"id": "LAT 399W",
+"subject": "LAT",
+"number": "399W",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAT 699W",
+"subject": "LAT",
+"number": "699W",
+"title": "Dissertation",
+"hours": 6.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAT 999W",
+"subject": "LAT",
+"number": "999W",
+"title": "Dissertation",
+"hours": 9.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAT 699WA",
+"subject": "LAT",
+"number": "699WA",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+},
+{
+"id": "LAT 699WB",
+"subject": "LAT",
+"number": "699WB",
+"title": "Dissertation",
+"hours": 3.0,
+"division": "graduate",
+"description": "May be repeated for credit. Offered on the credit/no credit basis only. Prerequisite: Admission to candidacy for the doctoral degree.",
+"prereqText": "Admission to candidacy for the doctoral degree.",
+"prereqConfidence": "none",
+"offering": "Offered on the credit/no credit basis only."
+}
+]
+}
