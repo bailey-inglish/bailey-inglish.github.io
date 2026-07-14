@@ -137,6 +137,12 @@ export type RuleNode =
       hours: number
       upperHours?: number
       excludeSubjects?: string[]
+      /**
+       * restrict the "single field" to one subject from this pool — e.g.
+       * "N hours in a single foreign language" (one of the language
+       * subjects), rather than any field of study
+       */
+      includeSubjects?: string[]
       minGrade?: string
     })
   | (NodeBase & { type: 'manual'; text: string })

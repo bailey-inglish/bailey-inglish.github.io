@@ -57,9 +57,219 @@
     }
    },
    {
-    "type": "note",
-    "text": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in a language other than English and taking one approved culture course in a culture that is relevant to the language. A list of approved culture and language courses and combinations",
-    "title": "Students must satisfy a language and culture requirement in one of the following",
+    "type": "anyN",
+    "n": 1,
+    "title": "Foreign language proficiency",
+    "of": [
+     {
+      "type": "course",
+      "course": "ASL 311D"
+     },
+     {
+      "type": "course",
+      "course": "ARA 611C"
+     },
+     {
+      "type": "course",
+      "course": "BEN 312L"
+     },
+     {
+      "type": "course",
+      "course": "CHI 612"
+     },
+     {
+      "type": "course",
+      "course": "CHI 312L"
+     },
+     {
+      "type": "course",
+      "course": "CZ 611C"
+     },
+     {
+      "type": "course",
+      "course": "CZ 412L"
+     },
+     {
+      "type": "course",
+      "course": "DAN 612"
+     },
+     {
+      "type": "course",
+      "course": "DCH 612"
+     },
+     {
+      "type": "course",
+      "course": "FR 611C"
+     },
+     {
+      "type": "course",
+      "course": "FR 412K"
+     },
+     {
+      "type": "course",
+      "course": "GER 612"
+     },
+     {
+      "type": "course",
+      "course": "GK 312K"
+     },
+     {
+      "type": "course",
+      "course": "GK 312L"
+     },
+     {
+      "type": "course",
+      "course": "GK 610C"
+     },
+     {
+      "type": "course",
+      "course": "GK 310K"
+     },
+     {
+      "type": "course",
+      "course": "HEB 612C"
+     },
+     {
+      "type": "course",
+      "course": "HEB 611C"
+     },
+     {
+      "type": "course",
+      "course": "HIN 312L"
+     },
+     {
+      "type": "course",
+      "course": "HIN 612"
+     },
+     {
+      "type": "course",
+      "course": "ITL 611C"
+     },
+     {
+      "type": "course",
+      "course": "JPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "KOR 312L"
+     },
+     {
+      "type": "course",
+      "course": "LAL 611C"
+     },
+     {
+      "type": "course",
+      "course": "LAT 511K"
+     },
+     {
+      "type": "course",
+      "course": "MAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "NOR 612"
+     },
+     {
+      "type": "course",
+      "course": "PRS 611C"
+     },
+     {
+      "type": "course",
+      "course": "PRS 612C"
+     },
+     {
+      "type": "course",
+      "course": "POL 611C"
+     },
+     {
+      "type": "course",
+      "course": "POL 312L"
+     },
+     {
+      "type": "course",
+      "course": "POR 611D"
+     },
+     {
+      "type": "course",
+      "course": "RUS 611C"
+     },
+     {
+      "type": "course",
+      "course": "RUS 412K"
+     },
+     {
+      "type": "course",
+      "course": "SAN 312L"
+     },
+     {
+      "type": "course",
+      "course": "S C 312L"
+     },
+     {
+      "type": "course",
+      "course": "SAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SEL 611C"
+     },
+     {
+      "type": "course",
+      "course": "SEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311"
+     },
+     {
+      "type": "course",
+      "course": "SPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311J"
+     },
+     {
+      "type": "course",
+      "course": "SWA 611C"
+     },
+     {
+      "type": "course",
+      "course": "SWE 612"
+     },
+     {
+      "type": "course",
+      "course": "TAM 312L"
+     },
+     {
+      "type": "course",
+      "course": "TEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "TUR 611C"
+     },
+     {
+      "type": "course",
+      "course": "URD 312L"
+     },
+     {
+      "type": "course",
+      "course": "UKR 312L"
+     },
+     {
+      "type": "course",
+      "course": "YID 612"
+     },
+     {
+      "type": "course",
+      "course": "YOR 611C"
+     },
+     {
+      "type": "note",
+      "text": "Or certified proficiency by placement or credit-by-exam."
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in "
@@ -84,13 +294,20 @@
     }
    },
    {
-    "type": "note",
-    "text": "Journalism students must complete 42 semester hours in journalism, but no more than 45 journalism hours may be counted toward the degree. Students must complete the following coursework:",
-    "title": "Journalism students must complete 42 semester hours in journalism, but no more t",
+    "type": "hours",
+    "hours": 42.0,
+    "title": "Journalism students must complete 42 semester hours in journalism, but no more than 45 jou",
+    "filter": {
+     "label": "Journalism students must complete 42 semester hours in journalism, but no more t",
+     "subjects": [
+      "J"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Journalism students must complete 42 semester hours in journalism, but no more than 45 journalism hours may be counted toward the degree. Students must complete the following coursework:"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "all",
@@ -133,84 +350,291 @@
     }
    },
    {
-    "type": "hours",
-    "hours": 9.0,
+    "type": "anyN",
+    "n": 9,
     "title": "At least nine semester hours in Skills courses to be chosen from: Journalism 320F, 320G, 3",
-    "filter": {
-     "label": "At least nine semester hours in Skills courses to be chosen from: Journalism 320",
-     "courses": [
-      "J 320F",
-      "J 320G",
-      "J 321F",
-      "J 322E",
-      "J 322F",
-      "J 322J",
-      "J 322P",
-      "J 323F",
-      "J 324C",
-      "J 324F",
-      "J 325C",
-      "J 325F",
-      "J 325J",
-      "J 325S",
-      "J 326C",
-      "J 326F",
-      "J 327D",
-      "J 328D",
-      "J 328L",
-      "J 328S",
-      "J 329T",
-      "J 330C",
-      "J 330G",
-      "J 330J",
-      "J 330L",
-      "J 331D",
-      "J 331G",
-      "J 331M",
-      "J 331N",
-      "J 331W",
-      "J 332D",
-      "J 332G",
-      "J 332J",
-      "J 332P",
-      "J 333G",
-      "J 333J",
-      "J 333L",
-      "J 333S",
-      "J 334F",
-      "J 334G",
-      "J 334J",
-      "J 334N",
-      "J 334P",
-      "J 334S",
-      "J 335",
-      "J 335D",
-      "J 335F",
-      "J 335G",
-      "J 335J",
-      "J 335K",
-      "J 335N",
-      "J 335P",
-      "J 336D",
-      "J 336F",
-      "J 336J",
-      "J 336M",
-      "J 337C",
-      "J 337D",
-      "J 337F",
-      "J 337G",
-      "J 337J",
-      "J 337L",
-      "J 337M",
-      "J 337P",
-      "J 338F",
-      "J 339F",
-      "J 339M",
-      "J 339T",
-      "J 340J",
-      "J 346F"
-     ]
-    },
+    "of": [
+     {
+      "type": "course",
+      "course": "J 320F"
+     },
+     {
+      "type": "course",
+      "course": "J 320G"
+     },
+     {
+      "type": "course",
+      "course": "J 321F"
+     },
+     {
+      "type": "course",
+      "course": "J 322E"
+     },
+     {
+      "type": "course",
+      "course": "J 322F"
+     },
+     {
+      "type": "course",
+      "course": "J 322J"
+     },
+     {
+      "type": "course",
+      "course": "J 322P"
+     },
+     {
+      "type": "course",
+      "course": "J 323F"
+     },
+     {
+      "type": "course",
+      "course": "J 324C"
+     },
+     {
+      "type": "course",
+      "course": "J 324F"
+     },
+     {
+      "type": "course",
+      "course": "J 325C"
+     },
+     {
+      "type": "course",
+      "course": "J 325F"
+     },
+     {
+      "type": "course",
+      "course": "J 325J"
+     },
+     {
+      "type": "course",
+      "course": "J 325S"
+     },
+     {
+      "type": "course",
+      "course": "J 326C"
+     },
+     {
+      "type": "course",
+      "course": "J 326F"
+     },
+     {
+      "type": "course",
+      "course": "J 327D"
+     },
+     {
+      "type": "course",
+      "course": "J 328D"
+     },
+     {
+      "type": "course",
+      "course": "J 328L"
+     },
+     {
+      "type": "course",
+      "course": "J 328S"
+     },
+     {
+      "type": "course",
+      "course": "J 329T"
+     },
+     {
+      "type": "course",
+      "course": "J 330C"
+     },
+     {
+      "type": "course",
+      "course": "J 330G"
+     },
+     {
+      "type": "course",
+      "course": "J 330J"
+     },
+     {
+      "type": "course",
+      "course": "J 330L"
+     },
+     {
+      "type": "course",
+      "course": "J 331D"
+     },
+     {
+      "type": "course",
+      "course": "J 331G"
+     },
+     {
+      "type": "course",
+      "course": "J 331M"
+     },
+     {
+      "type": "course",
+      "course": "J 331N"
+     },
+     {
+      "type": "course",
+      "course": "J 331W"
+     },
+     {
+      "type": "course",
+      "course": "J 332D"
+     },
+     {
+      "type": "course",
+      "course": "J 332G"
+     },
+     {
+      "type": "course",
+      "course": "J 332J"
+     },
+     {
+      "type": "course",
+      "course": "J 332P"
+     },
+     {
+      "type": "course",
+      "course": "J 333G"
+     },
+     {
+      "type": "course",
+      "course": "J 333J"
+     },
+     {
+      "type": "course",
+      "course": "J 333L"
+     },
+     {
+      "type": "course",
+      "course": "J 333S"
+     },
+     {
+      "type": "course",
+      "course": "J 334F"
+     },
+     {
+      "type": "course",
+      "course": "J 334G"
+     },
+     {
+      "type": "course",
+      "course": "J 334J"
+     },
+     {
+      "type": "course",
+      "course": "J 334N"
+     },
+     {
+      "type": "course",
+      "course": "J 334P"
+     },
+     {
+      "type": "course",
+      "course": "J 334S"
+     },
+     {
+      "type": "course",
+      "course": "J 335"
+     },
+     {
+      "type": "course",
+      "course": "J 335D"
+     },
+     {
+      "type": "course",
+      "course": "J 335F"
+     },
+     {
+      "type": "course",
+      "course": "J 335G"
+     },
+     {
+      "type": "course",
+      "course": "J 335J"
+     },
+     {
+      "type": "course",
+      "course": "J 335K"
+     },
+     {
+      "type": "course",
+      "course": "J 335N"
+     },
+     {
+      "type": "course",
+      "course": "J 335P"
+     },
+     {
+      "type": "course",
+      "course": "J 336D"
+     },
+     {
+      "type": "course",
+      "course": "J 336F"
+     },
+     {
+      "type": "course",
+      "course": "J 336J"
+     },
+     {
+      "type": "course",
+      "course": "J 336M"
+     },
+     {
+      "type": "course",
+      "course": "J 337C"
+     },
+     {
+      "type": "course",
+      "course": "J 337D"
+     },
+     {
+      "type": "course",
+      "course": "J 337F"
+     },
+     {
+      "type": "course",
+      "course": "J 337G"
+     },
+     {
+      "type": "course",
+      "course": "J 337J"
+     },
+     {
+      "type": "course",
+      "course": "J 337L"
+     },
+     {
+      "type": "course",
+      "course": "J 337M"
+     },
+     {
+      "type": "course",
+      "course": "J 337P"
+     },
+     {
+      "type": "course",
+      "course": "J 338F"
+     },
+     {
+      "type": "course",
+      "course": "J 339F"
+     },
+     {
+      "type": "course",
+      "course": "J 339M"
+     },
+     {
+      "type": "course",
+      "course": "J 339T"
+     },
+     {
+      "type": "course",
+      "course": "J 340J"
+     },
+     {
+      "type": "course",
+      "course": "J 346F"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "At least nine semester hours in Skills courses to be chosen from: Journalism 320F, 320G, 321F, 322E, 322F, 322J, 322P, 323F, 324C, 324F, 325C, 325F, 325J, 325S, 326C, 326F, 327D, 328D, 328L, 328S, 329T, 330C, 330G, 330J,"
@@ -244,9 +668,15 @@
     }
    },
    {
-    "type": "note",
-    "text": "Students must take three additional hours of journalism coursework.",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Students must take three additional hours of journalism coursework.",
+    "filter": {
+     "label": "Students must take three additional hours of journalism coursework.",
+     "subjects": [
+      "J"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Students must take three additional hours of journalism coursework."
@@ -404,8 +834,50 @@
     }
    },
    {
-    "type": "note",
-    "text": "6 hours of language other than English",
+    "type": "concentration",
+    "hours": 6.0,
+    "includeSubjects": [
+     "ARA",
+     "ASL",
+     "BEN",
+     "CHI",
+     "CZ",
+     "DAN",
+     "DCH",
+     "FR",
+     "GER",
+     "GK",
+     "HEB",
+     "HIN",
+     "ITL",
+     "JPN",
+     "KOR",
+     "LAL",
+     "LAT",
+     "MAL",
+     "NOR",
+     "PRS",
+     "POL",
+     "POR",
+     "RUS",
+     "SAN",
+     "S C",
+     "SAL",
+     "SEL",
+     "SPN",
+     "SWA",
+     "SWE",
+     "TAM",
+     "TEL",
+     "TUR",
+     "URD",
+     "UKR",
+     "YID",
+     "YOR",
+     "HIN",
+     "MLL",
+     "VTN"
+    ],
     "title": "6 hours of language other than English",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
@@ -465,6 +937,57 @@
      "quote": "English 316L, 316M, 316N, or 316P"
     },
     "n": 1
+   },
+   {
+    "type": "concentration",
+    "hours": 6.0,
+    "includeSubjects": [
+     "ARA",
+     "ASL",
+     "BEN",
+     "CHI",
+     "CZ",
+     "DAN",
+     "DCH",
+     "FR",
+     "GER",
+     "GK",
+     "HEB",
+     "HIN",
+     "ITL",
+     "JPN",
+     "KOR",
+     "LAL",
+     "LAT",
+     "MAL",
+     "NOR",
+     "PRS",
+     "POL",
+     "POR",
+     "RUS",
+     "SAN",
+     "S C",
+     "SAL",
+     "SEL",
+     "SPN",
+     "SWA",
+     "SWE",
+     "TAM",
+     "TEL",
+     "TUR",
+     "URD",
+     "UKR",
+     "YID",
+     "YOR",
+     "HIN",
+     "MLL",
+     "VTN"
+    ],
+    "title": "6 hours of language other than English",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
+     "quote": "6 hours of language other than English"
+    }
    },
    {
     "type": "course",

@@ -61,10 +61,19 @@ Pages → Source must be **GitHub Actions**.
 Course DBs cover all subjects for the 2024-2026 and 2022-2024 catalogs.
 Programs: ~250 per edition — every college's majors, minors, and
 transcript-recognized certificates via the automatic extractor
-(`pipeline/extract_auto.py`, ~70% of rule nodes machine-evaluable; the rest
-surface as manual checks), plus hand-curated encodings for BS Statistics &
+(`pipeline/extract_auto.py`), plus hand-curated encodings for BS Statistics &
 Data Science, Plan II Honors, BA Economics, BA Government, the shared
 university/core/college layers, the SDS minor, and the Pre-Health
 certificate. Curated encodings always override auto ones.
+
+There are **zero manual checks**: every requirement is formalized into an
+evaluable rule (course lists, hour/GPA rules, single-field concentrations
+including "one foreign language", "N courses chosen from" → any-N, etc.).
+Catalog language that isn't an auto-checkable course rule (advisor
+approvals, "approved list" pointers, policies) renders as inert `note`
+context. Approved-course lists the catalog only points to — e.g. the
+College of Liberal Arts social-science and cultural-expression lists — are
+scraped (`pipeline/scrape_lists.py`) into `data/<edition>/lists.json` and
+referenced by name (`filter.list`) so many programs share one list.
 
 **Not affiliated with UT Austin. IDA and academic advisors are authoritative.**

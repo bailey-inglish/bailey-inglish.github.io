@@ -291,9 +291,50 @@
         }
        },
        {
-        "type": "note",
-        "text": "One additional course chosen from the following: Mathematics 339C, 339V, M 339W, 349P, 349R, 378K One of the courses fulfilling requirement 11a through 11f must be taught in the inquiry based learning (IBL) format or with an independent inquiry flag. IBL courses are identified each semester through a notation under the unique number in the course schedule and through a list maintained in the mathe",
-        "title": "One additional course chosen from the following: Mathematics 339C, 339V, M 339W,",
+        "type": "anyN",
+        "n": 2,
+        "title": "Two courses from the following: Mathematics 339V, M 339W, 349P",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 339V"
+         },
+         {
+          "type": "course",
+          "course": "M 349P"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
+         "quote": "Two courses from the following: Mathematics 339V, M 339W, 349P"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "One additional course chosen from the following: Mathematics 339C, 339V, M 339W, 349P, 349",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 339C"
+         },
+         {
+          "type": "course",
+          "course": "M 339V"
+         },
+         {
+          "type": "course",
+          "course": "M 349P"
+         },
+         {
+          "type": "course",
+          "course": "M 349R"
+         },
+         {
+          "type": "course",
+          "course": "M 378K"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "One additional course chosen from the following: Mathematics 339C, 339V, M 339W, 349P, 349R, 378K One of the courses fulfilling requirement 11a through 11f must be taught in the inquiry based learning (IBL) format or wit"
@@ -562,6 +603,69 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
          "quote": "Mathematics 427J."
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 2,
+        "title": "Two courses chosen from: Mathematics 328K, 339J, 339U, 343K, 343L, 348, 361, 365C, 365D, 3",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 328K"
+         },
+         {
+          "type": "course",
+          "course": "M 339J"
+         },
+         {
+          "type": "course",
+          "course": "M 339U"
+         },
+         {
+          "type": "course",
+          "course": "M 343K"
+         },
+         {
+          "type": "course",
+          "course": "M 343L"
+         },
+         {
+          "type": "course",
+          "course": "M 348"
+         },
+         {
+          "type": "course",
+          "course": "M 361"
+         },
+         {
+          "type": "course",
+          "course": "M 365C"
+         },
+         {
+          "type": "course",
+          "course": "M 365D"
+         },
+         {
+          "type": "course",
+          "course": "M 368K"
+         },
+         {
+          "type": "course",
+          "course": "M 373K"
+         },
+         {
+          "type": "course",
+          "course": "M 373L"
+         },
+         {
+          "type": "course",
+          "course": "M 378K"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-mathematics/",
+         "quote": "Two courses chosen from: Mathematics 328K, 339J, 339U, 343K, 343L, 348, 361, 365C, 365D, 368K, 373K, 373L, 378K. A course used to fulfill requirements 9ai through 9avi may not also be counted toward requirement 9avii"
         }
        },
        {

@@ -10,13 +10,20 @@
   "title": "Core Texts and Ideas Minor",
   "of": [
    {
-    "type": "note",
-    "text": "Fifteen hours of Core Texts and Ideas courses",
+    "type": "hours",
+    "hours": 15.0,
     "title": "Fifteen hours of Core Texts and Ideas courses",
+    "filter": {
+     "label": "Fifteen hours of Core Texts and Ideas courses",
+     "subjects": [
+      "CTI"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Fifteen hours of Core Texts and Ideas courses"
-    }
+    },
+    "umbrella": true
    }
   ]
  },

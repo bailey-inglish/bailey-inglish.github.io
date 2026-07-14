@@ -96,9 +96,15 @@
     }
    },
    {
-    "type": "note",
-    "text": "Six additional semester hours of nutrition coursework.",
+    "type": "hours",
+    "hours": 6.0,
     "title": "Six additional semester hours of nutrition coursework.",
+    "filter": {
+     "label": "Six additional semester hours of nutrition coursework.",
+     "subjects": [
+      "NTR"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/nutrition/",
      "quote": "Six additional semester hours of nutrition coursework."

@@ -94,6 +94,49 @@
     }
    },
    {
+    "type": "anyN",
+    "n": 3,
+    "title": "Three courses chosen from the following: Astronomy 351, 352K, 353, 358, 364P, 376, 376C, a",
+    "of": [
+     {
+      "type": "course",
+      "course": "AST 351"
+     },
+     {
+      "type": "course",
+      "course": "AST 352K"
+     },
+     {
+      "type": "course",
+      "course": "AST 353"
+     },
+     {
+      "type": "course",
+      "course": "AST 358"
+     },
+     {
+      "type": "course",
+      "course": "AST 364P"
+     },
+     {
+      "type": "course",
+      "course": "AST 376"
+     },
+     {
+      "type": "course",
+      "course": "AST 376C"
+     },
+     {
+      "type": "course",
+      "course": "AST 376R"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/astronomy/",
+     "quote": "Three courses chosen from the following: Astronomy 351, 352K, 353, 358, 364P, 376, 376C, and 376R"
+    }
+   },
+   {
     "type": "note",
     "text": "Secondary science: Twelve additional semester hours of upper-division coursework from one or more of the following areas. Biology",
     "title": "Secondary science: Twelve additional semester hours of upper-division coursework",
@@ -108,6 +151,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BSA",
  "majorSubjects": [
-  "PHY"
+  "AST"
  ]
 }

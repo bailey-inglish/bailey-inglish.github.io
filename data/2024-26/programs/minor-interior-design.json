@@ -10,13 +10,18 @@
   "title": "Interior Design Minor",
   "of": [
    {
-    "type": "note",
-    "text": "15 hours of coursework, including a minimum of 6 hours upper-division",
+    "type": "hours",
+    "hours": 15.0,
     "title": "15 hours of coursework, including a minimum of 6 hours upper-division",
+    "filter": {
+     "label": "15 hours of coursework, including a minimum of 6 hours upper-division",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/architecture/minor-and-certificate-programs/",
      "quote": "15 hours of coursework, including a minimum of 6 hours upper-division"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "course",

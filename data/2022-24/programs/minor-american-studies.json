@@ -56,9 +56,15 @@
     }
    },
    {
-    "type": "note",
-    "text": "Three additional semester credit hours of American studies",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three additional semester credit hours of American studies",
+    "filter": {
+     "label": "Three additional semester credit hours of American studies",
+     "subjects": [
+      "AMS"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Three additional semester credit hours of American studies"

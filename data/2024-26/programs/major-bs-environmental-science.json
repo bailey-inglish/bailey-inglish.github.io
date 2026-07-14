@@ -91,6 +91,7 @@
    },
    {
     "type": "anyN",
+    "n": 1,
     "title": "One geographic information systems course: Geography 460G, 462K, or Geological Sciences 32",
     "of": [
      {
@@ -109,13 +110,125 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/geosciences/degrees-and-programs/bs-environmental-science/",
      "quote": "One geographic information systems course: Geography 460G, 462K, or Geological Sciences 327G."
-    },
-    "n": 1
+    }
    },
    {
-    "type": "note",
-    "text": "Two computational science courses chosen from: Geography 462K, 464K, 368C, 369D, 470C, 370D, Geological Sciences 325G, 352P, 455S, Petroleum and Geosystems Engineering 338, Statistics and Data Sciences 320E, 320H, 321, Biological sciences majors must take Statistics and Data Sciences 320E, 320H, or 321",
-    "title": "Two computational science courses chosen from: Geography 462K, 464K, 368C, 369D,",
+    "type": "anyN",
+    "n": 2,
+    "title": "Two earth system courses: Geological Sciences 416W and one course chosen from Geography 33",
+    "of": [
+     {
+      "type": "course",
+      "course": "GEO 416W"
+     },
+     {
+      "type": "course",
+      "course": "GRG 330W"
+     },
+     {
+      "type": "course",
+      "course": "GRG 301K"
+     },
+     {
+      "type": "course",
+      "course": "GEO 347D"
+     },
+     {
+      "type": "course",
+      "course": "GEO 370E"
+     },
+     {
+      "type": "course",
+      "course": "GEO 476K"
+     },
+     {
+      "type": "course",
+      "course": "GEO 476M"
+     },
+     {
+      "type": "course",
+      "course": "GEO 376S"
+     },
+     {
+      "type": "course",
+      "course": "GEO 377P"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/geosciences/degrees-and-programs/bs-environmental-science/",
+     "quote": "Two earth system courses: Geological Sciences 416W and one course chosen from Geography 330W, 301K, Geological Sciences 347D, 370E, 476K, 476M, 376S, or 377P."
+    }
+   },
+   {
+    "type": "anyN",
+    "n": 2,
+    "title": "Two computational science courses chosen from: Geography 462K, 464K, 368C, 369D, 470C, 370",
+    "of": [
+     {
+      "type": "course",
+      "course": "GRG 462K"
+     },
+     {
+      "type": "course",
+      "course": "GRG 464K"
+     },
+     {
+      "type": "course",
+      "course": "GRG 368C"
+     },
+     {
+      "type": "course",
+      "course": "GRG 369D"
+     },
+     {
+      "type": "course",
+      "course": "GRG 470C"
+     },
+     {
+      "type": "course",
+      "course": "GRG 370D"
+     },
+     {
+      "type": "course",
+      "course": "GEO 325G"
+     },
+     {
+      "type": "course",
+      "course": "GEO 352P"
+     },
+     {
+      "type": "course",
+      "course": "GEO 455S"
+     },
+     {
+      "type": "course",
+      "course": "PGE 338"
+     },
+     {
+      "type": "course",
+      "course": "SDS 320E"
+     },
+     {
+      "type": "course",
+      "course": "SDS 320H"
+     },
+     {
+      "type": "course",
+      "course": "SDS 321"
+     },
+     {
+      "type": "course",
+      "course": "SDS 320E"
+     },
+     {
+      "type": "course",
+      "course": "SDS 320H"
+     },
+     {
+      "type": "course",
+      "course": "SDS 321"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/geosciences/degrees-and-programs/bs-environmental-science/",
      "quote": "Two computational science courses chosen from: Geography 462K, 464K, 368C, 369D, 470C, 370D, Geological Sciences 325G, 352P, 455S, Petroleum and Geosystems Engineering 338, Statistics and Data Sciences 320E, 320H, 321, B"
@@ -483,7 +596,8 @@
     }
    },
    {
-    "type": "all",
+    "type": "anyN",
+    "n": 1,
     "title": "One climate and water course: Geological Sciences 347D, 347G, 376E, 476K, 476M, 376S, or 3",
     "of": [
      {
@@ -526,6 +640,7 @@
    },
    {
     "type": "anyN",
+    "n": 1,
     "title": "One field course: Geological Sciences 348K, 376L, or 660A and 660B.",
     "of": [
      {
@@ -548,8 +663,7 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/geosciences/degrees-and-programs/bs-environmental-science/",
      "quote": "One field course: Geological Sciences 348K, 376L, or 660A and 660B."
-    },
-    "n": 1
+    }
    },
    {
     "type": "hours",

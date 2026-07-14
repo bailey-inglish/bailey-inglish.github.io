@@ -14,13 +14,18 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "note",
-    "text": "The requirements for the Bachelor of Social Work degree are designed to give the student an opportunity for integrated, nonrepetitive learning. A total of 122 semester hours is required. These may include credit by examination and a maximum of 16 hours elective courses taken on the pass/fail basis. All students must complete the requirements for the major and must complete at least 60 semester hou",
-    "title": "The requirements for the Bachelor of Social Work degree are designed to give the",
+    "type": "hours",
+    "hours": 122.0,
+    "title": "The requirements for the Bachelor of Social Work degree are designed to give the student a",
+    "filter": {
+     "label": "The requirements for the Bachelor of Social Work degree are designed to give the",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
      "quote": "The requirements for the Bachelor of Social Work degree are designed to give the student an opportunity for integrated, nonrepetitive learning. A total of 122 semester hours is required. These may include credit by exami"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "note",
@@ -76,9 +81,219 @@
     }
    },
    {
-    "type": "note",
-    "text": "Undergraduates must earn credit for the second college-level course, or the equivalent, in a foreign language. American Sign Language may be used to fulfill this requirement.",
-    "title": "Undergraduates must earn credit for the second college-level course, or the equi",
+    "type": "anyN",
+    "n": 1,
+    "title": "Foreign language proficiency",
+    "of": [
+     {
+      "type": "course",
+      "course": "ASL 311D"
+     },
+     {
+      "type": "course",
+      "course": "ARA 611C"
+     },
+     {
+      "type": "course",
+      "course": "BEN 312L"
+     },
+     {
+      "type": "course",
+      "course": "CHI 612"
+     },
+     {
+      "type": "course",
+      "course": "CHI 312L"
+     },
+     {
+      "type": "course",
+      "course": "CZ 611C"
+     },
+     {
+      "type": "course",
+      "course": "CZ 412L"
+     },
+     {
+      "type": "course",
+      "course": "DAN 612"
+     },
+     {
+      "type": "course",
+      "course": "DCH 612"
+     },
+     {
+      "type": "course",
+      "course": "FR 611C"
+     },
+     {
+      "type": "course",
+      "course": "FR 412K"
+     },
+     {
+      "type": "course",
+      "course": "GER 612"
+     },
+     {
+      "type": "course",
+      "course": "GK 312K"
+     },
+     {
+      "type": "course",
+      "course": "GK 312L"
+     },
+     {
+      "type": "course",
+      "course": "GK 610C"
+     },
+     {
+      "type": "course",
+      "course": "GK 310K"
+     },
+     {
+      "type": "course",
+      "course": "HEB 612C"
+     },
+     {
+      "type": "course",
+      "course": "HEB 611C"
+     },
+     {
+      "type": "course",
+      "course": "HIN 312L"
+     },
+     {
+      "type": "course",
+      "course": "HIN 612"
+     },
+     {
+      "type": "course",
+      "course": "ITL 611C"
+     },
+     {
+      "type": "course",
+      "course": "JPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "KOR 312L"
+     },
+     {
+      "type": "course",
+      "course": "LAL 611C"
+     },
+     {
+      "type": "course",
+      "course": "LAT 511K"
+     },
+     {
+      "type": "course",
+      "course": "MAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "NOR 612"
+     },
+     {
+      "type": "course",
+      "course": "PRS 611C"
+     },
+     {
+      "type": "course",
+      "course": "PRS 612C"
+     },
+     {
+      "type": "course",
+      "course": "POL 611C"
+     },
+     {
+      "type": "course",
+      "course": "POL 312L"
+     },
+     {
+      "type": "course",
+      "course": "POR 611D"
+     },
+     {
+      "type": "course",
+      "course": "RUS 611C"
+     },
+     {
+      "type": "course",
+      "course": "RUS 412K"
+     },
+     {
+      "type": "course",
+      "course": "SAN 312L"
+     },
+     {
+      "type": "course",
+      "course": "S C 312L"
+     },
+     {
+      "type": "course",
+      "course": "SAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SEL 611C"
+     },
+     {
+      "type": "course",
+      "course": "SEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311"
+     },
+     {
+      "type": "course",
+      "course": "SPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311J"
+     },
+     {
+      "type": "course",
+      "course": "SWA 611C"
+     },
+     {
+      "type": "course",
+      "course": "SWE 612"
+     },
+     {
+      "type": "course",
+      "course": "TAM 312L"
+     },
+     {
+      "type": "course",
+      "course": "TEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "TUR 611C"
+     },
+     {
+      "type": "course",
+      "course": "URD 312L"
+     },
+     {
+      "type": "course",
+      "course": "UKR 312L"
+     },
+     {
+      "type": "course",
+      "course": "YID 612"
+     },
+     {
+      "type": "course",
+      "course": "YOR 611C"
+     },
+     {
+      "type": "note",
+      "text": "Or certified proficiency by placement or credit-by-exam."
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
      "quote": "Undergraduates must earn credit for the second college-level course, or the equivalent, in a foreign language. American Sign Language may be used to fulfill this requirement."
@@ -228,40 +443,48 @@
     }
    },
    {
-    "type": "note",
-    "text": "Students must complete three semester hours in economics. Certain economics courses may also be used to fulfill the social and behavioral sciences requirement of the core curriculum.",
-    "title": "Students must complete three semester hours in economics. Certain economics cour",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Students must complete three semester hours in economics. Certain economics courses may al",
+    "filter": {
+     "label": "Students must complete three semester hours in economics. Certain economics cour",
+     "subjects": [
+      "ECO"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
      "quote": "Students must complete three semester hours in economics. Certain economics courses may also be used to fulfill the social and behavioral sciences requirement of the core curriculum."
     }
    },
    {
-    "type": "anyN",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Students must complete three semester hours in child psychology or child development. Psyc",
-    "of": [
-     {
-      "type": "course",
-      "course": "PSY 304"
-     },
-     {
-      "type": "course",
-      "course": "HDF 313"
-     },
-     {
-      "type": "course",
-      "course": "HDF 113L"
-     }
-    ],
+    "filter": {
+     "label": "Students must complete three semester hours in child psychology or child develop",
+     "courses": [
+      "PSY 304",
+      "HDF 313",
+      "HDF 113L"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
      "quote": "Students must complete three semester hours in child psychology or child development. Psychology 304 or Human Development and Family Sciences 313 accompanied with HDF 113L may be used to fulfill this requirement."
-    },
-    "n": 1
+    }
    },
    {
-    "type": "course",
-    "course": "S W 360K",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Students must complete at least nine semester hours of upper-division coursework in the so",
+    "filter": {
+     "label": "Students must complete at least nine semester hours of upper-division coursework",
+     "courses": [
+      "S W 360K"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
      "quote": "Students must complete at least nine semester hours of upper-division coursework in the social and behavioral sciences (applied learning and development, anthropology, economics, educational psychology, government, histo"
@@ -512,6 +735,6 @@
  "auto": true,
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "majorSubjects": [
-  "S W"
+  "ECO"
  ]
 }

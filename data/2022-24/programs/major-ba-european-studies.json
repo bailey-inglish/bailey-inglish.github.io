@@ -15,9 +15,13 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "note",
-    "text": "Students majoring in European studies must complete six semester hours of upper-division coursework in one of the following languages: Czech, Danish, Dutch, French, German, modern Greek, Italian, Norwegian, Polish, Portuguese, Serbian/Croatian, Spanish, or Swedish. With permission from the director of the Center for European Studies, however, students may study other languages for their major—such",
-    "title": "Students majoring in European studies must complete six semester hours of upper-",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Students majoring in European studies must complete six semester hours of upper-division c",
+    "filter": {
+     "label": "Students majoring in European studies must complete six semester hours of upper-",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/european-studies/",
      "quote": "Students majoring in European studies must complete six semester hours of upper-division coursework in one of the following languages: Czech, Danish, Dutch, French, German, modern Greek, Italian, Norwegian, Polish, Portu"

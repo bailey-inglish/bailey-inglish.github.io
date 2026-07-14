@@ -15,17 +15,23 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "hours",
-    "hours": 3.0,
+    "type": "anyN",
+    "n": 3,
     "title": "Three hours in Italian courses chosen from Italian 321 or 325C or 328",
-    "filter": {
-     "label": "Three hours in Italian courses chosen from Italian 321 or 325C or 328",
-     "courses": [
-      "ITL 321",
-      "ITL 325C",
-      "ITL 328"
-     ]
-    },
+    "of": [
+     {
+      "type": "course",
+      "course": "ITL 321"
+     },
+     {
+      "type": "course",
+      "course": "ITL 325C"
+     },
+     {
+      "type": "course",
+      "course": "ITL 328"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/italian/",
      "quote": "Three hours in Italian courses chosen from Italian 321 or 325C or 328"

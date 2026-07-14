@@ -32,6 +32,7 @@
    },
    {
     "type": "anyN",
+    "n": 1,
     "title": "One course from German 342K, 343K, 344K, 347L, or 348D",
     "of": [
      {
@@ -58,11 +59,11 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/german/",
      "quote": "One course from German 342K, 343K, 344K, 347L, or 348D"
-    },
-    "n": 1
+    }
    },
    {
     "type": "anyN",
+    "n": 1,
     "title": "One course from German 363K, 369, 373, or 379",
     "of": [
      {
@@ -85,8 +86,7 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/german/",
      "quote": "One course from German 363K, 369, 373, or 379"
-    },
-    "n": 1
+    }
    },
    {
     "type": "hours",
@@ -94,6 +94,9 @@
     "title": "Nine semester hours of any upper-division German course",
     "filter": {
      "label": "Nine semester hours of any upper-division German course",
+     "subjects": [
+      "GER"
+     ],
      "division": "upper"
     },
     "source": {

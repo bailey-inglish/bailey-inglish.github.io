@@ -95,6 +95,29 @@
     }
    },
    {
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following courses containing differential equations: Mathematics 427K, 427J, an",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 427K"
+     },
+     {
+      "type": "course",
+      "course": "M 427J"
+     },
+     {
+      "type": "course",
+      "course": "M 372K"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/physics/",
+     "quote": "One of the following courses containing differential equations: Mathematics 427K, 427J, and 372K."
+    }
+   },
+   {
     "type": "hours",
     "hours": 9.0,
     "title": "Nine additional hours of mathematics, including three upper-division hours",

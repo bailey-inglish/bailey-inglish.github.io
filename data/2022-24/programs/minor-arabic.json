@@ -26,9 +26,16 @@
     }
    },
    {
-    "type": "note",
-    "text": "Six hours upper-division Arabic",
+    "type": "hours",
+    "hours": 6.0,
     "title": "Six hours upper-division Arabic",
+    "filter": {
+     "label": "Six hours upper-division Arabic",
+     "subjects": [
+      "ARA"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Six hours upper-division Arabic"

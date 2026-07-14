@@ -50,26 +50,38 @@
     }
    },
    {
-    "type": "hours",
-    "hours": 6.0,
+    "type": "anyN",
+    "n": 3,
     "title": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French 325D, Sel",
-    "filter": {
-     "label": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French",
-     "courses": [
-      "FR 325C",
-      "FR 325D",
-      "FR 325E"
-     ]
-    },
+    "of": [
+     {
+      "type": "course",
+      "course": "FR 325C"
+     },
+     {
+      "type": "course",
+      "course": "FR 325D"
+     },
+     {
+      "type": "course",
+      "course": "FR 325E"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
      "quote": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French 325D, Self and Society; and French 325E, Representing Difference. No more than six hours chosen from item 2 may be counted for the major."
     }
    },
    {
-    "type": "note",
-    "text": "Six hours of French courses numbered 350 or above",
+    "type": "hours",
+    "hours": 6.0,
     "title": "Six hours of French courses numbered 350 or above",
+    "filter": {
+     "label": "Six hours of French courses numbered 350 or above",
+     "subjects": [
+      "FR"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
      "quote": "Six hours of French courses numbered 350 or above"

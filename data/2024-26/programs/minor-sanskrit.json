@@ -42,9 +42,16 @@
     }
    },
    {
-    "type": "note",
-    "text": "Three semester credit hours upper-division Sanskrit",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three semester credit hours upper-division Sanskrit",
+    "filter": {
+     "label": "Three semester credit hours upper-division Sanskrit",
+     "subjects": [
+      "SAN"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Three semester credit hours upper-division Sanskrit"

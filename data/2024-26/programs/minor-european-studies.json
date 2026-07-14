@@ -63,9 +63,16 @@
     }
    },
    {
-    "type": "note",
-    "text": "Six additional hours of upper-division European Studies Courses",
+    "type": "hours",
+    "hours": 6.0,
     "title": "Six additional hours of upper-division European Studies Courses",
+    "filter": {
+     "label": "Six additional hours of upper-division European Studies Courses",
+     "subjects": [
+      "EUS"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Six additional hours of upper-division European Studies Courses"

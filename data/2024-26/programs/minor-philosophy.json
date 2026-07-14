@@ -10,13 +10,20 @@
   "title": "Philosophy Minor",
   "of": [
    {
-    "type": "note",
-    "text": "Fifteen hours of coursework in philosophy",
+    "type": "hours",
+    "hours": 15.0,
     "title": "Fifteen hours of coursework in philosophy",
+    "filter": {
+     "label": "Fifteen hours of coursework in philosophy",
+     "subjects": [
+      "PHL"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Fifteen hours of coursework in philosophy"
-    }
+    },
+    "umbrella": true
    }
   ]
  },

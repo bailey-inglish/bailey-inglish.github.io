@@ -544,39 +544,52 @@
         }
        },
        {
-        "type": "note",
-        "text": "The degree requires all students to take three semester hours of an approved structures elective. Students pursuing the Design Track 1, Atmospheric Flight, must take Aerospace Engineering 365, Structural Dynamics, to fulfill this requirement. Students pursuing Design Track 2, Space Flight, will choose one of four options to fulfill this requirement: Aerospace Engineering 339/Engineering Mechanics ",
-        "title": "The degree requires all students to take three semester hours of an approved str",
+        "type": "hours",
+        "hours": 3.0,
+        "title": "The degree requires all students to take three semester hours of an approved structures el",
+        "filter": {
+         "label": "The degree requires all students to take three semester hours of an approved str",
+         "courses": [
+          "ASE 365",
+          "ASE 339",
+          "E M 339",
+          "ASE 357",
+          "ASE 365",
+          "COE 321K"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/engineering/degrees-and-programs/bs-aerospace-engineering/",
          "quote": "The degree requires all students to take three semester hours of an approved structures elective. Students pursuing the Design Track 1, Atmospheric Flight, must take Aerospace Engineering 365, Structural Dynamics, to ful"
         }
        },
        {
-        "type": "all",
+        "type": "hours",
+        "hours": 9.0,
         "title": "The degree requires all students to take nine semester hours of approved aerospace electiv",
-        "of": [
-         {
-          "type": "course",
-          "course": "ASE 364"
-         },
-         {
-          "type": "course",
-          "course": "COE 321K"
-         },
-         {
-          "type": "course",
-          "course": "COE 347"
-         }
-        ],
+        "filter": {
+         "label": "The degree requires all students to take nine semester hours of approved aerospa",
+         "courses": [
+          "ASE 364",
+          "COE 321K",
+          "COE 347"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/engineering/degrees-and-programs/bs-aerospace-engineering/",
          "quote": "The degree requires all students to take nine semester hours of approved aerospace electives. The list of approved electives may be found on the department website. For students pursuing Design Track 1, Atmospheric Fligh"
         }
        },
        {
-        "type": "course",
-        "course": "ASE 128",
+        "type": "hours",
+        "hours": 15.0,
+        "title": "The department offers students the opportunity to participate in special projects such as ",
+        "filter": {
+         "label": "The department offers students the opportunity to participate in special project",
+         "courses": [
+          "ASE 128"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/engineering/degrees-and-programs/bs-aerospace-engineering/",
          "quote": "The department offers students the opportunity to participate in special projects such as student-built radio-controlled aircraft competitions and student satellite-building projects. These time-intensive projects are op"

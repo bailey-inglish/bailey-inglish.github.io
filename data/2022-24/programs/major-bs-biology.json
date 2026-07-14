@@ -319,13 +319,18 @@
     }
    },
    {
-    "type": "note",
-    "text": "4. All students must complete at least 36 semester hours of upper-division coursework; at least 21 semester hours of upper-division coursework in biology must be completed in residence at the University.",
-    "title": "4. All students must complete at least 36 semester hours of upper-division cours",
+    "type": "hours",
+    "hours": 36.0,
+    "title": "4. All students must complete at least 36 semester hours of upper-division coursework; at ",
+    "filter": {
+     "label": "4. All students must complete at least 36 semester hours of upper-division cours",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-biology/",
      "quote": "4. All students must complete at least 36 semester hours of upper-division coursework; at least 21 semester hours of upper-division coursework in biology must be completed in residence at the University."
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "anyN",
@@ -472,6 +477,66 @@
        },
        {
         "type": "anyN",
+        "n": 3,
+        "title": "Three additional courses or pair of courses chosen from coursework in 5a through 5c and fr",
+        "of": [
+         {
+          "type": "course",
+          "course": "BIO 438L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 471G"
+         },
+         {
+          "type": "course",
+          "course": "BIO 456L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 359R"
+         },
+         {
+          "type": "course",
+          "course": "BIO 364"
+         },
+         {
+          "type": "course",
+          "course": "BIO 373L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 374"
+         },
+         {
+          "type": "course",
+          "course": "BIO 174L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 375"
+         },
+         {
+          "type": "course",
+          "course": "BIO 478L"
+         },
+         {
+          "type": "course",
+          "course": "MNS 352C"
+         },
+         {
+          "type": "course",
+          "course": "MNS 354Q"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-biology/",
+         "quote": "Three additional courses or pair of courses chosen from coursework in 5a through 5c and from Biology 438L, 471G, 456L, 359R, 364, 373L, 374 and 174L, 375, 478L, Marine Science 352C, and 354Q"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
         "title": "One course in cellular, developmental, genetics, microbiology, or molecular biology: Biolo",
         "of": [
          {
@@ -526,11 +591,11 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-biology/",
          "quote": "One course in cellular, developmental, genetics, microbiology, or molecular biology: Biology 320, 320L, 325L, 325T, 326R, 328, 331L, 344, 350, 349L, 350M, 366R"
-        },
-        "n": 1
+        }
        },
        {
-        "type": "all",
+        "type": "anyN",
+        "n": 1,
         "title": "One laboratory course or pair of courses containing a substantial field component: Biology",
         "of": [
          {
@@ -605,6 +670,7 @@
        },
        {
         "type": "anyN",
+        "n": 1,
         "title": "One additional laboratory course: Biology 320L, 321L, 124L, BIO 127L, 325L, 331L, 438L, 34",
         "of": [
          {
@@ -711,8 +777,46 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-biology/",
          "quote": "One additional laboratory course: Biology 320L, 321L, 124L, BIO 127L, 325L, 331L, 438L, 340L, 448L, 349L, 353F, 453L, 354L, 455L, 456L, 369L, 373L, 174L, 478L, Marine Science 120L, 352C, 352D, 354, 354C, 354E, 354Q. One-"
-        },
-        "n": 1
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "One course chosen from the following: Chemistry 320M, Computer Science 303E or 313E, Geolo",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 320M"
+         },
+         {
+          "type": "course",
+          "course": "C S 303E"
+         },
+         {
+          "type": "course",
+          "course": "C S 313E"
+         },
+         {
+          "type": "course",
+          "course": "GEO 401"
+         },
+         {
+          "type": "course",
+          "course": "GEO 303"
+         },
+         {
+          "type": "course",
+          "course": "SDS 324E"
+         },
+         {
+          "type": "course",
+          "course": "SDS 322E"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-biology/",
+         "quote": "One course chosen from the following: Chemistry 320M, Computer Science 303E or 313E, Geological Sciences 401 or 303, SDS 324E or 322E"
+        }
        },
        {
         "type": "note",
@@ -864,6 +968,7 @@
        },
        {
         "type": "anyN",
+        "n": 1,
         "title": "One additional laboratory course from: Biology 320L, 122L, 124L, 128L, BIO 129L, 325L, 328",
         "of": [
          {
@@ -986,8 +1091,7 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-biology/",
          "quote": "One additional laboratory course from: Biology 320L, 122L, 124L, 128L, BIO 129L, 325L, 328D, 230L, 331L, 340L, 446L, 448L, 349L, 353F, 453L, 354L, 455L, 456L, 260L, 361L, 463L, 165U, 369F, 369L, 371L, 373L, 174L, 478L, M"
-        },
-        "n": 1
+        }
        },
        {
         "type": "note",
@@ -1183,9 +1287,35 @@
         }
        },
        {
-        "type": "note",
-        "text": "Two upper-division biology laboratory courses chosen from: Biology 230L, 260L, and 361L. Biology 377, 377-FRI, 379H may be used for one of the laboratory courses if approved in advance by the microbiology faculty advisor.",
-        "title": "Two upper-division biology laboratory courses chosen from: Biology 230L, 260L, a",
+        "type": "anyN",
+        "n": 2,
+        "title": "Two upper-division biology laboratory courses chosen from: Biology 230L, 260L, and 361L. B",
+        "of": [
+         {
+          "type": "course",
+          "course": "BIO 230L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 260L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 361L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 377"
+         },
+         {
+          "type": "course",
+          "course": "BIO 377"
+         },
+         {
+          "type": "course",
+          "course": "BIO 379H"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-biology/",
          "quote": "Two upper-division biology laboratory courses chosen from: Biology 230L, 260L, and 361L. Biology 377, 377-FRI, 379H may be used for one of the laboratory courses if approved in advance by the microbiology faculty advisor"
@@ -1276,7 +1406,35 @@
         }
        },
        {
-        "type": "all",
+        "type": "anyN",
+        "n": 2,
+        "title": "Two laboratory courses chosen from: Biology 320L, 325L, 331L, 349L",
+        "of": [
+         {
+          "type": "course",
+          "course": "BIO 320L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 325L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 331L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 349L"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-biology/",
+         "quote": "Two laboratory courses chosen from: Biology 320L, 325L, 331L, 349L"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
         "title": "One additional upper-division laboratory course in biology. Biology 377, 377-FRI, 379H may",
         "of": [
          {
@@ -1368,7 +1526,8 @@
         }
        },
        {
-        "type": "all",
+        "type": "anyN",
+        "n": 2,
         "title": "Two additional upper-division laboratory courses;Biology 377, 377-FRI, 379H may be used fo",
         "of": [
          {
@@ -2221,7 +2380,8 @@
         }
        },
        {
-        "type": "all",
+        "type": "anyN",
+        "n": 2,
         "title": "Two courses from: Computer Science 303E, 313E, 323E, 323H, 324E, 326E, 327E, 329E, Mathema",
         "of": [
          {
@@ -2311,7 +2471,8 @@
         }
        },
        {
-        "type": "all",
+        "type": "anyN",
+        "n": 2,
         "title": "Two courses from genetics, genomics, and computational biology: Biochemistry 339N, Biology",
         "of": [
          {
@@ -2528,6 +2689,133 @@
         }
        },
        {
+        "type": "anyN",
+        "n": 1,
+        "title": "One additional laboratory course chosen from: Biology 320L, 122L, 124L, 128L, BIO 129L, 32",
+        "of": [
+         {
+          "type": "course",
+          "course": "BIO 320L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 122L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 124L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 128L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 325L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 328D"
+         },
+         {
+          "type": "course",
+          "course": "BIO 230L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 331L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 340L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 446L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 448L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 349L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 353F"
+         },
+         {
+          "type": "course",
+          "course": "BIO 453L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 354L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 455L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 456L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 260L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 361L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 463L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 165U"
+         },
+         {
+          "type": "course",
+          "course": "BIO 369F"
+         },
+         {
+          "type": "course",
+          "course": "BIO 369L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 371L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 373L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 174L"
+         },
+         {
+          "type": "course",
+          "course": "BIO 478L"
+         },
+         {
+          "type": "course",
+          "course": "MNS 120L"
+         },
+         {
+          "type": "course",
+          "course": "MNS 152L"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-biology/",
+         "quote": "One additional laboratory course chosen from: Biology 320L, 122L, 124L, 128L, BIO 129L, 325L, 328D, 230L, 331L, 340L, 446L, 448L, 349L, 353F, 453L, 354L, 455L, 456L, 260L, 361L, 463L, 165U, 369F, 369L, 371L, 373L, 174L, "
+        }
+       },
+       {
         "type": "hours",
         "hours": 9.0,
         "title": "Nine hours of additional upper-division biochemistry, biology, chemistry, marine science, ",
@@ -2721,38 +3009,22 @@
         }
        },
        {
-        "type": "all",
+        "type": "hours",
+        "hours": 6.0,
         "title": "Students begin the Bachelor of Science in Biology degree program with six hours of introdu",
-        "of": [
-         {
-          "type": "course",
-          "course": "BIO 311C"
-         },
-         {
-          "type": "course",
-          "course": "BIO 311D"
-         },
-         {
-          "type": "course",
-          "course": "CH 301"
-         },
-         {
-          "type": "course",
-          "course": "CH 302"
-         },
-         {
-          "type": "course",
-          "course": "M 408C"
-         },
-         {
-          "type": "course",
-          "course": "M 408N"
-         },
-         {
-          "type": "course",
-          "course": "M 408R"
-         }
-        ],
+        "filter": {
+         "label": "Students begin the Bachelor of Science in Biology degree program with six hours ",
+         "courses": [
+          "BIO 311C",
+          "BIO 311D",
+          "CH 301",
+          "CH 302",
+          "M 408C",
+          "M 408N",
+          "M 408R"
+         ],
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-biology/",
          "quote": "Students begin the Bachelor of Science in Biology degree program with six hours of introductory biology for science majors (Biology 311C and 311D), as well as Chemistry 301 or CH 301H and 302 or CH 302H and Mathematics 4"

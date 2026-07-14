@@ -56,9 +56,15 @@
     }
    },
    {
-    "type": "note",
-    "text": "Nine hours in any field or fields outside the College of Liberal Arts",
+    "type": "hours",
+    "hours": 9.0,
     "title": "Nine hours in any field or fields outside the College of Liberal Arts",
+    "filter": {
+     "label": "Nine hours in any field or fields outside the College of Liberal Arts",
+     "subjects": [
+      "L A"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
      "quote": "Nine hours in any field or fields outside the College of Liberal Arts"
@@ -99,9 +105,15 @@
     }
    },
    {
-    "type": "note",
-    "text": "Nine hours in a second field of study in the College of Liberal Arts",
+    "type": "hours",
+    "hours": 9.0,
     "title": "Nine hours in a second field of study in the College of Liberal Arts",
+    "filter": {
+     "label": "Nine hours in a second field of study in the College of Liberal Arts",
+     "subjects": [
+      "L A"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
      "quote": "Nine hours in a second field of study in the College of Liberal Arts"
@@ -156,6 +168,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BA",
  "majorSubjects": [
-  "HMN"
+  "L A"
  ]
 }

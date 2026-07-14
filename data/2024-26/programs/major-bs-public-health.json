@@ -280,20 +280,35 @@
         }
        },
        {
-        "type": "hours",
-        "hours": 6.0,
+        "type": "anyN",
+        "n": 6,
         "title": "Six hours from the following courses: Public Health 341R, 361P, 362, 364, 365, 366 or",
-        "filter": {
-         "label": "Six hours from the following courses: Public Health 341R, 361P, 362, 364, 365, 3",
-         "courses": [
-          "PBH 341R",
-          "PBH 361P",
-          "PBH 362",
-          "PBH 364",
-          "PBH 365",
-          "PBH 366"
-         ]
-        },
+        "of": [
+         {
+          "type": "course",
+          "course": "PBH 341R"
+         },
+         {
+          "type": "course",
+          "course": "PBH 361P"
+         },
+         {
+          "type": "course",
+          "course": "PBH 362"
+         },
+         {
+          "type": "course",
+          "course": "PBH 364"
+         },
+         {
+          "type": "course",
+          "course": "PBH 365"
+         },
+         {
+          "type": "course",
+          "course": "PBH 366"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
          "quote": "Six hours from the following courses: Public Health 341R, 361P, 362, 364, 365, 366 or"
@@ -306,6 +321,444 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
          "quote": "Nine hours of graduate coursework completed at the School of Public Health at The University of Texas Health Science Center at Houston for students participating in the Option III: Advanced Program."
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Foreign language proficiency",
+        "of": [
+         {
+          "type": "course",
+          "course": "ASL 311D"
+         },
+         {
+          "type": "course",
+          "course": "ARA 611C"
+         },
+         {
+          "type": "course",
+          "course": "BEN 312L"
+         },
+         {
+          "type": "course",
+          "course": "CHI 612"
+         },
+         {
+          "type": "course",
+          "course": "CHI 312L"
+         },
+         {
+          "type": "course",
+          "course": "CZ 611C"
+         },
+         {
+          "type": "course",
+          "course": "CZ 412L"
+         },
+         {
+          "type": "course",
+          "course": "DAN 612"
+         },
+         {
+          "type": "course",
+          "course": "DCH 612"
+         },
+         {
+          "type": "course",
+          "course": "FR 611C"
+         },
+         {
+          "type": "course",
+          "course": "FR 412K"
+         },
+         {
+          "type": "course",
+          "course": "GER 612"
+         },
+         {
+          "type": "course",
+          "course": "GK 312K"
+         },
+         {
+          "type": "course",
+          "course": "GK 312L"
+         },
+         {
+          "type": "course",
+          "course": "GK 610C"
+         },
+         {
+          "type": "course",
+          "course": "GK 310K"
+         },
+         {
+          "type": "course",
+          "course": "HEB 612C"
+         },
+         {
+          "type": "course",
+          "course": "HEB 611C"
+         },
+         {
+          "type": "course",
+          "course": "HIN 312L"
+         },
+         {
+          "type": "course",
+          "course": "HIN 612"
+         },
+         {
+          "type": "course",
+          "course": "ITL 611C"
+         },
+         {
+          "type": "course",
+          "course": "JPN 611D"
+         },
+         {
+          "type": "course",
+          "course": "KOR 312L"
+         },
+         {
+          "type": "course",
+          "course": "LAL 611C"
+         },
+         {
+          "type": "course",
+          "course": "LAT 511K"
+         },
+         {
+          "type": "course",
+          "course": "MAL 312L"
+         },
+         {
+          "type": "course",
+          "course": "NOR 612"
+         },
+         {
+          "type": "course",
+          "course": "PRS 611C"
+         },
+         {
+          "type": "course",
+          "course": "PRS 612C"
+         },
+         {
+          "type": "course",
+          "course": "POL 611C"
+         },
+         {
+          "type": "course",
+          "course": "POL 312L"
+         },
+         {
+          "type": "course",
+          "course": "POR 611D"
+         },
+         {
+          "type": "course",
+          "course": "RUS 611C"
+         },
+         {
+          "type": "course",
+          "course": "RUS 412K"
+         },
+         {
+          "type": "course",
+          "course": "SAN 312L"
+         },
+         {
+          "type": "course",
+          "course": "S C 312L"
+         },
+         {
+          "type": "course",
+          "course": "SAL 312L"
+         },
+         {
+          "type": "course",
+          "course": "SEL 611C"
+         },
+         {
+          "type": "course",
+          "course": "SEL 312L"
+         },
+         {
+          "type": "course",
+          "course": "SPN 311"
+         },
+         {
+          "type": "course",
+          "course": "SPN 611D"
+         },
+         {
+          "type": "course",
+          "course": "SPN 311J"
+         },
+         {
+          "type": "course",
+          "course": "SWA 611C"
+         },
+         {
+          "type": "course",
+          "course": "SWE 612"
+         },
+         {
+          "type": "course",
+          "course": "TAM 312L"
+         },
+         {
+          "type": "course",
+          "course": "TEL 312L"
+         },
+         {
+          "type": "course",
+          "course": "TUR 611C"
+         },
+         {
+          "type": "course",
+          "course": "URD 312L"
+         },
+         {
+          "type": "course",
+          "course": "UKR 312L"
+         },
+         {
+          "type": "course",
+          "course": "YID 612"
+         },
+         {
+          "type": "course",
+          "course": "YOR 611C"
+         },
+         {
+          "type": "note",
+          "text": "Or certified proficiency by placement or credit-by-exam."
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "One of the following foreign language/culture choices: Beginning level proficiency coursework, or the equivalent, in a foreign language"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Foreign language proficiency",
+        "of": [
+         {
+          "type": "course",
+          "course": "ASL 311D"
+         },
+         {
+          "type": "course",
+          "course": "ARA 611C"
+         },
+         {
+          "type": "course",
+          "course": "BEN 312L"
+         },
+         {
+          "type": "course",
+          "course": "CHI 612"
+         },
+         {
+          "type": "course",
+          "course": "CHI 312L"
+         },
+         {
+          "type": "course",
+          "course": "CZ 611C"
+         },
+         {
+          "type": "course",
+          "course": "CZ 412L"
+         },
+         {
+          "type": "course",
+          "course": "DAN 612"
+         },
+         {
+          "type": "course",
+          "course": "DCH 612"
+         },
+         {
+          "type": "course",
+          "course": "FR 611C"
+         },
+         {
+          "type": "course",
+          "course": "FR 412K"
+         },
+         {
+          "type": "course",
+          "course": "GER 612"
+         },
+         {
+          "type": "course",
+          "course": "GK 312K"
+         },
+         {
+          "type": "course",
+          "course": "GK 312L"
+         },
+         {
+          "type": "course",
+          "course": "GK 610C"
+         },
+         {
+          "type": "course",
+          "course": "GK 310K"
+         },
+         {
+          "type": "course",
+          "course": "HEB 612C"
+         },
+         {
+          "type": "course",
+          "course": "HEB 611C"
+         },
+         {
+          "type": "course",
+          "course": "HIN 312L"
+         },
+         {
+          "type": "course",
+          "course": "HIN 612"
+         },
+         {
+          "type": "course",
+          "course": "ITL 611C"
+         },
+         {
+          "type": "course",
+          "course": "JPN 611D"
+         },
+         {
+          "type": "course",
+          "course": "KOR 312L"
+         },
+         {
+          "type": "course",
+          "course": "LAL 611C"
+         },
+         {
+          "type": "course",
+          "course": "LAT 511K"
+         },
+         {
+          "type": "course",
+          "course": "MAL 312L"
+         },
+         {
+          "type": "course",
+          "course": "NOR 612"
+         },
+         {
+          "type": "course",
+          "course": "PRS 611C"
+         },
+         {
+          "type": "course",
+          "course": "PRS 612C"
+         },
+         {
+          "type": "course",
+          "course": "POL 611C"
+         },
+         {
+          "type": "course",
+          "course": "POL 312L"
+         },
+         {
+          "type": "course",
+          "course": "POR 611D"
+         },
+         {
+          "type": "course",
+          "course": "RUS 611C"
+         },
+         {
+          "type": "course",
+          "course": "RUS 412K"
+         },
+         {
+          "type": "course",
+          "course": "SAN 312L"
+         },
+         {
+          "type": "course",
+          "course": "S C 312L"
+         },
+         {
+          "type": "course",
+          "course": "SAL 312L"
+         },
+         {
+          "type": "course",
+          "course": "SEL 611C"
+         },
+         {
+          "type": "course",
+          "course": "SEL 312L"
+         },
+         {
+          "type": "course",
+          "course": "SPN 311"
+         },
+         {
+          "type": "course",
+          "course": "SPN 611D"
+         },
+         {
+          "type": "course",
+          "course": "SPN 311J"
+         },
+         {
+          "type": "course",
+          "course": "SWA 611C"
+         },
+         {
+          "type": "course",
+          "course": "SWE 612"
+         },
+         {
+          "type": "course",
+          "course": "TAM 312L"
+         },
+         {
+          "type": "course",
+          "course": "TEL 312L"
+         },
+         {
+          "type": "course",
+          "course": "TUR 611C"
+         },
+         {
+          "type": "course",
+          "course": "URD 312L"
+         },
+         {
+          "type": "course",
+          "course": "UKR 312L"
+         },
+         {
+          "type": "course",
+          "course": "YID 612"
+         },
+         {
+          "type": "course",
+          "course": "YOR 611C"
+         },
+         {
+          "type": "note",
+          "text": "Or certified proficiency by placement or credit-by-exam."
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "First course in a foreign language and a three-semester-hour course in the culture of the same language area"
         }
        },
        {
@@ -571,6 +1024,444 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
          "quote": "Chemistry 301 or 301C, 302 or 302C, 204, 320M, and Biochemistry 369"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Foreign language proficiency",
+        "of": [
+         {
+          "type": "course",
+          "course": "ASL 311D"
+         },
+         {
+          "type": "course",
+          "course": "ARA 611C"
+         },
+         {
+          "type": "course",
+          "course": "BEN 312L"
+         },
+         {
+          "type": "course",
+          "course": "CHI 612"
+         },
+         {
+          "type": "course",
+          "course": "CHI 312L"
+         },
+         {
+          "type": "course",
+          "course": "CZ 611C"
+         },
+         {
+          "type": "course",
+          "course": "CZ 412L"
+         },
+         {
+          "type": "course",
+          "course": "DAN 612"
+         },
+         {
+          "type": "course",
+          "course": "DCH 612"
+         },
+         {
+          "type": "course",
+          "course": "FR 611C"
+         },
+         {
+          "type": "course",
+          "course": "FR 412K"
+         },
+         {
+          "type": "course",
+          "course": "GER 612"
+         },
+         {
+          "type": "course",
+          "course": "GK 312K"
+         },
+         {
+          "type": "course",
+          "course": "GK 312L"
+         },
+         {
+          "type": "course",
+          "course": "GK 610C"
+         },
+         {
+          "type": "course",
+          "course": "GK 310K"
+         },
+         {
+          "type": "course",
+          "course": "HEB 612C"
+         },
+         {
+          "type": "course",
+          "course": "HEB 611C"
+         },
+         {
+          "type": "course",
+          "course": "HIN 312L"
+         },
+         {
+          "type": "course",
+          "course": "HIN 612"
+         },
+         {
+          "type": "course",
+          "course": "ITL 611C"
+         },
+         {
+          "type": "course",
+          "course": "JPN 611D"
+         },
+         {
+          "type": "course",
+          "course": "KOR 312L"
+         },
+         {
+          "type": "course",
+          "course": "LAL 611C"
+         },
+         {
+          "type": "course",
+          "course": "LAT 511K"
+         },
+         {
+          "type": "course",
+          "course": "MAL 312L"
+         },
+         {
+          "type": "course",
+          "course": "NOR 612"
+         },
+         {
+          "type": "course",
+          "course": "PRS 611C"
+         },
+         {
+          "type": "course",
+          "course": "PRS 612C"
+         },
+         {
+          "type": "course",
+          "course": "POL 611C"
+         },
+         {
+          "type": "course",
+          "course": "POL 312L"
+         },
+         {
+          "type": "course",
+          "course": "POR 611D"
+         },
+         {
+          "type": "course",
+          "course": "RUS 611C"
+         },
+         {
+          "type": "course",
+          "course": "RUS 412K"
+         },
+         {
+          "type": "course",
+          "course": "SAN 312L"
+         },
+         {
+          "type": "course",
+          "course": "S C 312L"
+         },
+         {
+          "type": "course",
+          "course": "SAL 312L"
+         },
+         {
+          "type": "course",
+          "course": "SEL 611C"
+         },
+         {
+          "type": "course",
+          "course": "SEL 312L"
+         },
+         {
+          "type": "course",
+          "course": "SPN 311"
+         },
+         {
+          "type": "course",
+          "course": "SPN 611D"
+         },
+         {
+          "type": "course",
+          "course": "SPN 311J"
+         },
+         {
+          "type": "course",
+          "course": "SWA 611C"
+         },
+         {
+          "type": "course",
+          "course": "SWE 612"
+         },
+         {
+          "type": "course",
+          "course": "TAM 312L"
+         },
+         {
+          "type": "course",
+          "course": "TEL 312L"
+         },
+         {
+          "type": "course",
+          "course": "TUR 611C"
+         },
+         {
+          "type": "course",
+          "course": "URD 312L"
+         },
+         {
+          "type": "course",
+          "course": "UKR 312L"
+         },
+         {
+          "type": "course",
+          "course": "YID 612"
+         },
+         {
+          "type": "course",
+          "course": "YOR 611C"
+         },
+         {
+          "type": "note",
+          "text": "Or certified proficiency by placement or credit-by-exam."
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "One of the following foreign language/culture choices: Beginning level proficiency coursework, or the equivalent, in a foreign language"
+        }
+       },
+       {
+        "type": "anyN",
+        "n": 1,
+        "title": "Foreign language proficiency",
+        "of": [
+         {
+          "type": "course",
+          "course": "ASL 311D"
+         },
+         {
+          "type": "course",
+          "course": "ARA 611C"
+         },
+         {
+          "type": "course",
+          "course": "BEN 312L"
+         },
+         {
+          "type": "course",
+          "course": "CHI 612"
+         },
+         {
+          "type": "course",
+          "course": "CHI 312L"
+         },
+         {
+          "type": "course",
+          "course": "CZ 611C"
+         },
+         {
+          "type": "course",
+          "course": "CZ 412L"
+         },
+         {
+          "type": "course",
+          "course": "DAN 612"
+         },
+         {
+          "type": "course",
+          "course": "DCH 612"
+         },
+         {
+          "type": "course",
+          "course": "FR 611C"
+         },
+         {
+          "type": "course",
+          "course": "FR 412K"
+         },
+         {
+          "type": "course",
+          "course": "GER 612"
+         },
+         {
+          "type": "course",
+          "course": "GK 312K"
+         },
+         {
+          "type": "course",
+          "course": "GK 312L"
+         },
+         {
+          "type": "course",
+          "course": "GK 610C"
+         },
+         {
+          "type": "course",
+          "course": "GK 310K"
+         },
+         {
+          "type": "course",
+          "course": "HEB 612C"
+         },
+         {
+          "type": "course",
+          "course": "HEB 611C"
+         },
+         {
+          "type": "course",
+          "course": "HIN 312L"
+         },
+         {
+          "type": "course",
+          "course": "HIN 612"
+         },
+         {
+          "type": "course",
+          "course": "ITL 611C"
+         },
+         {
+          "type": "course",
+          "course": "JPN 611D"
+         },
+         {
+          "type": "course",
+          "course": "KOR 312L"
+         },
+         {
+          "type": "course",
+          "course": "LAL 611C"
+         },
+         {
+          "type": "course",
+          "course": "LAT 511K"
+         },
+         {
+          "type": "course",
+          "course": "MAL 312L"
+         },
+         {
+          "type": "course",
+          "course": "NOR 612"
+         },
+         {
+          "type": "course",
+          "course": "PRS 611C"
+         },
+         {
+          "type": "course",
+          "course": "PRS 612C"
+         },
+         {
+          "type": "course",
+          "course": "POL 611C"
+         },
+         {
+          "type": "course",
+          "course": "POL 312L"
+         },
+         {
+          "type": "course",
+          "course": "POR 611D"
+         },
+         {
+          "type": "course",
+          "course": "RUS 611C"
+         },
+         {
+          "type": "course",
+          "course": "RUS 412K"
+         },
+         {
+          "type": "course",
+          "course": "SAN 312L"
+         },
+         {
+          "type": "course",
+          "course": "S C 312L"
+         },
+         {
+          "type": "course",
+          "course": "SAL 312L"
+         },
+         {
+          "type": "course",
+          "course": "SEL 611C"
+         },
+         {
+          "type": "course",
+          "course": "SEL 312L"
+         },
+         {
+          "type": "course",
+          "course": "SPN 311"
+         },
+         {
+          "type": "course",
+          "course": "SPN 611D"
+         },
+         {
+          "type": "course",
+          "course": "SPN 311J"
+         },
+         {
+          "type": "course",
+          "course": "SWA 611C"
+         },
+         {
+          "type": "course",
+          "course": "SWE 612"
+         },
+         {
+          "type": "course",
+          "course": "TAM 312L"
+         },
+         {
+          "type": "course",
+          "course": "TEL 312L"
+         },
+         {
+          "type": "course",
+          "course": "TUR 611C"
+         },
+         {
+          "type": "course",
+          "course": "URD 312L"
+         },
+         {
+          "type": "course",
+          "course": "UKR 312L"
+         },
+         {
+          "type": "course",
+          "course": "YID 612"
+         },
+         {
+          "type": "course",
+          "course": "YOR 611C"
+         },
+         {
+          "type": "note",
+          "text": "Or certified proficiency by placement or credit-by-exam."
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-public-health/",
+         "quote": "First course in a foreign language and a three-semester-hour course in the culture of the same language area"
         }
        },
        {

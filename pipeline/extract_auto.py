@@ -97,8 +97,10 @@ WORD_N = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6}
 
 
 def rules_from_table(rows: list[dict], url: str, min_grade: str | None,
-                     known: set[str]) -> tuple[list[dict], float | None]:
+                     known: set[str], subject_map: dict | None = None,
+                     ) -> tuple[list[dict], float | None]:
     """Convert parsed rows into DSL nodes. Returns (nodes, totalHours)."""
+    subject_map = subject_map or {}
     nodes: list[dict] = []
     total_hours = None
     group: dict | None = None
@@ -110,10 +112,11 @@ def rules_from_table(rows: list[dict], url: str, min_grade: str | None,
         ids = [i for i in group["ids"] if i in known]
         node: dict
         if not ids:
-            # an hours target with no enumerable courses ("N hours from an
-            # approved list") can't be auto-checked — keep it as context
-            node = note_node(group["text"], url)
-            nodes.append(node)
+            # no enumerable courses: try to formalize the group text (a
+            # subject-scoped hours rule, a language requirement, etc.),
+            # else keep it as informational context
+            fnode = formalize(group["text"], [], url, min_grade, subject_map, known)
+            nodes.append(fnode or note_node(group["text"], url))
             group = None
             return
         else:
@@ -157,8 +160,9 @@ def rules_from_table(rows: list[dict], url: str, min_grade: str | None,
                 pass  # sub-area label inside a group ("Statistics") — ignore
             elif not row["text"].rstrip().endswith(":"):
                 # a comment header ending in ':' introduces following groups;
-                # free-standing prose becomes an informational note
-                nodes.append(note_node(row["text"], url))
+                # free-standing prose: formalize if possible, else a note
+                fnode = formalize(row["text"], [], url, min_grade, subject_map, known)
+                nodes.append(fnode or note_node(row["text"], url))
             continue
         # course / orcourse rows
         ids = row["ids"]
@@ -339,7 +343,78 @@ HOURS_LEAD_RE = re.compile(
 
 def hours_count(text: str):
     m = HOURS_LEAD_RE.match(text.strip())
+    if m:
+        return word_to_num(m.group(1))
+    # mid-sentence: "students must complete three semester hours in economics"
+    m = re.search(
+        rf"\b(?:complete|take|of|earn|with)\s+(?:at least\s+|a minimum of\s+)?"
+        rf"({NUM_WORD})[- ](?:additional |semester |credit )*hours?\b", text, re.I)
     return word_to_num(m.group(1)) if m else None
+
+
+# "Two upper-division biology laboratory courses chosen from" -> count = 2
+COURSE_COUNT_RE = re.compile(
+    rf"^(?:At least |Complete |Take )?({NUM_WORD})\s+"
+    rf"(?:additional\s+|upper.division\s+|lower.division\s+|[a-z]+\s+){{0,4}}courses?\b",
+    re.I)
+
+
+def course_count(text: str):
+    m = COURSE_COUNT_RE.match(text.strip())
+    return word_to_num(m.group(1)) if m else None
+
+
+# foreign-language subjects (one is picked for a single-language requirement)
+FL_SUBJECTS = [
+    "ARA", "ASL", "BEN", "CHI", "CZ", "DAN", "DCH", "FR", "GER", "GK",
+    "HEB", "HIN", "ITL", "JPN", "KOR", "LAL", "LAT", "MAL", "NOR", "PRS",
+    "POL", "POR", "RUS", "SAN", "S C", "SAL", "SEL", "SPN", "SWA", "SWE",
+    "TAM", "TEL", "TUR", "URD", "UKR", "YID", "YOR", "HIN", "MLL", "VTN",
+]
+# intermediate (second-year) proficiency courses that satisfy a BA-style
+# foreign-language requirement
+FL_INTERMEDIATE = [
+    "ASL 311D", "ARA 611C", "BEN 312L", "CHI 612", "CHI 312L", "CZ 611C",
+    "CZ 412L", "DAN 612", "DCH 612", "FR 611C", "FR 412K", "GER 612",
+    "GK 312K", "GK 312L", "GK 610C", "GK 310K", "HEB 612C", "HEB 611C",
+    "HIN 312L", "HIN 612", "ITL 611C", "JPN 611D", "KOR 312L", "LAL 611C",
+    "LAT 511K", "MAL 312L", "NOR 612", "PRS 611C", "PRS 612C", "POL 611C",
+    "POL 312L", "POR 611D", "RUS 611C", "RUS 412K", "SAN 312L", "S C 312L",
+    "SAL 312L", "SEL 611C", "SEL 312L", "SPN 311", "SPN 611D", "SPN 311J",
+    "SWA 611C", "SWE 612", "TAM 312L", "TEL 312L", "TUR 611C", "URD 312L",
+    "UKR 312L", "YID 612", "YOR 611C",
+]
+
+LANG_RE = re.compile(r"foreign language|language other than English", re.I)
+
+
+def language_node(text: str, url: str, known: set[str]):
+    """Interpret a foreign-language requirement.
+
+    'N hours in a single foreign language' -> a concentration over one
+    language subject; a bare 'proficiency in a foreign language' -> the
+    intermediate-course list (any one language) plus a placement note.
+    """
+    if not LANG_RE.search(text):
+        return None
+    H = hours_count(text)
+    upper = bool(re.search(r"upper.division", text, re.I))
+    if H:
+        return {
+            "type": "concentration", "hours": float(H),
+            **({"upperHours": float(H)} if upper else {}),
+            "includeSubjects": FL_SUBJECTS,
+            "title": text[:90], "source": src_of(url, text),
+        }
+    # proficiency / intermediate competency, no explicit hour count
+    ids = [c for c in FL_INTERMEDIATE if c in known]
+    return {
+        "type": "anyN", "n": 1, "title": "Foreign language proficiency",
+        "of": [{"type": "course", "course": i} for i in ids] + [
+            {"type": "note",
+             "text": "Or certified proficiency by placement or credit-by-exam."}],
+        "source": src_of(url, text),
+    }
 
 
 def grade_min(text: str, fallback: str | None) -> str | None:
@@ -348,14 +423,33 @@ def grade_min(text: str, fallback: str | None) -> str | None:
 
 
 def subject_scope(text: str, subject_map: dict[str, str]):
-    m = re.search(
+    # "hours of/in <subject>" or "<subject> coursework"
+    for pat in (
         r"(?:hours?|coursework|courses|electives?) (?:of|in) (?:upper.division )?"
         r"([a-z][a-z ,&-]{2,40}?)"
         r"(?:[,.:;]| chosen| selected| at least| including| must| with| that|$)",
-        text, re.I)
-    if not m:
-        return None
-    return subject_map.get(m.group(1).strip().lower())
+        r"(?:upper.division |lower.division )?([a-z][a-z ,&-]{2,40}?) "
+        r"(?:coursework|courses|electives)",
+        # trailing subject: "Six hours (of) (upper-division) Arabic"
+        r"hours?\s+(?:of\s+)?(?:upper.division\s+|lower.division\s+)?"
+        r"([a-z][a-z ,&-]{2,30}?)\s*$",
+    ):
+        m = re.search(pat, text, re.I)
+        if m:
+            code = subject_map.get(m.group(1).strip().lower())
+            if code:
+                return code
+    # short label ("Six hours upper-division Arabic"): the longest subject
+    # NAME that appears anywhere wins
+    if len(text) <= 70:
+        best = None
+        for name, code in subject_map.items():
+            if len(name) >= 4 and re.search(rf"\b{re.escape(name)}\b", text, re.I):
+                if best is None or len(name) > len(best[0]):
+                    best = (name, code)
+        if best:
+            return best[1]
+    return None
 
 
 def connectives_of(text: str, ids: list[str]) -> set[str]:
@@ -406,8 +500,16 @@ def note_node(text, url):
             "source": src_of(url, text)}
 
 
+def anyN_node(n, ids, mg, title, url):
+    return {"type": "anyN", "n": max(1, min(n, len(ids))),
+            "title": title[:90],
+            "of": [{"type": "course", "course": i,
+                    **({"minGrade": mg} if mg else {})} for i in ids],
+            "source": src_of(url, title)}
+
+
 def formalize(text: str, ids: list[str], url: str, min_grade: str | None,
-              subject_map: dict[str, str]):
+              subject_map: dict[str, str], known: set[str] | None = None):
     """Turn a requirement fragment into a rule node, or None if it can't be
     formalized (caller then decides note vs skip)."""
     mg = grade_min(text, min_grade)
@@ -415,23 +517,33 @@ def formalize(text: str, ids: list[str], url: str, min_grade: str | None,
     upper = bool(re.search(r"upper.division", text, re.I))
     code = subject_scope(text, subject_map)
     chosen = bool(CHOSEN_RE.search(text))
+    cc = course_count(text)
 
-    # 1. an hour count plus an enumerable course list
+    # 0. foreign-language requirement (single-language semantics)
+    if LANG_RE.search(text) and (H or not ids):
+        lang = language_node(text, url, known or set())
+        if lang:
+            return lang
+
+    # 1. "N courses chosen from: [ids]" -> pick N of the listed courses
+    if cc and ids and len(ids) >= 2 and (chosen or cc <= len(ids)):
+        return anyN_node(cc, ids, mg, text, url)
+    # 2. an hour count plus an enumerable course list
     if H and ids:
         return hours_node(H, text, url, ids=ids, upper=upper, mg=mg,
                           umbrella=(H >= 12 and bool(code)))
-    # 2. an hour count scoped to a subject and/or upper-division
+    # 3. an hour count scoped to a subject and/or upper-division
     if H and (code or upper):
         return hours_node(H, text, url, subjects=[code] if code else None,
                           upper=upper, mg=mg, umbrella=(H >= 12))
-    # 3. a course list without a parseable hour count
+    # 4. a course list without a parseable hour count
     if ids:
         conn = connectives_of(text, ids)
         if len(ids) == 1:
             return courses_node(ids, mg, text, url)
         if chosen and not H:
-            # "chosen from" without a count is ambiguous; only safe as an
-            # any-1 when it's a short either/or, else leave to a note
+            # "chosen from" without a count: any-1 for a short either/or,
+            # else leave to a note (an unbounded pick can't be scored)
             if conn == {"or"} and len(ids) <= 6:
                 return courses_node(ids, mg, text, url, force_any=True)
             return None
@@ -455,7 +567,7 @@ def prose_nodes(fragments: list[str], url: str, known: set[str],
         if text.rstrip().endswith(":") and not ids and len(text) < 90:
             continue
 
-        node = formalize(text, ids, url, None, subject_map)
+        node = formalize(text, ids, url, None, subject_map, known)
         if node:
             nodes.append(node)
             if node.get("type") == "hours":
@@ -518,7 +630,7 @@ def extract_minor_cert_page(edition: str, college: str, known: set[str]) -> list
         nodes: list[dict] = []
         total = None
         for tbl in re.findall(r'<table class="sc_courselist".*?</table>', sec, re.S):
-            tnodes, ttotal = rules_from_table(parse_table(tbl), url, grade, known)
+            tnodes, ttotal = rules_from_table(parse_table(tbl), url, grade, known, subject_map_for(edition))
             nodes += tnodes
             total = total or ttotal
         hours_m = re.search(r"(?:minimum of |requires |consists of a? ?(?:minimum of )?)(\d+)\s+(?:semester )?hours", intro)
@@ -526,7 +638,7 @@ def extract_minor_cert_page(edition: str, college: str, known: set[str]) -> list
             # no structured table — try to formalize the intro prose, else
             # keep it as an informational note
             intro_ids = [i for i in course_ids_in(sec.split("<table", 1)[0]) if i in known]
-            fnode = formalize(intro, intro_ids, url, grade, subject_map_for(edition))
+            fnode = formalize(intro, intro_ids, url, grade, subject_map_for(edition), known)
             if fnode:
                 nodes = [fnode]
             elif intro:
@@ -637,7 +749,7 @@ def extract_degree_page(edition: str, college: str, rel: str,
     def section_nodes(html_frag: str) -> tuple[list[dict], list[str]]:
         out: list[dict] = []
         for tbl in re.findall(r'<table class="sc_courselist".*?</table>', html_frag, re.S):
-            tnodes, _ = rules_from_table(parse_table(tbl), url, None, known)
+            tnodes, _ = rules_from_table(parse_table(tbl), url, None, known, subject_map_for(edition))
             out += tnodes
         wo_tables = re.sub(r"<table.*?</table>", "", html_frag, flags=re.S)
         fragments = re.findall(r"<(?:p|li)[^>]*>(.*?)</(?:p|li)>", wo_tables, re.S)
@@ -681,7 +793,7 @@ def extract_degree_page(edition: str, college: str, rel: str,
                 continue
             snodes: list[dict] = []
             for tbl in re.findall(r'<table class="sc_courselist".*?</table>', sbody, re.S):
-                tnodes, _ = rules_from_table(parse_table(tbl), url, None, known)
+                tnodes, _ = rules_from_table(parse_table(tbl), url, None, known, subject_map_for(edition))
                 snodes += tnodes
             snodes = [n for n in snodes if n.get("type") != "note"]
             if snodes:

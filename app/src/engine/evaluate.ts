@@ -208,6 +208,7 @@ function evalNode(node: RuleNode, ctx: Ctx): NodeResult {
         if (!gradeSatisfies(c.grade, node.minGrade)) continue
         const subj = subjectOf(c.id)
         if (node.excludeSubjects?.includes(subj)) continue
+        if (node.includeSubjects && !node.includeSubjects.includes(subj)) continue
         if (!bySubject.has(subj)) bySubject.set(subj, [])
         bySubject.get(subj)!.push(c)
       }
