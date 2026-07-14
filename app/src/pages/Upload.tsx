@@ -31,7 +31,16 @@ export function Upload() {
     setError(null)
     try {
       if (file.type === 'application/pdf' || file.name.endsWith('.pdf')) {
-        const text = await extractPdfText(await file.arrayBuffer())
+        let text: string
+        try {
+          text = await extractPdfText(await file.arrayBuffer())
+        } catch (pdfErr) {
+          throw new Error(
+            `Couldn't read this PDF in your browser (${pdfErr instanceof Error ? pdfErr.message : pdfErr}). ` +
+              'As a workaround, open the Academic Summary, select all text (Ctrl/Cmd-A), copy it, ' +
+              'and paste it into the box below — that path handles the same data.',
+          )
+        }
         await handleText(text)
       } else if (file.name.endsWith('.json')) {
         const imported = JSON.parse(await file.text())

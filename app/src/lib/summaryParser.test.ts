@@ -87,3 +87,36 @@ describe('parseAcademicSummary on pdf.js-extracted lines', () => {
     expect(m408c.title).toBe('DIFFEREN AND INTEGRAL CALCULUS')
   })
 })
+
+// A different export flattens each table row onto one line (e.g.
+// "RE A 42040 In residence 3.0 12.00") and packs several header fields
+// onto one line. The token-stream parser must handle it identically.
+describe('parseAcademicSummary on the flattened copy-paste layout', () => {
+  const flat = readFileSync(
+    join(dirname(fileURLToPath(import.meta.url)), '__fixtures__', 'academic-summary-flat.txt'),
+    'utf-8',
+  )
+  const { record, warnings } = parseAcademicSummary(flat)
+
+  it('parses all rows and multi-field header lines', () => {
+    expect(warnings).toEqual([])
+    expect(record.courses).toHaveLength(38)
+    expect(record.schools).toEqual(['NATURAL SCIENCES (E)', 'LIBERAL ARTS (L)'])
+    expect(record.majors).toEqual([
+      'STATISTICS AND DATA SCIENCE (BSSDS)/PLAN II',
+      'PLAN II HONORS PROGRAM/PREMED, PREDENT, PREVET',
+    ])
+    expect(record.totals?.overallGpa).toBe(4)
+  })
+
+  it('recovers grades, types, and titles from flattened rows', () => {
+    const tc302 = record.courses.find((c) => c.id === 'T C 302')!
+    expect(tc302).toMatchObject({ grade: 'A', hours: 3, creditType: 'in-residence' })
+    expect(tc302.title).toBe('HEALER/PATIENT/SOCIETY/CULTU RE')
+    const m408c = record.courses.find((c) => c.id === 'M 408C')!
+    expect(m408c.creditType).toBe('credit-by-exam')
+    const bdp = record.courses.find((c) => c.id === 'BDP 325K')!
+    expect(bdp.grade).toBeUndefined()
+    expect(bdp.creditType).toBe('extension')
+  })
+})
