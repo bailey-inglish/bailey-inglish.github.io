@@ -916,18 +916,16 @@
         }
        },
        {
-        "type": "all",
+        "type": "hours",
+        "hours": 125.0,
         "title": "Students in the ECB Honors Program must complete all ECE curriculum requirements and a min",
-        "of": [
-         {
-          "type": "course",
-          "course": "B A 324H"
-         },
-         {
-          "type": "course",
-          "course": "ECE 333T"
-         }
-        ],
+        "filter": {
+         "label": "Students in the ECB Honors Program must complete all ECE curriculum requirements",
+         "courses": [
+          "B A 324H",
+          "ECE 333T"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Students in the ECB Honors Program must complete all ECE curriculum requirements and a minimum of 125 hours. Please refer to the Engineering “Degrees and Programs” section of this catalog for technical course options wit"

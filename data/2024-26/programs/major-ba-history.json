@@ -65,9 +65,15 @@
     "umbrella": true
    },
    {
-    "type": "note",
-    "text": "At least six semester hours must be designated as Pre-1800 history",
+    "type": "hours",
+    "hours": 6.0,
     "title": "At least six semester hours must be designated as Pre-1800 history",
+    "filter": {
+     "label": "At least six semester hours must be designated as Pre-1800 history",
+     "subjects": [
+      "HIS"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/history/",
      "quote": "At least six semester hours must be designated as Pre-1800 history"

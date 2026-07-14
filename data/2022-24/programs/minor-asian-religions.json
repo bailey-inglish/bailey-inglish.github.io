@@ -26,9 +26,13 @@
     }
    },
    {
-    "type": "note",
-    "text": "Nine hours (at least six upper-division) chosen from an approved list",
+    "type": "hours",
+    "hours": 9.0,
     "title": "Nine hours (at least six upper-division) chosen from an approved list",
+    "filter": {
+     "label": "Nine hours (at least six upper-division) chosen from an approved list",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Nine hours (at least six upper-division) chosen from an approved list"

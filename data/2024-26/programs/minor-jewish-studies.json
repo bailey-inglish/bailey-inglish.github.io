@@ -32,13 +32,18 @@
     }
    },
    {
-    "type": "note",
-    "text": "Twelve additional hours of Jewish studies courses, of which nine must be upper-division. Of these nine hours, three hours must be in humanities and three hours in history and social science.",
-    "title": "Twelve additional hours of Jewish studies courses, of which nine must be upper-d",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve additional hours of Jewish studies courses, of which nine must be upper-division. O",
+    "filter": {
+     "label": "Twelve additional hours of Jewish studies courses, of which nine must be upper-d",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Twelve additional hours of Jewish studies courses, of which nine must be upper-division. Of these nine hours, three hours must be in humanities and three hours in history and social science."
-    }
+    },
+    "umbrella": true
    }
   ]
  },

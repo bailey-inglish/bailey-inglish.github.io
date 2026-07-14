@@ -57,9 +57,13 @@
     }
    },
    {
-    "type": "note",
-    "text": "Three hours of upper-division coursework in RUS",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three hours of upper-division coursework in RUS",
+    "filter": {
+     "label": "Three hours of upper-division coursework in RUS",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Three hours of upper-division coursework in RUS"

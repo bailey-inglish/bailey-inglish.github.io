@@ -65,22 +65,17 @@
     }
    },
    {
-    "type": "all",
+    "type": "hours",
+    "hours": 3.0,
     "title": "A maximum of three hours Marketing 178/278/378 can be counted towards marketing electives ",
-    "of": [
-     {
-      "type": "course",
-      "course": "MKT 178"
-     },
-     {
-      "type": "course",
-      "course": "MKT 278"
-     },
-     {
-      "type": "course",
-      "course": "MKT 378"
-     }
-    ],
+    "filter": {
+     "label": "A maximum of three hours Marketing 178/278/378 can be counted towards marketing ",
+     "courses": [
+      "MKT 178",
+      "MKT 278",
+      "MKT 378"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/marketing/",
      "quote": "A maximum of three hours Marketing 178/278/378 can be counted towards marketing electives for a Marketing major."

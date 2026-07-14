@@ -607,9 +607,47 @@
     }
    },
    {
-    "type": "note",
-    "text": "One of the following courses on climate and water: Geological Sciences 338J, 347D, 347G, 376E, 476K, 476M, 376S, 377P. Geological Sciences 371T may count with prior approval of the faculty advisor. (Note: The same course may not be used to satisfy both requirement 4 of the major requirements and requirement 10c of the prescribed work).",
-    "title": "One of the following courses on climate and water: Geological Sciences 338J, 347",
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following courses on climate and water: Geological Sciences 338J, 347D, 347G, 3",
+    "of": [
+     {
+      "type": "course",
+      "course": "GEO 338J"
+     },
+     {
+      "type": "course",
+      "course": "GEO 347D"
+     },
+     {
+      "type": "course",
+      "course": "GEO 347G"
+     },
+     {
+      "type": "course",
+      "course": "GEO 376E"
+     },
+     {
+      "type": "course",
+      "course": "GEO 476K"
+     },
+     {
+      "type": "course",
+      "course": "GEO 476M"
+     },
+     {
+      "type": "course",
+      "course": "GEO 376S"
+     },
+     {
+      "type": "course",
+      "course": "GEO 377P"
+     },
+     {
+      "type": "course",
+      "course": "GEO 371T"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/geosciences/degrees-and-programs/bs-environmental-science/",
      "quote": "One of the following courses on climate and water: Geological Sciences 338J, 347D, 347G, 376E, 476K, 476M, 376S, 377P. Geological Sciences 371T may count with prior approval of the faculty advisor. (Note: The same course"
@@ -643,6 +681,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BS",
  "majorSubjects": [
-  "GRG"
+  "GEO"
  ]
 }

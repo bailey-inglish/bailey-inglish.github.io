@@ -396,25 +396,55 @@
         }
        },
        {
-        "type": "hours",
-        "hours": 12.0,
+        "type": "anyN",
+        "n": 11,
         "title": "Twelve semester hours of laboratory courses chosen from the following: Neuroscience 365L, ",
-        "filter": {
-         "label": "Twelve semester hours of laboratory courses chosen from the following: Neuroscie",
-         "courses": [
-          "NEU 365L",
-          "NEU 366E",
-          "NEU 366L",
-          "NEU 366N",
-          "NEU 366P",
-          "NEU 366S",
-          "NEU 367W",
-          "NEU 377",
-          "NEU 466G",
-          "NEU 466M",
-          "NEU 377"
-         ]
-        },
+        "of": [
+         {
+          "type": "course",
+          "course": "NEU 365L"
+         },
+         {
+          "type": "course",
+          "course": "NEU 366E"
+         },
+         {
+          "type": "course",
+          "course": "NEU 366L"
+         },
+         {
+          "type": "course",
+          "course": "NEU 366N"
+         },
+         {
+          "type": "course",
+          "course": "NEU 366P"
+         },
+         {
+          "type": "course",
+          "course": "NEU 366S"
+         },
+         {
+          "type": "course",
+          "course": "NEU 367W"
+         },
+         {
+          "type": "course",
+          "course": "NEU 377"
+         },
+         {
+          "type": "course",
+          "course": "NEU 466G"
+         },
+         {
+          "type": "course",
+          "course": "NEU 466M"
+         },
+         {
+          "type": "course",
+          "course": "NEU 377"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Twelve semester hours of laboratory courses chosen from the following: Neuroscience 365L, 366E, 366L, 366N, 366P, 366S, 367W, 377, 466G, and 466M. Neuroscience 377 may only be taken once for credit."
@@ -739,23 +769,47 @@
         }
        },
        {
-        "type": "hours",
-        "hours": 6.0,
+        "type": "anyN",
+        "n": 6,
         "title": "Six hours of laboratory courses chosen from: Neuroscience 365L, 366E, 366L, 366N, 366P, 36",
-        "filter": {
-         "label": "Six hours of laboratory courses chosen from: Neuroscience 365L, 366E, 366L, 366N",
-         "courses": [
-          "NEU 365L",
-          "NEU 366E",
-          "NEU 366L",
-          "NEU 366N",
-          "NEU 366P",
-          "NEU 366S",
-          "NEU 367W",
-          "NEU 466G",
-          "NEU 466M"
-         ]
-        },
+        "of": [
+         {
+          "type": "course",
+          "course": "NEU 365L"
+         },
+         {
+          "type": "course",
+          "course": "NEU 366E"
+         },
+         {
+          "type": "course",
+          "course": "NEU 366L"
+         },
+         {
+          "type": "course",
+          "course": "NEU 366N"
+         },
+         {
+          "type": "course",
+          "course": "NEU 366P"
+         },
+         {
+          "type": "course",
+          "course": "NEU 366S"
+         },
+         {
+          "type": "course",
+          "course": "NEU 367W"
+         },
+         {
+          "type": "course",
+          "course": "NEU 466G"
+         },
+         {
+          "type": "course",
+          "course": "NEU 466M"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-neuroscience/",
          "quote": "Six hours of laboratory courses chosen from: Neuroscience 365L, 366E, 366L, 366N, 366P, 366S, 367W, 466G, 466M"

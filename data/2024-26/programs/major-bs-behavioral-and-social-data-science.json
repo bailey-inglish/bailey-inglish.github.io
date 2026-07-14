@@ -431,13 +431,18 @@
     }
    },
    {
-    "type": "note",
-    "text": "A total of 120 semester hours is required. Thirty-nine hours must be in upper-division courses. At least 60 hours, including 24 hours of upper-division coursework, must be completed in residence at the University. Provided these residence rules are met, credit may be earned by examination, by extension, by correspondence (up to 30 percent of the hours required for the degree), or, with the approva",
-    "title": "A total of 120 semester hours is required. Thirty-nine hours must be in upper-di",
+    "type": "hours",
+    "hours": 120.0,
+    "title": "A total of 120 semester hours is required. Thirty-nine hours must be in upper-division cou",
+    "filter": {
+     "label": "A total of 120 semester hours is required. Thirty-nine hours must be in upper-di",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-behavioral-and-social-data-science/",
      "quote": "A total of 120 semester hours is required. Thirty-nine hours must be in upper-division courses. At least 60 hours, including 24 hours of upper-division coursework, must be completed in residence at the University. Provid"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "note",
@@ -493,9 +498,219 @@
     }
    },
    {
-    "type": "note",
-    "text": "Foreign language: Proficiency in a language other than English is required. Certified proficiency on a placement or credit-by-exam test.",
-    "title": "Foreign language: Proficiency in a language other than English is required. Cert",
+    "type": "anyN",
+    "n": 1,
+    "title": "Foreign language proficiency",
+    "of": [
+     {
+      "type": "course",
+      "course": "ASL 311D"
+     },
+     {
+      "type": "course",
+      "course": "ARA 611C"
+     },
+     {
+      "type": "course",
+      "course": "BEN 312L"
+     },
+     {
+      "type": "course",
+      "course": "CHI 612"
+     },
+     {
+      "type": "course",
+      "course": "CHI 312L"
+     },
+     {
+      "type": "course",
+      "course": "CZ 611C"
+     },
+     {
+      "type": "course",
+      "course": "CZ 412L"
+     },
+     {
+      "type": "course",
+      "course": "DAN 612"
+     },
+     {
+      "type": "course",
+      "course": "DCH 612"
+     },
+     {
+      "type": "course",
+      "course": "FR 611C"
+     },
+     {
+      "type": "course",
+      "course": "FR 412K"
+     },
+     {
+      "type": "course",
+      "course": "GER 612"
+     },
+     {
+      "type": "course",
+      "course": "GK 312K"
+     },
+     {
+      "type": "course",
+      "course": "GK 312L"
+     },
+     {
+      "type": "course",
+      "course": "GK 610C"
+     },
+     {
+      "type": "course",
+      "course": "GK 310K"
+     },
+     {
+      "type": "course",
+      "course": "HEB 612C"
+     },
+     {
+      "type": "course",
+      "course": "HEB 611C"
+     },
+     {
+      "type": "course",
+      "course": "HIN 312L"
+     },
+     {
+      "type": "course",
+      "course": "HIN 612"
+     },
+     {
+      "type": "course",
+      "course": "ITL 611C"
+     },
+     {
+      "type": "course",
+      "course": "JPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "KOR 312L"
+     },
+     {
+      "type": "course",
+      "course": "LAL 611C"
+     },
+     {
+      "type": "course",
+      "course": "LAT 511K"
+     },
+     {
+      "type": "course",
+      "course": "MAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "NOR 612"
+     },
+     {
+      "type": "course",
+      "course": "PRS 611C"
+     },
+     {
+      "type": "course",
+      "course": "PRS 612C"
+     },
+     {
+      "type": "course",
+      "course": "POL 611C"
+     },
+     {
+      "type": "course",
+      "course": "POL 312L"
+     },
+     {
+      "type": "course",
+      "course": "POR 611D"
+     },
+     {
+      "type": "course",
+      "course": "RUS 611C"
+     },
+     {
+      "type": "course",
+      "course": "RUS 412K"
+     },
+     {
+      "type": "course",
+      "course": "SAN 312L"
+     },
+     {
+      "type": "course",
+      "course": "S C 312L"
+     },
+     {
+      "type": "course",
+      "course": "SAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SEL 611C"
+     },
+     {
+      "type": "course",
+      "course": "SEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311"
+     },
+     {
+      "type": "course",
+      "course": "SPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311J"
+     },
+     {
+      "type": "course",
+      "course": "SWA 611C"
+     },
+     {
+      "type": "course",
+      "course": "SWE 612"
+     },
+     {
+      "type": "course",
+      "course": "TAM 312L"
+     },
+     {
+      "type": "course",
+      "course": "TEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "TUR 611C"
+     },
+     {
+      "type": "course",
+      "course": "URD 312L"
+     },
+     {
+      "type": "course",
+      "course": "UKR 312L"
+     },
+     {
+      "type": "course",
+      "course": "YID 612"
+     },
+     {
+      "type": "course",
+      "course": "YOR 611C"
+     },
+     {
+      "type": "note",
+      "text": "Or certified proficiency by placement or credit-by-exam."
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-behavioral-and-social-data-science/",
      "quote": "Foreign language: Proficiency in a language other than English is required. Certified proficiency on a placement or credit-by-exam test."
@@ -529,9 +744,219 @@
     }
    },
    {
-    "type": "note",
-    "text": "Cultural expression, human experience, and thought: Three semester hours of approved coursework. This course must be in a field of study taught in the College of Liberal Arts. A course counted toward any requirement of the core curriculum may not also be counted toward this requirement. A course counted toward the foreign language and culture requirement may not also be counted toward this require",
-    "title": "Cultural expression, human experience, and thought: Three semester hours of appr",
+    "type": "anyN",
+    "n": 1,
+    "title": "Foreign language proficiency",
+    "of": [
+     {
+      "type": "course",
+      "course": "ASL 311D"
+     },
+     {
+      "type": "course",
+      "course": "ARA 611C"
+     },
+     {
+      "type": "course",
+      "course": "BEN 312L"
+     },
+     {
+      "type": "course",
+      "course": "CHI 612"
+     },
+     {
+      "type": "course",
+      "course": "CHI 312L"
+     },
+     {
+      "type": "course",
+      "course": "CZ 611C"
+     },
+     {
+      "type": "course",
+      "course": "CZ 412L"
+     },
+     {
+      "type": "course",
+      "course": "DAN 612"
+     },
+     {
+      "type": "course",
+      "course": "DCH 612"
+     },
+     {
+      "type": "course",
+      "course": "FR 611C"
+     },
+     {
+      "type": "course",
+      "course": "FR 412K"
+     },
+     {
+      "type": "course",
+      "course": "GER 612"
+     },
+     {
+      "type": "course",
+      "course": "GK 312K"
+     },
+     {
+      "type": "course",
+      "course": "GK 312L"
+     },
+     {
+      "type": "course",
+      "course": "GK 610C"
+     },
+     {
+      "type": "course",
+      "course": "GK 310K"
+     },
+     {
+      "type": "course",
+      "course": "HEB 612C"
+     },
+     {
+      "type": "course",
+      "course": "HEB 611C"
+     },
+     {
+      "type": "course",
+      "course": "HIN 312L"
+     },
+     {
+      "type": "course",
+      "course": "HIN 612"
+     },
+     {
+      "type": "course",
+      "course": "ITL 611C"
+     },
+     {
+      "type": "course",
+      "course": "JPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "KOR 312L"
+     },
+     {
+      "type": "course",
+      "course": "LAL 611C"
+     },
+     {
+      "type": "course",
+      "course": "LAT 511K"
+     },
+     {
+      "type": "course",
+      "course": "MAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "NOR 612"
+     },
+     {
+      "type": "course",
+      "course": "PRS 611C"
+     },
+     {
+      "type": "course",
+      "course": "PRS 612C"
+     },
+     {
+      "type": "course",
+      "course": "POL 611C"
+     },
+     {
+      "type": "course",
+      "course": "POL 312L"
+     },
+     {
+      "type": "course",
+      "course": "POR 611D"
+     },
+     {
+      "type": "course",
+      "course": "RUS 611C"
+     },
+     {
+      "type": "course",
+      "course": "RUS 412K"
+     },
+     {
+      "type": "course",
+      "course": "SAN 312L"
+     },
+     {
+      "type": "course",
+      "course": "S C 312L"
+     },
+     {
+      "type": "course",
+      "course": "SAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SEL 611C"
+     },
+     {
+      "type": "course",
+      "course": "SEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311"
+     },
+     {
+      "type": "course",
+      "course": "SPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311J"
+     },
+     {
+      "type": "course",
+      "course": "SWA 611C"
+     },
+     {
+      "type": "course",
+      "course": "SWE 612"
+     },
+     {
+      "type": "course",
+      "course": "TAM 312L"
+     },
+     {
+      "type": "course",
+      "course": "TEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "TUR 611C"
+     },
+     {
+      "type": "course",
+      "course": "URD 312L"
+     },
+     {
+      "type": "course",
+      "course": "UKR 312L"
+     },
+     {
+      "type": "course",
+      "course": "YID 612"
+     },
+     {
+      "type": "course",
+      "course": "YOR 611C"
+     },
+     {
+      "type": "note",
+      "text": "Or certified proficiency by placement or credit-by-exam."
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-behavioral-and-social-data-science/",
      "quote": "Cultural expression, human experience, and thought: Three semester hours of approved coursework. This course must be in a field of study taught in the College of Liberal Arts. A course counted toward any requirement of t"
@@ -724,6 +1149,9 @@
     "title": "Three hours upper-division Mathematics",
     "filter": {
      "label": "Three hours upper-division Mathematics",
+     "subjects": [
+      "M"
+     ],
      "division": "upper"
     },
     "source": {
@@ -840,6 +1268,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BS",
  "majorSubjects": [
-  "PHY"
+  "M"
  ]
 }

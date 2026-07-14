@@ -10,13 +10,20 @@
   "title": "Government Minor",
   "of": [
    {
-    "type": "note",
-    "text": "Eighteen hours of coursework in government",
+    "type": "hours",
+    "hours": 18.0,
     "title": "Eighteen hours of coursework in government",
+    "filter": {
+     "label": "Eighteen hours of coursework in government",
+     "subjects": [
+      "GOV"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Eighteen hours of coursework in government"
-    }
+    },
+    "umbrella": true
    }
   ]
  },

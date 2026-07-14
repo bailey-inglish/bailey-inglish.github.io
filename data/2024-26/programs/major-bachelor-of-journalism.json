@@ -48,9 +48,219 @@
     }
    },
    {
-    "type": "note",
-    "text": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in a language other than English and taking one approved culture course in a culture that is relevant to the language. A list of approved culture and language courses and combinations",
-    "title": "Students must satisfy a language and culture requirement in one of the following",
+    "type": "anyN",
+    "n": 1,
+    "title": "Foreign language proficiency",
+    "of": [
+     {
+      "type": "course",
+      "course": "ASL 311D"
+     },
+     {
+      "type": "course",
+      "course": "ARA 611C"
+     },
+     {
+      "type": "course",
+      "course": "BEN 312L"
+     },
+     {
+      "type": "course",
+      "course": "CHI 612"
+     },
+     {
+      "type": "course",
+      "course": "CHI 312L"
+     },
+     {
+      "type": "course",
+      "course": "CZ 611C"
+     },
+     {
+      "type": "course",
+      "course": "CZ 412L"
+     },
+     {
+      "type": "course",
+      "course": "DAN 612"
+     },
+     {
+      "type": "course",
+      "course": "DCH 612"
+     },
+     {
+      "type": "course",
+      "course": "FR 611C"
+     },
+     {
+      "type": "course",
+      "course": "FR 412K"
+     },
+     {
+      "type": "course",
+      "course": "GER 612"
+     },
+     {
+      "type": "course",
+      "course": "GK 312K"
+     },
+     {
+      "type": "course",
+      "course": "GK 312L"
+     },
+     {
+      "type": "course",
+      "course": "GK 610C"
+     },
+     {
+      "type": "course",
+      "course": "GK 310K"
+     },
+     {
+      "type": "course",
+      "course": "HEB 612C"
+     },
+     {
+      "type": "course",
+      "course": "HEB 611C"
+     },
+     {
+      "type": "course",
+      "course": "HIN 312L"
+     },
+     {
+      "type": "course",
+      "course": "HIN 612"
+     },
+     {
+      "type": "course",
+      "course": "ITL 611C"
+     },
+     {
+      "type": "course",
+      "course": "JPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "KOR 312L"
+     },
+     {
+      "type": "course",
+      "course": "LAL 611C"
+     },
+     {
+      "type": "course",
+      "course": "LAT 511K"
+     },
+     {
+      "type": "course",
+      "course": "MAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "NOR 612"
+     },
+     {
+      "type": "course",
+      "course": "PRS 611C"
+     },
+     {
+      "type": "course",
+      "course": "PRS 612C"
+     },
+     {
+      "type": "course",
+      "course": "POL 611C"
+     },
+     {
+      "type": "course",
+      "course": "POL 312L"
+     },
+     {
+      "type": "course",
+      "course": "POR 611D"
+     },
+     {
+      "type": "course",
+      "course": "RUS 611C"
+     },
+     {
+      "type": "course",
+      "course": "RUS 412K"
+     },
+     {
+      "type": "course",
+      "course": "SAN 312L"
+     },
+     {
+      "type": "course",
+      "course": "S C 312L"
+     },
+     {
+      "type": "course",
+      "course": "SAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SEL 611C"
+     },
+     {
+      "type": "course",
+      "course": "SEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311"
+     },
+     {
+      "type": "course",
+      "course": "SPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311J"
+     },
+     {
+      "type": "course",
+      "course": "SWA 611C"
+     },
+     {
+      "type": "course",
+      "course": "SWE 612"
+     },
+     {
+      "type": "course",
+      "course": "TAM 312L"
+     },
+     {
+      "type": "course",
+      "course": "TEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "TUR 611C"
+     },
+     {
+      "type": "course",
+      "course": "URD 312L"
+     },
+     {
+      "type": "course",
+      "course": "UKR 312L"
+     },
+     {
+      "type": "course",
+      "course": "YID 612"
+     },
+     {
+      "type": "course",
+      "course": "YOR 611C"
+     },
+     {
+      "type": "note",
+      "text": "Or certified proficiency by placement or credit-by-exam."
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in "
@@ -66,13 +276,20 @@
     }
    },
    {
-    "type": "note",
-    "text": "Journalism students must complete 42 semester hours in journalism, but no more than 48 journalism hours may be counted toward the degree. Students must complete the following coursework:",
-    "title": "Journalism students must complete 42 semester hours in journalism, but no more t",
+    "type": "hours",
+    "hours": 42.0,
+    "title": "Journalism students must complete 42 semester hours in journalism, but no more than 48 jou",
+    "filter": {
+     "label": "Journalism students must complete 42 semester hours in journalism, but no more t",
+     "subjects": [
+      "J"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Journalism students must complete 42 semester hours in journalism, but no more than 48 journalism hours may be counted toward the degree. Students must complete the following coursework:"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "course",
@@ -159,9 +376,15 @@
     }
    },
    {
-    "type": "note",
-    "text": "Three additional hours of journalism coursework.",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three additional hours of journalism coursework.",
+    "filter": {
+     "label": "Three additional hours of journalism coursework.",
+     "subjects": [
+      "J"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bachelor-of-journalism/",
      "quote": "Three additional hours of journalism coursework."

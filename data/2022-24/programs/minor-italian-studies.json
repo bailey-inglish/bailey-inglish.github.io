@@ -34,9 +34,16 @@
     }
    },
    {
-    "type": "note",
-    "text": "Three additional semester credit hours of upper-division Italian",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three additional semester credit hours of upper-division Italian",
+    "filter": {
+     "label": "Three additional semester credit hours of upper-division Italian",
+     "subjects": [
+      "ITL"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Three additional semester credit hours of upper-division Italian"

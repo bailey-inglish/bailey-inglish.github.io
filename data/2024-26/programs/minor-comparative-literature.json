@@ -18,13 +18,20 @@
     }
    },
    {
-    "type": "note",
-    "text": "Twelve semester hours of any Comparative Literature course",
+    "type": "hours",
+    "hours": 12.0,
     "title": "Twelve semester hours of any Comparative Literature course",
+    "filter": {
+     "label": "Twelve semester hours of any Comparative Literature course",
+     "subjects": [
+      "C L"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Twelve semester hours of any Comparative Literature course"
-    }
+    },
+    "umbrella": true
    }
   ]
  },

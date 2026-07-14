@@ -57,9 +57,15 @@
     }
    },
    {
-    "type": "note",
-    "text": "Three additional hours of Women's and Gender Studies",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three additional hours of Women's and Gender Studies",
+    "filter": {
+     "label": "Three additional hours of Women's and Gender Studies",
+     "subjects": [
+      "WGS"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Three additional hours of Women's and Gender Studies"

@@ -10,13 +10,18 @@
   "title": "Social and Behavioral Sciences Minor",
   "of": [
    {
-    "type": "note",
-    "text": "Fifteen semester credit hours, including six upper-division",
+    "type": "hours",
+    "hours": 15.0,
     "title": "Fifteen semester credit hours, including six upper-division",
+    "filter": {
+     "label": "Fifteen semester credit hours, including six upper-division",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Fifteen semester credit hours, including six upper-division"
-    }
+    },
+    "umbrella": true
    }
   ]
  },

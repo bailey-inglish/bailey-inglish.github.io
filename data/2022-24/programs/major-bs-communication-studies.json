@@ -66,9 +66,219 @@
     }
    },
    {
-    "type": "note",
-    "text": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in a language other than English and taking one approved culture course in a culture that is relevant to the language. A list of approved culture and language courses and combinations",
-    "title": "Students must satisfy a language and culture requirement in one of the following",
+    "type": "anyN",
+    "n": 1,
+    "title": "Foreign language proficiency",
+    "of": [
+     {
+      "type": "course",
+      "course": "ASL 311D"
+     },
+     {
+      "type": "course",
+      "course": "ARA 611C"
+     },
+     {
+      "type": "course",
+      "course": "BEN 312L"
+     },
+     {
+      "type": "course",
+      "course": "CHI 612"
+     },
+     {
+      "type": "course",
+      "course": "CHI 312L"
+     },
+     {
+      "type": "course",
+      "course": "CZ 611C"
+     },
+     {
+      "type": "course",
+      "course": "CZ 412L"
+     },
+     {
+      "type": "course",
+      "course": "DAN 612"
+     },
+     {
+      "type": "course",
+      "course": "DCH 612"
+     },
+     {
+      "type": "course",
+      "course": "FR 611C"
+     },
+     {
+      "type": "course",
+      "course": "FR 412K"
+     },
+     {
+      "type": "course",
+      "course": "GER 612"
+     },
+     {
+      "type": "course",
+      "course": "GK 312K"
+     },
+     {
+      "type": "course",
+      "course": "GK 312L"
+     },
+     {
+      "type": "course",
+      "course": "GK 610C"
+     },
+     {
+      "type": "course",
+      "course": "GK 310K"
+     },
+     {
+      "type": "course",
+      "course": "HEB 612C"
+     },
+     {
+      "type": "course",
+      "course": "HEB 611C"
+     },
+     {
+      "type": "course",
+      "course": "HIN 312L"
+     },
+     {
+      "type": "course",
+      "course": "HIN 612"
+     },
+     {
+      "type": "course",
+      "course": "ITL 611C"
+     },
+     {
+      "type": "course",
+      "course": "JPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "KOR 312L"
+     },
+     {
+      "type": "course",
+      "course": "LAL 611C"
+     },
+     {
+      "type": "course",
+      "course": "LAT 511K"
+     },
+     {
+      "type": "course",
+      "course": "MAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "NOR 612"
+     },
+     {
+      "type": "course",
+      "course": "PRS 611C"
+     },
+     {
+      "type": "course",
+      "course": "PRS 612C"
+     },
+     {
+      "type": "course",
+      "course": "POL 611C"
+     },
+     {
+      "type": "course",
+      "course": "POL 312L"
+     },
+     {
+      "type": "course",
+      "course": "POR 611D"
+     },
+     {
+      "type": "course",
+      "course": "RUS 611C"
+     },
+     {
+      "type": "course",
+      "course": "RUS 412K"
+     },
+     {
+      "type": "course",
+      "course": "SAN 312L"
+     },
+     {
+      "type": "course",
+      "course": "S C 312L"
+     },
+     {
+      "type": "course",
+      "course": "SAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SEL 611C"
+     },
+     {
+      "type": "course",
+      "course": "SEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311"
+     },
+     {
+      "type": "course",
+      "course": "SPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311J"
+     },
+     {
+      "type": "course",
+      "course": "SWA 611C"
+     },
+     {
+      "type": "course",
+      "course": "SWE 612"
+     },
+     {
+      "type": "course",
+      "course": "TAM 312L"
+     },
+     {
+      "type": "course",
+      "course": "TEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "TUR 611C"
+     },
+     {
+      "type": "course",
+      "course": "URD 312L"
+     },
+     {
+      "type": "course",
+      "course": "UKR 312L"
+     },
+     {
+      "type": "course",
+      "course": "YID 612"
+     },
+     {
+      "type": "course",
+      "course": "YOR 611C"
+     },
+     {
+      "type": "note",
+      "text": "Or certified proficiency by placement or credit-by-exam."
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
      "quote": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in "
@@ -578,9 +788,15 @@
     "n": 1
    },
    {
-    "type": "note",
-    "text": "3 hours of lower-division Communication Studies",
+    "type": "hours",
+    "hours": 3.0,
     "title": "3 hours of lower-division Communication Studies",
+    "filter": {
+     "label": "3 hours of lower-division Communication Studies",
+     "subjects": [
+      "CMS"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
      "quote": "3 hours of lower-division Communication Studies"
@@ -630,8 +846,116 @@
     }
    },
    {
-    "type": "note",
-    "text": "6 hours of a language other than English",
+    "type": "concentration",
+    "hours": 6.0,
+    "includeSubjects": [
+     "ARA",
+     "ASL",
+     "BEN",
+     "CHI",
+     "CZ",
+     "DAN",
+     "DCH",
+     "FR",
+     "GER",
+     "GK",
+     "HEB",
+     "HIN",
+     "ITL",
+     "JPN",
+     "KOR",
+     "LAL",
+     "LAT",
+     "MAL",
+     "NOR",
+     "PRS",
+     "POL",
+     "POR",
+     "RUS",
+     "SAN",
+     "S C",
+     "SAL",
+     "SEL",
+     "SPN",
+     "SWA",
+     "SWE",
+     "TAM",
+     "TEL",
+     "TUR",
+     "URD",
+     "UKR",
+     "YID",
+     "YOR",
+     "HIN",
+     "MLL",
+     "VTN"
+    ],
+    "title": "6 hours of a language other than English",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
+     "quote": "6 hours of a language other than English"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 3.0,
+    "title": "3-hour lower-division Communication Studies track course",
+    "filter": {
+     "label": "3-hour lower-division Communication Studies track course",
+     "subjects": [
+      "CMS"
+     ]
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
+     "quote": "3-hour lower-division Communication Studies track course"
+    }
+   },
+   {
+    "type": "concentration",
+    "hours": 6.0,
+    "includeSubjects": [
+     "ARA",
+     "ASL",
+     "BEN",
+     "CHI",
+     "CZ",
+     "DAN",
+     "DCH",
+     "FR",
+     "GER",
+     "GK",
+     "HEB",
+     "HIN",
+     "ITL",
+     "JPN",
+     "KOR",
+     "LAL",
+     "LAT",
+     "MAL",
+     "NOR",
+     "PRS",
+     "POL",
+     "POR",
+     "RUS",
+     "SAN",
+     "S C",
+     "SAL",
+     "SEL",
+     "SPN",
+     "SWA",
+     "SWE",
+     "TAM",
+     "TEL",
+     "TUR",
+     "URD",
+     "UKR",
+     "YID",
+     "YOR",
+     "HIN",
+     "MLL",
+     "VTN"
+    ],
     "title": "6 hours of a language other than English",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
@@ -644,6 +968,9 @@
     "title": "3 hours upper-division Communication Studies",
     "filter": {
      "label": "3 hours upper-division Communication Studies",
+     "subjects": [
+      "CMS"
+     ],
      "division": "upper"
     },
     "source": {
@@ -652,9 +979,15 @@
     }
    },
    {
-    "type": "note",
-    "text": "3 hours lower-division Communication Studies",
+    "type": "hours",
+    "hours": 3.0,
     "title": "3 hours lower-division Communication Studies",
+    "filter": {
+     "label": "3 hours lower-division Communication Studies",
+     "subjects": [
+      "CMS"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
      "quote": "3 hours lower-division Communication Studies"
@@ -666,6 +999,9 @@
     "title": "3-hour upper-division Communication Studies Career Prep course",
     "filter": {
      "label": "3-hour upper-division Communication Studies Career Prep course",
+     "subjects": [
+      "CMS"
+     ],
      "division": "upper"
     },
     "source": {
@@ -679,6 +1015,9 @@
     "title": "3-hour upper-division Communication Studies track course",
     "filter": {
      "label": "3-hour upper-division Communication Studies track course",
+     "subjects": [
+      "CMS"
+     ],
      "division": "upper"
     },
     "source": {
@@ -689,9 +1028,27 @@
    {
     "type": "hours",
     "hours": 3.0,
+    "title": "3-hour lower-division Communication Studies Methods course",
+    "filter": {
+     "label": "3-hour lower-division Communication Studies Methods course",
+     "subjects": [
+      "CMS"
+     ]
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
+     "quote": "3-hour lower-division Communication Studies Methods course"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 3.0,
     "title": "3-hour upper-division Communication Studies course",
     "filter": {
      "label": "3-hour upper-division Communication Studies course",
+     "subjects": [
+      "CMS"
+     ],
      "division": "upper"
     },
     "source": {
@@ -705,6 +1062,9 @@
     "title": "3-hour upper-division Communication Studies track course",
     "filter": {
      "label": "3-hour upper-division Communication Studies track course",
+     "subjects": [
+      "CMS"
+     ],
      "division": "upper"
     },
     "source": {

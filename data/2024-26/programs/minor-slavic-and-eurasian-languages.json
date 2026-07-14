@@ -43,9 +43,13 @@
     }
    },
    {
-    "type": "note",
-    "text": "Three hours of Upper-Division S C coursework",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three hours of Upper-Division S C coursework",
+    "filter": {
+     "label": "Three hours of Upper-Division S C coursework",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Three hours of Upper-Division S C coursework"
@@ -127,9 +131,13 @@
     }
    },
    {
-    "type": "note",
-    "text": "Three hours of Upper-Division POL coursework",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three hours of Upper-Division POL coursework",
+    "filter": {
+     "label": "Three hours of Upper-Division POL coursework",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Three hours of Upper-Division POL coursework"
@@ -177,9 +185,16 @@
     }
    },
    {
-    "type": "note",
-    "text": "Three hours of upper-division coursework in Slavic and Eurasian Languages",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three hours of upper-division coursework in Slavic and Eurasian Languages",
+    "filter": {
+     "label": "Three hours of upper-division coursework in Slavic and Eurasian Languages",
+     "subjects": [
+      "SEL"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Three hours of upper-division coursework in Slavic and Eurasian Languages"

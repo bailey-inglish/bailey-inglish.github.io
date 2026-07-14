@@ -10,13 +10,20 @@
   "title": "English Minor",
   "of": [
    {
-    "type": "note",
-    "text": "Fifteen semester hours in English",
+    "type": "hours",
+    "hours": 15.0,
     "title": "Fifteen semester hours in English",
+    "filter": {
+     "label": "Fifteen semester hours in English",
+     "subjects": [
+      "E"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Fifteen semester hours in English"
-    }
+    },
+    "umbrella": true
    }
   ]
  },

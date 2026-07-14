@@ -374,18 +374,16 @@
         }
        },
        {
-        "type": "all",
+        "type": "hours",
+        "hours": 6.0,
         "title": "DPD Honors: Students pursuing the honors thesis (HANS) must take six hours of Nutrition 35",
-        "of": [
-         {
-          "type": "course",
-          "course": "NTR 355H"
-         },
-         {
-          "type": "course",
-          "course": "NTR 379H"
-         }
-        ],
+        "filter": {
+         "label": "DPD Honors: Students pursuing the honors thesis (HANS) must take six hours of Nu",
+         "courses": [
+          "NTR 355H",
+          "NTR 379H"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-nutrition/",
          "quote": "DPD Honors: Students pursuing the honors thesis (HANS) must take six hours of Nutrition 355H and six hours of Nutrition 379H."
@@ -493,18 +491,16 @@
         }
        },
        {
-        "type": "all",
+        "type": "hours",
+        "hours": 6.0,
         "title": "Students pursuing the honors thesis (HANS) must take six hours of Nutrition 355H and six h",
-        "of": [
-         {
-          "type": "course",
-          "course": "NTR 355H"
-         },
-         {
-          "type": "course",
-          "course": "NTR 379H"
-         }
-        ],
+        "filter": {
+         "label": "Students pursuing the honors thesis (HANS) must take six hours of Nutrition 355H",
+         "courses": [
+          "NTR 355H",
+          "NTR 379H"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-nutrition/",
          "quote": "Students pursuing the honors thesis (HANS) must take six hours of Nutrition 355H and six hours of Nutrition 379H."
@@ -660,18 +656,16 @@
         }
        },
        {
-        "type": "all",
+        "type": "hours",
+        "hours": 6.0,
         "title": "Students pursuing the honors thesis (HANS) must take six hours of Nutrition 355H and six h",
-        "of": [
-         {
-          "type": "course",
-          "course": "NTR 355H"
-         },
-         {
-          "type": "course",
-          "course": "NTR 379H"
-         }
-        ],
+        "filter": {
+         "label": "Students pursuing the honors thesis (HANS) must take six hours of Nutrition 355H",
+         "courses": [
+          "NTR 355H",
+          "NTR 379H"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-nutrition/",
          "quote": "Students pursuing the honors thesis (HANS) must take six hours of Nutrition 355H and six hours of Nutrition 379H."

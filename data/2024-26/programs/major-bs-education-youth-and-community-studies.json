@@ -111,13 +111,18 @@
     }
    },
    {
-    "type": "note",
-    "text": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside of education, a certificate, or a track in a second field of study which consists of a minimum of 15 hours of coursework, six of which must be upper-division. No more than six hours in the minor may also be counted toward other degree requirements.*",
-    "title": "Either a specialization in the Department of Kinesiology and Health Education, a",
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Either a specialization in the Department of Kinesiology and Health Education, a minor out",
+    "filter": {
+     "label": "Either a specialization in the Department of Kinesiology and Health Education, a",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/education/degrees-and-programs/bs-education/youth-and-community-studies/",
      "quote": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside of education, a certificate, or a track in a second field of study which consists of a minimum of 15 hours of coursework, six"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "hours",
@@ -229,13 +234,18 @@
     }
    },
    {
-    "type": "note",
-    "text": "Additional coursework to fulfill all degree requirements and reach a total of 120 semester hours. All majors must complete at least 36 hours of upper-division coursework.",
-    "title": "Additional coursework to fulfill all degree requirements and reach a total of 12",
+    "type": "hours",
+    "hours": 120.0,
+    "title": "Additional coursework to fulfill all degree requirements and reach a total of 120 semester",
+    "filter": {
+     "label": "Additional coursework to fulfill all degree requirements and reach a total of 12",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/education/degrees-and-programs/bs-education/youth-and-community-studies/",
      "quote": "Additional coursework to fulfill all degree requirements and reach a total of 120 semester hours. All majors must complete at least 36 hours of upper-division coursework."
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "note",

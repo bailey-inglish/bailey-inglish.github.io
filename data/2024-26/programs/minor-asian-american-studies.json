@@ -32,18 +32,28 @@
     }
    },
    {
-    "type": "note",
-    "text": "Nine hours of upper-division coursework",
+    "type": "hours",
+    "hours": 9.0,
     "title": "Nine hours of upper-division coursework",
+    "filter": {
+     "label": "Nine hours of upper-division coursework",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Nine hours of upper-division coursework"
     }
    },
    {
-    "type": "note",
-    "text": "Three additional semester credit hours of Asian American studies",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three additional semester credit hours of Asian American studies",
+    "filter": {
+     "label": "Three additional semester credit hours of Asian American studies",
+     "subjects": [
+      "AAS"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Three additional semester credit hours of Asian American studies"

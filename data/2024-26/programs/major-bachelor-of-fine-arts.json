@@ -439,13 +439,20 @@
         }
        },
        {
-        "type": "note",
-        "text": "12 semester hours approved by the art education advisor.",
+        "type": "hours",
+        "hours": 12.0,
         "title": "12 semester hours approved by the art education advisor.",
+        "filter": {
+         "label": "12 semester hours approved by the art education advisor.",
+         "subjects": [
+          "AED"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "12 semester hours approved by the art education advisor."
-        }
+        },
+        "umbrella": true
        }
       ]
      },

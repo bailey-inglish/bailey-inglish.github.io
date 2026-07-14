@@ -66,6 +66,57 @@
     }
    },
    {
+    "type": "anyN",
+    "n": 2,
+    "title": "Two of the following courses: Finance 321K, 366P, 371M, 372T, 373, 374S, 376, 377 (Topic 1",
+    "of": [
+     {
+      "type": "course",
+      "course": "FIN 321K"
+     },
+     {
+      "type": "course",
+      "course": "FIN 366P"
+     },
+     {
+      "type": "course",
+      "course": "FIN 371M"
+     },
+     {
+      "type": "course",
+      "course": "FIN 372T"
+     },
+     {
+      "type": "course",
+      "course": "FIN 373"
+     },
+     {
+      "type": "course",
+      "course": "FIN 374S"
+     },
+     {
+      "type": "course",
+      "course": "FIN 376"
+     },
+     {
+      "type": "course",
+      "course": "FIN 377"
+     },
+     {
+      "type": "course",
+      "course": "FIN 377"
+     },
+     {
+      "type": "course",
+      "course": "FIN 377"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/finance/",
+     "quote": "Two of the following courses: Finance 321K, 366P, 371M, 372T, 373, 374S, 376, 377 (Topic 1: Portfolio Analysis and Management), 377 (Topic 3: Security Analysis), 377 (Topic 4: Financial Analysis)"
+    }
+   },
+   {
     "type": "all",
     "title": "Geological Sciences 303, 401, or 420H; also fulfills one class of the part I sequence of t",
     "of": [
@@ -122,26 +173,18 @@
     }
    },
    {
-    "type": "all",
+    "type": "hours",
+    "hours": 9.0,
     "title": "Note: Students in this track do not take 9 hours of free electives; those are fulfilled by",
-    "of": [
-     {
-      "type": "course",
-      "course": "BGS 372T"
-     },
-     {
-      "type": "course",
-      "course": "LEB 372T"
-     },
-     {
-      "type": "course",
-      "course": "GEO 316P"
-     },
-     {
-      "type": "course",
-      "course": "FIN 337T"
-     }
-    ],
+    "filter": {
+     "label": "Note: Students in this track do not take 9 hours of free electives; those are fu",
+     "courses": [
+      "BGS 372T",
+      "LEB 372T",
+      "GEO 316P",
+      "FIN 337T"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/finance/",
      "quote": "Note: Students in this track do not take 9 hours of free electives; those are fulfilled by Business, Government, and Society 372T (Topic 10: Nontechnical Exploration and Production), Legal Environment of Business 372T (T"

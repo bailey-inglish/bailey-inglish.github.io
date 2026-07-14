@@ -44,9 +44,16 @@
     }
    },
    {
-    "type": "note",
-    "text": "Three hours upper-division Chinese",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three hours upper-division Chinese",
+    "filter": {
+     "label": "Three hours upper-division Chinese",
+     "subjects": [
+      "CHI"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Three hours upper-division Chinese"

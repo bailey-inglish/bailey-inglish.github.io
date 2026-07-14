@@ -51,9 +51,13 @@
     }
    },
    {
-    "type": "note",
-    "text": "Nine hours of upper-division courses, chosen from an approved list available in the department office",
-    "title": "Nine hours of upper-division courses, chosen from an approved list available in ",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine hours of upper-division courses, chosen from an approved list available in the depart",
+    "filter": {
+     "label": "Nine hours of upper-division courses, chosen from an approved list available in ",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Nine hours of upper-division courses, chosen from an approved list available in the department office"

@@ -42,9 +42,16 @@
     }
    },
    {
-    "type": "note",
-    "text": "Three hours upper-division Japanese",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three hours upper-division Japanese",
+    "filter": {
+     "label": "Three hours upper-division Japanese",
+     "subjects": [
+      "JPN"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Three hours upper-division Japanese"

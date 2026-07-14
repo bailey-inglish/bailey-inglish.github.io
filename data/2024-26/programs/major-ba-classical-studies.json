@@ -15,18 +15,56 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "hours",
+    "type": "concentration",
     "hours": 36.0,
+    "upperHours": 36.0,
+    "includeSubjects": [
+     "ARA",
+     "ASL",
+     "BEN",
+     "CHI",
+     "CZ",
+     "DAN",
+     "DCH",
+     "FR",
+     "GER",
+     "GK",
+     "HEB",
+     "HIN",
+     "ITL",
+     "JPN",
+     "KOR",
+     "LAL",
+     "LAT",
+     "MAL",
+     "NOR",
+     "PRS",
+     "POL",
+     "POR",
+     "RUS",
+     "SAN",
+     "S C",
+     "SAL",
+     "SEL",
+     "SPN",
+     "SWA",
+     "SWE",
+     "TAM",
+     "TEL",
+     "TUR",
+     "URD",
+     "UKR",
+     "YID",
+     "YOR",
+     "HIN",
+     "MLL",
+     "VTN"
+    ],
     "title": "Thirty-six semester hours of coursework, at least 21 of which must be upper-division, in o",
-    "filter": {
-     "label": "Thirty-six semester hours of coursework, at least 21 of which must be upper-divi",
-     "division": "upper"
-    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-studies/",
      "quote": "Thirty-six semester hours of coursework, at least 21 of which must be upper-division, in one of the two areas of specialization, ancient history or classical archaeology, listed below. Coursework counted toward the forei"
-    },
-    "umbrella": true
+    }
    },
    {
     "type": "note",
@@ -76,6 +114,9 @@
     "title": "Six hours of upper-division coursework in Greek and/or Latin.",
     "filter": {
      "label": "Six hours of upper-division coursework in Greek and/or Latin.",
+     "subjects": [
+      "GK"
+     ],
      "division": "upper"
     },
     "source": {
@@ -160,6 +201,9 @@
     "title": "Six hours of upper-division coursework in either Greek or Latin.",
     "filter": {
      "label": "Six hours of upper-division coursework in either Greek or Latin.",
+     "subjects": [
+      "GK"
+     ],
      "division": "upper"
     },
     "source": {
@@ -200,6 +244,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BA",
  "majorSubjects": [
-  "AHC"
+  "GK"
  ]
 }

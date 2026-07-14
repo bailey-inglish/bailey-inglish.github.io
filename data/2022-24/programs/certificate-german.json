@@ -10,13 +10,20 @@
   "title": "German Certificate",
   "of": [
    {
-    "type": "note",
-    "text": "Eighteen hours of German coursework",
+    "type": "hours",
+    "hours": 18.0,
     "title": "Eighteen hours of German coursework",
+    "filter": {
+     "label": "Eighteen hours of German coursework",
+     "subjects": [
+      "GER"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Eighteen hours of German coursework"
-    }
+    },
+    "umbrella": true
    }
   ]
  },

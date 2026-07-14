@@ -42,9 +42,13 @@
     }
    },
    {
-    "type": "note",
-    "text": "Three hours of any upper-division UKR language course",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three hours of any upper-division UKR language course",
+    "filter": {
+     "label": "Three hours of any upper-division UKR language course",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Three hours of any upper-division UKR language course"

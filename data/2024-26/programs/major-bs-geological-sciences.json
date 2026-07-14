@@ -68,13 +68,18 @@
         }
        },
        {
-        "type": "note",
-        "text": "In-residence Coursework: All University students must complete at least 60 semester hours of the coursework counted towards the degree in residence. Individual degree(s) or degree options may contain additional course residency requirements. Every student in the BS Geosciences Majors must complete at least 36 semester hours of upper-division coursework in residence at the University.",
-        "title": "In-residence Coursework: All University students must complete at least 60 semes",
+        "type": "hours",
+        "hours": 60.0,
+        "title": "In-residence Coursework: All University students must complete at least 60 semester hours ",
+        "filter": {
+         "label": "In-residence Coursework: All University students must complete at least 60 semes",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/geosciences/degrees-and-programs/bs-geological-sciences/",
          "quote": "In-residence Coursework: All University students must complete at least 60 semester hours of the coursework counted towards the degree in residence. Individual degree(s) or degree options may contain additional course re"
-        }
+        },
+        "umbrella": true
        },
        {
         "type": "note",

@@ -606,13 +606,24 @@
         }
        },
        {
-        "type": "note",
-        "text": "In place of requirements 3f through 3g of the prescribed work above, the following courses, for a total of at least 34 semester hours of chemistry: Biochemistry 339F or 369; Chemistry 353; and 455 or 456",
-        "title": "In place of requirements 3f through 3g of the prescribed work above, the followi",
+        "type": "hours",
+        "hours": 34.0,
+        "title": "In place of requirements 3f through 3g of the prescribed work above, the following courses",
+        "filter": {
+         "label": "In place of requirements 3f through 3g of the prescribed work above, the followi",
+         "courses": [
+          "BCH 339F",
+          "BCH 369",
+          "CH 353",
+          "CH 455",
+          "CH 456"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "In place of requirements 3f through 3g of the prescribed work above, the following courses, for a total of at least 34 semester hours of chemistry: Biochemistry 339F or 369; Chemistry 353; and 455 or 456"
-        }
+        },
+        "umbrella": true
        },
        {
         "type": "anyN",
@@ -672,13 +683,24 @@
         }
        },
        {
-        "type": "note",
-        "text": "In place of requirements 3f through 3g of the prescribed work above, the following courses, for a total of at least 34 semester hours of chemistry: Biochemistry 339F or 369; Chemistry 353, and 455 or 456",
-        "title": "In place of requirements 3f through 3g of the prescribed work above, the followi",
+        "type": "hours",
+        "hours": 34.0,
+        "title": "In place of requirements 3f through 3g of the prescribed work above, the following courses",
+        "filter": {
+         "label": "In place of requirements 3f through 3g of the prescribed work above, the followi",
+         "courses": [
+          "BCH 339F",
+          "BCH 369",
+          "CH 353",
+          "CH 455",
+          "CH 456"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "In place of requirements 3f through 3g of the prescribed work above, the following courses, for a total of at least 34 semester hours of chemistry: Biochemistry 339F or 369; Chemistry 353, and 455 or 456"
-        }
+        },
+        "umbrella": true
        },
        {
         "type": "all",
@@ -737,13 +759,23 @@
         }
        },
        {
-        "type": "note",
-        "text": "In place of requirements 3f through 3g of the prescribed work above, the following courses, for a total of at least 30 semester hours in chemistry: Chemistry 353 and 153K, 455, and Biochemistry 369",
-        "title": "In place of requirements 3f through 3g of the prescribed work above, the followi",
+        "type": "hours",
+        "hours": 30.0,
+        "title": "In place of requirements 3f through 3g of the prescribed work above, the following courses",
+        "filter": {
+         "label": "In place of requirements 3f through 3g of the prescribed work above, the followi",
+         "courses": [
+          "CH 353",
+          "CH 153K",
+          "CH 455",
+          "BCH 369"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "In place of requirements 3f through 3g of the prescribed work above, the following courses, for a total of at least 30 semester hours in chemistry: Chemistry 353 and 153K, 455, and Biochemistry 369"
-        }
+        },
+        "umbrella": true
        },
        {
         "type": "hours",
@@ -893,9 +925,20 @@
         }
        },
        {
-        "type": "note",
-        "text": "Students begin the Bachelor of Science in Chemistry degree program with nine hours of introductory chemistry for science majors (Chemistry 301, 302, and 317), as well as Mathematics 408C or 408N. Students should consult with their academic advisors about planning to choose a chemistry degree focus area, appropriate course in mathematics and physical sciences, and about course load and balance betw",
-        "title": "Students begin the Bachelor of Science in Chemistry degree program with nine hou",
+        "type": "hours",
+        "hours": 9.0,
+        "title": "Students begin the Bachelor of Science in Chemistry degree program with nine hours of intr",
+        "filter": {
+         "label": "Students begin the Bachelor of Science in Chemistry degree program with nine hou",
+         "courses": [
+          "CH 301",
+          "CH 302",
+          "CH 317",
+          "M 408C",
+          "M 408N"
+         ],
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "Students begin the Bachelor of Science in Chemistry degree program with nine hours of introductory chemistry for science majors (Chemistry 301, 302, and 317), as well as Mathematics 408C or 408N. Students should consult "

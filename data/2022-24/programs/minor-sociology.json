@@ -18,13 +18,20 @@
     }
    },
    {
-    "type": "note",
-    "text": "Twelve additional hours of sociology coursework",
+    "type": "hours",
+    "hours": 12.0,
     "title": "Twelve additional hours of sociology coursework",
+    "filter": {
+     "label": "Twelve additional hours of sociology coursework",
+     "subjects": [
+      "SOC"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/minor-and-certificate-programs/",
      "quote": "Twelve additional hours of sociology coursework"
-    }
+    },
+    "umbrella": true
    }
   ]
  },

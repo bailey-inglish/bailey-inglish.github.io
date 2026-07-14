@@ -23,13 +23,18 @@
     }
    },
    {
-    "type": "note",
-    "text": "A total of at least 120 semester hours of coursework is required for the Bachelor of Science in Kinesiology and Health. For all majors, at least 36 hours must be in upper-division coursework.",
-    "title": "A total of at least 120 semester hours of coursework is required for the Bachelo",
+    "type": "hours",
+    "hours": 120.0,
+    "title": "A total of at least 120 semester hours of coursework is required for the Bachelor of Scien",
+    "filter": {
+     "label": "A total of at least 120 semester hours of coursework is required for the Bachelo",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/",
      "quote": "A total of at least 120 semester hours of coursework is required for the Bachelor of Science in Kinesiology and Health. For all majors, at least 36 hours must be in upper-division coursework."
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "note",
@@ -120,9 +125,15 @@
     "n": 1
    },
    {
-    "type": "note",
-    "text": "Six hours of coursework in chemistry.",
+    "type": "hours",
+    "hours": 6.0,
     "title": "Six hours of coursework in chemistry.",
+    "filter": {
+     "label": "Six hours of coursework in chemistry.",
+     "subjects": [
+      "CH"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/",
      "quote": "Six hours of coursework in chemistry."
@@ -138,17 +149,234 @@
     }
    },
    {
-    "type": "note",
-    "text": "In addition to the core curriculum requirements above, undergraduates are expected to have completed two years in a single foreign language in high school. Students without two years of high school foreign language coursework must earn credit for the beginning level proficiency in a foreign language; this credit does not count toward the student’s degree. Students should consult their advisors to ",
-    "title": "In addition to the core curriculum requirements above, undergraduates are expect",
+    "type": "anyN",
+    "n": 1,
+    "title": "Foreign language proficiency",
+    "of": [
+     {
+      "type": "course",
+      "course": "ASL 311D"
+     },
+     {
+      "type": "course",
+      "course": "ARA 611C"
+     },
+     {
+      "type": "course",
+      "course": "BEN 312L"
+     },
+     {
+      "type": "course",
+      "course": "CHI 612"
+     },
+     {
+      "type": "course",
+      "course": "CHI 312L"
+     },
+     {
+      "type": "course",
+      "course": "CZ 611C"
+     },
+     {
+      "type": "course",
+      "course": "CZ 412L"
+     },
+     {
+      "type": "course",
+      "course": "DAN 612"
+     },
+     {
+      "type": "course",
+      "course": "DCH 612"
+     },
+     {
+      "type": "course",
+      "course": "FR 611C"
+     },
+     {
+      "type": "course",
+      "course": "FR 412K"
+     },
+     {
+      "type": "course",
+      "course": "GER 612"
+     },
+     {
+      "type": "course",
+      "course": "GK 312K"
+     },
+     {
+      "type": "course",
+      "course": "GK 312L"
+     },
+     {
+      "type": "course",
+      "course": "GK 610C"
+     },
+     {
+      "type": "course",
+      "course": "GK 310K"
+     },
+     {
+      "type": "course",
+      "course": "HEB 612C"
+     },
+     {
+      "type": "course",
+      "course": "HEB 611C"
+     },
+     {
+      "type": "course",
+      "course": "HIN 312L"
+     },
+     {
+      "type": "course",
+      "course": "HIN 612"
+     },
+     {
+      "type": "course",
+      "course": "ITL 611C"
+     },
+     {
+      "type": "course",
+      "course": "JPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "KOR 312L"
+     },
+     {
+      "type": "course",
+      "course": "LAL 611C"
+     },
+     {
+      "type": "course",
+      "course": "LAT 511K"
+     },
+     {
+      "type": "course",
+      "course": "MAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "NOR 612"
+     },
+     {
+      "type": "course",
+      "course": "PRS 611C"
+     },
+     {
+      "type": "course",
+      "course": "PRS 612C"
+     },
+     {
+      "type": "course",
+      "course": "POL 611C"
+     },
+     {
+      "type": "course",
+      "course": "POL 312L"
+     },
+     {
+      "type": "course",
+      "course": "POR 611D"
+     },
+     {
+      "type": "course",
+      "course": "RUS 611C"
+     },
+     {
+      "type": "course",
+      "course": "RUS 412K"
+     },
+     {
+      "type": "course",
+      "course": "SAN 312L"
+     },
+     {
+      "type": "course",
+      "course": "S C 312L"
+     },
+     {
+      "type": "course",
+      "course": "SAL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SEL 611C"
+     },
+     {
+      "type": "course",
+      "course": "SEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311"
+     },
+     {
+      "type": "course",
+      "course": "SPN 611D"
+     },
+     {
+      "type": "course",
+      "course": "SPN 311J"
+     },
+     {
+      "type": "course",
+      "course": "SWA 611C"
+     },
+     {
+      "type": "course",
+      "course": "SWE 612"
+     },
+     {
+      "type": "course",
+      "course": "TAM 312L"
+     },
+     {
+      "type": "course",
+      "course": "TEL 312L"
+     },
+     {
+      "type": "course",
+      "course": "TUR 611C"
+     },
+     {
+      "type": "course",
+      "course": "URD 312L"
+     },
+     {
+      "type": "course",
+      "course": "UKR 312L"
+     },
+     {
+      "type": "course",
+      "course": "YID 612"
+     },
+     {
+      "type": "course",
+      "course": "YOR 611C"
+     },
+     {
+      "type": "note",
+      "text": "Or certified proficiency by placement or credit-by-exam."
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/",
      "quote": "In addition to the core curriculum requirements above, undergraduates are expected to have completed two years in a single foreign language in high school. Students without two years of high school foreign language cours"
     }
    },
    {
-    "type": "course",
-    "course": "KIN 119",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "All students seeking the Bachelor of Science in Kinesiology and Health must complete the f",
+    "filter": {
+     "label": "All students seeking the Bachelor of Science in Kinesiology and Health must comp",
+     "courses": [
+      "KIN 119"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/",
      "quote": "All students seeking the Bachelor of Science in Kinesiology and Health must complete the following 12 semester-hour core, so that they are exposed to all aspects of the fields of kinesiology and health. Students will tak"
@@ -317,13 +545,18 @@
         }
        },
        {
-        "type": "note",
-        "text": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside the department, a certificate, or a track in a second field of study which consist of a minimum of 15 hours of coursework, six of which must be upper-division. No more than six hours in the minor may also be counted toward other degree requirements. Information about approved areas of study and specific ",
-        "title": "Either a specialization in the Department of Kinesiology and Health Education, a",
+        "type": "hours",
+        "hours": 15.0,
+        "title": "Either a specialization in the Department of Kinesiology and Health Education, a minor out",
+        "filter": {
+         "label": "Either a specialization in the Department of Kinesiology and Health Education, a",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/",
          "quote": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside the department, a certificate, or a track in a second field of study which consist of a minimum of 15 hours of coursework, si"
-        }
+        },
+        "umbrella": true
        }
       ]
      },
@@ -364,34 +597,20 @@
         "n": 1
        },
        {
-        "type": "all",
+        "type": "hours",
+        "hours": 9.0,
         "title": "To fulfill the natural science requirement, exercise science majors must complete nine hou",
-        "of": [
-         {
-          "type": "course",
-          "course": "BIO 311C"
-         },
-         {
-          "type": "course",
-          "course": "BIO 311D"
-         },
-         {
-          "type": "course",
-          "course": "CH 301"
-         },
-         {
-          "type": "course",
-          "course": "CH 302"
-         },
-         {
-          "type": "course",
-          "course": "PHY 302K"
-         },
-         {
-          "type": "course",
-          "course": "PHY 102M"
-         }
-        ],
+        "filter": {
+         "label": "To fulfill the natural science requirement, exercise science majors must complet",
+         "courses": [
+          "BIO 311C",
+          "BIO 311D",
+          "CH 301",
+          "CH 302",
+          "PHY 302K",
+          "PHY 102M"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/",
          "quote": "To fulfill the natural science requirement, exercise science majors must complete nine hours from: Biology 311C, 311D, Chemistry 301 and 302. They must also complete Physics 302K and 102M. Chemistry, biology, and physics"
@@ -455,13 +674,18 @@
         }
        },
        {
-        "type": "note",
-        "text": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside the department, a certificate, or a track in a second field of study which consist of a minimum of 15 hours of coursework, six of which must be upper-division. No more than six hours in the minor may also be counted toward other degree requirements. Information about approved areas of study and specific ",
-        "title": "Either a specialization in the Department of Kinesiology and Health Education, a",
+        "type": "hours",
+        "hours": 15.0,
+        "title": "Either a specialization in the Department of Kinesiology and Health Education, a minor out",
+        "filter": {
+         "label": "Either a specialization in the Department of Kinesiology and Health Education, a",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/",
          "quote": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside the department, a certificate, or a track in a second field of study which consist of a minimum of 15 hours of coursework, si"
-        }
+        },
+        "umbrella": true
        }
       ]
      },
@@ -544,13 +768,18 @@
         }
        },
        {
-        "type": "note",
-        "text": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside the department, a certificate, or a track in a second field of study which consist of a minimum of 15 hours of coursework, six of which must be upper-division. No more than six hours in the minor may also be counted toward other degree requirements. Information about approved areas of study and specific ",
-        "title": "Either a specialization in the Department of Kinesiology and Health Education, a",
+        "type": "hours",
+        "hours": 15.0,
+        "title": "Either a specialization in the Department of Kinesiology and Health Education, a minor out",
+        "filter": {
+         "label": "Either a specialization in the Department of Kinesiology and Health Education, a",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/",
          "quote": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside the department, a certificate, or a track in a second field of study which consist of a minimum of 15 hours of coursework, si"
-        }
+        },
+        "umbrella": true
        }
       ]
      },
@@ -656,13 +885,18 @@
         }
        },
        {
-        "type": "note",
-        "text": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside the department, a certificate, or a track in a second field of study which consist of a minimum of 15 hours of coursework, six of which must be upper-division. No more than six hours in the minor may also be counted toward other degree requirements. Information about approved areas of study and specific ",
-        "title": "Either a specialization in the Department of Kinesiology and Health Education, a",
+        "type": "hours",
+        "hours": 15.0,
+        "title": "Either a specialization in the Department of Kinesiology and Health Education, a minor out",
+        "filter": {
+         "label": "Either a specialization in the Department of Kinesiology and Health Education, a",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/",
          "quote": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside the department, a certificate, or a track in a second field of study which consist of a minimum of 15 hours of coursework, si"
-        }
+        },
+        "umbrella": true
        }
       ]
      },
@@ -806,13 +1040,18 @@
         }
        },
        {
-        "type": "note",
-        "text": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside the department, a certificate, or a track in a second field of study which consist of a minimum of 15 hours of coursework, six of which must be upper-division. No more than six hours in the minor may also be counted toward other degree requirements. Information about approved areas of study and specific ",
-        "title": "Either a specialization in the Department of Kinesiology and Health Education, a",
+        "type": "hours",
+        "hours": 15.0,
+        "title": "Either a specialization in the Department of Kinesiology and Health Education, a minor out",
+        "filter": {
+         "label": "Either a specialization in the Department of Kinesiology and Health Education, a",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/",
          "quote": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside the department, a certificate, or a track in a second field of study which consist of a minimum of 15 hours of coursework, si"
-        }
+        },
+        "umbrella": true
        },
        {
         "type": "note",
@@ -836,6 +1075,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BS",
  "majorSubjects": [
-  "KIN"
+  "CH"
  ]
 }

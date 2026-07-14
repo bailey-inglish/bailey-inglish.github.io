@@ -44,21 +44,39 @@
     }
    },
    {
-    "type": "hours",
-    "hours": 6.0,
+    "type": "anyN",
+    "n": 6,
     "title": "Six semester hours of gateway courses: Three hours of Historical Foundations chosen from A",
-    "filter": {
-     "label": "Six semester hours of gateway courses: Three hours of Historical Foundations cho",
-     "courses": [
-      "AFR 301",
-      "AAS 301",
-      "AMS 315O",
-      "HIS 317L",
-      "MAS 301",
-      "WGS 303",
-      "WGS 305"
-     ]
-    },
+    "of": [
+     {
+      "type": "course",
+      "course": "AFR 301"
+     },
+     {
+      "type": "course",
+      "course": "AAS 301"
+     },
+     {
+      "type": "course",
+      "course": "AMS 315O"
+     },
+     {
+      "type": "course",
+      "course": "HIS 317L"
+     },
+     {
+      "type": "course",
+      "course": "MAS 301"
+     },
+     {
+      "type": "course",
+      "course": "WGS 303"
+     },
+     {
+      "type": "course",
+      "course": "WGS 305"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/race-indigeneity-and-migration/",
      "quote": "Six semester hours of gateway courses: Three hours of Historical Foundations chosen from African and African Diaspora Studies 301, Asian American Studies 301, American Studies 315O, History 317L (Topic 8: Introduction to"

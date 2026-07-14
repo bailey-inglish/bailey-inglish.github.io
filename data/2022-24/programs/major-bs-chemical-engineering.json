@@ -583,42 +583,23 @@
     }
    },
    {
-    "type": "all",
+    "type": "hours",
+    "hours": 8.0,
     "title": "Course requirements are divided into three categories: lower-division courses in the major",
-    "of": [
-     {
-      "type": "course",
-      "course": "CHE 210"
-     },
-     {
-      "type": "course",
-      "course": "CHE 317"
-     },
-     {
-      "type": "course",
-      "course": "CHE 319"
-     },
-     {
-      "type": "course",
-      "course": "CH 328M"
-     },
-     {
-      "type": "course",
-      "course": "CH 128K"
-     },
-     {
-      "type": "course",
-      "course": "CH 353"
-     },
-     {
-      "type": "course",
-      "course": "PHY 303L"
-     },
-     {
-      "type": "course",
-      "course": "PHY 105N"
-     }
-    ],
+    "filter": {
+     "label": "Course requirements are divided into three categories: lower-division courses in",
+     "courses": [
+      "CHE 210",
+      "CHE 317",
+      "CHE 319",
+      "CH 328M",
+      "CH 128K",
+      "CH 353",
+      "PHY 303L",
+      "PHY 105N"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/engineering/degrees-and-programs/bs-chemical-engineering/",
      "quote": "Course requirements are divided into three categories: lower-division courses in the major, upper-division courses in the major, and other required courses. Enrollment in some upper-division Chemical Engineering courses "

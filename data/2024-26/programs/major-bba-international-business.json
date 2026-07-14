@@ -90,18 +90,56 @@
     }
    },
    {
-    "type": "hours",
+    "type": "concentration",
     "hours": 12.0,
+    "upperHours": 12.0,
+    "includeSubjects": [
+     "ARA",
+     "ASL",
+     "BEN",
+     "CHI",
+     "CZ",
+     "DAN",
+     "DCH",
+     "FR",
+     "GER",
+     "GK",
+     "HEB",
+     "HIN",
+     "ITL",
+     "JPN",
+     "KOR",
+     "LAL",
+     "LAT",
+     "MAL",
+     "NOR",
+     "PRS",
+     "POL",
+     "POR",
+     "RUS",
+     "SAN",
+     "S C",
+     "SAL",
+     "SEL",
+     "SPN",
+     "SWA",
+     "SWE",
+     "TAM",
+     "TEL",
+     "TUR",
+     "URD",
+     "UKR",
+     "YID",
+     "YOR",
+     "HIN",
+     "MLL",
+     "VTN"
+    ],
     "title": "Twelve semester hours of coursework in a foreign language associated with the geographic r",
-    "filter": {
-     "label": "Twelve semester hours of coursework in a foreign language associated with the ge",
-     "division": "upper"
-    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/international-business/",
      "quote": "Twelve semester hours of coursework in a foreign language associated with the geographic region used to fulfill requirement 4. A minimum of six of the 12 required hours must be at the upper-division level."
-    },
-    "umbrella": true
+    }
    },
    {
     "type": "hours",

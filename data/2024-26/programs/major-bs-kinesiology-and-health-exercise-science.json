@@ -139,22 +139,33 @@
     }
    },
    {
-    "type": "note",
-    "text": "9 hours chosen from exercise science electives",
+    "type": "hours",
+    "hours": 9.0,
     "title": "9 hours chosen from exercise science electives",
+    "filter": {
+     "label": "9 hours chosen from exercise science electives",
+     "subjects": [
+      "SCI"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/exercise-science/",
      "quote": "9 hours chosen from exercise science electives"
     }
    },
    {
-    "type": "note",
-    "text": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside of the department, a certificate, or a track in a second field of study which consists of a minimum of 15 hours of coursework, six of which must be upper-division. No more than six hours in the minor may also be counted toward other degree requirements.*",
-    "title": "Either a specialization in the Department of Kinesiology and Health Education, a",
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Either a specialization in the Department of Kinesiology and Health Education, a minor out",
+    "filter": {
+     "label": "Either a specialization in the Department of Kinesiology and Health Education, a",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/exercise-science/",
      "quote": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside of the department, a certificate, or a track in a second field of study which consists of a minimum of 15 hours of coursework"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "note",

@@ -172,6 +172,37 @@ describe('concentration and majorField nodes', () => {
   })
 })
 
+describe('single-field concentration with an includeSubjects pool', () => {
+  const prog: Program = {
+    id: 't/major/lang', edition: 't', type: 'major', name: 'L', college: 'T',
+    sourceUrl: 'https://example.com',
+    rules: {
+      type: 'concentration', hours: 6, upperHours: 6,
+      includeSubjects: ['SPN', 'FR', 'GER'],
+      title: '6 upper-division hours in one foreign language',
+    },
+  }
+  const mk = (id: string, hours = 3): RecordCourse => ({
+    id, term: 'Fall 2024', hours, grade: 'A', creditType: 'in-residence',
+  })
+
+  it('requires the hours to come from a single pooled subject', () => {
+    // 3 Spanish + 3 French upper-division = 6 total but not one language
+    const split: StudentRecord = { majors: [], schools: [], courses: [mk('SPN 340'), mk('FR 340')] }
+    expect(auditProgram(prog, [], split).root.status).toBe('partial')
+    // 6 upper-division Spanish hours in one language -> met
+    const oneLang: StudentRecord = { majors: [], schools: [], courses: [mk('SPN 340'), mk('SPN 350')] }
+    const audit = auditProgram(prog, [], oneLang)
+    expect(audit.root.status).toBe('met')
+    expect(audit.root.matched.every((c) => c.id.startsWith('SPN'))).toBe(true)
+  })
+
+  it('ignores subjects outside the pool', () => {
+    const rec: StudentRecord = { majors: [], schools: [], courses: [mk('ECO 340'), mk('ECO 350')] }
+    expect(auditProgram(prog, [], rec).root.status).toBe('unmet')
+  })
+})
+
 describe('synthetic edge cases', () => {
   const prog: Program = {
     id: 't/major/x', edition: 't', type: 'major', name: 'X', college: 'T',
