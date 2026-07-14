@@ -95,16 +95,18 @@ def iter_nodes(node):
         yield from iter_nodes(child)
 
 
-def check_filter(f, ctx: str, ids: set[str]) -> None:
+def check_filter(f, ctx: str, ids: set[str], lists: dict) -> None:
     for key in ("courses", "excludeCourses"):
         for cid in f.get(key, []):
             if cid not in ids:
                 err(f"{ctx}: filter references unknown course {cid!r}")
+    if f.get("list") and f["list"] not in lists:
+        err(f"{ctx}: filter references unknown list {f['list']!r}")
     if f.get("division") not in (None, "upper", "lower"):
         err(f"{ctx}: bad division {f.get('division')!r}")
 
 
-def check_program(path: Path, ids: set[str], program_ids: set[str]) -> None:
+def check_program(path: Path, ids: set[str], program_ids: set[str], lists: dict) -> None:
     p = load(path)
     if p is None:
         return
@@ -127,9 +129,9 @@ def check_program(path: Path, ids: set[str], program_ids: set[str]) -> None:
         elif t == "hours":
             if not isinstance(node.get("hours"), (int, float)) or node["hours"] <= 0:
                 err(f"{ctx}: bad hours")
-            check_filter(node.get("filter", {}), ctx, ids)
+            check_filter(node.get("filter", {}), ctx, ids, lists)
             for cap in node.get("caps", []):
-                check_filter(cap.get("filter", {}), ctx, ids)
+                check_filter(cap.get("filter", {}), ctx, ids, lists)
         elif t == "anyN":
             n = node.get("n")
             if not isinstance(n, int) or n < 1 or n > len(node.get("of", [])):
@@ -178,6 +180,15 @@ def main() -> None:
     for eddir in sorted(d for d in DATA.iterdir() if d.is_dir()):
         edition = eddir.name
         ids = check_courses(edition)
+        lists = {}
+        lists_file = eddir / "lists.json"
+        if lists_file.exists():
+            doc = load(lists_file) or {}
+            lists = doc.get("lists", {})
+            for name, cids in lists.items():
+                for cid in cids:
+                    if cid not in ids:
+                        err(f"lists.json[{name}]: unknown course {cid!r} ({edition})")
         pdir = eddir / "programs"
         if pdir.is_dir():
             paths = sorted(pdir.glob("*.json"))
@@ -187,7 +198,7 @@ def main() -> None:
                 if doc:
                     program_ids.add(doc.get("id"))
             for path in paths:
-                check_program(path, ids, program_ids)
+                check_program(path, ids, program_ids, lists)
         print(f"[{edition}] {len(ids)} courses, "
               f"{len(list(pdir.glob('*.json'))) if pdir.is_dir() else 0} programs checked")
 
