@@ -20,15 +20,83 @@
     "of": [
      {
       "type": "all",
+      "title": "Prescribed Work",
+      "of": [
+       {
+        "type": "note",
+        "text": "Social and behavioral sciences: Six semester hours chosen from the following areas: anthropology, economics, geography, government, history, linguistics, psychology, and sociology. A course counted toward this requirement may not also be counted toward any core curriculum requirement.",
+        "title": "Social and behavioral sciences: Six semester hours chosen from the following are",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
+         "quote": "Social and behavioral sciences: Six semester hours chosen from the following areas: anthropology, economics, geography, government, history, linguistics, psychology, and sociology. A course counted toward this requiremen"
+        }
+       },
+       {
+        "type": "note",
+        "text": "General culture: Three semester hours chosen from the following areas: architecture, classics (including classical civilization, Greek, Latin), comparative literature, humanities, philosophy, and interdisciplinary fields outside the Department of Art and Art History such as American studies, African and African diaspora studies, Asian studies, Latin American studies, Mexican American studies, and ",
+        "title": "General culture: Three semester hours chosen from the following areas: architect",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
+         "quote": "General culture: Three semester hours chosen from the following areas: architecture, classics (including classical civilization, Greek, Latin), comparative literature, humanities, philosophy, and interdisciplinary fields"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Science, technology, and mathematics: Six semester hours of coursework. Courses must be chosen from computer science, mathematics, and the fields of study included in the science and technology, part I, requirement of the core curriculum. A course counted toward this requirement may not also be counted toward any core curriculum requirement.",
+        "title": "Science, technology, and mathematics: Six semester hours of coursework. Courses ",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
+         "quote": "Science, technology, and mathematics: Six semester hours of coursework. Courses must be chosen from computer science, mathematics, and the fields of study included in the science and technology, part I, requirement of th"
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
       "title": "Major Requirements",
       "of": [
        {
-        "type": "manual",
-        "text": "Studio art: 30 semester hours, consisting of Studio Art 311C, 312C, 313C, and 314C, and 18 additional semester hours of studio art, of which at least 12 hours must be upper-division.",
-        "title": "Studio art: 30 semester hours, consisting of Studio Art 311C, 312C, 313C, and 31",
+        "type": "all",
+        "title": "Studio art: 30 semester hours, consisting of Studio Art 311C, 312C, 313C, and 314C, and 18",
+        "of": [
+         {
+          "type": "course",
+          "course": "ART 311C"
+         },
+         {
+          "type": "course",
+          "course": "ART 312C"
+         },
+         {
+          "type": "course",
+          "course": "ART 313C"
+         },
+         {
+          "type": "course",
+          "course": "ART 314C"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
          "quote": "Studio art: 30 semester hours, consisting of Studio Art 311C, 312C, 313C, and 314C, and 18 additional semester hours of studio art, of which at least 12 hours must be upper-division."
+        }
+       },
+       {
+        "type": "all",
+        "title": "Art history: 12 semester hours, consisting of Art History 302, 303 and six hours of upper-",
+        "of": [
+         {
+          "type": "course",
+          "course": "ARH 302"
+         },
+         {
+          "type": "course",
+          "course": "ARH 303"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
+         "quote": "Art history: 12 semester hours, consisting of Art History 302, 303 and six hours of upper-division coursework in art history. Several of the courses which may be used to complete this requirement are also approved to ful"
         }
        }
       ]
@@ -38,12 +106,12 @@
       "title": "Electives",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Nine to 15 semester hours chosen from courses either within or outside the Department of Art and Art History. Additional elective coursework may be needed to provide the total number of semester hours required for the degree.",
         "title": "Nine to 15 semester hours chosen from courses either within or outside the Depar",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
-         "quote": "Nine to 15 semester hours chosen from courses either within or outside the Department of Art and Art History. Additional elective coursework may be needed to provide the total number of semester hours"
+         "quote": "Nine to 15 semester hours chosen from courses either within or outside the Department of Art and Art History. Additional elective coursework may be needed to provide the total number of semester hours required for the de"
         }
        }
       ]
@@ -53,7 +121,7 @@
       "title": "Total Minimum Requirements",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "For the BA with a major in studio art: 120 semester hours as outlined above.",
         "title": "For the BA with a major in studio art: 120 semester hours as outlined above.",
         "source": {
@@ -68,7 +136,16 @@
       "title": "Prescribed Work",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
+        "text": "Social and behavioral sciences: Six semester hours chosen from the following areas: anthropology, economics, geography, government, history, linguistics, psychology, and sociology. A course counted toward this requirement may not also be counted toward any core curriculum requirement.",
+        "title": "Social and behavioral sciences: Six semester hours chosen from the following are",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
+         "quote": "Social and behavioral sciences: Six semester hours chosen from the following areas: anthropology, economics, geography, government, history, linguistics, psychology, and sociology. A course counted toward this requiremen"
+        }
+       },
+       {
+        "type": "note",
         "text": "General culture: Three semester hours in one of the following areas: Architecture",
         "title": "General culture: Three semester hours in one of the following areas: Architectur",
         "source": {
@@ -84,7 +161,6 @@
       "of": [
        {
         "type": "anyN",
-        "n": 1,
         "title": "Studio Art 311C or 312C",
         "of": [
          {
@@ -99,7 +175,8 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
          "quote": "Studio Art 311C or 312C"
-        }
+        },
+        "n": 1
        },
        {
         "type": "all",
@@ -132,21 +209,39 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Twelve semester hours of upper-division art history courses chosen to meet four of the following geographical areas: Africa",
-        "title": "Twelve semester hours of upper-division art history courses chosen to meet four ",
+        "type": "hours",
+        "hours": 12.0,
+        "title": "Twelve semester hours of upper-division art history courses chosen to meet four of the fol",
+        "filter": {
+         "label": "Twelve semester hours of upper-division art history courses chosen to meet four ",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
          "quote": "Twelve semester hours of upper-division art history courses chosen to meet four of the following geographical areas: Africa"
-        }
+        },
+        "umbrella": true
        },
        {
-        "type": "manual",
-        "text": "Nine semester hours of upper-division art history courses chosen to meet three of the following four periods: Prehistoric-600",
-        "title": "Nine semester hours of upper-division art history courses chosen to meet three o",
+        "type": "hours",
+        "hours": 9.0,
+        "title": "Nine semester hours of upper-division art history courses chosen to meet three of the foll",
+        "filter": {
+         "label": "Nine semester hours of upper-division art history courses chosen to meet three o",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
          "quote": "Nine semester hours of upper-division art history courses chosen to meet three of the following four periods: Prehistoric-600"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Several of the courses which may be used to complete requirement 2 are also approved to fulfill the visual and performing arts requirement of the core curriculum and may be used to fulfill both.",
+        "title": "Several of the courses which may be used to complete requirement 2 are also appr",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
+         "quote": "Several of the courses which may be used to complete requirement 2 are also approved to fulfill the visual and performing arts requirement of the core curriculum and may be used to fulfill both."
         }
        }
       ]
@@ -156,12 +251,12 @@
       "title": "Electives",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Twelve to 18 semester hours chosen from courses either within or outside the Department of Art and Art History. Additional elective coursework may be needed to provide the total number of semester hours required for the degree.",
         "title": "Twelve to 18 semester hours chosen from courses either within or outside the Dep",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
-         "quote": "Twelve to 18 semester hours chosen from courses either within or outside the Department of Art and Art History. Additional elective coursework may be needed to provide the total number of semester hou"
+         "quote": "Twelve to 18 semester hours chosen from courses either within or outside the Department of Art and Art History. Additional elective coursework may be needed to provide the total number of semester hours required for the "
         }
        }
       ]
@@ -171,7 +266,7 @@
       "title": "Total Minimum Requirements",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "For the BA with a major in art history: 120 semester hours as outlined above.",
         "title": "For the BA with a major in art history: 120 semester hours as outlined above.",
         "source": {
@@ -186,9 +281,18 @@
       "title": "Major Requirements",
       "of": [
        {
-        "type": "manual",
-        "text": "Design courses: 32 semester hours, consisting of: Design 304, 305, and six additional semester hours of lower-division DES coursework",
-        "title": "Design courses: 32 semester hours, consisting of: Design 304, 305, and six addit",
+        "type": "all",
+        "title": "Design courses: 32 semester hours, consisting of: Design 304, 305, and six additional seme",
+        "of": [
+         {
+          "type": "course",
+          "course": "DES 304"
+         },
+         {
+          "type": "course",
+          "course": "DES 305"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
          "quote": "Design courses: 32 semester hours, consisting of: Design 304, 305, and six additional semester hours of lower-division DES coursework"
@@ -204,18 +308,25 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Seventeen semester hours of design courses, of which at least eight hours must be upper-division. Design 336 and 337 may not be counted.",
-        "title": "Seventeen semester hours of design courses, of which at least eight hours must b",
+        "type": "hours",
+        "hours": 17.0,
+        "title": "Seventeen semester hours of design courses, of which at least eight hours must be upper-di",
+        "filter": {
+         "label": "Seventeen semester hours of design courses, of which at least eight hours must b",
+         "courses": [
+          "DES 336",
+          "DES 337"
+         ],
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
          "quote": "Seventeen semester hours of design courses, of which at least eight hours must be upper-division. Design 336 and 337 may not be counted."
         }
        },
        {
-        "type": "manual",
-        "text": "Art/design history/theory/criticism courses: Nine semester hours chosen from Art History 303",
-        "title": "Art/design history/theory/criticism courses: Nine semester hours chosen from Art",
+        "type": "course",
+        "course": "ARH 303",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
          "quote": "Art/design history/theory/criticism courses: Nine semester hours chosen from Art History 303"
@@ -223,7 +334,6 @@
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "Design 336 or 337 (Topic 1)",
         "of": [
          {
@@ -238,15 +348,34 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
          "quote": "Design 336 or 337 (Topic 1)"
+        },
+        "n": 1
+       },
+       {
+        "type": "all",
+        "title": "Performance review: Design 131. A design major must register for the performance review co",
+        "of": [
+         {
+          "type": "course",
+          "course": "DES 131"
+         },
+         {
+          "type": "course",
+          "course": "DES 340"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
+         "quote": "Performance review: Design 131. A design major must register for the performance review course during the second semester of sophomore year, and present a portfolio of his or her works for review by designated design fac"
         }
        },
        {
-        "type": "manual",
-        "text": "Performance review: Design 131. A design major must register for the performance review course during the second semester of sophomore year, and present a portfolio of his or her works for review by designated design faculty at the end of the semester. The works to be included for review are specified by the design faculty. In order to enroll in courses numbered Design 340 or higher, the student must pass this performance review.",
-        "title": "Performance review: Design 131. A design major must register for the performance",
+        "type": "note",
+        "text": "Several of the courses which may be used to complete requirements 1 and 2 are also approved to fulfill the visual and performing arts requirement of the core curriculum and may be used to fulfill both.",
+        "title": "Several of the courses which may be used to complete requirements 1 and 2 are al",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
-         "quote": "Performance review: Design 131. A design major must register for the performance review course during the second semester of sophomore year, and present a portfolio of his or her works for review by d"
+         "quote": "Several of the courses which may be used to complete requirements 1 and 2 are also approved to fulfill the visual and performing arts requirement of the core curriculum and may be used to fulfill both."
         }
        }
       ]
@@ -256,12 +385,12 @@
       "title": "Electives",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Eighteen semester hours chosen from courses either within or outside the School of Design and Creative Technologies. Additional elective coursework may be needed to provide the total number of semester hours required for the degree.",
         "title": "Eighteen semester hours chosen from courses either within or outside the School ",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
-         "quote": "Eighteen semester hours chosen from courses either within or outside the School of Design and Creative Technologies. Additional elective coursework may be needed to provide the total number of semeste"
+         "quote": "Eighteen semester hours chosen from courses either within or outside the School of Design and Creative Technologies. Additional elective coursework may be needed to provide the total number of semester hours required for"
         }
        }
       ]
@@ -271,7 +400,7 @@
       "title": "Total Minimum Requirements",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "For the BA with a major in design: 120 semester hours as outlined above.",
         "title": "For the BA with a major in design: 120 semester hours as outlined above.",
         "source": {
@@ -423,15 +552,6 @@
       }
      },
      {
-      "type": "manual",
-      "text": "Free electives (Elective)",
-      "title": "Free electives (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
-       "quote": "Free electives (Elective)"
-      }
-     },
-     {
       "type": "course",
       "course": "DES 374",
       "title": "DES 374",
@@ -445,15 +565,6 @@
       "title": "GOV 312L",
       "source": {
        "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
-       "quote": "Free elective (Elective)"
       }
      },
      {
@@ -484,15 +595,6 @@
       ],
       "source": {
        "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free electives (Elective)",
-      "title": "Free electives (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/ba-art/",
-       "quote": "Free electives (Elective)"
       }
      }
     ],

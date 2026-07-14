@@ -236,7 +236,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Approved science elective",
     "title": "Approved science elective",
     "source": {
@@ -245,7 +245,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Technical Electives",
     "title": "Technical Electives",
     "source": {
@@ -292,7 +292,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "American and Texas government",
     "title": "American and Texas government",
     "source": {
@@ -301,7 +301,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "American history",
     "title": "American history",
     "source": {
@@ -310,7 +310,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Social and behavioral science",
     "title": "Social and behavioral science",
     "source": {
@@ -319,7 +319,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Visual and performing arts",
     "title": "Visual and performing arts",
     "source": {
@@ -350,48 +350,74 @@
     }
    },
    {
-    "type": "manual",
-    "text": "The civil engineering student has the opportunity to obtain a broad background in mathematics and the physical sciences and their applications to all areas of civil engineering. This flexible curriculum allows the student to elect 18 semester hours of approved technical coursework to emphasize the areas of civil engineering of most interest to the student. In addition, courses in the humanities and social sciences are included.",
+    "type": "note",
+    "text": "The civil engineering student has the opportunity to obtain a broad background in mathematics and the physical sciences and their applications to all areas of civil engineering. This flexible curriculum allows the student to elect 18 semester hours of approved technical coursework to emphasize the areas of civil engineering of most interest to the student. In addition, courses in the humanities an",
     "title": "The civil engineering student has the opportunity to obtain a broad background i",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-civil-engineering/",
-     "quote": "The civil engineering student has the opportunity to obtain a broad background in mathematics and the physical sciences and their applications to all areas of civil engineering. This flexible curricul"
+     "quote": "The civil engineering student has the opportunity to obtain a broad background in mathematics and the physical sciences and their applications to all areas of civil engineering. This flexible curriculum allows the studen"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
+    "text": "To excel as a civil engineer, a student should have an aptitude for mathematics and science, an interest in the practical application of technical knowledge to societal problems, the motivation to study and prepare for engineering practice, the desire to be a professional, and a desire to work with others to better the lives of humankind. Civil engineering graduates of the University may seek a wi",
+    "title": "To excel as a civil engineer, a student should have an aptitude for mathematics ",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-civil-engineering/",
+     "quote": "To excel as a civil engineer, a student should have an aptitude for mathematics and science, an interest in the practical application of technical knowledge to societal problems, the motivation to study and prepare for e"
+    }
+   },
+   {
+    "type": "note",
     "text": "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts",
     "title": "An ability to recognize ethical and professional responsibilities in engineering",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-civil-engineering/",
-     "quote": "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, en"
+     "quote": "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and soc"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students entering Civil Engineering are required to have a laptop at their disposal. Laptops do not need to be brought to campus on a daily basis, but individual courses may require that a laptop be brought to class or lab sessions. For a list of minimum system requirements see: www.caee.utexas.edu/students/itss.",
     "title": "Students entering Civil Engineering are required to have a laptop at their dispo",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-civil-engineering/",
-     "quote": "Students entering Civil Engineering are required to have a laptop at their disposal. Laptops do not need to be brought to campus on a daily basis, but individual courses may require that a laptop be b"
+     "quote": "Students entering Civil Engineering are required to have a laptop at their disposal. Laptops do not need to be brought to campus on a daily basis, but individual courses may require that a laptop be brought to class or l"
     }
    },
    {
-    "type": "manual",
-    "text": "The civil engineering curriculum does not require the student to declare a specific technical area option. However, for the guidance of students with particular interests, technical electives in civil engineering are listed in areas of specialization. The 18 semester hours of technical electives must be chosen from the following civil engineering and architectural engineering courses; in special cases, with the written permission of the department chair, this requirement may be relaxed, provided the student demonstrates in advance that the courses to be substituted for civil engineering or architectural engineering courses are part of a consistent educational plan. To provide a broad general background, at least one technical elective from each of three different areas of specialization must be included in each student's program.",
+    "type": "note",
+    "text": "The civil engineering curriculum does not require the student to declare a specific technical area option. However, for the guidance of students with particular interests, technical electives in civil engineering are listed in areas of specialization. The 18 semester hours of technical electives must be chosen from the following civil engineering and architectural engineering courses; in special c",
     "title": "The civil engineering curriculum does not require the student to declare a speci",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-civil-engineering/",
-     "quote": "The civil engineering curriculum does not require the student to declare a specific technical area option. However, for the guidance of students with particular interests, technical electives in civil"
+     "quote": "The civil engineering curriculum does not require the student to declare a specific technical area option. However, for the guidance of students with particular interests, technical electives in civil engineering are lis"
     }
    },
    {
-    "type": "manual",
-    "text": "Construction Engineering and Project Management Architectural Engineering 335, Materials and Methods of Building Construction Architectural Engineering 358, Cost Estimating in Building Construction Architectural Engineering 366, Contracts, Liability, and Ethics Architectural Engineering 376, Building Information Modeling for Capital Projects",
-    "title": "Construction Engineering and Project Management Architectural Engineering 335, M",
+    "type": "all",
+    "title": "Construction Engineering and Project Management Architectural Engineering 335, Materials a",
+    "of": [
+     {
+      "type": "course",
+      "course": "ARE 335"
+     },
+     {
+      "type": "course",
+      "course": "ARE 358"
+     },
+     {
+      "type": "course",
+      "course": "ARE 366"
+     },
+     {
+      "type": "course",
+      "course": "ARE 376"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-civil-engineering/",
-     "quote": "Construction Engineering and Project Management Architectural Engineering 335, Materials and Methods of Building Construction Architectural Engineering 358, Cost Estimating in Building Construction Ar"
+     "quote": "Construction Engineering and Project Management Architectural Engineering 335, Materials and Methods of Building Construction Architectural Engineering 358, Cost Estimating in Building Construction Architectural Engineer"
     }
    },
    {
@@ -413,12 +439,37 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Environmental Engineering Civil Engineering 342, Water and Wastewater Treatment Engineering Civil Engineering 346, Solid Waste Engineering and Management Civil Engineering 364, Design of Wastewater and Water Treatment Facilities Civil Engineering 369L, Air Pollution Engineering Civil Engineering 369R, Indoor Air Quality Civil Engineering 370K, Environmental Sampling and Analysis",
-    "title": "Environmental Engineering Civil Engineering 342, Water and Wastewater Treatment ",
+    "type": "all",
+    "title": "Environmental Engineering Civil Engineering 342, Water and Wastewater Treatment Engineerin",
+    "of": [
+     {
+      "type": "course",
+      "course": "C E 342"
+     },
+     {
+      "type": "course",
+      "course": "C E 346"
+     },
+     {
+      "type": "course",
+      "course": "C E 364"
+     },
+     {
+      "type": "course",
+      "course": "C E 369L"
+     },
+     {
+      "type": "course",
+      "course": "C E 369R"
+     },
+     {
+      "type": "course",
+      "course": "C E 370K"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-civil-engineering/",
-     "quote": "Environmental Engineering Civil Engineering 342, Water and Wastewater Treatment Engineering Civil Engineering 346, Solid Waste Engineering and Management Civil Engineering 364, Design of Wastewater an"
+     "quote": "Environmental Engineering Civil Engineering 342, Water and Wastewater Treatment Engineering Civil Engineering 346, Solid Waste Engineering and Management Civil Engineering 364, Design of Wastewater and Water Treatment Fa"
     }
    },
    {
@@ -440,30 +491,93 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Structural Engineering Architectural Engineering 345K, Masonry Engineering Architectural Engineering 362L, Structural Design in Wood Civil Engineering 331, Reinforced Concrete Design Civil Engineering 335, Elements of Steel Design Civil Engineering 362M, Advanced Reinforced Concrete Design Civil Engineering 362N, Advanced Steel Design Civil Engineering 363, Advanced Structural Analysis",
-    "title": "Structural Engineering Architectural Engineering 345K, Masonry Engineering Archi",
+    "type": "all",
+    "title": "Structural Engineering Architectural Engineering 345K, Masonry Engineering Architectural E",
+    "of": [
+     {
+      "type": "course",
+      "course": "ARE 345K"
+     },
+     {
+      "type": "course",
+      "course": "ARE 362L"
+     },
+     {
+      "type": "course",
+      "course": "C E 331"
+     },
+     {
+      "type": "course",
+      "course": "C E 335"
+     },
+     {
+      "type": "course",
+      "course": "C E 362M"
+     },
+     {
+      "type": "course",
+      "course": "C E 362N"
+     },
+     {
+      "type": "course",
+      "course": "C E 363"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-civil-engineering/",
-     "quote": "Structural Engineering Architectural Engineering 345K, Masonry Engineering Architectural Engineering 362L, Structural Design in Wood Civil Engineering 331, Reinforced Concrete Design Civil Engineering"
+     "quote": "Structural Engineering Architectural Engineering 345K, Masonry Engineering Architectural Engineering 362L, Structural Design in Wood Civil Engineering 331, Reinforced Concrete Design Civil Engineering 335, Elements of St"
     }
    },
    {
-    "type": "manual",
-    "text": "Transportation Engineering Civil Engineering 367G, Design and Evaluation of Ground-Based Transportation Systems Civil Engineering 367P, Pavement Design and Performance Civil Engineering 367T, Traffic Engineering Civil Engineering 367R, Optimization Techniques for Transportation Engineers",
-    "title": "Transportation Engineering Civil Engineering 367G, Design and Evaluation of Grou",
+    "type": "all",
+    "title": "Transportation Engineering Civil Engineering 367G, Design and Evaluation of Ground-Based T",
+    "of": [
+     {
+      "type": "course",
+      "course": "C E 367G"
+     },
+     {
+      "type": "course",
+      "course": "C E 367P"
+     },
+     {
+      "type": "course",
+      "course": "C E 367T"
+     },
+     {
+      "type": "course",
+      "course": "C E 367R"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-civil-engineering/",
-     "quote": "Transportation Engineering Civil Engineering 367G, Design and Evaluation of Ground-Based Transportation Systems Civil Engineering 367P, Pavement Design and Performance Civil Engineering 367T, Traffic "
+     "quote": "Transportation Engineering Civil Engineering 367G, Design and Evaluation of Ground-Based Transportation Systems Civil Engineering 367P, Pavement Design and Performance Civil Engineering 367T, Traffic Engineering Civil En"
     }
    },
    {
-    "type": "manual",
-    "text": "Water Resources Engineering Civil Engineering 358, Introductory Ocean Engineering Civil Engineering 374K, Hydrology Civil Engineering 374N, Topics in Natural Water Systems Engineering Civil Engineering 374U, Topics in Urban Water Systems Engineering",
-    "title": "Water Resources Engineering Civil Engineering 358, Introductory Ocean Engineerin",
+    "type": "all",
+    "title": "Water Resources Engineering Civil Engineering 358, Introductory Ocean Engineering Civil En",
+    "of": [
+     {
+      "type": "course",
+      "course": "C E 358"
+     },
+     {
+      "type": "course",
+      "course": "C E 374K"
+     },
+     {
+      "type": "course",
+      "course": "C E 374N"
+     },
+     {
+      "type": "course",
+      "course": "C E 374U"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-civil-engineering/",
-     "quote": "Water Resources Engineering Civil Engineering 358, Introductory Ocean Engineering Civil Engineering 374K, Hydrology Civil Engineering 374N, Topics in Natural Water Systems Engineering Civil Engineerin"
+     "quote": "Water Resources Engineering Civil Engineering 358, Introductory Ocean Engineering Civil Engineering 374K, Hydrology Civil Engineering 374N, Topics in Natural Water Systems Engineering Civil Engineering 374U, Topics in Ur"
     }
    }
   ]

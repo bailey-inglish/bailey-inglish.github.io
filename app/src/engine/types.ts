@@ -230,7 +230,7 @@ export interface StudentRecord {
 
 // ---------- Audit results ----------
 
-export type NodeStatus = 'met' | 'partial' | 'unmet' | 'manual'
+export type NodeStatus = 'met' | 'partial' | 'unmet' | 'manual' | 'note'
 
 export interface NodeResult {
   node: RuleNode

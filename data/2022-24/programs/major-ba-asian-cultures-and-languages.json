@@ -15,17 +15,21 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Twenty-four semester hours, including 21 hours of upper-division coursework, in the language and culture of one of the following areas of specialization. A list of approved Asian studies courses related to the areas of specialization is available in the Department of Asian Studies. No more than three hours of internship coursework may be counted toward the major. NOTE: Twenty-four semester hours, including 18 hours of upper-division coursework, are required for the specialization in Japanese.",
-    "title": "Twenty-four semester hours, including 21 hours of upper-division coursework, in ",
+    "type": "hours",
+    "hours": 24.0,
+    "title": "Twenty-four semester hours, including 21 hours of upper-division coursework, in the langua",
+    "filter": {
+     "label": "Twenty-four semester hours, including 21 hours of upper-division coursework, in ",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
-     "quote": "Twenty-four semester hours, including 21 hours of upper-division coursework, in the language and culture of one of the following areas of specialization. A list of approved Asian studies courses relat"
-    }
+     "quote": "Twenty-four semester hours, including 21 hours of upper-division coursework, in the language and culture of one of the following areas of specialization. A list of approved Asian studies courses related to the areas of s"
+    },
+    "umbrella": true
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Chinese Chinese 322 or 341",
     "of": [
      {
@@ -40,21 +44,20 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
      "quote": "Chinese Chinese 322 or 341"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "all",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three semester hours chosen from Chinese 320L and 340",
-    "of": [
-     {
-      "type": "course",
-      "course": "CHI 320L"
-     },
-     {
-      "type": "course",
-      "course": "CHI 340"
-     }
-    ],
+    "filter": {
+     "label": "Three semester hours chosen from Chinese 320L and 340",
+     "courses": [
+      "CHI 320L",
+      "CHI 340"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
      "quote": "Three semester hours chosen from Chinese 320L and 340"
@@ -63,14 +66,10 @@
    {
     "type": "hours",
     "hours": 6.0,
-    "umbrella": true,
-    "title": "6 upper-division hours of chinese",
+    "title": "Six additional semester hours of upper-division coursework in Chinese",
     "filter": {
-     "division": "upper",
-     "subjects": [
-      "CHI"
-     ],
-     "label": "Upper-division chinese"
+     "label": "Six additional semester hours of upper-division coursework in Chinese",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
@@ -78,13 +77,18 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Twelve additional semester hours in Asian studies courses related to China, at least six hours of which must be upper-division",
-    "title": "Twelve additional semester hours in Asian studies courses related to China, at l",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve additional semester hours in Asian studies courses related to China, at least six h",
+    "filter": {
+     "label": "Twelve additional semester hours in Asian studies courses related to China, at l",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
      "quote": "Twelve additional semester hours in Asian studies courses related to China, at least six hours of which must be upper-division"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "course",
@@ -121,18 +125,26 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Three additional semester credit hours of upper-division coursework in Japanese",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three additional semester credit hours of upper-division coursework in Japanese",
+    "filter": {
+     "label": "Three additional semester credit hours of upper-division coursework in Japanese",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
      "quote": "Three additional semester credit hours of upper-division coursework in Japanese"
     }
    },
    {
-    "type": "manual",
-    "text": "Nine additional semester credit hours in Asian studies courses related to Japan, at least six hours of which must be upper-division",
-    "title": "Nine additional semester credit hours in Asian studies courses related to Japan,",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine additional semester credit hours in Asian studies courses related to Japan, at least ",
+    "filter": {
+     "label": "Nine additional semester credit hours in Asian studies courses related to Japan,",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
      "quote": "Nine additional semester credit hours in Asian studies courses related to Japan, at least six hours of which must be upper-division"
@@ -149,22 +161,19 @@
    {
     "type": "hours",
     "hours": 12.0,
-    "umbrella": true,
-    "title": "12 upper-division hours of korean",
+    "title": "Twelve semester hours of upper-division coursework in Korean",
     "filter": {
-     "division": "upper",
-     "subjects": [
-      "KOR"
-     ],
-     "label": "Upper-division korean"
+     "label": "Twelve semester hours of upper-division coursework in Korean",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
      "quote": "Twelve semester hours of upper-division coursework in Korean"
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Nine additional upper-division semester hours in Asian studies courses related to Korea",
     "title": "Nine additional upper-division semester hours in Asian studies courses related t",
     "source": {
@@ -173,7 +182,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Hindi/Urdu Twelve semester hours of upper-division coursework in Hindi and/or Urdu",
     "title": "Hindi/Urdu Twelve semester hours of upper-division coursework in Hindi and/or Ur",
     "source": {
@@ -182,16 +191,21 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Twelve additional semester hours in Asian studies courses related to South Asia, at least six hours of which must be upper-division. Three semester hours of upper-division coursework in Hindi, Urdu, or Sanskrit may be counted toward this requirement.",
-    "title": "Twelve additional semester hours in Asian studies courses related to South Asia,",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve additional semester hours in Asian studies courses related to South Asia, at least ",
+    "filter": {
+     "label": "Twelve additional semester hours in Asian studies courses related to South Asia,",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
-     "quote": "Twelve additional semester hours in Asian studies courses related to South Asia, at least six hours of which must be upper-division. Three semester hours of upper-division coursework in Hindi, Urdu, o"
-    }
+     "quote": "Twelve additional semester hours in Asian studies courses related to South Asia, at least six hours of which must be upper-division. Three semester hours of upper-division coursework in Hindi, Urdu, or Sanskrit may be co"
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Bengali Nine semester hours of upper-division coursework in Bengali",
     "title": "Bengali Nine semester hours of upper-division coursework in Bengali",
     "source": {
@@ -200,16 +214,21 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Fifteen additional semester hours in Asian studies courses related to South Asia, six hours of which must be upper-division. Three semester hours of upper-division coursework in Tamil, Sanskrit, Bengali, or Malayalam may be counted toward this requirement.",
-    "title": "Fifteen additional semester hours in Asian studies courses related to South Asia",
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Fifteen additional semester hours in Asian studies courses related to South Asia, six hour",
+    "filter": {
+     "label": "Fifteen additional semester hours in Asian studies courses related to South Asia",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
-     "quote": "Fifteen additional semester hours in Asian studies courses related to South Asia, six hours of which must be upper-division. Three semester hours of upper-division coursework in Tamil, Sanskrit, Benga"
-    }
+     "quote": "Fifteen additional semester hours in Asian studies courses related to South Asia, six hours of which must be upper-division. Three semester hours of upper-division coursework in Tamil, Sanskrit, Bengali, or Malayalam may"
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Malayalam Nine semester hours of upper-division coursework in Malayalam",
     "title": "Malayalam Nine semester hours of upper-division coursework in Malayalam",
     "source": {
@@ -218,16 +237,21 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Fifteen additional semester hours in Asian studies courses related to South Asia, at least six hours of which must be upper-division. Three semester hours of upper-division coursework in Malayalam, Sanskrit, Bengali, or Tamil may be counted toward this requirement.",
-    "title": "Fifteen additional semester hours in Asian studies courses related to South Asia",
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Fifteen additional semester hours in Asian studies courses related to South Asia, at least",
+    "filter": {
+     "label": "Fifteen additional semester hours in Asian studies courses related to South Asia",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
-     "quote": "Fifteen additional semester hours in Asian studies courses related to South Asia, at least six hours of which must be upper-division. Three semester hours of upper-division coursework in Malayalam, Sa"
-    }
+     "quote": "Fifteen additional semester hours in Asian studies courses related to South Asia, at least six hours of which must be upper-division. Three semester hours of upper-division coursework in Malayalam, Sanskrit, Bengali, or "
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Sanskrit Nine semester hours of upper-division coursework in Sanskrit",
     "title": "Sanskrit Nine semester hours of upper-division coursework in Sanskrit",
     "source": {
@@ -236,22 +260,41 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Fifteen additional semester hours in Asian studies courses related to South Asia, six hours of which must be upper-division. Three semester hours of upper-division coursework in Sanskrit, Hindi, or Urdu may be counted toward this requirement.",
-    "title": "Fifteen additional semester hours in Asian studies courses related to South Asia",
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Fifteen additional semester hours in Asian studies courses related to South Asia, six hour",
+    "filter": {
+     "label": "Fifteen additional semester hours in Asian studies courses related to South Asia",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
-     "quote": "Fifteen additional semester hours in Asian studies courses related to South Asia, six hours of which must be upper-division. Three semester hours of upper-division coursework in Sanskrit, Hindi, or Ur"
-    }
+     "quote": "Fifteen additional semester hours in Asian studies courses related to South Asia, six hours of which must be upper-division. Three semester hours of upper-division coursework in Sanskrit, Hindi, or Urdu may be counted to"
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Tamil Nine semester hours of upper-division coursework in Tamil",
     "title": "Tamil Nine semester hours of upper-division coursework in Tamil",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
      "quote": "Tamil Nine semester hours of upper-division coursework in Tamil"
     }
+   },
+   {
+    "type": "hours",
+    "hours": 15.0,
+    "title": "Fifteen additional semester hours in Asian studies courses related to South Asia, six hour",
+    "filter": {
+     "label": "Fifteen additional semester hours in Asian studies courses related to South Asia",
+     "division": "upper"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/asian-cultures-and-languages/",
+     "quote": "Fifteen additional semester hours in Asian studies courses related to South Asia, six hours of which must be upper-division. Three semester hours of upper-division coursework in Tamil, Sanskrit, Bengali, or Malayalam may"
+    },
+    "umbrella": true
    }
   ]
  },

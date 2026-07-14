@@ -24,7 +24,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 324E",
     "of": [
      {
@@ -47,39 +46,121 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-development-and-family-studies/",
      "quote": "Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 324E"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
-    "text": "Primary science: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L or 114H, 305 or 306, and 315L",
-    "title": "Primary science: Human Development and Family Sciences 304 or 304H, 313 or 313H,",
+    "type": "all",
+    "title": "Primary science: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L or 1",
+    "of": [
+     {
+      "type": "course",
+      "course": "HDF 304"
+     },
+     {
+      "type": "course",
+      "course": "HDF 304H"
+     },
+     {
+      "type": "course",
+      "course": "HDF 313"
+     },
+     {
+      "type": "course",
+      "course": "HDF 313H"
+     },
+     {
+      "type": "course",
+      "course": "HDF 113L"
+     },
+     {
+      "type": "course",
+      "course": "HDF 114H"
+     },
+     {
+      "type": "course",
+      "course": "HDF 305"
+     },
+     {
+      "type": "course",
+      "course": "HDF 306"
+     },
+     {
+      "type": "course",
+      "course": "HDF 315L"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-development-and-family-studies/",
      "quote": "Primary science: Human Development and Family Sciences 304 or 304H, 313 or 313H, 113L or 114H, 305 or 306, and 315L"
     }
    },
    {
-    "type": "manual",
-    "text": "Twelve semester hours of upper-division human development and family sciences (excluding Human Development and Family Sciences 322, 357, 359, 352, 652F, 352L, 652P, 355H, and 355R). Three credit hours of upper-division coursework must include a writing-flag course (no more than three-hours of upper-division coursework can include writing flags).",
-    "title": "Twelve semester hours of upper-division human development and family sciences (e",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve semester hours of upper-division human development and family sciences (excluding H",
+    "filter": {
+     "label": "Twelve semester hours of upper-division human development and family sciences (e",
+     "courses": [
+      "HDF 322",
+      "HDF 357",
+      "HDF 359",
+      "HDF 352",
+      "HDF 652F",
+      "HDF 352L",
+      "HDF 652P",
+      "HDF 355H",
+      "HDF 355R"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-development-and-family-studies/",
-     "quote": "Twelve semester hours of upper-division human development and family sciences (excluding Human Development and Family Sciences 322, 357, 359, 352, 652F, 352L, 652P, 355H, and 355R). Three credit hours"
+     "quote": "Twelve semester hours of upper-division human development and family sciences (excluding Human Development and Family Sciences 322, 357, 359, 352, 652F, 352L, 652P, 355H, and 355R). Three credit hours of upper-division c"
     }
    },
    {
-    "type": "manual",
-    "text": "Six hours chosen from Human Development and Family Sciences 352, 652F, 352L, 652P, 359 and 355R or 355H. Registration for Human Development and Family Sciences 352, 652F, 352L, 652P, 359 and 355R or 355H is restricted to students whose practicum applications have been approved. Applications, as well as application deadlines, are available online and through the practicum coordinator.",
-    "title": "Six hours chosen from Human Development and Family Sciences 352, 652F, 352L, 652",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours chosen from Human Development and Family Sciences 352, 652F, 352L, 652P, 359 and",
+    "filter": {
+     "label": "Six hours chosen from Human Development and Family Sciences 352, 652F, 352L, 652",
+     "courses": [
+      "HDF 352",
+      "HDF 652F",
+      "HDF 352L",
+      "HDF 652P",
+      "HDF 359",
+      "HDF 355R",
+      "HDF 355H",
+      "HDF 352",
+      "HDF 652F",
+      "HDF 352L",
+      "HDF 652P",
+      "HDF 359",
+      "HDF 355R",
+      "HDF 355H"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-development-and-family-studies/",
-     "quote": "Six hours chosen from Human Development and Family Sciences 352, 652F, 352L, 652P, 359 and 355R or 355H. Registration for Human Development and Family Sciences 352, 652F, 352L, 652P, 359 and 355R or 3"
+     "quote": "Six hours chosen from Human Development and Family Sciences 352, 652F, 352L, 652P, 359 and 355R or 355H. Registration for Human Development and Family Sciences 352, 652F, 352L, 652P, 359 and 355R or 355H is restricted to"
     }
    },
    {
-    "type": "manual",
-    "text": "Six hours from the School of Human Ecology: Human Ecology 101P, 102P, 103P and Nutrition 306 or Public Health 317.",
-    "title": "Six hours from the School of Human Ecology: Human Ecology 101P, 102P, 103P and N",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours from the School of Human Ecology: Human Ecology 101P, 102P, 103P and Nutrition 3",
+    "filter": {
+     "label": "Six hours from the School of Human Ecology: Human Ecology 101P, 102P, 103P and N",
+     "courses": [
+      "H E 101P",
+      "H E 102P",
+      "H E 103P",
+      "NTR 306",
+      "PBH 317"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-development-and-family-studies/",
      "quote": "Six hours from the School of Human Ecology: Human Ecology 101P, 102P, 103P and Nutrition 306 or Public Health 317."
@@ -87,7 +168,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Secondary science: Chemistry 301 or 301C",
     "of": [
      {
@@ -102,7 +182,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-development-and-family-studies/",
      "quote": "Secondary science: Chemistry 301 or 301C"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -114,7 +195,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "One of the following courses: Biology 311D, Chemistry 302, or 302C",
     "of": [
      {
@@ -133,12 +213,26 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-development-and-family-studies/",
      "quote": "One of the following courses: Biology 311D, Chemistry 302, or 302C"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
-    "text": "Psychology 304, 333D, and 339 may not count toward the Bachelor of Science and Arts, with a major in Human Development and Family Sciences.",
-    "title": "Psychology 304, 333D, and 339 may not count toward the Bachelor of Science and A",
+    "type": "all",
+    "title": "Psychology 304, 333D, and 339 may not count toward the Bachelor of Science and Arts, with ",
+    "of": [
+     {
+      "type": "course",
+      "course": "PSY 304"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333D"
+     },
+     {
+      "type": "course",
+      "course": "PSY 339"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/human-development-and-family-studies/",
      "quote": "Psychology 304, 333D, and 339 may not count toward the Bachelor of Science and Arts, with a major in Human Development and Family Sciences."
@@ -150,6 +244,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BSA",
  "majorSubjects": [
-  "CH"
+  "HDF"
  ]
 }

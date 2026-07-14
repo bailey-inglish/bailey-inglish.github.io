@@ -14,20 +14,16 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "hours",
-    "hours": 122.0,
-    "umbrella": true,
-    "title": "122 total hours",
-    "filter": {
-     "label": "Any coursework"
-    },
+    "type": "note",
+    "text": "The requirements for the Bachelor of Social Work degree are designed to give the student an opportunity for integrated, nonrepetitive learning. A total of 122 semester hours is required. These may include credit by examination and a maximum of 16 hours elective courses taken on the pass/fail basis. All students must complete the requirements for the major and must complete at least 60 semester hou",
+    "title": "The requirements for the Bachelor of Social Work degree are designed to give the",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-     "quote": "The requirements for the Bachelor of Social Work degree are designed to give the student an opportunity for integrated, nonrepetitive learning. A total of 122 semester hours is required. These may inc"
+     "quote": "The requirements for the Bachelor of Social Work degree are designed to give the student an opportunity for integrated, nonrepetitive learning. A total of 122 semester hours is required. These may include credit by exami"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Each student must complete a sequence of prescribed work; major requirements, which include the field practicum; and special requirements, which include electives.",
     "title": "Each student must complete a sequence of prescribed work; major requirements, wh",
     "source": {
@@ -36,16 +32,51 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Academic credit cannot be granted for life experience or previous work experience, and such experience cannot be substituted for any of the courses in the professional foundation areas or the field practicum. Students who believe they have the qualifications to receive credit by examination for a social work course other than the practice sequence coursework (Social Work 312, 332, 333, and 334) and the field practicum may submit a written request to the assistant dean for undergraduate programs. The assistant dean will review the request and determine whether or not the student should be permitted to take the examination.",
-    "title": "Academic credit cannot be granted for life experience or previous work experienc",
+    "type": "all",
+    "title": "The Bachelor of Social Work program offers basic courses designed to provide students with",
+    "of": [
+     {
+      "type": "course",
+      "course": "S W 645C"
+     },
+     {
+      "type": "course",
+      "course": "S W 645D"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-     "quote": "Academic credit cannot be granted for life experience or previous work experience, and such experience cannot be substituted for any of the courses in the professional foundation areas or the field pr"
+     "quote": "The Bachelor of Social Work program offers basic courses designed to provide students with concentrated and in-depth educational experience combining social work knowledge and practice skills. No course used to fulfill m"
     }
    },
    {
-    "type": "manual",
+    "type": "all",
+    "title": "Academic credit cannot be granted for life experience or previous work experience, and suc",
+    "of": [
+     {
+      "type": "course",
+      "course": "S W 312"
+     },
+     {
+      "type": "course",
+      "course": "S W 332"
+     },
+     {
+      "type": "course",
+      "course": "S W 333"
+     },
+     {
+      "type": "course",
+      "course": "S W 334"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
+     "quote": "Academic credit cannot be granted for life experience or previous work experience, and such experience cannot be substituted for any of the courses in the professional foundation areas or the field practicum. Students wh"
+    }
+   },
+   {
+    "type": "note",
     "text": "The following courses are required: Social welfare policy: Social Work 310, 323K.",
     "title": "The following courses are required: Social welfare policy: Social Work 310, 323K",
     "source": {
@@ -116,52 +147,128 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Field Instruction and Applied Practice: Social Work 445, 645C, 645D.",
+    "type": "all",
     "title": "Field Instruction and Applied Practice: Social Work 445, 645C, 645D.",
+    "of": [
+     {
+      "type": "course",
+      "course": "S W 445"
+     },
+     {
+      "type": "course",
+      "course": "S W 645C"
+     },
+     {
+      "type": "course",
+      "course": "S W 645D"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
      "quote": "Field Instruction and Applied Practice: Social Work 445, 645C, 645D."
     }
    },
    {
-    "type": "manual",
-    "text": "Students must complete a three-semester-hour course in human/environmental biology: Biology 301E, 302D, 302E, 302F, 302G, 311C or the equivalent. If biology coursework is not used for science and technology part I, any of these courses may be used to fulfill the science and technology part II requirement.",
-    "title": "Students must complete a three-semester-hour course in human/environmental biolo",
+    "type": "course",
+    "course": "PSY 301",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-     "quote": "Students must complete a three-semester-hour course in human/environmental biology: Biology 301E, 302D, 302E, 302F, 302G, 311C or the equivalent. If biology coursework is not used for science and tech"
+     "quote": "Students must complete a three-semester-hour introductory course in psychology. Psychology 301 fulfills this requirement and may also be counted toward the social and behavioral science requirement of the core curriculum"
     }
    },
    {
-    "type": "manual",
-    "text": "Students must complete three semester hours in child psychology or child development. Psychology 304 or Human Development and Family Sciences 313 accompanied with HDF 113L may be used to fulfill this requirement.",
-    "title": "Students must complete three semester hours in child psychology or child develop",
+    "type": "course",
+    "course": "SOC 302",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-     "quote": "Students must complete three semester hours in child psychology or child development. Psychology 304 or Human Development and Family Sciences 313 accompanied with HDF 113L may be used to fulfill this "
+     "quote": "Students must complete a three-semester-hour introductory course in sociology. Sociology 302 fulfills this requirement and may also be counted toward the social and behavioral science requirement of the core curriculum."
     }
    },
    {
-    "type": "manual",
-    "text": "Students must complete at least nine semester hours of upper-division coursework in the social and behavioral sciences (applied learning and development, anthropology, economics, educational psychology, government, history, human development and family sciences, kinesiology, psychology, sociology, Social Work 360K topics) in addition to other major requirements. Six of these nine hours may be upper-division social work electives.",
-    "title": "Students must complete at least nine semester hours of upper-division coursework",
+    "type": "all",
+    "title": "Students must complete a three-semester-hour course in human/environmental biology: Biolog",
+    "of": [
+     {
+      "type": "course",
+      "course": "BIO 301E"
+     },
+     {
+      "type": "course",
+      "course": "BIO 302D"
+     },
+     {
+      "type": "course",
+      "course": "BIO 302E"
+     },
+     {
+      "type": "course",
+      "course": "BIO 302F"
+     },
+     {
+      "type": "course",
+      "course": "BIO 302G"
+     },
+     {
+      "type": "course",
+      "course": "BIO 311C"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-     "quote": "Students must complete at least nine semester hours of upper-division coursework in the social and behavioral sciences (applied learning and development, anthropology, economics, educational psycholog"
+     "quote": "Students must complete a three-semester-hour course in human/environmental biology: Biology 301E, 302D, 302E, 302F, 302G, 311C or the equivalent. If biology coursework is not used for science and technology part I, any o"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
+    "text": "Students must complete three semester hours in economics. Certain economics courses may also be used to fulfill the social and behavioral sciences requirement of the core curriculum.",
+    "title": "Students must complete three semester hours in economics. Certain economics cour",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
+     "quote": "Students must complete three semester hours in economics. Certain economics courses may also be used to fulfill the social and behavioral sciences requirement of the core curriculum."
+    }
+   },
+   {
+    "type": "anyN",
+    "title": "Students must complete three semester hours in child psychology or child development. Psyc",
+    "of": [
+     {
+      "type": "course",
+      "course": "PSY 304"
+     },
+     {
+      "type": "course",
+      "course": "HDF 313"
+     },
+     {
+      "type": "course",
+      "course": "HDF 113L"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
+     "quote": "Students must complete three semester hours in child psychology or child development. Psychology 304 or Human Development and Family Sciences 313 accompanied with HDF 113L may be used to fulfill this requirement."
+    },
+    "n": 1
+   },
+   {
+    "type": "course",
+    "course": "S W 360K",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
+     "quote": "Students must complete at least nine semester hours of upper-division coursework in the social and behavioral sciences (applied learning and development, anthropology, economics, educational psychology, government, histo"
+    }
+   },
+   {
+    "type": "note",
     "text": "In addition to the area and major requirements given above, the student must take elective coursework to complete the 122 semester hours required for the Bachelor of Social Work. No more than 16 hours can be taken on the pass/fail basis, 36 hours in any one field of study other than social work, and 60 hours in social work may be counted toward the 122-hour requirement.",
     "title": "In addition to the area and major requirements given above, the student must tak",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-     "quote": "In addition to the area and major requirements given above, the student must take elective coursework to complete the 122 semester hours required for the Bachelor of Social Work. No more than 16 hours"
+     "quote": "In addition to the area and major requirements given above, the student must take elective coursework to complete the 122 semester hours required for the Bachelor of Social Work. No more than 16 hours can be taken on the"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "The student must fulfill the University-wide graduation requirements and the requirements of the Steve Hicks School of Social Work given earlier in this section.",
     "title": "The student must fulfill the University-wide graduation requirements and the req",
     "source": {
@@ -170,30 +277,48 @@
     }
    },
    {
-    "type": "manual",
-    "text": "To apply for advancement to the social work practice sequence, a student must have earned a grade of at least C in each of the following courses: Social Work 310, 312, 313, 318 and 325. The student must also have a University grade point average of at least 2.00 and a grade point average of at least 2.50 in all the courses he or she has completed that are part of the social work major requirements. Additional requirements are given in the section Advancement to the Practice Sequence.",
+    "type": "note",
+    "text": "To apply for advancement to the social work practice sequence, a student must have earned a grade of at least C in each of the following courses: Social Work 310, 312, 313, 318 and 325. The student must also have a University grade point average of at least 2.00 and a grade point average of at least 2.50 in all the courses he or she has completed that are part of the social work major requirements",
     "title": "To apply for advancement to the social work practice sequence, a student must ha",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-     "quote": "To apply for advancement to the social work practice sequence, a student must have earned a grade of at least C in each of the following courses: Social Work 310, 312, 313, 318 and 325. The student mu"
+     "quote": "To apply for advancement to the social work practice sequence, a student must have earned a grade of at least C in each of the following courses: Social Work 310, 312, 313, 318 and 325. The student must also have a Unive"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
+    "text": "Following the student’s advancement admission to the practice sequence, the student’s coursework is reviewed periodically by the student and the academic advisor. Students must maintain a University grade point average of at least 2.00; they must also earn a grade of at least C in each course listed as a social work practice sequence coursework and must maintain a grade point average of at least 2",
+    "title": "Following the student’s advancement admission to the practice sequence, the stud",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
+     "quote": "Following the student’s advancement admission to the practice sequence, the student’s coursework is reviewed periodically by the student and the academic advisor. Students must maintain a University grade point average o"
+    }
+   },
+   {
+    "type": "note",
+    "text": "The Steve Hicks School of Social Work follows Undergraduate Policies for Scholastic Probation and Dismissal.",
+    "title": "The Steve Hicks School of Social Work follows Undergraduate Policies for Scholas",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
+     "quote": "The Steve Hicks School of Social Work follows Undergraduate Policies for Scholastic Probation and Dismissal."
+    }
+   },
+   {
+    "type": "note",
     "text": "All students who seek to reenter the Steve Hicks School of Social Work after having been placed on enforced withdrawal or academic dismissal must have the approval of the assistant dean for undergraduate programs.",
     "title": "All students who seek to reenter the Steve Hicks School of Social Work after hav",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-     "quote": "All students who seek to reenter the Steve Hicks School of Social Work after having been placed on enforced withdrawal or academic dismissal must have the approval of the assistant dean for undergradu"
+     "quote": "All students who seek to reenter the Steve Hicks School of Social Work after having been placed on enforced withdrawal or academic dismissal must have the approval of the assistant dean for undergraduate programs."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Any student who has a grade of C or higher in a course may not repeat the course and use the second grade to improve grade point average without permission of the assistant dean for undergraduate programs. If a student repeats a course, all grades received for the course are included in the grade point average.",
     "title": "Any student who has a grade of C or higher in a course may not repeat the course",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-     "quote": "Any student who has a grade of C or higher in a course may not repeat the course and use the second grade to improve grade point average without permission of the assistant dean for undergraduate prog"
+     "quote": "Any student who has a grade of C or higher in a course may not repeat the course and use the second grade to improve grade point average without permission of the assistant dean for undergraduate programs. If a student r"
     }
    },
    {
@@ -206,12 +331,11 @@
       "title": "Service Learning",
       "of": [
        {
-        "type": "manual",
-        "text": "The social work program requires that students complete 30 clock hours of supervised service learning related to social work and be approved by the Bachelor of Social Work (BSW) program in order to advance to the practice sequence. These service learning hours may be used to meet course requirements inSocial Work 312.",
-        "title": "The social work program requires that students complete 30 clock hours of superv",
+        "type": "course",
+        "course": "S W 312",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-         "quote": "The social work program requires that students complete 30 clock hours of supervised service learning related to social work and be approved by the Bachelor of Social Work (BSW) program in order to ad"
+         "quote": "The social work program requires that students complete 30 clock hours of supervised service learning related to social work and be approved by the Bachelor of Social Work (BSW) program in order to advance to the practic"
         }
        }
       ]
@@ -221,30 +345,126 @@
       "title": "Field Practicum Requirements",
       "of": [
        {
-        "type": "manual",
-        "text": "Students must complete 480 clock hours of fieldwork as part of the course requirements in Social Work 645C and 645D. Students have the opportunity in these courses to develop the professional skills needed for entry-level social work positions as generalist practitioners. Adequate time is built into this professional program through Social Work 645C, 645D, and 445 to provide students with opportunities to test their developing skills in social services agencies and programs. At the same time, faculty members evaluate the student’s professional development within the context of the educational objectives established for the experience. The goals are for the student to learn real-life practice, to develop skills, to relate concepts to skill development, to remain motivated to continue to learn, and to evaluate personal performance.",
-        "title": "Students must complete 480 clock hours of fieldwork as part of the course requir",
+        "type": "all",
+        "title": "Students must complete 480 clock hours of fieldwork as part of the course requirements in ",
+        "of": [
+         {
+          "type": "course",
+          "course": "S W 645C"
+         },
+         {
+          "type": "course",
+          "course": "S W 645D"
+         },
+         {
+          "type": "course",
+          "course": "S W 645C"
+         },
+         {
+          "type": "course",
+          "course": "S W 645D"
+         },
+         {
+          "type": "course",
+          "course": "S W 445"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-         "quote": "Students must complete 480 clock hours of fieldwork as part of the course requirements in Social Work 645C and 645D. Students have the opportunity in these courses to develop the professional skills n"
+         "quote": "Students must complete 480 clock hours of fieldwork as part of the course requirements in Social Work 645C and 645D. Students have the opportunity in these courses to develop the professional skills needed for entry-leve"
         }
        },
        {
-        "type": "manual",
-        "text": "To enroll in Social Work 645C, 645D, and 445, students must meet the following requirements: (1) approval to advance to the practice sequence in social work; (2) a University grade point average of at least 2.00; and (3) both a grade point average of at least 2.50 for the following group of courses and a grade of at least C in each course in the group: Social Work 310, 312, 313, 318, 323K, 325, 327, 332, 333, and 334.",
-        "title": "To enroll in Social Work 645C, 645D, and 445, students must meet the following r",
+        "type": "all",
+        "title": "To enroll in Social Work 645C, 645D, and 445, students must meet the following requirement",
+        "of": [
+         {
+          "type": "course",
+          "course": "S W 645C",
+          "minGrade": "C"
+         },
+         {
+          "type": "course",
+          "course": "S W 645D",
+          "minGrade": "C"
+         },
+         {
+          "type": "course",
+          "course": "S W 445",
+          "minGrade": "C"
+         },
+         {
+          "type": "course",
+          "course": "S W 310",
+          "minGrade": "C"
+         },
+         {
+          "type": "course",
+          "course": "S W 312",
+          "minGrade": "C"
+         },
+         {
+          "type": "course",
+          "course": "S W 313",
+          "minGrade": "C"
+         },
+         {
+          "type": "course",
+          "course": "S W 318",
+          "minGrade": "C"
+         },
+         {
+          "type": "course",
+          "course": "S W 323K",
+          "minGrade": "C"
+         },
+         {
+          "type": "course",
+          "course": "S W 325",
+          "minGrade": "C"
+         },
+         {
+          "type": "course",
+          "course": "S W 327",
+          "minGrade": "C"
+         },
+         {
+          "type": "course",
+          "course": "S W 332",
+          "minGrade": "C"
+         },
+         {
+          "type": "course",
+          "course": "S W 333",
+          "minGrade": "C"
+         },
+         {
+          "type": "course",
+          "course": "S W 334",
+          "minGrade": "C"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-         "quote": "To enroll in Social Work 645C, 645D, and 445, students must meet the following requirements: (1) approval to advance to the practice sequence in social work; (2) a University grade point average of at"
+         "quote": "To enroll in Social Work 645C, 645D, and 445, students must meet the following requirements: (1) approval to advance to the practice sequence in social work; (2) a University grade point average of at least 2.00; and (3)"
         }
        },
        {
-        "type": "manual",
-        "text": "All social work students enrolled in the field practicum in Social Work 645C and 645D are required to purchase professional malpractice coverage through the University. The field office will inform students about the group insurance plan and required procedures.",
-        "title": "All social work students enrolled in the field practicum in Social Work 645C and",
+        "type": "all",
+        "title": "All social work students enrolled in the field practicum in Social Work 645C and 645D are ",
+        "of": [
+         {
+          "type": "course",
+          "course": "S W 645C"
+         },
+         {
+          "type": "course",
+          "course": "S W 645D"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-         "quote": "All social work students enrolled in the field practicum in Social Work 645C and 645D are required to purchase professional malpractice coverage through the University. The field office will inform st"
+         "quote": "All social work students enrolled in the field practicum in Social Work 645C and 645D are required to purchase professional malpractice coverage through the University. The field office will inform students about the gro"
         }
        }
       ]
@@ -254,25 +474,21 @@
       "title": "Order and Choice of Work",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "A social work major may fulfill the requirements for advancement to the practice sequence in four or five long-session semesters, depending on the number of hours completed each semester. After advancement to the practice sequence, students complete a three-semester professional sequence and additional requirements needed for the BSW degree.",
         "title": "A social work major may fulfill the requirements for advancement to the practice",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-         "quote": "A social work major may fulfill the requirements for advancement to the practice sequence in four or five long-session semesters, depending on the number of hours completed each semester. After advanc"
+         "quote": "A social work major may fulfill the requirements for advancement to the practice sequence in four or five long-session semesters, depending on the number of hours completed each semester. After advancement to the practic"
         }
        },
        {
-        "type": "hours",
-        "hours": 122.0,
-        "umbrella": true,
-        "title": "122 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "The student must also complete all other remaining required coursework before the field practicum, including electives needed to provide the total of 122 semester hours required for the degree. No other courses may be taken concurrently with the field practicum courses.",
+        "title": "The student must also complete all other remaining required coursework before th",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/social-work/degrees-and-programs/bachelor-of-social-work/",
-         "quote": "The student must also complete all other remaining required coursework before the field practicum, including electives needed to provide the total of 122 semester hours required for the degree. No oth"
+         "quote": "The student must also complete all other remaining required coursework before the field practicum, including electives needed to provide the total of 122 semester hours required for the degree. No other courses may be ta"
         }
        }
       ]

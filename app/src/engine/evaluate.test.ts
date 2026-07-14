@@ -80,13 +80,17 @@ describe('auditProgram against the real fixture record (2022-24 catalog)', () =>
     expect(history.status).toBe('met') // HIS 315L + HIS 301J by exam
   })
 
-  it('respects manual checks', () => {
-    const before = auditProgram(sds, [], fixtureRecord)
-    const manualIdNode = findManualIds(before)
-    // no manual node ids set in this program's own rules is fine; just
-    // assert the mechanism doesn't crash and manualLeaves is reported
-    expect(before.manualLeaves).toBeGreaterThan(0)
-    expect(manualIdNode).toBeDefined()
+  it('has no manual checks — every requirement is evaluated or a note', () => {
+    const audit = auditProgram(sds, [], fixtureRecord)
+    expect(audit.manualLeaves).toBe(0)
+    // notes are inert: they never appear as scorable units
+    const statuses: string[] = []
+    const collect = (r: typeof audit.root) => {
+      statuses.push(r.status)
+      r.children?.forEach(collect)
+    }
+    collect(audit.root)
+    expect(statuses).not.toContain('manual')
   })
 })
 
@@ -208,7 +212,3 @@ describe('synthetic edge cases', () => {
     expect(audit.root.children![0].deficitHours).toBe(6)
   })
 })
-
-function findManualIds(audit: ReturnType<typeof auditProgram>): boolean {
-  return audit.manualLeaves >= 0
-}

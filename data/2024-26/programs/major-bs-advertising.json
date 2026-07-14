@@ -14,7 +14,16 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "note",
+    "text": "To be awarded the degree of Bachelor of Science in Advertising, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements for graduation, the Core Curriculum requirements, the college graduation requirements, the requirements and policies listed in Academic Policies and Procedures, and the requirements given in Degree Requirements Common to",
+    "title": "To be awarded the degree of Bachelor of Science in Advertising, the candidate mu",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-advertising/",
+     "quote": "To be awarded the degree of Bachelor of Science in Advertising, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements for graduation, the Core Curriculum requ"
+    }
+   },
+   {
+    "type": "note",
     "text": "A candidate for a degree must have an officially declared major in the Moody College of Communication at the time the degree is awarded.",
     "title": "A candidate for a degree must have an officially declared major in the Moody Col",
     "source": {
@@ -23,29 +32,41 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six semester hours of coursework focusing on communication foundations: Communication 301E and 302E",
-    "title": "Six semester hours of coursework focusing on communication foundations: Communic",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six semester hours of coursework focusing on communication foundations: Communication 301E",
+    "filter": {
+     "label": "Six semester hours of coursework focusing on communication foundations: Communic",
+     "courses": [
+      "COM 301E",
+      "COM 302E"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-advertising/",
      "quote": "Six semester hours of coursework focusing on communication foundations: Communication 301E and 302E"
     }
    },
    {
-    "type": "hours",
-    "hours": 120.0,
-    "umbrella": true,
-    "title": "120 total hours",
-    "filter": {
-     "label": "Any coursework"
-    },
+    "type": "note",
+    "text": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in a language other than English and taking one approved culture course in a culture that is relevant to the language. A list of approved culture and language courses and combinations",
+    "title": "Students must satisfy a language and culture requirement in one of the following",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-advertising/",
+     "quote": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in "
+    }
+   },
+   {
+    "type": "note",
+    "text": "Enough additional coursework to make a total of 120 semester hours.",
+    "title": "Enough additional coursework to make a total of 120 semester hours.",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-advertising/",
      "quote": "Enough additional coursework to make a total of 120 semester hours."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "At least 39, but no more than 45, semester hours of advertising, of which at least 24 hours must be upper-division. The following courses are required:",
     "title": "At least 39, but no more than 45, semester hours of advertising, of which at lea",
     "source": {
@@ -95,7 +116,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Advertising 350, 650, or 468L",
     "of": [
      {
@@ -114,7 +134,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-advertising/",
      "quote": "Advertising 350, 650, or 468L"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -141,17 +162,21 @@
     }
    },
    {
-    "type": "manual",
-    "text": "12 additional hours of non-internship advertising coursework, nine of which must be upper-division.",
-    "title": "12 additional hours of non-internship advertising coursework, nine of which must",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "12 additional hours of non-internship advertising coursework, nine of which must be upper-",
+    "filter": {
+     "label": "12 additional hours of non-internship advertising coursework, nine of which must",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-advertising/",
      "quote": "12 additional hours of non-internship advertising coursework, nine of which must be upper-division."
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Marketing 320F or 337",
     "of": [
      {
@@ -166,12 +191,13 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-advertising/",
      "quote": "Marketing 320F or 337"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
-    "text": "To enroll in most upper-division courses in the Stan Richards School, a student must have completed Advertising 305 with a grade of at least C-.",
-    "title": "To enroll in most upper-division courses in the Stan Richards School, a student ",
+    "type": "course",
+    "course": "ADV 305",
+    "minGrade": "C-",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-advertising/",
      "quote": "To enroll in most upper-division courses in the Stan Richards School, a student must have completed Advertising 305 with a grade of at least C-."
@@ -201,6 +227,15 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-advertising/",
      "quote": "Advertising majors must complete Advertising 305, 309R, 370J, and 373 in residence."
+    }
+   },
+   {
+    "type": "note",
+    "text": "Because prerequisites are subject to change, students should consult the Course Schedule before registering.",
+    "title": "Because prerequisites are subject to change, students should consult the Course ",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-advertising/",
+     "quote": "Because prerequisites are subject to change, students should consult the Course Schedule before registering."
     }
    }
   ]

@@ -15,7 +15,7 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "note",
     "text": "The student preparing for a career in medical laboratory science completes a minimum of 120 semester hours of academic work.",
     "title": "The student preparing for a career in medical laboratory science completes a min",
     "source": {
@@ -24,16 +24,16 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Students complete 96 semester hours toward the Bachelor of Science in Medical Laboratory Science (BSMedLabSci) degree before advancing to the clinical education practicum requirement in the final year in which they enter a National Accrediting Agency for Clinical Laboratory Sciences (NAACLS) accredited Medical Laboratory Science (MLS) program for an additional 12 to 16 months of clinical education. After successful completion of the clinical education practicum requirement, the student is awarded the Bachelor of Science in Medical Laboratory Science from the University and is eligible to take the national certification examination administered by the American Society for Clinical Pathology (ASCP) Board of Certification (BOC). Successful completion of this exam results in national certification as a Medical Laboratory Scientist.",
+    "type": "note",
+    "text": "Students complete 96 semester hours toward the Bachelor of Science in Medical Laboratory Science (BSMedLabSci) degree before advancing to the clinical education practicum requirement in the final year in which they enter a National Accrediting Agency for Clinical Laboratory Sciences (NAACLS) accredited Medical Laboratory Science (MLS) program for an additional 12 to 16 months of clinical education",
     "title": "Students complete 96 semester hours toward the Bachelor of Science in Medical La",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-medical-laboratory-science/",
-     "quote": "Students complete 96 semester hours toward the Bachelor of Science in Medical Laboratory Science (BSMedLabSci) degree before advancing to the clinical education practicum requirement in the final year"
+     "quote": "Students complete 96 semester hours toward the Bachelor of Science in Medical Laboratory Science (BSMedLabSci) degree before advancing to the clinical education practicum requirement in the final year in which they enter"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "All students must complete a sequence of general education; major requirements, which include clinical education practicum requirements; and special requirements, which include electives.",
     "title": "All students must complete a sequence of general education; major requirements, ",
     "source": {
@@ -42,7 +42,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Two three-semester-hour courses in one foreign culture area; the courses must be chosen from an approved list available in the dean’s office and the college advising centers.",
     "title": "Two three-semester-hour courses in one foreign culture area; the courses must be",
     "source": {
@@ -69,27 +69,134 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Either Biology 311C, 311D, and 325, or Biology 315H and 325H",
+    "type": "all",
     "title": "Either Biology 311C, 311D, and 325, or Biology 315H and 325H",
+    "of": [
+     {
+      "type": "course",
+      "course": "BIO 311C"
+     },
+     {
+      "type": "course",
+      "course": "BIO 311D"
+     },
+     {
+      "type": "course",
+      "course": "BIO 325"
+     },
+     {
+      "type": "course",
+      "course": "BIO 315H"
+     },
+     {
+      "type": "course",
+      "course": "BIO 325H"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-medical-laboratory-science/",
      "quote": "Either Biology 311C, 311D, and 325, or Biology 315H and 325H"
     }
    },
    {
-    "type": "manual",
-    "text": "Molecular Biosciences 226L, 326M, 330 or Integrative Biology 446L, Molecular Biosciences 344 or 366R, 360K, 260L, 361, 361L, and Integrative Biology 365S",
-    "title": "Molecular Biosciences 226L, 326M, 330 or Integrative Biology 446L, Molecular Bio",
+    "type": "all",
+    "title": "Molecular Biosciences 226L, 326M, 330 or Integrative Biology 446L, Molecular Biosciences 3",
+    "of": [
+     {
+      "type": "course",
+      "course": "MBS 226L"
+     },
+     {
+      "type": "course",
+      "course": "MBS 326M"
+     },
+     {
+      "type": "course",
+      "course": "MBS 330"
+     },
+     {
+      "type": "course",
+      "course": "INB 446L"
+     },
+     {
+      "type": "course",
+      "course": "MBS 344"
+     },
+     {
+      "type": "course",
+      "course": "MBS 366R"
+     },
+     {
+      "type": "course",
+      "course": "MBS 360K"
+     },
+     {
+      "type": "course",
+      "course": "MBS 260L"
+     },
+     {
+      "type": "course",
+      "course": "MBS 361"
+     },
+     {
+      "type": "course",
+      "course": "MBS 361L"
+     },
+     {
+      "type": "course",
+      "course": "INB 365S"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-medical-laboratory-science/",
      "quote": "Molecular Biosciences 226L, 326M, 330 or Integrative Biology 446L, Molecular Biosciences 344 or 366R, 360K, 260L, 361, 361L, and Integrative Biology 365S"
     }
    },
    {
-    "type": "manual",
-    "text": "Chemistry 301 or 301C, 302 or 302C, 204, 320M, 320N + 220C or 455, and Biochemistry 369",
-    "title": "Chemistry 301 or 301C, 302 or 302C, 204, 320M, 320N + 220C or 455, and Biochemis",
+    "type": "all",
+    "title": "Chemistry 301 or 301C, 302 or 302C, 204, 320M, 320N + 220C or 455, and Biochemistry 369",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 301"
+     },
+     {
+      "type": "course",
+      "course": "CH 301C"
+     },
+     {
+      "type": "course",
+      "course": "CH 302"
+     },
+     {
+      "type": "course",
+      "course": "CH 302C"
+     },
+     {
+      "type": "course",
+      "course": "CH 204"
+     },
+     {
+      "type": "course",
+      "course": "CH 320M"
+     },
+     {
+      "type": "course",
+      "course": "CH 320N"
+     },
+     {
+      "type": "course",
+      "course": "CH 220C"
+     },
+     {
+      "type": "course",
+      "course": "CH 455"
+     },
+     {
+      "type": "course",
+      "course": "BCH 369"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-medical-laboratory-science/",
      "quote": "Chemistry 301 or 301C, 302 or 302C, 204, 320M, 320N + 220C or 455, and Biochemistry 369"
@@ -114,12 +221,12 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Completion of the clinical education practicum, which requires a minimum of 24 semester hours of clinical education coursework selected from the following:* Medical Laboratory Science 155M, 255M, 355M, 455M, 555M, 655M, 755M, 855M, 955M (any topic)",
     "title": "Completion of the clinical education practicum, which requires a minimum of 24 s",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-medical-laboratory-science/",
-     "quote": "Completion of the clinical education practicum, which requires a minimum of 24 semester hours of clinical education coursework selected from the following:* Medical Laboratory Science 155M, 255M, 355M"
+     "quote": "Completion of the clinical education practicum, which requires a minimum of 24 semester hours of clinical education coursework selected from the following:* Medical Laboratory Science 155M, 255M, 355M, 455M, 555M, 655M, "
     }
    },
    {
@@ -169,7 +276,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "*Students must consult with their advisor before enrolling in clinical education coursework requirements",
     "title": "*Students must consult with their advisor before enrolling in clinical education",
     "source": {
@@ -178,21 +285,21 @@
     }
    },
    {
-    "type": "manual",
-    "text": "To advance to the clinical education practicum, medical laboratory science (MLS), students must: 1) complete a minimum of 96 semester hours of coursework, 2) have the approval to advance to the clinical education practicum by the university program director, and 3) apply to and be accepted into a MLS clinical education program, which requires 12 to 16 months of clinical education in a program of medical laboratory science (or clinical laboratory science) accredited by the National Accrediting Agency for Clinical Laboratory Sciences (NAACLS).",
+    "type": "note",
+    "text": "To advance to the clinical education practicum, medical laboratory science (MLS), students must: 1) complete a minimum of 96 semester hours of coursework, 2) have the approval to advance to the clinical education practicum by the university program director, and 3) apply to and be accepted into a MLS clinical education program, which requires 12 to 16 months of clinical education in a program of m",
     "title": "To advance to the clinical education practicum, medical laboratory science (MLS)",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-medical-laboratory-science/",
-     "quote": "To advance to the clinical education practicum, medical laboratory science (MLS), students must: 1) complete a minimum of 96 semester hours of coursework, 2) have the approval to advance to the clinic"
+     "quote": "To advance to the clinical education practicum, medical laboratory science (MLS), students must: 1) complete a minimum of 96 semester hours of coursework, 2) have the approval to advance to the clinical education practic"
     }
    },
    {
-    "type": "manual",
-    "text": "During the clinical education practicum, the MLS clinical education program director works closely with the University and each student to ensure their success in the program. The University verifies completion of coursework and grades upon completion of the MLS clinical education program. MLS clinical education coursework must be approved by the University to be counted toward the degree. Coursework completed in the MLS clinical education program may be used to fulfill clinical education practicum requirements only and applies solely to the Bachelor of Science in Medical Laboratory Science degree.",
+    "type": "note",
+    "text": "During the clinical education practicum, the MLS clinical education program director works closely with the University and each student to ensure their success in the program. The University verifies completion of coursework and grades upon completion of the MLS clinical education program. MLS clinical education coursework must be approved by the University to be counted toward the degree. Coursew",
     "title": "During the clinical education practicum, the MLS clinical education program dire",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-medical-laboratory-science/",
-     "quote": "During the clinical education practicum, the MLS clinical education program director works closely with the University and each student to ensure their success in the program. The University verifies "
+     "quote": "During the clinical education practicum, the MLS clinical education program director works closely with the University and each student to ensure their success in the program. The University verifies completion of course"
     }
    },
    {
@@ -205,12 +312,12 @@
       "title": "Affiliated University Program",
       "of": [
        {
-        "type": "manual",
-        "text": "Students completing the MLS clinical education program offered by an affiliated university register for and complete clinical education coursework at the affiliated university. During the practicum, students remain enrolled at UT Austin, which remains the home institution. Upon completion of the practicum, MLS clinical education coursework credit completed at the affiliated university program is transferred to the University to count toward the Bachelor of Science in Medical Laboratory Science degree at UT Austin.",
+        "type": "note",
+        "text": "Students completing the MLS clinical education program offered by an affiliated university register for and complete clinical education coursework at the affiliated university. During the practicum, students remain enrolled at UT Austin, which remains the home institution. Upon completion of the practicum, MLS clinical education coursework credit completed at the affiliated university program is t",
         "title": "Students completing the MLS clinical education program offered by an affiliated ",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-medical-laboratory-science/",
-         "quote": "Students completing the MLS clinical education program offered by an affiliated university register for and complete clinical education coursework at the affiliated university. During the practicum, s"
+         "quote": "Students completing the MLS clinical education program offered by an affiliated university register for and complete clinical education coursework at the affiliated university. During the practicum, students remain enrol"
         }
        }
       ]
@@ -220,30 +327,39 @@
       "title": "Non-University Affiliated Program (Hospital-Based)",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Students completing the MLS clinical education program offered by a program that is not university-based, such as a hospital, enroll each semester in clinical education coursework at UT Austin and complete coursework off-campus at their specific MLS clinical education program’s location.",
         "title": "Students completing the MLS clinical education program offered by a program that",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-medical-laboratory-science/",
-         "quote": "Students completing the MLS clinical education program offered by a program that is not university-based, such as a hospital, enroll each semester in clinical education coursework at UT Austin and com"
+         "quote": "Students completing the MLS clinical education program offered by a program that is not university-based, such as a hospital, enroll each semester in clinical education coursework at UT Austin and complete coursework off"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "The student must take elective coursework, if necessary, to complete a minimum of 96 semester hours of academic work required for advancement to the clinical education practicum requirement for the Bachelor of Science in Medical Laboratory Science.",
         "title": "The student must take elective coursework, if necessary, to complete a minimum o",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-medical-laboratory-science/",
-         "quote": "The student must take elective coursework, if necessary, to complete a minimum of 96 semester hours of academic work required for advancement to the clinical education practicum requirement for the Ba"
+         "quote": "The student must take elective coursework, if necessary, to complete a minimum of 96 semester hours of academic work required for advancement to the clinical education practicum requirement for the Bachelor of Science in"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
+        "text": "Students must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for the degree, and a grade point average in these courses of at least 2.00. Students must also earn a grade of at least C- or receive a passing grade for each pass/fail course taken in the 12 to 16-",
+        "title": "Students must fulfill both the University's General Requirements for graduation ",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-medical-laboratory-science/",
+         "quote": "Students must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for the degree, and"
+        }
+       },
+       {
+        "type": "note",
         "text": "The student should consult with their academic and faculty advisors each semester regarding order and choice of work and balancing the laboratory load. To complete the program within four years, it may be necessary for the student to take some courses during the summer.",
         "title": "The student should consult with their academic and faculty advisors each semeste",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-medical-laboratory-science/",
-         "quote": "The student should consult with their academic and faculty advisors each semester regarding order and choice of work and balancing the laboratory load. To complete the program within four years, it ma"
+         "quote": "The student should consult with their academic and faculty advisors each semester regarding order and choice of work and balancing the laboratory load. To complete the program within four years, it may be necessary for t"
         }
        }
       ]
@@ -259,6 +375,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BS",
  "majorSubjects": [
-  "MLS"
+  "MBS"
  ]
 }

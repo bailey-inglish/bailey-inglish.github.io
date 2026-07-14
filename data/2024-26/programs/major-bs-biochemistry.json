@@ -15,7 +15,7 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students who plan to follow Option III, Biochemistry Honors, must be admitted to the Dean’s Scholars Honors Program.",
     "title": "Students who plan to follow Option III, Biochemistry Honors, must be admitted to",
     "source": {
@@ -26,31 +26,30 @@
    {
     "type": "hours",
     "hours": 36.0,
-    "umbrella": true,
-    "title": "36 upper-division hours",
+    "title": "At least 36 semester hours of upper-division coursework",
     "filter": {
-     "division": "upper",
-     "label": "Upper-division coursework"
+     "label": "At least 36 semester hours of upper-division coursework",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
      "quote": "At least 36 semester hours of upper-division coursework"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "hours",
     "hours": 21.0,
-    "umbrella": true,
-    "title": "21 upper-division hours",
+    "title": "At least 21 semester hours of upper-division coursework, including at least 12 semester ho",
     "filter": {
-     "division": "upper",
-     "label": "Upper-division coursework"
+     "label": "At least 21 semester hours of upper-division coursework, including at least 12 s",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
      "quote": "At least 21 semester hours of upper-division coursework, including at least 12 semester hours of upper-division coursework in chemistry, must be completed in residence at the University"
     },
-    "inResidence": true
+    "umbrella": true
    },
    {
     "type": "anyN",
@@ -62,9 +61,30 @@
       "title": "Option I: Biochemistry",
       "of": [
        {
-        "type": "manual",
-        "text": "Mathematics 408C and 408D, or 408N, 408S, and 408M",
+        "type": "all",
         "title": "Mathematics 408C and 408D, or 408N, 408S, and 408M",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408C"
+         },
+         {
+          "type": "course",
+          "course": "M 408D"
+         },
+         {
+          "type": "course",
+          "course": "M 408N"
+         },
+         {
+          "type": "course",
+          "course": "M 408S"
+         },
+         {
+          "type": "course",
+          "course": "M 408M"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "Mathematics 408C and 408D, or 408N, 408S, and 408M"
@@ -79,7 +99,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "One of the following sequences: Physics 317K, 105M, 317L, and 105N (recommended);",
         "title": "One of the following sequences: Physics 317K, 105M, 317L, and 105N (recommended)",
         "source": {
@@ -88,9 +108,26 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Physics 303K, 105M, 303L, and 105N; or",
+        "type": "all",
         "title": "Physics 303K, 105M, 303L, and 105N; or",
+        "of": [
+         {
+          "type": "course",
+          "course": "PHY 303K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 105M"
+         },
+         {
+          "type": "course",
+          "course": "PHY 303L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 105N"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "Physics 303K, 105M, 303L, and 105N; or"
@@ -123,9 +160,42 @@
         }
        },
        {
-        "type": "manual",
-        "text": "The following chemistry courses: General chemistry: Chemistry 301 or 301C; 302 or 302C; and 104M & 104N, 204, or 317",
-        "title": "The following chemistry courses: General chemistry: Chemistry 301 or 301C; 302 o",
+        "type": "all",
+        "title": "The following chemistry courses: General chemistry: Chemistry 301 or 301C; 302 or 302C; an",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 301"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "CH 302"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         },
+         {
+          "type": "course",
+          "course": "CH 104M"
+         },
+         {
+          "type": "course",
+          "course": "CH 104N"
+         },
+         {
+          "type": "course",
+          "course": "CH 204"
+         },
+         {
+          "type": "course",
+          "course": "CH 317"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "The following chemistry courses: General chemistry: Chemistry 301 or 301C; 302 or 302C; and 104M & 104N, 204, or 317"
@@ -175,7 +245,6 @@
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "Physical chemistry: Chemistry 353 or 353M",
         "of": [
          {
@@ -190,7 +259,8 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "Physical chemistry: Chemistry 353 or 353M"
-        }
+        },
+        "n": 1
        },
        {
         "type": "course",
@@ -198,15 +268,6 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "Analytical chemistry: Chemistry 455"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "One of the following sequences: Biology 311C, 311D, and 325; or",
-        "title": "One of the following sequences: Biology 311C, 311D, and 325; or",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
-         "quote": "One of the following sequences: Biology 311C, 311D, and 325; or"
         }
        },
        {
@@ -236,22 +297,37 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Three hours of a capstone experience (for example Biochemistry 368W, 368R, a second semester of Biochemistry 379H or a course/experience approved by the Capstone Advisor), Biochemistry 175C should be taken in the semester during or immediately after the capstone experience, and completion of one of the following: Fifteen additional semester hours of upper-division biochemistry, biology, chemistry, computer science, neuroscience, or statistics and data science; or",
-        "title": "Three hours of a capstone experience (for example Biochemistry 368W, 368R, a sec",
+        "type": "hours",
+        "hours": 3.0,
+        "title": "Three hours of a capstone experience (for example Biochemistry 368W, 368R, a second semest",
+        "filter": {
+         "label": "Three hours of a capstone experience (for example Biochemistry 368W, 368R, a sec",
+         "courses": [
+          "BCH 368W",
+          "BCH 368R",
+          "BCH 379H",
+          "BCH 175C"
+         ],
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
-         "quote": "Three hours of a capstone experience (for example Biochemistry 368W, 368R, a second semester of Biochemistry 379H or a course/experience approved by the Capstone Advisor), Biochemistry 175C should be "
+         "quote": "Three hours of a capstone experience (for example Biochemistry 368W, 368R, a second semester of Biochemistry 379H or a course/experience approved by the Capstone Advisor), Biochemistry 175C should be taken in the semeste"
         }
        },
        {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "A transcript-recognized certificate or a transcript-recognized minor",
+        "title": "A transcript-recognized certificate or a transcript-recognized minor",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
+         "quote": "A transcript-recognized certificate or a transcript-recognized minor"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 120 semester hours",
+        "title": "Enough additional coursework to make a total of 120 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "Enough additional coursework to make a total of 120 semester hours"
@@ -264,17 +340,16 @@
       "title": "Option III: Biochemistry Honors",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Breadth requirement: An honors mathematics course,Biology 315H and 325H, Chemistry 301C and 302C, and three additional semester hours of coursework chosen from honors courses in the college. Credit earned by examination may not be counted toward this requirement.",
         "title": "Breadth requirement: An honors mathematics course,Biology 315H and 325H, Chemist",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
-         "quote": "Breadth requirement: An honors mathematics course,Biology 315H and 325H, Chemistry 301C and 302C, and three additional semester hours of coursework chosen from honors courses in the college. Credit ea"
+         "quote": "Breadth requirement: An honors mathematics course,Biology 315H and 325H, Chemistry 301C and 302C, and three additional semester hours of coursework chosen from honors courses in the college. Credit earned by examination "
         }
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "The following chemistry courses: General chemistry: 104M and 104N; 204; or 317",
         "of": [
          {
@@ -297,21 +372,76 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "The following chemistry courses: General chemistry: 104M and 104N; 204; or 317"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "Organic chemistry: Chemistry 128K, 128L, 328M, and 328N; or 220C, 320M, and 320N",
+        "type": "all",
         "title": "Organic chemistry: Chemistry 128K, 128L, 328M, and 328N; or 220C, 320M, and 320N",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 128K"
+         },
+         {
+          "type": "course",
+          "course": "CH 128L"
+         },
+         {
+          "type": "course",
+          "course": "CH 328M"
+         },
+         {
+          "type": "course",
+          "course": "CH 328N"
+         },
+         {
+          "type": "course",
+          "course": "CH 220C"
+         },
+         {
+          "type": "course",
+          "course": "CH 320M"
+         },
+         {
+          "type": "course",
+          "course": "CH 320N"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "Organic chemistry: Chemistry 128K, 128L, 328M, and 328N; or 220C, 320M, and 320N"
         }
        },
        {
-        "type": "manual",
-        "text": "Biochemistry: Biochemistry 219L, 339F, 339J, 339M, 339N, and 370",
+        "type": "all",
         "title": "Biochemistry: Biochemistry 219L, 339F, 339J, 339M, 339N, and 370",
+        "of": [
+         {
+          "type": "course",
+          "course": "BCH 219L"
+         },
+         {
+          "type": "course",
+          "course": "BCH 339F"
+         },
+         {
+          "type": "course",
+          "course": "BCH 339J"
+         },
+         {
+          "type": "course",
+          "course": "BCH 339M"
+         },
+         {
+          "type": "course",
+          "course": "BCH 339N"
+         },
+         {
+          "type": "course",
+          "course": "BCH 370"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "Biochemistry: Biochemistry 219L, 339F, 339J, 339M, 339N, and 370"
@@ -319,7 +449,6 @@
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "Physical chemistry: Chemistry 353 or 353M",
         "of": [
          {
@@ -334,7 +463,8 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "Physical chemistry: Chemistry 353 or 353M"
-        }
+        },
+        "n": 1
        },
        {
         "type": "course",
@@ -353,34 +483,52 @@
         }
        },
        {
-        "type": "manual",
-        "text": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor",
-        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the department",
+        "type": "anyN",
+        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors ",
+        "of": [
+         {
+          "type": "course",
+          "course": "UGS 302"
+         },
+         {
+          "type": "course",
+          "course": "UGS 303"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean’s Scholars Honors Program",
-        "title": "A section of Rhetoric and Writing 309S that is restricted to students in the Dea",
+        "type": "course",
+        "course": "RHE 309S",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean’s Scholars Honors Program"
         }
        },
        {
-        "type": "manual",
-        "text": "Biochemistry 379H and either a three-semester-hour upper-division research course approved by the departmental honors advisor or a second section of Biochemistry 379H",
-        "title": "Biochemistry 379H and either a three-semester-hour upper-division research cours",
+        "type": "all",
+        "title": "Biochemistry 379H and either a three-semester-hour upper-division research course approved",
+        "of": [
+         {
+          "type": "course",
+          "course": "BCH 379H"
+         },
+         {
+          "type": "course",
+          "course": "BCH 379H"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "Biochemistry 379H and either a three-semester-hour upper-division research course approved by the departmental honors advisor or a second section of Biochemistry 379H"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Twenty-four additional semester hours of coursework approved by the departmental honors advisor.",
         "title": "Twenty-four additional semester hours of coursework approved by the departmental",
         "source": {
@@ -389,7 +537,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Six semester hours of coursework from in the College of Liberal Arts and/or the College of Fine Arts.",
         "title": "Six semester hours of coursework from in the College of Liberal Arts and/or the ",
         "source": {
@@ -398,13 +546,9 @@
         }
        },
        {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 120 semester hours.",
+        "title": "Enough additional coursework to make a total of 120 semester hours.",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
          "quote": "Enough additional coursework to make a total of 120 semester hours."
@@ -417,25 +561,43 @@
       "title": "BS/MA Biochemistry: Integrated Program",
       "of": [
        {
-        "type": "manual",
-        "text": "Admission to the integrated Bachelor of Science (BS) and Master of Arts in Biochemistry is open only to undergraduate students within The University of Texas at Austin. It results in the awarding of a Bachelor of Science in Biochemistry followed by the Master of Arts in Biochemistry (BS/MA). The integrated program requires completion of a total of 150 credits: 120 hours for the undergraduate degree program and 30 hours of graduate coursework. Students can complete the integrated program in six academic years of full-time study.",
-        "title": "Admission to the integrated Bachelor of Science (BS) and Master of Arts in Bioch",
+        "type": "note",
+        "text": "Because BS/MA graduates are expected to become leaders, highly motivated students with the personal qualities and intellectual capacity to establish successful careers in life science industry or academia are encouraged to apply.",
+        "title": "Because BS/MA graduates are expected to become leaders, highly motivated student",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
-         "quote": "Admission to the integrated Bachelor of Science (BS) and Master of Arts in Biochemistry is open only to undergraduate students within The University of Texas at Austin. It results in the awarding of a"
+         "quote": "Because BS/MA graduates are expected to become leaders, highly motivated students with the personal qualities and intellectual capacity to establish successful careers in life science industry or academia are encouraged "
         }
        },
        {
-        "type": "manual",
+        "type": "note",
+        "text": "Admission to the integrated Bachelor of Science (BS) and Master of Arts in Biochemistry is open only to undergraduate students within The University of Texas at Austin. It results in the awarding of a Bachelor of Science in Biochemistry followed by the Master of Arts in Biochemistry (BS/MA). The integrated program requires completion of a total of 150 credits: 120 hours for the undergraduate degre",
+        "title": "Admission to the integrated Bachelor of Science (BS) and Master of Arts in Bioch",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
+         "quote": "Admission to the integrated Bachelor of Science (BS) and Master of Arts in Biochemistry is open only to undergraduate students within The University of Texas at Austin. It results in the awarding of a Bachelor of Science"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Students in all Options must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for the degree, and a University grade point average in these courses of at least 2.00. More information about grades and the grade point average is given in the General Information Ca",
+        "title": "Students in all Options must fulfill both the University's General Requirements ",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
+         "quote": "Students in all Options must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for "
+        }
+       },
+       {
+        "type": "note",
         "text": "To graduate under Option III, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor and present their research in an approved public forum, such as the Spring Undergraduate Research Forum or Fall Undergraduate Research Symposium.",
         "title": "To graduate under Option III, students must remain in good standing in the Dean’",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-biochemistry/",
-         "quote": "To graduate under Option III, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor and present their re"
+         "quote": "To graduate under Option III, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor and present their research in an approve"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "The student must consult the BIO Advising Office or Honors Advisor each semester regarding order and choice of work.",
         "title": "The student must consult the BIO Advising Office or Honors Advisor each semester",
         "source": {

@@ -5,9 +5,11 @@ Each program below was extracted from its cached catalog page (see
 sourceUrl) with dump_page.py and encoded into the requirements DSL by an
 LLM-assisted pass, then checked by pipeline/validate.py (course ids must
 exist in the edition's course DB; quotes must appear verbatim in the
-cached page). Catalog prose that resists formalization is kept as
-`manual` nodes carrying the verbatim text — visible, user-checkable,
-never silently dropped.
+cached page). Requirements are formalized into evaluable rule nodes;
+catalog language that is not an auto-checkable course rule (e.g. advisor
+approvals, alternative placement-exam paths, "approved list" pointers) is
+kept as an informational `note` node — shown as context, never a manual
+checkbox.
 
 Usage: python3 extract_programs.py            # writes data/*/programs/*.json
 """
@@ -64,6 +66,36 @@ def MAN(text, title=None, **kw):
     return node
 
 
+def NOTE(text, title=None, **kw):
+    """Informational catalog prose that isn't an auto-checkable requirement."""
+    node = {"type": "note", "text": text, **kw}
+    if title:
+        node["title"] = title
+    return node
+
+
+# COLA field-of-study subject sets, for requirements phrased as "a course in
+# a social science field" / "cultural expression, human experience, and
+# thought" (a College of Liberal Arts field). Verified against the course DB.
+SOCIAL_SCIENCE_SUBJECTS = [
+    "ANT", "ECO", "GOV", "GRG", "LIN", "PSY", "SOC", "AMS", "WGS", "MAS",
+    "AAS", "AFR", "URB", "CTI", "HDO",
+]
+CULTURAL_EXPRESSION_SUBJECTS = [
+    "AHC", "ARH", "C C", "CL", "CTI", "E", "CMS", "F", "GSD", "HMN", "MUS",
+    "PHL", "R S", "T D", "AET", "VAS", "GRG", "LIN",
+]
+FINE_ARTS_HUMANITIES_SUBJECTS = [
+    "ARH", "MUS", "T D", "AHC", "C C", "CL", "HMN", "PHL", "E",
+]
+FOREIGN_LANG_SUBJECTS = [
+    "ARA", "ASL", "BEN", "CHI", "CZ", "DAN", "DCH", "FR", "GER", "GK",
+    "HEB", "HIN", "ITL", "JPN", "KOR", "LAL", "LAT", "MAL", "NOR", "PRS",
+    "POL", "POR", "RUS", "SAN", "S C", "SAL", "SEL", "SPN", "SWA", "SWE",
+    "TAM", "TEL", "TUR", "URD", "UKR", "YID", "YOR",
+]
+
+
 def SRC(edition, page, quote=None):
     src = {"url": BASE[edition] + page}
     if quote:
@@ -93,7 +125,7 @@ def foreign_language(edition, page):
         HRS(3, "Intermediate language course",
             filter={"courses": FOREIGN_LANG,
                     "label": "Intermediate foreign-language course"}),
-        MAN("Certified proficiency on a placement or credit-by-exam test.",
+        NOTE("Certified proficiency on a placement or credit-by-exam test.",
             title="Certified proficiency by placement/exam"),
     ], source=SRC(edition, page,
                   "Proficiency in a language other than English is required."))
@@ -151,24 +183,25 @@ def cola_ba_plan_i(edition):
                 C("E 316L"), C("E 316M"), C("E 316N"),
             ], source=SRC(edition, page)),
             foreign_language(edition, page),
-            MAN("Three semester credit hours in a social science field, in "
-                "addition to the course taken to satisfy the Social and "
-                "Behavioral Science requirement of the Core Curriculum.",
-                title="Social science (approved list on COLA website)",
-                source=SRC(edition, page)),
+            HRS(3, "Social science (a social science field)",
+                filter={"subjects": SOCIAL_SCIENCE_SUBJECTS,
+                        "label": "Social science coursework"},
+                source=SRC(edition, page,
+                           "semester credit hours in a social science field")),
             HRS(3, "Mathematics (beyond college algebra)",
                 filter={"subjects": ["M", "SDS", "STA"],
                         "excludeCourses": ["M 301", "M 316K", "M 316L"],
                         "label": "Mathematics"},
                 source=SRC(edition, page)),
-            MAN("Cultural expression, human experience, and thought: Three "
-                "semester hours chosen from a list of approved courses.",
-                title="Cultural expression, human experience, and thought",
-                source=SRC(edition, page)),
+            HRS(3, "Cultural expression, human experience, and thought",
+                filter={"subjects": CULTURAL_EXPRESSION_SUBJECTS,
+                        "label": "Cultural expression / human experience / thought"},
+                source=SRC(edition, page,
+                           "Cultural expression, human experience, and thought")),
             GPA(2.0, "GPA of at least 2.00 in the major",
                 scope={"majorField": True, "label": "Coursework in the major"},
                 source=SRC(edition, page)),
-            MAN("All students pursuing a major under the BA Plan I, with the "
+            NOTE("All students pursuing a major under the BA Plan I, with the "
                 "exception of International Relations and Global Studies "
                 "majors, must complete a minor.",
                 title="Minor required", source=SRC(edition, page)),
@@ -242,7 +275,7 @@ def bs_sds(edition):
                 C("SDS 334", "C-"), C("SDS 336", "C-"), C("SDS 354", "C-"),
                 C("SDS 357", "C-"),
             ], source=src()),
-            MAN("Six additional credit hours from an approved list of courses",
+            NOTE("Six additional credit hours from an approved list of courses",
                 title="Six hours from the SDS approved list", source=src()),
             {"type": "concentration", "hours": 12, "upperHours": 6,
              "excludeSubjects": ["SDS"],
@@ -301,12 +334,12 @@ def ba_plan_ii(edition):
                 C("S S 302C", "C-"), C("S S 302D", "C-"),
                 C("S S 302E", "C-"), C("S S 302F", "C-"),
             ], source=src("Three hours of Honors Social Science")),
-            MAN("Six semester hours of non-United States history in the same "
+            NOTE("Six semester hours of non-United States history in the same "
                 "geographic area.", title="Non-US history (6 hours, same area)",
                 source=src()),
             ANY(1, "Plan II mathematics", of=[
                 C("M 310P"),
-                MAN("Substitutions do exist for some of the requirements "
+                NOTE("Substitutions do exist for some of the requirements "
                     "outlined below; Plan II students should each meet with a "
                     "Plan II academic advisor to discuss their individual "
                     "academic plan.",
@@ -314,7 +347,7 @@ def ba_plan_ii(edition):
             ], source=src("Mathematics 310P")),
             ANY(1, "Logic or modes of reasoning", of=[
                 C("T C 310"), C("PHL 313Q"),
-                MAN("Approved substitution for the logic requirement (consult "
+                NOTE("Approved substitution for the logic requirement (consult "
                     "a Plan II advisor).", title="Approved substitution"),
             ], source=src()),
             ALL("Plan II science (18 hours)", of=[
@@ -324,12 +357,12 @@ def ba_plan_ii(edition):
                     source=src()),
                 ANY(1, "Plan II biology", of=[
                     C("BIO 301E"),
-                    MAN("Approved substitution for Biology 301E (consult a "
+                    NOTE("Approved substitution for Biology 301E (consult a "
                         "Plan II advisor).", title="Approved substitution"),
                 ], source=src("Biology 301E")),
                 ANY(1, "Plan II physics", of=[
                     C("PHY 321"),
-                    MAN("Physics 321 or an approved alternative natural "
+                    NOTE("Physics 321 or an approved alternative natural "
                         "science course as designated by Plan II.",
                         title="Approved alternative"),
                 ], source=src()),
@@ -339,11 +372,11 @@ def ba_plan_ii(edition):
                     source=src()),
             ]),
             foreign_language(edition, page),
-            MAN("An approved three-hour course in art history, music history, "
-                "or history of theatre and dance; or a three-hour "
-                "upper-division course in classical civilization, humanities, "
-                "literature, or philosophy.",
-                title="Fine arts / humanities", source=src()),
+            HRS(3, "Fine arts / humanities",
+                filter={"subjects": FINE_ARTS_HUMANITIES_SUBJECTS,
+                        "label": "Art/music/theatre history or classical civ/humanities/literature/philosophy"},
+                source=src("An approved three-hour course in art history, music history, "
+                           "or history of theatre and dance")),
         ]),
     }
 
@@ -393,7 +426,7 @@ def ba_economics(edition):
                                            "ECO 441K", "ECO 420K", "ECO 420S"],
                         "label": "Upper-division ECO electives"},
                 source=src()),
-            MAN("At least six of the additional semester hours of "
+            NOTE("At least six of the additional semester hours of "
                 "upper-division coursework must be in courses for which a "
                 "grade of at least C- in Economics 420K [or] Economics 420S "
                 "is a prerequisite.",
@@ -430,14 +463,14 @@ def ba_government(edition):
                 filter={"subjects": ["GOV"], "division": "upper",
                         "label": "Upper-division government"},
                 source=src()),
-            MAN("Students must take at least one upper-division course from "
+            NOTE("Students must take at least one upper-division course from "
                 "three of the seven fields into which the department’s work "
                 "is divided",
                 title="Breadth across three of seven fields", source=src()),
             ANY(1, "Research seminar or internship", of=[
                 C("GOV 362L"), C("GOV 662L"), C("GOV 371N"),
                 C("GOV 372N"), C("GOV 373N"), C("GOV 374N"),
-                MAN("A three hour research seminar in government.",
+                NOTE("A three hour research seminar in government.",
                     title="Research seminar"),
             ], source=src()),
             ANY(1, "Tools course", of=[
@@ -446,9 +479,9 @@ def ba_government(edition):
                     C("ECO 329"), C("EDP 371"), C("PSY 317L"), C("SOC 327M"),
                     C("STA 309"), C("SDS 301"), C("AFR 302M"),
                 ]),
-                MAN("Six semester hours of upper-division coursework in one "
-                    "foreign language, excluding courses conducted in English",
-                    title="Upper-division foreign language option"),
+                HRS(6, "Upper-division foreign language option",
+                    filter={"subjects": FOREIGN_LANG_SUBJECTS, "division": "upper",
+                            "label": "Upper-division foreign-language coursework"}),
             ], source=src()),
             GPA(2.0, "GPA of at least 2.00 in the major",
                 scope={"subjects": ["GOV"], "label": "Government coursework"},
@@ -510,7 +543,7 @@ def prehealth_cert(edition):
             ANY(2, "Two of the NSC health-professions seminars", of=[
                 C("NSC 107J", "C-"), C("NSC 107K", "C-"), C("NSC 107M", "C-"),
             ], source=src()),
-            MAN("Complete 18 hours chosen from the following themes relevant "
+            NOTE("Complete 18 hours chosen from the following themes relevant "
                 "to healthcare.",
                 title="18 hours from approved healthcare themes",
                 source=src()),
@@ -527,30 +560,35 @@ REGISTRY = {
 }
 
 
+def rebuild_index(edition: str) -> int:
+    """Rebuild programs-index.json from EVERY program file in the directory
+    (curated + auto), so it never matters which extractor runs last."""
+    outdir = DATA / edition / "programs"
+    index = []
+    for f in sorted(outdir.glob("*.json")):
+        p = json.loads(f.read_text())
+        index.append({"id": p["id"], "type": p["type"], "name": p["name"],
+                      "college": p["college"],
+                      **({"degreeType": p["degreeType"]} if p.get("degreeType") else {}),
+                      **({"auto": True} if p.get("auto") else {}),
+                      "file": f"programs/{f.name}"})
+    (DATA / edition / "programs-index.json").write_text(
+        json.dumps({"edition": edition, "programs": index}, indent=1,
+                   ensure_ascii=False))
+    return len(index)
+
+
 def main() -> None:
     for edition, builders in REGISTRY.items():
         outdir = DATA / edition / "programs"
         outdir.mkdir(parents=True, exist_ok=True)
-        index = []
         for build in builders:
             prog = build(edition)
             slug = prog["id"].split("/", 1)[1].replace("/", "-")
             (outdir / f"{slug}.json").write_text(
                 json.dumps(prog, indent=1, ensure_ascii=False))
-            index.append({"id": prog["id"], "type": prog["type"],
-                          "name": prog["name"], "college": prog["college"],
-                          **({"degreeType": prog["degreeType"]} if prog.get("degreeType") else {}),
-                          "file": f"programs/{slug}.json"})
-        # core-curriculum.json is produced by extract_core.py; index it too
-        core = outdir / "core-curriculum.json"
-        if core.exists():
-            cp = json.loads(core.read_text())
-            index.append({"id": cp["id"], "type": cp["type"], "name": cp["name"],
-                          "college": cp["college"], "file": "programs/core-curriculum.json"})
-        (DATA / edition / "programs-index.json").write_text(
-            json.dumps({"edition": edition, "programs": index}, indent=1,
-                       ensure_ascii=False))
-        print(f"[{edition}] wrote {len(index)} programs")
+        n = rebuild_index(edition)
+        print(f"[{edition}] wrote {len(builders)} curated programs; index has {n}")
 
 
 if __name__ == "__main__":

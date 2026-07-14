@@ -15,7 +15,48 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "hours",
+    "hours": 42.0,
+    "title": "Forty-two semester hours, including at least 30 hours of upper-division coursework, arrang",
+    "filter": {
+     "label": "Forty-two semester hours, including at least 30 hours of upper-division coursewo",
+     "division": "upper"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
+     "quote": "Forty-two semester hours, including at least 30 hours of upper-division coursework, arranged by contract in consultation with the humanities advisor. None of these 42 hours may be counted toward the core curriculum or th"
+    },
+    "umbrella": true
+   },
+   {
+    "type": "all",
+    "title": "Students normally enter the program in the sophomore or junior year. Only external transfe",
+    "of": [
+     {
+      "type": "course",
+      "course": "HMN 102T"
+     },
+     {
+      "type": "course",
+      "course": "HMN 104"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
+     "quote": "Students normally enter the program in the sophomore or junior year. Only external transfer students may enter UT directly as Humanities majors. Students new to the major consult with the advisor and take HMN 102T Design"
+    }
+   },
+   {
+    "type": "note",
+    "text": "With the approval of the humanities advisor, the student chooses one of the following tracks:",
+    "title": "With the approval of the humanities advisor, the student chooses one of the foll",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
+     "quote": "With the approval of the humanities advisor, the student chooses one of the following tracks:"
+    }
+   },
+   {
+    "type": "note",
     "text": "Track One Nine semester hours in a single field of study in the College of Liberal Arts",
     "title": "Track One Nine semester hours in a single field of study in the College of Liber",
     "source": {
@@ -24,7 +65,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Nine hours in one or more other fields of study in the College of Liberal Arts",
     "title": "Nine hours in one or more other fields of study in the College of Liberal Arts",
     "source": {
@@ -33,7 +74,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Nine hours in any field or fields outside the College of Liberal Arts",
     "title": "Nine hours in any field or fields outside the College of Liberal Arts",
     "source": {
@@ -42,7 +83,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Nine additional hours in any field or fields at the University",
     "title": "Nine additional hours in any field or fields at the University",
     "source": {
@@ -51,16 +92,25 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six hours of upper-division honors coursework including either Humanities 370 and a three-hour upper-division LAH or HMN course, or HMN 368H and HMN 369H.",
-    "title": "Six hours of upper-division honors coursework including either Humanities 370 an",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours of upper-division honors coursework including either Humanities 370 and a three-",
+    "filter": {
+     "label": "Six hours of upper-division honors coursework including either Humanities 370 an",
+     "courses": [
+      "HMN 370",
+      "HMN 368H",
+      "HMN 369H"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
      "quote": "Six hours of upper-division honors coursework including either Humanities 370 and a three-hour upper-division LAH or HMN course, or HMN 368H and HMN 369H."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Track Two Twelve semester hours in a single field of study in the College of Liberal Arts",
     "title": "Track Two Twelve semester hours in a single field of study in the College of Lib",
     "source": {
@@ -69,7 +119,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Nine hours in a second field of study in the College of Liberal Arts",
     "title": "Nine hours in a second field of study in the College of Liberal Arts",
     "source": {
@@ -78,7 +128,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Fifteen additional hours in any field or fields at the University",
     "title": "Fifteen additional hours in any field or fields at the University",
     "source": {
@@ -87,168 +137,39 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Students must complete HMN 368H and HMN 369H with A-s or higher in both halves to earn departmental honors.",
-    "title": "Students must complete HMN 368H and HMN 369H with A-s or higher in both halves t",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours of upper-division honors coursework including either Humanities 370 and a three-",
+    "filter": {
+     "label": "Six hours of upper-division honors coursework including either Humanities 370 an",
+     "courses": [
+      "HMN 370",
+      "HMN 368H",
+      "HMN 369H"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
-     "quote": "Students must complete HMN 368H and HMN 369H with A-s or higher in both halves to earn departmental honors."
+     "quote": "Six hours of upper-division honors coursework including either Humanities 370 and a three-hour upper-division LAH or HMN course, or HMN 368H and HMN 369H."
     }
    },
    {
     "type": "all",
-    "title": "Curriculum (from suggested course arrangement)",
+    "title": "Students must complete HMN 368H and HMN 369H with A-s or higher in both halves to earn dep",
     "of": [
      {
-      "type": "anyN",
-      "n": 1,
-      "title": "UGS 302",
-      "of": [
-       {
-        "type": "course",
-        "course": "UGS 302",
-        "title": "UGS 302",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "UGS 303"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/"
-      }
+      "type": "course",
+      "course": "HMN 368H"
      },
      {
       "type": "course",
-      "course": "RHE 306",
-      "title": "RHE 306",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "E 316L",
-      "of": [
-       {
-        "type": "course",
-        "course": "E 316L",
-        "title": "E 316L",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "E 316M"
-       },
-       {
-        "type": "course",
-        "course": "E 316N"
-       },
-       {
-        "type": "course",
-        "course": "E 316P"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "GOV 310L",
-      "title": "GOV 310L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "GOV 312L",
-      "title": "GOV 312L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "course",
-      "course": "HMN 370",
-      "title": "HMN 370",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Upper-division elective (Elective)",
-      "title": "Upper-division elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
-       "quote": "Upper-division elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Upper-division elective (Elective)",
-      "title": "Upper-division elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
-       "quote": "Upper-division elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
-       "quote": "Free elective (Elective)"
-      }
+      "course": "HMN 369H"
      }
     ],
     "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/"
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
+     "quote": "Students must complete HMN 368H and HMN 369H with A-s or higher in both halves to earn departmental honors."
     }
    }
   ]
@@ -257,6 +178,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BA",
  "majorSubjects": [
-  "E"
+  "HMN"
  ]
 }

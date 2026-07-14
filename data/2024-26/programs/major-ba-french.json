@@ -15,13 +15,21 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Twenty-four semester hours of upper-division French, including",
+    "type": "hours",
+    "hours": 24.0,
     "title": "Twenty-four semester hours of upper-division French, including",
+    "filter": {
+     "label": "Twenty-four semester hours of upper-division French, including",
+     "subjects": [
+      "FR"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
      "quote": "Twenty-four semester hours of upper-division French, including"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "all",
@@ -42,16 +50,24 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French 325D, Self and Society; and French 325E, Representing Difference. No more than six hours chosen from item 2 may be counted for the major.",
-    "title": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French 325D, Sel",
+    "filter": {
+     "label": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French",
+     "courses": [
+      "FR 325C",
+      "FR 325D",
+      "FR 325E"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
-     "quote": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French 325D, Self and Society; and French 325E, Representing Difference. No more than six hours chosen from item 2 may be coun"
+     "quote": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French 325D, Self and Society; and French 325E, Representing Difference. No more than six hours chosen from item 2 may be counted for the major."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Six hours of French courses numbered 350 or above",
     "title": "Six hours of French courses numbered 350 or above",
     "source": {
@@ -60,261 +76,41 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six hours of additional French upper-division. Up to three hours of French Civilization may be counted for three hours of additional French upper-division. Up to three hours of Liberal Arts 320 may be counted for three hours of additional French upper-division.",
-    "title": "Six hours of additional French upper-division. Up to three hours of French Civil",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours of additional French upper-division. Up to three hours of French Civilization ma",
+    "filter": {
+     "label": "Six hours of additional French upper-division. Up to three hours of French Civil",
+     "courses": [
+      "L A 320"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
-     "quote": "Six hours of additional French upper-division. Up to three hours of French Civilization may be counted for three hours of additional French upper-division. Up to three hours of Liberal Arts 320 may be"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Only one may be counted for the Major: Liberal Arts 321F, three hours of French Civilization, French 349P, French 358Q.",
-    "title": "Only one may be counted for the Major: Liberal Arts 321F, three hours of French ",
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
-     "quote": "Only one may be counted for the Major: Liberal Arts 321F, three hours of French Civilization, French 349P, French 358Q."
+     "quote": "Six hours of additional French upper-division. Up to three hours of French Civilization may be counted for three hours of additional French upper-division. Up to three hours of Liberal Arts 320 may be counted for three h"
     }
    },
    {
     "type": "all",
-    "title": "Curriculum (from suggested course arrangement)",
+    "title": "Only one may be counted for the Major: Liberal Arts 321F, three hours of French Civilizati",
     "of": [
      {
       "type": "course",
-      "course": "FR 601C",
-      "title": "FR 601C",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "UGS 302",
-      "of": [
-       {
-        "type": "course",
-        "course": "UGS 302",
-        "title": "UGS 302",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "UGS 303"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-      }
+      "course": "L A 321F"
      },
      {
       "type": "course",
-      "course": "RHE 306",
-      "title": "RHE 306",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-      }
+      "course": "FR 349P"
      },
      {
       "type": "course",
-      "course": "FR 611C",
-      "title": "FR 611C",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "FR 317C",
-      "title": "FR 317C",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "E 316L",
-      "of": [
-       {
-        "type": "course",
-        "course": "E 316L",
-        "title": "E 316L",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "E 316M"
-       },
-       {
-        "type": "course",
-        "course": "E 316N"
-       },
-       {
-        "type": "course",
-        "course": "E 316P"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "FR 320E",
-      "title": "FR 320E",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "GOV 310L",
-      "title": "GOV 310L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "course",
-      "course": "FR 322E",
-      "title": "FR 322E",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "GOV 312L",
-      "title": "GOV 312L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "FR 325C",
-      "of": [
-       {
-        "type": "course",
-        "course": "FR 325C",
-        "title": "FR 325C",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "FR 325D"
-       },
-       {
-        "type": "course",
-        "course": "FR 325E"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "FR 325C",
-      "of": [
-       {
-        "type": "course",
-        "course": "FR 325C",
-        "title": "FR 325C",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "FR 325D"
-       },
-       {
-        "type": "course",
-        "course": "FR 325E"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
-       "quote": "Free elective (Elective)"
-      }
+      "course": "FR 358Q"
      }
     ],
     "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/"
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
+     "quote": "Only one may be counted for the Major: Liberal Arts 321F, three hours of French Civilization, French 349P, French 358Q."
     }
    }
   ]

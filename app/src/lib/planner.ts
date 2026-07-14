@@ -61,7 +61,7 @@ export function suggestionsFromAudit(results: NodeResult[]): PlanItem[] {
 
   function visit(r: NodeResult, umbrellaDiscount = 0): void {
     const node = r.node
-    if (r.status === 'met' || r.status === 'manual') return
+    if (r.status === 'met' || r.status === 'manual' || r.status === 'note') return
     switch (node.type) {
       case 'all': {
         // umbrella children ("120 total hours") overlap their specific

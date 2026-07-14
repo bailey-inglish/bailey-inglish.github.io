@@ -14,9 +14,18 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Marketing 360 (may fulfill the quantitative reasoning flag), and 370 (may fulfill the writing and independent inquiry flags)",
-    "title": "Marketing 360 (may fulfill the quantitative reasoning flag), and 370 (may fulfil",
+    "type": "all",
+    "title": "Marketing 360 (may fulfill the quantitative reasoning flag), and 370 (may fulfill the writ",
+    "of": [
+     {
+      "type": "course",
+      "course": "MKT 360"
+     },
+     {
+      "type": "course",
+      "course": "MKT 370"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/marketing/",
      "quote": "Marketing 360 (may fulfill the quantitative reasoning flag), and 370 (may fulfill the writing and independent inquiry flags)"
@@ -25,14 +34,13 @@
    {
     "type": "hours",
     "hours": 12.0,
-    "umbrella": true,
-    "title": "12 upper-division hours of marketing",
+    "title": "Twelve semester hours of upper-division coursework in marketing, or International Business",
     "filter": {
-     "division": "upper",
-     "subjects": [
-      "MKT"
+     "label": "Twelve semester hours of upper-division coursework in marketing, or Internationa",
+     "courses": [
+      "I B 350"
      ],
-     "label": "Upper-division marketing"
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/marketing/",
@@ -40,16 +48,7 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Twelve semester hours of upper-division coursework in marketing, or International Business 350",
-    "title": "Specific courses within: 12 upper-division hours of marketing",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/marketing/",
-     "quote": "Twelve semester hours of upper-division coursework in marketing, or International Business 350"
-    }
-   },
-   {
-    "type": "manual",
+    "type": "note",
     "text": "Additional elective coursework, if necessary, to provide a total of at least 120 semester hours",
     "title": "Additional elective coursework, if necessary, to provide a total of at least 120",
     "source": {
@@ -58,30 +57,51 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Practicum course Marketing 366P may be used to satisfy a marketing elective or the BBA experiential learning requirement, but not both.",
-    "title": "Practicum course Marketing 366P may be used to satisfy a marketing elective or t",
+    "type": "course",
+    "course": "MKT 366P",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/marketing/",
      "quote": "Practicum course Marketing 366P may be used to satisfy a marketing elective or the BBA experiential learning requirement, but not both."
     }
    },
    {
-    "type": "manual",
-    "text": "A maximum of three hours Marketing 178/278/378 can be counted towards marketing electives for a Marketing major.",
-    "title": "A maximum of three hours Marketing 178/278/378 can be counted towards marketing ",
+    "type": "all",
+    "title": "A maximum of three hours Marketing 178/278/378 can be counted towards marketing electives ",
+    "of": [
+     {
+      "type": "course",
+      "course": "MKT 178"
+     },
+     {
+      "type": "course",
+      "course": "MKT 278"
+     },
+     {
+      "type": "course",
+      "course": "MKT 378"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/marketing/",
      "quote": "A maximum of three hours Marketing 178/278/378 can be counted towards marketing electives for a Marketing major."
     }
    },
    {
-    "type": "manual",
-    "text": "For course planning, Marketing majors should carefully consider the prerequisites for Marketing 370: 90 semester hours of college coursework, including Marketing 360; credit or registration for an approved experiential learning course; and three additional semester hours of elective coursework in marketing.",
-    "title": "For course planning, Marketing majors should carefully consider the prerequisite",
+    "type": "all",
+    "title": "For course planning, Marketing majors should carefully consider the prerequisites for Mark",
+    "of": [
+     {
+      "type": "course",
+      "course": "MKT 370"
+     },
+     {
+      "type": "course",
+      "course": "MKT 360"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/marketing/",
-     "quote": "For course planning, Marketing majors should carefully consider the prerequisites for Marketing 370: 90 semester hours of college coursework, including Marketing 360; credit or registration for an app"
+     "quote": "For course planning, Marketing majors should carefully consider the prerequisites for Marketing 370: 90 semester hours of college coursework, including Marketing 360; credit or registration for an approved experiential l"
     }
    }
   ]

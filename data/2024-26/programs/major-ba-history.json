@@ -17,47 +17,30 @@
    {
     "type": "hours",
     "hours": 30.0,
-    "umbrella": true,
-    "title": "30 hours of history",
+    "title": "Thirty semester hours of history, at least 15 hours of which must be upper-division and 21",
     "filter": {
+     "label": "Thirty semester hours of history, at least 15 hours of which must be upper-divis",
      "subjects": [
       "HIS"
      ],
-     "label": "History coursework"
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/history/",
      "quote": "Thirty semester hours of history, at least 15 hours of which must be upper-division and 21 hours of which must be in residence, including"
-    }
-   },
-   {
-    "type": "hours",
-    "hours": 15.0,
-    "umbrella": true,
-    "title": "15 upper-division hours of history",
-    "filter": {
-     "subjects": [
-      "HIS"
-     ],
-     "division": "upper",
-     "label": "Upper-division history"
     },
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/history/",
-     "quote": "Thirty semester hours of history, at least 15 hours of which must be upper-division and 21 hours of which must be in residence, including"
-    }
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "History 320W, Thinking Like a Historian. History methods course",
-    "title": "History 320W, Thinking Like a Historian. History methods course",
+    "type": "course",
+    "course": "HIS 320W",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/history/",
      "quote": "History 320W, Thinking Like a Historian. History methods course"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "At least six semester hours in United States history, of which at least three hours must be completed in residence",
     "title": "At least six semester hours in United States history, of which at least three ho",
     "source": {
@@ -66,16 +49,23 @@
     }
    },
    {
-    "type": "manual",
-    "text": "At least 12 semester hours of history chosen from each of four of the following specific geographic areas: Africa; Asia; Europe; Latin America; Middle East; or Transnational",
-    "title": "At least 12 semester hours of history chosen from each of four of the following ",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "At least 12 semester hours of history chosen from each of four of the following specific g",
+    "filter": {
+     "label": "At least 12 semester hours of history chosen from each of four of the following ",
+     "subjects": [
+      "HIS"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/history/",
      "quote": "At least 12 semester hours of history chosen from each of four of the following specific geographic areas: Africa; Asia; Europe; Latin America; Middle East; or Transnational"
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "At least six semester hours must be designated as Pre-1800 history",
     "title": "At least six semester hours must be designated as Pre-1800 history",
     "source": {

@@ -15,7 +15,6 @@
   "of": [
    {
     "type": "anyN",
-    "n": 1,
     "title": "International Business 350 or 350S",
     "of": [
      {
@@ -30,28 +29,28 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/international-business/",
      "quote": "International Business 350 or 350S"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
-    "text": "International Business 378 (may fulfill the writing and independent inquiry flags)",
-    "title": "International Business 378 (may fulfill the writing and independent inquiry flag",
+    "type": "course",
+    "course": "I B 378",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/international-business/",
      "quote": "International Business 378 (may fulfill the writing and independent inquiry flags)"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "All international business majors must have an approved international experience, either through a study abroad program or international internship. Approval must be requested through the International Business Canvas Community and must be received before travel. More information about requirements for approval at this website.",
     "title": "All international business majors must have an approved international experience",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/international-business/",
-     "quote": "All international business majors must have an approved international experience, either through a study abroad program or international internship. Approval must be requested through the Internationa"
+     "quote": "All international business majors must have an approved international experience, either through a study abroad program or international internship. Approval must be requested through the International Business Canvas Co"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "The additional requirements of one of the following tracks: Global Business Skills track Twelve hours from the list of International Business elective courses in #6 below.",
     "title": "The additional requirements of one of the following tracks: Global Business Skil",
     "source": {
@@ -60,16 +59,20 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Three hours of upper-division business coursework.",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three hours of upper-division business coursework.",
+    "filter": {
+     "label": "Three hours of upper-division business coursework.",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/international-business/",
      "quote": "Three hours of upper-division business coursework."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Additional elective coursework necessary to provide a total of at least 120 semester hours.",
     "title": "Additional elective coursework necessary to provide a total of at least 120 seme",
     "source": {
@@ -78,7 +81,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Language Skills track Six hours from the list of International Business elective courses in #6 below.",
     "title": "Language Skills track Six hours from the list of International Business elective",
     "source": {
@@ -87,27 +90,35 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Twelve semester hours of coursework in a foreign language associated with the geographic region used to fulfill requirement 4. A minimum of six of the 12 required hours must be at the upper-division level.",
-    "title": "Twelve semester hours of coursework in a foreign language associated with the ge",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve semester hours of coursework in a foreign language associated with the geographic r",
+    "filter": {
+     "label": "Twelve semester hours of coursework in a foreign language associated with the ge",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/international-business/",
-     "quote": "Twelve semester hours of coursework in a foreign language associated with the geographic region used to fulfill requirement 4. A minimum of six of the 12 required hours must be at the upper-division l"
+     "quote": "Twelve semester hours of coursework in a foreign language associated with the geographic region used to fulfill requirement 4. A minimum of six of the 12 required hours must be at the upper-division level."
+    },
+    "umbrella": true
+   },
+   {
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine semester hours of upper-division coursework focused on the specific geographic region",
+    "filter": {
+     "label": "Nine semester hours of upper-division coursework focused on the specific geograp",
+     "division": "upper"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/international-business/",
+     "quote": "Nine semester hours of upper-division coursework focused on the specific geographic region used to fulfill requirement 4. All area studies coursework must be approved by the international business faculty and may be limi"
     }
    },
    {
-    "type": "manual",
-    "text": "Nine semester hours of upper-division coursework focused on the specific geographic region used to fulfill requirement 4. All area studies coursework must be approved by the international business faculty and may be limited by subject matter. More information about area studies coursework can be found at this website.",
-    "title": "Nine semester hours of upper-division coursework focused on the specific geograp",
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/international-business/",
-     "quote": "Nine semester hours of upper-division coursework focused on the specific geographic region used to fulfill requirement 4. All area studies coursework must be approved by the international business fac"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "International Business Major Elective Courses: International Business 360D, International Security,",
-    "title": "International Business Major Elective Courses: International Business 360D, Inte",
+    "type": "course",
+    "course": "I B 360D",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/international-business/",
      "quote": "International Business Major Elective Courses: International Business 360D, International Security,"
@@ -148,9 +159,18 @@
     }
    },
    {
-    "type": "manual",
-    "text": "International Business 375C/Operations Management 375, Supply Chain and Operations Management Strategy",
-    "title": "International Business 375C/Operations Management 375, Supply Chain and Operatio",
+    "type": "all",
+    "title": "International Business 375C/Operations Management 375, Supply Chain and Operations Managem",
+    "of": [
+     {
+      "type": "course",
+      "course": "I B 375C"
+     },
+     {
+      "type": "course",
+      "course": "O M 375"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/international-business/",
      "quote": "International Business 375C/Operations Management 375, Supply Chain and Operations Management Strategy"

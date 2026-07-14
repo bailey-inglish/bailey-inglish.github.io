@@ -16,7 +16,6 @@
   "of": [
    {
     "type": "anyN",
-    "n": 1,
     "title": "Statistics: Statistics and Data Sciences 302F or 320E",
     "of": [
      {
@@ -31,7 +30,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/nutrition/",
      "quote": "Statistics: Statistics and Data Sciences 302F or 320E"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -42,16 +42,61 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Primary science: Nutrition courses: Nutrition 312, 126L, 218, 118L, 326, 307, 107L, 342, 343, 337, and 338W.",
-    "title": "Primary science: Nutrition courses: Nutrition 312, 126L, 218, 118L, 326, 307, 10",
+    "type": "all",
+    "title": "Primary science: Nutrition courses: Nutrition 312, 126L, 218, 118L, 326, 307, 107L, 342, 3",
+    "of": [
+     {
+      "type": "course",
+      "course": "NTR 312"
+     },
+     {
+      "type": "course",
+      "course": "NTR 126L"
+     },
+     {
+      "type": "course",
+      "course": "NTR 218"
+     },
+     {
+      "type": "course",
+      "course": "NTR 118L"
+     },
+     {
+      "type": "course",
+      "course": "NTR 326"
+     },
+     {
+      "type": "course",
+      "course": "NTR 307"
+     },
+     {
+      "type": "course",
+      "course": "NTR 107L"
+     },
+     {
+      "type": "course",
+      "course": "NTR 342"
+     },
+     {
+      "type": "course",
+      "course": "NTR 343"
+     },
+     {
+      "type": "course",
+      "course": "NTR 337"
+     },
+     {
+      "type": "course",
+      "course": "NTR 338W"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/nutrition/",
      "quote": "Primary science: Nutrition courses: Nutrition 312, 126L, 218, 118L, 326, 307, 107L, 342, 343, 337, and 338W."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Six additional semester hours of nutrition coursework.",
     "title": "Six additional semester hours of nutrition coursework.",
     "source": {
@@ -107,6 +152,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BSA",
  "majorSubjects": [
-  "CH"
+  "NTR"
  ]
 }

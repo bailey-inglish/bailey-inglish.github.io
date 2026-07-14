@@ -140,7 +140,7 @@
       "title": "Intermediate language course"
      },
      {
-      "type": "manual",
+      "type": "note",
       "text": "Certified proficiency on a placement or credit-by-exam test.",
       "title": "Certified proficiency by placement/exam"
      }
@@ -151,12 +151,33 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Three semester credit hours in a social science field, in addition to the course taken to satisfy the Social and Behavioral Science requirement of the Core Curriculum.",
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/"
+    "type": "hours",
+    "hours": 3,
+    "filter": {
+     "subjects": [
+      "ANT",
+      "ECO",
+      "GOV",
+      "GRG",
+      "LIN",
+      "PSY",
+      "SOC",
+      "AMS",
+      "WGS",
+      "MAS",
+      "AAS",
+      "AFR",
+      "URB",
+      "CTI",
+      "HDO"
+     ],
+     "label": "Social science coursework"
     },
-    "title": "Social science (approved list on COLA website)"
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/",
+     "quote": "semester credit hours in a social science field"
+    },
+    "title": "Social science (a social science field)"
    },
    {
     "type": "hours",
@@ -180,10 +201,34 @@
     "title": "Mathematics (beyond college algebra)"
    },
    {
-    "type": "manual",
-    "text": "Cultural expression, human experience, and thought: Three semester hours chosen from a list of approved courses.",
+    "type": "hours",
+    "hours": 3,
+    "filter": {
+     "subjects": [
+      "AHC",
+      "ARH",
+      "C C",
+      "CL",
+      "CTI",
+      "E",
+      "CMS",
+      "F",
+      "GSD",
+      "HMN",
+      "MUS",
+      "PHL",
+      "R S",
+      "T D",
+      "AET",
+      "VAS",
+      "GRG",
+      "LIN"
+     ],
+     "label": "Cultural expression / human experience / thought"
+    },
     "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/"
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/",
+     "quote": "Cultural expression, human experience, and thought"
     },
     "title": "Cultural expression, human experience, and thought"
    },
@@ -200,7 +245,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "All students pursuing a major under the BA Plan I, with the exception of International Relations and Global Studies majors, must complete a minor.",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/"

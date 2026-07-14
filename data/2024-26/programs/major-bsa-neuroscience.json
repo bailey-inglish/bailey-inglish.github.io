@@ -16,7 +16,6 @@
   "of": [
    {
     "type": "anyN",
-    "n": 1,
     "title": "Mathematics: Mathematics 408C, or 408N and 408S, or 408R and 408S",
     "of": [
      {
@@ -43,7 +42,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/neuroscience/",
      "quote": "Mathematics: Mathematics 408C, or 408N and 408S, or 408R and 408S"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -51,32 +51,6 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/neuroscience/",
      "quote": "Statistics and Data Sciences 320E"
-    }
-   },
-   {
-    "type": "all",
-    "title": "Primary science: Biology 206L and one of the following sequences: Biology 311C, 311D, 325",
-    "of": [
-     {
-      "type": "course",
-      "course": "BIO 206L"
-     },
-     {
-      "type": "course",
-      "course": "BIO 311C"
-     },
-     {
-      "type": "course",
-      "course": "BIO 311D"
-     },
-     {
-      "type": "course",
-      "course": "BIO 325"
-     }
-    ],
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/neuroscience/",
-     "quote": "Primary science: Biology 206L and one of the following sequences: Biology 311C, 311D, 325"
     }
    },
    {
@@ -122,30 +96,75 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Twelve additional semester hours of neuroscience, chosen from: Integrative Biology 353S, 359K, Neuroscience 170C, 270C, 337, 361T, 365D, 365E, 365L, 365M, 365N, 365P, 365T, 365W, 366C, 366D, 366L, 366R, 366S, 367C, 367F, 367S, 367V, 377, 379H, and 466G. The research topic in Neuroscience 379H must relate to neuroscience and be approved in advance by the faculty advisor.",
-    "title": "Twelve additional semester hours of neuroscience, chosen from: Integrative Biolo",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve additional semester hours of neuroscience, chosen from: Integrative Biology 353S, 3",
+    "filter": {
+     "label": "Twelve additional semester hours of neuroscience, chosen from: Integrative Biolo",
+     "courses": [
+      "INB 353S",
+      "INB 359K",
+      "NEU 170C",
+      "NEU 270C",
+      "NEU 337",
+      "NEU 361T",
+      "NEU 365D",
+      "NEU 365E",
+      "NEU 365L",
+      "NEU 365M",
+      "NEU 365N",
+      "NEU 365P",
+      "NEU 365T",
+      "NEU 365W",
+      "NEU 366C",
+      "NEU 366D",
+      "NEU 366L",
+      "NEU 366R",
+      "NEU 366S",
+      "NEU 367C",
+      "NEU 367F",
+      "NEU 367S",
+      "NEU 367V",
+      "NEU 377",
+      "NEU 379H",
+      "NEU 466G",
+      "NEU 379H"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/neuroscience/",
-     "quote": "Twelve additional semester hours of neuroscience, chosen from: Integrative Biology 353S, 359K, Neuroscience 170C, 270C, 337, 361T, 365D, 365E, 365L, 365M, 365N, 365P, 365T, 365W, 366C, 366D, 366L, 366"
-    }
+     "quote": "Twelve additional semester hours of neuroscience, chosen from: Integrative Biology 353S, 359K, Neuroscience 170C, 270C, 337, 361T, 365D, 365E, 365L, 365M, 365N, 365P, 365T, 365W, 366C, 366D, 366L, 366R, 366S, 367C, 367F,"
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "Secondary science: Chemistry 301 or 301C, 302 or 302C, and 204",
+    "type": "all",
     "title": "Secondary science: Chemistry 301 or 301C, 302 or 302C, and 204",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 301"
+     },
+     {
+      "type": "course",
+      "course": "CH 301C"
+     },
+     {
+      "type": "course",
+      "course": "CH 302"
+     },
+     {
+      "type": "course",
+      "course": "CH 302C"
+     },
+     {
+      "type": "course",
+      "course": "CH 204"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/neuroscience/",
      "quote": "Secondary science: Chemistry 301 or 301C, 302 or 302C, and 204"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "One of the following physics sequences: Physics 317K, 105M, 317L, 105N",
-    "title": "One of the following physics sequences: Physics 317K, 105M, 317L, 105N",
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/neuroscience/",
-     "quote": "One of the following physics sequences: Physics 317K, 105M, 317L, 105N"
     }
    },
    {
@@ -206,6 +225,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BSA",
  "majorSubjects": [
-  "PHY"
+  "NEU"
  ]
 }

@@ -14,25 +14,102 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Students may also seek admission to the Canfield Business Honors Program during the spring semester of their freshman year to begin taking courses as a sophomore. To be considered for admission, the student must have completed in the fall and spring semesters of the freshman year at least 24 semester hours of college-level coursework; this coursework must include Economics 304K and 304L or equivalent, Mathematics 408Q, or Mathematics 408R when taken in residence, or Mathematics 408K and 408L, or Mathematics 408N and 408S or Mathematics 408C and 408D, or the equivalent. The Canfield Business Honors Program Committee considers the student’s grade point average in courses taken in residence at the University and the number, type, and rigor of the courses the student has taken at the University. Students will also be evaluated based upon evidence of their extracurricular activities and leadership abilities. An applicant’s disciplinary record, as maintained by the Office of the Dean of Students, will be reviewed for academic dishonesty or other violations of University policy. Violations will be reported to the Admissions Committee and taken into account as part of the application process. Violations may exclude a student from admission depending on the nature and severity of the offense(s).",
-    "title": "Students may also seek admission to the Canfield Business Honors Program during ",
+    "type": "all",
+    "title": "Students may also seek admission to the Canfield Business Honors Program during the spring",
+    "of": [
+     {
+      "type": "course",
+      "course": "ECO 304K"
+     },
+     {
+      "type": "course",
+      "course": "ECO 304L"
+     },
+     {
+      "type": "course",
+      "course": "M 408Q"
+     },
+     {
+      "type": "course",
+      "course": "M 408R"
+     },
+     {
+      "type": "course",
+      "course": "M 408K"
+     },
+     {
+      "type": "course",
+      "course": "M 408L"
+     },
+     {
+      "type": "course",
+      "course": "M 408N"
+     },
+     {
+      "type": "course",
+      "course": "M 408S"
+     },
+     {
+      "type": "course",
+      "course": "M 408C"
+     },
+     {
+      "type": "course",
+      "course": "M 408D"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
-     "quote": "Students may also seek admission to the Canfield Business Honors Program during the spring semester of their freshman year to begin taking courses as a sophomore. To be considered for admission, the s"
+     "quote": "Students may also seek admission to the Canfield Business Honors Program during the spring semester of their freshman year to begin taking courses as a sophomore. To be considered for admission, the student must have com"
     }
    },
    {
-    "type": "manual",
-    "text": "Students applying to the Canfield Business Honors Program are permitted to have received credit for Business Administration 101S and/or Management Information Systems 301; however, no credit will be accepted for other courses normally taken as part of the honors core.",
-    "title": "Students applying to the Canfield Business Honors Program are permitted to have ",
+    "type": "all",
+    "title": "Students applying to the Canfield Business Honors Program are permitted to have received c",
+    "of": [
+     {
+      "type": "course",
+      "course": "B A 101S"
+     },
+     {
+      "type": "course",
+      "course": "MIS 301"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
-     "quote": "Students applying to the Canfield Business Honors Program are permitted to have received credit for Business Administration 101S and/or Management Information Systems 301; however, no credit will be a"
+     "quote": "Students applying to the Canfield Business Honors Program are permitted to have received credit for Business Administration 101S and/or Management Information Systems 301; however, no credit will be accepted for other co"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
+    "text": "Application materials and information about deadlines are available at https://www.mccombs.utexas.edu/CBHP.",
+    "title": "Application materials and information about deadlines are available at https://w",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
+     "quote": "Application materials and information about deadlines are available at https://www.mccombs.utexas.edu/CBHP."
+    }
+   },
+   {
+    "type": "note",
+    "text": "A student who enters the Canfield Business Honors Program as a freshman must have a grade point average of at least 3.25 on the courses taken in residence during the fall and spring semesters of the first year to continue in the program. The student must complete at least 12 semester hours in residence on the letter-grade basis during each of those two semesters. After the freshman year, each stud",
+    "title": "A student who enters the Canfield Business Honors Program as a freshman must hav",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
+     "quote": "A student who enters the Canfield Business Honors Program as a freshman must have a grade point average of at least 3.25 on the courses taken in residence during the fall and spring semesters of the first year to continu"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Violations of the University’s policies on academic integrity or non-academic conduct can lead to dismissal from the Canfield Business Honors Program.",
+    "title": "Violations of the University’s policies on academic integrity or non-academic co",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
+     "quote": "Violations of the University’s policies on academic integrity or non-academic conduct can lead to dismissal from the Canfield Business Honors Program."
+    }
+   },
+   {
+    "type": "note",
     "text": "To graduate under the Canfield Business Honors Program, the student must earn a University grade point average of at least 3.25 and a grade point average of at least 3.25 in business courses.",
     "title": "To graduate under the Canfield Business Honors Program, the student must earn a ",
     "source": {
@@ -41,18 +118,16 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Completion of the following business core courses and other business courses in special Honors Program sections: Accounting 311H (may fulfill the quantitative reasoning flag)",
-    "title": "Completion of the following business core courses and other business courses in ",
+    "type": "course",
+    "course": "ACC 311H",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
      "quote": "Completion of the following business core courses and other business courses in special Honors Program sections: Accounting 311H (may fulfill the quantitative reasoning flag)"
     }
    },
    {
-    "type": "manual",
-    "text": "Accounting 312H (may fulfill the quantitative reasoning flag)",
-    "title": "Accounting 312H (may fulfill the quantitative reasoning flag)",
+    "type": "course",
+    "course": "ACC 312H",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
      "quote": "Accounting 312H (may fulfill the quantitative reasoning flag)"
@@ -76,7 +151,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Business Administration 324H or Communication 324H (may fulfill the writing flag)",
     "of": [
      {
@@ -91,7 +165,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
      "quote": "Business Administration 324H or Communication 324H (may fulfill the writing flag)"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -110,14 +185,8 @@
     }
    },
    {
-    "type": "all",
-    "title": "Legal Environment of Business 323H (may fulfill the ethics flag)",
-    "of": [
-     {
-      "type": "course",
-      "course": "LEB 323H"
-     }
-    ],
+    "type": "course",
+    "course": "LEB 323H",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
      "quote": "Legal Environment of Business 323H (may fulfill the ethics flag)"
@@ -132,14 +201,8 @@
     }
    },
    {
-    "type": "all",
-    "title": "Management 336H(may fulfill the ethics flag)",
-    "of": [
-     {
-      "type": "course",
-      "course": "MAN 336H"
-     }
-    ],
+    "type": "course",
+    "course": "MAN 336H",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
      "quote": "Management 336H(may fulfill the ethics flag)"
@@ -154,9 +217,8 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Management 374H (may fufill the writing and independent inquiry flags)",
-    "title": "Management 374H (may fufill the writing and independent inquiry flags)",
+    "type": "course",
+    "course": "MAN 374H",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
      "quote": "Management 374H (may fufill the writing and independent inquiry flags)"
@@ -195,25 +257,28 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Statistics 235H (may fulfill the quantitative reasoning flag)",
-    "title": "Statistics 235H (may fulfill the quantitative reasoning flag)",
+    "type": "course",
+    "course": "STA 235H",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
      "quote": "Statistics 235H (may fulfill the quantitative reasoning flag)"
     }
    },
    {
-    "type": "manual",
-    "text": "Six semester hours of upper-division business electives",
+    "type": "hours",
+    "hours": 6.0,
     "title": "Six semester hours of upper-division business electives",
+    "filter": {
+     "label": "Six semester hours of upper-division business electives",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
      "quote": "Six semester hours of upper-division business electives"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Additional elective coursework, if necessary, to provide a total of at least 120 semester hours",
     "title": "Additional elective coursework, if necessary, to provide a total of at least 120",
     "source": {
@@ -222,21 +287,39 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "To graduate under the CSB Honors Program, the student must earn a University grade point average of at least 3.25 and a grade point average of at least 3.25 in business courses and a grade point of average of at least 3.25 in computer science courses. A candidate for any degree must be enrolled at The University of Texas at Austin in the semester or summer session in which the degree is awarded.",
     "title": "To graduate under the CSB Honors Program, the student must earn a University gra",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
-     "quote": "To graduate under the CSB Honors Program, the student must earn a University grade point average of at least 3.25 and a grade point average of at least 3.25 in business courses and a grade point of av"
+     "quote": "To graduate under the CSB Honors Program, the student must earn a University grade point average of at least 3.25 and a grade point average of at least 3.25 in business courses and a grade point of average of at least 3."
     }
    },
    {
-    "type": "manual",
-    "text": "To graduate under the ECB program, the student must earn a university grade point average of at least 3.25, and a grade point average of at least 3.25 in business courses, and a grade point average of at least a 3.3 in Electrical and Computer Engineering courses. A candidate for any degree must be enrolled at The University of Texas at Austin in the semester or summer session in which the degree is awarded.",
+    "type": "note",
+    "text": "Students in CSB must satisfy the University’s Core Curriculum and degree requirements for a B.S. in Computer Science and for a B.B.A.; combined degree requirements below. If students later elect to complete only one degree, they must consult their academic advisor(s) and fulfill all degree requirements.",
+    "title": "Students in CSB must satisfy the University’s Core Curriculum and degree require",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
+     "quote": "Students in CSB must satisfy the University’s Core Curriculum and degree requirements for a B.S. in Computer Science and for a B.B.A.; combined degree requirements below. If students later elect to complete only one degr"
+    }
+   },
+   {
+    "type": "note",
+    "text": "To graduate under the ECB program, the student must earn a university grade point average of at least 3.25, and a grade point average of at least 3.25 in business courses, and a grade point average of at least a 3.3 in Electrical and Computer Engineering courses. A candidate for any degree must be enrolled at The University of Texas at Austin in the semester or summer session in which the degree i",
     "title": "To graduate under the ECB program, the student must earn a university grade poin",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
-     "quote": "To graduate under the ECB program, the student must earn a university grade point average of at least 3.25, and a grade point average of at least 3.25 in business courses, and a grade point average of"
+     "quote": "To graduate under the ECB program, the student must earn a university grade point average of at least 3.25, and a grade point average of at least 3.25 in business courses, and a grade point average of at least a 3.3 in E"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Students in the ECB program must satisfy the university Core Curriculum and the combined degree requirements for a Bachelor of Science in Electrical and Computer Engineering with the ECE Honors transcript distinction and a Bachelor in Business Administration. If students later elect to complete only one degree, they must consult their academic advisor(s) and fulfill all degree requirements.",
+    "title": "Students in the ECB program must satisfy the university Core Curriculum and the ",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
+     "quote": "Students in the ECB program must satisfy the university Core Curriculum and the combined degree requirements for a Bachelor of Science in Electrical and Computer Engineering with the ECE Honors transcript distinction and"
     }
    },
    {
@@ -246,30 +329,140 @@
     "of": [
      {
       "type": "all",
+      "title": "Academic Standards",
+      "of": [
+       {
+        "type": "note",
+        "text": "A student who enters CSB as a freshman must have a grade point average of at least 3.25 on the courses taken in residence during the fall and spring semesters of the first year to continue in the program. The student must complete at least 12 semester hours in residence on the letter-grade basis during each of those two semesters. After the freshman year, each student is dismissed from the program",
+        "title": "A student who enters CSB as a freshman must have a grade point average of at lea",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
+         "quote": "A student who enters CSB as a freshman must have a grade point average of at least 3.25 on the courses taken in residence during the fall and spring semesters of the first year to continue in the program. The student mus"
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
       "title": "Degree Requirements",
       "of": [
        {
-        "type": "manual",
-        "text": "Mathematics 408C and 408D, or 408N, 408S, and 408M; either 340L or 341 or Statistics and Data Sciences 329C; and Statistics and Data Sciences 321",
-        "title": "Mathematics 408C and 408D, or 408N, 408S, and 408M; either 340L or 341 or Statis",
+        "type": "all",
+        "title": "Mathematics 408C and 408D, or 408N, 408S, and 408M; either 340L or 341 or Statistics and D",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408C"
+         },
+         {
+          "type": "course",
+          "course": "M 408D"
+         },
+         {
+          "type": "course",
+          "course": "M 408N"
+         },
+         {
+          "type": "course",
+          "course": "M 408S"
+         },
+         {
+          "type": "course",
+          "course": "M 408M"
+         },
+         {
+          "type": "course",
+          "course": "M 340L"
+         },
+         {
+          "type": "course",
+          "course": "M 341"
+         },
+         {
+          "type": "course",
+          "course": "SDS 329C"
+         },
+         {
+          "type": "course",
+          "course": "SDS 321"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Mathematics 408C and 408D, or 408N, 408S, and 408M; either 340L or 341 or Statistics and Data Sciences 329C; and Statistics and Data Sciences 321"
         }
        },
        {
-        "type": "manual",
-        "text": "Chemistry 301 or CH 301H, and 302 or CH 302H",
+        "type": "all",
         "title": "Chemistry 301 or CH 301H, and 302 or CH 302H",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 301"
+         },
+         {
+          "type": "course",
+          "course": "CH 302"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Chemistry 301 or CH 301H, and 302 or CH 302H"
         }
        },
        {
-        "type": "manual",
-        "text": "Physics 303K and 103M, 301 and 101L or 317K and 117M; and 303L and 103N, 316 and 116L, or 317L and 117N.",
-        "title": "Physics 303K and 103M, 301 and 101L or 317K and 117M; and 303L and 103N, 316 and",
+        "type": "all",
+        "title": "Physics 303K and 103M, 301 and 101L or 317K and 117M; and 303L and 103N, 316 and 116L, or ",
+        "of": [
+         {
+          "type": "course",
+          "course": "PHY 303K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 103M"
+         },
+         {
+          "type": "course",
+          "course": "PHY 301"
+         },
+         {
+          "type": "course",
+          "course": "PHY 101L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 317K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 117M"
+         },
+         {
+          "type": "course",
+          "course": "PHY 303L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 103N"
+         },
+         {
+          "type": "course",
+          "course": "PHY 316"
+         },
+         {
+          "type": "course",
+          "course": "PHY 116L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 317L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 117N"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Physics 303K and 103M, 301 and 101L or 317K and 117M; and 303L and 103N, 316 and 116L, or 317L and 117N."
@@ -294,30 +487,21 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Three semester hours of coursework in anthropology, psychology, educational psychology, or sociology, chosen from approved courses; courses dealing primarily with statistics or data processing may not be used to fulfill this requirement. Social Science 302C, 302D, 302E, and 302F (for Plan II dual majors only), are also accepted. A list of coursework can be found in the Canfield Business Honors academic advising office.",
-        "title": "Three semester hours of coursework in anthropology, psychology, educational psyc",
+        "type": "hours",
+        "hours": 3.0,
+        "title": "Three semester hours of coursework in anthropology, psychology, educational psychology, or",
+        "filter": {
+         "label": "Three semester hours of coursework in anthropology, psychology, educational psyc",
+         "courses": [
+          "S S 302C",
+          "S S 302D",
+          "S S 302E",
+          "S S 302F"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
-         "quote": "Three semester hours of coursework in anthropology, psychology, educational psychology, or sociology, chosen from approved courses; courses dealing primarily with statistics or data processing may not"
-        }
-       },
-       {
-        "type": "all",
-        "title": "The following courses in computer science: Theory: Computer Science 311H, 331H",
-        "of": [
-         {
-          "type": "course",
-          "course": "C S 311H"
-         },
-         {
-          "type": "course",
-          "course": "C S 331H"
-         }
-        ],
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
-         "quote": "The following courses in computer science: Theory: Computer Science 311H, 331H"
+         "quote": "Three semester hours of coursework in anthropology, psychology, educational psychology, or sociology, chosen from approved courses; courses dealing primarily with statistics or data processing may not be used to fulfill "
         }
        },
        {
@@ -347,27 +531,30 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Twelve additional hours of upper-division courses in computer science of which six hours must carry the honors designation.",
-        "title": "Twelve additional hours of upper-division courses in computer science of which s",
+        "type": "hours",
+        "hours": 12.0,
+        "title": "Twelve additional hours of upper-division courses in computer science of which six hours m",
+        "filter": {
+         "label": "Twelve additional hours of upper-division courses in computer science of which s",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Twelve additional hours of upper-division courses in computer science of which six hours must carry the honors designation."
-        }
+        },
+        "umbrella": true
        },
        {
-        "type": "manual",
-        "text": "Completion of the following business core courses and other business courses in special Honors Program sections: Accounting 311H (may fulfill the quantitative reasoning flag)",
-        "title": "Completion of the following business core courses and other business courses in ",
+        "type": "course",
+        "course": "ACC 311H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Completion of the following business core courses and other business courses in special Honors Program sections: Accounting 311H (may fulfill the quantitative reasoning flag)"
         }
        },
        {
-        "type": "manual",
-        "text": "Accounting 312H (may fulfill the quantitative reasoning flag)",
-        "title": "Accounting 312H (may fulfill the quantitative reasoning flag)",
+        "type": "course",
+        "course": "ACC 312H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Accounting 312H (may fulfill the quantitative reasoning flag)"
@@ -399,7 +586,6 @@
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "Business Administration 324 or Communication 324H (may fulfill the writing flag)",
         "of": [
          {
@@ -414,7 +600,8 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Business Administration 324 or Communication 324H (may fulfill the writing flag)"
-        }
+        },
+        "n": 1
        },
        {
         "type": "course",
@@ -449,14 +636,8 @@
         }
        },
        {
-        "type": "all",
-        "title": "Management 336H (may fulfill the ethics flag)",
-        "of": [
-         {
-          "type": "course",
-          "course": "MAN 336H"
-         }
-        ],
+        "type": "course",
+        "course": "MAN 336H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Management 336H (may fulfill the ethics flag)"
@@ -471,9 +652,8 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Management 374H (may fulfill the writing and independent inquiry flags)",
-        "title": "Management 374H (may fulfill the writing and independent inquiry flags)",
+        "type": "course",
+        "course": "MAN 374H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Management 374H (may fulfill the writing and independent inquiry flags)"
@@ -504,21 +684,29 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Statistics 235H (may fulfill the quantitative reasoning flag)",
-        "title": "Statistics 235H (may fulfill the quantitative reasoning flag)",
+        "type": "course",
+        "course": "STA 235H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Statistics 235H (may fulfill the quantitative reasoning flag)"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "This dual major requires 124 hours for completion of both degrees",
         "title": "This dual major requires 124 hours for completion of both degrees",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "This dual major requires 124 hours for completion of both degrees"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Honors Electrical and Computer Engineering and Business (ECB) is a dual degree program between the Canfield Business Honors Program (Canfield BHP) and the Department of Electrical and Computer Engineering (ECE). The dual degree program's four-year undergraduate curriculum is aimed at preparing students for engineering and business careers. Students must successfully complete all requirements for b",
+        "title": "Honors Electrical and Computer Engineering and Business (ECB) is a dual degree p",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
+         "quote": "Honors Electrical and Computer Engineering and Business (ECB) is a dual degree program between the Canfield Business Honors Program (Canfield BHP) and the Department of Electrical and Computer Engineering (ECE). The dual"
         }
        }
       ]
@@ -528,12 +716,30 @@
       "title": "Academic Standards",
       "of": [
        {
-        "type": "manual",
-        "text": "A student who enters ECB as a freshman must have a grade point average of at least 3.25 on the Canfield BHP courses taken in residence during the fall and spring semesters of the first year to continue in the program. An ECB student must maintain a 3.3 in their ECE courses (honors and non-honors) and must be in good standing according to current policies of the ECE department and Canfield BHP. Students must complete at least 12 semester hours in residence on a letter-grade basis during the fall and spring semesters of the first year.",
+        "type": "note",
+        "text": "A student who enters ECB as a freshman must have a grade point average of at least 3.25 on the Canfield BHP courses taken in residence during the fall and spring semesters of the first year to continue in the program. An ECB student must maintain a 3.3 in their ECE courses (honors and non-honors) and must be in good standing according to current policies of the ECE department and Canfield BHP. Stu",
         "title": "A student who enters ECB as a freshman must have a grade point average of at lea",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
-         "quote": "A student who enters ECB as a freshman must have a grade point average of at least 3.25 on the Canfield BHP courses taken in residence during the fall and spring semesters of the first year to continu"
+         "quote": "A student who enters ECB as a freshman must have a grade point average of at least 3.25 on the Canfield BHP courses taken in residence during the fall and spring semesters of the first year to continue in the program. An"
+        }
+       },
+       {
+        "type": "note",
+        "text": "After freshman year, students are dismissed from the program if their overall business GPA drops below 3.25 or ECE GPA drops below a 3.3. Students failing to meet these requirements will be placed on probation for one semester, and then dismissed from the ECB program if they fail to improve their GPA. Students dismissed from the honors program become part of their first-choice major indicated on t",
+        "title": "After freshman year, students are dismissed from the program if their overall bu",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
+         "quote": "After freshman year, students are dismissed from the program if their overall business GPA drops below 3.25 or ECE GPA drops below a 3.3. Students failing to meet these requirements will be placed on probation for one se"
+        }
+       },
+       {
+        "type": "note",
+        "text": "In addition to this grade point average requirement, students must know and abide by the academic and disciplinary policies given in this catalog and in the General Information Catalog. Those who fail to do so will be considered for academic dismissal from the program. Under special circumstances, and at the discretion of the ECB program committee, a student will be allowed to continue in the prog",
+        "title": "In addition to this grade point average requirement, students must know and abid",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
+         "quote": "In addition to this grade point average requirement, students must know and abide by the academic and disciplinary policies given in this catalog and in the General Information Catalog. Those who fail to do so will be co"
         }
        }
       ]
@@ -543,18 +749,96 @@
       "title": "Degree Requirements",
       "of": [
        {
-        "type": "manual",
-        "text": "Mathematics 408C and 408D, or 408K, 408L, and 408M; 340L, and 427J.",
+        "type": "all",
         "title": "Mathematics 408C and 408D, or 408K, 408L, and 408M; 340L, and 427J.",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408C"
+         },
+         {
+          "type": "course",
+          "course": "M 408D"
+         },
+         {
+          "type": "course",
+          "course": "M 408K"
+         },
+         {
+          "type": "course",
+          "course": "M 408L"
+         },
+         {
+          "type": "course",
+          "course": "M 408M"
+         },
+         {
+          "type": "course",
+          "course": "M 340L"
+         },
+         {
+          "type": "course",
+          "course": "M 427J"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Mathematics 408C and 408D, or 408K, 408L, and 408M; 340L, and 427J."
         }
        },
        {
-        "type": "manual",
-        "text": "Physics 303K and 105M, 301 and 101L or 317K and 117M; and 303L and 105N, 316 and 116L, or 317L and 117N.",
-        "title": "Physics 303K and 105M, 301 and 101L or 317K and 117M; and 303L and 105N, 316 and",
+        "type": "all",
+        "title": "Physics 303K and 105M, 301 and 101L or 317K and 117M; and 303L and 105N, 316 and 116L, or ",
+        "of": [
+         {
+          "type": "course",
+          "course": "PHY 303K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 105M"
+         },
+         {
+          "type": "course",
+          "course": "PHY 301"
+         },
+         {
+          "type": "course",
+          "course": "PHY 101L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 317K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 117M"
+         },
+         {
+          "type": "course",
+          "course": "PHY 303L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 105N"
+         },
+         {
+          "type": "course",
+          "course": "PHY 316"
+         },
+         {
+          "type": "course",
+          "course": "PHY 116L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 317L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 117N"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Physics 303K and 105M, 301 and 101L or 317K and 117M; and 303L and 105N, 316 and 116L, or 317L and 117N."
@@ -579,81 +863,121 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Three semester hours of coursework in anthropology, psychology, educational psychology, or sociology with a primary focus other than statistics or data processing. Courses dealing primarily with statistics or data processing may not be used to fulfill this requirement. Social Science 302C, 302D, 302E, and 302F (for Plan II dual majors only), are also accepted. A list of coursework can be found in the Canfield Business Honors academic advising office.",
-        "title": "Three semester hours of coursework in anthropology, psychology, educational psyc",
+        "type": "hours",
+        "hours": 3.0,
+        "title": "Three semester hours of coursework in anthropology, psychology, educational psychology, or",
+        "filter": {
+         "label": "Three semester hours of coursework in anthropology, psychology, educational psyc",
+         "courses": [
+          "S S 302C",
+          "S S 302D",
+          "S S 302E",
+          "S S 302F"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
-         "quote": "Three semester hours of coursework in anthropology, psychology, educational psychology, or sociology with a primary focus other than statistics or data processing. Courses dealing primarily with stati"
+         "quote": "Three semester hours of coursework in anthropology, psychology, educational psychology, or sociology with a primary focus other than statistics or data processing. Courses dealing primarily with statistics or data proces"
         }
        },
        {
-        "type": "manual",
-        "text": "Students must take and successfully complete at least sixteen (16) hours of ECE Honors courses. Electrical and Computer Engineering 302H and 319H in their first year.",
-        "title": "Students must take and successfully complete at least sixteen (16) hours of ECE ",
+        "type": "all",
+        "title": "Students must take and successfully complete at least sixteen (16) hours of ECE Honors cou",
+        "of": [
+         {
+          "type": "course",
+          "course": "ECE 302H"
+         },
+         {
+          "type": "course",
+          "course": "ECE 319H"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Students must take and successfully complete at least sixteen (16) hours of ECE Honors courses. Electrical and Computer Engineering 302H and 319H in their first year."
         }
        },
        {
-        "type": "manual",
-        "text": "Additional courses to be used towards the ECE Honors program include:Electrical and Computer Engineering 312H and 464H.",
-        "title": "Additional courses to be used towards the ECE Honors program include:Electrical ",
+        "type": "all",
+        "title": "Additional courses to be used towards the ECE Honors program include:Electrical and Comput",
+        "of": [
+         {
+          "type": "course",
+          "course": "ECE 312H"
+         },
+         {
+          "type": "course",
+          "course": "ECE 464H"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Additional courses to be used towards the ECE Honors program include:Electrical and Computer Engineering 312H and 464H."
         }
        },
        {
-        "type": "manual",
-        "text": "Students in the ECB Honors Program must complete all ECE curriculum requirements and a minimum of 125 hours. Please refer to the Engineering “Degrees and Programs” section of this catalog for technical course options within each linked degree major program. 17 hours of business honors courses that substitute for ECE courses required for the ECE degree: Business Administration 324H (substitutes for Electrical and Computer Engineering 333T)",
-        "title": "Students in the ECB Honors Program must complete all ECE curriculum requirements",
+        "type": "note",
+        "text": "Approved ECE Graduate Courses used as part of the ECE Undergraduate Degree may also be counted/substituted. Note that this does not apply for graduate courses taken for graduate credit as part of a graduate or integrated BSECE/MSECE program.",
+        "title": "Approved ECE Graduate Courses used as part of the ECE Undergraduate Degree may a",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
-         "quote": "Students in the ECB Honors Program must complete all ECE curriculum requirements and a minimum of 125 hours. Please refer to the Engineering “Degrees and Programs” section of this catalog for technica"
+         "quote": "Approved ECE Graduate Courses used as part of the ECE Undergraduate Degree may also be counted/substituted. Note that this does not apply for graduate courses taken for graduate credit as part of a graduate or integrated"
         }
        },
        {
-        "type": "manual",
-        "text": "Accounting 311H (substitutes for ECE lower-division elective)",
-        "title": "Accounting 311H (substitutes for ECE lower-division elective)",
+        "type": "all",
+        "title": "Students in the ECB Honors Program must complete all ECE curriculum requirements and a min",
+        "of": [
+         {
+          "type": "course",
+          "course": "B A 324H"
+         },
+         {
+          "type": "course",
+          "course": "ECE 333T"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
+         "quote": "Students in the ECB Honors Program must complete all ECE curriculum requirements and a minimum of 125 hours. Please refer to the Engineering “Degrees and Programs” section of this catalog for technical course options wit"
+        }
+       },
+       {
+        "type": "course",
+        "course": "ACC 311H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Accounting 311H (substitutes for ECE lower-division elective)"
         }
        },
        {
-        "type": "manual",
-        "text": "Statistics 235H (substitutes for ECE advanced math or basic science)",
-        "title": "Statistics 235H (substitutes for ECE advanced math or basic science)",
+        "type": "course",
+        "course": "STA 235H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Statistics 235H (substitutes for ECE advanced math or basic science)"
         }
        },
        {
-        "type": "manual",
-        "text": "Finance 357H (substitutes for ECE technical elective)",
-        "title": "Finance 357H (substitutes for ECE technical elective)",
+        "type": "course",
+        "course": "FIN 357H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Finance 357H (substitutes for ECE technical elective)"
         }
        },
        {
-        "type": "manual",
-        "text": "Management 336H (substitutes for ECE free elective)",
-        "title": "Management 336H (substitutes for ECE free elective)",
+        "type": "course",
+        "course": "MAN 336H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Management 336H (substitutes for ECE free elective)"
         }
        },
        {
-        "type": "manual",
-        "text": "Management 327H (substitutes for ECE free elective)",
-        "title": "Management 327H (substitutes for ECE free elective)",
+        "type": "course",
+        "course": "MAN 327H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Management 327H (substitutes for ECE free elective)"
@@ -682,16 +1006,16 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Advance technical component within an identified component area: two component area courses (six to seven hours), one component laboratory course (four hours), one advanced mathematics course (three to four hours).",
         "title": "Advance technical component within an identified component area: two component a",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
-         "quote": "Advance technical component within an identified component area: two component area courses (six to seven hours), one component laboratory course (four hours), one advanced mathematics course (three t"
+         "quote": "Advance technical component within an identified component area: two component area courses (six to seven hours), one component laboratory course (four hours), one advanced mathematics course (three to four hours)."
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Three (nine hours of) Electrical and Computer Engineering advanced technical elective courses.",
         "title": "Three (nine hours of) Electrical and Computer Engineering advanced technical ele",
         "source": {
@@ -700,27 +1024,24 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Advanced technical elective: Within any core of Electrical and Computer Engineering: one upper-division electrical and computer engineering course (or ECE 316) (three to four hours).",
-        "title": "Advanced technical elective: Within any core of Electrical and Computer Engineer",
+        "type": "course",
+        "course": "ECE 316",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Advanced technical elective: Within any core of Electrical and Computer Engineering: one upper-division electrical and computer engineering course (or ECE 316) (three to four hours)."
         }
        },
        {
-        "type": "manual",
-        "text": "Completion of the following business core courses and other business courses in special Honors Program sections: Accounting 311H (may fulfill the quantitative reasoning flag)",
-        "title": "Completion of the following business core courses and other business courses in ",
+        "type": "course",
+        "course": "ACC 311H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Completion of the following business core courses and other business courses in special Honors Program sections: Accounting 311H (may fulfill the quantitative reasoning flag)"
         }
        },
        {
-        "type": "manual",
-        "text": "Accounting 312H (may fulfill the quantitative reasoning flag)",
-        "title": "Accounting 312H (may fulfill the quantitative reasoning flag)",
+        "type": "course",
+        "course": "ACC 312H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Accounting 312H (may fulfill the quantitative reasoning flag)"
@@ -743,17 +1064,7 @@
         }
        },
        {
-        "type": "manual",
-        "text": "A professional, business-related experiential learning course chosen from the following: Accounting 366P, Business Administration 353 653, 366P, Finance 366P, Management 347P, 366P, 367P, 369P, Management Information Systems 366P, Marketing 366P, Operations Management 366P. Only one of the following courses may be counted toward the degree: Business Administration 353 or 653.",
-        "title": "A professional, business-related experiential learning course chosen from the fo",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
-         "quote": "A professional, business-related experiential learning course chosen from the following: Accounting 366P, Business Administration 353 653, 366P, Finance 366P, Management 347P, 366P, 367P, 369P, Manage"
-        }
-       },
-       {
         "type": "anyN",
-        "n": 1,
         "title": "Business Administration 324H or Communication 324H (may fulfill the writing flag)",
         "of": [
          {
@@ -768,7 +1079,8 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Business Administration 324H or Communication 324H (may fulfill the writing flag)"
-        }
+        },
+        "n": 1
        },
        {
         "type": "course",
@@ -803,14 +1115,8 @@
         }
        },
        {
-        "type": "all",
-        "title": "Management 336H (may fulfill the ethics flag)",
-        "of": [
-         {
-          "type": "course",
-          "course": "MAN 336H"
-         }
-        ],
+        "type": "course",
+        "course": "MAN 336H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Management 336H (may fulfill the ethics flag)"
@@ -825,9 +1131,8 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Management 374H (may fulfill the writing and independent inquiry flags)",
-        "title": "Management 374H (may fulfill the writing and independent inquiry flags)",
+        "type": "course",
+        "course": "MAN 374H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Management 374H (may fulfill the writing and independent inquiry flags)"
@@ -866,16 +1171,15 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Statistics 235H (may fulfill the quantitative reasoning flag)",
-        "title": "Statistics 235H (may fulfill the quantitative reasoning flag)",
+        "type": "course",
+        "course": "STA 235H",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/business/degrees-and-programs/bachelor-of-business-administration/business-honors-program/",
          "quote": "Statistics 235H (may fulfill the quantitative reasoning flag)"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "This dual major program requires 155 hours for completion of both degrees.",
         "title": "This dual major program requires 155 hours for completion of both degrees.",
         "source": {
@@ -896,6 +1200,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BBA",
  "majorSubjects": [
-  "B A"
+  "PHY"
  ]
 }

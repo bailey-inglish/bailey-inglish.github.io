@@ -15,13 +15,21 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Twenty-four semester hours of upper-division French, including",
+    "type": "hours",
+    "hours": 24.0,
     "title": "Twenty-four semester hours of upper-division French, including",
+    "filter": {
+     "label": "Twenty-four semester hours of upper-division French, including",
+     "subjects": [
+      "FR"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
      "quote": "Twenty-four semester hours of upper-division French, including"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "all",
@@ -42,16 +50,28 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French 325D, Self and Society; and French 325E, Representing Difference. No more than six hours chosen from item 2 may be counted for the major. No more than three hours from item 2 may be counted for the major for students with credit for either French 326K, Introduction to French Literature I: From the Middle Ages through the Eighteenth Century; or French 326L, Introduction to French Literature II: From the French Revolution to the Present. Students with credit for French 326K and 326L may not count the courses in item 2 toward the major.",
-    "title": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French 325D, Sel",
+    "filter": {
+     "label": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French",
+     "courses": [
+      "FR 325C",
+      "FR 325D",
+      "FR 325E",
+      "FR 326K",
+      "FR 326L",
+      "FR 326K",
+      "FR 326L"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
-     "quote": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French 325D, Self and Society; and French 325E, Representing Difference. No more than six hours chosen from item 2 may be coun"
+     "quote": "Six hours of French courses chosen from French 325C, Crisis and Conflict; French 325D, Self and Society; and French 325E, Representing Difference. No more than six hours chosen from item 2 may be counted for the major. N"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Six hours of French courses numbered 350 or above",
     "title": "Six hours of French courses numbered 350 or above",
     "source": {
@@ -60,18 +80,38 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six hours of additional French upper-division. Up to three hours of French Civilization may be counted for three hours of additional French upper-division. Up to three hours of Liberal Arts 320 may be counted for three hours of additional French upper-division.",
-    "title": "Six hours of additional French upper-division. Up to three hours of French Civil",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours of additional French upper-division. Up to three hours of French Civilization ma",
+    "filter": {
+     "label": "Six hours of additional French upper-division. Up to three hours of French Civil",
+     "courses": [
+      "L A 320"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
-     "quote": "Six hours of additional French upper-division. Up to three hours of French Civilization may be counted for three hours of additional French upper-division. Up to three hours of Liberal Arts 320 may be"
+     "quote": "Six hours of additional French upper-division. Up to three hours of French Civilization may be counted for three hours of additional French upper-division. Up to three hours of Liberal Arts 320 may be counted for three h"
     }
    },
    {
-    "type": "manual",
-    "text": "Only one may be counted for the Major: Liberal Arts 321F, three hours of French Civilization, French 349P, French 358Q.",
-    "title": "Only one may be counted for the Major: Liberal Arts 321F, three hours of French ",
+    "type": "all",
+    "title": "Only one may be counted for the Major: Liberal Arts 321F, three hours of French Civilizati",
+    "of": [
+     {
+      "type": "course",
+      "course": "L A 321F"
+     },
+     {
+      "type": "course",
+      "course": "FR 349P"
+     },
+     {
+      "type": "course",
+      "course": "FR 358Q"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/french/",
      "quote": "Only one may be counted for the Major: Liberal Arts 321F, three hours of French Civilization, French 349P, French 358Q."

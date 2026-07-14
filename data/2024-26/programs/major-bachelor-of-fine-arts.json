@@ -49,7 +49,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Twelve semester hours of lower-division Studio Art courses, consisting of three hours from four of the following five areas: Transmedia",
         "title": "Twelve semester hours of lower-division Studio Art courses, consisting of three ",
         "source": {
@@ -58,13 +58,21 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Thirty-three additional semester hours of studio art, of which at least 21 hours must be upper-division",
-        "title": "Thirty-three additional semester hours of studio art, of which at least 21 hours",
+        "type": "hours",
+        "hours": 33.0,
+        "title": "Thirty-three additional semester hours of studio art, of which at least 21 hours must be u",
+        "filter": {
+         "label": "Thirty-three additional semester hours of studio art, of which at least 21 hours",
+         "subjects": [
+          "ART"
+         ],
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Thirty-three additional semester hours of studio art, of which at least 21 hours must be upper-division"
-        }
+        },
+        "umbrella": true
        },
        {
         "type": "course",
@@ -91,6 +99,19 @@
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Art history: 12 semester hours, consisting of Art History 302 and 303"
         }
+       },
+       {
+        "type": "hours",
+        "hours": 6.0,
+        "title": "Six semester hours of upper-division coursework in art history, three semester hours of wh",
+        "filter": {
+         "label": "Six semester hours of upper-division coursework in art history, three semester h",
+         "division": "upper"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
+         "quote": "Six semester hours of upper-division coursework in art history, three semester hours of which may also be counted toward the visual and performing arts requirement of the core curriculum"
+        }
        }
       ]
      },
@@ -99,12 +120,12 @@
       "title": "Electives",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Six semester hours chosen from courses either within or outside the Department of Art and Art History. Additional elective coursework may be needed to provide the total number of semester hours required for the degree.",
         "title": "Six semester hours chosen from courses either within or outside the Department o",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "Six semester hours chosen from courses either within or outside the Department of Art and Art History. Additional elective coursework may be needed to provide the total number of semester hours requir"
+         "quote": "Six semester hours chosen from courses either within or outside the Department of Art and Art History. Additional elective coursework may be needed to provide the total number of semester hours required for the degree."
         }
        }
       ]
@@ -114,7 +135,7 @@
       "title": "Total Minimum Requirements",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "For the BFA with a major in studio art: 120 semester hours as outlined above.",
         "title": "For the BFA with a major in studio art: 120 semester hours as outlined above.",
         "source": {
@@ -129,18 +150,40 @@
       "title": "Major Requirements",
       "of": [
        {
-        "type": "manual",
-        "text": "Design courses: 38 semester hours, consisting of Design 304, 305, and 6 additional semester hours of lower-division DES coursework",
-        "title": "Design courses: 38 semester hours, consisting of Design 304, 305, and 6 addition",
+        "type": "all",
+        "title": "Design courses: 38 semester hours, consisting of Design 304, 305, and 6 additional semeste",
+        "of": [
+         {
+          "type": "course",
+          "course": "DES 304"
+         },
+         {
+          "type": "course",
+          "course": "DES 305"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Design courses: 38 semester hours, consisting of Design 304, 305, and 6 additional semester hours of lower-division DES coursework"
         }
        },
        {
-        "type": "manual",
-        "text": "Internship: Design 360 or a combination of Design 260 and 160I",
+        "type": "all",
         "title": "Internship: Design 360 or a combination of Design 260 and 160I",
+        "of": [
+         {
+          "type": "course",
+          "course": "DES 360"
+         },
+         {
+          "type": "course",
+          "course": "DES 260"
+         },
+         {
+          "type": "course",
+          "course": "DES 160I"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Internship: Design 360 or a combination of Design 260 and 160I"
@@ -167,14 +210,14 @@
        {
         "type": "hours",
         "hours": 17.0,
-        "umbrella": true,
-        "title": "17 upper-division hours of design",
+        "title": "Seventeen additional semester hours of upper-division courses in design. Design 336 and 33",
         "filter": {
-         "division": "upper",
-         "subjects": [
-          "DES"
+         "label": "Seventeen additional semester hours of upper-division courses in design. Design ",
+         "courses": [
+          "DES 336",
+          "DES 337"
          ],
-         "label": "Upper-division design"
+         "division": "upper"
         },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
@@ -182,27 +225,17 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Seventeen additional semester hours of upper-division courses in design. Design 336 and 337 may not be counted.",
-        "title": "Specific courses within: 17 upper-division hours of design",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "Seventeen additional semester hours of upper-division courses in design. Design 336 and 337 may not be counted."
-        }
-       },
-       {
-        "type": "manual",
+        "type": "note",
         "text": "Supportive courses in design, related technologies, and the visual arts: 15 semester hours of approved supportive courses in Design (DES) or related fields. The School of Design and Creative Technologies' advising office maintains a list of pre-approved supportive courses",
         "title": "Supportive courses in design, related technologies, and the visual arts: 15 seme",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "Supportive courses in design, related technologies, and the visual arts: 15 semester hours of approved supportive courses in Design (DES) or related fields. The School of Design and Creative Technolog"
+         "quote": "Supportive courses in design, related technologies, and the visual arts: 15 semester hours of approved supportive courses in Design (DES) or related fields. The School of Design and Creative Technologies' advising office"
         }
        },
        {
-        "type": "manual",
-        "text": "Art/design history/theory/criticism courses: 12 semester hours consisting of Art History 303",
-        "title": "Art/design history/theory/criticism courses: 12 semester hours consisting of Art",
+        "type": "course",
+        "course": "ARH 303",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Art/design history/theory/criticism courses: 12 semester hours consisting of Art History 303"
@@ -210,7 +243,6 @@
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "Design 336 or 337 (Topic 1)",
         "of": [
          {
@@ -225,24 +257,43 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Design 336 or 337 (Topic 1)"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Three additional semester hours of courses in Art History or approved art/design history/theory/criticism courses in related fields. The School of Design and Creative Technologies' advising office maintains a list of pre-approved supportive courses",
         "title": "Three additional semester hours of courses in Art History or approved art/design",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "Three additional semester hours of courses in Art History or approved art/design history/theory/criticism courses in related fields. The School of Design and Creative Technologies' advising office mai"
+         "quote": "Three additional semester hours of courses in Art History or approved art/design history/theory/criticism courses in related fields. The School of Design and Creative Technologies' advising office maintains a list of pre"
         }
        },
        {
-        "type": "manual",
-        "text": "Performance review: Design 131. A design major must register for the performance review course during the second semester of sophomore year, and present a portfolio of his or her works for review by designated design faculty at the end of the semester. The works to be included for review are specified by the design faculty. In order to enroll in courses numbered Design 340 or higher, the student must pass this performance review.",
-        "title": "Performance review: Design 131. A design major must register for the performance",
+        "type": "all",
+        "title": "Performance review: Design 131. A design major must register for the performance review co",
+        "of": [
+         {
+          "type": "course",
+          "course": "DES 131"
+         },
+         {
+          "type": "course",
+          "course": "DES 340"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "Performance review: Design 131. A design major must register for the performance review course during the second semester of sophomore year, and present a portfolio of his or her works for review by d"
+         "quote": "Performance review: Design 131. A design major must register for the performance review course during the second semester of sophomore year, and present a portfolio of his or her works for review by designated design fac"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Several of the courses which may be used to complete requirement 3 are also approved to fulfill the visual and performing arts requirement of the core curriculum and may be used to fulfill both.",
+        "title": "Several of the courses which may be used to complete requirement 3 are also appr",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
+         "quote": "Several of the courses which may be used to complete requirement 3 are also approved to fulfill the visual and performing arts requirement of the core curriculum and may be used to fulfill both."
         }
        }
       ]
@@ -252,12 +303,12 @@
       "title": "Electives",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Twelve semester hours chosen from courses either within or outside the School of Design and Creative Technologies. Additional elective coursework may be needed to provide the total number of semester hours required for the degree.",
         "title": "Twelve semester hours chosen from courses either within or outside the School of",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "Twelve semester hours chosen from courses either within or outside the School of Design and Creative Technologies. Additional elective coursework may be needed to provide the total number of semester "
+         "quote": "Twelve semester hours chosen from courses either within or outside the School of Design and Creative Technologies. Additional elective coursework may be needed to provide the total number of semester hours required for t"
         }
        }
       ]
@@ -267,7 +318,7 @@
       "title": "Total Minimum Requirements",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "For the BFA with a major in design: 120 semester hours as outlined above.",
         "title": "For the BFA with a major in design: 120 semester hours as outlined above.",
         "source": {
@@ -276,21 +327,21 @@
         }
        },
        {
-        "type": "manual",
-        "text": "The major in art education is a preprofessional academic program recommended for students seeking all-level (early childhood through grade 12) teacher certification in art or planning to pursue undergraduate or graduate training for visual art careers in community art programs. Students seeking teacher certification must adhere to current state requirements in addition to the degree requirements described in this catalog. Students should contact the College of Education for current state certification requirements. See Preparation for Teacher Certification for additional information.",
+        "type": "note",
+        "text": "The major in art education is a preprofessional academic program recommended for students seeking all-level (early childhood through grade 12) teacher certification in art or planning to pursue undergraduate or graduate training for visual art careers in community art programs. Students seeking teacher certification must adhere to current state requirements in addition to the degree requirements d",
         "title": "The major in art education is a preprofessional academic program recommended for",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "The major in art education is a preprofessional academic program recommended for students seeking all-level (early childhood through grade 12) teacher certification in art or planning to pursue underg"
+         "quote": "The major in art education is a preprofessional academic program recommended for students seeking all-level (early childhood through grade 12) teacher certification in art or planning to pursue undergraduate or graduate "
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "State of Texas teacher certification requirements are governed by the Texas Education Agency and are subject to change. Students must adhere to current teacher certification requirements, even if they differ from those listed in the University catalogs.",
         "title": "State of Texas teacher certification requirements are governed by the Texas Educ",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "State of Texas teacher certification requirements are governed by the Texas Education Agency and are subject to change. Students must adhere to current teacher certification requirements, even if they"
+         "quote": "State of Texas teacher certification requirements are governed by the Texas Education Agency and are subject to change. Students must adhere to current teacher certification requirements, even if they differ from those l"
         }
        }
       ]
@@ -326,7 +377,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Nine semester hours, consisting of three hours from each of the following three areas: Area A: Drawing, life drawing, painting",
         "title": "Nine semester hours, consisting of three hours from each of the following three ",
         "source": {
@@ -335,9 +386,13 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Nine additional semester hours of coursework in studio art, all of which must be upper-division",
-        "title": "Nine additional semester hours of coursework in studio art, all of which must be",
+        "type": "hours",
+        "hours": 9.0,
+        "title": "Nine additional semester hours of coursework in studio art, all of which must be upper-div",
+        "filter": {
+         "label": "Nine additional semester hours of coursework in studio art, all of which must be",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Nine additional semester hours of coursework in studio art, all of which must be upper-division"
@@ -362,7 +417,20 @@
         }
        },
        {
-        "type": "manual",
+        "type": "hours",
+        "hours": 6.0,
+        "title": "Six semester hours of upper-division coursework in art history, three semester hours of wh",
+        "filter": {
+         "label": "Six semester hours of upper-division coursework in art history, three semester h",
+         "division": "upper"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
+         "quote": "Six semester hours of upper-division coursework in art history, three semester hours of which may also be counted toward the visual and performing arts requirement of the core curriculum."
+        }
+       },
+       {
+        "type": "note",
         "text": "Art education: 12 semester hours of coursework in art education",
         "title": "Art education: 12 semester hours of coursework in art education",
         "source": {
@@ -371,7 +439,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "12 semester hours approved by the art education advisor.",
         "title": "12 semester hours approved by the art education advisor.",
         "source": {
@@ -383,10 +451,25 @@
      },
      {
       "type": "all",
+      "title": "Professional Development in Education",
+      "of": [
+       {
+        "type": "note",
+        "text": "Please see the UTeach-Fine Arts section of this catalog for more information.",
+        "title": "Please see the UTeach-Fine Arts section of this catalog for more information.",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
+         "quote": "Please see the UTeach-Fine Arts section of this catalog for more information."
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
       "title": "Approved Electives",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Twelve semester hours of coursework approved by the art education advisor. Additional elective coursework may be needed to provide the total number of semester hours required for the degree.",
         "title": "Twelve semester hours of coursework approved by the art education advisor. Addit",
         "source": {
@@ -401,7 +484,7 @@
       "title": "Total Minimum Requirements",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "For the BFA with a major in art education: 120 semester hours as outlined above.",
         "title": "For the BFA with a major in art education: 120 semester hours as outlined above.",
         "source": {
@@ -410,21 +493,21 @@
         }
        },
        {
-        "type": "manual",
-        "text": "The major in theatre education is a preprofessional academic program recommended for students seeking all-level teacher certification in theatre arts. Students seeking teacher certification must adhere to current state requirements in addition to the degree requirements described in this catalog. Students should contact the College of Education for current state certification requirements. See Preparation for Teacher Certification for additional information.",
+        "type": "note",
+        "text": "The major in theatre education is a preprofessional academic program recommended for students seeking all-level teacher certification in theatre arts. Students seeking teacher certification must adhere to current state requirements in addition to the degree requirements described in this catalog. Students should contact the College of Education for current state certification requirements. See Pre",
         "title": "The major in theatre education is a preprofessional academic program recommended",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "The major in theatre education is a preprofessional academic program recommended for students seeking all-level teacher certification in theatre arts. Students seeking teacher certification must adher"
+         "quote": "The major in theatre education is a preprofessional academic program recommended for students seeking all-level teacher certification in theatre arts. Students seeking teacher certification must adhere to current state r"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "State of Texas teacher certification requirements are governed by the Texas Education Agency and are subject to change. Students must adhere to current teacher certification requirements, even if they differ from those listed in the University catalogs.",
         "title": "State of Texas teacher certification requirements are governed by the Texas Educ",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "State of Texas teacher certification requirements are governed by the Texas Education Agency and are subject to change. Students must adhere to current teacher certification requirements, even if they"
+         "quote": "State of Texas teacher certification requirements are governed by the Texas Education Agency and are subject to change. Students must adhere to current teacher certification requirements, even if they differ from those l"
         }
        }
       ]
@@ -434,25 +517,63 @@
       "title": "Major Requirements",
       "of": [
        {
-        "type": "manual",
-        "text": "Theatre and dance core: 18 semester hours, consisting of Theatre and Dance 311C, 313C, 314M, 314Q, 317C, and 317D",
-        "title": "Theatre and dance core: 18 semester hours, consisting of Theatre and Dance 311C,",
+        "type": "all",
+        "title": "Theatre and dance core: 18 semester hours, consisting of Theatre and Dance 311C, 313C, 314",
+        "of": [
+         {
+          "type": "course",
+          "course": "T D 311C"
+         },
+         {
+          "type": "course",
+          "course": "T D 313C"
+         },
+         {
+          "type": "course",
+          "course": "T D 314M"
+         },
+         {
+          "type": "course",
+          "course": "T D 314Q"
+         },
+         {
+          "type": "course",
+          "course": "T D 317C"
+         },
+         {
+          "type": "course",
+          "course": "T D 317D"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Theatre and dance core: 18 semester hours, consisting of Theatre and Dance 311C, 313C, 314M, 314Q, 317C, and 317D"
         }
        },
        {
-        "type": "manual",
-        "text": "Theatre education emphasis: At least 33 semester hours, consisting of Acting and directing: Theatre and Dance 313D, 316D, and 323D",
-        "title": "Theatre education emphasis: At least 33 semester hours, consisting of Acting and",
+        "type": "all",
+        "title": "Theatre education emphasis: At least 33 semester hours, consisting of Acting and directing",
+        "of": [
+         {
+          "type": "course",
+          "course": "T D 313D"
+         },
+         {
+          "type": "course",
+          "course": "T D 316D"
+         },
+         {
+          "type": "course",
+          "course": "T D 323D"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Theatre education emphasis: At least 33 semester hours, consisting of Acting and directing: Theatre and Dance 313D, 316D, and 323D"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Design and technical production: six semester hours chosen from topics of Theatre and Dance 324 or 354T, including one course in two of the following three areas: costume, lighting, and scenery",
         "title": "Design and technical production: six semester hours chosen from topics of Theatr",
         "source": {
@@ -461,21 +582,66 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Theatre education: Theatre and Dance 326C, 326D, 326F, 326Q, and 626E",
+        "type": "all",
         "title": "Theatre education: Theatre and Dance 326C, 326D, 326F, 326Q, and 626E",
+        "of": [
+         {
+          "type": "course",
+          "course": "T D 326C"
+         },
+         {
+          "type": "course",
+          "course": "T D 326D"
+         },
+         {
+          "type": "course",
+          "course": "T D 326F"
+         },
+         {
+          "type": "course",
+          "course": "T D 326Q"
+         },
+         {
+          "type": "course",
+          "course": "T D 626E"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Theatre education: Theatre and Dance 326C, 326D, 326F, 326Q, and 626E"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Six additional upper-division semester hours of coursework in theatre and dance",
         "title": "Six additional upper-division semester hours of coursework in theatre and dance",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Six additional upper-division semester hours of coursework in theatre and dance"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Several of the courses which may be used to complete requirement 1 are also approved to fulfill the visual and performing arts requirement of the core curriculum and may be used to fulfill both.",
+        "title": "Several of the courses which may be used to complete requirement 1 are also appr",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
+         "quote": "Several of the courses which may be used to complete requirement 1 are also approved to fulfill the visual and performing arts requirement of the core curriculum and may be used to fulfill both."
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Professional Development in Education",
+      "of": [
+       {
+        "type": "note",
+        "text": "Please see the UTeach-Fine Arts section of this catalog for more information.",
+        "title": "Please see the UTeach-Fine Arts section of this catalog for more information.",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
+         "quote": "Please see the UTeach-Fine Arts section of this catalog for more information."
         }
        }
       ]
@@ -485,7 +651,7 @@
       "title": "Approved Electives",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Twenty-four semester hours of coursework approved by the theatre education advisor. Additional elective coursework may be needed to provide the total number of semester hours required for the degree.",
         "title": "Twenty-four semester hours of coursework approved by the theatre education advis",
         "source": {
@@ -500,7 +666,7 @@
       "title": "Total Minimum Requirements",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "For the BFA with a major in theatre education: 120 semester hours as outlined above.",
         "title": "For the BFA with a major in theatre education: 120 semester hours as outlined ab",
         "source": {
@@ -509,21 +675,21 @@
         }
        },
        {
-        "type": "manual",
-        "text": "The option in Dance Education is a preprofessional academic program recommended for students seeking all-level teacher certification in dance. Students seeking teacher certification must adhere to current state requirements in addition to the degree requirements described in this catalog. Students should contact the College of Education for current state certification requirements. See Preparation for Teacher Certification for additional information.",
+        "type": "note",
+        "text": "The option in Dance Education is a preprofessional academic program recommended for students seeking all-level teacher certification in dance. Students seeking teacher certification must adhere to current state requirements in addition to the degree requirements described in this catalog. Students should contact the College of Education for current state certification requirements. See Preparation",
         "title": "The option in Dance Education is a preprofessional academic program recommended ",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "The option in Dance Education is a preprofessional academic program recommended for students seeking all-level teacher certification in dance. Students seeking teacher certification must adhere to cur"
+         "quote": "The option in Dance Education is a preprofessional academic program recommended for students seeking all-level teacher certification in dance. Students seeking teacher certification must adhere to current state requireme"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "State of Texas teacher certification requirements are governed by the Texas Education Agency and are subject to change. Students must adhere to current teacher certification requirements, even if they differ from those listed in the University catalogs.",
         "title": "State of Texas teacher certification requirements are governed by the Texas Educ",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "State of Texas teacher certification requirements are governed by the Texas Education Agency and are subject to change. Students must adhere to current teacher certification requirements, even if they"
+         "quote": "State of Texas teacher certification requirements are governed by the Texas Education Agency and are subject to change. Students must adhere to current teacher certification requirements, even if they differ from those l"
         }
        }
       ]
@@ -533,36 +699,84 @@
       "title": "Major Requirements",
       "of": [
        {
-        "type": "manual",
-        "text": "Theatre and dance core: 15 semester hours, consisting of Theatre and Dance 311C, 312M, 314P, 317M, and 317N",
-        "title": "Theatre and dance core: 15 semester hours, consisting of Theatre and Dance 311C,",
+        "type": "all",
+        "title": "Theatre and dance core: 15 semester hours, consisting of Theatre and Dance 311C, 312M, 314",
+        "of": [
+         {
+          "type": "course",
+          "course": "T D 311C"
+         },
+         {
+          "type": "course",
+          "course": "T D 312M"
+         },
+         {
+          "type": "course",
+          "course": "T D 314P"
+         },
+         {
+          "type": "course",
+          "course": "T D 317M"
+         },
+         {
+          "type": "course",
+          "course": "T D 317N"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Theatre and dance core: 15 semester hours, consisting of Theatre and Dance 311C, 312M, 314P, 317M, and 317N"
         }
        },
        {
-        "type": "manual",
-        "text": "Physical Practice: Contemporary dance technique: Nine semester hours, consisting of two semesters of Theatre and Dance 312C and one semester of 312D",
-        "title": "Physical Practice: Contemporary dance technique: Nine semester hours, consisting",
+        "type": "all",
+        "title": "Physical Practice: Contemporary dance technique: Nine semester hours, consisting of two se",
+        "of": [
+         {
+          "type": "course",
+          "course": "T D 312C"
+         },
+         {
+          "type": "course",
+          "course": "T D 312D"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Physical Practice: Contemporary dance technique: Nine semester hours, consisting of two semesters of Theatre and Dance 312C and one semester of 312D"
         }
        },
        {
-        "type": "manual",
-        "text": "Ballet technique: Nine semester hours, consisting of two semesters of Theatre and Dance 312F and one semester of 312G",
-        "title": "Ballet technique: Nine semester hours, consisting of two semesters of Theatre an",
+        "type": "all",
+        "title": "Ballet technique: Nine semester hours, consisting of two semesters of Theatre and Dance 31",
+        "of": [
+         {
+          "type": "course",
+          "course": "T D 312F"
+         },
+         {
+          "type": "course",
+          "course": "T D 312G"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Ballet technique: Nine semester hours, consisting of two semesters of Theatre and Dance 312F and one semester of 312G"
         }
        },
        {
-        "type": "manual",
-        "text": "Creative Practice: Six semester hours, consisting of Theatre and Dance 312N and 332M",
-        "title": "Creative Practice: Six semester hours, consisting of Theatre and Dance 312N and ",
+        "type": "all",
+        "title": "Creative Practice: Six semester hours, consisting of Theatre and Dance 312N and 332M",
+        "of": [
+         {
+          "type": "course",
+          "course": "T D 312N"
+         },
+         {
+          "type": "course",
+          "course": "T D 332M"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Creative Practice: Six semester hours, consisting of Theatre and Dance 312N and 332M"
@@ -595,18 +809,36 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Performance Practice: Four semester hours, consisting of Theatre and Dance 212P and 222P",
-        "title": "Performance Practice: Four semester hours, consisting of Theatre and Dance 212P ",
+        "type": "all",
+        "title": "Performance Practice: Four semester hours, consisting of Theatre and Dance 212P and 222P",
+        "of": [
+         {
+          "type": "course",
+          "course": "T D 212P"
+         },
+         {
+          "type": "course",
+          "course": "T D 222P"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Performance Practice: Four semester hours, consisting of Theatre and Dance 212P and 222P"
         }
        },
        {
-        "type": "manual",
-        "text": "Option in either Dance or Dance Education: For Option in Dance: 27 semester hours, consisting of Physical Practice: Theatre and Dance 312D and 312G",
-        "title": "Option in either Dance or Dance Education: For Option in Dance: 27 semester hour",
+        "type": "all",
+        "title": "Option in either Dance or Dance Education: For Option in Dance: 27 semester hours, consist",
+        "of": [
+         {
+          "type": "course",
+          "course": "T D 312D"
+         },
+         {
+          "type": "course",
+          "course": "T D 312G"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Option in either Dance or Dance Education: For Option in Dance: 27 semester hours, consisting of Physical Practice: Theatre and Dance 312D and 312G"
@@ -651,7 +883,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Electives: Nine hours chosen from Theatre and Dance 321P, 322E, 322J, 232Q, 352P, 352T, or 357T",
         "title": "Electives: Nine hours chosen from Theatre and Dance 321P, 322E, 322J, 232Q, 352P",
         "source": {
@@ -660,13 +892,23 @@
         }
        },
        {
-        "type": "manual",
-        "text": "For Option in Dance Education: 27 or 28 semester hours, consisting of Performance Practice: Theatre and Dance 222P or 232P",
-        "title": "For Option in Dance Education: 27 or 28 semester hours, consisting of Performanc",
+        "type": "anyN",
+        "title": "For Option in Dance Education: 27 or 28 semester hours, consisting of Performance Practice",
+        "of": [
+         {
+          "type": "course",
+          "course": "T D 222P"
+         },
+         {
+          "type": "course",
+          "course": "T D 232P"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "For Option in Dance Education: 27 or 28 semester hours, consisting of Performance Practice: Theatre and Dance 222P or 232P"
-        }
+        },
+        "n": 1
        },
        {
         "type": "course",
@@ -674,15 +916,6 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Academic Studies: Theatre and Dance 152P"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "Professional Development: Special Education 322C, Curriculum and Instruction (EDC) 332S, 331S, 370S, 951W, and one of the following: Human Development and Family Sciences 313 and 113L",
-        "title": "Professional Development: Special Education 322C, Curriculum and Instruction (ED",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "Professional Development: Special Education 322C, Curriculum and Instruction (EDC) 332S, 331S, 370S, 951W, and one of the following: Human Development and Family Sciences 313 and 113L"
         }
        },
        {
@@ -700,6 +933,30 @@
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Psychology 304"
         }
+       },
+       {
+        "type": "note",
+        "text": "To fulfill the degree requirements in dance technique, the student must achieve a suitable level of proficiency and obtain the approval of the dance faculty. At the discretion of the dance faculty, a student may be required to repeat specific dance technique courses in addition to those required for the degree. Students choosing the Option in Dance must be registered for dance technique each long-",
+        "title": "To fulfill the degree requirements in dance technique, the student must achieve ",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
+         "quote": "To fulfill the degree requirements in dance technique, the student must achieve a suitable level of proficiency and obtain the approval of the dance faculty. At the discretion of the dance faculty, a student may be requi"
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Professional Development in Education (Dance Education option)",
+      "of": [
+       {
+        "type": "note",
+        "text": "Please see the UTeach-Fine Arts section of this catalog for more information.",
+        "title": "Please see the UTeach-Fine Arts section of this catalog for more information.",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
+         "quote": "Please see the UTeach-Fine Arts section of this catalog for more information."
+        }
        }
       ]
      },
@@ -708,7 +965,7 @@
       "title": "Electives",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "Elective coursework may be needed to provide the total number of semester hours required for the degree.",
         "title": "Elective coursework may be needed to provide the total number of semester hours ",
         "source": {
@@ -723,7 +980,7 @@
       "title": "Total Minimum Requirements",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "For the BFA with a major in dance: at least 120 or 121 semester hours as outlined above.",
         "title": "For the BFA with a major in dance: at least 120 or 121 semester hours as outline",
         "source": {
@@ -738,27 +995,122 @@
       "title": "Major Requirements",
       "of": [
        {
-        "type": "manual",
-        "text": "Theatre and dance core: 18 semester hours, consisting of Theatre and Dance 311C, 314M, 314P, 317C, 317D, and 324P",
-        "title": "Theatre and dance core: 18 semester hours, consisting of Theatre and Dance 311C,",
+        "type": "all",
+        "title": "Theatre and dance core: 18 semester hours, consisting of Theatre and Dance 311C, 314M, 314",
+        "of": [
+         {
+          "type": "course",
+          "course": "T D 311C"
+         },
+         {
+          "type": "course",
+          "course": "T D 314M"
+         },
+         {
+          "type": "course",
+          "course": "T D 314P"
+         },
+         {
+          "type": "course",
+          "course": "T D 317C"
+         },
+         {
+          "type": "course",
+          "course": "T D 317D"
+         },
+         {
+          "type": "course",
+          "course": "T D 324P"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Theatre and dance core: 18 semester hours, consisting of Theatre and Dance 311C, 314M, 314P, 317C, 317D, and 324P"
         }
        },
        {
-        "type": "manual",
-        "text": "Acting Emphasis: At least 48 semester hours, consisting of Lower-division acting emphasis: Theatre and Dance 313C, 313D, 313E, 313F, 313G, 313K, 313L, 313M, and 313N",
-        "title": "Acting Emphasis: At least 48 semester hours, consisting of Lower-division acting",
+        "type": "all",
+        "title": "Acting Emphasis: At least 48 semester hours, consisting of Lower-division acting emphasis:",
+        "of": [
+         {
+          "type": "course",
+          "course": "T D 313C"
+         },
+         {
+          "type": "course",
+          "course": "T D 313D"
+         },
+         {
+          "type": "course",
+          "course": "T D 313E"
+         },
+         {
+          "type": "course",
+          "course": "T D 313F"
+         },
+         {
+          "type": "course",
+          "course": "T D 313G"
+         },
+         {
+          "type": "course",
+          "course": "T D 313K"
+         },
+         {
+          "type": "course",
+          "course": "T D 313L"
+         },
+         {
+          "type": "course",
+          "course": "T D 313M"
+         },
+         {
+          "type": "course",
+          "course": "T D 313N"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Acting Emphasis: At least 48 semester hours, consisting of Lower-division acting emphasis: Theatre and Dance 313C, 313D, 313E, 313F, 313G, 313K, 313L, 313M, and 313N"
         }
        },
        {
-        "type": "manual",
-        "text": "Upper-division acting emphasis: Theatre and Dance 323F, 320J, 321P or 323P, 340D, 353D, 353Q, and 353K",
-        "title": "Upper-division acting emphasis: Theatre and Dance 323F, 320J, 321P or 323P, 340D",
+        "type": "all",
+        "title": "Upper-division acting emphasis: Theatre and Dance 323F, 320J, 321P or 323P, 340D, 353D, 35",
+        "of": [
+         {
+          "type": "course",
+          "course": "T D 323F"
+         },
+         {
+          "type": "course",
+          "course": "T D 320J"
+         },
+         {
+          "type": "course",
+          "course": "T D 321P"
+         },
+         {
+          "type": "course",
+          "course": "T D 323P"
+         },
+         {
+          "type": "course",
+          "course": "T D 340D"
+         },
+         {
+          "type": "course",
+          "course": "T D 353D"
+         },
+         {
+          "type": "course",
+          "course": "T D 353Q"
+         },
+         {
+          "type": "course",
+          "course": "T D 353K"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
          "quote": "Upper-division acting emphasis: Theatre and Dance 323F, 320J, 321P or 323P, 340D, 353D, 353Q, and 353K"
@@ -771,12 +1123,22 @@
       "title": "Approved Electives",
       "of": [
        {
-        "type": "manual",
-        "text": "Twelve semester hours of approved electives within the Department of Theatre and Dance chosen from Theatre and Dance 353E, 353R, 354F, 353G, or additional upper-division semester hours in the Department of Theatre and Dance approved by the acting advisor.",
-        "title": "Twelve semester hours of approved electives within the Department of Theatre and",
+        "type": "hours",
+        "hours": 12.0,
+        "title": "Twelve semester hours of approved electives within the Department of Theatre and Dance cho",
+        "filter": {
+         "label": "Twelve semester hours of approved electives within the Department of Theatre and",
+         "courses": [
+          "T D 353E",
+          "T D 353R",
+          "T D 354F",
+          "T D 353G"
+         ],
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/fine-arts/degrees-and-programs/bachelor-of-fine-arts/",
-         "quote": "Twelve semester hours of approved electives within the Department of Theatre and Dance chosen from Theatre and Dance 353E, 353R, 354F, 353G, or additional upper-division semester hours in the Departme"
+         "quote": "Twelve semester hours of approved electives within the Department of Theatre and Dance chosen from Theatre and Dance 353E, 353R, 354F, 353G, or additional upper-division semester hours in the Department of Theatre and Da"
         }
        }
       ]
@@ -786,7 +1148,7 @@
       "title": "Total Minimum Requirements",
       "of": [
        {
-        "type": "manual",
+        "type": "note",
         "text": "For the BFA with a major in acting: at least 120 semester hours as outlined above.",
         "title": "For the BFA with a major in acting: at least 120 semester hours as outlined abov",
         "source": {
@@ -1127,6 +1489,6 @@
  "auto": true,
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "majorSubjects": [
-  "DES"
+  "ART"
  ]
 }

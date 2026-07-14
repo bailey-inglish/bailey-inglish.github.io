@@ -17,48 +17,81 @@
    {
     "type": "hours",
     "hours": 33.0,
-    "umbrella": true,
-    "title": "33 hours of english",
+    "title": "Thirty-three semester hours of English, including at least 21 semester hours of upper-divi",
     "filter": {
+     "label": "Thirty-three semester hours of English, including at least 21 semester hours of ",
      "subjects": [
       "E"
      ],
-     "label": "English coursework"
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
      "quote": "Thirty-three semester hours of English, including at least 21 semester hours of upper-division coursework consisting of the following:"
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "An introductory literary skills course, chosen from English 314J , 314L , 314T, or 314V",
-    "title": "An introductory literary skills course, chosen from English 314J , 314L , 314T, ",
+    "type": "anyN",
+    "title": "An introductory literary skills course, chosen from English 314J , 314L , 314T, or 314V",
+    "of": [
+     {
+      "type": "course",
+      "course": "E 314J"
+     },
+     {
+      "type": "course",
+      "course": "E 314L"
+     },
+     {
+      "type": "course",
+      "course": "E 314T"
+     },
+     {
+      "type": "course",
+      "course": "E 314V"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
      "quote": "An introductory literary skills course, chosen from English 314J , 314L , 314T, or 314V"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
-    "text": "An introductory literary survey course, chosen from English 316L , 316M , 316N , or 316P",
-    "title": "An introductory literary survey course, chosen from English 316L , 316M , 316N ,",
+    "type": "anyN",
+    "title": "An introductory literary survey course, chosen from English 316L , 316M , 316N , or 316P",
+    "of": [
+     {
+      "type": "course",
+      "course": "E 316L"
+     },
+     {
+      "type": "course",
+      "course": "E 316M"
+     },
+     {
+      "type": "course",
+      "course": "E 316N"
+     },
+     {
+      "type": "course",
+      "course": "E 316P"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
      "quote": "An introductory literary survey course, chosen from English 316L , 316M , 316N , or 316P"
-    }
+    },
+    "n": 1
    },
    {
     "type": "hours",
     "hours": 9.0,
-    "umbrella": true,
-    "title": "9 upper-division hours of english",
+    "title": "Nine additional semester hours of upper-division coursework in English",
     "filter": {
-     "division": "upper",
-     "subjects": [
-      "E"
-     ],
-     "label": "Upper-division english"
+     "label": "Nine additional semester hours of upper-division coursework in English",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
@@ -66,172 +99,30 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
+    "text": "A list of courses that may be used to fulfill requirements is available in the English Advising Office, Parlin Hall 114, and on the Department of English website.",
+    "title": "A list of courses that may be used to fulfill requirements is available in the E",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
+     "quote": "A list of courses that may be used to fulfill requirements is available in the English Advising Office, Parlin Hall 114, and on the Department of English website."
+    }
+   },
+   {
+    "type": "note",
     "text": "The student must make a grade of at least C- in each course counted toward fulfillment of the major requirements. A minimum grade point average of 2.00 in courses taken at the University and counted toward the major is also required.",
     "title": "The student must make a grade of at least C- in each course counted toward fulfi",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
-     "quote": "The student must make a grade of at least C- in each course counted toward fulfillment of the major requirements. A minimum grade point average of 2.00 in courses taken at the University and counted t"
+     "quote": "The student must make a grade of at least C- in each course counted toward fulfillment of the major requirements. A minimum grade point average of 2.00 in courses taken at the University and counted toward the major is a"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students are discouraged from taking more than six semester hours of coursework in English in a semester. No student may take more than nine hours of coursework in English in a semester.",
     "title": "Students are discouraged from taking more than six semester hours of coursework ",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
      "quote": "Students are discouraged from taking more than six semester hours of coursework in English in a semester. No student may take more than nine hours of coursework in English in a semester."
-    }
-   },
-   {
-    "type": "all",
-    "title": "Curriculum (from suggested course arrangement)",
-    "of": [
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "UGS 302",
-      "of": [
-       {
-        "type": "course",
-        "course": "UGS 302",
-        "title": "UGS 302",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "UGS 303"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "RHE 306",
-      "title": "RHE 306",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "E 314J",
-      "of": [
-       {
-        "type": "course",
-        "course": "E 314J",
-        "title": "E 314J",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "E 314L"
-       },
-       {
-        "type": "course",
-        "course": "E 314T"
-       },
-       {
-        "type": "course",
-        "course": "E 314V"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "E 316L",
-      "of": [
-       {
-        "type": "course",
-        "course": "E 316L",
-        "title": "E 316L",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "E 316M"
-       },
-       {
-        "type": "course",
-        "course": "E 316N"
-       },
-       {
-        "type": "course",
-        "course": "E 316P"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "GOV 310L",
-      "title": "GOV 310L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "GOV 312L",
-      "title": "GOV 312L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Upper-division elective (Elective)",
-      "title": "Upper-division elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
-       "quote": "Upper-division elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Upper-division elective (Elective)",
-      "title": "Upper-division elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/",
-       "quote": "Upper-division elective (Elective)"
-      }
-     }
-    ],
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/english/"
     }
    }
   ]

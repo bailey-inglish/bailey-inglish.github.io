@@ -32,7 +32,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Chemistry 204 or 317",
     "of": [
      {
@@ -47,16 +46,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
      "quote": "Chemistry 204 or 317"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "One of the following sequences: a. Chemistry 220C, 320M, 320N; or b. Chemistry 128K, 128L, 328M, and 328N",
-    "title": "One of the following sequences: a. Chemistry 220C, 320M, 320N; or b. Chemistry 1",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
-     "quote": "One of the following sequences: a. Chemistry 220C, 320M, 320N; or b. Chemistry 128K, 128L, 328M, and 328N"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -76,7 +67,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Chemistry 354 or 354L",
     "of": [
      {
@@ -91,7 +81,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
      "quote": "Chemistry 354 or 354L"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -118,18 +109,48 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Mathematics 408C and 408D, or Mathematics 408N, 408S, and 408M",
+    "type": "all",
     "title": "Mathematics 408C and 408D, or Mathematics 408N, 408S, and 408M",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 408C"
+     },
+     {
+      "type": "course",
+      "course": "M 408D"
+     },
+     {
+      "type": "course",
+      "course": "M 408N"
+     },
+     {
+      "type": "course",
+      "course": "M 408S"
+     },
+     {
+      "type": "course",
+      "course": "M 408M"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
      "quote": "Mathematics 408C and 408D, or Mathematics 408N, 408S, and 408M"
     }
    },
    {
-    "type": "manual",
-    "text": "Eight semester hours of physics chosen from one of the following sequences: Physics 303K, 103M, 303L, and 103N",
-    "title": "Eight semester hours of physics chosen from one of the following sequences: Phys",
+    "type": "hours",
+    "hours": 8.0,
+    "title": "Eight semester hours of physics chosen from one of the following sequences: Physics 303K, ",
+    "filter": {
+     "label": "Eight semester hours of physics chosen from one of the following sequences: Phys",
+     "courses": [
+      "PHY 303K",
+      "PHY 103M",
+      "PHY 303L",
+      "PHY 103N"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
      "quote": "Eight semester hours of physics chosen from one of the following sequences: Physics 303K, 103M, 303L, and 103N"
@@ -188,25 +209,25 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Completion of one of the following sequences: Twelve semester hours of majors-level coursework in biology, mathematics, or physics. Mathematics in requirement one or physics in requirement two may count toward the 12-hour total",
     "title": "Completion of one of the following sequences: Twelve semester hours of majors-le",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
-     "quote": "Completion of one of the following sequences: Twelve semester hours of majors-level coursework in biology, mathematics, or physics. Mathematics in requirement one or physics in requirement two may cou"
+     "quote": "Completion of one of the following sequences: Twelve semester hours of majors-level coursework in biology, mathematics, or physics. Mathematics in requirement one or physics in requirement two may count toward the 12-hou"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Computer Science 303E, 313E, and six hours chosen from Computer Science 323E, 324E, 326E, 327E, and 329E. Students choosing this option may simultaneously fulfill some of the requirements of the Elements of Computing Certificate",
     "title": "Computer Science 303E, 313E, and six hours chosen from Computer Science 323E, 32",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
-     "quote": "Computer Science 303E, 313E, and six hours chosen from Computer Science 323E, 324E, 326E, 327E, and 329E. Students choosing this option may simultaneously fulfill some of the requirements of the Eleme"
+     "quote": "Computer Science 303E, 313E, and six hours chosen from Computer Science 323E, 324E, 326E, 327E, and 329E. Students choosing this option may simultaneously fulfill some of the requirements of the Elements of Computing Cer"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "With written consent of the department chair and approval of the dean, 12 semester hours in a field of study outside the College of Natural Sciences",
     "title": "With written consent of the department chair and approval of the dean, 12 semest",
     "source": {
@@ -215,7 +236,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students must earn a grade of at least C- in each mathematics and science course required for the degree, and a grade point average in these courses of at least 2.00.",
     "title": "Students must earn a grade of at least C- in each mathematics and science course",
     "source": {
@@ -229,6 +250,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BA",
  "majorSubjects": [
-  "CH"
+  "PHY"
  ]
 }

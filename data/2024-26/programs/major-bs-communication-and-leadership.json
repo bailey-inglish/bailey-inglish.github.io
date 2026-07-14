@@ -14,7 +14,16 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "note",
+    "text": "To be awarded the degree of Bachelor of Science in Communication and Leadership, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements for graduation, the Core Curriculum requirements, the college graduation requirements, the requirements and policies listed in Academic Policies and Procedures, and the requirements given in Degree Requi",
+    "title": "To be awarded the degree of Bachelor of Science in Communication and Leadership,",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-and-leadership/",
+     "quote": "To be awarded the degree of Bachelor of Science in Communication and Leadership, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements for graduation, the Cor"
+    }
+   },
+   {
+    "type": "note",
     "text": "A candidate for a degree must have an officially declared major in the Moody College of Communication at the time the degree is awarded.",
     "title": "A candidate for a degree must have an officially declared major in the Moody Col",
     "source": {
@@ -23,34 +32,46 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six semester hours of coursework focusing on communication foundations: Communication 301E and 302E",
-    "title": "Six semester hours of coursework focusing on communication foundations: Communic",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six semester hours of coursework focusing on communication foundations: Communication 301E",
+    "filter": {
+     "label": "Six semester hours of coursework focusing on communication foundations: Communic",
+     "courses": [
+      "COM 301E",
+      "COM 302E"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-and-leadership/",
      "quote": "Six semester hours of coursework focusing on communication foundations: Communication 301E and 302E"
     }
    },
    {
-    "type": "hours",
-    "hours": 120.0,
-    "umbrella": true,
-    "title": "120 total hours",
-    "filter": {
-     "label": "Any coursework"
-    },
+    "type": "note",
+    "text": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in a language other than English and taking one approved culture course in a culture that is relevant to the language. A list of approved culture and language courses and combinations",
+    "title": "Students must satisfy a language and culture requirement in one of the following",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-and-leadership/",
+     "quote": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in "
+    }
+   },
+   {
+    "type": "note",
+    "text": "Enough additional coursework to make a total of 120 semester hours.",
+    "title": "Enough additional coursework to make a total of 120 semester hours.",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-and-leadership/",
      "quote": "Enough additional coursework to make a total of 120 semester hours."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "The major requires 36 hours of coursework across three designated areas, of which at least 15 hours must be upper-division. Courses that are in multiple lists may only be counted once unless topics vary. Students must earn a C- or better (or CR for courses offered only on a pass/fail basis) in all courses counting toward major requirements:",
     "title": "The major requires 36 hours of coursework across three designated areas, of whic",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-and-leadership/",
-     "quote": "The major requires 36 hours of coursework across three designated areas, of which at least 15 hours must be upper-division. Courses that are in multiple lists may only be counted once unless topics va"
+     "quote": "The major requires 36 hours of coursework across three designated areas, of which at least 15 hours must be upper-division. Courses that are in multiple lists may only be counted once unless topics vary. Students must ea"
     }
    },
    {
@@ -86,30 +107,188 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Three additional hours of coursework in communication and leadership",
+    "type": "hours",
+    "hours": 3.0,
     "title": "Three additional hours of coursework in communication and leadership",
+    "filter": {
+     "label": "Three additional hours of coursework in communication and leadership",
+     "subjects": [
+      "CLD"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-and-leadership/",
      "quote": "Three additional hours of coursework in communication and leadership"
     }
    },
    {
-    "type": "manual",
-    "text": "Twelve semester hours in Communication Fundamentals and Skills, chosen from the following: Advertising 305, 305S, 316, 320, 324, 332, 334, 339L, 353, 373, 378S (Topic 11); Communication 340; Communication and Leadership 320 (any topic), 324, 332, 340, 345 (any topic); Communication Studies 306M, 310K, 313M, 315M, 316L, 320, 321D, 322E, 330P, 332, 332K, 333, 334K, 335, 337, 338, 340K, 341, 345G, 352D, 353C, 353S, 354, 355K, 364K, 371K, 372K; Journalism 301F, 331M, 336F, 348N; Public Relations 305; Radio-Television-Film 301D.",
-    "title": "Twelve semester hours in Communication Fundamentals and Skills, chosen from the ",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve semester hours in Communication Fundamentals and Skills, chosen from the following:",
+    "filter": {
+     "label": "Twelve semester hours in Communication Fundamentals and Skills, chosen from the ",
+     "courses": [
+      "ADV 305",
+      "ADV 305S",
+      "ADV 316",
+      "ADV 320",
+      "ADV 324",
+      "ADV 332",
+      "ADV 334",
+      "ADV 339L",
+      "ADV 353",
+      "ADV 373",
+      "ADV 378S",
+      "COM 340",
+      "CLD 320",
+      "CLD 324",
+      "CLD 332",
+      "CLD 340",
+      "CLD 345",
+      "CMS 306M",
+      "CMS 310K",
+      "CMS 313M",
+      "CMS 315M",
+      "CMS 316L",
+      "CMS 320",
+      "CMS 321D",
+      "CMS 322E",
+      "CMS 330P",
+      "CMS 332",
+      "CMS 332K",
+      "CMS 333",
+      "CMS 334K",
+      "CMS 335",
+      "CMS 337",
+      "CMS 338",
+      "CMS 340K",
+      "CMS 341",
+      "CMS 345G",
+      "CMS 352D",
+      "CMS 353C",
+      "CMS 353S",
+      "CMS 354",
+      "CMS 355K",
+      "CMS 364K",
+      "CMS 371K",
+      "CMS 372K",
+      "J 301F",
+      "J 331M",
+      "J 336F",
+      "J 348N",
+      "P R 305",
+      "RTF 301D"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-and-leadership/",
-     "quote": "Twelve semester hours in Communication Fundamentals and Skills, chosen from the following: Advertising 305, 305S, 316, 320, 324, 332, 334, 339L, 353, 373, 378S (Topic 11); Communication 340; Communica"
+     "quote": "Twelve semester hours in Communication Fundamentals and Skills, chosen from the following: Advertising 305, 305S, 316, 320, 324, 332, 334, 339L, 353, 373, 378S (Topic 11); Communication 340; Communication and Leadership "
     }
    },
    {
-    "type": "manual",
-    "text": "Nine semester hours in Social Issues, chosen from the following: Advertising 314, 320, 324, 336; African and African Diaspora Studies 303, 310K, 310L, 330, 350, 360, 360D, 360I; Education 327; Business, Government, and Society 375; Communication 307, 340; Communication and Leadership 320 (any topic), 324, 332, 340 (any topic), 365 (any topic); Communication Studies 314L, 338L, 340K, 356C, 362D, 362E, 363C, 363P, 367; Educational Psychology 350L; Government 320N, 365W; Health Education 365, 366; Health and Society 340 (Topic 5), 341; History 317L (Topic 9), 317L (Topic 18), 356P, 365G (Topic 8); Journalism 305, 308F 313P, 315R, 341F, 341J, 346G, 348D, 348N, 351F, 356R; Latin American Studies 315 (Topic 3); Nursing 309, 321; Philosophy 304, 325M, 342R; Psychology 306; Public Health 317; Radio-Television-Film 323C, 328C, 335 (Topic 2), 335 (Topic 4), 359S (Topic 5), 359S (Topic 9), 359S (Topic 15), 365 (Topic 13), 365 (Topic 15); Social Work 310, 325; Sociology 302, 307K, 307L, 307T, 308S, 309C, 319, 321G, 321K, 322F, 322U, 335R, 336D, 343, 345D, 352, 369K; Speech, Language, and Hearing Sciences 314L; Women's and Gender Studies 322C, 335 (Topic 1), 345 (Topic 2).",
-    "title": "Nine semester hours in Social Issues, chosen from the following: Advertising 314",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine semester hours in Social Issues, chosen from the following: Advertising 314, 320, 324",
+    "filter": {
+     "label": "Nine semester hours in Social Issues, chosen from the following: Advertising 314",
+     "courses": [
+      "ADV 314",
+      "ADV 320",
+      "ADV 324",
+      "ADV 336",
+      "AFR 303",
+      "AFR 310K",
+      "AFR 310L",
+      "AFR 330",
+      "AFR 350",
+      "AFR 360",
+      "AFR 360D",
+      "AFR 360I",
+      "EDU 327",
+      "BGS 375",
+      "COM 307",
+      "COM 340",
+      "CLD 320",
+      "CLD 324",
+      "CLD 332",
+      "CLD 340",
+      "CLD 365",
+      "CMS 314L",
+      "CMS 338L",
+      "CMS 340K",
+      "CMS 356C",
+      "CMS 362D",
+      "CMS 362E",
+      "CMS 363C",
+      "CMS 363P",
+      "CMS 367",
+      "EDP 350L",
+      "GOV 320N",
+      "GOV 365W",
+      "HED 365",
+      "HED 366",
+      "H S 340",
+      "H S 341",
+      "HIS 317L",
+      "HIS 317L",
+      "HIS 356P",
+      "HIS 365G",
+      "J 305",
+      "J 308F",
+      "J 313P",
+      "J 315R",
+      "J 341F",
+      "J 341J",
+      "J 346G",
+      "J 348D",
+      "J 348N",
+      "J 351F",
+      "J 356R",
+      "LAS 315",
+      "N 309",
+      "N 321",
+      "PHL 304",
+      "PHL 325M",
+      "PHL 342R",
+      "PSY 306",
+      "PBH 317",
+      "RTF 323C",
+      "RTF 328C",
+      "RTF 335",
+      "RTF 335",
+      "RTF 359S",
+      "RTF 359S",
+      "RTF 359S",
+      "RTF 365",
+      "RTF 365",
+      "S W 310",
+      "S W 325",
+      "SOC 302",
+      "SOC 307K",
+      "SOC 307L",
+      "SOC 307T",
+      "SOC 308S",
+      "SOC 309C",
+      "SOC 319",
+      "SOC 321G",
+      "SOC 321K",
+      "SOC 322F",
+      "SOC 322U",
+      "SOC 335R",
+      "SOC 336D",
+      "SOC 343",
+      "SOC 345D",
+      "SOC 352",
+      "SOC 369K",
+      "SLH 314L",
+      "WGS 322C",
+      "WGS 335",
+      "WGS 345"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-and-leadership/",
-     "quote": "Nine semester hours in Social Issues, chosen from the following: Advertising 314, 320, 324, 336; African and African Diaspora Studies 303, 310K, 310L, 330, 350, 360, 360D, 360I; Education 327; Busines"
+     "quote": "Nine semester hours in Social Issues, chosen from the following: Advertising 314, 320, 324, 336; African and African Diaspora Studies 303, 310K, 310L, 330, 350, 360, 360D, 360I; Education 327; Business, Government, and S"
     }
    }
   ]

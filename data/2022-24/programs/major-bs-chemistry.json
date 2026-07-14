@@ -15,21 +15,29 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Six degree plans lead to the Bachelor of Science in Chemistry. Focus Areas I, II, III, and IV are intended to prepare students for professional careers, either upon graduation or after graduate study in chemistry or related fields. Focus Area V, Teaching, is intended to prepare students to enter the teaching profession. Focus Area VI, Chemistry Honors, is intended to prepare students for academic or research careers. Students who plan to follow Focus Area VI must be admitted to the Dean’s Scholars Honors Program.",
+    "type": "note",
+    "text": "Six degree plans lead to the Bachelor of Science in Chemistry. Focus Areas I, II, III, and IV are intended to prepare students for professional careers, either upon graduation or after graduate study in chemistry or related fields. Focus Area V, Teaching, is intended to prepare students to enter the teaching profession. Focus Area VI, Chemistry Honors, is intended to prepare students for academic ",
     "title": "Six degree plans lead to the Bachelor of Science in Chemistry. Focus Areas I, II",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
-     "quote": "Six degree plans lead to the Bachelor of Science in Chemistry. Focus Areas I, II, III, and IV are intended to prepare students for professional careers, either upon graduation or after graduate study "
+     "quote": "Six degree plans lead to the Bachelor of Science in Chemistry. Focus Areas I, II, III, and IV are intended to prepare students for professional careers, either upon graduation or after graduate study in chemistry or rela"
     }
    },
    {
-    "type": "manual",
-    "text": "The following courses: Mathematics 408C and 408D; or 408N, 408S, and 408M; 427J",
-    "title": "The following courses: Mathematics 408C and 408D; or 408N, 408S, and 408M; 427J",
+    "type": "course",
+    "course": "RHE 306",
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
-     "quote": "The following courses: Mathematics 408C and 408D; or 408N, 408S, and 408M; 427J"
+     "quote": "Skills and experience flags: a. Writing: two flagged courses beyond Rhetoric and Writing 306 or its equivalent, including one at the upper-division level b. Quantitative reasoning: one flagged course c. Global cultures: "
+    }
+   },
+   {
+    "type": "note",
+    "text": "Courses that may be used to fulfill flag requirements are identified in the Course Schedule. They may be used simultaneously to fulfill other requirements, unless otherwise specified. Please note, students may not earn the cultural diversity in the United States and the global cultures flag from the same course. Students are encouraged to discuss options with their academic advisors.",
+    "title": "Courses that may be used to fulfill flag requirements are identified in the Cour",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
+     "quote": "Courses that may be used to fulfill flag requirements are identified in the Course Schedule. They may be used simultaneously to fulfill other requirements, unless otherwise specified. Please note, students may not earn t"
     }
    },
    {
@@ -38,32 +46,6 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
      "quote": "Statistics and Data Sciences 320E"
-    }
-   },
-   {
-    "type": "all",
-    "title": "One of the following sequences: Physics 301, 101L, 316, and 116L",
-    "of": [
-     {
-      "type": "course",
-      "course": "PHY 301"
-     },
-     {
-      "type": "course",
-      "course": "PHY 101L"
-     },
-     {
-      "type": "course",
-      "course": "PHY 316"
-     },
-     {
-      "type": "course",
-      "course": "PHY 116L"
-     }
-    ],
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
-     "quote": "One of the following sequences: Physics 301, 101L, 316, and 116L"
     }
    },
    {
@@ -93,18 +75,84 @@
     }
    },
    {
-    "type": "manual",
-    "text": "General chemistry: Chemistry 301 or 301C, 302 or 302C, and 317",
+    "type": "all",
     "title": "General chemistry: Chemistry 301 or 301C, 302 or 302C, and 317",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 301"
+     },
+     {
+      "type": "course",
+      "course": "CH 301C"
+     },
+     {
+      "type": "course",
+      "course": "CH 302"
+     },
+     {
+      "type": "course",
+      "course": "CH 302C"
+     },
+     {
+      "type": "course",
+      "course": "CH 317"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
      "quote": "General chemistry: Chemistry 301 or 301C, 302 or 302C, and 317"
     }
    },
    {
-    "type": "manual",
-    "text": "Organic chemistry: Chemistry 128K, 128L, 328M, and 328N; Chemistry 128K, 128L, 328C and 329C; or Chemistry 220C, 320M, and 320N",
-    "title": "Organic chemistry: Chemistry 128K, 128L, 328M, and 328N; Chemistry 128K, 128L, 3",
+    "type": "all",
+    "title": "Organic chemistry: Chemistry 128K, 128L, 328M, and 328N; Chemistry 128K, 128L, 328C and 32",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 128K"
+     },
+     {
+      "type": "course",
+      "course": "CH 128L"
+     },
+     {
+      "type": "course",
+      "course": "CH 328M"
+     },
+     {
+      "type": "course",
+      "course": "CH 328N"
+     },
+     {
+      "type": "course",
+      "course": "CH 128K"
+     },
+     {
+      "type": "course",
+      "course": "CH 128L"
+     },
+     {
+      "type": "course",
+      "course": "CH 328C"
+     },
+     {
+      "type": "course",
+      "course": "CH 329C"
+     },
+     {
+      "type": "course",
+      "course": "CH 220C"
+     },
+     {
+      "type": "course",
+      "course": "CH 320M"
+     },
+     {
+      "type": "course",
+      "course": "CH 320N"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
      "quote": "Organic chemistry: Chemistry 128K, 128L, 328M, and 328N; Chemistry 128K, 128L, 328C and 329C; or Chemistry 220C, 320M, and 320N"
@@ -119,9 +167,26 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Physical Chemistry: Chemistry 353 or 353M, 153K, and 354",
+    "type": "all",
     "title": "Physical Chemistry: Chemistry 353 or 353M, 153K, and 354",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 353"
+     },
+     {
+      "type": "course",
+      "course": "CH 353M"
+     },
+     {
+      "type": "course",
+      "course": "CH 153K"
+     },
+     {
+      "type": "course",
+      "course": "CH 354"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
      "quote": "Physical Chemistry: Chemistry 353 or 353M, 153K, and 354"
@@ -130,31 +195,30 @@
    {
     "type": "hours",
     "hours": 36.0,
-    "umbrella": true,
-    "title": "36 upper-division hours",
+    "title": "Thirty-six semester hours of upper-division coursework.",
     "filter": {
-     "division": "upper",
-     "label": "Upper-division coursework"
+     "label": "Thirty-six semester hours of upper-division coursework.",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
      "quote": "Thirty-six semester hours of upper-division coursework."
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "hours",
     "hours": 21.0,
-    "umbrella": true,
-    "title": "21 upper-division hours",
+    "title": "At least 21 semester hours of upper-division coursework, including at least 12 semester ho",
     "filter": {
-     "division": "upper",
-     "label": "Upper-division coursework"
+     "label": "At least 21 semester hours of upper-division coursework, including at least 12 s",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
      "quote": "At least 21 semester hours of upper-division coursework, including at least 12 semester hours of upper-division coursework in chemistry, must be completed in residence at the University."
     },
-    "inResidence": true
+    "umbrella": true
    },
    {
     "type": "anyN",
@@ -218,22 +282,9 @@
         }
        },
        {
-        "type": "manual",
-        "text": "7. Choose four of any of the following courses: Chemistry 354C, 354M, 354S, 368, 368Q, 369K, 375K, 379H; Chemical Engineering 253K, 253M, 350; Biomedical Engineering 311, 335, 339, 343, 349; Electrical and Computer Engineering 313, 347, 351K; Physics 315, 333, 338K, 345; Biochemistry 339N, 364D",
-        "title": "7. Choose four of any of the following courses: Chemistry 354C, 354M, 354S, 368,",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
-         "quote": "7. Choose four of any of the following courses: Chemistry 354C, 354M, 354S, 368, 368Q, 369K, 375K, 379H; Chemical Engineering 253K, 253M, 350; Biomedical Engineering 311, 335, 339, 343, 349; Electrica"
-        }
-       },
-       {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "8. Enough additional coursework to make a total of 120 hours",
+        "title": "8. Enough additional coursework to make a total of 120 hours",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "8. Enough additional coursework to make a total of 120 hours"
@@ -286,22 +337,9 @@
         }
        },
        {
-        "type": "manual",
-        "text": "7. Choose four of any of the following courses: Chemistry 354S, 154K, 366D, 367C, 367P, 368, 368Q, 369K, 375K, and 379H; Mathematics 368K; Physics 333, 345, and 375S; Statistics and Data Sciences 374C",
-        "title": "7. Choose four of any of the following courses: Chemistry 354S, 154K, 366D, 367C",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
-         "quote": "7. Choose four of any of the following courses: Chemistry 354S, 154K, 366D, 367C, 367P, 368, 368Q, 369K, 375K, and 379H; Mathematics 368K; Physics 333, 345, and 375S; Statistics and Data Sciences 374C"
-        }
-       },
-       {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "8. Enough additional coursework to make a total of 120 hours",
+        "title": "8. Enough additional coursework to make a total of 120 hours",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "8. Enough additional coursework to make a total of 120 hours"
@@ -344,22 +382,9 @@
         }
        },
        {
-        "type": "manual",
-        "text": "7. Choose four of any of the following courses: Chemistry 341, 354S, 366C, 366D, 366E, 367P, 368, 368Q, 369K, 375K, 375P, 379H; Chemical Engineering 322, 323, 343; Electrical and Computer Engineering 334K, 339, 339S; Engineering Studies 360M; Mechanical Engineering 349; Petroleum and Geosystems Engineering 326, 421K, 427",
-        "title": "7. Choose four of any of the following courses: Chemistry 341, 354S, 366C, 366D,",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
-         "quote": "7. Choose four of any of the following courses: Chemistry 341, 354S, 366C, 366D, 366E, 367P, 368, 368Q, 369K, 375K, 375P, 379H; Chemical Engineering 322, 323, 343; Electrical and Computer Engineering "
-        }
-       },
-       {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "8. Enough additional coursework to make a total of 120 hours",
+        "title": "8. Enough additional coursework to make a total of 120 hours",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "8. Enough additional coursework to make a total of 120 hours"
@@ -424,22 +449,9 @@
         }
        },
        {
-        "type": "manual",
-        "text": "7. Choose four of any of the following courses: Chemistry 341, 354C, 354S, 154K, 366C, 366D, 366E, 367C, 367P, 368, 368Q, 369K, 372C, 375K, 375P, 379H; Biochemistry 339J, 339N, 364D, 369L, 370; Biology 325, 344; Biomedical Engineering 339, 355; Pharmacy PharmD 310K, 350K; Pharmacy Graduate Studies 388C, 396M",
-        "title": "7. Choose four of any of the following courses: Chemistry 341, 354C, 354S, 154K,",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
-         "quote": "7. Choose four of any of the following courses: Chemistry 341, 354C, 354S, 154K, 366C, 366D, 366E, 367C, 367P, 368, 368Q, 369K, 372C, 375K, 375P, 379H; Biochemistry 339J, 339N, 364D, 369L, 370; Biolog"
-        }
-       },
-       {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "8. Enough additional coursework to make a total of 120 hours",
+        "title": "8. Enough additional coursework to make a total of 120 hours",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "8. Enough additional coursework to make a total of 120 hours"
@@ -452,9 +464,39 @@
       "title": "Focus Area V: Teaching",
       "of": [
        {
-        "type": "manual",
-        "text": "6. Mathematics 408C and 408D, or 408N, 408S, and 408M",
+        "type": "note",
+        "text": "This focus area is designed to fulfill the course requirements for certification as a middle grade or secondary school science teacher in Texas; the student chooses one of the following areas: composite science certification with chemistry as the primary teaching field; physical sciences certification; or physical science, mathematics, and engineering certification. However, completion of the cour",
+        "title": "This focus area is designed to fulfill the course requirements for certification",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
+         "quote": "This focus area is designed to fulfill the course requirements for certification as a middle grade or secondary school science teacher in Texas; the student chooses one of the following areas: composite science certifica"
+        }
+       },
+       {
+        "type": "all",
         "title": "6. Mathematics 408C and 408D, or 408N, 408S, and 408M",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 408C"
+         },
+         {
+          "type": "course",
+          "course": "M 408D"
+         },
+         {
+          "type": "course",
+          "course": "M 408N"
+         },
+         {
+          "type": "course",
+          "course": "M 408S"
+         },
+         {
+          "type": "course",
+          "course": "M 408M"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "6. Mathematics 408C and 408D, or 408N, 408S, and 408M"
@@ -462,7 +504,6 @@
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "History 329U or Philosophy 329U",
         "of": [
          {
@@ -477,37 +518,69 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "History 329U or Philosophy 329U"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "One of the following sequences: For students seeking composite science certification: Physics 301, 101L, 316, and 116L; or Physics 303K, 105M, 303L, and 105N; or Physics 317K, 105M, 317L, and 105N. Science 365 and Physics 108 may substitute for Physics 316 and 116L, 317L and 105N, or 303L and 105N. Physics 108 is offered on the pass/fail basis.",
-        "title": "One of the following sequences: For students seeking composite science certifica",
+        "type": "all",
+        "title": "For students seeking either physical sciences certification or, mathematics, physical scie",
+        "of": [
+         {
+          "type": "course",
+          "course": "PHY 301"
+         },
+         {
+          "type": "course",
+          "course": "PHY 101L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 316"
+         },
+         {
+          "type": "course",
+          "course": "PHY 116L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 315"
+         },
+         {
+          "type": "course",
+          "course": "PHY 115L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 303K"
+         },
+         {
+          "type": "course",
+          "course": "PHY 105M"
+         },
+         {
+          "type": "course",
+          "course": "PHY 303L"
+         },
+         {
+          "type": "course",
+          "course": "PHY 105N"
+         },
+         {
+          "type": "course",
+          "course": "PHY 315"
+         },
+         {
+          "type": "course",
+          "course": "PHY 115L"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
-         "quote": "One of the following sequences: For students seeking composite science certification: Physics 301, 101L, 316, and 116L; or Physics 303K, 105M, 303L, and 105N; or Physics 317K, 105M, 317L, and 105N. Sc"
+         "quote": "For students seeking either physical sciences certification or, mathematics, physical science, and engineering certification: Physics 301, 101L, 316, 116L, 315, and 115L; or 303K, 105M, 303L, 105N, 315, and 115L"
         }
        },
        {
-        "type": "manual",
-        "text": "For students seeking either physical sciences certification or, mathematics, physical science, and engineering certification: Physics 301, 101L, 316, 116L, 315, and 115L; or 303K, 105M, 303L, 105N, 315, and 115L",
-        "title": "For students seeking either physical sciences certification or, mathematics, phy",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
-         "quote": "For students seeking either physical sciences certification or, mathematics, physical science, and engineering certification: Physics 301, 101L, 316, 116L, 315, and 115L; or 303K, 105M, 303L, 105N, 31"
-        }
-       },
-       {
-        "type": "manual",
-        "text": "The requirements of one of the following certification areas: For composite science certification: Biology 311C and 311D",
-        "title": "The requirements of one of the following certification areas: For composite scie",
-        "source": {
-         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
-         "quote": "The requirements of one of the following certification areas: For composite science certification: Biology 311C and 311D"
-        }
-       },
-       {
-        "type": "manual",
+        "type": "note",
         "text": "Six hours of coursework in geological sciences; courses intended for non-science majors may not be counted toward this requirement",
         "title": "Six hours of coursework in geological sciences; courses intended for non-science",
         "source": {
@@ -516,7 +589,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Enough additional approved coursework in biology, geological sciences, or physics to provide the required 12 hours in a second field",
         "title": "Enough additional approved coursework in biology, geological sciences, or physic",
         "source": {
@@ -525,17 +598,24 @@
         }
        },
        {
-        "type": "manual",
+        "type": "course",
+        "course": "CH 368",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
+         "quote": "Chemistry 368 (Topic 1: Research Methods: UTeach) or, with the consent of the UTeach-Natural Sciences academic advisor, an upper-division chemistry course that includes a substantial research component"
+        }
+       },
+       {
+        "type": "note",
         "text": "In place of requirements 3f through 3g of the prescribed work above, the following courses, for a total of at least 34 semester hours of chemistry: Biochemistry 339F or 369; Chemistry 353; and 455 or 456",
         "title": "In place of requirements 3f through 3g of the prescribed work above, the followi",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
-         "quote": "In place of requirements 3f through 3g of the prescribed work above, the following courses, for a total of at least 34 semester hours of chemistry: Biochemistry 339F or 369; Chemistry 353; and 455 or "
+         "quote": "In place of requirements 3f through 3g of the prescribed work above, the following courses, for a total of at least 34 semester hours of chemistry: Biochemistry 339F or 369; Chemistry 353; and 455 or 456"
         }
        },
        {
         "type": "anyN",
-        "n": 1,
         "title": "For physical sciences certification: Mathematics 427J or 427K and 427L",
         "of": [
          {
@@ -554,7 +634,8 @@
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "For physical sciences certification: Mathematics 427J or 427K and 427L"
-        }
+        },
+        "n": 1
        },
        {
         "type": "all",
@@ -575,43 +656,88 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Chemistry 354 and three hours of upper-division coursework in physics",
-        "title": "Chemistry 354 and three hours of upper-division coursework in physics",
+        "type": "course",
+        "course": "CH 354",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "Chemistry 354 and three hours of upper-division coursework in physics"
         }
        },
        {
-        "type": "manual",
+        "type": "course",
+        "course": "CH 368",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
+         "quote": "Chemistry 368 (Topic 1: Research Methods: UTeach) or, with the consent of the UTeach-Natural Sciences academic advisor, an upper-division chemistry course that includes a substantial research component"
+        }
+       },
+       {
+        "type": "note",
         "text": "In place of requirements 3f through 3g of the prescribed work above, the following courses, for a total of at least 34 semester hours of chemistry: Biochemistry 339F or 369; Chemistry 353, and 455 or 456",
         "title": "In place of requirements 3f through 3g of the prescribed work above, the followi",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
-         "quote": "In place of requirements 3f through 3g of the prescribed work above, the following courses, for a total of at least 34 semester hours of chemistry: Biochemistry 339F or 369; Chemistry 353, and 455 or "
+         "quote": "In place of requirements 3f through 3g of the prescribed work above, the following courses, for a total of at least 34 semester hours of chemistry: Biochemistry 339F or 369; Chemistry 353, and 455 or 456"
         }
        },
        {
-        "type": "manual",
-        "text": "For mathematics, physical science, and engineering certification: Mathematics 315C, 375D, 427J or 427K, and 333L",
-        "title": "For mathematics, physical science, and engineering certification: Mathematics 31",
+        "type": "all",
+        "title": "For mathematics, physical science, and engineering certification: Mathematics 315C, 375D, ",
+        "of": [
+         {
+          "type": "course",
+          "course": "M 315C"
+         },
+         {
+          "type": "course",
+          "course": "M 375D"
+         },
+         {
+          "type": "course",
+          "course": "M 427J"
+         },
+         {
+          "type": "course",
+          "course": "M 427K"
+         },
+         {
+          "type": "course",
+          "course": "M 333L"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "For mathematics, physical science, and engineering certification: Mathematics 315C, 375D, 427J or 427K, and 333L"
         }
        },
        {
-        "type": "manual",
-        "text": "Engineering Studies 301; and Mechanical Engineering 377K upon approval of the project by the UTeach Program",
-        "title": "Engineering Studies 301; and Mechanical Engineering 377K upon approval of the pr",
+        "type": "all",
+        "title": "Engineering Studies 301; and Mechanical Engineering 377K upon approval of the project by t",
+        "of": [
+         {
+          "type": "course",
+          "course": "E S 301"
+         },
+         {
+          "type": "course",
+          "course": "M E 377K"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "Engineering Studies 301; and Mechanical Engineering 377K upon approval of the project by the UTeach Program"
         }
        },
        {
-        "type": "manual",
+        "type": "course",
+        "course": "CH 368",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
+         "quote": "Chemistry 368 (Topic 1: Research Methods: UTeach) or, with the consent of the UTeach-Natural Sciences academic advisor, an upper-division chemistry course that includes a substantial research component"
+        }
+       },
+       {
+        "type": "note",
         "text": "In place of requirements 3f through 3g of the prescribed work above, the following courses, for a total of at least 30 semester hours in chemistry: Chemistry 353 and 153K, 455, and Biochemistry 369",
         "title": "In place of requirements 3f through 3g of the prescribed work above, the followi",
         "source": {
@@ -620,16 +746,31 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Eighteen semester hours of professional development coursework consisting of: a. Curriculum and Instruction 651S (Topic 4: Secondary School Teaching Practicum: Science) b. Curriculum and Instruction 365C or UTeach-Natural Sciences 350 c. Curriculum and Instruction 365D or UTeach-Natural Sciences 355 d. Curriculum and Instruction 365E or UTeach-Natural Sciences 360 e. UTeach-Natural Sciences 101, 110, and 170",
-        "title": "Eighteen semester hours of professional development coursework consisting of: a.",
+        "type": "hours",
+        "hours": 18.0,
+        "title": "Eighteen semester hours of professional development coursework consisting of: a. Curriculu",
+        "filter": {
+         "label": "Eighteen semester hours of professional development coursework consisting of: a.",
+         "courses": [
+          "EDC 651S",
+          "EDC 365C",
+          "UTS 350",
+          "EDC 365D",
+          "UTS 355",
+          "EDC 365E",
+          "UTS 360",
+          "UTS 101",
+          "UTS 110",
+          "UTS 170"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
-         "quote": "Eighteen semester hours of professional development coursework consisting of: a. Curriculum and Instruction 651S (Topic 4: Secondary School Teaching Practicum: Science) b. Curriculum and Instruction 3"
+         "quote": "Eighteen semester hours of professional development coursework consisting of: a. Curriculum and Instruction 651S (Topic 4: Secondary School Teaching Practicum: Science) b. Curriculum and Instruction 365C or UTeach-Natura"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Students seeking middle grades certification must complete the following courses: Educational Psychology 350G or Psychology 301 and 304; and Curriculum and Instruction 339E",
         "title": "Students seeking middle grades certification must complete the following courses",
         "source": {
@@ -638,13 +779,9 @@
         }
        },
        {
-        "type": "hours",
-        "hours": 126.0,
-        "umbrella": true,
-        "title": "126 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework, if needed, to make a total of 126 semester hours",
+        "title": "Enough additional coursework, if needed, to make a total of 126 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "Enough additional coursework, if needed, to make a total of 126 semester hours"
@@ -657,34 +794,52 @@
       "title": "Focus Area VI: Chemistry Honors",
       "of": [
        {
-        "type": "manual",
-        "text": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor",
-        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the department",
+        "type": "anyN",
+        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors ",
+        "of": [
+         {
+          "type": "course",
+          "course": "UGS 302"
+         },
+         {
+          "type": "course",
+          "course": "UGS 303"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor"
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "A section of Rhetoric and Writing 309S that is restricted to Dean’s Scholars",
-        "title": "A section of Rhetoric and Writing 309S that is restricted to Dean’s Scholars",
+        "type": "course",
+        "course": "RHE 309S",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "A section of Rhetoric and Writing 309S that is restricted to Dean’s Scholars"
         }
        },
        {
-        "type": "manual",
-        "text": "Chemistry 379H and a three-semester-hour upper-division research course approved by the departmental honors advisor, or six hours of Chemistry 379H",
-        "title": "Chemistry 379H and a three-semester-hour upper-division research course approved",
+        "type": "all",
+        "title": "Chemistry 379H and a three-semester-hour upper-division research course approved by the de",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 379H"
+         },
+         {
+          "type": "course",
+          "course": "CH 379H"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "Chemistry 379H and a three-semester-hour upper-division research course approved by the departmental honors advisor, or six hours of Chemistry 379H"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Twenty-two additional hours of coursework based on Focus Area I, II, III, or IV and approved by the departmental honors advisor",
         "title": "Twenty-two additional hours of coursework based on Focus Area I, II, III, or IV ",
         "source": {
@@ -693,7 +848,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Six semester hours of coursework from the College of Liberal Arts and/or the College of Fine Arts",
         "title": "Six semester hours of coursework from the College of Liberal Arts and/or the Col",
         "source": {
@@ -702,22 +857,63 @@
         }
        },
        {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 120 semester hours",
+        "title": "Enough additional coursework to make a total of 120 semester hours",
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "Enough additional coursework to make a total of 120 semester hours"
         }
        },
        {
-        "type": "manual",
-        "text": "Engineering Studies 301; and Mechanical Engineering 377Kupon approval of the project by the UTeach Program",
-        "title": "Engineering Studies 301; and Mechanical Engineering 377Kupon approval of the pro",
+        "type": "note",
+        "text": "Students in all Focus Areas must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for the degree, and a University grade point average in these courses of at least 2.00. More information about grades and the grade point average is given in the General Informatio",
+        "title": "Students in all Focus Areas must fulfill both the University's General Requireme",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
+         "quote": "Students in all Focus Areas must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required "
+        }
+       },
+       {
+        "type": "note",
+        "text": "To graduate and be recommended for certification, students who follow the teaching focus area must have a University grade point average of at least 2.50. They must earn a grade of at least C- in the supporting course in requirement 8, and each of the professional development courses listed in requirement 11 and must pass the final teaching portfolio review; those seeking middle grades certificati",
+        "title": "To graduate and be recommended for certification, students who follow the teachi",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
+         "quote": "To graduate and be recommended for certification, students who follow the teaching focus area must have a University grade point average of at least 2.50. They must earn a grade of at least C- in the supporting course in"
+        }
+       },
+       {
+        "type": "note",
+        "text": "To graduate under Focus Area VI, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor, and present their research in an approved public forum, such as the college’s annual Undergraduate Research Forum. More information about the Undergraduate Research Forum is available at https://cns.utexas.edu",
+        "title": "To graduate under Focus Area VI, students must remain in good standing in the De",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
+         "quote": "To graduate under Focus Area VI, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor, and present their research in an app"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Students begin the Bachelor of Science in Chemistry degree program with nine hours of introductory chemistry for science majors (Chemistry 301, 302, and 317), as well as Mathematics 408C or 408N. Students should consult with their academic advisors about planning to choose a chemistry degree focus area, appropriate course in mathematics and physical sciences, and about course load and balance betw",
+        "title": "Students begin the Bachelor of Science in Chemistry degree program with nine hou",
+        "source": {
+         "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
+         "quote": "Students begin the Bachelor of Science in Chemistry degree program with nine hours of introductory chemistry for science majors (Chemistry 301, 302, and 317), as well as Mathematics 408C or 408N. Students should consult "
+        }
+       },
+       {
+        "type": "all",
+        "title": "Engineering Studies 301; and Mechanical Engineering 377Kupon approval of the project by th",
+        "of": [
+         {
+          "type": "course",
+          "course": "E S 301"
+         },
+         {
+          "type": "course",
+          "course": "M E 377K"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bs-chemistry/",
          "quote": "Engineering Studies 301; and Mechanical Engineering 377Kupon approval of the project by the UTeach Program"

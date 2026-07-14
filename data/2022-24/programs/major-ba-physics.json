@@ -15,52 +15,108 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Physics 301, 101L, 316, 116L, 315, 115L, 355, and at least 15 semester hours of upper-division coursework in physics, including Physics 336K, 352K, and 353L",
-    "title": "Physics 301, 101L, 316, 116L, 315, 115L, 355, and at least 15 semester hours of ",
+    "type": "all",
+    "title": "Physics 301, 101L, 316, 116L, 315, 115L, 355, and at least 15 semester hours of upper-divi",
+    "of": [
+     {
+      "type": "course",
+      "course": "PHY 301"
+     },
+     {
+      "type": "course",
+      "course": "PHY 101L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 316"
+     },
+     {
+      "type": "course",
+      "course": "PHY 116L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 315"
+     },
+     {
+      "type": "course",
+      "course": "PHY 115L"
+     },
+     {
+      "type": "course",
+      "course": "PHY 355"
+     },
+     {
+      "type": "course",
+      "course": "PHY 336K"
+     },
+     {
+      "type": "course",
+      "course": "PHY 352K"
+     },
+     {
+      "type": "course",
+      "course": "PHY 353L"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/physics/",
      "quote": "Physics 301, 101L, 316, 116L, 315, 115L, 355, and at least 15 semester hours of upper-division coursework in physics, including Physics 336K, 352K, and 353L"
     }
    },
    {
-    "type": "manual",
-    "text": "Chemistry 301 or CH 301H, 302 or CH 302H, and 204",
+    "type": "all",
     "title": "Chemistry 301 or CH 301H, 302 or CH 302H, and 204",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 301"
+     },
+     {
+      "type": "course",
+      "course": "CH 302"
+     },
+     {
+      "type": "course",
+      "course": "CH 204"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/physics/",
      "quote": "Chemistry 301 or CH 301H, 302 or CH 302H, and 204"
     }
    },
    {
-    "type": "manual",
-    "text": "One of the following courses containing differential equations: Mathematics 427K, 427J, and 372K.",
-    "title": "One of the following courses containing differential equations: Mathematics 427K",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/physics/",
-     "quote": "One of the following courses containing differential equations: Mathematics 427K, 427J, and 372K."
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Nine additional hours of mathematics, including three upper-division hours",
+    "type": "hours",
+    "hours": 9.0,
     "title": "Nine additional hours of mathematics, including three upper-division hours",
+    "filter": {
+     "label": "Nine additional hours of mathematics, including three upper-division hours",
+     "subjects": [
+      "M"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/physics/",
      "quote": "Nine additional hours of mathematics, including three upper-division hours"
     }
    },
    {
-    "type": "manual",
-    "text": "Six hours of majors-level coursework, including three upper-division hours in one of the following: biology, chemistry, philosophy, psychology; or in courses offered in the College of Education or the Cockrell School of Engineering; courses used to fulfill specific degree requirements other than flag requirements may not also be used to fulfill this requirement.",
-    "title": "Six hours of majors-level coursework, including three upper-division hours in on",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours of majors-level coursework, including three upper-division hours in one of the f",
+    "filter": {
+     "label": "Six hours of majors-level coursework, including three upper-division hours in on",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/physics/",
-     "quote": "Six hours of majors-level coursework, including three upper-division hours in one of the following: biology, chemistry, philosophy, psychology; or in courses offered in the College of Education or the"
+     "quote": "Six hours of majors-level coursework, including three upper-division hours in one of the following: biology, chemistry, philosophy, psychology; or in courses offered in the College of Education or the Cockrell School of "
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students must earn a grade of at least C- in each mathematics and science course required for the degree, and a University grade point average in these courses of at least 2.00.",
     "title": "Students must earn a grade of at least C- in each mathematics and science course",
     "source": {
@@ -72,5 +128,8 @@
  },
  "auto": true,
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
- "degreeType": "BA"
+ "degreeType": "BA",
+ "majorSubjects": [
+  "M"
+ ]
 }

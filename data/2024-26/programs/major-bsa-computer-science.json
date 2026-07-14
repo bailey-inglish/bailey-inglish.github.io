@@ -16,7 +16,6 @@
   "of": [
    {
     "type": "anyN",
-    "n": 1,
     "title": "Mathematics: Mathematics 408C or 408N and 408S",
     "of": [
      {
@@ -35,7 +34,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
      "quote": "Mathematics: Mathematics 408C or 408N and 408S"
-    }
+    },
+    "n": 1
    },
    {
     "type": "all",
@@ -60,295 +60,141 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Statistics and Data Sciences 321. Mathematics 362K may substitute for this requirement.",
-    "title": "Statistics and Data Sciences 321. Mathematics 362K may substitute for this requi",
+    "type": "all",
+    "title": "Statistics and Data Sciences 321. Mathematics 362K may substitute for this requirement.",
+    "of": [
+     {
+      "type": "course",
+      "course": "SDS 321"
+     },
+     {
+      "type": "course",
+      "course": "M 362K"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
      "quote": "Statistics and Data Sciences 321. Mathematics 362K may substitute for this requirement."
     }
    },
    {
-    "type": "manual",
-    "text": "Primary science: Theory: Computer Science 311 or 311H, and 331 or 331H",
+    "type": "all",
     "title": "Primary science: Theory: Computer Science 311 or 311H, and 331 or 331H",
+    "of": [
+     {
+      "type": "course",
+      "course": "C S 311"
+     },
+     {
+      "type": "course",
+      "course": "C S 311H"
+     },
+     {
+      "type": "course",
+      "course": "C S 331"
+     },
+     {
+      "type": "course",
+      "course": "C S 331H"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
      "quote": "Primary science: Theory: Computer Science 311 or 311H, and 331 or 331H"
     }
    },
    {
-    "type": "manual",
-    "text": "Programming: Computer Science 312 and 314 or 314H",
+    "type": "all",
     "title": "Programming: Computer Science 312 and 314 or 314H",
+    "of": [
+     {
+      "type": "course",
+      "course": "C S 312"
+     },
+     {
+      "type": "course",
+      "course": "C S 314"
+     },
+     {
+      "type": "course",
+      "course": "C S 314H"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
      "quote": "Programming: Computer Science 312 and 314 or 314H"
     }
    },
    {
-    "type": "manual",
-    "text": "Systems: Computer Science 429 or 429H, and 439 or 439H",
+    "type": "all",
     "title": "Systems: Computer Science 429 or 429H, and 439 or 439H",
+    "of": [
+     {
+      "type": "course",
+      "course": "C S 429"
+     },
+     {
+      "type": "course",
+      "course": "C S 429H"
+     },
+     {
+      "type": "course",
+      "course": "C S 439"
+     },
+     {
+      "type": "course",
+      "course": "C S 439H"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
      "quote": "Systems: Computer Science 429 or 429H, and 439 or 439H"
     }
    },
    {
-    "type": "manual",
-    "text": "Twelve additional semester hours of approved upper-division computer science",
+    "type": "hours",
+    "hours": 12.0,
     "title": "Twelve additional semester hours of approved upper-division computer science",
+    "filter": {
+     "label": "Twelve additional semester hours of approved upper-division computer science",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
      "quote": "Twelve additional semester hours of approved upper-division computer science"
+    },
+    "umbrella": true
+   },
+   {
+    "type": "note",
+    "text": "Secondary science: Six semester hours of majors-level coursework chosen from a single field of study: biology, chemistry, or physics. It is recommended that students select courses that will also fulfill the Natural Science and Technology Part I core curriculum requirement.",
+    "title": "Secondary science: Six semester hours of majors-level coursework chosen from a s",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
+     "quote": "Secondary science: Six semester hours of majors-level coursework chosen from a single field of study: biology, chemistry, or physics. It is recommended that students select courses that will also fulfill the Natural Scie"
     }
    },
    {
-    "type": "manual",
-    "text": "At least 17 hours of computer science upper-division coursework must be completed in residence.",
-    "title": "At least 17 hours of computer science upper-division coursework must be complete",
+    "type": "hours",
+    "hours": 17.0,
+    "title": "At least 17 hours of computer science upper-division coursework must be completed in resid",
+    "filter": {
+     "label": "At least 17 hours of computer science upper-division coursework must be complete",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
      "quote": "At least 17 hours of computer science upper-division coursework must be completed in residence."
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "An undergraduate may not enroll in any computer science course more than once without written consent of an undergraduate advisor in computer science. No student may enroll in any computer science course more than twice. No student may take more than three upper-division computer science courses in a semester without written consent of an undergraduate advisor in computer science. All transfer coursework must be approved by faculty before it can count towards a computer science degree, except where equivalency is specified by state regulation.",
+    "type": "note",
+    "text": "An undergraduate may not enroll in any computer science course more than once without written consent of an undergraduate advisor in computer science. No student may enroll in any computer science course more than twice. No student may take more than three upper-division computer science courses in a semester without written consent of an undergraduate advisor in computer science. All transfer cou",
     "title": "An undergraduate may not enroll in any computer science course more than once wi",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
-     "quote": "An undergraduate may not enroll in any computer science course more than once without written consent of an undergraduate advisor in computer science. No student may enroll in any computer science cou"
-    }
-   },
-   {
-    "type": "all",
-    "title": "Curriculum (from suggested course arrangement)",
-    "of": [
-     {
-      "type": "course",
-      "course": "C S 312",
-      "title": "C S 312",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "M 408C",
-      "of": [
-       {
-        "type": "course",
-        "course": "M 408C",
-        "title": "M 408C",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "M 408N"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "UGS 302",
-      "of": [
-       {
-        "type": "course",
-        "course": "UGS 302",
-        "title": "UGS 302",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "UGS 303"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "C S 311",
-      "title": "C S 311",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "C S 314",
-      "title": "C S 314",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "RHE 306",
-      "title": "RHE 306",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "M 408S",
-      "title": "M 408S",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "C S 429",
-      "title": "C S 429",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "SDS 321",
-      "of": [
-       {
-        "type": "course",
-        "course": "SDS 321",
-        "title": "SDS 321",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "M 362K"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "C S 439",
-      "title": "C S 439",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "M 340L",
-      "title": "M 340L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "course",
-      "course": "C S 331",
-      "title": "C S 331",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "GOV 310L",
-      "title": "GOV 310L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "E 316L",
-      "of": [
-       {
-        "type": "course",
-        "course": "E 316L",
-        "title": "E 316L",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "E 316M"
-       },
-       {
-        "type": "course",
-        "course": "E 316N"
-       },
-       {
-        "type": "course",
-        "course": "E 316P"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "GOV 312L",
-      "title": "GOV 312L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/",
-       "quote": "Free elective (Elective)"
-      }
-     }
-    ],
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/computer-science/"
+     "quote": "An undergraduate may not enroll in any computer science course more than once without written consent of an undergraduate advisor in computer science. No student may enroll in any computer science course more than twice."
     }
    }
   ]
@@ -357,6 +203,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BSA",
  "majorSubjects": [
-  "M"
+  "C S"
  ]
 }

@@ -16,7 +16,6 @@
   "of": [
    {
     "type": "anyN",
-    "n": 1,
     "title": "Chemistry 301 or 301C",
     "of": [
      {
@@ -31,11 +30,11 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
      "quote": "Chemistry 301 or 301C"
-    }
+    },
+    "n": 1
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Chemistry 302 or 302C",
     "of": [
      {
@@ -50,11 +49,11 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
      "quote": "Chemistry 302 or 302C"
-    }
+    },
+    "n": 1
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Chemistry 204 or 317",
     "of": [
      {
@@ -69,11 +68,11 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
      "quote": "Chemistry 204 or 317"
-    }
+    },
+    "n": 1
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "One of the following sequences: Chemistry 220C, 320M, 320N; or",
     "of": [
      {
@@ -92,7 +91,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
      "quote": "One of the following sequences: Chemistry 220C, 320M, 320N; or"
-    }
+    },
+    "n": 1
    },
    {
     "type": "all",
@@ -138,7 +138,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Chemistry 354 or 354L",
     "of": [
      {
@@ -153,7 +152,8 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
      "quote": "Chemistry 354 or 354L"
-    }
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -180,18 +180,48 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Mathematics 408C and 408D, or Mathematics 408N, 408S, and 408M",
+    "type": "all",
     "title": "Mathematics 408C and 408D, or Mathematics 408N, 408S, and 408M",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 408C"
+     },
+     {
+      "type": "course",
+      "course": "M 408D"
+     },
+     {
+      "type": "course",
+      "course": "M 408N"
+     },
+     {
+      "type": "course",
+      "course": "M 408S"
+     },
+     {
+      "type": "course",
+      "course": "M 408M"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
      "quote": "Mathematics 408C and 408D, or Mathematics 408N, 408S, and 408M"
     }
    },
    {
-    "type": "manual",
-    "text": "Eight semester hours of physics chosen from one of the following sequences: Physics 303K, 103M, 303L, and 103N",
-    "title": "Eight semester hours of physics chosen from one of the following sequences: Phys",
+    "type": "hours",
+    "hours": 8.0,
+    "title": "Eight semester hours of physics chosen from one of the following sequences: Physics 303K, ",
+    "filter": {
+     "label": "Eight semester hours of physics chosen from one of the following sequences: Phys",
+     "courses": [
+      "PHY 303K",
+      "PHY 103M",
+      "PHY 303L",
+      "PHY 103N"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
      "quote": "Eight semester hours of physics chosen from one of the following sequences: Physics 303K, 103M, 303L, and 103N"
@@ -250,25 +280,25 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Completion of one of the following sequences: Twelve semester hours of majors-level coursework in biology, mathematics, or physics. Mathematics in requirement one or physics in requirement two may count toward the 12-hour total",
     "title": "Completion of one of the following sequences: Twelve semester hours of majors-le",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
-     "quote": "Completion of one of the following sequences: Twelve semester hours of majors-level coursework in biology, mathematics, or physics. Mathematics in requirement one or physics in requirement two may cou"
+     "quote": "Completion of one of the following sequences: Twelve semester hours of majors-level coursework in biology, mathematics, or physics. Mathematics in requirement one or physics in requirement two may count toward the 12-hou"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Computer Science 303E, 313E, and six hours chosen from Computer Science 323E, 324E, 326E, 327E, and 329E. Students choosing this option may simultaneously fulfill some of the requirements of the Elements of Computing Certificate",
     "title": "Computer Science 303E, 313E, and six hours chosen from Computer Science 323E, 32",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/chemistry/",
-     "quote": "Computer Science 303E, 313E, and six hours chosen from Computer Science 323E, 324E, 326E, 327E, and 329E. Students choosing this option may simultaneously fulfill some of the requirements of the Eleme"
+     "quote": "Computer Science 303E, 313E, and six hours chosen from Computer Science 323E, 324E, 326E, 327E, and 329E. Students choosing this option may simultaneously fulfill some of the requirements of the Elements of Computing Cer"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "With written consent of the department chair and approval of the dean, 12 semester hours in a field of study outside the College of Natural Sciences",
     "title": "With written consent of the department chair and approval of the dean, 12 semest",
     "source": {
@@ -277,7 +307,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students must earn a grade of at least C- in each mathematics and science course required for the degree, and a grade point average in these courses of at least 2.00.",
     "title": "Students must earn a grade of at least C- in each mathematics and science course",
     "source": {

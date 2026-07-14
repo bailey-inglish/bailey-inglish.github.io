@@ -15,18 +15,60 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Mathematics: Mathematics 408C and 408D, or 408N and 408S",
+    "type": "all",
     "title": "Mathematics: Mathematics 408C and 408D, or 408N and 408S",
+    "of": [
+     {
+      "type": "course",
+      "course": "M 408C"
+     },
+     {
+      "type": "course",
+      "course": "M 408D"
+     },
+     {
+      "type": "course",
+      "course": "M 408N"
+     },
+     {
+      "type": "course",
+      "course": "M 408S"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
      "quote": "Mathematics: Mathematics 408C and 408D, or 408N and 408S"
     }
    },
    {
-    "type": "manual",
-    "text": "Primary science: Chemistry 301 or 301C, 302 or 302C, and 204 or 317",
+    "type": "all",
     "title": "Primary science: Chemistry 301 or 301C, 302 or 302C, and 204 or 317",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 301"
+     },
+     {
+      "type": "course",
+      "course": "CH 301C"
+     },
+     {
+      "type": "course",
+      "course": "CH 302"
+     },
+     {
+      "type": "course",
+      "course": "CH 302C"
+     },
+     {
+      "type": "course",
+      "course": "CH 204"
+     },
+     {
+      "type": "course",
+      "course": "CH 317"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
      "quote": "Primary science: Chemistry 301 or 301C, 302 or 302C, and 204 or 317"
@@ -34,7 +76,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Chemistry 320M, 320N and 220C, or 328M, 328N, 128K and 128L",
     "of": [
      {
@@ -69,33 +110,55 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
      "quote": "Chemistry 320M, 320N and 220C, or 328M, 328N, 128K and 128L"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
-    "text": "Chemistry 353 or 353M, and 153K",
+    "type": "all",
     "title": "Chemistry 353 or 353M, and 153K",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 353"
+     },
+     {
+      "type": "course",
+      "course": "CH 353M"
+     },
+     {
+      "type": "course",
+      "course": "CH 153K"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
      "quote": "Chemistry 353 or 353M, and 153K"
     }
    },
    {
-    "type": "manual",
-    "text": "Chemistry 431; 455 or 456; and Biochemistry 369",
+    "type": "all",
     "title": "Chemistry 431; 455 or 456; and Biochemistry 369",
+    "of": [
+     {
+      "type": "course",
+      "course": "CH 431"
+     },
+     {
+      "type": "course",
+      "course": "CH 455"
+     },
+     {
+      "type": "course",
+      "course": "CH 456"
+     },
+     {
+      "type": "course",
+      "course": "BCH 369"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
      "quote": "Chemistry 431; 455 or 456; and Biochemistry 369"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Secondary science: One of the following physics sequences: Physics 301, 101L, 316, and 116L",
-    "title": "Secondary science: One of the following physics sequences: Physics 301, 101L, 31",
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-science-and-arts/chemistry/",
-     "quote": "Secondary science: One of the following physics sequences: Physics 301, 101L, 316, and 116L"
     }
    },
    {
@@ -156,6 +219,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BSA",
  "majorSubjects": [
-  "PHY"
+  "CH"
  ]
 }

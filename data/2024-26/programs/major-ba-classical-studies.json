@@ -15,16 +15,21 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
-    "text": "Thirty-six semester hours of coursework, at least 21 of which must be upper-division, in one of the two areas of specialization, ancient history or classical archaeology, listed below. Coursework counted toward the foreign language requirement may not also be counted toward the major.",
-    "title": "Thirty-six semester hours of coursework, at least 21 of which must be upper-divi",
+    "type": "hours",
+    "hours": 36.0,
+    "title": "Thirty-six semester hours of coursework, at least 21 of which must be upper-division, in o",
+    "filter": {
+     "label": "Thirty-six semester hours of coursework, at least 21 of which must be upper-divi",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-studies/",
-     "quote": "Thirty-six semester hours of coursework, at least 21 of which must be upper-division, in one of the two areas of specialization, ancient history or classical archaeology, listed below. Coursework coun"
-    }
+     "quote": "Thirty-six semester hours of coursework, at least 21 of which must be upper-division, in one of the two areas of specialization, ancient history or classical archaeology, listed below. Coursework counted toward the forei"
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Ancient History Six hours of premodern history, chosen from topics of Ancient History and Classical Civilization 310 and 330.",
     "title": "Ancient History Six hours of premodern history, chosen from topics of Ancient Hi",
     "source": {
@@ -33,9 +38,16 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Nine hours of upper-division Greek and/or Roman history, chosen from topics of Ancient History and Classical Civilization 325.",
-    "title": "Nine hours of upper-division Greek and/or Roman history, chosen from topics of A",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine hours of upper-division Greek and/or Roman history, chosen from topics of Ancient His",
+    "filter": {
+     "label": "Nine hours of upper-division Greek and/or Roman history, chosen from topics of A",
+     "courses": [
+      "AHC 325"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-studies/",
      "quote": "Nine hours of upper-division Greek and/or Roman history, chosen from topics of Ancient History and Classical Civilization 325."
@@ -44,32 +56,28 @@
    {
     "type": "hours",
     "hours": 12.0,
-    "umbrella": true,
-    "title": "12 hours of classical civilization",
+    "title": "Twelve hours of classical civilization, Greek, Latin, or topics of Ancient History and Cla",
     "filter": {
-     "subjects": [
-      "C C"
-     ],
-     "label": "Classical Civilization coursework"
+     "label": "Twelve hours of classical civilization, Greek, Latin, or topics of Ancient Histo",
+     "courses": [
+      "AHC 325",
+      "AHC 378"
+     ]
     },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-studies/",
      "quote": "Twelve hours of classical civilization, Greek, Latin, or topics of Ancient History and Classical Civilization 325 and 378."
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "Twelve hours of classical civilization, Greek, Latin, or topics of Ancient History and Classical Civilization 325 and 378.",
-    "title": "Specific courses within: 12 hours of classical civilization",
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-studies/",
-     "quote": "Twelve hours of classical civilization, Greek, Latin, or topics of Ancient History and Classical Civilization 325 and 378."
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Six hours of upper-division coursework in Greek and/or Latin.",
+    "type": "hours",
+    "hours": 6.0,
     "title": "Six hours of upper-division coursework in Greek and/or Latin.",
+    "filter": {
+     "label": "Six hours of upper-division coursework in Greek and/or Latin.",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-studies/",
      "quote": "Six hours of upper-division coursework in Greek and/or Latin."
@@ -84,74 +92,106 @@
     }
    },
    {
-    "type": "all",
-    "title": "Classical Archaeology Nine hours of coursework in classical archaeology chosen from Classi",
-    "of": [
-     {
-      "type": "course",
-      "course": "C C 307C"
-     },
-     {
-      "type": "course",
-      "course": "C C 307D"
-     },
-     {
-      "type": "course",
-      "course": "C C 320P"
-     },
-     {
-      "type": "course",
-      "course": "C C 340"
-     }
-    ],
+    "type": "note",
+    "text": "Classical Archaeology Nine hours of coursework in classical archaeology chosen from Classical Civilization 307C, 307D; C C 320P and 340.",
+    "title": "Classical Archaeology Nine hours of coursework in classical archaeology chosen f",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-studies/",
      "quote": "Classical Archaeology Nine hours of coursework in classical archaeology chosen from Classical Civilization 307C, 307D; C C 320P and 340."
     }
    },
    {
-    "type": "manual",
-    "text": "Three hours of approved coursework in archaeological techniques and analysis, chosen from Anthropology 453, 462M, Geography 460G 462K, or courses on approved list.",
-    "title": "Three hours of approved coursework in archaeological techniques and analysis, ch",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three hours of approved coursework in archaeological techniques and analysis, chosen from ",
+    "filter": {
+     "label": "Three hours of approved coursework in archaeological techniques and analysis, ch",
+     "courses": [
+      "ANT 453",
+      "ANT 462M",
+      "GRG 460G",
+      "GRG 462K"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-studies/",
      "quote": "Three hours of approved coursework in archaeological techniques and analysis, chosen from Anthropology 453, 462M, Geography 460G 462K, or courses on approved list."
     }
    },
    {
-    "type": "manual",
-    "text": "Three hours of upper-division coursework in Greek or Roman history, chosen from topics of Ancient History and Classical Civilization 325 and 378.",
-    "title": "Three hours of upper-division coursework in Greek or Roman history, chosen from ",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three hours of upper-division coursework in Greek or Roman history, chosen from topics of ",
+    "filter": {
+     "label": "Three hours of upper-division coursework in Greek or Roman history, chosen from ",
+     "courses": [
+      "AHC 325",
+      "AHC 378"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-studies/",
      "quote": "Three hours of upper-division coursework in Greek or Roman history, chosen from topics of Ancient History and Classical Civilization 325 and 378."
     }
    },
    {
-    "type": "manual",
-    "text": "Three hours of approved upper-division coursework in ancient art history, chosen from Art History 325, 327N, 327R, and 362, or courses from an approved list.",
-    "title": "Three hours of approved upper-division coursework in ancient art history, chosen",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three hours of approved upper-division coursework in ancient art history, chosen from Art ",
+    "filter": {
+     "label": "Three hours of approved upper-division coursework in ancient art history, chosen",
+     "courses": [
+      "ARH 325",
+      "ARH 327N",
+      "ARH 327R",
+      "ARH 362"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-studies/",
      "quote": "Three hours of approved upper-division coursework in ancient art history, chosen from Art History 325, 327N, 327R, and 362, or courses from an approved list."
     }
    },
    {
-    "type": "manual",
-    "text": "Six hours of upper-division coursework in either Greek or Latin.",
+    "type": "hours",
+    "hours": 6.0,
     "title": "Six hours of upper-division coursework in either Greek or Latin.",
+    "filter": {
+     "label": "Six hours of upper-division coursework in either Greek or Latin.",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-studies/",
      "quote": "Six hours of upper-division coursework in either Greek or Latin."
     }
    },
    {
-    "type": "manual",
-    "text": "Twelve additional hours of coursework chosen from Anthropology 304, 304T, approved topics of Middle Eastern Studies 342, Religious Studies 354D, Greek, Latin, and the areas listed in requirements (2a) through (2e).",
-    "title": "Twelve additional hours of coursework chosen from Anthropology 304, 304T, approv",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve additional hours of coursework chosen from Anthropology 304, 304T, approved topics ",
+    "filter": {
+     "label": "Twelve additional hours of coursework chosen from Anthropology 304, 304T, approv",
+     "courses": [
+      "ANT 304",
+      "ANT 304T",
+      "MES 342",
+      "R S 354D"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-studies/",
-     "quote": "Twelve additional hours of coursework chosen from Anthropology 304, 304T, approved topics of Middle Eastern Studies 342, Religious Studies 354D, Greek, Latin, and the areas listed in requirements (2a)"
+     "quote": "Twelve additional hours of coursework chosen from Anthropology 304, 304T, approved topics of Middle Eastern Studies 342, Religious Studies 354D, Greek, Latin, and the areas listed in requirements (2a) through (2e)."
+    }
+   },
+   {
+    "type": "note",
+    "text": "Fieldwork experience approved by the classical studies faculty advisor.",
+    "title": "Fieldwork experience approved by the classical studies faculty advisor.",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/classical-studies/",
+     "quote": "Fieldwork experience approved by the classical studies faculty advisor."
     }
    }
   ]
@@ -160,6 +200,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BA",
  "majorSubjects": [
-  "C C"
+  "AHC"
  ]
 }

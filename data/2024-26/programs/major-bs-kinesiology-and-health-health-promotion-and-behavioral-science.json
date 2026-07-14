@@ -29,7 +29,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Three hours of additional Social Science (Three additional hours of Social and Behavioral Sciences chosen from the following fields: ANT, ECO, GRG, LIN, or SOC*)",
     "title": "Three hours of additional Social Science (Three additional hours of Social and B",
     "source": {
@@ -46,7 +46,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "* Coursework used to satisfy the Social and Behavioral Sciences Core Curriculum requirement may not also be used to satisfy this requirement.",
     "title": "* Coursework used to satisfy the Social and Behavioral Sciences Core Curriculum ",
     "source": {
@@ -151,16 +151,16 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside of the department, a certificate, or a track in a second field of study which consists of a minimum of 15 hours of coursework, six of which must be upper-division. No more than six hours in the minor may also be counted toward other degree requirements.*",
     "title": "Either a specialization in the Department of Kinesiology and Health Education, a",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/health-promotion-and-behavioral-science/",
-     "quote": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside of the department, a certificate, or a track in a second field of study which consists of a minimum of 15 hours of coursework, six of which must be upper-division. No more than six hours in the minor may also be counted toward other degree requirements.*"
+     "quote": "Either a specialization in the Department of Kinesiology and Health Education, a minor outside of the department, a certificate, or a track in a second field of study which consists of a minimum of 15 hours of coursework"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Additional coursework to fulfill all degree requirements and reach a total of 120 semester hours. No more than 12 semester hours of fieldwork and/or internship courses may be counted toward the degree.",
     "title": "Additional coursework to fulfill all degree requirements and reach a total of 12",
     "source": {
@@ -169,12 +169,26 @@
     }
    },
    {
-    "type": "manual",
-    "text": "120 semester credit hours is required. All Bachelor of Science in Kinesiology and Health majors are exposed to all aspects of the fields of kinesiology and health. At least 36 hours must be upper-division coursework.",
-    "title": "120 semester credit hours is required. All Bachelor of Science in Kinesiology an",
+    "type": "hours",
+    "hours": 120.0,
+    "title": "120 semester credit hours is required. All Bachelor of Science in Kinesiology and Health m",
+    "filter": {
+     "label": "120 semester credit hours is required. All Bachelor of Science in Kinesiology an",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/health-promotion-and-behavioral-science/",
-     "quote": "120 semester credit hours is required. All Bachelor of Science in Kinesiology and Health majors are exposed to all aspects of the fields of kinesiology and health. At least 36 hours must be upper-divi"
+     "quote": "120 semester credit hours is required. All Bachelor of Science in Kinesiology and Health majors are exposed to all aspects of the fields of kinesiology and health. At least 36 hours must be upper-division coursework."
+    },
+    "umbrella": true
+   },
+   {
+    "type": "note",
+    "text": "More information, including a list of specializations, tracks, and minors is available on the College of Education's Degrees and Programs page.",
+    "title": "More information, including a list of specializations, tracks, and minors is ava",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/education/degrees-and-programs/bs-kinesiology-and-health/health-promotion-and-behavioral-science/",
+     "quote": "More information, including a list of specializations, tracks, and minors is available on the College of Education's Degrees and Programs page."
     }
    }
   ]

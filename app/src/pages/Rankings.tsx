@@ -22,7 +22,7 @@ function AuditCard({ audit }: { audit: ProgramAudit }) {
           {audit.program.auto && (
             <span
               className="pill manual"
-              title="Requirements auto-extracted from the catalog page — some rules appear as manual checks; verify against the catalog"
+              title="Requirements auto-extracted from the catalog page — always verify against the linked catalog page and your advisor"
             >
               auto
             </span>
@@ -42,7 +42,6 @@ function AuditCard({ audit }: { audit: ProgramAudit }) {
       <div className="muted">
         {audit.metLeaves}/{audit.totalLeaves} requirements met · ≈{audit.remainingHours} hours
         left
-        {audit.manualLeaves > 0 && <> · {audit.manualLeaves} manual check{audit.manualLeaves > 1 ? 's' : ''}</>}
       </div>
       <div style={{ marginTop: '0.5rem' }}>
         <button className={`btn small${mine ? ' primary' : ''}`} onClick={() => toggleMyProgram(audit.programId)}>
@@ -94,9 +93,10 @@ export function Rankings() {
       })}
       <p className="warnbox" style={{ marginTop: '1.2rem' }}>
         Coverage note: programs marked “auto” were extracted automatically from their
-        catalog pages — structured requirements are audited for you, while prose that
-        couldn’t be formalized shows up as manual checks. Hand-verified encodings replace
-        them over time. Always confirm against the linked catalog page and your advisor.
+        catalog pages. Every requirement that can be checked against your coursework is
+        audited for you; catalog language that isn’t a checkable course rule (advisor
+        approvals, policies) appears as ⓘ context on the program page. Always confirm
+        against the linked catalog page and your advisor.
       </p>
     </>
   )

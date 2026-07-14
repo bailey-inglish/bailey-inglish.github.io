@@ -1,6 +1,6 @@
 import type { NodeResult } from '../engine/types'
 
-const STATUS_LABEL = { met: 'met', partial: 'partial', unmet: 'not met', manual: 'manual check' }
+const STATUS_LABEL = { met: 'met', partial: 'partial', unmet: 'not met', manual: 'manual check', note: '' }
 
 export function RuleTree({
   result,
@@ -28,6 +28,17 @@ function Node({
   checkedManual?: Set<string>
 }) {
   const { node, status } = result
+
+  if (node.type === 'note') {
+    return (
+      <li>
+        <div className="quote" style={{ marginLeft: 0, borderLeftColor: 'var(--line)' }}>
+          ⓘ {node.text}
+        </div>
+      </li>
+    )
+  }
+
   const title =
     node.title ??
     (node.type === 'course'

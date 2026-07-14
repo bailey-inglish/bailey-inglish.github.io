@@ -17,18 +17,19 @@
    {
     "type": "hours",
     "hours": 33.0,
-    "umbrella": true,
-    "title": "33 hours of anthropology",
+    "title": "Thirty-three semester hours of anthropology, including at least 18 hours of upper-division",
     "filter": {
+     "label": "Thirty-three semester hours of anthropology, including at least 18 hours of uppe",
      "subjects": [
       "ANT"
      ],
-     "label": "Anthropology coursework"
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/anthropology/",
      "quote": "Thirty-three semester hours of anthropology, including at least 18 hours of upper-division coursework, consisting of"
-    }
+    },
+    "umbrella": true
    },
    {
     "type": "all",
@@ -57,9 +58,16 @@
     }
    },
    {
-    "type": "manual",
-    "text": "At least three semester hours of upper-division coursework in each of the following areas Theory: Anthropology 330C or an approved alternate course",
-    "title": "At least three semester hours of upper-division coursework in each of the follow",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "At least three semester hours of upper-division coursework in each of the following areas ",
+    "filter": {
+     "label": "At least three semester hours of upper-division coursework in each of the follow",
+     "courses": [
+      "ANT 330C"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/anthropology/",
      "quote": "At least three semester hours of upper-division coursework in each of the following areas Theory: Anthropology 330C or an approved alternate course"
@@ -67,7 +75,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Methods: Anthropology 453, 662, 462M, or an approved alternate course",
     "of": [
      {
@@ -86,15 +93,30 @@
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/anthropology/",
      "quote": "Methods: Anthropology 453, 662, 462M, or an approved alternate course"
-    }
+    },
+    "n": 1
    },
    {
-    "type": "manual",
-    "text": "Twelve additional hours, including at least nine hours of upper-division coursework",
-    "title": "Twelve additional hours, including at least nine hours of upper-division coursew",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve additional hours, including at least nine hours of upper-division coursework",
+    "filter": {
+     "label": "Twelve additional hours, including at least nine hours of upper-division coursew",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/anthropology/",
      "quote": "Twelve additional hours, including at least nine hours of upper-division coursework"
+    },
+    "umbrella": true
+   },
+   {
+    "type": "note",
+    "text": "A list of the courses in each area of requirement 2 is available from the anthropology advisor.",
+    "title": "A list of the courses in each area of requirement 2 is available from the anthro",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/anthropology/",
+     "quote": "A list of the courses in each area of requirement 2 is available from the anthropology advisor."
     }
    }
   ]

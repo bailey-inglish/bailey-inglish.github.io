@@ -17,70 +17,266 @@
    {
     "type": "hours",
     "hours": 28.0,
-    "umbrella": true,
-    "title": "28 hours of psychology",
+    "title": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-division, in",
     "filter": {
-     "subjects": [
-      "PSY"
+     "label": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-di",
+     "courses": [
+      "PSY 301",
+      "PSY 317L",
+      "PSY 420M",
+      "PSY 317",
+      "PSY 120R",
+      "PSY 420M",
+      "PSY 301",
+      "PSY 317L",
+      "PSY 420M"
      ],
-     "label": "Psychology coursework"
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/psychology/",
-     "quote": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-division, including Psychology 301, 317L and 420M with a grade of at least C in each. (Students with credit for Psychology"
-    }
-   },
-   {
-    "type": "hours",
-    "hours": 19.0,
-    "umbrella": true,
-    "title": "19 upper-division hours of psychology",
-    "filter": {
-     "subjects": [
-      "PSY"
-     ],
-     "division": "upper",
-     "label": "Upper-division psychology"
+     "quote": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-division, including Psychology 301, 317L and 420M with a grade of at least C in each. (Students with credit for Psychology 317 must complete P"
     },
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/psychology/",
-     "quote": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-division, including Psychology 301, 317L and 420M with a grade of at least C in each. (Students with credit for Psychology"
-    }
+    "minGrade": "C",
+    "umbrella": true
    },
    {
-    "type": "manual",
-    "text": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-division, including Psychology 301, 317L and 420M with a grade of at least C in each. (Students with credit for Psychology 317 must complete Psychology 120R with a grade of at least C prior to advancing to Psychology 420M). No more that three hours of lower-division psychology may be taken in addition to Psychology 301 and 317L, and no less than 15 hours of upper-division beyond Psychology 420M. Also included in these 28 hours must be at least three hours in each of the following three areas.",
-    "title": "Specific courses within: 28 hours of psychology",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/psychology/",
-     "quote": "Twenty-eight semester hours of psychology, at least 19 of which must be upper-division, including Psychology 301, 317L and 420M with a grade of at least C in each. (Students with credit for Psychology"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Clinical/social/developmental/evolutionary psychology: Psychology 333C, 333D, 333E, 333F, 333M, 333R, 333T, 333W, 334D, 334E, 339, 343K, 346K, 364, 365G",
-    "title": "Clinical/social/developmental/evolutionary psychology: Psychology 333C, 333D, 33",
+    "type": "all",
+    "title": "Clinical/social/developmental/evolutionary psychology: Psychology 333C, 333D, 333E, 333F, ",
+    "of": [
+     {
+      "type": "course",
+      "course": "PSY 333C"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333D"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333E"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333F"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333M"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333R"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333T"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333W"
+     },
+     {
+      "type": "course",
+      "course": "PSY 334D"
+     },
+     {
+      "type": "course",
+      "course": "PSY 334E"
+     },
+     {
+      "type": "course",
+      "course": "PSY 339"
+     },
+     {
+      "type": "course",
+      "course": "PSY 343K"
+     },
+     {
+      "type": "course",
+      "course": "PSY 346K"
+     },
+     {
+      "type": "course",
+      "course": "PSY 364"
+     },
+     {
+      "type": "course",
+      "course": "PSY 365G"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/psychology/",
      "quote": "Clinical/social/developmental/evolutionary psychology: Psychology 333C, 333D, 333E, 333F, 333M, 333R, 333T, 333W, 334D, 334E, 339, 343K, 346K, 364, 365G"
     }
    },
    {
-    "type": "manual",
-    "text": "Cognition/language/neuroscience/perception: Psychology 323, 323P, 323S, 326K, 332, 332C, 333N, 333P, 337, 338K, 345, 353K, 355, 355D, 355R, 371",
-    "title": "Cognition/language/neuroscience/perception: Psychology 323, 323P, 323S, 326K, 33",
+    "type": "all",
+    "title": "Cognition/language/neuroscience/perception: Psychology 323, 323P, 323S, 326K, 332, 332C, 3",
+    "of": [
+     {
+      "type": "course",
+      "course": "PSY 323"
+     },
+     {
+      "type": "course",
+      "course": "PSY 323P"
+     },
+     {
+      "type": "course",
+      "course": "PSY 323S"
+     },
+     {
+      "type": "course",
+      "course": "PSY 326K"
+     },
+     {
+      "type": "course",
+      "course": "PSY 332"
+     },
+     {
+      "type": "course",
+      "course": "PSY 332C"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333N"
+     },
+     {
+      "type": "course",
+      "course": "PSY 333P"
+     },
+     {
+      "type": "course",
+      "course": "PSY 337"
+     },
+     {
+      "type": "course",
+      "course": "PSY 338K"
+     },
+     {
+      "type": "course",
+      "course": "PSY 345"
+     },
+     {
+      "type": "course",
+      "course": "PSY 353K"
+     },
+     {
+      "type": "course",
+      "course": "PSY 355"
+     },
+     {
+      "type": "course",
+      "course": "PSY 355D"
+     },
+     {
+      "type": "course",
+      "course": "PSY 355R"
+     },
+     {
+      "type": "course",
+      "course": "PSY 371"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/psychology/",
      "quote": "Cognition/language/neuroscience/perception: Psychology 323, 323P, 323S, 326K, 332, 332C, 333N, 333P, 337, 338K, 345, 353K, 355, 355D, 355R, 371"
     }
    },
    {
-    "type": "manual",
-    "text": "Psychology 420M and at least six hours of upper-division coursework must be completed in residence at the University. Psychology majors must earn a grade of at least C in Psychology 317L (120R) and 420M to register for upper-division psychology courses. Students may not enroll in Psychology 317L (120R) and 420M more than twice.",
-    "title": "Psychology 420M and at least six hours of upper-division coursework must be comp",
+    "type": "anyN",
+    "title": "Multicultural/diversity/inclusion in the behavioral sciences: Psychology 332U, 364T, 365D,",
+    "of": [
+     {
+      "type": "course",
+      "course": "PSY 332U"
+     },
+     {
+      "type": "course",
+      "course": "PSY 364T"
+     },
+     {
+      "type": "course",
+      "course": "PSY 365D"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/psychology/",
-     "quote": "Psychology 420M and at least six hours of upper-division coursework must be completed in residence at the University. Psychology majors must earn a grade of at least C in Psychology 317L (120R) and 42"
+     "quote": "Multicultural/diversity/inclusion in the behavioral sciences: Psychology 332U, 364T, 365D, or a course chosen from an approved list available at https://liberalarts.utexas.edu/psychology/"
+    },
+    "n": 1
+   },
+   {
+    "type": "all",
+    "title": "Psychology 420M and at least six hours of upper-division coursework must be completed in r",
+    "of": [
+     {
+      "type": "course",
+      "course": "PSY 420M",
+      "minGrade": "C"
+     },
+     {
+      "type": "course",
+      "course": "PSY 317L",
+      "minGrade": "C"
+     },
+     {
+      "type": "course",
+      "course": "PSY 120R",
+      "minGrade": "C"
+     },
+     {
+      "type": "course",
+      "course": "PSY 420M",
+      "minGrade": "C"
+     },
+     {
+      "type": "course",
+      "course": "PSY 317L",
+      "minGrade": "C"
+     },
+     {
+      "type": "course",
+      "course": "PSY 120R",
+      "minGrade": "C"
+     },
+     {
+      "type": "course",
+      "course": "PSY 420M",
+      "minGrade": "C"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/psychology/",
+     "quote": "Psychology 420M and at least six hours of upper-division coursework must be completed in residence at the University. Psychology majors must earn a grade of at least C in Psychology 317L (120R) and 420M to register for u"
+    }
+   },
+   {
+    "type": "all",
+    "title": "Psychology 357 and 359 are offered on the pass/fail basis only; they may not be counted to",
+    "of": [
+     {
+      "type": "course",
+      "course": "PSY 357"
+     },
+     {
+      "type": "course",
+      "course": "PSY 359"
+     }
+    ],
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/psychology/",
+     "quote": "Psychology 357 and 359 are offered on the pass/fail basis only; they may not be counted toward the 28 hours in psychology required for the major."
+    }
+   },
+   {
+    "type": "note",
+    "text": "No student may register for more than 10 semester hours of psychology in any one semester without approval of an undergraduate advisor in the Department of Psychology.",
+    "title": "No student may register for more than 10 semester hours of psychology in any one",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/psychology/",
+     "quote": "No student may register for more than 10 semester hours of psychology in any one semester without approval of an undergraduate advisor in the Department of Psychology."
     }
    }
   ]

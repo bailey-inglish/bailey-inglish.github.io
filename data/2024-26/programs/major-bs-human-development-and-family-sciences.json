@@ -15,25 +15,48 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students seeking the Bachelor of Science in Human Development and Family Sciences must choose one of the three Options described below. Those who plan to follow Option V must be admitted to the Dean’s Scholars Honors Program and those who plan to follow Option VI must be admitted to the Honors in Advanced Human Development and Family Sciences Program.",
     "title": "Students seeking the Bachelor of Science in Human Development and Family Science",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-     "quote": "Students seeking the Bachelor of Science in Human Development and Family Sciences must choose one of the three Options described below. Those who plan to follow Option V must be admitted to the Dean’s"
+     "quote": "Students seeking the Bachelor of Science in Human Development and Family Sciences must choose one of the three Options described below. Those who plan to follow Option V must be admitted to the Dean’s Scholars Honors Pro"
     }
    },
    {
-    "type": "manual",
-    "text": "At least 36 semester hours of upper-division coursework; at least 21 semester hours must be completed in residence at the University",
-    "title": "At least 36 semester hours of upper-division coursework; at least 21 semester ho",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine semester hours, at least three of which must be upper-division, chosen from courses i",
+    "filter": {
+     "label": "Nine semester hours, at least three of which must be upper-division, chosen from",
+     "courses": [
+      "PSY 304",
+      "PSY 333D",
+      "PSY 339"
+     ],
+     "division": "upper"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
+     "quote": "Nine semester hours, at least three of which must be upper-division, chosen from courses in economics, social or cultural anthropology, sociology, government, history, linguistics, philosophy, geography and the environme"
+    }
+   },
+   {
+    "type": "hours",
+    "hours": 36.0,
+    "title": "At least 36 semester hours of upper-division coursework; at least 21 semester hours must b",
+    "filter": {
+     "label": "At least 36 semester hours of upper-division coursework; at least 21 semester ho",
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
      "quote": "At least 36 semester hours of upper-division coursework; at least 21 semester hours must be completed in residence at the University"
-    }
+    },
+    "umbrella": true
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Eighteen semester hours in the School of Human Ecology must be completed in residence at the University",
     "title": "Eighteen semester hours in the School of Human Ecology must be completed in resi",
     "source": {
@@ -81,48 +104,140 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Chemistry 301 or 301C; Biology 311C; Biology 311D or Chemistry 302 or 302C; and three additional semester hours of coursework in astronomy, biology, chemistry, computer science, geological sciences, neuroscience, mathematics, physics, or nutrition. Courses designed for non-science majors may not be counted toward this requirement.",
-        "title": "Chemistry 301 or 301C; Biology 311C; Biology 311D or Chemistry 302 or 302C; and ",
+        "type": "all",
+        "title": "Chemistry 301 or 301C; Biology 311C; Biology 311D or Chemistry 302 or 302C; and three addi",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 301"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "BIO 311C"
+         },
+         {
+          "type": "course",
+          "course": "BIO 311D"
+         },
+         {
+          "type": "course",
+          "course": "CH 302"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-         "quote": "Chemistry 301 or 301C; Biology 311C; Biology 311D or Chemistry 302 or 302C; and three additional semester hours of coursework in astronomy, biology, chemistry, computer science, geological sciences, n"
+         "quote": "Chemistry 301 or 301C; Biology 311C; Biology 311D or Chemistry 302 or 302C; and three additional semester hours of coursework in astronomy, biology, chemistry, computer science, geological sciences, neuroscience, mathema"
         }
        },
        {
-        "type": "manual",
-        "text": "Human Ecology 101P, 102P, and 103P; Nutrition 306 or Public Health 317; and an additional three semester hours from Nutrition, Public Health, Textiles and Apparel, or Human Development and Family Sciences 322. Students should confer with their advisors about courses appropriate to their career goals",
-        "title": "Human Ecology 101P, 102P, and 103P; Nutrition 306 or Public Health 317; and an a",
+        "type": "all",
+        "title": "Human Ecology 101P, 102P, and 103P; Nutrition 306 or Public Health 317; and an additional ",
+        "of": [
+         {
+          "type": "course",
+          "course": "H E 101P"
+         },
+         {
+          "type": "course",
+          "course": "H E 102P"
+         },
+         {
+          "type": "course",
+          "course": "H E 103P"
+         },
+         {
+          "type": "course",
+          "course": "NTR 306"
+         },
+         {
+          "type": "course",
+          "course": "PBH 317"
+         },
+         {
+          "type": "course",
+          "course": "HDF 322"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-         "quote": "Human Ecology 101P, 102P, and 103P; Nutrition 306 or Public Health 317; and an additional three semester hours from Nutrition, Public Health, Textiles and Apparel, or Human Development and Family Scie"
+         "quote": "Human Ecology 101P, 102P, and 103P; Nutrition 306 or Public Health 317; and an additional three semester hours from Nutrition, Public Health, Textiles and Apparel, or Human Development and Family Sciences 322. Students s"
         }
        },
        {
-        "type": "manual",
-        "text": "Human Development and Family Sciences lower division course requirements (13 credit hours): 304, 313, 113L, 315L, and 305 or 306.",
-        "title": "Human Development and Family Sciences lower division course requirements (13 cre",
+        "type": "all",
+        "title": "Human Development and Family Sciences lower division course requirements (13 credit hours)",
+        "of": [
+         {
+          "type": "course",
+          "course": "HDF 304"
+         },
+         {
+          "type": "course",
+          "course": "HDF 313"
+         },
+         {
+          "type": "course",
+          "course": "HDF 113L"
+         },
+         {
+          "type": "course",
+          "course": "HDF 315L"
+         },
+         {
+          "type": "course",
+          "course": "HDF 305"
+         },
+         {
+          "type": "course",
+          "course": "HDF 306"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
          "quote": "Human Development and Family Sciences lower division course requirements (13 credit hours): 304, 313, 113L, 315L, and 305 or 306."
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Human Development and Family Sciences upper division course requirements: 21 credit hours chosen from HDF upper division offerings (excluding Human Development and Family Sciences 322, 357, 359, 352, 652F, 352L, 652P, 355H and 355R).†",
         "title": "Human Development and Family Sciences upper division course requirements: 21 cre",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-         "quote": "Human Development and Family Sciences upper division course requirements: 21 credit hours chosen from HDF upper division offerings (excluding Human Development and Family Sciences 322, 357, 359, 352, "
+         "quote": "Human Development and Family Sciences upper division course requirements: 21 credit hours chosen from HDF upper division offerings (excluding Human Development and Family Sciences 322, 357, 359, 352, 652F, 352L, 652P, 35"
         }
        },
        {
-        "type": "manual",
-        "text": "Six hours chosen from Human Development and Family Sciences 352, 652F, 352L, 652P, 359, and 355R. Registration for Human Development and Family Sciences 352, 652F, 352L, 652P, 359 and 355R is restricted to students whose applications have been approved. Applications, as well as application deadlines, are available online and through the practicum coordinator.",
-        "title": "Six hours chosen from Human Development and Family Sciences 352, 652F, 352L, 652",
+        "type": "hours",
+        "hours": 6.0,
+        "title": "Six hours chosen from Human Development and Family Sciences 352, 652F, 352L, 652P, 359, an",
+        "filter": {
+         "label": "Six hours chosen from Human Development and Family Sciences 352, 652F, 352L, 652",
+         "courses": [
+          "HDF 352",
+          "HDF 652F",
+          "HDF 352L",
+          "HDF 652P",
+          "HDF 359",
+          "HDF 355R",
+          "HDF 352",
+          "HDF 652F",
+          "HDF 352L",
+          "HDF 652P",
+          "HDF 359",
+          "HDF 355R"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-         "quote": "Six hours chosen from Human Development and Family Sciences 352, 652F, 352L, 652P, 359, and 355R. Registration for Human Development and Family Sciences 352, 652F, 352L, 652P, 359 and 355R is restrict"
+         "quote": "Six hours chosen from Human Development and Family Sciences 352, 652F, 352L, 652P, 359, and 355R. Registration for Human Development and Family Sciences 352, 652F, 352L, 652P, 359 and 355R is restricted to students whose"
         }
        }
       ]
@@ -132,12 +247,38 @@
       "title": "Option V: Human Development and Family Sciences Honors",
       "of": [
        {
-        "type": "manual",
-        "text": "Breadth requirement: A calculus course and a statistics course, one of which must be a designated honors course; Biology 315H and 325H; Chemistry 301C and 302C; and three additional hours of honors-designated or approved coursework in biology, chemistry, computer science, mathematics, statistics and data sciences, or physics; credit earned by examination may not be counted toward this requirement.",
-        "title": "Breadth requirement: A calculus course and a statistics course, one of which mus",
+        "type": "note",
+        "text": "This Option is designed to prepare students who have been admitted to the Dean's Scholars program for academic or research careers.",
+        "title": "This Option is designed to prepare students who have been admitted to the Dean's",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-         "quote": "Breadth requirement: A calculus course and a statistics course, one of which must be a designated honors course; Biology 315H and 325H; Chemistry 301C and 302C; and three additional hours of honors-de"
+         "quote": "This Option is designed to prepare students who have been admitted to the Dean's Scholars program for academic or research careers."
+        }
+       },
+       {
+        "type": "all",
+        "title": "Breadth requirement: A calculus course and a statistics course, one of which must be a des",
+        "of": [
+         {
+          "type": "course",
+          "course": "BIO 315H"
+         },
+         {
+          "type": "course",
+          "course": "BIO 325H"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
+         "quote": "Breadth requirement: A calculus course and a statistics course, one of which must be a designated honors course; Biology 315H and 325H; Chemistry 301C and 302C; and three additional hours of honors-designated or approved"
         }
        },
        {
@@ -159,27 +300,36 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Human Development and Family Sciences 304H, 313H, 114H, 315L, 305 or 306 and 18 semester hours chosen from the following: Human Development and Family Sciences 335, 337, 338, 340, 342, 343, 345, 347, 351, 353, 358, 362, 371, 372K, 378L, 378K, and approved social science courses.",
         "title": "Human Development and Family Sciences 304H, 313H, 114H, 315L, 305 or 306 and 18 ",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-         "quote": "Human Development and Family Sciences 304H, 313H, 114H, 315L, 305 or 306 and 18 semester hours chosen from the following: Human Development and Family Sciences 335, 337, 338, 340, 342, 343, 345, 347, "
+         "quote": "Human Development and Family Sciences 304H, 313H, 114H, 315L, 305 or 306 and 18 semester hours chosen from the following: Human Development and Family Sciences 335, 337, 338, 340, 342, 343, 345, 347, 351, 353, 358, 362, "
         }
        },
        {
-        "type": "manual",
-        "text": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor.",
-        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the department",
+        "type": "anyN",
+        "title": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors ",
+        "of": [
+         {
+          "type": "course",
+          "course": "UGS 302"
+         },
+         {
+          "type": "course",
+          "course": "UGS 303"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
          "quote": "A section of Undergraduate Studies 302 or 303 that is approved by the departmental honors advisor."
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean’s Scholars Honors Program.",
-        "title": "A section of Rhetoric and Writing 309S that is restricted to students in the Dea",
+        "type": "course",
+        "course": "RHE 309S",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
          "quote": "A section of Rhetoric and Writing 309S that is restricted to students in the Dean’s Scholars Honors Program."
@@ -204,7 +354,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Ten additional semester hours of coursework approved by the departmental honors advisor.",
         "title": "Ten additional semester hours of coursework approved by the departmental honors ",
         "source": {
@@ -213,7 +363,7 @@
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Six hours of coursework from the College of Liberal Arts and/or the College of Fine Arts.",
         "title": "Six hours of coursework from the College of Liberal Arts and/or the College of F",
         "source": {
@@ -222,13 +372,9 @@
         }
        },
        {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 120 semester hours.",
+        "title": "Enough additional coursework to make a total of 120 semester hours.",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
          "quote": "Enough additional coursework to make a total of 120 semester hours."
@@ -242,7 +388,6 @@
       "of": [
        {
         "type": "anyN",
-        "n": 1,
         "title": "Statistics and Data Sciences 302F; Mathematics 408C, 408N, 408R, or Statistics and Data Sc",
         "of": [
          {
@@ -269,33 +414,65 @@
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
          "quote": "Statistics and Data Sciences 302F; Mathematics 408C, 408N, 408R, or Statistics and Data Sciences 324E."
-        }
+        },
+        "n": 1
        },
        {
-        "type": "manual",
-        "text": "Chemistry 301 or 301C; Biology 311C; and Biology 311D or Chemistry 302 or 302C.",
+        "type": "all",
         "title": "Chemistry 301 or 301C; Biology 311C; and Biology 311D or Chemistry 302 or 302C.",
+        "of": [
+         {
+          "type": "course",
+          "course": "CH 301"
+         },
+         {
+          "type": "course",
+          "course": "CH 301C"
+         },
+         {
+          "type": "course",
+          "course": "BIO 311C"
+         },
+         {
+          "type": "course",
+          "course": "BIO 311D"
+         },
+         {
+          "type": "course",
+          "course": "CH 302"
+         },
+         {
+          "type": "course",
+          "course": "CH 302C"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
          "quote": "Chemistry 301 or 301C; Biology 311C; and Biology 311D or Chemistry 302 or 302C."
         }
        },
        {
-        "type": "manual",
-        "text": "Three additional semester hours of coursework in astronomy, biology, chemistry, computer science, geological sciences, mathematics, nutrition (other than Nutrition 306), or physics. Courses designed for nonscience majors may not be counted toward this requirement; students should consult the School of Human Ecology for a list of courses that may be counted.",
-        "title": "Three additional semester hours of coursework in astronomy, biology, chemistry, ",
+        "type": "hours",
+        "hours": 3.0,
+        "title": "Three additional semester hours of coursework in astronomy, biology, chemistry, computer s",
+        "filter": {
+         "label": "Three additional semester hours of coursework in astronomy, biology, chemistry, ",
+         "courses": [
+          "NTR 306"
+         ]
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-         "quote": "Three additional semester hours of coursework in astronomy, biology, chemistry, computer science, geological sciences, mathematics, nutrition (other than Nutrition 306), or physics. Courses designed f"
+         "quote": "Three additional semester hours of coursework in astronomy, biology, chemistry, computer science, geological sciences, mathematics, nutrition (other than Nutrition 306), or physics. Courses designed for nonscience majors"
         }
        },
        {
-        "type": "manual",
+        "type": "note",
         "text": "Human Development and Family Sciences 304H, 313H, 114H, 315L, 305 or 306; 18 semester hours chosen from: Human Development and Family Sciences 335, 337, 338, 340, 342, 343, 345, 347, 351, 353, 358, 362, 371, 372K, 378L, 378K, and approved social science courses.",
         "title": "Human Development and Family Sciences 304H, 313H, 114H, 315L, 305 or 306; 18 sem",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-         "quote": "Human Development and Family Sciences 304H, 313H, 114H, 315L, 305 or 306; 18 semester hours chosen from: Human Development and Family Sciences 335, 337, 338, 340, 342, 343, 345, 347, 351, 353, 358, 36"
+         "quote": "Human Development and Family Sciences 304H, 313H, 114H, 315L, 305 or 306; 18 semester hours chosen from: Human Development and Family Sciences 335, 337, 338, 340, 342, 343, 345, 347, 351, 353, 358, 362, 371, 372K, 378L, "
         }
        },
        {
@@ -317,396 +494,65 @@
         }
        },
        {
-        "type": "manual",
-        "text": "Twenty-one semester hours of additional upper-division coursework approved by the departmental honors advisor.",
-        "title": "Twenty-one semester hours of additional upper-division coursework approved by th",
+        "type": "hours",
+        "hours": 21.0,
+        "title": "Twenty-one semester hours of additional upper-division coursework approved by the departme",
+        "filter": {
+         "label": "Twenty-one semester hours of additional upper-division coursework approved by th",
+         "division": "upper"
+        },
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
          "quote": "Twenty-one semester hours of additional upper-division coursework approved by the departmental honors advisor."
-        }
+        },
+        "umbrella": true
        },
        {
-        "type": "hours",
-        "hours": 120.0,
-        "umbrella": true,
-        "title": "120 total hours",
-        "filter": {
-         "label": "Any coursework"
-        },
+        "type": "note",
+        "text": "Enough additional coursework to make a total of 120 semester hours.",
+        "title": "Enough additional coursework to make a total of 120 semester hours.",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
          "quote": "Enough additional coursework to make a total of 120 semester hours."
         }
        },
        {
-        "type": "manual",
-        "text": "To graduate under Option VI, students must remain in good standing with an overall in-residence grade point average of at least 3.30 and an overall grade point average of 3.50 in all human development and family sciences courses. In addition, student research conducted in Human Development and Family Sciences 355H and 379H must be presented in an approved public forum, such as the college’s annual Undergraduate Research Forum. Students who fail to maintain the required grade point average may be subject to dismissal from the program. Under special circumstances and at the discretion of the human development and family sciences honors advisor, a student may be allowed to continue under academic review.",
-        "title": "To graduate under Option VI, students must remain in good standing with an overa",
+        "type": "note",
+        "text": "Students in all Options must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for the degree, and grade point average in these courses of at least 2.00. More information about grades and the grade point average is given in the General Information Catalog.",
+        "title": "Students in all Options must fulfill both the University's General Requirements ",
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-         "quote": "To graduate under Option VI, students must remain in good standing with an overall in-residence grade point average of at least 3.30 and an overall grade point average of 3.50 in all human development"
+         "quote": "Students in all Options must fulfill both the University's General Requirements for graduation and the college requirements. They must also earn a grade of at least C- in each mathematics and science course required for "
+        }
+       },
+       {
+        "type": "note",
+        "text": "To graduate under Option V, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor, and present their research in an approved public forum, such as the college’s annual Undergraduate Research Forum. More information about the Undergraduate Research Forum is available at https://cns.utexas.edu/.",
+        "title": "To graduate under Option V, students must remain in good standing in the Dean’s ",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
+         "quote": "To graduate under Option V, students must remain in good standing in the Dean’s Scholars Honors Program, must submit an honors thesis approved by the departmental honors advisor, and present their research in an approved"
+        }
+       },
+       {
+        "type": "all",
+        "title": "To graduate under Option VI, students must remain in good standing with an overall in-resi",
+        "of": [
+         {
+          "type": "course",
+          "course": "HDF 355H"
+         },
+         {
+          "type": "course",
+          "course": "HDF 379H"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
+         "quote": "To graduate under Option VI, students must remain in good standing with an overall in-residence grade point average of at least 3.30 and an overall grade point average of 3.50 in all human development and family sciences"
         }
        }
       ]
-     }
-    ],
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-    }
-   },
-   {
-    "type": "all",
-    "title": "Curriculum (from suggested course arrangement)",
-    "of": [
-     {
-      "type": "course",
-      "course": "HDF 304",
-      "title": "HDF 304",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "SDS 302F",
-      "title": "SDS 302F",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "CH 301",
-      "of": [
-       {
-        "type": "course",
-        "course": "CH 301",
-        "title": "CH 301",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "CH 301C"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "UGS 302",
-      "of": [
-       {
-        "type": "course",
-        "course": "UGS 302",
-        "title": "UGS 302",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "UGS 303"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "all",
-      "title": "HDF 313 / HDF 113L",
-      "of": [
-       {
-        "type": "course",
-        "course": "HDF 313"
-       },
-       {
-        "type": "course",
-        "course": "HDF 113L"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "BIO 311C",
-      "title": "BIO 311C",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "H E 101P",
-      "title": "H E 101P",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "BIO 311D",
-      "of": [
-       {
-        "type": "course",
-        "course": "BIO 311D",
-        "title": "BIO 311D",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "CH 302"
-       },
-       {
-        "type": "course",
-        "course": "CH 302C"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "HDF 305",
-      "of": [
-       {
-        "type": "course",
-        "course": "HDF 305",
-        "title": "HDF 305",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "HDF 306"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "NTR 306",
-      "of": [
-       {
-        "type": "course",
-        "course": "NTR 306",
-        "title": "NTR 306",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "PBH 317"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "RHE 306",
-      "title": "RHE 306",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "HDF 315L",
-      "title": "HDF 315L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "H E 102P",
-      "title": "H E 102P",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "course",
-      "course": "HDF 355R",
-      "title": "HDF 355R",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "M 408C",
-      "of": [
-       {
-        "type": "course",
-        "course": "M 408C",
-        "title": "M 408C",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "M 408N"
-       },
-       {
-        "type": "course",
-        "course": "M 408R"
-       },
-       {
-        "type": "course",
-        "course": "SDS 324E"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "GOV 310L",
-      "title": "GOV 310L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "course",
-      "course": "HDF 355R",
-      "title": "HDF 355R",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "course",
-      "course": "GOV 312L",
-      "title": "GOV 312L",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "course",
-      "course": "H E 103P",
-      "title": "H E 103P",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "anyN",
-      "n": 1,
-      "title": "E 316L",
-      "of": [
-       {
-        "type": "course",
-        "course": "E 316L",
-        "title": "E 316L",
-        "source": {
-         "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-        }
-       },
-       {
-        "type": "course",
-        "course": "E 316M"
-       },
-       {
-        "type": "course",
-        "course": "E 316N"
-       },
-       {
-        "type": "course",
-        "course": "E 316P"
-       }
-      ],
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-       "quote": "Free elective (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Free elective (Elective)",
-      "title": "Free elective (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-human-development-and-family-sciences/",
-       "quote": "Free elective (Elective)"
-      }
      }
     ],
     "source": {

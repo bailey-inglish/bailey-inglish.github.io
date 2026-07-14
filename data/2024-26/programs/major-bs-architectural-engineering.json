@@ -282,7 +282,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Approved architectural history elective",
     "title": "Approved architectural history elective",
     "source": {
@@ -291,7 +291,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Approved mathematics or science elective",
     "title": "Approved mathematics or science elective",
     "source": {
@@ -300,7 +300,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Approved technical electives",
     "title": "Approved technical electives",
     "source": {
@@ -347,7 +347,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "American and Texas government",
     "title": "American and Texas government",
     "source": {
@@ -356,7 +356,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "American history",
     "title": "American history",
     "source": {
@@ -365,7 +365,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Social and behavioral science",
     "title": "Social and behavioral science",
     "source": {
@@ -396,30 +396,57 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
+    "text": "The extensive technical requirements, coupled with courses in arts and sciences, provide the architectural engineering student with an opportunity to obtain a background that is ideally suited for careers and positions of responsibility with consulting engineering firms, general contractors, manufacturers, government agencies, and architecture firms. The curriculum also serves as an excellent spri",
+    "title": "The extensive technical requirements, coupled with courses in arts and sciences,",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-architectural-engineering/",
+     "quote": "The extensive technical requirements, coupled with courses in arts and sciences, provide the architectural engineering student with an opportunity to obtain a background that is ideally suited for careers and positions o"
+    }
+   },
+   {
+    "type": "note",
     "text": "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts",
     "title": "An ability to recognize ethical and professional responsibilities in engineering",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-architectural-engineering/",
-     "quote": "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, en"
+     "quote": "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and soc"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
+    "text": "A program that leads to both the Bachelor of Science in Architectural Engineering degree and the Bachelor of Architecture degree is available to qualified students. The program combines the course requirements of both degrees and requires six years for completion. Students who wish to pursue both degrees must apply for admission to the School of Architecture according to the procedures and deadlin",
+    "title": "A program that leads to both the Bachelor of Science in Architectural Engineerin",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-architectural-engineering/",
+     "quote": "A program that leads to both the Bachelor of Science in Architectural Engineering degree and the Bachelor of Architecture degree is available to qualified students. The program combines the course requirements of both de"
+    }
+   },
+   {
+    "type": "note",
     "text": "Student entering Architectural Engineering are required to have a laptop at their disposal. Laptops do not need to be brought to campus on a daily basis, but individual courses may require that a laptop be brought to class or lab sessions. For more information, see the list of minimum system requirements.",
     "title": "Student entering Architectural Engineering are required to have a laptop at thei",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-architectural-engineering/",
-     "quote": "Student entering Architectural Engineering are required to have a laptop at their disposal. Laptops do not need to be brought to campus on a daily basis, but individual courses may require that a lapt"
+     "quote": "Student entering Architectural Engineering are required to have a laptop at their disposal. Laptops do not need to be brought to campus on a daily basis, but individual courses may require that a laptop be brought to cla"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
+    "text": "Architectural engineering majors must take an approved architectural history course as part of the Bachelor of Science in Architectural Engineering requirement. This course (or its prerequisite) will fulfill the visual and performing arts requirement of the Core Curriculum.",
+    "title": "Architectural engineering majors must take an approved architectural history cou",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-architectural-engineering/",
+     "quote": "Architectural engineering majors must take an approved architectural history course as part of the Bachelor of Science in Architectural Engineering requirement. This course (or its prerequisite) will fulfill the visual a"
+    }
+   },
+   {
+    "type": "note",
     "text": "Technical electives in architectural engineering are listed in three areas of specialization below. Nine semester hours must be chosen from the following approved technical elective courses or selected with the approval of the department undergraduate advisor. Lower-division courses may not be used as technical electives.",
     "title": "Technical electives in architectural engineering are listed in three areas of sp",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-architectural-engineering/",
-     "quote": "Technical electives in architectural engineering are listed in three areas of specialization below. Nine semester hours must be chosen from the following approved technical elective courses or selecte"
+     "quote": "Technical electives in architectural engineering are listed in three areas of specialization below. Nine semester hours must be chosen from the following approved technical elective courses or selected with the approval "
     }
    },
    {
@@ -432,12 +459,53 @@
       "title": "Area 1, Structural Engineering",
       "of": [
        {
-        "type": "manual",
-        "text": "Architectural Engineering 345K, Masonry Engineering Architectural Engineering 362L, Structural Design in Wood Civil Engineering 331, Reinforced Concrete Design or 335, Elements of Steel Design Civil Engineering 360K, Foundation Engineering Civil Engineering 362M, Advanced Reinforced Concrete Design Civil Engineering 362N, Advanced Steel Design Civil Engineering 363, Advanced Structural Analysis Civil Engineering 375, Earth Slopes and Retaining Structures Engineering Mechanics 339, Advanced Strength of Materials",
-        "title": "Architectural Engineering 345K, Masonry Engineering Architectural Engineering 36",
+        "type": "all",
+        "title": "Architectural Engineering 345K, Masonry Engineering Architectural Engineering 362L, Struct",
+        "of": [
+         {
+          "type": "course",
+          "course": "ARE 345K"
+         },
+         {
+          "type": "course",
+          "course": "ARE 362L"
+         },
+         {
+          "type": "course",
+          "course": "C E 331"
+         },
+         {
+          "type": "course",
+          "course": "C E 335"
+         },
+         {
+          "type": "course",
+          "course": "C E 360K"
+         },
+         {
+          "type": "course",
+          "course": "C E 362M"
+         },
+         {
+          "type": "course",
+          "course": "C E 362N"
+         },
+         {
+          "type": "course",
+          "course": "C E 363"
+         },
+         {
+          "type": "course",
+          "course": "C E 375"
+         },
+         {
+          "type": "course",
+          "course": "E M 339"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-architectural-engineering/",
-         "quote": "Architectural Engineering 345K, Masonry Engineering Architectural Engineering 362L, Structural Design in Wood Civil Engineering 331, Reinforced Concrete Design or 335, Elements of Steel Design Civil E"
+         "quote": "Architectural Engineering 345K, Masonry Engineering Architectural Engineering 362L, Structural Design in Wood Civil Engineering 331, Reinforced Concrete Design or 335, Elements of Steel Design Civil Engineering 360K, Fou"
         }
        }
       ]
@@ -447,12 +515,45 @@
       "title": "Area 2, Building Energy and Environments",
       "of": [
        {
-        "type": "manual",
-        "text": "Architectural Engineering 346P, HVAC Design or 371, Design of Energy Efficient and Healthy Buildings Architectural Engineering 370, Design of Energy Efficient and Healthy Buildings Civil Engineering 341, Introduction to Environmental Engineering Mechanical Engineering 339, Heat Transfer Mechanical Engineering 374F, Fire Science Mechanical Engineering 374S, Solar Energy Systems Design Mechanical Engineering 379N, Engineering Acoustics",
-        "title": "Architectural Engineering 346P, HVAC Design or 371, Design of Energy Efficient a",
+        "type": "all",
+        "title": "Architectural Engineering 346P, HVAC Design or 371, Design of Energy Efficient and Healthy",
+        "of": [
+         {
+          "type": "course",
+          "course": "ARE 346P"
+         },
+         {
+          "type": "course",
+          "course": "ARE 371"
+         },
+         {
+          "type": "course",
+          "course": "ARE 370"
+         },
+         {
+          "type": "course",
+          "course": "C E 341"
+         },
+         {
+          "type": "course",
+          "course": "M E 339"
+         },
+         {
+          "type": "course",
+          "course": "M E 374F"
+         },
+         {
+          "type": "course",
+          "course": "M E 374S"
+         },
+         {
+          "type": "course",
+          "course": "M E 379N"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-architectural-engineering/",
-         "quote": "Architectural Engineering 346P, HVAC Design or 371, Design of Energy Efficient and Healthy Buildings Architectural Engineering 370, Design of Energy Efficient and Healthy Buildings Civil Engineering 3"
+         "quote": "Architectural Engineering 346P, HVAC Design or 371, Design of Energy Efficient and Healthy Buildings Architectural Engineering 370, Design of Energy Efficient and Healthy Buildings Civil Engineering 341, Introduction to "
         }
        }
       ]
@@ -462,12 +563,37 @@
       "title": "Area 3, Construction and Infrastructure Materials Engineering",
       "of": [
        {
-        "type": "manual",
-        "text": "Architectural Engineering 358, Cost Estimating in Building Construction Architectural Engineering 376, Building Information Modeling for Capital Projects Civil Engineering 351, Concrete Materials Mechanical Engineering 349, Corrosion Engineering Mechanical Engineering 378K, Mechanical Behavior of Materials Mechanical Engineering 378P, Properties and Applications of Polymers",
-        "title": "Architectural Engineering 358, Cost Estimating in Building Construction Architec",
+        "type": "all",
+        "title": "Architectural Engineering 358, Cost Estimating in Building Construction Architectural Engi",
+        "of": [
+         {
+          "type": "course",
+          "course": "ARE 358"
+         },
+         {
+          "type": "course",
+          "course": "ARE 376"
+         },
+         {
+          "type": "course",
+          "course": "C E 351"
+         },
+         {
+          "type": "course",
+          "course": "M E 349"
+         },
+         {
+          "type": "course",
+          "course": "M E 378K"
+         },
+         {
+          "type": "course",
+          "course": "M E 378P"
+         }
+        ],
         "source": {
          "url": "https://catalog.utexas.edu/undergraduate/engineering/degrees-and-programs/bs-architectural-engineering/",
-         "quote": "Architectural Engineering 358, Cost Estimating in Building Construction Architectural Engineering 376, Building Information Modeling for Capital Projects Civil Engineering 351, Concrete Materials Mech"
+         "quote": "Architectural Engineering 358, Cost Estimating in Building Construction Architectural Engineering 376, Building Information Modeling for Capital Projects Civil Engineering 351, Concrete Materials Mechanical Engineering 3"
         }
        }
       ]

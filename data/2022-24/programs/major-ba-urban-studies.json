@@ -15,7 +15,7 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "note",
     "text": "The Urban Studies degree program is administered by the Department of Geography and the Environment. Students must be admitted to the degree program.",
     "title": "The Urban Studies degree program is administered by the Department of Geography ",
     "source": {
@@ -24,13 +24,25 @@
     }
    },
    {
-    "type": "manual",
-    "text": "All Urban Studies majors must earn a grade of at least B- in Statistics and Data Sciences 301 or an approved statistics course. This requirement must be satisfied prior to enrollment in Urban Studies 315.",
-    "title": "All Urban Studies majors must earn a grade of at least B- in Statistics and Data",
+    "type": "anyN",
+    "title": "All Urban Studies majors must earn a grade of at least B- in Statistics and Data Sciences ",
+    "of": [
+     {
+      "type": "course",
+      "course": "SDS 301",
+      "minGrade": "B-"
+     },
+     {
+      "type": "course",
+      "course": "URB 315",
+      "minGrade": "B-"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/urban-studies/",
-     "quote": "All Urban Studies majors must earn a grade of at least B- in Statistics and Data Sciences 301 or an approved statistics course. This requirement must be satisfied prior to enrollment in Urban Studies "
-    }
+     "quote": "All Urban Studies majors must earn a grade of at least B- in Statistics and Data Sciences 301 or an approved statistics course. This requirement must be satisfied prior to enrollment in Urban Studies 315."
+    },
+    "n": 1
    },
    {
     "type": "course",
@@ -58,7 +70,6 @@
    },
    {
     "type": "anyN",
-    "n": 1,
     "title": "Urban Studies 370 or 679H",
     "of": [
      {
@@ -73,23 +84,30 @@
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/urban-studies/",
      "quote": "Urban Studies 370 or 679H"
-    }
+    },
+    "n": 1
    },
    {
     "type": "hours",
     "hours": 15.0,
-    "umbrella": true,
-    "title": "15 upper-division hours of urban studies",
+    "title": "Fifteen additional hours of upper-division coursework in urban studies",
     "filter": {
-     "division": "upper",
-     "subjects": [
-      "URB"
-     ],
-     "label": "Upper-division urban studies"
+     "label": "Fifteen additional hours of upper-division coursework in urban studies",
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/urban-studies/",
      "quote": "Fifteen additional hours of upper-division coursework in urban studies"
+    },
+    "umbrella": true
+   },
+   {
+    "type": "note",
+    "text": "Program admission and approved course information is available on the Urban Studies Program website.",
+    "title": "Program admission and approved course information is available on the Urban Stud",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/urban-studies/",
+     "quote": "Program admission and approved course information is available on the Urban Studies Program website."
     }
    }
   ]

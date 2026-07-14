@@ -14,7 +14,16 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "note",
+    "text": "To be awarded the degree of Bachelor of Science in Communication Studies, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements for graduation, the college graduation requirements, the requirements and policies listed in Academic Policies and Procedures, and the requirements given in Degree Requirements Common to All Moody Majors, Major",
+    "title": "To be awarded the degree of Bachelor of Science in Communication Studies, the ca",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
+     "quote": "To be awarded the degree of Bachelor of Science in Communication Studies, the candidate must complete 120 semester hours of coursework and must fulfill the University's General Requirements for graduation, the college gr"
+    }
+   },
+   {
+    "type": "note",
     "text": "A candidate for a degree must have an officially declared major in the Moody College of Communication at the time the degree is awarded.",
     "title": "A candidate for a degree must have an officially declared major in the Moody Col",
     "source": {
@@ -23,29 +32,41 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six semester hours of coursework focusing on communication foundations: Communication 301E and 302E",
-    "title": "Six semester hours of coursework focusing on communication foundations: Communic",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six semester hours of coursework focusing on communication foundations: Communication 301E",
+    "filter": {
+     "label": "Six semester hours of coursework focusing on communication foundations: Communic",
+     "courses": [
+      "COM 301E",
+      "COM 302E"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
      "quote": "Six semester hours of coursework focusing on communication foundations: Communication 301E and 302E"
     }
    },
    {
-    "type": "hours",
-    "hours": 120.0,
-    "umbrella": true,
-    "title": "120 total hours",
-    "filter": {
-     "label": "Any coursework"
-    },
+    "type": "note",
+    "text": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in a language other than English and taking one approved culture course in a culture that is relevant to the language. A list of approved culture and language courses and combinations",
+    "title": "Students must satisfy a language and culture requirement in one of the following",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
+     "quote": "Students must satisfy a language and culture requirement in one of the following ways: (a) Demonstrating intermediate proficiency in a single language other than English; (b) Demonstrating beginning-level proficiency in "
+    }
+   },
+   {
+    "type": "note",
+    "text": "Enough additional coursework to make a total of 120 semester hours.",
+    "title": "Enough additional coursework to make a total of 120 semester hours.",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
      "quote": "Enough additional coursework to make a total of 120 semester hours."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "At least 36, but no more than 48, semester hours of communication studies of which at least 18 hours must be upper-division. Students must take the following coursework:",
     "title": "At least 36, but no more than 48, semester hours of communication studies of whi",
     "source": {
@@ -70,25 +91,66 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Three semester hours chosen from the following Methods courses: Communication Studies 330, 330D, 338L, 339L, 346, 347S, 348, 348K, 350C, 352D, 354, 355S, 357, 358, 359T, 367P (Topic 1), 367P (Topic 2), 371D, 371K, 372K, 377K, or 378K. The course selected may not be counted toward any additional communication studies major requirement.",
-    "title": "Three semester hours chosen from the following Methods courses: Communication St",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester hours chosen from the following Methods courses: Communication Studies 330,",
+    "filter": {
+     "label": "Three semester hours chosen from the following Methods courses: Communication St",
+     "courses": [
+      "CMS 330",
+      "CMS 330D",
+      "CMS 338L",
+      "CMS 339L",
+      "CMS 346",
+      "CMS 347S",
+      "CMS 348",
+      "CMS 348K",
+      "CMS 350C",
+      "CMS 352D",
+      "CMS 354",
+      "CMS 355S",
+      "CMS 357",
+      "CMS 358",
+      "CMS 359T",
+      "CMS 367P",
+      "CMS 367P",
+      "CMS 371D",
+      "CMS 371K",
+      "CMS 372K",
+      "CMS 377K",
+      "CMS 378K"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
-     "quote": "Three semester hours chosen from the following Methods courses: Communication Studies 330, 330D, 338L, 339L, 346, 347S, 348, 348K, 350C, 352D, 354, 355S, 357, 358, 359T, 367P (Topic 1), 367P (Topic 2)"
+     "quote": "Three semester hours chosen from the following Methods courses: Communication Studies 330, 330D, 338L, 339L, 346, 347S, 348, 348K, 350C, 352D, 354, 355S, 357, 358, 359T, 367P (Topic 1), 367P (Topic 2), 371D, 371K, 372K, "
     }
    },
    {
-    "type": "manual",
-    "text": "Three semester hours chosen from the following Career Preparation courses: Communication Studies 307K, 310K, 313M, 316L, 330P, 339K, 364M, 370K, or Communication 350. The course selected may not be counted toward any additional communication studies major requirement.",
-    "title": "Three semester hours chosen from the following Career Preparation courses: Commu",
+    "type": "hours",
+    "hours": 3.0,
+    "title": "Three semester hours chosen from the following Career Preparation courses: Communication S",
+    "filter": {
+     "label": "Three semester hours chosen from the following Career Preparation courses: Commu",
+     "courses": [
+      "CMS 307K",
+      "CMS 310K",
+      "CMS 313M",
+      "CMS 316L",
+      "CMS 330P",
+      "CMS 339K",
+      "CMS 364M",
+      "CMS 370K",
+      "COM 350"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
-     "quote": "Three semester hours chosen from the following Career Preparation courses: Communication Studies 307K, 310K, 313M, 316L, 330P, 339K, 364M, 370K, or Communication 350. The course selected may not be co"
+     "quote": "Three semester hours chosen from the following Career Preparation courses: Communication Studies 307K, 310K, 313M, 316L, 330P, 339K, 364M, 370K, or Communication 350. The course selected may not be counted toward any add"
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Twelve hours of communication studies coursework.",
     "title": "Twelve hours of communication studies coursework.",
     "source": {
@@ -97,20 +159,48 @@
     }
    },
    {
-    "type": "course",
-    "course": "CMS 313M",
+    "type": "hours",
+    "hours": 12.0,
+    "title": "Twelve additional semester hours, chosen from one of the following tracks: Corporate Commu",
+    "filter": {
+     "label": "Twelve additional semester hours, chosen from one of the following tracks: Corpo",
+     "courses": [
+      "CMS 313M"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
      "quote": "Twelve additional semester hours, chosen from one of the following tracks: Corporate Communication Communication Studies 313M"
     }
    },
    {
-    "type": "manual",
-    "text": "Nine semester hours chosen from the following courses: Communication Studies 310K, 316L, 337, 339K, 339L, 341, 346, 350C, 350M, 352D, 353C, 353S, 356T, 367C, 372K, and 372T. The courses selected may not be counted toward any additional communication studies major requirement.",
-    "title": "Nine semester hours chosen from the following courses: Communication Studies 310",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine semester hours chosen from the following courses: Communication Studies 310K, 316L, 3",
+    "filter": {
+     "label": "Nine semester hours chosen from the following courses: Communication Studies 310",
+     "courses": [
+      "CMS 310K",
+      "CMS 316L",
+      "CMS 337",
+      "CMS 339K",
+      "CMS 339L",
+      "CMS 341",
+      "CMS 346",
+      "CMS 350C",
+      "CMS 350M",
+      "CMS 352D",
+      "CMS 353C",
+      "CMS 353S",
+      "CMS 356T",
+      "CMS 367C",
+      "CMS 372K",
+      "CMS 372T"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
-     "quote": "Nine semester hours chosen from the following courses: Communication Studies 310K, 316L, 337, 339K, 339L, 341, 346, 350C, 350M, 352D, 353C, 353S, 356T, 367C, 372K, and 372T. The courses selected may n"
+     "quote": "Nine semester hours chosen from the following courses: Communication Studies 310K, 316L, 337, 339K, 339L, 341, 346, 350C, 350M, 352D, 353C, 353S, 356T, 367C, 372K, and 372T. The courses selected may not be counted toward"
     }
    },
    {
@@ -122,12 +212,31 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Nine semester hours chosen from the following courses: Communication Studies 323R, 346C, 355K, 356C, 358C, 359, 362D, 364K, 366C, 366M, 367 (Topic 10), 367G, 367I (Topic 1), or 371D. The courses selected may not be counted towards any additional communication studies major requirement.",
-    "title": "Nine semester hours chosen from the following courses: Communication Studies 323",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine semester hours chosen from the following courses: Communication Studies 323R, 346C, 3",
+    "filter": {
+     "label": "Nine semester hours chosen from the following courses: Communication Studies 323",
+     "courses": [
+      "CMS 323R",
+      "CMS 346C",
+      "CMS 355K",
+      "CMS 356C",
+      "CMS 358C",
+      "CMS 359",
+      "CMS 362D",
+      "CMS 364K",
+      "CMS 366C",
+      "CMS 366M",
+      "CMS 367",
+      "CMS 367G",
+      "CMS 367I",
+      "CMS 371D"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
-     "quote": "Nine semester hours chosen from the following courses: Communication Studies 323R, 346C, 355K, 356C, 358C, 359, 362D, 364K, 366C, 366M, 367 (Topic 10), 367G, 367I (Topic 1), or 371D. The courses selec"
+     "quote": "Nine semester hours chosen from the following courses: Communication Studies 323R, 346C, 355K, 356C, 358C, 359, 362D, 364K, 366C, 366M, 367 (Topic 10), 367G, 367I (Topic 1), or 371D. The courses selected may not be count"
     }
    },
    {
@@ -139,12 +248,31 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Nine semester hours chosen from the following courses: Communication Studies 314L, 330, 334K, 344K, 354, 355K, 355T, 357, 358, 358C, 364K, 367I, 371D, and 371K. The courses selected may not be counted toward any additional communication studies major requirements.",
-    "title": "Nine semester hours chosen from the following courses: Communication Studies 314",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine semester hours chosen from the following courses: Communication Studies 314L, 330, 33",
+    "filter": {
+     "label": "Nine semester hours chosen from the following courses: Communication Studies 314",
+     "courses": [
+      "CMS 314L",
+      "CMS 330",
+      "CMS 334K",
+      "CMS 344K",
+      "CMS 354",
+      "CMS 355K",
+      "CMS 355T",
+      "CMS 357",
+      "CMS 358",
+      "CMS 358C",
+      "CMS 364K",
+      "CMS 367I",
+      "CMS 371D",
+      "CMS 371K"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
-     "quote": "Nine semester hours chosen from the following courses: Communication Studies 314L, 330, 334K, 344K, 354, 355K, 355T, 357, 358, 358C, 364K, 367I, 371D, and 371K. The courses selected may not be counted"
+     "quote": "Nine semester hours chosen from the following courses: Communication Studies 314L, 330, 334K, 344K, 354, 355K, 355T, 357, 358, 358C, 364K, 367I, 371D, and 371K. The courses selected may not be counted toward any addition"
     }
    },
    {
@@ -156,12 +284,36 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Nine semester hours chosen from the following courses: Communication Studies 320, 322E, 332, 333, 338L, 340K, 342C, 342K, 345, 345G, 345N, 345P, 345V, 360P, 362E, 364K, 367P, 372D, and 373D. The courses selected may not be counted toward any additional communication studies major requirement.",
-    "title": "Nine semester hours chosen from the following courses: Communication Studies 320",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine semester hours chosen from the following courses: Communication Studies 320, 322E, 33",
+    "filter": {
+     "label": "Nine semester hours chosen from the following courses: Communication Studies 320",
+     "courses": [
+      "CMS 320",
+      "CMS 322E",
+      "CMS 332",
+      "CMS 333",
+      "CMS 338L",
+      "CMS 340K",
+      "CMS 342C",
+      "CMS 342K",
+      "CMS 345",
+      "CMS 345G",
+      "CMS 345N",
+      "CMS 345P",
+      "CMS 345V",
+      "CMS 360P",
+      "CMS 362E",
+      "CMS 364K",
+      "CMS 367P",
+      "CMS 372D",
+      "CMS 373D"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
-     "quote": "Nine semester hours chosen from the following courses: Communication Studies 320, 322E, 332, 333, 338L, 340K, 342C, 342K, 345, 345G, 345N, 345P, 345V, 360P, 362E, 364K, 367P, 372D, and 373D. The cours"
+     "quote": "Nine semester hours chosen from the following courses: Communication Studies 320, 322E, 332, 333, 338L, 340K, 342C, 342K, 345, 345G, 345N, 345P, 345V, 360P, 362E, 364K, 367P, 372D, and 373D. The courses selected may not "
     }
    },
    {
@@ -173,12 +325,46 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Nine semester hours chosen from the following courses: Communication Studies 310K, 322E, 330, 330D, 330P, 335, 337, 342K, 345, 345G, 345P, 353C, 353S, 354, 356C, 360P, 367S, 367I (Topic 2), 371D, and 371K. The courses selected may not be counted toward any additional communication studies major requirement.",
-    "title": "Nine semester hours chosen from the following courses: Communication Studies 310",
+    "type": "hours",
+    "hours": 9.0,
+    "title": "Nine semester hours chosen from the following courses: Communication Studies 310K, 322E, 3",
+    "filter": {
+     "label": "Nine semester hours chosen from the following courses: Communication Studies 310",
+     "courses": [
+      "CMS 310K",
+      "CMS 322E",
+      "CMS 330",
+      "CMS 330D",
+      "CMS 330P",
+      "CMS 335",
+      "CMS 337",
+      "CMS 342K",
+      "CMS 345",
+      "CMS 345G",
+      "CMS 345P",
+      "CMS 353C",
+      "CMS 353S",
+      "CMS 354",
+      "CMS 356C",
+      "CMS 360P",
+      "CMS 367S",
+      "CMS 367I",
+      "CMS 371D",
+      "CMS 371K"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
-     "quote": "Nine semester hours chosen from the following courses: Communication Studies 310K, 322E, 330, 330D, 330P, 335, 337, 342K, 345, 345G, 345P, 353C, 353S, 354, 356C, 360P, 367S, 367I (Topic 2), 371D, and "
+     "quote": "Nine semester hours chosen from the following courses: Communication Studies 310K, 322E, 330, 330D, 330P, 335, 337, 342K, 345, 345G, 345P, 353C, 353S, 354, 356C, 360P, 367S, 367I (Topic 2), 371D, and 371K. The courses se"
+    }
+   },
+   {
+    "type": "note",
+    "text": "Because prerequisites are subject to change, students should consult the Course Schedule before registering.",
+    "title": "Because prerequisites are subject to change, students should consult the Course ",
+    "source": {
+     "url": "https://catalog.utexas.edu/undergraduate/communication/degrees-and-programs/bs-communication-studies/",
+     "quote": "Because prerequisites are subject to change, students should consult the Course Schedule before registering."
     }
    }
   ]

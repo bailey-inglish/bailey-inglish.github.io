@@ -110,8 +110,12 @@ def rules_from_table(rows: list[dict], url: str, min_grade: str | None,
         ids = [i for i in group["ids"] if i in known]
         node: dict
         if not ids:
-            node = {"type": "manual", "text": group["text"],
-                    "title": group["text"][:80]}
+            # an hours target with no enumerable courses ("N hours from an
+            # approved list") can't be auto-checked — keep it as context
+            node = note_node(group["text"], url)
+            nodes.append(node)
+            group = None
+            return
         else:
             m = re.match(r"(One|Two|Three|Four|Five|Six)\s+of the following",
                          group["text"], re.I)
@@ -153,10 +157,8 @@ def rules_from_table(rows: list[dict], url: str, min_grade: str | None,
                 pass  # sub-area label inside a group ("Statistics") — ignore
             elif not row["text"].rstrip().endswith(":"):
                 # a comment header ending in ':' introduces following groups;
-                # only free-standing prose becomes a manual item
-                nodes.append({"type": "manual", "text": row["text"],
-                              "title": row["text"][:80],
-                              "source": {"url": url, "quote": row["text"]}})
+                # free-standing prose becomes an informational note
+                nodes.append(note_node(row["text"], url))
             continue
         # course / orcourse rows
         ids = row["ids"]
@@ -315,38 +317,127 @@ def hours_of_subject(text: str, subject_map: dict[str, str], url: str):
     return nodes, code
 
 
-def connective_node(frag_html: str, text: str, ids: list[str], url: str,
-                    min_grade: str | None):
-    """Short list item like 'Mathematics 408C and 408D' or 'C S 429 or
-    429H' -> all/anyN node; mixed connectives -> None."""
-    if not ids or len(text) > 220:
+# Prose that is process/policy, not a checkable degree requirement.
+PROCESS_RE = re.compile(
+    r"(advisor|petition|dean\b|reenter|re-enter|dismiss|enforced withdrawal|"
+    r"probation|placed on (academic )?warning|academic calendar|graduation "
+    r"application|apply (for|online)|deadline|insurance|liability|tuition|fee\b|"
+    r"purchase|orientation|encouraged|recommended|permission|consult|"
+    r"may repeat|repeat the course|life experience|catalog under which|"
+    r"degree audit|IDA\b|transcript|see the|please see|more information|"
+    r"website|clock hours of supervised|background check|criminal)", re.I)
+
+# phrases that introduce a choose-from list
+CHOSEN_RE = re.compile(
+    r"chosen from|selected from|from the following|from among|from an approved|"
+    r"following courses|any of the following|one of the following|choose", re.I)
+
+HOURS_LEAD_RE = re.compile(
+    rf"(?:At least |A minimum of |Complete |Completion of |Take )?"
+    rf"({NUM_WORD})[- ](?:additional |semester |credit )*hours?\b", re.I)
+
+
+def hours_count(text: str):
+    m = HOURS_LEAD_RE.match(text.strip())
+    return word_to_num(m.group(1)) if m else None
+
+
+def grade_min(text: str, fallback: str | None) -> str | None:
+    g = re.search(r"grade of at least (?:an? )?([A-D][+-]?)(?![\w+-])", text)
+    return g.group(1).upper() if g else fallback
+
+
+def subject_scope(text: str, subject_map: dict[str, str]):
+    m = re.search(
+        r"(?:hours?|coursework|courses|electives?) (?:of|in) (?:upper.division )?"
+        r"([a-z][a-z ,&-]{2,40}?)"
+        r"(?:[,.:;]| chosen| selected| at least| including| must| with| that|$)",
+        text, re.I)
+    if not m:
         return None
+    return subject_map.get(m.group(1).strip().lower())
+
+
+def connectives_of(text: str, ids: list[str]) -> set[str]:
     stripped = re.sub(r"\[[A-Z][A-Z &\-']{0,5} \d[0-9A-Z]*\]", "", text)
     stripped = re.sub(r"[A-Z][a-zA-Z ]*? \d[0-9A-Z]*", "", stripped)
-    words = set(re.findall(r"[a-z]+", stripped.lower()))
-    connectives = words & {"and", "or"}
-    grade = re.search(r"grade of at least (?:an? )?([A-D][+-]?)(?![\w+-])", text)
-    mg = grade.group(1).upper() if grade else min_grade
-    leftover = words - {"and", "or", "a", "an", "the", "of", "at", "least",
-                        "grade", "with", "in", "each", "must", "be",
-                        "completed", "residence", "semester", "hours", "hour",
-                        "chosen", "from", "one", "following", "course",
-                        "courses", "credit", "either", "both", "student",
-                        "students", "s"}
-    course_nodes = [{"type": "course", "course": i,
-                     **({"minGrade": mg} if mg else {})} for i in ids]
-    if len(ids) == 1 and len(leftover) <= 3:
-        node = course_nodes[0]
-        node["source"] = {"url": url, "quote": text[:200]}
-        return node
-    if len(leftover) > 4:
-        return None
-    if connectives == {"or"}:
-        return {"type": "anyN", "n": 1, "title": text[:90], "of": course_nodes,
-                "source": {"url": url, "quote": text[:200]}}
-    if connectives <= {"and"}:
-        return {"type": "all", "title": text[:90], "of": course_nodes,
-                "source": {"url": url, "quote": text[:200]}}
+    return set(re.findall(r"\b(and|or)\b", stripped.lower()))
+
+
+def src_of(url: str, text: str) -> dict:
+    return {"url": url, "quote": text[:220]}
+
+
+def hours_node(hours, title, url, *, ids=None, subjects=None, upper=False,
+               mg=None, umbrella=False):
+    filt: dict = {"label": title[:80]}
+    if ids:
+        filt["courses"] = ids
+    if subjects:
+        filt["subjects"] = subjects
+    if upper:
+        filt["division"] = "upper"
+    node = {"type": "hours", "hours": float(hours), "title": title[:90],
+            "filter": filt, "source": src_of(url, title)}
+    if mg:
+        node["minGrade"] = mg
+    if umbrella:
+        node["umbrella"] = True
+    return node
+
+
+def courses_node(ids, mg, title, url, *, force_any=False):
+    cnodes = [{"type": "course", "course": i, **({"minGrade": mg} if mg else {})}
+              for i in ids]
+    if len(cnodes) == 1:
+        n = dict(cnodes[0])
+        n["source"] = src_of(url, title)
+        return n
+    kind = "anyN" if force_any else "all"
+    node = {"type": kind, "title": title[:90], "of": cnodes,
+            "source": src_of(url, title)}
+    if force_any:
+        node["n"] = 1
+    return node
+
+
+def note_node(text, url):
+    return {"type": "note", "text": text[:400], "title": text[:80],
+            "source": src_of(url, text)}
+
+
+def formalize(text: str, ids: list[str], url: str, min_grade: str | None,
+              subject_map: dict[str, str]):
+    """Turn a requirement fragment into a rule node, or None if it can't be
+    formalized (caller then decides note vs skip)."""
+    mg = grade_min(text, min_grade)
+    H = hours_count(text)
+    upper = bool(re.search(r"upper.division", text, re.I))
+    code = subject_scope(text, subject_map)
+    chosen = bool(CHOSEN_RE.search(text))
+
+    # 1. an hour count plus an enumerable course list
+    if H and ids:
+        return hours_node(H, text, url, ids=ids, upper=upper, mg=mg,
+                          umbrella=(H >= 12 and bool(code)))
+    # 2. an hour count scoped to a subject and/or upper-division
+    if H and (code or upper):
+        return hours_node(H, text, url, subjects=[code] if code else None,
+                          upper=upper, mg=mg, umbrella=(H >= 12))
+    # 3. a course list without a parseable hour count
+    if ids:
+        conn = connectives_of(text, ids)
+        if len(ids) == 1:
+            return courses_node(ids, mg, text, url)
+        if chosen and not H:
+            # "chosen from" without a count is ambiguous; only safe as an
+            # any-1 when it's a short either/or, else leave to a note
+            if conn == {"or"} and len(ids) <= 6:
+                return courses_node(ids, mg, text, url, force_any=True)
+            return None
+        if conn == {"or"}:
+            return courses_node(ids, mg, text, url, force_any=True)
+        return courses_node(ids, mg, text, url)  # 'and' / prescribed list
     return None
 
 
@@ -356,34 +447,25 @@ def prose_nodes(fragments: list[str], url: str, known: set[str],
     subjects_seen: list[str] = []
     for frag in fragments:
         text = clean(frag)
-        if len(text) < 12 or SKIP_PROSE.search(text):
+        if len(text) < 12:
             continue
         ids = [i for i in course_ids_in(frag) if i in known]
-        # keyword gate only applies to prose without any course references
-        if not ids and (len(text) < 25 or not REQ_HINT.search(text)):
+        # bare list headers ("The following courses are required:") carry no
+        # requirement on their own
+        if text.rstrip().endswith(":") and not ids and len(text) < 90:
             continue
-        if text.rstrip().endswith(":") and len(text) < 90 and not ids:
-            continue  # header introducing a following list
 
-        hos = hours_of_subject(text, subject_map, url)
-        if hos:
-            hnodes, code = hos
-            nodes += hnodes
-            if code:
-                subjects_seen.append(code)
-            # keep the detail as manual when named courses follow
-            if ids:
-                nodes.append({"type": "manual", "text": text,
-                              "title": "Specific courses within: " + hnodes[0]["title"],
-                              "source": {"url": url, "quote": text[:200]}})
+        node = formalize(text, ids, url, None, subject_map)
+        if node:
+            nodes.append(node)
+            if node.get("type") == "hours":
+                for s in node["filter"].get("subjects", []):
+                    subjects_seen.append(s)
             continue
-        cn = connective_node(frag, text, ids, url, None)
-        if cn:
-            nodes.append(cn)
-            continue
-        nodes.append({"type": "manual", "text": text,
-                      "title": text[:80],
-                      "source": {"url": url, "quote": text[:200]}})
+        # not formalizable: keep genuine requirement context as an
+        # informational note; drop pure boilerplate / navigation
+        if PROCESS_RE.search(text) or (len(text) >= 30 and REQ_HINT.search(text)):
+            nodes.append(note_node(text, url))
     return nodes, subjects_seen
 
 
@@ -441,11 +523,16 @@ def extract_minor_cert_page(edition: str, college: str, known: set[str]) -> list
             total = total or ttotal
         hours_m = re.search(r"(?:minimum of |requires |consists of a? ?(?:minimum of )?)(\d+)\s+(?:semester )?hours", intro)
         if not nodes:
-            if not intro:
+            # no structured table — try to formalize the intro prose, else
+            # keep it as an informational note
+            intro_ids = [i for i in course_ids_in(sec.split("<table", 1)[0]) if i in known]
+            fnode = formalize(intro, intro_ids, url, grade, subject_map_for(edition))
+            if fnode:
+                nodes = [fnode]
+            elif intro:
+                nodes = [note_node(intro, url)]
+            else:
                 continue
-            nodes = [{"type": "manual", "text": intro[:600],
-                      "title": "Requirements (see catalog)",
-                      "source": {"url": url}}]
         short = re.sub(r"-(minor|certificate)$", "", slugify(name))
         prog = {
             "id": f"{edition}/{ptype}/{short}",
@@ -584,9 +671,9 @@ def extract_degree_page(edition: str, college: str, rel: str,
         nodes += option_nodes[0]["of"]
 
     # prose-thin pages (engineering-style): pull the curriculum from the
-    # suggested-arrangement course table when few rules were extracted
-    auto_nodes = [n for n in nodes if n.get("type") != "manual"]
-    if len(auto_nodes) < 3:
+    # suggested-arrangement course table when few real rules were extracted
+    substantive = [n for n in nodes if n.get("type") not in ("note",)]
+    if len(substantive) < 3:
         prefix = cache_file.name[:-len(".html")]
         for sib in cache_file.parent.glob(f"{prefix}__sugg*.html"):
             sbody = textcontainer(sib)
@@ -596,20 +683,19 @@ def extract_degree_page(edition: str, college: str, rel: str,
             for tbl in re.findall(r'<table class="sc_courselist".*?</table>', sbody, re.S):
                 tnodes, _ = rules_from_table(parse_table(tbl), url, None, known)
                 snodes += tnodes
-            snodes = [n for n in snodes if n.get("type") != "manual" or
-                      "elective" in (n.get("text") or "").lower()]
+            snodes = [n for n in snodes if n.get("type") != "note"]
             if snodes:
                 nodes.append({"type": "all",
                               "title": "Curriculum (from suggested course arrangement)",
                               "of": snodes, "source": {"url": url}})
             break
 
-    # drop exact-duplicate manual items (shared boilerplate across options)
+    # drop exact-duplicate notes (shared boilerplate across option sections)
     seen_texts: set[str] = set()
     deduped = []
     for n in nodes:
         key = n.get("text") or ""
-        if n.get("type") == "manual":
+        if n.get("type") == "note":
             if key in seen_texts:
                 continue
             seen_texts.add(key)
@@ -660,6 +746,7 @@ def load_known_courses(edition: str) -> set[str]:
 
 
 def stats(nodes) -> tuple[int, int]:
+    """(scorable leaf count, manual count) — manual should always be 0."""
     total = manual = 0
 
     def walk(n):

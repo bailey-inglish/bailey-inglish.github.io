@@ -14,70 +14,313 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "hours",
-    "hours": 120.0,
-    "umbrella": true,
-    "title": "120 total hours",
-    "filter": {
-     "label": "Any coursework"
-    },
+    "type": "note",
+    "text": "A total of 120 semester hours is required. Thirty-nine hours must be in upper-division courses. At least 60 hours, including 24 hours of upper-division coursework, must be completed in residence at the University. Provided these residence rules are met, credit may be earned by examination, by extension, by correspondence (up to 30 percent of the hours required for the degree), or, with the approva",
+    "title": "A total of 120 semester hours is required. Thirty-nine hours must be in upper-di",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
-     "quote": "A total of 120 semester hours is required. Thirty-nine hours must be in upper-division courses. At least 60 hours, including 24 hours of upper-division coursework, must be completed in residence at th"
+     "quote": "A total of 120 semester hours is required. Thirty-nine hours must be in upper-division courses. At least 60 hours, including 24 hours of upper-division coursework, must be completed in residence at the University. Provid"
     }
    },
    {
-    "type": "manual",
-    "text": "Humanities and writing: English 316L, 316M, 316N, or 316P.†",
-    "title": "Humanities and writing: English 316L, 316M, 316N, or 316P.†",
+    "type": "note",
+    "text": "Students in this degree program may pursue any of the honors programs available to Bachelor of Arts, Plan I, students. These programs are described in the section Liberal Arts Honors Programs, Plan I. All students must complete the University’s Core Curriculum.†",
+    "title": "Students in this degree program may pursue any of the honors programs available ",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
-     "quote": "Humanities and writing: English 316L, 316M, 316N, or 316P.†"
+     "quote": "Students in this degree program may pursue any of the honors programs available to Bachelor of Arts, Plan I, students. These programs are described in the section Liberal Arts Honors Programs, Plan I. All students must c"
     }
    },
    {
-    "type": "manual",
-    "text": "Foreign language and culture: Students must attain beginning proficiency by completing one of the following options: Second-semester-level proficiency, or the equivalent, in a foreign language.",
-    "title": "Foreign language and culture: Students must attain beginning proficiency by comp",
+    "type": "note",
+    "text": "Up to three hours of coursework counted toward prescribed work or toward the core curriculum may also be counted toward a minor or certificate. Completion of a transcript-recognized minor or certificate is not a requirement of the Bachelor of Science in Economics, but may be earned.",
+    "title": "Up to three hours of coursework counted toward prescribed work or toward the cor",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
-     "quote": "Foreign language and culture: Students must attain beginning proficiency by completing one of the following options: Second-semester-level proficiency, or the equivalent, in a foreign language."
+     "quote": "Up to three hours of coursework counted toward prescribed work or toward the core curriculum may also be counted toward a minor or certificate. Completion of a transcript-recognized minor or certificate is not a requirem"
     }
    },
    {
-    "type": "manual",
-    "text": "Two three-hour foreign culture courses chosen from the same category. Courses taken to attain the required level of proficiency in a foreign language are not electives and may not be taken on a pass/fail basis.",
-    "title": "Two three-hour foreign culture courses chosen from the same category. Courses ta",
+    "type": "note",
+    "text": "The student must fulfill the University's General Requirements for graduation and the requirements given in the sections Special Requirements of the College of Liberal Arts and Applicability of Certain Courses. University requirements for graduation include a grade point average of at least 2.00 in all courses taken at the University (including credit by examination, correspondence, and extension)",
+    "title": "The student must fulfill the University's General Requirements for graduation an",
     "source": {
      "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
-     "quote": "Two three-hour foreign culture courses chosen from the same category. Courses taken to attain the required level of proficiency in a foreign language are not electives and may not be taken on a pass/f"
+     "quote": "The student must fulfill the University's General Requirements for graduation and the requirements given in the sections Special Requirements of the College of Liberal Arts and Applicability of Certain Courses. Universit"
     }
    },
    {
-    "type": "manual",
-    "text": "Mathematics, statistics, computer science, and advanced applications: At least 24 semester hours of coursework as outlined below. One of the following combinations of courses is required, with a grade of at least a C- in each course: Mathematics 408K and 408L, Mathematics 408C and 408D, Mathematics 408C and 408L, Mathematics 408Q and 408L, Mathematics 408N and 408S, Mathematics 408K and 408S, Mathematics 408C and 408S, Mathematics 408Q and 408S, or Mathematics 408N and 408L. Mathematics 408K (or other accepted first semester of calculus) satisfies the University core and the Liberal Arts mathematics requirement. Mathematics 403K and 403L (and transfer equivalents) may not be substituted for required mathematics courses.",
-    "title": "Mathematics, statistics, computer science, and advanced applications: At least 2",
+    "type": "anyN",
+    "n": 1,
+    "title": "One of the following options",
+    "of": [
+     {
+      "type": "all",
+      "title": "Prescribed Work",
+      "of": [
+       {
+        "type": "all",
+        "title": "Humanities and writing: English 316L, 316M, 316N, or 316P.†",
+        "of": [
+         {
+          "type": "course",
+          "course": "E 316L"
+         },
+         {
+          "type": "course",
+          "course": "E 316M"
+         },
+         {
+          "type": "course",
+          "course": "E 316N"
+         },
+         {
+          "type": "course",
+          "course": "E 316P"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
+         "quote": "Humanities and writing: English 316L, 316M, 316N, or 316P.†"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Foreign language and culture: Students must attain beginning proficiency by completing one of the following options: Second-semester-level proficiency, or the equivalent, in a foreign language.",
+        "title": "Foreign language and culture: Students must attain beginning proficiency by comp",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
+         "quote": "Foreign language and culture: Students must attain beginning proficiency by completing one of the following options: Second-semester-level proficiency, or the equivalent, in a foreign language."
+        }
+       },
+       {
+        "type": "note",
+        "text": "Two three-hour foreign culture courses chosen from the same category. Courses taken to attain the required level of proficiency in a foreign language are not electives and may not be taken on a pass/fail basis.",
+        "title": "Two three-hour foreign culture courses chosen from the same category. Courses ta",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
+         "quote": "Two three-hour foreign culture courses chosen from the same category. Courses taken to attain the required level of proficiency in a foreign language are not electives and may not be taken on a pass/fail basis."
+        }
+       },
+       {
+        "type": "note",
+        "text": "Social science: Three semester credit hours in a social science field, in addition to the course taken to satisfy the Social and Behavioral Science requirement of the core curriculum. This course may count toward the major.",
+        "title": "Social science: Three semester credit hours in a social science field, in additi",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
+         "quote": "Social science: Three semester credit hours in a social science field, in addition to the course taken to satisfy the Social and Behavioral Science requirement of the core curriculum. This course may count toward the maj"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Cultural expression, human experience, and thought: Three semester hours of approved coursework. This course must be in a field of study taught in the College of Liberal Arts. A course counted toward any requirement of the core curriculum may not also be counted toward this requirement. A course counted toward the foreign language and culture requirement may not also be counted toward this require",
+        "title": "Cultural expression, human experience, and thought: Three semester hours of appr",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
+         "quote": "Cultural expression, human experience, and thought: Three semester hours of approved coursework. This course must be in a field of study taught in the College of Liberal Arts. A course counted toward any requirement of t"
+        }
+       },
+       {
+        "type": "note",
+        "text": "Mathematics, statistics, computer science, and advanced applications: At least 24 semester hours of coursework as outlined below. One of the following combinations of courses is required, with a grade of at least a C- in each course: Mathematics 408K and 408L, Mathematics 408C and 408D, Mathematics 408C and 408L, Mathematics 408Q and 408L, Mathematics 408N and 408S, Mathematics 408K and 408S, Math",
+        "title": "Mathematics, statistics, computer science, and advanced applications: At least 2",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
+         "quote": "Mathematics, statistics, computer science, and advanced applications: At least 24 semester hours of coursework as outlined below. One of the following combinations of courses is required, with a grade of at least a C- in"
+        }
+       },
+       {
+        "type": "course",
+        "course": "ECO 329",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
+         "quote": "Economics 329 or an approved substitute. See the Economics advisors for a list of approved substitutes. This course counts toward the major."
+        }
+       },
+       {
+        "type": "all",
+        "title": "Either five or six of the following, totaling 16 to 21 hours: Computer Science 303E and 31",
+        "of": [
+         {
+          "type": "course",
+          "course": "C S 303E"
+         },
+         {
+          "type": "course",
+          "course": "C S 313E"
+         },
+         {
+          "type": "course",
+          "course": "C S 312"
+         },
+         {
+          "type": "course",
+          "course": "C S 323E"
+         },
+         {
+          "type": "course",
+          "course": "M 348"
+         },
+         {
+          "type": "course",
+          "course": "C S 327E"
+         },
+         {
+          "type": "course",
+          "course": "ECE 422C"
+         },
+         {
+          "type": "course",
+          "course": "M 340L"
+         },
+         {
+          "type": "course",
+          "course": "M 341"
+         },
+         {
+          "type": "course",
+          "course": "M 368K"
+         },
+         {
+          "type": "course",
+          "course": "M 427L"
+         },
+         {
+          "type": "course",
+          "course": "M 427J"
+         },
+         {
+          "type": "course",
+          "course": "M 427K"
+         },
+         {
+          "type": "course",
+          "course": "M 372K"
+         },
+         {
+          "type": "course",
+          "course": "M 374M"
+         },
+         {
+          "type": "course",
+          "course": "M 362K"
+         },
+         {
+          "type": "course",
+          "course": "M 378P"
+         },
+         {
+          "type": "course",
+          "course": "M 362M"
+         },
+         {
+          "type": "course",
+          "course": "ECE 351K"
+         },
+         {
+          "type": "course",
+          "course": "M 361K"
+         },
+         {
+          "type": "course",
+          "course": "M 365C"
+         },
+         {
+          "type": "course",
+          "course": "M 365D"
+         },
+         {
+          "type": "course",
+          "course": "M 358K"
+         },
+         {
+          "type": "course",
+          "course": "M 378K"
+         },
+         {
+          "type": "course",
+          "course": "M 378N"
+         },
+         {
+          "type": "course",
+          "course": "SDS 374E"
+         },
+         {
+          "type": "course",
+          "course": "SDS 322E"
+         },
+         {
+          "type": "course",
+          "course": "ECO 342L"
+         }
+        ],
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
+         "quote": "Either five or six of the following, totaling 16 to 21 hours: Computer Science 303E and 313E, or 312; Computer Science 323E or Mathematics 348; Computer Science 327E; Electrical and Computer Engineering 422C; Mathematics"
+        }
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Major Requirements",
+      "of": [
+       {
+        "type": "hours",
+        "hours": 32.0,
+        "title": "At least 32 semester hours of Economics are required, consisting of Economics 304K, 304L, ",
+        "filter": {
+         "label": "At least 32 semester hours of Economics are required, consisting of Economics 30",
+         "courses": [
+          "ECO 304K",
+          "ECO 304L",
+          "ECO 420S",
+          "ECO 320L",
+          "ECO 329",
+          "ECO 341K",
+          "ECO 441K",
+          "ECO 101S",
+          "ECO 420K",
+          "ECO 420S",
+          "ECO 342L",
+          "ECO 350L",
+          "ECO 354K",
+          "ECO 336M",
+          "ECO 420S",
+          "ECO 320L",
+          "ECO 329",
+          "ECO 341K",
+          "ECO 441K",
+          "ECO 420S"
+         ],
+         "division": "upper"
+        },
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
+         "quote": "At least 32 semester hours of Economics are required, consisting of Economics 304K, 304L, 420S, 320L, 329, 341K or 441K, and 101S, and at least 12 additional hours of upper-division coursework. At least 9 of the addition"
+        },
+        "minGrade": "C-"
+       }
+      ]
+     },
+     {
+      "type": "all",
+      "title": "Electives",
+      "of": [
+       {
+        "type": "note",
+        "text": "In addition to the core curriculum, prescribed work, minor requirements, and major requirements, the student must complete enough elective coursework to provide the 120 semester hours required for the degree. These 120 hours may include no more than 12 hours of conference courses and internship courses combined as described in Conference Courses and Internship Courses; 12 hours of Bible courses; n",
+        "title": "In addition to the core curriculum, prescribed work, minor requirements, and maj",
+        "source": {
+         "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
+         "quote": "In addition to the core curriculum, prescribed work, minor requirements, and major requirements, the student must complete enough elective coursework to provide the 120 semester hours required for the degree. These 120 h"
+        }
+       }
+      ]
+     }
+    ],
     "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
-     "quote": "Mathematics, statistics, computer science, and advanced applications: At least 24 semester hours of coursework as outlined below. One of the following combinations of courses is required, with a grade"
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Economics 329 or an approved substitute. See the Economics advisors for a list of approved substitutes. This course counts toward the major.",
-    "title": "Economics 329 or an approved substitute. See the Economics advisors for a list o",
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
-     "quote": "Economics 329 or an approved substitute. See the Economics advisors for a list of approved substitutes. This course counts toward the major."
-    }
-   },
-   {
-    "type": "manual",
-    "text": "Either five or six of the following, totaling 16 to 21 hours: Computer Science 303E and 313E, or 312; Computer Science 323E or Mathematics 348; Computer Science 327E; Electrical and Computer Engineering 422C; Mathematics 340L or 341; Mathematics 368K; Mathematics 427L; Mathematics 427J or 427K; Mathematics 372K or 374M; Mathematics 362K; Mathematics 378P; Mathematics 362M or Electrical and Computer Engineering 351K; Mathematics 361K or 365C; Mathematics 365D; Mathematics 358K or 378K; Mathematics 378N; Statistics and Data Sciences 374E; Statistics and Data Sciences 322E; Economics 342L; courses on an approved list (see the Economics Advisors). See the Economics Advisors for information about clusters of complementary courses within this list. Courses satisfying 5c of prescribed work may be used to satisfy university core requirements, but they may not count toward major requirements.",
-    "title": "Either five or six of the following, totaling 16 to 21 hours: Computer Science 3",
-    "source": {
-     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
-     "quote": "Either five or six of the following, totaling 16 to 21 hours: Computer Science 303E and 313E, or 312; Computer Science 323E or Mathematics 348; Computer Science 327E; Electrical and Computer Engineeri"
+     "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/"
     }
    },
    {
@@ -189,47 +432,11 @@
       }
      },
      {
-      "type": "manual",
-      "text": "Upper-division ECO course (Elective)",
-      "title": "Upper-division ECO course (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
-       "quote": "Upper-division ECO course (Elective)"
-      }
-     },
-     {
       "type": "course",
       "course": "ECO 320L",
       "title": "ECO 320L",
       "source": {
        "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Upper-division ECO course (Elective)",
-      "title": "Upper-division ECO course (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
-       "quote": "Upper-division ECO course (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Upper-division ECO course (Elective)",
-      "title": "Upper-division ECO course (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
-       "quote": "Upper-division ECO course (Elective)"
-      }
-     },
-     {
-      "type": "manual",
-      "text": "Upper-division ECO course (Elective)",
-      "title": "Upper-division ECO course (Elective)",
-      "source": {
-       "url": "https://catalog.utexas.edu/undergraduate/liberal-arts/degrees-and-programs/bs-economics/",
-       "quote": "Upper-division ECO course (Elective)"
       }
      }
     ],

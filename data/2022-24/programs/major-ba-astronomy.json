@@ -87,14 +87,17 @@
    {
     "type": "hours",
     "hours": 9.0,
-    "umbrella": true,
-    "title": "9 upper-division hours of astronomy",
+    "title": "Nine semester hours of upper-division coursework in astronomy, including at least two of t",
     "filter": {
-     "division": "upper",
-     "subjects": [
-      "AST"
+     "label": "Nine semester hours of upper-division coursework in astronomy, including at leas",
+     "courses": [
+      "AST 352K",
+      "AST 352L",
+      "AST 353",
+      "AST 358",
+      "AST 364P"
      ],
-     "label": "Upper-division astronomy"
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
@@ -102,16 +105,7 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Nine semester hours of upper-division coursework in astronomy, including at least two of the following courses: Astronomy 352K, 352L, 353, 358, 364P.",
-    "title": "Specific courses within: 9 upper-division hours of astronomy",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
-     "quote": "Nine semester hours of upper-division coursework in astronomy, including at least two of the following courses: Astronomy 352K, 352L, 353, 358, 364P."
-    }
-   },
-   {
-    "type": "manual",
+    "type": "note",
     "text": "Six additional upper-division hours in astronomy and/or physics",
     "title": "Six additional upper-division hours in astronomy and/or physics",
     "source": {
@@ -120,25 +114,39 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six hours of coursework (other than astronomy, lower-division physics, lower-division mathematics, and Mathematics 427J or 427K) approved by the undergraduate advisor;",
-    "title": "Six hours of coursework (other than astronomy, lower-division physics, lower-div",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six hours of coursework (other than astronomy, lower-division physics, lower-division math",
+    "filter": {
+     "label": "Six hours of coursework (other than astronomy, lower-division physics, lower-div",
+     "courses": [
+      "M 427J",
+      "M 427K"
+     ]
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
      "quote": "Six hours of coursework (other than astronomy, lower-division physics, lower-division mathematics, and Mathematics 427J or 427K) approved by the undergraduate advisor;"
     }
    },
    {
-    "type": "manual",
-    "text": "Six additional hours of upper-division physics, or six hours of upper-division coursework approved by the undergraduate advisor.",
-    "title": "Six additional hours of upper-division physics, or six hours of upper-division c",
+    "type": "hours",
+    "hours": 6.0,
+    "title": "Six additional hours of upper-division physics, or six hours of upper-division coursework ",
+    "filter": {
+     "label": "Six additional hours of upper-division physics, or six hours of upper-division c",
+     "subjects": [
+      "PHY"
+     ],
+     "division": "upper"
+    },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
      "quote": "Six additional hours of upper-division physics, or six hours of upper-division coursework approved by the undergraduate advisor."
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Students must earn a grade of at least C- in each mathematics and science course required for the degree, and a grade point average in these courses of at least 2.00.",
     "title": "Students must earn a grade of at least C- in each mathematics and science course",
     "source": {
@@ -147,12 +155,21 @@
     }
    },
    {
-    "type": "manual",
-    "text": "All astronomy majors should consult the astronomy undergraduate advisor regularly about the choice of appropriate courses in both the major and the additional coursework. Qualified students are encouraged to carry out a supervised research project by taking a conference course, such as Astronomy 375 or 379H. No more than six of the hours counted toward the major requirement may be earned in conference courses.",
-    "title": "All astronomy majors should consult the astronomy undergraduate advisor regularl",
+    "type": "all",
+    "title": "All astronomy majors should consult the astronomy undergraduate advisor regularly about th",
+    "of": [
+     {
+      "type": "course",
+      "course": "AST 375"
+     },
+     {
+      "type": "course",
+      "course": "AST 379H"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/natural-sciences/degrees-and-programs/bachelor-of-arts-plan-i/astronomy/",
-     "quote": "All astronomy majors should consult the astronomy undergraduate advisor regularly about the choice of appropriate courses in both the major and the additional coursework. Qualified students are encour"
+     "quote": "All astronomy majors should consult the astronomy undergraduate advisor regularly about the choice of appropriate courses in both the major and the additional coursework. Qualified students are encouraged to carry out a "
     }
    }
   ]
@@ -161,6 +178,6 @@
  "notes": "Auto-extracted from the catalog page; prose that could not be formalized appears as manual-check items. Verify against the linked catalog page.",
  "degreeType": "BA",
  "majorSubjects": [
-  "AST"
+  "PHY"
  ]
 }

@@ -15,7 +15,30 @@
   "title": "Requirements (auto-extracted)",
   "of": [
    {
-    "type": "manual",
+    "type": "hours",
+    "hours": 42.0,
+    "title": "Forty-two semester hours, including at least 30 hours of upper-division coursework, arrang",
+    "filter": {
+     "label": "Forty-two semester hours, including at least 30 hours of upper-division coursewo",
+     "division": "upper"
+    },
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
+     "quote": "Forty-two semester hours, including at least 30 hours of upper-division coursework, arranged by contract in consultation with the humanities advisor. None of these 42 hours may be counted toward the core curriculum or th"
+    },
+    "umbrella": true
+   },
+   {
+    "type": "note",
+    "text": "Students normally enter the program in the sophomore or junior year. In developing the contract, the student and the advisor define objectives, central subject areas, and a general plan of study, structured in accordance with the student’s interests. With the approval of the humanities advisor, the student chooses one of the following tracks:",
+    "title": "Students normally enter the program in the sophomore or junior year. In developi",
+    "source": {
+     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
+     "quote": "Students normally enter the program in the sophomore or junior year. In developing the contract, the student and the advisor define objectives, central subject areas, and a general plan of study, structured in accordance"
+    }
+   },
+   {
+    "type": "note",
     "text": "Track One Nine semester hours in a single field of study in the College of Liberal Arts",
     "title": "Track One Nine semester hours in a single field of study in the College of Liber",
     "source": {
@@ -24,7 +47,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Nine hours in one or more other fields of study in the College of Liberal Arts",
     "title": "Nine hours in one or more other fields of study in the College of Liberal Arts",
     "source": {
@@ -33,7 +56,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Nine hours in any field or fields outside the College of Liberal Arts",
     "title": "Nine hours in any field or fields outside the College of Liberal Arts",
     "source": {
@@ -42,7 +65,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Nine additional hours in any field or fields at the University",
     "title": "Nine additional hours in any field or fields at the University",
     "source": {
@@ -53,14 +76,13 @@
    {
     "type": "hours",
     "hours": 6.0,
-    "umbrella": true,
-    "title": "6 upper-division hours of humanities",
+    "title": "Six hours of upper-division coursework in humanities, including Humanities 370",
     "filter": {
-     "division": "upper",
-     "subjects": [
-      "HMN"
+     "label": "Six hours of upper-division coursework in humanities, including Humanities 370",
+     "courses": [
+      "HMN 370"
      ],
-     "label": "Upper-division humanities"
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
@@ -68,16 +90,7 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Six hours of upper-division coursework in humanities, including Humanities 370",
-    "title": "Specific courses within: 6 upper-division hours of humanities",
-    "source": {
-     "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
-     "quote": "Six hours of upper-division coursework in humanities, including Humanities 370"
-    }
-   },
-   {
-    "type": "manual",
+    "type": "note",
     "text": "Track Two Twelve semester hours in a single field of study in the College of Liberal Arts",
     "title": "Track Two Twelve semester hours in a single field of study in the College of Lib",
     "source": {
@@ -86,7 +99,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Nine hours in a second field of study in the College of Liberal Arts",
     "title": "Nine hours in a second field of study in the College of Liberal Arts",
     "source": {
@@ -95,7 +108,7 @@
     }
    },
    {
-    "type": "manual",
+    "type": "note",
     "text": "Fifteen additional hours in any field or fields at the University",
     "title": "Fifteen additional hours in any field or fields at the University",
     "source": {
@@ -106,14 +119,13 @@
    {
     "type": "hours",
     "hours": 6.0,
-    "umbrella": true,
-    "title": "6 upper-division hours of humanities",
+    "title": "Six hours of upper-division coursework in humanities, including Humanities 370",
     "filter": {
-     "division": "upper",
-     "subjects": [
-      "HMN"
+     "label": "Six hours of upper-division coursework in humanities, including Humanities 370",
+     "courses": [
+      "HMN 370"
      ],
-     "label": "Upper-division humanities"
+     "division": "upper"
     },
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
@@ -121,9 +133,18 @@
     }
    },
    {
-    "type": "manual",
-    "text": "Students in the Humanities Honors Program must use Humanities 679HA and 679HB to fulfill requirements 1e or 2d.",
-    "title": "Students in the Humanities Honors Program must use Humanities 679HA and 679HB to",
+    "type": "all",
+    "title": "Students in the Humanities Honors Program must use Humanities 679HA and 679HB to fulfill r",
+    "of": [
+     {
+      "type": "course",
+      "course": "HMN 679HA"
+     },
+     {
+      "type": "course",
+      "course": "HMN 679HB"
+     }
+    ],
     "source": {
      "url": "https://catalog.utexas.edu/archive/2023-24/undergraduate/liberal-arts/degrees-and-programs/bachelor-of-arts-plan-i/humanities/",
      "quote": "Students in the Humanities Honors Program must use Humanities 679HA and 679HB to fulfill requirements 1e or 2d."
